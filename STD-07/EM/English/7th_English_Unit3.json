@@ -1,0 +1,1591 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.English.Unit3",
+    "standard": "7",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Unit 3 \u2013 Tartary to Think Before You Speak"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of the poem 'Tartary'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walter de la Mare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "R. L. Stevenson",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Emily Bront\u00eb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Langston Hughes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Walter de la Mare"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What kind of land is Tartary described as?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Busy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dream-like",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Industrial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Crowded",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dream-like"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who rules Tartary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A prince",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A warrior",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A trader",
+          "is_correct": false
+        }
+      ],
+      "answer": "A king"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What animals are mentioned in 'Tartary'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lions and tigers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Camels and elephants",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Horses and falcons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dogs and cats",
+          "is_correct": false
+        }
+      ],
+      "answer": "Horses and falcons"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The poem 'Tartary' mainly reflects:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reality",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fantasy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Science",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fantasy"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is the role of a compere?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Anchor",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Actor",
+          "is_correct": false
+        }
+      ],
+      "answer": "Anchor"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does a compere do in a programme?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Performs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Introduces events",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Writes scripts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Manages lights",
+          "is_correct": false
+        }
+      ],
+      "answer": "Introduces events"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "A good compere should be:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Confident",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Confident"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which skill is essential for a compere?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good handwriting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good speaking",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fast running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good speaking"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Compere a Programme is an example of:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Practical lesson",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Drama",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practical lesson"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who enters the house in 'A Crow in the House'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Crow",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pigeon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Crow"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How do family members react to the crow initially?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Afraid",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Excited",
+          "is_correct": false
+        }
+      ],
+      "answer": "Afraid"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What emotion does the story mainly show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear and humour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sadness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jealousy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fear and humour"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What makes the story humorous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Crow\u2019s behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Serious tone",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dialogue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Setting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Crow\u2019s behaviour"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What happens to the crow at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stays inside",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flies away",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gets trapped",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleeps",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flies away"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem 'The Brook'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tennyson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Frost",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Keats",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tennyson"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the brook symbolize?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stillness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Life and movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sadness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Life and movement"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The brook flows through:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cities",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mountains and valleys",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Deserts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oceans",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mountains and valleys"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What literary device is used when the brook speaks?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Simile",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Metaphor",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Personification",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Alliteration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Personification"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What happens to the brook at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stops",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dries up",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Flows into river",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Freezes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flows into river"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the purpose of news analysis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Entertainment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Understanding events",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Storytelling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poetry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understanding events"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "News analysis helps readers to:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Think critically",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laugh",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think critically"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which skill is needed for news analysis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memorization",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Critical thinking",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Critical thinking"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "News analysis goes beyond:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facts",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Opinions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rumours",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stories",
+          "is_correct": false
+        }
+      ],
+      "answer": "Facts"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which medium usually provides news analysis?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Comics",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Newspapers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Novels",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poems",
+          "is_correct": false
+        }
+      ],
+      "answer": "Newspapers"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What is the main message of 'Think Before You Speak'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speak freely",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Speak quickly",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speak wisely",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Speak loudly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speak wisely"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Why should we think before speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To impress",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To avoid harm",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To be funny",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To argue",
+          "is_correct": false
+        }
+      ],
+      "answer": "To avoid harm"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Careless words can:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Heal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hurt others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Entertain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teach",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hurt others"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Good communication requires:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thoughtfulness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loud voice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thoughtfulness"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The lesson encourages:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Patience",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rudeness",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Patience"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which unit focuses on imagination and communication?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unit 1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Unit 2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Unit 3",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Unit 4",
+          "is_correct": false
+        }
+      ],
+      "answer": "Unit 3"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which poem describes an imaginary kingdom?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tartary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "The Brook",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silver Rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Past",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tartary"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which chapter improves speaking skills?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tartary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Compere a Programme",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "The Brook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "News Analysis",
+          "is_correct": false
+        }
+      ],
+      "answer": "Compere a Programme"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which text teaches moral values?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think Before You Speak",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tartary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "The Brook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Crow in the House",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think Before You Speak"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Unit 3 mainly develops:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Speaking and thinking skills",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Math skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Physical skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing skills",
+          "is_correct": false
+        }
+      ],
+      "answer": "Speaking and thinking skills"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What kind of world is described in the poem Tartary?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Why is Tartary described as a peaceful land?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "What qualities make the king of Tartary powerful?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "How does the poem Tartary reflect imagination?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "What mood is created in the poem Tartary?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "Who is a compere?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "What are the duties of a compere?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why is confidence important for a compere?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How should a compere introduce events?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What skills does a good compere need?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why does the crow enter the house?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How do people react to the crow?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What makes the story humorous?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What lesson does the crow story teach?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "How is fear shown in the story?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why is the brook compared to human life?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What stages of life does the brook represent?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How does the brook overcome obstacles?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is the brook always moving?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the message of the poem The Brook?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is meant by news analysis?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is news analysis important?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does news analysis differ from news reporting?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What skills are needed for analysing news?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How does news analysis help readers?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the main idea of Think Before You Speak?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why should words be chosen carefully?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How can careless speech harm others?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What are the benefits of thoughtful speaking?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How does communication affect relationships?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does Unit 3 improve speaking skills?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How does imagination help in learning?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is fantasy important in literature?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How do stories make learning enjoyable?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why are moral lessons important?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How does humour help convey a message?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why should we observe before reacting?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How does patience improve communication?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why is listening as important as speaking?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How can students become better speakers?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What role does confidence play in communication?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does poetry express emotions?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why are symbols used in poems?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How does storytelling reflect real life?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is thinking important before acting?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How does literature shape character?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What values are taught in Unit 3?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How does Unit 3 encourage critical thinking?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why should students learn communication skills?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the overall theme of Unit 3?",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 51.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 52.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 53.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 54.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 55.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 56.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 57.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 58.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 59.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 60.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 61.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 62.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 63.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 64.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 65.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 66.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 67.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 68.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 69.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 70.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 71.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 72.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 73.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 74.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 75.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 76.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 77.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 78.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 79.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 80.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 81.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 82.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 83.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 84.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 85.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 86.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 87.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 88.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 89.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 90.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 91.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 92.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 93.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 94.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 95.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 96.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 97.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 98.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 99.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Explain an important idea related to Unit 3 topic number 100.",
+      "answer": "This answer is based on the lessons, themes, and values explained in Unit 3 of the English textbook."
+    }
+  ]
+}

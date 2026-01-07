@@ -1,0 +1,1344 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 1",
+    "chapter_number": 2,
+    "chapter_name": "विश्वव्यापक प्रेम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘विश्वव्यापक प्रेम’ कविता के रचयिता कौन हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कबीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राष्ट्रसंत तुकडोजी महाराज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सूरदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुलसीदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रसंत तुकडोजी महाराज"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कविता में कवि किस भावना पर बल देते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घृणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार ईश्वर कहाँ नहीं है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मंदिर में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कहीं नहीं",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हर जगह है",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आकाश में",
+          "is_correct": false
+        }
+      ],
+      "answer": "हर जगह है"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कविता में ईश्वर को किस रूप में देखा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनेक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अदृश्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सीमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनेक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘हर देश में तू, हर भेष में तू’ पंक्ति क्या दर्शाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईश्वर की सर्वव्यापकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मानव विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देशभक्ति",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईश्वर की सर्वव्यापकता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कविता में सागर से क्या बनता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मेघ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झील",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेघ"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कविता के अनुसार सभी जीवों में क्या समान है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रूप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईश्वर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भाषा",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईश्वर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवि ने ईश्वर को किससे जोड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शक्ति",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विश्व में एकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संघर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भेदभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अलगाव",
+          "is_correct": false
+        }
+      ],
+      "answer": "विश्व में एकता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘तेरी रंगभूमि यह विश्व भरा’ का अर्थ क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विश्व ईश्वर का मंच है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विश्व युद्धभूमि है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विश्व सीमित है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्व भ्रम है",
+          "is_correct": false
+        }
+      ],
+      "answer": "विश्व ईश्वर का मंच है"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कविता में बादल किसका रूप है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जल का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अग्नि का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वायु का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पृथ्वी का",
+          "is_correct": false
+        }
+      ],
+      "answer": "जल का"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार गुरु की क्या भूमिका है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मार्गदर्शन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मार्गदर्शन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘सब खेल में, मेल में तू ही तू है’ का भाव क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईश्वर हर क्रिया में है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मानव श्रेष्ठ है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति अलग है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जीवन कठिन है",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईश्वर हर क्रिया में है"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कविता में ईश्वर को किससे नहीं जोड़ा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सौंदर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घृणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "एकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "घृणा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कविता में प्रकृति के कौन-से तत्वों का उल्लेख है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सागर, बादल, नदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पर्वत, शहर, सड़क",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घर, गाँव, नगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्ध, शांति, शक्ति",
+          "is_correct": false
+        }
+      ],
+      "answer": "सागर, बादल, नदी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार ईश्वर का स्वरूप कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक और सर्वत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सीमित",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानव जैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अदृश्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "एक और सर्वत्र"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कविता का भाव किस प्रकार का है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आध्यात्मिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यंग्यात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "आध्यात्मिक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कविता में ‘गुरुदेव’ किसके प्रतीक हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कविता में सौंदर्य किसका बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईश्वर का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकृति का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानव का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धन का",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईश्वर का"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कविता किस विचारधारा को प्रोत्साहित करती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भेदभाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवता"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार विश्व क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईश्वर की क्रीड़ाभूमि",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संघर्ष का क्षेत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानव की संपत्ति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अराजकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईश्वर की क्रीड़ाभूमि"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कविता में ईश्वर को कैसे पहचाना जा सकता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बल से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धन से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम से"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कविता का उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकता का संदेश देना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर उत्पन्न करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलोचना",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकता का संदेश देना"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कविता में ‘तू एक ही है’ का क्या आशय है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक ईश्वर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक मानव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एक देश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एक भाषा",
+          "is_correct": false
+        }
+      ],
+      "answer": "एक ईश्वर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवि ने ईश्वर को कितने नामों से पुकारा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनेक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सीमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनेक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कविता में कौन-सा गुण प्रमुख है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घृणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कविता का स्वर कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांत और सकारात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आक्रामक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यंग्यपूर्ण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत और सकारात्मक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार सभी रूप किसके हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईश्वर के",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मानव के",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकृति के",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समय के",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईश्वर के"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कविता में ईश्वर की तुलना किससे की गई है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जल से",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाश से",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अंधकार से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धन से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाश से"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कविता में कौन-सा संदेश नहीं है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाईचारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घृणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मानवता",
+          "is_correct": false
+        }
+      ],
+      "answer": "घृणा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कविता के अनुसार गुरु की कृपा से क्या मिलता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिव्य दृष्टि",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "यश",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिव्य दृष्टि"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कविता में ईश्वर की उपस्थिति कहाँ बताई गई है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हर जगह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल मंदिर में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल प्रकृति में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवल मन में",
+          "is_correct": false
+        }
+      ],
+      "answer": "हर जगह"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कविता का केंद्रीय भाव क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्वत्र प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संघर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वियोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वत्र प्रेम"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कविता किस प्रकार की रचना है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आध्यात्मिक कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "आध्यात्मिक कविता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कविता में कौन-सा भाव प्रधान है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समरसता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "समरसता"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कविता का संदेश किसके लिए है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्त मानवता के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल संतों के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल बच्चों के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवल कवि के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्त मानवता के लिए"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार ईश्वर को कैसे अनुभव किया जा सकता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेम और भक्ति से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बल से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम और भक्ति से"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कविता में प्रकृति किसका रूप है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईश्वर का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मानव का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समय का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष का",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईश्वर का"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कविता का समापन किस भाव से होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संघर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वियोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकता"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "‘विश्वव्यापक प्रेम’ कविता का मुख्य भाव क्या है?",
+      "answer": "ईश्वर और प्रेम की सर्वव्यापकता।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "इस कविता के कवि कौन हैं?",
+      "answer": "राष्ट्रसंत तुकडोजी महाराज।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कविता में ईश्वर को कैसा बताया गया है?",
+      "answer": "हर जगह विद्यमान।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "‘हर देश में तू’ पंक्ति का क्या अर्थ है?",
+      "answer": "ईश्वर सभी देशों में है।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार ईश्वर के नाम कैसे हैं?",
+      "answer": "अनेक लेकिन स्वरूप एक।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कविता में सागर से बादल बनने का उदाहरण क्यों दिया गया है?",
+      "answer": "एकता समझाने के लिए।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कविता का उद्देश्य क्या है?",
+      "answer": "मानवता और प्रेम का संदेश देना।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कविता में गुरु की कृपा का क्या महत्व है?",
+      "answer": "दिव्य सत्य को समझने में सहायता।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कविता में प्रकृति को क्यों शामिल किया गया है?",
+      "answer": "ईश्वर की व्यापकता दिखाने के लिए।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "‘रंगभूमि’ शब्द का प्रयोग क्यों किया गया है?",
+      "answer": "विश्व को ईश्वर का मंच बताने के लिए।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कविता में कौन-सा जीवन मूल्य प्रमुख है?",
+      "answer": "प्रेम।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवि किस प्रकार की एकता की बात करते हैं?",
+      "answer": "संपूर्ण विश्व की।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कविता में ईश्वर को एक क्यों कहा गया है?",
+      "answer": "क्योंकि वह सर्वत्र एक ही है।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कविता का स्वर कैसा है?",
+      "answer": "शांत और आध्यात्मिक।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कविता से हमें क्या सीख मिलती है?",
+      "answer": "भेदभाव छोड़कर प्रेम अपनाना।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कविता में मानव और प्रकृति का संबंध क्या बताया गया है?",
+      "answer": "दोनों में ईश्वर की उपस्थिति।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवि ने जल चक्र का उदाहरण क्यों दिया है?",
+      "answer": "एकता और निरंतरता समझाने के लिए।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कविता में सौंदर्य किसका है?",
+      "answer": "ईश्वर का।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कविता में ‘तू एक ही है’ से क्या स्पष्ट होता है?",
+      "answer": "ईश्वर की एकता।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कविता में प्रेम को क्यों महत्वपूर्ण माना गया है?",
+      "answer": "क्योंकि वही ईश्वर का स्वरूप है।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कविता में कौन-सी भावना प्रमुख है?",
+      "answer": "समरसता।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कविता में ईश्वर को कैसे अनुभव किया गया है?",
+      "answer": "हर रूप में।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार विश्व कैसा है?",
+      "answer": "ईश्वर से भरा हुआ।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कविता का संदेश आज के समाज के लिए क्यों महत्वपूर्ण है?",
+      "answer": "भेदभाव दूर करने के लिए।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कविता में गुरु का स्थान क्या है?",
+      "answer": "मार्गदर्शक का।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कविता में ‘मेल’ शब्द का क्या भाव है?",
+      "answer": "सामंजस्य।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कविता मानव को क्या बनने की प्रेरणा देती है?",
+      "answer": "प्रेमपूर्ण।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कविता में ईश्वर और मानव का संबंध क्या है?",
+      "answer": "अभिन्न।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कविता में प्रकृति के उदाहरण क्यों दिए गए हैं?",
+      "answer": "सर्वव्यापकता समझाने के लिए।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कविता का मूल संदेश एक वाक्य में लिखिए।",
+      "answer": "ईश्वर और प्रेम हर जगह है।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कविता में भेदभाव के बारे में क्या संकेत मिलता है?",
+      "answer": "भेदभाव निरर्थक है।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कविता में एकता किस स्तर पर दिखाई गई है?",
+      "answer": "वैश्विक स्तर पर।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कविता का नाम ‘विश्वव्यापक प्रेम’ क्यों उचित है?",
+      "answer": "क्योंकि प्रेम हर जगह बताया गया है।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कविता में ईश्वर को किस रूप में स्वीकार किया गया है?",
+      "answer": "सर्वव्यापक शक्ति के रूप में।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कविता से छात्रों को क्या प्रेरणा मिलती है?",
+      "answer": "सभी से प्रेम करना।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कविता में प्रकृति को ईश्वर का रूप क्यों कहा गया है?",
+      "answer": "क्योंकि उसमें वही शक्ति है।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कविता का सामाजिक संदेश क्या है?",
+      "answer": "मानवता और भाईचारा।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कविता में ‘गुरुदेव’ शब्द का महत्व क्या है?",
+      "answer": "ज्ञान देने वाले का।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कविता किस भावना को मजबूत करती है?",
+      "answer": "विश्व बंधुत्व।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कविता पढ़कर आपके मन में कौन-सा भाव उत्पन्न होता है?",
+      "answer": "शांति और प्रेम।"
+    }
+  ]
+}

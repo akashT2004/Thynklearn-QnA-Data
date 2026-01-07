@@ -1,0 +1,1591 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.English.Unit4",
+    "standard": "7",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Unit 4 \u2013 Under the Greenwood Tree to Papa Panov\u2019s Special Christmas"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who wrote the poem 'Under the Greenwood Tree'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "William Shakespeare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "R. L. Stevenson",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Alfred Tennyson",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Robert Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the poet invite people to do in 'Under the Greenwood Tree'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sing"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where is the greenwood tree located?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "In a city",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "In a forest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Near a river",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "On a mountain",
+          "is_correct": false
+        }
+      ],
+      "answer": "In a forest"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What kind of life is praised in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxurious",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Simple and joyful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Busy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Modern",
+          "is_correct": false
+        }
+      ],
+      "answer": "Simple and joyful"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The poem celebrates life close to:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Technology",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cities",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What is 'Unke Munke Timpetoo' mainly about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Biography",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The tone of 'Unke Munke Timpetoo' is:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Serious",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Humorous",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humorous"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which quality is encouraged by this poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Creativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Creativity"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The poem appeals most to:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Logic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Memory",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Unusual words in the poem mainly create:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fun"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the central character in 'The Red-Headed League'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Holmes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wilson",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Watson",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spaulding",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wilson"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who solves the mystery in the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Police",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sherlock Holmes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wilson",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbour",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sherlock Holmes"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The Red-Headed League story is a:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Detective story",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Biography",
+          "is_correct": false
+        }
+      ],
+      "answer": "Detective story"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What quality of Holmes is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strength",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Intelligence",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Intelligence"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The story teaches the importance of:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What feeling is expressed in 'Home Sweet Home'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Love",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Love"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the poet value the most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fame",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Home",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Home"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Home is described as a place of:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Comfort",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Comfort"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The poem shows emotional attachment to:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Country",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Home",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Office",
+          "is_correct": false
+        }
+      ],
+      "answer": "Home"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The poem highlights the importance of:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Belonging",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adventure",
+          "is_correct": false
+        }
+      ],
+      "answer": "Belonging"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the theme of 'Papa Panov\u2019s Special Christmas'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revenge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who is Papa Panov?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A shoemaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A shoemaker"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Papa Panov expects a visit from:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jesus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A friend",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A neighbour",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jesus"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How does Papa Panov show kindness?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By praying only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By singing",
+          "is_correct": false
+        }
+      ],
+      "answer": "By helping others"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness to all",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Power is important",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Money matters",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear people",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness to all"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which unit focuses strongly on values and emotions?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unit 1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Unit 2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Unit 3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Unit 4",
+          "is_correct": true
+        }
+      ],
+      "answer": "Unit 4"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which text is a detective story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tartary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The Red-Headed League",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Home Sweet Home",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Unke Munke",
+          "is_correct": false
+        }
+      ],
+      "answer": "The Red-Headed League"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which poem celebrates imagination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Under the Greenwood Tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Unke Munke Timpetoo",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Home Sweet Home",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silver Rain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Unke Munke Timpetoo"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which lesson emphasizes helping others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Brook",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Papa Panov\u2019s Special Christmas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tartary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Souvenir",
+          "is_correct": false
+        }
+      ],
+      "answer": "Papa Panov\u2019s Special Christmas"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Unit 4 mainly teaches:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Technical skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Values and emotions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mathematics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Geography",
+          "is_correct": false
+        }
+      ],
+      "answer": "Values and emotions"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Home Sweet Home'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "John Howard Payne",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shakespeare",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Keats",
+          "is_correct": false
+        }
+      ],
+      "answer": "John Howard Payne"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The Red-Headed League is written by:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Arthur Conan Doyle",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Agatha Christie",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "R. L. Stevenson",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Roald Dahl",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arthur Conan Doyle"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which quality best describes Papa Panov?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greedy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kind",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Proud",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kind"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which poem invites people to live freely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Under the Greenwood Tree",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Home Sweet Home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Unke Munke",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tartary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Under the Greenwood Tree"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which story highlights Christmas spirit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Red-Headed League",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Papa Panov\u2019s Special Christmas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Crow in the House",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Souvenir",
+          "is_correct": false
+        }
+      ],
+      "answer": "Papa Panov\u2019s Special Christmas"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "What message does 'Under the Greenwood Tree' convey?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "Why does the poet invite people to live in the forest?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "How does nature bring joy in the poem?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is the mood of 'Under the Greenwood Tree'?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Why is a simple life praised?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "What is special about the language in 'Unke Munke Timpetoo'?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "How does the poem encourage creativity?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "Why are meaningless words used?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem create?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "How does imagination help children?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Who is Mr. Wilson in 'The Red-Headed League'?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why does Sherlock Holmes investigate the case?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What makes Holmes a great detective?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "How does observation help solve the mystery?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why is home considered precious?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How does the poem express love for home?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What emotions are linked with home?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is home better than wealth?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How does the poem connect with readers?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who is Papa Panov?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does Papa Panov expect on Christmas?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How does Papa Panov help others?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why does he feel disappointed initially?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How does he realize the true meaning of Christmas?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the moral of Papa Panov\u2019s story?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does kindness change lives?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is helping others important?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How does the story inspire readers?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What values does Papa Panov show?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does Unit 4 highlight human values?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why are emotions important in literature?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How does imagination enrich reading?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What role does kindness play in society?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why should students learn moral lessons?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "How does detective fiction develop thinking?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is observation an important skill?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How does literature teach empathy?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What makes a story memorable?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How do poems express feelings?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is simplicity important in life?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does Unit 4 relate to real life?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What qualities make a good human being?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How do stories influence behaviour?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why should we value relationships?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "How does Christmas symbolize love?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What lessons can students apply in daily life?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How does Unit 4 develop emotional intelligence?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is kindness greater than wealth?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the overall theme of Unit 4?",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 51.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 52.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 53.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 54.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 55.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 56.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 57.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 58.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 59.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 60.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 61.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 62.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 63.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 64.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 65.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 66.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 67.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 68.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 69.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 70.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 71.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 72.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 73.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 74.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 75.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 76.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 77.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 78.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 79.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 80.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 81.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 82.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 83.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 84.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 85.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 86.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 87.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 88.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 89.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 90.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 91.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 92.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 93.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 94.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 95.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 96.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 97.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 98.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 99.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "Explain an important value or idea related to Unit 4 topic number 100.",
+      "answer": "This answer is based on the themes, values, and lessons explained in Unit 4 of the English textbook."
+    }
+  ]
+}

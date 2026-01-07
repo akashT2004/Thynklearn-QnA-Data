@@ -1,0 +1,1372 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 2",
+    "chapter_number": 6,
+    "chapter_name": "कुछ स्मृतियाँ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘कुछ स्मृतियाँ’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बीती यादें",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भविष्य की योजनाएँ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "बीती यादें"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों का संबंध किससे है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभवों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कल्पना से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभवों से"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लेखक किस प्रकार की स्मृतियों का वर्णन करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बाल्यकाल की",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल दुखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल सुखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काल्पनिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "बाल्यकाल की"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ लेखक के लिए क्या महत्व रखती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन का आधार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बोझ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भ्रम",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन का आधार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों को कैसे प्रस्तुत किया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनात्मक रूप से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वैज्ञानिक रूप से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हास्य रूप में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावने रूप में",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावनात्मक रूप से"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार स्मृतियाँ क्या सिखाती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन मूल्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन मूल्य"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियाँ किस समय की हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अतीत की",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वर्तमान की",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भविष्य की",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कल्पित",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतीत की"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लेखक किस भावना के साथ स्मृतियाँ साझा करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्नेह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेह"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ जीवन में क्या भूमिका निभाती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मार्गदर्शन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भ्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मार्गदर्शन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाठ का भाव कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्मरणात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आक्रामक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यंग्यात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्मरणात्मक"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘कुछ स्मृतियाँ’ पाठ किस विधा का उदाहरण है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्मरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कहानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्मरण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लेखक स्मृतियों को क्यों संजोकर रखता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनात्मक जुड़ाव के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावनात्मक जुड़ाव के कारण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पाठ में बचपन की स्मृतियाँ क्यों महत्वपूर्ण हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यक्तित्व निर्माण के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर पैदा करने के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यक्तित्व निर्माण के लिए"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार स्मृतियाँ मन को कैसे प्रभावित करती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवेदनशील बनाती हैं",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठोर बनाती हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डराती हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भटकाती हैं",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील बनाती हैं"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों का वर्णन किस शैली में है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरल और भावुक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठिन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वैज्ञानिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरस",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरल और भावुक"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ लेखक को क्या अनुभूति कराती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुख और सीख",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुख और सीख"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठ में लेखक किस काल की घटनाओं को याद करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बचपन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "यौवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वृद्धावस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भविष्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "बचपन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ किस रूप में जीवित रहती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मन में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "काग़ज़ में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कानून में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग में",
+          "is_correct": false
+        }
+      ],
+      "answer": "मन में"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार स्मृतियाँ क्यों अमूल्य हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्योंकि वे अनुभव देती हैं",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्योंकि वे डराती हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्योंकि वे दुख देती हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्योंकि वे भ्रम हैं",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्योंकि वे अनुभव देती हैं"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों का प्रभाव कैसा बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दीर्घकालीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्षणिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हानिकारक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "दीर्घकालीन"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पाठ में लेखक की भाषा कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जटिल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वैज्ञानिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरल"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ लेखक को किससे जोड़ती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अतीत से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भविष्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतीत से"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों का उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन को समझना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिखावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन को समझना"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार स्मृतियाँ कैसे बनती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभवों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कल्पना से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभवों से"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियाँ किस भाव को प्रकट करती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्नेह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेह"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ व्यक्ति को क्या सिखाती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव से सीख",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव से सीख"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाठ में लेखक किसे याद करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपने बचपन को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल घटनाओं को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भविष्य को",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपने बचपन को"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ जीवन में क्यों आवश्यक हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वे मार्गदर्शन देती हैं",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वे डराती हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वे भ्रम हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वे हानिकारक हैं",
+          "is_correct": false
+        }
+      ],
+      "answer": "वे मार्गदर्शन देती हैं"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों का स्वर कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उग्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावनात्मक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘कुछ स्मृतियाँ’ पाठ का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यादों से सीख लेना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भविष्य भूलना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर में जीना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "यादों से सीख लेना"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ लेखक को किस प्रकार समृद्ध करती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव से"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों का संबंध किससे जोड़ा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन मूल्यों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन मूल्यों से"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "लेखक स्मृतियों को क्यों साझा करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव बाँटने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव बाँटने के लिए"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियाँ किसका प्रतिबिंब हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध का",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन का"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ व्यक्ति के व्यक्तित्व को कैसे प्रभावित करती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिपक्व बनाकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डराकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भ्रमित करके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कमज़ोर बनाकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिपक्व बनाकर"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पाठ में लेखक की दृष्टि कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवेदनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निराशावादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरपोक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "स्मृतियाँ लेखक के लिए क्यों प्रिय हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्योंकि वे जीवन से जुड़ी हैं",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्योंकि वे डराती हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्योंकि वे कठिन हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्योंकि वे संयोग हैं",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्योंकि वे जीवन से जुड़ी हैं"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पाठ में स्मृतियों से क्या प्राप्त होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव और सीख",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव और सीख"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार स्मृतियाँ किसका आधार हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तमान का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भविष्य का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग का",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्तमान का"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "‘कुछ स्मृतियाँ’ पाठ हमें क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यादों का महत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भूल जाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "यादों का महत्व"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘कुछ स्मृतियाँ’ पाठ का मुख्य विषय क्या है?",
+      "answer": "लेखक की बीती हुई यादों का भावनात्मक वर्णन।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियाँ किससे जुड़ी हैं?",
+      "answer": "लेखक के अनुभवों से।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "लेखक किस काल की स्मृतियों का वर्णन करता है?",
+      "answer": "बचपन की।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ लेखक के लिए क्यों महत्वपूर्ण हैं?",
+      "answer": "वे जीवन से जुड़े अनुभव सिखाती हैं।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "पाठ का भाव कैसा है?",
+      "answer": "स्मरणात्मक और भावनात्मक।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "लेखक स्मृतियों को क्यों संजोकर रखता है?",
+      "answer": "भावनात्मक जुड़ाव के कारण।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियाँ क्या सिखाती हैं?",
+      "answer": "जीवन मूल्यों को।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार स्मृतियाँ क्यों अमूल्य हैं?",
+      "answer": "क्योंकि वे अनुभव देती हैं।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पाठ में लेखक की भाषा कैसी है?",
+      "answer": "सरल और सहज।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ जीवन में क्या भूमिका निभाती हैं?",
+      "answer": "मार्गदर्शन की।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियों का वर्णन किस शैली में है?",
+      "answer": "संस्मरणात्मक शैली में।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ लेखक को किससे जोड़ती हैं?",
+      "answer": "अतीत से।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाठ में बचपन की स्मृतियाँ क्यों महत्वपूर्ण हैं?",
+      "answer": "व्यक्तित्व निर्माण के लिए।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "लेखक स्मृतियों के माध्यम से क्या प्रकट करता है?",
+      "answer": "अपने भाव।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ मन को कैसे प्रभावित करती हैं?",
+      "answer": "संवेदनशील बनाती हैं।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियों का उद्देश्य क्या है?",
+      "answer": "जीवन को समझना।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "लेखक किस भावना के साथ स्मृतियाँ साझा करता है?",
+      "answer": "स्नेह के साथ।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ व्यक्ति को क्या सिखाती हैं?",
+      "answer": "अनुभव से सीख।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पाठ में लेखक क्या याद करता है?",
+      "answer": "अपने जीवन की घटनाएँ।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ किस रूप में जीवित रहती हैं?",
+      "answer": "मन में।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियों का प्रभाव कैसा बताया गया है?",
+      "answer": "दीर्घकालीन।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार स्मृतियाँ कैसे बनती हैं?",
+      "answer": "अनुभवों से।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियाँ किस भाव को दर्शाती हैं?",
+      "answer": "स्नेह और अपनापन।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ जीवन को कैसे समृद्ध करती हैं?",
+      "answer": "अनुभव देकर।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पाठ में लेखक की दृष्टि कैसी है?",
+      "answer": "संवेदनशील।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ लेखक के लिए क्यों प्रिय हैं?",
+      "answer": "क्योंकि वे जीवन से जुड़ी हैं।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियों से क्या प्राप्त होता है?",
+      "answer": "सीख और अनुभव।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "लेखक स्मृतियों को क्यों साझा करता है?",
+      "answer": "अनुभव बाँटने के लिए।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियाँ किसका प्रतिबिंब हैं?",
+      "answer": "जीवन का।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ व्यक्ति को कैसे परिपक्व बनाती हैं?",
+      "answer": "अनुभव से।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियों का महत्व क्यों बताया गया है?",
+      "answer": "क्योंकि वे जीवन का मार्गदर्शन करती हैं।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार स्मृतियाँ किसका आधार हैं?",
+      "answer": "वर्तमान का।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियों का संदेश क्या है?",
+      "answer": "यादों से सीख लेना।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "स्मृतियाँ लेखक को कौन-सी अनुभूति कराती हैं?",
+      "answer": "सुख और आत्मीयता।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन और स्मृतियों का क्या संबंध है?",
+      "answer": "गहरा और स्थायी।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार स्मृतियाँ क्यों आवश्यक हैं?",
+      "answer": "क्योंकि वे जीवन सिखाती हैं।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पाठ में स्मृतियों की भूमिका क्या है?",
+      "answer": "जीवन मूल्यों को उजागर करना।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "‘कुछ स्मृतियाँ’ पाठ से हमें क्या सीख मिलती है?",
+      "answer": "अपने अनुभवों को महत्व देना।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पाठ का केंद्रीय विचार क्या है?",
+      "answer": "स्मृतियाँ जीवन को अर्थ देती हैं।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "‘कुछ स्मृतियाँ’ पाठ हमें किस मूल्य की शिक्षा देता है?",
+      "answer": "अनुभव और आत्मचिंतन।"
+    }
+  ]
+}

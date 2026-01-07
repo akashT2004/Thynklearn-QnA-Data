@@ -1,0 +1,1550 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.08",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "How Seasons Occur – Part 2"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Seasons occur mainly due to the ____ of the Earth.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "shape",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "tilt of axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "size",
+          "is_correct": false
+        }
+      ],
+      "answer": "tilt of axis"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The Earth’s axis is tilted at about ____ degrees.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "23.5",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "66.5",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "45",
+          "is_correct": false
+        }
+      ],
+      "answer": "23.5"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The tilted axis remains ____ while revolving around the Sun.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "changing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "upright",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "parallel",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "vertical",
+          "is_correct": false
+        }
+      ],
+      "answer": "parallel"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "The circle dividing day and night is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "axis",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "terminator",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "terminator"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When the Northern Hemisphere is tilted towards the Sun, it experiences ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "summer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "autumn",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "summer"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "When the Southern Hemisphere is tilted away from the Sun, it experiences ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "spring",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "winter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "monsoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "winter"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Summer solstice in Northern Hemisphere occurs around ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "21 June",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "23 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "22 December",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 June"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Winter solstice in Northern Hemisphere occurs around ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "22 December",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "21 March",
+          "is_correct": false
+        }
+      ],
+      "answer": "22 December"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Equinox occurs when ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day is longer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "night is longer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "day and night are equal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sun is overhead",
+          "is_correct": false
+        }
+      ],
+      "answer": "day and night are equal"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Vernal equinox occurs around ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 March",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "23 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "22 December",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 March"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Autumnal equinox occurs around ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "23 September",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "22 December",
+          "is_correct": false
+        }
+      ],
+      "answer": "23 September"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "On equinox, the Sun’s rays fall vertically on the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tropic of Cancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tropic of Capricorn",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equator"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The longest day in Northern Hemisphere is on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "winter solstice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "summer solstice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "equinox",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "monsoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "summer solstice"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The shortest day in Northern Hemisphere is on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "summer solstice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equinox",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "winter solstice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "winter solstice"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Opposite seasons occur in ____ hemispheres.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "same",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "adjacent",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "both",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "different",
+          "is_correct": true
+        }
+      ],
+      "answer": "different"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "When it is summer in India, it is ____ in Australia.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "spring",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "winter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "autumn",
+          "is_correct": false
+        }
+      ],
+      "answer": "winter"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The Sun appears overhead at Tropic of Cancer during ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "22 December",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "23 September",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 June"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The Sun appears overhead at Tropic of Capricorn during ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 December",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "23 September",
+          "is_correct": false
+        }
+      ],
+      "answer": "22 December"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Sun appears overhead at Equator on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "solstices",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equinoxes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "monsoons",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "any day",
+          "is_correct": false
+        }
+      ],
+      "answer": "equinoxes"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Change of seasons does not occur at ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "tropics",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "temperate zone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "equator"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Seasons are reversed in ____ Hemisphere.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Northern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Western",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Southern",
+          "is_correct": true
+        }
+      ],
+      "answer": "Southern"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Days and nights are nearly equal throughout the year at ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "poles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "tropics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "temperate zone",
+          "is_correct": false
+        }
+      ],
+      "answer": "equator"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "At the poles, days and nights last for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "24 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "months",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "days",
+          "is_correct": false
+        }
+      ],
+      "answer": "months"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Polar day is also known as ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "white night",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "midnight sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "long night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "dark day",
+          "is_correct": false
+        }
+      ],
+      "answer": "midnight sun"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Polar night occurs when the Sun ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rises",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sets daily",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "does not rise",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "is overhead",
+          "is_correct": false
+        }
+      ],
+      "answer": "does not rise"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The length of day and night changes due to Earth’s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "tilt",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "shape",
+          "is_correct": false
+        }
+      ],
+      "answer": "tilt"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The Tropic of Cancer is located at ____ latitude.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "23.5° N",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "23.5° S",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "66.5° N",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "0°",
+          "is_correct": false
+        }
+      ],
+      "answer": "23.5° N"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The Tropic of Capricorn is located at ____ latitude.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "23.5° N",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23.5° S",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "66.5° S",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "0°",
+          "is_correct": false
+        }
+      ],
+      "answer": "23.5° S"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The Arctic Circle is located at ____ latitude.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "23.5° N",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "66.5° N",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "66.5° S",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "0°",
+          "is_correct": false
+        }
+      ],
+      "answer": "66.5° N"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The Antarctic Circle is located at ____ latitude.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "66.5° N",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23.5° S",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "66.5° S",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "0°",
+          "is_correct": false
+        }
+      ],
+      "answer": "66.5° S"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Areas beyond Arctic Circle experience ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "moderate seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "polar day and night",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "monsoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "equinox only",
+          "is_correct": false
+        }
+      ],
+      "answer": "polar day and night"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The tilt of Earth’s axis causes ____ distribution of heat.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "unequal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "uniform",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "random",
+          "is_correct": false
+        }
+      ],
+      "answer": "unequal"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Temperate zones experience ____ seasons.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "two",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "three",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "four",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "four"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Equatorial regions have ____ seasonal variation.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "high",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "low",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "extreme",
+          "is_correct": false
+        }
+      ],
+      "answer": "low"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The apparent movement of the Sun is due to Earth’s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tilt",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "shape",
+          "is_correct": false
+        }
+      ],
+      "answer": "rotation"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "The reason for longer summer days is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "closer Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tilted axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "fast rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "elliptical orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "tilted axis"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The reason for colder winters is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "farther Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tilted axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "slow rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "short days",
+          "is_correct": false
+        }
+      ],
+      "answer": "tilted axis"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The Sun’s rays are more direct in ____ season.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "summer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "autumn",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "summer"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The Sun’s rays are slanting in ____ season.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "spring",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "winter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "monsoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "winter"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which latitude has no seasons?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tropic of Cancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tropic of Capricorn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Arctic Circle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equator"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which zone experiences extreme seasons?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Temperate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Polar",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tropical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Polar"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "The main cause of seasons is Earth’s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "distance from Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tilt and revolution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "rotation only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shape",
+          "is_correct": false
+        }
+      ],
+      "answer": "tilt and revolution"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "If Earth had no tilt, seasons would be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "same",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "more",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "absent",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "unequal",
+          "is_correct": false
+        }
+      ],
+      "answer": "absent"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What causes seasons on Earth?",
+      "answer": "The tilt of Earth’s axis and its revolution around the Sun."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is axial tilt?",
+      "answer": "The inclination of Earth’s axis from the vertical."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is the angle of Earth’s tilt?",
+      "answer": "About 23.5 degrees."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is revolution of Earth?",
+      "answer": "Movement of Earth around the Sun."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is solstice?",
+      "answer": "The longest or shortest day of the year."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is equinox?",
+      "answer": "When day and night are equal."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "When does summer solstice occur in Northern Hemisphere?",
+      "answer": "Around 21 June."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "When does winter solstice occur in Northern Hemisphere?",
+      "answer": "Around 22 December."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "When does vernal equinox occur?",
+      "answer": "Around 21 March."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "When does autumnal equinox occur?",
+      "answer": "Around 23 September."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What happens on summer solstice?",
+      "answer": "Northern Hemisphere gets maximum sunlight."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happens on winter solstice?",
+      "answer": "Northern Hemisphere gets minimum sunlight."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why days are longer in summer?",
+      "answer": "Hemisphere is tilted towards the Sun."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why nights are longer in winter?",
+      "answer": "Hemisphere is tilted away from the Sun."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why opposite seasons occur in hemispheres?",
+      "answer": "Due to Earth’s tilt."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is terminator?",
+      "answer": "Imaginary line separating day and night."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why equator has almost equal day and night?",
+      "answer": "Sun’s rays are nearly vertical."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why poles experience long days and nights?",
+      "answer": "Tilt of Earth’s axis."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is polar day?",
+      "answer": "Continuous daylight at poles."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is polar night?",
+      "answer": "Continuous darkness at poles."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why polar regions are cold?",
+      "answer": "Sun’s rays are slanting."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What are temperate zones?",
+      "answer": "Regions between tropics and polar circles."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How many seasons do temperate zones have?",
+      "answer": "Four seasons."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why equatorial region has no seasons?",
+      "answer": "Little variation in Sun’s rays."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is Tropic of Cancer?",
+      "answer": "Latitude at 23.5° North."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is Tropic of Capricorn?",
+      "answer": "Latitude at 23.5° South."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is Arctic Circle?",
+      "answer": "Latitude at 66.5° North."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is Antarctic Circle?",
+      "answer": "Latitude at 66.5° South."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why seasons are important?",
+      "answer": "They affect climate and life."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How seasons affect agriculture?",
+      "answer": "Decide cropping patterns."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How seasons affect clothing?",
+      "answer": "Different clothes for different seasons."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How seasons affect wildlife?",
+      "answer": "Animals adapt to seasonal changes."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why summers are hotter?",
+      "answer": "Direct Sun rays and longer days."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why winters are colder?",
+      "answer": "Slanting Sun rays and shorter days."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is apparent movement of Sun?",
+      "answer": "Sun seems to move due to Earth’s rotation."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What would happen without Earth’s tilt?",
+      "answer": "No seasons would occur."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why length of day changes?",
+      "answer": "Due to Earth’s tilt."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the importance of equinox?",
+      "answer": "Equal day and night worldwide."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why study seasons?",
+      "answer": "To understand climate changes."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is seasonal variation?",
+      "answer": "Change in climate during year."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How seasons differ near poles?",
+      "answer": "Extreme daylight and darkness."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why Earth receives unequal heat?",
+      "answer": "Tilted axis and spherical shape."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is the role of revolution in seasons?",
+      "answer": "Changes Sun’s apparent position."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why Sun appears overhead at different latitudes?",
+      "answer": "Earth’s tilted axis."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which hemisphere has summer in December?",
+      "answer": "Southern Hemisphere."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Which hemisphere has winter in June?",
+      "answer": "Southern Hemisphere."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why seasons reverse between hemispheres?",
+      "answer": "Tilted axis orientation."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the longest day at poles called?",
+      "answer": "Polar day."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the longest night at poles called?",
+      "answer": "Polar night."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How seasons affect human activities?",
+      "answer": "Decide lifestyle and work."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why equator has uniform climate?",
+      "answer": "Direct Sun rays throughout year."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How seasons affect temperature?",
+      "answer": "Change in Sun’s angle."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why poles are always cold?",
+      "answer": "Sun rays never direct."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is seasonal cycle?",
+      "answer": "Regular sequence of seasons."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why seasons repeat every year?",
+      "answer": "Due to Earth’s revolution."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How seasons affect tourism?",
+      "answer": "Seasonal travel patterns."
+    }
+  ]
+}

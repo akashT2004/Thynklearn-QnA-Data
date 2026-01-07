@@ -1,0 +1,978 @@
+{
+  "class": 7,
+  "subject": "Civics",
+  "chapter_number": 6,
+  "chapter_name": "Directive Principles of State Policy and Fundamental Duties",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Directive Principles are included in which part of Constitution?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part IVA",
+        "Part V"
+      ],
+      "answer": "Part IV"
+    },
+    {
+      "question_id": 2,
+      "question": "Fundamental Duties are included in which part?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part IVA",
+        "Part V"
+      ],
+      "answer": "Part IVA"
+    },
+    {
+      "question_id": 3,
+      "question": "How many Directive Principles are there?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "More than 20"
+      ],
+      "answer": "More than 20"
+    },
+    {
+      "question_id": 4,
+      "question": "How many Fundamental Duties are there?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "11"
+    },
+    {
+      "question_id": 5,
+      "question": "Which article deals with Directive Principles?",
+      "options": [
+        "Article 14",
+        "Article 32",
+        "Articles 36-51",
+        "Articles 51A"
+      ],
+      "answer": "Articles 36-51"
+    },
+    {
+      "question_id": 6,
+      "question": "Which article lists Fundamental Duties?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 32",
+        "Article 51A"
+      ],
+      "answer": "Article 51A"
+    },
+    {
+      "question_id": 7,
+      "question": "Directive Principles are:",
+      "options": [
+        "Justiciable",
+        "Non-justiciable",
+        "Punishable",
+        "Optional"
+      ],
+      "answer": "Non-justiciable"
+    },
+    {
+      "question_id": 8,
+      "question": "Fundamental Duties were added by which amendment?",
+      "options": [
+        "42nd",
+        "44th",
+        "73rd",
+        "86th"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "question_id": 9,
+      "question": "Directive Principles aim at:",
+      "options": [
+        "Political justice",
+        "Social and economic justice",
+        "Legal justice",
+        "Only freedom"
+      ],
+      "answer": "Social and economic justice"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Directive Principle promotes village panchayats?",
+      "options": [
+        "Article 40",
+        "Article 44",
+        "Article 48",
+        "Article 51"
+      ],
+      "answer": "Article 40"
+    },
+    {
+      "question_id": 11,
+      "question": "Which principle promotes uniform civil code?",
+      "options": [
+        "Article 39",
+        "Article 40",
+        "Article 44",
+        "Article 48"
+      ],
+      "answer": "Article 44"
+    },
+    {
+      "question_id": 12,
+      "question": "Which principle promotes protection of environment?",
+      "options": [
+        "Article 40",
+        "Article 44",
+        "Article 48A",
+        "Article 51"
+      ],
+      "answer": "Article 48A"
+    },
+    {
+      "question_id": 13,
+      "question": "Which principle promotes international peace?",
+      "options": [
+        "Article 44",
+        "Article 48",
+        "Article 51",
+        "Article 39"
+      ],
+      "answer": "Article 51"
+    },
+    {
+      "question_id": 14,
+      "question": "Which principle ensures equal pay for equal work?",
+      "options": [
+        "Article 39",
+        "Article 40",
+        "Article 44",
+        "Article 51"
+      ],
+      "answer": "Article 39"
+    },
+    {
+      "question_id": 15,
+      "question": "Which principle promotes child welfare?",
+      "options": [
+        "Article 39",
+        "Article 48",
+        "Article 51",
+        "Article 40"
+      ],
+      "answer": "Article 39"
+    },
+    {
+      "question_id": 16,
+      "question": "Directive Principles guide which organ?",
+      "options": [
+        "Judiciary",
+        "Legislature",
+        "Executive",
+        "Both Legislature and Executive"
+      ],
+      "answer": "Both Legislature and Executive"
+    },
+    {
+      "question_id": 17,
+      "question": "Which duty promotes national unity?",
+      "options": [
+        "Respect Constitution",
+        "Unity and integrity",
+        "Scientific temper",
+        "Harmony"
+      ],
+      "answer": "Unity and integrity"
+    },
+    {
+      "question_id": 18,
+      "question": "Which duty promotes environmental protection?",
+      "options": [
+        "Safeguard property",
+        "Scientific temper",
+        "Protect environment",
+        "Brotherhood"
+      ],
+      "answer": "Protect environment"
+    },
+    {
+      "question_id": 19,
+      "question": "Which duty promotes scientific attitude?",
+      "options": [
+        "Scientific temper",
+        "Unity",
+        "Discipline",
+        "Harmony"
+      ],
+      "answer": "Scientific temper"
+    },
+    {
+      "question_id": 20,
+      "question": "Which duty promotes harmony?",
+      "options": [
+        "Brotherhood",
+        "Unity",
+        "Discipline",
+        "Environment"
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 21,
+      "question": "Which duty respects Constitution?",
+      "options": [
+        "Article 51A(a)",
+        "Article 51A(b)",
+        "Article 51A(c)",
+        "Article 51A(d)"
+      ],
+      "answer": "Article 51A(a)"
+    },
+    {
+      "question_id": 22,
+      "question": "Directive Principles are enforceable by courts?",
+      "options": [
+        "Yes",
+        "No",
+        "Partially",
+        "Sometimes"
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 23,
+      "question": "Fundamental Duties are enforceable?",
+      "options": [
+        "Yes",
+        "No",
+        "Partially",
+        "Only during emergency"
+      ],
+      "answer": "No"
+    },
+    {
+      "question_id": 24,
+      "question": "Which principle promotes welfare state?",
+      "options": [
+        "Directive Principles",
+        "Fundamental Rights",
+        "Duties",
+        "Schedules"
+      ],
+      "answer": "Directive Principles"
+    },
+    {
+      "question_id": 25,
+      "question": "Which part ensures moral obligations?",
+      "options": [
+        "Fundamental Rights",
+        "Directive Principles",
+        "Fundamental Duties",
+        "Schedules"
+      ],
+      "answer": "Fundamental Duties"
+    },
+    {
+      "question_id": 26,
+      "question": "Which principle supports Gandhian ideas?",
+      "options": [
+        "Article 40",
+        "Article 44",
+        "Article 48",
+        "Article 51"
+      ],
+      "answer": "Article 40"
+    },
+    {
+      "question_id": 27,
+      "question": "Which principle supports cottage industries?",
+      "options": [
+        "Article 43",
+        "Article 44",
+        "Article 51",
+        "Article 48"
+      ],
+      "answer": "Article 43"
+    },
+    {
+      "question_id": 28,
+      "question": "Which principle supports free legal aid?",
+      "options": [
+        "Article 39A",
+        "Article 40",
+        "Article 44",
+        "Article 48"
+      ],
+      "answer": "Article 39A"
+    },
+    {
+      "question_id": 29,
+      "question": "Which principle promotes education?",
+      "options": [
+        "Article 45",
+        "Article 48",
+        "Article 51",
+        "Article 44"
+      ],
+      "answer": "Article 45"
+    },
+    {
+      "question_id": 30,
+      "question": "Which duty promotes discipline?",
+      "options": [
+        "Safeguard property",
+        "Unity",
+        "Discipline",
+        "Harmony"
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 31,
+      "question": "Which duty respects national symbols?",
+      "options": [
+        "Article 51A(a)",
+        "Article 51A(b)",
+        "Article 51A(c)",
+        "Article 51A(d)"
+      ],
+      "answer": "Article 51A(b)"
+    },
+    {
+      "question_id": 32,
+      "question": "Which duty promotes women's dignity?",
+      "options": [
+        "Harmony",
+        "Brotherhood",
+        "Scientific temper",
+        "Unity"
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 33,
+      "question": "Which principle promotes health?",
+      "options": [
+        "Article 47",
+        "Article 48",
+        "Article 44",
+        "Article 39"
+      ],
+      "answer": "Article 47"
+    },
+    {
+      "question_id": 34,
+      "question": "Which principle promotes prohibition of alcohol?",
+      "options": [
+        "Article 47",
+        "Article 48",
+        "Article 44",
+        "Article 39"
+      ],
+      "answer": "Article 47"
+    },
+    {
+      "question_id": 35,
+      "question": "Which principle promotes agriculture?",
+      "options": [
+        "Article 48",
+        "Article 40",
+        "Article 44",
+        "Article 51"
+      ],
+      "answer": "Article 48"
+    },
+    {
+      "question_id": 36,
+      "question": "Which principle supports animal protection?",
+      "options": [
+        "Article 48",
+        "Article 47",
+        "Article 44",
+        "Article 39"
+      ],
+      "answer": "Article 48"
+    },
+    {
+      "question_id": 37,
+      "question": "Which duty promotes public property protection?",
+      "options": [
+        "Safeguard property",
+        "Unity",
+        "Discipline",
+        "Harmony"
+      ],
+      "answer": "Safeguard property"
+    },
+    {
+      "question_id": 38,
+      "question": "Which duty promotes heritage protection?",
+      "options": [
+        "Preserve heritage",
+        "Unity",
+        "Discipline",
+        "Scientific temper"
+      ],
+      "answer": "Preserve heritage"
+    },
+    {
+      "question_id": 39,
+      "question": "Which duty encourages excellence?",
+      "options": [
+        "Strive for excellence",
+        "Unity",
+        "Harmony",
+        "Environment"
+      ],
+      "answer": "Strive for excellence"
+    },
+    {
+      "question_id": 40,
+      "question": "Directive Principles aim to establish:",
+      "options": [
+        "Welfare State",
+        "Police State",
+        "Religious State",
+        "Capitalist State"
+      ],
+      "answer": "Welfare State"
+    },
+    {
+      "question_id": 41,
+      "question": "Which duty promotes gender equality?",
+      "options": [
+        "Brotherhood",
+        "Unity",
+        "Harmony",
+        "Discipline"
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 42,
+      "question": "Which principle supports workers?",
+      "options": [
+        "Article 43",
+        "Article 44",
+        "Article 51",
+        "Article 40"
+      ],
+      "answer": "Article 43"
+    },
+    {
+      "question_id": 43,
+      "question": "Which principle promotes justice?",
+      "options": [
+        "Article 39",
+        "Article 47",
+        "Article 48",
+        "Article 51"
+      ],
+      "answer": "Article 39"
+    },
+    {
+      "question_id": 44,
+      "question": "Which duty encourages respect for elders?",
+      "options": [
+        "Brotherhood",
+        "Unity",
+        "Discipline",
+        "Harmony"
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 45,
+      "question": "Directive Principles are based on:",
+      "options": [
+        "French model",
+        "Irish model",
+        "British model",
+        "American model"
+      ],
+      "answer": "Irish model"
+    },
+    {
+      "question_id": 46,
+      "question": "Fundamental Duties were inspired by:",
+      "options": [
+        "USA",
+        "Russia",
+        "Japan",
+        "France"
+      ],
+      "answer": "Russia"
+    },
+    {
+      "question_id": 47,
+      "question": "Which principle promotes international law?",
+      "options": [
+        "Article 51",
+        "Article 40",
+        "Article 44",
+        "Article 39"
+      ],
+      "answer": "Article 51"
+    },
+    {
+      "question_id": 48,
+      "question": "Which duty promotes constitutional values?",
+      "options": [
+        "Respect Constitution",
+        "Unity",
+        "Harmony",
+        "Environment"
+      ],
+      "answer": "Respect Constitution"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What are Directive Principles of State Policy?",
+      "answer": "They are guidelines for the government."
+    },
+    {
+      "question_id": 2,
+      "question": "Which part of Constitution contains Directive Principles?",
+      "answer": "Part IV."
+    },
+    {
+      "question_id": 3,
+      "question": "Are Directive Principles enforceable?",
+      "answer": "No, they are non-justiciable."
+    },
+    {
+      "question_id": 4,
+      "question": "Why are Directive Principles important?",
+      "answer": "They promote social and economic justice."
+    },
+    {
+      "question_id": 5,
+      "question": "What is the aim of Directive Principles?",
+      "answer": "To establish a welfare state."
+    },
+    {
+      "question_id": 6,
+      "question": "Which articles deal with Directive Principles?",
+      "answer": "Articles 36 to 51."
+    },
+    {
+      "question_id": 7,
+      "question": "What is a welfare state?",
+      "answer": "A state that works for people's welfare."
+    },
+    {
+      "question_id": 8,
+      "question": "Which principle promotes equal pay?",
+      "answer": "Article 39."
+    },
+    {
+      "question_id": 9,
+      "question": "Which principle promotes village panchayats?",
+      "answer": "Article 40."
+    },
+    {
+      "question_id": 10,
+      "question": "Which principle promotes uniform civil code?",
+      "answer": "Article 44."
+    },
+    {
+      "question_id": 11,
+      "question": "Which principle promotes education?",
+      "answer": "Article 45."
+    },
+    {
+      "question_id": 12,
+      "question": "Which principle promotes health?",
+      "answer": "Article 47."
+    },
+    {
+      "question_id": 13,
+      "question": "Which principle promotes environmental protection?",
+      "answer": "Article 48A."
+    },
+    {
+      "question_id": 14,
+      "question": "Which principle promotes international peace?",
+      "answer": "Article 51."
+    },
+    {
+      "question_id": 15,
+      "question": "What are Gandhian principles?",
+      "answer": "Principles based on Gandhian ideas."
+    },
+    {
+      "question_id": 16,
+      "question": "Name one Gandhian principle.",
+      "answer": "Promotion of village panchayats."
+    },
+    {
+      "question_id": 17,
+      "question": "Which principle supports cottage industries?",
+      "answer": "Article 43."
+    },
+    {
+      "question_id": 18,
+      "question": "Which principle supports free legal aid?",
+      "answer": "Article 39A."
+    },
+    {
+      "question_id": 19,
+      "question": "Why are Directive Principles non-justiciable?",
+      "answer": "Courts cannot enforce them."
+    },
+    {
+      "question_id": 20,
+      "question": "Which organ follows Directive Principles?",
+      "answer": "Government."
+    },
+    {
+      "question_id": 21,
+      "question": "What are Fundamental Duties?",
+      "answer": "Moral duties of citizens."
+    },
+    {
+      "question_id": 22,
+      "question": "Which part contains Fundamental Duties?",
+      "answer": "Part IVA."
+    },
+    {
+      "question_id": 23,
+      "question": "Which article lists Fundamental Duties?",
+      "answer": "Article 51A."
+    },
+    {
+      "question_id": 24,
+      "question": "How many Fundamental Duties are there?",
+      "answer": "There are 11 duties."
+    },
+    {
+      "question_id": 25,
+      "question": "When were Fundamental Duties added?",
+      "answer": "By the 42nd Amendment."
+    },
+    {
+      "question_id": 26,
+      "question": "Why were Fundamental Duties added?",
+      "answer": "To promote responsible citizenship."
+    },
+    {
+      "question_id": 27,
+      "question": "Name any two Fundamental Duties.",
+      "answer": "Respect Constitution and protect environment."
+    },
+    {
+      "question_id": 28,
+      "question": "Why should citizens follow duties?",
+      "answer": "For national development."
+    },
+    {
+      "question_id": 29,
+      "question": "Which duty promotes unity?",
+      "answer": "Unity and integrity of nation."
+    },
+    {
+      "question_id": 30,
+      "question": "Which duty promotes harmony?",
+      "answer": "Brotherhood."
+    },
+    {
+      "question_id": 31,
+      "question": "Which duty promotes scientific temper?",
+      "answer": "Develop scientific temper."
+    },
+    {
+      "question_id": 32,
+      "question": "Which duty protects environment?",
+      "answer": "Protect natural environment."
+    },
+    {
+      "question_id": 33,
+      "question": "Which duty protects public property?",
+      "answer": "Safeguard public property."
+    },
+    {
+      "question_id": 34,
+      "question": "Which duty promotes heritage protection?",
+      "answer": "Preserve heritage."
+    },
+    {
+      "question_id": 35,
+      "question": "Which duty encourages excellence?",
+      "answer": "Strive for excellence."
+    },
+    {
+      "question_id": 36,
+      "question": "Are Fundamental Duties enforceable?",
+      "answer": "No, they are not enforceable."
+    },
+    {
+      "question_id": 37,
+      "question": "Why are duties important?",
+      "answer": "They balance rights."
+    },
+    {
+      "question_id": 38,
+      "question": "What is the relationship between rights and duties?",
+      "answer": "They complement each other."
+    },
+    {
+      "question_id": 39,
+      "question": "Why should rights and duties coexist?",
+      "answer": "For social harmony."
+    },
+    {
+      "question_id": 40,
+      "question": "What happens if duties are ignored?",
+      "answer": "Society suffers."
+    },
+    {
+      "question_id": 41,
+      "question": "Which duty respects national symbols?",
+      "answer": "Respect Constitution and symbols."
+    },
+    {
+      "question_id": 42,
+      "question": "Which duty promotes discipline?",
+      "answer": "Safeguard property and unity."
+    },
+    {
+      "question_id": 43,
+      "question": "Which duty promotes equality?",
+      "answer": "Brotherhood."
+    },
+    {
+      "question_id": 44,
+      "question": "Which duty promotes dignity of women?",
+      "answer": "Brotherhood."
+    },
+    {
+      "question_id": 45,
+      "question": "What is social justice?",
+      "answer": "Fair treatment in society."
+    },
+    {
+      "question_id": 46,
+      "question": "How do Directive Principles ensure justice?",
+      "answer": "By guiding policies."
+    },
+    {
+      "question_id": 47,
+      "question": "What is economic justice?",
+      "answer": "Fair distribution of resources."
+    },
+    {
+      "question_id": 48,
+      "question": "Which principle ensures economic justice?",
+      "answer": "Article 39."
+    },
+    {
+      "question_id": 49,
+      "question": "Why is environment protection important?",
+      "answer": "For future generations."
+    },
+    {
+      "question_id": 50,
+      "question": "How do duties help democracy?",
+      "answer": "By responsible citizens."
+    },
+    {
+      "question_id": 51,
+      "question": "What is national integrity?",
+      "answer": "Unity of nation."
+    },
+    {
+      "question_id": 52,
+      "question": "Why is unity important?",
+      "answer": "For strength of country."
+    },
+    {
+      "question_id": 53,
+      "question": "What is constitutional morality?",
+      "answer": "Respecting Constitution values."
+    },
+    {
+      "question_id": 54,
+      "question": "How do duties promote morality?",
+      "answer": "By ethical conduct."
+    },
+    {
+      "question_id": 55,
+      "question": "Which principle promotes animal protection?",
+      "answer": "Article 48."
+    },
+    {
+      "question_id": 56,
+      "question": "What is prohibition?",
+      "answer": "Ban on alcohol."
+    },
+    {
+      "question_id": 57,
+      "question": "Which principle promotes prohibition?",
+      "answer": "Article 47."
+    },
+    {
+      "question_id": 58,
+      "question": "What is free legal aid?",
+      "answer": "Legal help to poor."
+    },
+    {
+      "question_id": 59,
+      "question": "Why is free legal aid important?",
+      "answer": "Ensures justice."
+    },
+    {
+      "question_id": 60,
+      "question": "What is decentralization?",
+      "answer": "Distribution of power."
+    },
+    {
+      "question_id": 61,
+      "question": "Which principle promotes decentralization?",
+      "answer": "Article 40."
+    },
+    {
+      "question_id": 62,
+      "question": "What is international peace?",
+      "answer": "Peace among nations."
+    },
+    {
+      "question_id": 63,
+      "question": "Why should India promote peace?",
+      "answer": "For global harmony."
+    },
+    {
+      "question_id": 64,
+      "question": "What is scientific temper?",
+      "answer": "Logical thinking."
+    },
+    {
+      "question_id": 65,
+      "question": "Why is scientific temper important?",
+      "answer": "For progress."
+    },
+    {
+      "question_id": 66,
+      "question": "What is harmony?",
+      "answer": "Peaceful coexistence."
+    },
+    {
+      "question_id": 67,
+      "question": "How do duties promote harmony?",
+      "answer": "By respecting others."
+    },
+    {
+      "question_id": 68,
+      "question": "What is public property?",
+      "answer": "Property owned by state."
+    },
+    {
+      "question_id": 69,
+      "question": "Why protect public property?",
+      "answer": "For public benefit."
+    },
+    {
+      "question_id": 70,
+      "question": "What is cultural heritage?",
+      "answer": "Historical traditions."
+    },
+    {
+      "question_id": 71,
+      "question": "Why preserve heritage?",
+      "answer": "For identity."
+    },
+    {
+      "question_id": 72,
+      "question": "What is excellence?",
+      "answer": "High standards."
+    },
+    {
+      "question_id": 73,
+      "question": "Why strive for excellence?",
+      "answer": "For national progress."
+    },
+    {
+      "question_id": 74,
+      "question": "How do Directive Principles support Fundamental Rights?",
+      "answer": "They complement rights."
+    },
+    {
+      "question_id": 75,
+      "question": "What is long-term importance of Directive Principles?",
+      "answer": "Guides governance."
+    },
+    {
+      "question_id": 76,
+      "question": "What is long-term importance of duties?",
+      "answer": "Builds responsible citizens."
+    },
+    {
+      "question_id": 77,
+      "question": "Why should students learn duties?",
+      "answer": "To become good citizens."
+    },
+    {
+      "question_id": 78,
+      "question": "What is balance between rights and duties?",
+      "answer": "Mutual responsibility."
+    },
+    {
+      "question_id": 79,
+      "question": "How do principles promote welfare?",
+      "answer": "By guiding policies."
+    },
+    {
+      "question_id": 80,
+      "question": "What is Irish influence?",
+      "answer": "Source of Directive Principles."
+    },
+    {
+      "question_id": 81,
+      "question": "What is Russian influence?",
+      "answer": "Source of Fundamental Duties."
+    },
+    {
+      "question_id": 82,
+      "question": "Why is Constitution comprehensive?",
+      "answer": "It balances rights and duties."
+    },
+    {
+      "question_id": 83,
+      "question": "What lesson does chapter teach?",
+      "answer": "Importance of welfare and duty."
+    },
+    {
+      "question_id": 84,
+      "question": "Why is this chapter important?",
+      "answer": "Explains principles and duties."
+    },
+    {
+      "question_id": 85,
+      "question": "How do principles strengthen democracy?",
+      "answer": "By social justice."
+    },
+    {
+      "question_id": 86,
+      "question": "How do duties strengthen democracy?",
+      "answer": "By responsible citizenship."
+    },
+    {
+      "question_id": 87,
+      "question": "Why should citizens follow Directive Principles?",
+      "answer": "To support governance."
+    },
+    {
+      "question_id": 88,
+      "question": "What is essence of this chapter?",
+      "answer": "Welfare and responsibility."
+    }
+  ]
+}

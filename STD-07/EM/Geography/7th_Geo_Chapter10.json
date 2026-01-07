@@ -1,0 +1,1600 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.10",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "Human Settlements"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A place where people live is called a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "habitat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "settlement",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "region",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "zone",
+          "is_correct": false
+        }
+      ],
+      "answer": "settlement"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Human settlements developed mainly near ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "deserts",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "water sources",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "mountains",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "forests",
+          "is_correct": false
+        }
+      ],
+      "answer": "water sources"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is a rural settlement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "City",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Town",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Village",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Metro",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is an urban settlement?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hamlet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "City",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Farm",
+          "is_correct": false
+        }
+      ],
+      "answer": "City"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The earliest human settlements were ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "planned",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "temporary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "industrial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "urban",
+          "is_correct": false
+        }
+      ],
+      "answer": "temporary"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "People settled near rivers mainly for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "fertile soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Settlements found in plains are usually ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "scattered",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "compact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "temporary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "nomadic",
+          "is_correct": false
+        }
+      ],
+      "answer": "compact"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Settlements found in hilly areas are usually ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "compact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "scattered",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "planned",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "linear",
+          "is_correct": false
+        }
+      ],
+      "answer": "scattered"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "A settlement along a road is called ____ settlement.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "compact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "linear",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "rectangular",
+          "is_correct": false
+        }
+      ],
+      "answer": "linear"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "A settlement clustered around a well is called ____ settlement.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "linear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "scattered",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "circular",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "rectangular",
+          "is_correct": false
+        }
+      ],
+      "answer": "circular"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which settlement has houses close together?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Scattered",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Compact",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Linear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Compact"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which settlement has houses far apart?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Compact",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Linear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Scattered",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Planned",
+          "is_correct": false
+        }
+      ],
+      "answer": "Scattered"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Nomadic people live in ____ settlements.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "permanent",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "temporary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "urban",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "compact",
+          "is_correct": false
+        }
+      ],
+      "answer": "temporary"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Rural settlements depend mainly on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "agriculture",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "services",
+          "is_correct": false
+        }
+      ],
+      "answer": "agriculture"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Urban settlements depend mainly on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "forestry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "industry and services",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "industry and services"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which factor affects settlement location?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Relief",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Settlements near coasts develop due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "fishing and trade",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "forests",
+          "is_correct": false
+        }
+      ],
+      "answer": "fishing and trade"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Mining settlements develop near ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rivers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "farms",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "mineral areas",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "coasts",
+          "is_correct": false
+        }
+      ],
+      "answer": "mineral areas"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Industrial towns develop near ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "water sources",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "raw materials",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "markets",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Planned cities have ____ layout.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "irregular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "random",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "systematic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "scattered",
+          "is_correct": false
+        }
+      ],
+      "answer": "systematic"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which settlement has proper roads and drainage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Planned city",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hamlet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nomadic camp",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planned city"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Population density is generally high in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cities",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "hamlets",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "farms",
+          "is_correct": false
+        }
+      ],
+      "answer": "cities"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which settlement has skyscrapers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Town",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "City",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Hamlet",
+          "is_correct": false
+        }
+      ],
+      "answer": "City"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which settlement provides more services?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rural",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Urban",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nomadic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Urban"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Urban settlements face problems like ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "peace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "pollution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "less traffic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "silence",
+          "is_correct": false
+        }
+      ],
+      "answer": "pollution"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Slums are found mostly in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cities",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "forests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "farms",
+          "is_correct": false
+        }
+      ],
+      "answer": "cities"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which settlement type has better healthcare?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rural",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Urban",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nomadic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Urban"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which settlement has lower population?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "City",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Town",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Village",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Metro",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which settlement has more employment opportunities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Urban",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hamlet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nomadic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Urban"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Settlements depend on ____ activities.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "economic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "social",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cultural",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which is a problem of rural settlements?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Overcrowding",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lack of facilities",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pollution",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traffic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lack of facilities"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which is a problem of urban settlements?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lack of water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pollution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Overcrowding",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Migration is movement of people from ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cities to cities",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "villages to cities",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "one place to another",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "homes",
+          "is_correct": false
+        }
+      ],
+      "answer": "one place to another"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "People migrate mainly for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "education",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "jobs",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "better facilities",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which settlement grows faster?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rural",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Urban",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nomadic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Urban"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Urbanization means growth of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "towns and cities",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "farms",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "forests",
+          "is_correct": false
+        }
+      ],
+      "answer": "towns and cities"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which settlement has planned housing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "City",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nomadic camp",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hamlet",
+          "is_correct": false
+        }
+      ],
+      "answer": "City"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Rural houses are often made of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cement",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "glass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "mud and thatch",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "steel",
+          "is_correct": false
+        }
+      ],
+      "answer": "mud and thatch"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Urban houses are mostly made of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mud",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "wood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cement",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "thatch",
+          "is_correct": false
+        }
+      ],
+      "answer": "cement"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Settlements are influenced by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "history",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "culture",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "economy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which settlement has better transport?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Urban",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nomadic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Urban"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Fishing settlements are found near ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mountains",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rivers and coasts",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "deserts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "plateaus",
+          "is_correct": false
+        }
+      ],
+      "answer": "rivers and coasts"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Forest settlements depend on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "forest products",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "services",
+          "is_correct": false
+        }
+      ],
+      "answer": "forest products"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which settlement has most pollution?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "City",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hamlet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nomadic",
+          "is_correct": false
+        }
+      ],
+      "answer": "City"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which settlement has better education facilities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rural",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Urban",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nomadic",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Temporary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Urban"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is a human settlement?",
+      "answer": "A place where people live permanently or temporarily."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why did early humans settle near rivers?",
+      "answer": "For water, fertile soil and transport."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What are rural settlements?",
+      "answer": "Settlements in villages."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What are urban settlements?",
+      "answer": "Settlements in towns and cities."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is a temporary settlement?",
+      "answer": "Settlement used for a short period."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who live in temporary settlements?",
+      "answer": "Nomadic people."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are permanent settlements?",
+      "answer": "Settlements where people live permanently."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a compact settlement?",
+      "answer": "Houses built close together."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a scattered settlement?",
+      "answer": "Houses built far apart."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a linear settlement?",
+      "answer": "Settlement along a road or river."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a circular settlement?",
+      "answer": "Settlement around a central point."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why settlements develop in plains?",
+      "answer": "Fertile soil and flat land."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why settlements are scattered in hills?",
+      "answer": "Uneven land and steep slopes."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What factors affect settlement location?",
+      "answer": "Water, climate, relief and soil."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why water is important for settlements?",
+      "answer": "For drinking and farming."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is rural occupation?",
+      "answer": "Agriculture and allied activities."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is urban occupation?",
+      "answer": "Industry and services."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why cities grow faster?",
+      "answer": "More jobs and facilities."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is urbanization?",
+      "answer": "Growth of towns and cities."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is migration?",
+      "answer": "Movement of people from one place to another."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why people migrate to cities?",
+      "answer": "For employment and education."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What problems do cities face?",
+      "answer": "Overcrowding, pollution and traffic."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What problems do villages face?",
+      "answer": "Lack of facilities."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are slums?",
+      "answer": "Overcrowded urban settlements."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why slums develop?",
+      "answer": "Rapid urbanization and poverty."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is population density?",
+      "answer": "Number of people per unit area."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why population density is high in cities?",
+      "answer": "Limited space and more people."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How settlements affect environment?",
+      "answer": "Cause pollution and resource use."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is planned settlement?",
+      "answer": "Settlement with proper layout."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Give example of planned city.",
+      "answer": "Chandigarh."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why planning is important in cities?",
+      "answer": "For better living conditions."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What facilities are found in cities?",
+      "answer": "Hospitals, schools and transport."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What facilities are limited in villages?",
+      "answer": "Healthcare and education."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is a hamlet?",
+      "answer": "A small group of houses."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are fishing settlements?",
+      "answer": "Settlements dependent on fishing."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Where are fishing settlements found?",
+      "answer": "Near rivers and coasts."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What are mining settlements?",
+      "answer": "Settlements near mineral areas."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why mining settlements develop?",
+      "answer": "Availability of minerals."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What are industrial settlements?",
+      "answer": "Settlements near industries."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why industrial settlements grow?",
+      "answer": "Employment opportunities."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How climate affects settlements?",
+      "answer": "Extreme climates limit settlements."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How relief affects settlements?",
+      "answer": "Flat land supports settlements."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is nomadic life?",
+      "answer": "Life of constant movement."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why nomads move frequently?",
+      "answer": "Search for food and water."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What materials are used for rural houses?",
+      "answer": "Mud and thatch."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What materials are used for urban houses?",
+      "answer": "Cement and steel."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why transport is important for settlements?",
+      "answer": "Connectivity and trade."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How settlements reflect culture?",
+      "answer": "Through house style and layout."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why human settlements are important?",
+      "answer": "They support human life."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How settlements affect economy?",
+      "answer": "Provide jobs and markets."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is sustainable settlement?",
+      "answer": "Settlement with minimal environmental impact."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why waste management is important in cities?",
+      "answer": "To reduce pollution."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How technology affects settlements?",
+      "answer": "Improves living standards."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why settlements keep changing?",
+      "answer": "Due to economic and social changes."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why study human settlements?",
+      "answer": "To understand human-environment interaction."
+    }
+  ]
+}

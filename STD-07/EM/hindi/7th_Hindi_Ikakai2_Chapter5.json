@@ -1,0 +1,1372 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 2",
+    "chapter_number": 5,
+    "chapter_name": "असली गवाह और जीवन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘असली गवाह और जीवन’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्य और अनुभव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कानूनी प्रक्रिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्य और अनुभव"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाठ में ‘असली गवाह’ किसे कहा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यक्ति को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दस्तावेज़ को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यायालय को",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव को"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार जीवन का सबसे बड़ा शिक्षक क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "किताबें",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाग्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाठ में सत्य की पहचान कैसे होती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहने से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव से"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लेखक किस गवाह को सबसे विश्वसनीय मानता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यक्ति को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कानून को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाज को",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन को"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाठ का उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन मूल्यों को समझाना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कानूनी ज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन मूल्यों को समझाना"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन को किससे जोड़ा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साक्ष्य से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिस्पर्धा से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "साक्ष्य से"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार झूठ क्यों टिक नहीं पाता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव के सामने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कानून के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव के सामने"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाठ में सत्य का परिणाम क्या बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हानि",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "विश्वास"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लेखक किस प्रवृत्ति की आलोचना करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिखावे की",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सत्य की",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईमानदारी की",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनुभव की",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिखावे की"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘असली गवाह’ का अर्थ क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन का अनुभव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कानूनी गवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यक्ति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दस्तावेज़",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन का अनुभव"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन को क्यों महत्वपूर्ण बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्योंकि वह सिखाता है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्योंकि वह डराता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्योंकि वह कठिन है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्योंकि वह संयोग है",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्योंकि वह सिखाता है"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार सत्य की कसौटी क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शब्द",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लाभ",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाठ में कौन-सा गुण सर्वोपरि बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईमानदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चतुराई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईमानदारी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन का वास्तविक मूल्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सीख",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिष्ठा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शक्ति",
+          "is_correct": false
+        }
+      ],
+      "answer": "सीख"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "लेखक किससे सावधान रहने को कहता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिखावे से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अनुभव से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सत्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईमानदारी से",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिखावे से"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन किसे उजागर करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्य को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भ्रम को",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्य को"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार सच्चाई कैसे सामने आती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समय के साथ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तुरंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयोग से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "समय के साथ"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाठ का भाव कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चिंतनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हास्यपूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराशाजनक",
+          "is_correct": false
+        }
+      ],
+      "answer": "चिंतनशील"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "लेखक किसे जीवन का आईना मानता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कानून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "किताब",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पाठ में झूठ का अंत कैसे होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कानून से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव से"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार कौन-सा गवाह कभी झूठा नहीं होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यक्ति",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दस्तावेज़",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन की भूमिका क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्याय करने की",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डराने की",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्याय करने की"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पाठ में किससे सीख लेने की बात कही गई है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गलतियों से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव से"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार व्यक्ति को क्या अपनाना चाहिए?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चालाकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्य"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन का संदेश किसके लिए है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सभी के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल छात्रों के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल बड़ों के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी के लिए"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार सत्य की शक्ति क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडिग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कमज़ोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्षणिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अडिग"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पाठ में किस मूल्य को नकारा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिखावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईमानदारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनुभव",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिखावा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार जीवन कैसे साक्ष्य देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्मों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दों से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्मों से"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन को सबसे बड़ा न्यायाधीश क्यों कहा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्योंकि वह सत्य प्रकट करता है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्योंकि वह डराता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्योंकि वह सज़ा देता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्योंकि वह संयोग है",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्योंकि वह सत्य प्रकट करता है"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पाठ में अनुभव का क्या महत्व बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्य पहचानने में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर बढ़ाने में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाभ कमाने में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष में",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्य पहचानने में"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "लेखक किससे सीखने को कहता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयोग से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "किताब से",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन से"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पाठ में सत्य और जीवन का क्या संबंध बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अटूट",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्षणिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काल्पनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "अटूट"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार सच्चाई क्यों जरूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विश्वास के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "विश्वास के लिए"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन का अनुभव क्या देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिपक्वता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिपक्वता"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "लेखक किसे सबसे बड़ा सबक मानता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुभव को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तक को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाग्य को",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव को"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पाठ में जीवन को क्या कहा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सच्चा गवाह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झूठा साथी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "सच्चा गवाह"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार सत्य का परिणाम क्या होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सम्मान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हानि",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "सम्मान"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पाठ का केंद्रीय विचार क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन ही असली गवाह है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कानून सर्वोपरि है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर आवश्यक है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिखावा सफल है",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन ही असली गवाह है"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "‘असली गवाह और जीवन’ पाठ हमें क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्य और अनुभव का महत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कानूनी ज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्य और अनुभव का महत्व"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘असली गवाह और जीवन’ पाठ का मुख्य विषय क्या है?",
+      "answer": "जीवन के अनुभव को सत्य का सबसे बड़ा प्रमाण बताना।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "पाठ में ‘असली गवाह’ किसे कहा गया है?",
+      "answer": "जीवन के अनुभव को।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार सत्य की पहचान कैसे होती है?",
+      "answer": "अनुभव के माध्यम से।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "जीवन को सबसे बड़ा गवाह क्यों माना गया है?",
+      "answer": "क्योंकि वह सच्चाई उजागर करता है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "पाठ का उद्देश्य क्या है?",
+      "answer": "सत्य और जीवन मूल्यों को समझाना।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार जीवन का सबसे बड़ा शिक्षक क्या है?",
+      "answer": "अनुभव।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पाठ में झूठ क्यों टिक नहीं पाता?",
+      "answer": "क्योंकि अनुभव उसे उजागर कर देता है।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "लेखक किस प्रवृत्ति की आलोचना करता है?",
+      "answer": "दिखावे की।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पाठ में सत्य का परिणाम क्या बताया गया है?",
+      "answer": "विश्वास और सम्मान।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "पाठ का भाव कैसा है?",
+      "answer": "चिंतनशील।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन किसे उजागर करता है?",
+      "answer": "सत्य को।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार सच्चाई कैसे सामने आती है?",
+      "answer": "समय के साथ।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन का वास्तविक मूल्य क्या है?",
+      "answer": "सीख और अनुभव।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार व्यक्ति को क्या अपनाना चाहिए?",
+      "answer": "ईमानदारी।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन का संदेश किसके लिए है?",
+      "answer": "सभी के लिए।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार सत्य की शक्ति कैसी होती है?",
+      "answer": "अडिग।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पाठ में किस मूल्य को नकारा गया है?",
+      "answer": "दिखावे को।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार जीवन कैसे साक्ष्य देता है?",
+      "answer": "कर्मों के द्वारा।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन को न्यायाधीश क्यों कहा गया है?",
+      "answer": "क्योंकि वह न्याय करता है।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठ में अनुभव का क्या महत्व है?",
+      "answer": "सत्य पहचानने में।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन से क्या सीख मिलती है?",
+      "answer": "सत्य का मार्ग अपनाने की।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "लेखक किससे सावधान रहने को कहता है?",
+      "answer": "दिखावे से।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन और सत्य का क्या संबंध है?",
+      "answer": "अटूट।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार सच्चाई क्यों जरूरी है?",
+      "answer": "विश्वास बनाए रखने के लिए।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन का अनुभव क्या देता है?",
+      "answer": "परिपक्वता।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार सबसे बड़ा सबक क्या है?",
+      "answer": "अनुभव।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन को क्या कहा गया है?",
+      "answer": "सच्चा गवाह।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार सत्य का परिणाम क्या होता है?",
+      "answer": "सम्मान।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पाठ का केंद्रीय विचार क्या है?",
+      "answer": "जीवन ही असली गवाह है।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "‘असली गवाह और जीवन’ पाठ से हमें क्या सीख मिलती है?",
+      "answer": "सत्य और अनुभव का महत्व।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन की भूमिका क्या बताई गई है?",
+      "answer": "सत्य को उजागर करने की।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार झूठ का अंत कैसे होता है?",
+      "answer": "अनुभव से।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन को आईना क्यों कहा गया है?",
+      "answer": "क्योंकि वह सच्चाई दिखाता है।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "लेखक किसे सबसे विश्वसनीय गवाह मानता है?",
+      "answer": "जीवन को।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन का अनुभव क्यों महत्वपूर्ण है?",
+      "answer": "क्योंकि वह सीख देता है।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार सत्य को कैसे अपनाया जा सकता है?",
+      "answer": "ईमानदारी से।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन का मूल्यांकन कैसे होता है?",
+      "answer": "कर्मों से।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पाठ में लेखक क्या संदेश देना चाहता है?",
+      "answer": "दिखावे से दूर रहने का।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पाठ में जीवन का महत्व एक वाक्य में लिखिए।",
+      "answer": "जीवन ही सत्य का सबसे बड़ा प्रमाण है।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "पाठ से हमें कौन-सा मूल्य अपनाना चाहिए?",
+      "answer": "सत्य और ईमानदारी।"
+    }
+  ]
+}

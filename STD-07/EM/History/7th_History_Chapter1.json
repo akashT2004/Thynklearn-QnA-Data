@@ -1,0 +1,972 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 1,
+  "chapter_name": "Sources of History",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "History gives us an account of past events in which manner?",
+      "options": [
+        "Imaginary",
+        "Scientific",
+        "Unsystematic",
+        "Incomplete"
+      ],
+      "answer": "Scientific"
+    },
+    {
+      "question_id": 2,
+      "question": "Which period is called the medieval period of Indian history?",
+      "options": [
+        "6th–8th century CE",
+        "9th–18th century CE",
+        "1st–5th century CE",
+        "18th–20th century CE"
+      ],
+      "answer": "9th–18th century CE"
+    },
+    {
+      "question_id": 3,
+      "question": "Authentic proofs used to study history are called?",
+      "options": [
+        "Facts",
+        "Stories",
+        "Sources",
+        "Legends"
+      ],
+      "answer": "Sources"
+    },
+    {
+      "question_id": 4,
+      "question": "Which factor is NOT related to history?",
+      "options": [
+        "Time",
+        "Place",
+        "Individual",
+        "Weather"
+      ],
+      "answer": "Weather"
+    },
+    {
+      "question_id": 5,
+      "question": "Which of the following is a material source?",
+      "options": [
+        "Bakhar",
+        "Powada",
+        "Coin",
+        "Travelogue"
+      ],
+      "answer": "Coin"
+    },
+    {
+      "question_id": 6,
+      "question": "Forts are classified as which type of source?",
+      "options": [
+        "Oral",
+        "Written",
+        "Material",
+        "Literary"
+      ],
+      "answer": "Material"
+    },
+    {
+      "question_id": 7,
+      "question": "Which metal was commonly used for medieval coins?",
+      "options": [
+        "Plastic",
+        "Iron only",
+        "Gold and silver",
+        "Wood"
+      ],
+      "answer": "Gold and silver"
+    },
+    {
+      "question_id": 8,
+      "question": "Copper plates are mainly used for recording?",
+      "options": [
+        "Poems",
+        "Royal orders",
+        "Stories",
+        "Songs"
+      ],
+      "answer": "Royal orders"
+    },
+    {
+      "question_id": 9,
+      "question": "Inscriptions help us to understand which aspects?",
+      "options": [
+        "Language and script",
+        "Climate",
+        "Future",
+        "Geography only"
+      ],
+      "answer": "Language and script"
+    },
+    {
+      "question_id": 10,
+      "question": "Which of the following is a written source?",
+      "options": [
+        "Folk song",
+        "Inscription",
+        "Myth",
+        "Legend"
+      ],
+      "answer": "Inscription"
+    },
+    {
+      "question_id": 11,
+      "question": "Bhurjapatra is an example of which source?",
+      "options": [
+        "Material",
+        "Written",
+        "Oral",
+        "Visual"
+      ],
+      "answer": "Written"
+    },
+    {
+      "question_id": 12,
+      "question": "Travelogues were written by?",
+      "options": [
+        "Kings",
+        "Poets",
+        "Foreign travellers",
+        "Soldiers"
+      ],
+      "answer": "Foreign travellers"
+    },
+    {
+      "question_id": 13,
+      "question": "Which of the following is an oral source?",
+      "options": [
+        "Bakhar",
+        "Powada",
+        "Copper plate",
+        "Inscription"
+      ],
+      "answer": "Powada"
+    },
+    {
+      "question_id": 14,
+      "question": "Powadas mainly describe?",
+      "options": [
+        "Trade",
+        "Battles and heroes",
+        "Weather",
+        "Agriculture"
+      ],
+      "answer": "Battles and heroes"
+    },
+    {
+      "question_id": 15,
+      "question": "Which source passes from generation to generation?",
+      "options": [
+        "Material",
+        "Written",
+        "Oral",
+        "Inscription"
+      ],
+      "answer": "Oral"
+    },
+    {
+      "question_id": 16,
+      "question": "Bakhar is a type of?",
+      "options": [
+        "Monument",
+        "Chronicle",
+        "Poem",
+        "Coin"
+      ],
+      "answer": "Chronicle"
+    },
+    {
+      "question_id": 17,
+      "question": "Tarikh means?",
+      "options": [
+        "Story",
+        "Sequence of events",
+        "Inscription",
+        "Song"
+      ],
+      "answer": "Sequence of events"
+    },
+    {
+      "question_id": 18,
+      "question": "Which historian wrote Tarikh?",
+      "options": [
+        "Al Biruni",
+        "Tansen",
+        "Kalidas",
+        "Kabir"
+      ],
+      "answer": "Al Biruni"
+    },
+    {
+      "question_id": 19,
+      "question": "Which source tells about people’s lifestyle?",
+      "options": [
+        "Coins",
+        "Written records",
+        "Forts",
+        "Weapons"
+      ],
+      "answer": "Written records"
+    },
+    {
+      "question_id": 20,
+      "question": "Coins give information about which aspect?",
+      "options": [
+        "Religion and rulers",
+        "Weather",
+        "Rivers",
+        "Forests"
+      ],
+      "answer": "Religion and rulers"
+    },
+    {
+      "question_id": 21,
+      "question": "Which script was used in medieval India?",
+      "options": [
+        "Latin",
+        "Devanagari",
+        "Greek",
+        "Chinese"
+      ],
+      "answer": "Devanagari"
+    },
+    {
+      "question_id": 22,
+      "question": "Which source includes folk tales and myths?",
+      "options": [
+        "Material",
+        "Written",
+        "Oral",
+        "Visual"
+      ],
+      "answer": "Oral"
+    },
+    {
+      "question_id": 23,
+      "question": "Which of the following is NOT a material source?",
+      "options": [
+        "Temple",
+        "Coin",
+        "Travelogue",
+        "Weapon"
+      ],
+      "answer": "Travelogue"
+    },
+    {
+      "question_id": 24,
+      "question": "Why should sources be critically analysed?",
+      "options": [
+        "For entertainment",
+        "To verify authenticity",
+        "To change history",
+        "To memorise"
+      ],
+      "answer": "To verify authenticity"
+    },
+    {
+      "question_id": 25,
+      "question": "Which quality is important in a historian?",
+      "options": [
+        "Bias",
+        "Impartiality",
+        "Anger",
+        "Fear"
+      ],
+      "answer": "Impartiality"
+    },
+    {
+      "question_id": 26,
+      "question": "Which source gives eyewitness accounts?",
+      "options": [
+        "Oral",
+        "Written",
+        "Material",
+        "Legend"
+      ],
+      "answer": "Written"
+    },
+    {
+      "question_id": 27,
+      "question": "Which is the most reliable source?",
+      "options": [
+        "Verified source",
+        "Story",
+        "Myth",
+        "Rumour"
+      ],
+      "answer": "Verified source"
+    },
+    {
+      "question_id": 28,
+      "question": "Which source shows economic condition?",
+      "options": [
+        "Coins",
+        "Songs",
+        "Myths",
+        "Legends"
+      ],
+      "answer": "Coins"
+    },
+    {
+      "question_id": 29,
+      "question": "Which is a visual material source?",
+      "options": [
+        "Painting",
+        "Bakhar",
+        "Abhang",
+        "Powada"
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 30,
+      "question": "Which source reveals religious harmony?",
+      "options": [
+        "Coins",
+        "Forts",
+        "Weapons",
+        "Buildings"
+      ],
+      "answer": "Coins"
+    },
+    {
+      "question_id": 31,
+      "question": "Which is NOT an oral source?",
+      "options": [
+        "Owi",
+        "Legend",
+        "Myth",
+        "Inscription"
+      ],
+      "answer": "Inscription"
+    },
+    {
+      "question_id": 32,
+      "question": "Which source tells about architecture?",
+      "options": [
+        "Buildings",
+        "Songs",
+        "Stories",
+        "Proverbs"
+      ],
+      "answer": "Buildings"
+    },
+    {
+      "question_id": 33,
+      "question": "Which is a source carved on stone?",
+      "options": [
+        "Bakhar",
+        "Inscription",
+        "Chronicle",
+        "Powada"
+      ],
+      "answer": "Inscription"
+    },
+    {
+      "question_id": 34,
+      "question": "Which source records genealogy?",
+      "options": [
+        "Shakavalli",
+        "Powada",
+        "Owi",
+        "Legend"
+      ],
+      "answer": "Shakavalli"
+    },
+    {
+      "question_id": 35,
+      "question": "Which is a literary written source?",
+      "options": [
+        "Biography",
+        "Coin",
+        "Fort",
+        "Weapon"
+      ],
+      "answer": "Biography"
+    },
+    {
+      "question_id": 36,
+      "question": "Which source needs verification?",
+      "options": [
+        "All sources",
+        "Only oral",
+        "Only written",
+        "Only material"
+      ],
+      "answer": "All sources"
+    },
+    {
+      "question_id": 37,
+      "question": "Which source reflects social life?",
+      "options": [
+        "Written sources",
+        "Weapons",
+        "Forts",
+        "Coins only"
+      ],
+      "answer": "Written sources"
+    },
+    {
+      "question_id": 38,
+      "question": "Which is an example of oral literature?",
+      "options": [
+        "Abhang",
+        "Copper plate",
+        "Inscription",
+        "Edict"
+      ],
+      "answer": "Abhang"
+    },
+    {
+      "question_id": 39,
+      "question": "Which source gives diplomatic information?",
+      "options": [
+        "Correspondence",
+        "Song",
+        "Myth",
+        "Legend"
+      ],
+      "answer": "Correspondence"
+    },
+    {
+      "question_id": 40,
+      "question": "Which source is based on memory?",
+      "options": [
+        "Oral",
+        "Material",
+        "Written",
+        "Visual"
+      ],
+      "answer": "Oral"
+    },
+    {
+      "question_id": 41,
+      "question": "Which source helps rewrite history?",
+      "options": [
+        "New discoveries",
+        "Stories",
+        "Rumours",
+        "Songs"
+      ],
+      "answer": "New discoveries"
+    },
+    {
+      "question_id": 42,
+      "question": "Which source shows trade activities?",
+      "options": [
+        "Coins",
+        "Legends",
+        "Myths",
+        "Songs"
+      ],
+      "answer": "Coins"
+    },
+    {
+      "question_id": 43,
+      "question": "Which source is least permanent?",
+      "options": [
+        "Oral",
+        "Material",
+        "Written",
+        "Inscription"
+      ],
+      "answer": "Oral"
+    },
+    {
+      "question_id": 44,
+      "question": "Which source includes judicial orders?",
+      "options": [
+        "Written",
+        "Oral",
+        "Material",
+        "Folk"
+      ],
+      "answer": "Written"
+    },
+    {
+      "question_id": 45,
+      "question": "Which source helps understand metallurgy?",
+      "options": [
+        "Coins",
+        "Poems",
+        "Stories",
+        "Legends"
+      ],
+      "answer": "Coins"
+    },
+    {
+      "question_id": 46,
+      "question": "Which source needs impartial evaluation?",
+      "options": [
+        "Historical sources",
+        "Stories",
+        "Myths",
+        "Legends"
+      ],
+      "answer": "Historical sources"
+    },
+    {
+      "question_id": 47,
+      "question": "Which source is created by carving?",
+      "options": [
+        "Inscription",
+        "Bakhar",
+        "Powada",
+        "Chronicle"
+      ],
+      "answer": "Inscription"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What is history?",
+      "answer": "History is the scientific study of past human events based on evidence."
+    },
+    {
+      "question_id": 2,
+      "question": "Define medieval period of Indian history.",
+      "answer": "The medieval period of Indian history roughly spans the 9th to 18th century CE."
+    },
+    {
+      "question_id": 3,
+      "question": "What are sources of history?",
+      "answer": "Sources of history are authentic proofs that help us understand the past."
+    },
+    {
+      "question_id": 4,
+      "question": "Why are sources important in history?",
+      "answer": "They provide reliable evidence to reconstruct historical events."
+    },
+    {
+      "question_id": 5,
+      "question": "Name the four important factors of history.",
+      "answer": "Time, place, individuals and events are the four important factors of history."
+    },
+    {
+      "question_id": 6,
+      "question": "What are material sources?",
+      "answer": "Material sources are physical objects from the past."
+    },
+    {
+      "question_id": 7,
+      "question": "Give examples of material sources.",
+      "answer": "Coins, forts, weapons, tools and buildings are material sources."
+    },
+    {
+      "question_id": 8,
+      "question": "What information do forts provide?",
+      "answer": "Forts reveal administration, defence systems and architecture."
+    },
+    {
+      "question_id": 9,
+      "question": "How do monuments help historians?",
+      "answer": "Monuments show cultural, religious and architectural development."
+    },
+    {
+      "question_id": 10,
+      "question": "What are inscriptions?",
+      "answer": "Inscriptions are writings engraved on stone, metal or walls."
+    },
+    {
+      "question_id": 11,
+      "question": "Why are inscriptions reliable sources?",
+      "answer": "They are reliable because they are contemporary and permanent records."
+    },
+    {
+      "question_id": 12,
+      "question": "What are copper plates?",
+      "answer": "Copper plates are metal records of royal orders and land grants."
+    },
+    {
+      "question_id": 13,
+      "question": "What information do coins give us?",
+      "answer": "Coins give information about rulers, economy, religion and chronology."
+    },
+    {
+      "question_id": 14,
+      "question": "How do coins show religious harmony?",
+      "answer": "Coins show religious harmony through symbols of different faiths."
+    },
+    {
+      "question_id": 15,
+      "question": "What are written sources?",
+      "answer": "Written sources are records written on paper, bark or metal."
+    },
+    {
+      "question_id": 16,
+      "question": "Give examples of written sources.",
+      "answer": "Bakhars, tarikhs, letters, travelogues and chronicles are written sources."
+    },
+    {
+      "question_id": 17,
+      "question": "What are oral sources?",
+      "answer": "Oral sources are traditions passed verbally from generation to generation."
+    },
+    {
+      "question_id": 18,
+      "question": "Give examples of oral sources.",
+      "answer": "Folk songs, powadas, ovis, myths and legends are oral sources."
+    },
+    {
+      "question_id": 19,
+      "question": "What is a powada?",
+      "answer": "A powada is a heroic ballad describing bravery and battles."
+    },
+    {
+      "question_id": 20,
+      "question": "What is a bakhar?",
+      "answer": "A bakhar is a historical chronicle written in prose."
+    },
+    {
+      "question_id": 21,
+      "question": "What is a tarikh?",
+      "answer": "Tarikh means a chronological account of events."
+    },
+    {
+      "question_id": 22,
+      "question": "Why are travelogues important?",
+      "answer": "Travelogues give first-hand accounts of society and culture."
+    },
+    {
+      "question_id": 23,
+      "question": "Name two foreign travellers.",
+      "answer": "Al Biruni and Ibn Battuta are two foreign travellers."
+    },
+    {
+      "question_id": 24,
+      "question": "What is genealogy?",
+      "answer": "Genealogy is the record of family lineage."
+    },
+    {
+      "question_id": 25,
+      "question": "How do written sources describe daily life?",
+      "answer": "They describe occupations, customs and daily activities."
+    },
+    {
+      "question_id": 26,
+      "question": "What are bhurjapatras?",
+      "answer": "Bhurjapatras are manuscripts written on tree bark."
+    },
+    {
+      "question_id": 27,
+      "question": "Why should sources be verified?",
+      "answer": "Verification ensures reliability and prevents false history."
+    },
+    {
+      "question_id": 28,
+      "question": "What is meant by authenticity of sources?",
+      "answer": "Authenticity means the genuineness of a historical source."
+    },
+    {
+      "question_id": 29,
+      "question": "Why is critical analysis necessary?",
+      "answer": "It helps distinguish facts from exaggeration."
+    },
+    {
+      "question_id": 30,
+      "question": "What precautions are needed while using sources?",
+      "answer": "Sources must be compared, dated and analysed objectively."
+    },
+    {
+      "question_id": 31,
+      "question": "What is impartiality in history writing?",
+      "answer": "Impartiality means writing history without bias."
+    },
+    {
+      "question_id": 32,
+      "question": "How can exaggeration affect history?",
+      "answer": "Exaggeration distorts historical truth."
+    },
+    {
+      "question_id": 33,
+      "question": "Why should hearsay be avoided?",
+      "answer": "Hearsay lacks evidence and can mislead historians."
+    },
+    {
+      "question_id": 34,
+      "question": "How does architecture reflect history?",
+      "answer": "Architecture reflects technology, culture and social structure."
+    },
+    {
+      "question_id": 35,
+      "question": "What is the importance of paintings as sources?",
+      "answer": "Paintings depict events, dress, lifestyle and beliefs."
+    },
+    {
+      "question_id": 36,
+      "question": "How do material sources show economic conditions?",
+      "answer": "They reveal trade, prosperity and resources."
+    },
+    {
+      "question_id": 37,
+      "question": "Why are oral sources less permanent?",
+      "answer": "They depend on memory and change over time."
+    },
+    {
+      "question_id": 38,
+      "question": "What is the role of language in written sources?",
+      "answer": "Language shows culture and communication style."
+    },
+    {
+      "question_id": 39,
+      "question": "How do scripts help historians?",
+      "answer": "Scripts help identify period and region."
+    },
+    {
+      "question_id": 40,
+      "question": "What are judicial records?",
+      "answer": "Judicial records contain laws and verdicts."
+    },
+    {
+      "question_id": 41,
+      "question": "What is the importance of correspondence?",
+      "answer": "Letters show administration and diplomacy."
+    },
+    {
+      "question_id": 42,
+      "question": "How do chronicles help history writing?",
+      "answer": "Chronicles record events in sequence."
+    },
+    {
+      "question_id": 43,
+      "question": "Why is neutrality important for historians?",
+      "answer": "Neutrality ensures truthful history writing."
+    },
+    {
+      "question_id": 44,
+      "question": "How does history change with new discoveries?",
+      "answer": "New findings provide fresh evidence."
+    },
+    {
+      "question_id": 45,
+      "question": "What is meant by rewriting history?",
+      "answer": "Rewriting history means revising with new evidence."
+    },
+    {
+      "question_id": 46,
+      "question": "How do museums help in history study?",
+      "answer": "Museums preserve and display sources."
+    },
+    {
+      "question_id": 47,
+      "question": "What is evaluation of sources?",
+      "answer": "Evaluation is judging reliability of sources."
+    },
+    {
+      "question_id": 48,
+      "question": "Why is comparison of sources necessary?",
+      "answer": "Comparison helps confirm facts."
+    },
+    {
+      "question_id": 49,
+      "question": "What is internal evidence?",
+      "answer": "Internal evidence refers to content analysis."
+    },
+    {
+      "question_id": 50,
+      "question": "How do sources reveal social life?",
+      "answer": "They show customs, traditions and relationships."
+    },
+    {
+      "question_id": 51,
+      "question": "What is folk literature?",
+      "answer": "Folk literature reflects beliefs and values."
+    },
+    {
+      "question_id": 52,
+      "question": "Why are folk songs historical sources?",
+      "answer": "They preserve social memory."
+    },
+    {
+      "question_id": 53,
+      "question": "How do weapons act as material sources?",
+      "answer": "Weapons show warfare and technology."
+    },
+    {
+      "question_id": 54,
+      "question": "What information do buildings provide?",
+      "answer": "Buildings reveal administration and culture."
+    },
+    {
+      "question_id": 55,
+      "question": "Why are coins dated sources?",
+      "answer": "Coins have inscriptions and dates."
+    },
+    {
+      "question_id": 56,
+      "question": "How do sources show governance?",
+      "answer": "They show rulers and systems."
+    },
+    {
+      "question_id": 57,
+      "question": "What is the importance of royal edicts?",
+      "answer": "Royal edicts show governance."
+    },
+    {
+      "question_id": 58,
+      "question": "How do inscriptions reveal administration?",
+      "answer": "They reveal laws and authority."
+    },
+    {
+      "question_id": 59,
+      "question": "What is the role of travel accounts?",
+      "answer": "Travel accounts describe society."
+    },
+    {
+      "question_id": 60,
+      "question": "How do sources help understand culture?",
+      "answer": "They explain beliefs and practices."
+    },
+    {
+      "question_id": 61,
+      "question": "What is the importance of archaeology?",
+      "answer": "Archaeology studies material remains."
+    },
+    {
+      "question_id": 62,
+      "question": "How do excavations add new sources?",
+      "answer": "Excavations uncover new evidence."
+    },
+    {
+      "question_id": 63,
+      "question": "Why are sources called proofs?",
+      "answer": "They act as proofs of the past."
+    },
+    {
+      "question_id": 64,
+      "question": "What is the link between history and time?",
+      "answer": "History studies change over time."
+    },
+    {
+      "question_id": 65,
+      "question": "How does place influence history?",
+      "answer": "Location shapes events and culture."
+    },
+    {
+      "question_id": 66,
+      "question": "What is the role of individuals in history?",
+      "answer": "Individuals influence events."
+    },
+    {
+      "question_id": 67,
+      "question": "How do sources help understand society?",
+      "answer": "They reflect social organisation."
+    },
+    {
+      "question_id": 68,
+      "question": "Why are myths not fully reliable?",
+      "answer": "Myths mix imagination with facts."
+    },
+    {
+      "question_id": 69,
+      "question": "What is difference between legend and fact?",
+      "answer": "Legends lack factual proof."
+    },
+    {
+      "question_id": 70,
+      "question": "Why must historians be unbiased?",
+      "answer": "Bias distorts truth."
+    },
+    {
+      "question_id": 71,
+      "question": "How do sources help students understand history?",
+      "answer": "They make learning authentic."
+    },
+    {
+      "question_id": 72,
+      "question": "Why is history called scientific study?",
+      "answer": "It uses evidence and analysis."
+    },
+    {
+      "question_id": 73,
+      "question": "How do sources connect past and present?",
+      "answer": "They link past to present."
+    },
+    {
+      "question_id": 74,
+      "question": "Why are inscriptions permanent records?",
+      "answer": "They are durable records."
+    },
+    {
+      "question_id": 75,
+      "question": "What are royal verdicts?",
+      "answer": "Royal verdicts are legal decisions."
+    },
+    {
+      "question_id": 76,
+      "question": "How do sources help know rulers?",
+      "answer": "They identify rulers."
+    },
+    {
+      "question_id": 77,
+      "question": "Why are oral sources valuable despite limitations?",
+      "answer": "They preserve tradition."
+    },
+    {
+      "question_id": 78,
+      "question": "How do written sources preserve knowledge?",
+      "answer": "They store knowledge permanently."
+    },
+    {
+      "question_id": 79,
+      "question": "What is the importance of source classification?",
+      "answer": "Classification improves understanding."
+    },
+    {
+      "question_id": 80,
+      "question": "How do sources help understand religion?",
+      "answer": "They show belief systems."
+    },
+    {
+      "question_id": 81,
+      "question": "Why are coins multilingual?",
+      "answer": "Coins used multiple scripts."
+    },
+    {
+      "question_id": 82,
+      "question": "What do scripts reveal about society?",
+      "answer": "Scripts show literacy."
+    },
+    {
+      "question_id": 83,
+      "question": "How do sources help know technology?",
+      "answer": "They reveal craftsmanship."
+    },
+    {
+      "question_id": 84,
+      "question": "Why should fake sources be rejected?",
+      "answer": "Fake sources mislead history."
+    },
+    {
+      "question_id": 85,
+      "question": "What is the responsibility of a historian?",
+      "answer": "A historian must be truthful."
+    },
+    {
+      "question_id": 86,
+      "question": "How do sources help understand medieval India?",
+      "answer": "They reveal medieval society."
+    },
+    {
+      "question_id": 87,
+      "question": "Why is history incomplete without sources?",
+      "answer": "Sources are the foundation of history."
+    },
+    {
+      "question_id": 88,
+      "question": "Explain the need for preserving sources.",
+      "answer": "Preservation protects heritage."
+    },
+    {
+      "question_id": 89,
+      "question": "How can students help preserve historical sources?",
+      "answer": "Students should protect monuments."
+    }
+  ]
+}

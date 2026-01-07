@@ -1,0 +1,1335 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.Marathi.1",
+    "standard": "7",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "प्रार्थना (भाग – १)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘प्रार्थना’ या कवितेचा मुख्य उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षणाबद्दल कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षणाबद्दल कृतज्ञता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘ज्ञानमंदिर’ हा शब्द कशासाठी वापरला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घरासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रंथालयासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देवळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाळेसाठी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवी विद्यार्थ्यांना काय देण्याची विनंती करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शक्ती व भक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "शक्ती व भक्ती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणत्या पक्ष्याचा उल्लेख आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चिमणपाखरू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कावळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गरुड",
+          "is_correct": false
+        }
+      ],
+      "answer": "चिमणपाखरू"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "विद्यार्थ्यांनी कसे व्हावे अशी अपेक्षा व्यक्त केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नीतिमंत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भित्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीतिमंत"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘पैलतीर’ हा शब्द कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यश",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अडथळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "यश"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणते मूल्य ठळकपणे दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत प्रगतीसाठी काय मागितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पैसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पंख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "पंख"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारातील आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रार्थना",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रार्थना"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "विद्यार्थ्यांनी कोणत्या मार्गावर चालावे असे सुचवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नीती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीती"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘विद्याधन’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कशाबद्दल कृतज्ञता व्यक्त केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाळेबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळाबद्दल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुट्टीबद्दल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भोजनाबद्दल",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाळेबद्दल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणते गुण विकसित व्हावेत असे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कलागुण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "कलागुण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "‘कीर्तिचा कळस’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपयश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "यशाची शिखर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "यशाची शिखर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ही प्रार्थना कोणासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्यार्थ्यांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळाडूंसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थ्यांसाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोरडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व भावपूर्ण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भावना प्रकट होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणत्या शक्तीची मागणी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शारीरिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानसिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आर्थिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानसिक"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "ही कविता कधी म्हटली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळाच्या वेळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शाळेच्या सुरुवातीला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सुट्टीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परीक्षेनंतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "शाळेच्या सुरुवातीला"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘छंद’ व ‘ध्यास’ कशासाठी आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यासासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "झोपेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवासासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यासासाठी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवितेत विद्यार्थ्यांनी कसे नाव कमवावे अशी अपेक्षा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाईट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उज्ज्वल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भित्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उज्ज्वल"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "‘सत्यम् शिवम् सुंदरम्’ या ओळीचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खोटे सुंदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्य, कल्याण व सौंदर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त सौंदर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त सत्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्य, कल्याण व सौंदर्य"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणत्या गुणांवर भर दिला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चारित्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "चारित्र्य"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कवितेत शाळेचे वर्णन कसे केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सामान्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पवित्र स्थान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कठीण ठिकाण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळाचे मैदान",
+          "is_correct": false
+        }
+      ],
+      "answer": "पवित्र स्थान"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणता भाव दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नम्रता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "नम्रता"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या पाठ्यपुस्तकातील आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुलभभारती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बालभारती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ज्ञानदीप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुगमभारती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुलभभारती"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘दयासागर’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समुद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "करुणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "करुणा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणते ध्येय ठेवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशस्वी जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "यशस्वी जीवन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या गोष्टीची विनंती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मार्गदर्शन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुट्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "मार्गदर्शन"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत विद्यार्थ्यांनी कसे वागावे असे सुचवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुशासित",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडखोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरपोक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुशासित"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कवितेतील ‘ज्ञान’ कशासाठी आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जीवनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विश्रांतीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवनासाठी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणता संदेश दिला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यासाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळाचे महत्त्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विश्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यासाचे महत्त्व"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ही कविता विद्यार्थ्यांना काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या गोष्टीपासून दूर राहण्याचा संदेश आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनैतिकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिस्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनैतिकता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणत्या मार्गाने प्रगती करण्यास सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नीतीमार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अनीतीमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळसाचा मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीचा मार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीतीमार्ग"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कवितेत विद्यार्थ्यांचे ध्येय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्चता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विश्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उच्चता"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "प्रार्थनेत कोणत्या गोष्टीसाठी आशीर्वाद मागितला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यास"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या मूल्यांशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यावसायिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राजकीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आर्थिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक मूल्ये"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कवितेचा शेवट कशावर भर देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रगती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगती"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रार्थना व शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रार्थना व शिक्षण"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘प्रार्थना’ या कवितेचा मुख्य विषय कोणता आहे?",
+      "answer": "या कवितेचा मुख्य विषय शिक्षण, ज्ञान आणि सद्गुणांचा विकास हा आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कवी विद्यार्थ्यांकडून काय अपेक्षा व्यक्त करतो?",
+      "answer": "कवी विद्यार्थ्यांनी सद्गुणी, नीतिमान आणि अभ्यासू व्हावे अशी अपेक्षा व्यक्त करतो."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "‘ज्ञानमंदिर’ या शब्दाचा अर्थ स्पष्ट करा.",
+      "answer": "‘ज्ञानमंदिर’ म्हणजे शाळा किंवा शिक्षणाचे पवित्र स्थान."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत शाळेला कोणते स्थान दिले आहे?",
+      "answer": "शाळेला ज्ञान देणारे आणि जीवन घडविणारे पवित्र स्थान मानले आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कवितेत विद्यार्थ्यांनी कोणता मार्ग स्वीकारावा असे सांगितले आहे?",
+      "answer": "विद्यार्थ्यांनी नीती आणि सत्याचा मार्ग स्वीकारावा असे सांगितले आहे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या मूल्यांवर भर दिला आहे?",
+      "answer": "चारित्र्य, प्रामाणिकपणा आणि कर्तव्यनिष्ठा या मूल्यांवर भर दिला आहे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "‘कीर्तिचा कळस’ या ओळीचा अर्थ काय?",
+      "answer": "उच्च यश आणि चांगली कीर्ती मिळवणे असा त्याचा अर्थ आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत विद्यार्थ्यांनी कसे जीवन जगावे असे सांगितले आहे?",
+      "answer": "विद्यार्थ्यांनी सुसंस्कृत आणि जबाबदार जीवन जगावे असे सांगितले आहे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘पंख’ या शब्दाचा अर्थ काय आहे?",
+      "answer": "पंख म्हणजे प्रगतीसाठी लागणारी क्षमता आणि शक्ती."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत कवी कोणाकडे विनंती करतो?",
+      "answer": "कवी ईश्वराकडे किंवा श्रेष्ठ शक्तीकडे विनंती करतो."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘सत्यम् शिवम् सुंदरम्’ या संकल्पनेचा अर्थ काय?",
+      "answer": "सत्य, कल्याण आणि सौंदर्य यांचा स्वीकार करणे असा अर्थ आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत विद्यार्थ्यांनी कोणत्या दुर्गुणांपासून दूर राहावे?",
+      "answer": "आळस, अनीती आणि स्वार्थ यांपासून दूर राहावे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांच्या जीवनात कशी उपयोगी ठरते?",
+      "answer": "ती विद्यार्थ्यांना योग्य मार्गदर्शन आणि प्रेरणा देते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत कृतज्ञता का व्यक्त केली आहे?",
+      "answer": "शिक्षण आणि ज्ञान मिळाल्याबद्दल कृतज्ञता व्यक्त केली आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "answer": "भाषा सोपी, भावपूर्ण आणि प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "प्रार्थना कवितेत कोणती भावना ठळकपणे दिसते?",
+      "answer": "नम्रता आणि आशा ही भावना ठळकपणे दिसते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना कोणता संदेश देते?",
+      "answer": "ज्ञान व सदाचाराने जीवन उज्ज्वल होते असा संदेश देते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘मार्गदर्शन’ या संकल्पनेचे महत्त्व काय आहे?",
+      "answer": "योग्य दिशा मिळाल्यास यश साध्य करता येते हे सांगितले आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत अभ्यासाचे महत्त्व कसे सांगितले आहे?",
+      "answer": "अभ्यासातूनच ज्ञान आणि यश मिळते असे सांगितले आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेत विद्यार्थ्यांचे अंतिम ध्येय काय आहे?",
+      "answer": "ज्ञानसंपन्न आणि सुसंस्कृत नागरिक बनणे हे ध्येय आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "ही कविता सकाळच्या प्रार्थनेत का म्हटली जाते?",
+      "answer": "दिवसाची सुरुवात सकारात्मक विचारांनी व्हावी म्हणून."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेत आत्मविश्वासाबद्दल काय सांगितले आहे?",
+      "answer": "आत्मविश्वासानेच प्रगती साधता येते असे सांगितले आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत विद्यार्थ्यांनी समाजासाठी काय करावे?",
+      "answer": "समाजासाठी चांगले कार्य करावे असे सांगितले आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या प्रकारची प्रगती अपेक्षित आहे?",
+      "answer": "नैतिक आणि बौद्धिक प्रगती अपेक्षित आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत विद्यार्थ्यांनी कसे वागावे असे सुचवले आहे?",
+      "answer": "अनुशासित आणि शिस्तबद्ध वागावे असे सुचवले आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवितेत ज्ञानाचे महत्त्व कसे मांडले आहे?",
+      "answer": "ज्ञानाला सर्वश्रेष्ठ संपत्ती मानले आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "प्रार्थना कविता विद्यार्थ्यांच्या व्यक्तिमत्त्वावर कसा परिणाम करते?",
+      "answer": "ती व्यक्तिमत्त्व घडविण्यास मदत करते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘दयासागर’ या शब्दाचा अर्थ काय?",
+      "answer": "करुणा आणि ममत्वाने भरलेली श्रेष्ठ शक्ती."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "प्रार्थनेत विद्यार्थ्यांनी कोणती जबाबदारी स्वीकारावी?",
+      "answer": "स्वतःच्या शिक्षणाची आणि वर्तनाची जबाबदारी स्वीकारावी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "या पाठातून विद्यार्थ्यांना कोणता मुख्य बोध मिळतो?",
+      "answer": "नीती, ज्ञान आणि कर्तव्य यांचे महत्त्व समजते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "प्रार्थना कविता शिक्षणाशी कशी जोडलेली आहे?",
+      "answer": "शिक्षण हे जीवन घडविण्याचे साधन आहे हे सांगते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांना प्रेरणा कशी देते?",
+      "answer": "सकारात्मक विचार आणि उद्दिष्ट देऊन प्रेरणा देते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "प्रार्थना पाठाचा एकूण आशय काय आहे?",
+      "answer": "शिक्षणातून सद्गुणी जीवन घडविण्याची प्रार्थना."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "विद्यार्थ्यांनी या कवितेतून काय आत्मसात करावे?",
+      "answer": "ज्ञानप्रेम, शिस्त आणि सदाचार आत्मसात करावा."
+    }
+  ]
+}

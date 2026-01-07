@@ -1,0 +1,966 @@
+{
+  "class": 7,
+  "subject": "Civics",
+  "chapter_number": 5,
+  "chapter_name": "Fundamental Rights – Part 2",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Which right ensures freedom of religion?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Religion",
+        "Right to Remedies"
+      ],
+      "answer": "Right to Religion"
+    },
+    {
+      "question_id": 2,
+      "question": "Which article guarantees freedom of conscience?",
+      "options": [
+        "Article 19",
+        "Article 21",
+        "Article 25",
+        "Article 32"
+      ],
+      "answer": "Article 25"
+    },
+    {
+      "question_id": 3,
+      "question": "Which article allows management of religious affairs?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 29",
+        "Article 30"
+      ],
+      "answer": "Article 26"
+    },
+    {
+      "question_id": 4,
+      "question": "Which article prohibits religious taxes?",
+      "options": [
+        "Article 26",
+        "Article 27",
+        "Article 28",
+        "Article 29"
+      ],
+      "answer": "Article 27"
+    },
+    {
+      "question_id": 5,
+      "question": "Which article forbids religious instruction in state institutions?",
+      "options": [
+        "Article 26",
+        "Article 27",
+        "Article 28",
+        "Article 29"
+      ],
+      "answer": "Article 28"
+    },
+    {
+      "question_id": 6,
+      "question": "Which right protects minority culture?",
+      "options": [
+        "Right to Religion",
+        "Cultural and Educational Rights",
+        "Right to Equality",
+        "Right to Remedies"
+      ],
+      "answer": "Cultural and Educational Rights"
+    },
+    {
+      "question_id": 7,
+      "question": "Which article protects culture, language and script?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 29",
+        "Article 30"
+      ],
+      "answer": "Article 29"
+    },
+    {
+      "question_id": 8,
+      "question": "Which article allows minorities to establish institutions?",
+      "options": [
+        "Article 28",
+        "Article 29",
+        "Article 30",
+        "Article 32"
+      ],
+      "answer": "Article 30"
+    },
+    {
+      "question_id": 9,
+      "question": "Which right ensures protection of educational interests?",
+      "options": [
+        "Right to Religion",
+        "Right to Equality",
+        "Cultural and Educational Rights",
+        "Right to Remedies"
+      ],
+      "answer": "Cultural and Educational Rights"
+    },
+    {
+      "question_id": 10,
+      "question": "Which right enforces Fundamental Rights?",
+      "options": [
+        "Right to Equality",
+        "Right to Remedies",
+        "Right to Freedom",
+        "Right to Religion"
+      ],
+      "answer": "Right to Remedies"
+    },
+    {
+      "question_id": 11,
+      "question": "Which article is called the heart and soul of Constitution?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer": "Article 32"
+    },
+    {
+      "question_id": 12,
+      "question": "Which court issues writs?",
+      "options": [
+        "District Court",
+        "High Court",
+        "Supreme Court",
+        "Both High Court and Supreme Court"
+      ],
+      "answer": "Both High Court and Supreme Court"
+    },
+    {
+      "question_id": 13,
+      "question": "Which writ protects personal liberty?",
+      "options": [
+        "Mandamus",
+        "Certiorari",
+        "Habeas Corpus",
+        "Quo Warranto"
+      ],
+      "answer": "Habeas Corpus"
+    },
+    {
+      "question_id": 14,
+      "question": "Which writ orders public authority to perform duty?",
+      "options": [
+        "Mandamus",
+        "Prohibition",
+        "Certiorari",
+        "Quo Warranto"
+      ],
+      "answer": "Mandamus"
+    },
+    {
+      "question_id": 15,
+      "question": "Which writ stops lower court from exceeding power?",
+      "options": [
+        "Prohibition",
+        "Habeas Corpus",
+        "Mandamus",
+        "Certiorari"
+      ],
+      "answer": "Prohibition"
+    },
+    {
+      "question_id": 16,
+      "question": "Which writ questions authority of office holder?",
+      "options": [
+        "Mandamus",
+        "Quo Warranto",
+        "Certiorari",
+        "Habeas Corpus"
+      ],
+      "answer": "Quo Warranto"
+    },
+    {
+      "question_id": 17,
+      "question": "Which writ transfers case to higher court?",
+      "options": [
+        "Prohibition",
+        "Mandamus",
+        "Certiorari",
+        "Habeas Corpus"
+      ],
+      "answer": "Certiorari"
+    },
+    {
+      "question_id": 18,
+      "question": "Which right ensures secularism?",
+      "options": [
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom",
+        "Cultural Rights"
+      ],
+      "answer": "Right to Religion"
+    },
+    {
+      "question_id": 19,
+      "question": "Which right allows free profession of religion?",
+      "options": [
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Remedies",
+        "Right to Freedom"
+      ],
+      "answer": "Right to Religion"
+    },
+    {
+      "question_id": 20,
+      "question": "Which right preserves diversity?",
+      "options": [
+        "Right to Equality",
+        "Right to Religion",
+        "Cultural Rights",
+        "Right to Remedies"
+      ],
+      "answer": "Cultural Rights"
+    },
+    {
+      "question_id": 21,
+      "question": "Which right helps minorities grow?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Cultural and Educational Rights",
+        "Right to Religion"
+      ],
+      "answer": "Cultural and Educational Rights"
+    },
+    {
+      "question_id": 22,
+      "question": "Which right cannot be denied to minorities?",
+      "options": [
+        "Cultural Rights",
+        "Right to Religion",
+        "Right to Equality",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 23,
+      "question": "Which right ensures India is secular?",
+      "options": [
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Remedies"
+      ],
+      "answer": "Right to Religion"
+    },
+    {
+      "question_id": 24,
+      "question": "Which institution safeguards Fundamental Rights?",
+      "options": [
+        "Parliament",
+        "Judiciary",
+        "Executive",
+        "President"
+      ],
+      "answer": "Judiciary"
+    },
+    {
+      "question_id": 25,
+      "question": "Which right allows moving court?",
+      "options": [
+        "Right to Remedies",
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom"
+      ],
+      "answer": "Right to Remedies"
+    },
+    {
+      "question_id": 26,
+      "question": "Which writ is preventive?",
+      "options": [
+        "Prohibition",
+        "Mandamus",
+        "Certiorari",
+        "Habeas Corpus"
+      ],
+      "answer": "Prohibition"
+    },
+    {
+      "question_id": 27,
+      "question": "Which writ is corrective?",
+      "options": [
+        "Certiorari",
+        "Prohibition",
+        "Mandamus",
+        "Quo Warranto"
+      ],
+      "answer": "Certiorari"
+    },
+    {
+      "question_id": 28,
+      "question": "Which writ ensures accountability?",
+      "options": [
+        "Quo Warranto",
+        "Habeas Corpus",
+        "Mandamus",
+        "Prohibition"
+      ],
+      "answer": "Quo Warranto"
+    },
+    {
+      "question_id": 29,
+      "question": "Which Fundamental Right is available to foreigners?",
+      "options": [
+        "Right to Religion",
+        "Right to Remedies",
+        "Article 21",
+        "Cultural Rights"
+      ],
+      "answer": "Article 21"
+    },
+    {
+      "question_id": 30,
+      "question": "Which right ensures freedom of faith?",
+      "options": [
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Remedies"
+      ],
+      "answer": "Right to Religion"
+    },
+    {
+      "question_id": 31,
+      "question": "Which right ensures harmony among religions?",
+      "options": [
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Remedies"
+      ],
+      "answer": "Right to Religion"
+    },
+    {
+      "question_id": 32,
+      "question": "Which article ensures no religious instruction in govt schools?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28"
+      ],
+      "answer": "Article 28"
+    },
+    {
+      "question_id": 33,
+      "question": "Which right enforces other rights?",
+      "options": [
+        "Right to Remedies",
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom"
+      ],
+      "answer": "Right to Remedies"
+    },
+    {
+      "question_id": 34,
+      "question": "Which writ protects against illegal detention?",
+      "options": [
+        "Habeas Corpus",
+        "Mandamus",
+        "Prohibition",
+        "Certiorari"
+      ],
+      "answer": "Habeas Corpus"
+    },
+    {
+      "question_id": 35,
+      "question": "Which right ensures justice through courts?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Remedies",
+        "Right to Religion"
+      ],
+      "answer": "Right to Remedies"
+    },
+    {
+      "question_id": 36,
+      "question": "Which right helps maintain unity in diversity?",
+      "options": [
+        "Cultural Rights",
+        "Right to Religion",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 37,
+      "question": "Which article allows religious institutions to manage affairs?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28"
+      ],
+      "answer": "Article 26"
+    },
+    {
+      "question_id": 38,
+      "question": "Which right protects educational institutions of minorities?",
+      "options": [
+        "Article 29",
+        "Article 30",
+        "Article 32",
+        "Article 25"
+      ],
+      "answer": "Article 30"
+    },
+    {
+      "question_id": 39,
+      "question": "Which article prevents misuse of religion?",
+      "options": [
+        "Article 25",
+        "Article 27",
+        "Article 28",
+        "Article 29"
+      ],
+      "answer": "Article 27"
+    },
+    {
+      "question_id": 40,
+      "question": "Which right ensures dignity of cultural groups?",
+      "options": [
+        "Cultural Rights",
+        "Right to Equality",
+        "Right to Religion",
+        "Right to Remedies"
+      ],
+      "answer": "Cultural Rights"
+    },
+    {
+      "question_id": 41,
+      "question": "Which right promotes tolerance?",
+      "options": [
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Remedies"
+      ],
+      "answer": "Right to Religion"
+    },
+    {
+      "question_id": 42,
+      "question": "Which right is essential for plural society?",
+      "options": [
+        "Cultural Rights",
+        "Right to Religion",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 43,
+      "question": "Which article allows state regulation of religion?",
+      "options": [
+        "Article 25",
+        "Article 26",
+        "Article 27",
+        "Article 28"
+      ],
+      "answer": "Article 25"
+    },
+    {
+      "question_id": 44,
+      "question": "Which Fundamental Right protects diversity?",
+      "options": [
+        "Cultural Rights",
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Remedies"
+      ],
+      "answer": "Cultural Rights"
+    },
+    {
+      "question_id": 45,
+      "question": "Which right ensures constitutional protection?",
+      "options": [
+        "Right to Remedies",
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom"
+      ],
+      "answer": "Right to Remedies"
+    },
+    {
+      "question_id": 46,
+      "question": "Which right allows approach to Supreme Court?",
+      "options": [
+        "Right to Remedies",
+        "Right to Religion",
+        "Right to Equality",
+        "Right to Freedom"
+      ],
+      "answer": "Right to Remedies"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What is Right to Religion?",
+      "answer": "It ensures freedom of religion."
+    },
+    {
+      "question_id": 2,
+      "question": "Which articles deal with Right to Religion?",
+      "answer": "Articles 25 to 28."
+    },
+    {
+      "question_id": 3,
+      "question": "What is freedom of conscience?",
+      "answer": "Freedom to follow beliefs."
+    },
+    {
+      "question_id": 4,
+      "question": "What does Article 25 guarantee?",
+      "answer": "Freedom to practice religion."
+    },
+    {
+      "question_id": 5,
+      "question": "What does Article 26 guarantee?",
+      "answer": "Management of religious affairs."
+    },
+    {
+      "question_id": 6,
+      "question": "What does Article 27 prohibit?",
+      "answer": "Religious taxes."
+    },
+    {
+      "question_id": 7,
+      "question": "What does Article 28 prohibit?",
+      "answer": "Religious instruction in government schools."
+    },
+    {
+      "question_id": 8,
+      "question": "Why is Right to Religion important?",
+      "answer": "It ensures religious freedom."
+    },
+    {
+      "question_id": 9,
+      "question": "What are Cultural Rights?",
+      "answer": "Rights to preserve culture."
+    },
+    {
+      "question_id": 10,
+      "question": "Which articles deal with Cultural Rights?",
+      "answer": "Articles 29 and 30."
+    },
+    {
+      "question_id": 11,
+      "question": "What does Article 29 protect?",
+      "answer": "Culture, language and script."
+    },
+    {
+      "question_id": 12,
+      "question": "What does Article 30 protect?",
+      "answer": "Minority educational institutions."
+    },
+    {
+      "question_id": 13,
+      "question": "Why are Cultural Rights important?",
+      "answer": "They protect diversity."
+    },
+    {
+      "question_id": 14,
+      "question": "Who are minorities?",
+      "answer": "Smaller religious or linguistic groups."
+    },
+    {
+      "question_id": 15,
+      "question": "Why should minority culture be protected?",
+      "answer": "To maintain diversity."
+    },
+    {
+      "question_id": 16,
+      "question": "What is Right to Remedies?",
+      "answer": "Right to enforce Fundamental Rights."
+    },
+    {
+      "question_id": 17,
+      "question": "Which article deals with Right to Remedies?",
+      "answer": "Article 32."
+    },
+    {
+      "question_id": 18,
+      "question": "Why is Article 32 important?",
+      "answer": "It enforces rights."
+    },
+    {
+      "question_id": 19,
+      "question": "What is a writ?",
+      "answer": "A court order."
+    },
+    {
+      "question_id": 20,
+      "question": "Name any two writs.",
+      "answer": "Habeas Corpus and Mandamus."
+    },
+    {
+      "question_id": 21,
+      "question": "What is Habeas Corpus?",
+      "answer": "Writ to protect liberty."
+    },
+    {
+      "question_id": 22,
+      "question": "What is Mandamus?",
+      "answer": "Order to perform duty."
+    },
+    {
+      "question_id": 23,
+      "question": "What is Prohibition?",
+      "answer": "Order to stop illegal action."
+    },
+    {
+      "question_id": 24,
+      "question": "What is Certiorari?",
+      "answer": "Order to transfer case."
+    },
+    {
+      "question_id": 25,
+      "question": "What is Quo Warranto?",
+      "answer": "Questions authority of office holder."
+    },
+    {
+      "question_id": 26,
+      "question": "Who can issue writs?",
+      "answer": "Supreme Court and High Courts."
+    },
+    {
+      "question_id": 27,
+      "question": "Why is Right to Remedies essential?",
+      "answer": "It protects rights."
+    },
+    {
+      "question_id": 28,
+      "question": "What happens if rights are violated?",
+      "answer": "Courts can be approached."
+    },
+    {
+      "question_id": 29,
+      "question": "Which right ensures secularism?",
+      "answer": "Right to Religion."
+    },
+    {
+      "question_id": 30,
+      "question": "How does Right to Religion promote harmony?",
+      "answer": "By respecting all faiths."
+    },
+    {
+      "question_id": 31,
+      "question": "What is secularism?",
+      "answer": "Equal respect to all religions."
+    },
+    {
+      "question_id": 32,
+      "question": "Can religious freedom be restricted?",
+      "answer": "Yes, in public interest."
+    },
+    {
+      "question_id": 33,
+      "question": "What is public order?",
+      "answer": "Peace in society."
+    },
+    {
+      "question_id": 34,
+      "question": "Why can state regulate religion?",
+      "answer": "For social welfare."
+    },
+    {
+      "question_id": 35,
+      "question": "What is freedom of worship?",
+      "answer": "Right to worship."
+    },
+    {
+      "question_id": 36,
+      "question": "What is freedom of faith?",
+      "answer": "Right to believe."
+    },
+    {
+      "question_id": 37,
+      "question": "Why is religious tolerance important?",
+      "answer": "For unity."
+    },
+    {
+      "question_id": 38,
+      "question": "What is cultural diversity?",
+      "answer": "Variety of cultures."
+    },
+    {
+      "question_id": 39,
+      "question": "How do Cultural Rights protect diversity?",
+      "answer": "By preserving culture."
+    },
+    {
+      "question_id": 40,
+      "question": "Why is language protection important?",
+      "answer": "For identity."
+    },
+    {
+      "question_id": 41,
+      "question": "What is minority institution?",
+      "answer": "Institution run by minorities."
+    },
+    {
+      "question_id": 42,
+      "question": "Why can minorities run institutions?",
+      "answer": "To preserve culture."
+    },
+    {
+      "question_id": 43,
+      "question": "What is constitutional remedy?",
+      "answer": "Legal solution for rights."
+    },
+    {
+      "question_id": 44,
+      "question": "Why are courts guardians of rights?",
+      "answer": "They enforce Constitution."
+    },
+    {
+      "question_id": 45,
+      "question": "Which court is highest?",
+      "answer": "Supreme Court."
+    },
+    {
+      "question_id": 46,
+      "question": "What is jurisdiction?",
+      "answer": "Authority of court."
+    },
+    {
+      "question_id": 47,
+      "question": "Why is writ jurisdiction important?",
+      "answer": "For speedy justice."
+    },
+    {
+      "question_id": 48,
+      "question": "What is illegal detention?",
+      "answer": "Unlawful confinement."
+    },
+    {
+      "question_id": 49,
+      "question": "How does Habeas Corpus help?",
+      "answer": "It frees detained person."
+    },
+    {
+      "question_id": 50,
+      "question": "What is misuse of religion?",
+      "answer": "Using religion for wrong purpose."
+    },
+    {
+      "question_id": 51,
+      "question": "How does Constitution prevent misuse?",
+      "answer": "Through restrictions."
+    },
+    {
+      "question_id": 52,
+      "question": "What is harmony?",
+      "answer": "Peaceful coexistence."
+    },
+    {
+      "question_id": 53,
+      "question": "How does religion promote harmony?",
+      "answer": "By moral values."
+    },
+    {
+      "question_id": 54,
+      "question": "Why is culture important?",
+      "answer": "It defines identity."
+    },
+    {
+      "question_id": 55,
+      "question": "What is educational interest?",
+      "answer": "Learning rights."
+    },
+    {
+      "question_id": 56,
+      "question": "Why protect minority education?",
+      "answer": "To ensure equality."
+    },
+    {
+      "question_id": 57,
+      "question": "What is diversity?",
+      "answer": "Variety in society."
+    },
+    {
+      "question_id": 58,
+      "question": "How does diversity strengthen nation?",
+      "answer": "By inclusiveness."
+    },
+    {
+      "question_id": 59,
+      "question": "What is tolerance?",
+      "answer": "Acceptance of differences."
+    },
+    {
+      "question_id": 60,
+      "question": "Why is tolerance needed?",
+      "answer": "For unity."
+    },
+    {
+      "question_id": 61,
+      "question": "How do rights balance freedom?",
+      "answer": "With restrictions."
+    },
+    {
+      "question_id": 62,
+      "question": "What is dignity of individual?",
+      "answer": "Self-respect."
+    },
+    {
+      "question_id": 63,
+      "question": "How do Cultural Rights ensure dignity?",
+      "answer": "By respecting culture."
+    },
+    {
+      "question_id": 64,
+      "question": "Why is Right to Remedies powerful?",
+      "answer": "It enforces all rights."
+    },
+    {
+      "question_id": 65,
+      "question": "What happens if writs are ignored?",
+      "answer": "Contempt of court."
+    },
+    {
+      "question_id": 66,
+      "question": "Why is judiciary independent?",
+      "answer": "To protect rights."
+    },
+    {
+      "question_id": 67,
+      "question": "How do rights ensure justice?",
+      "answer": "Through courts."
+    },
+    {
+      "question_id": 68,
+      "question": "What is national integration?",
+      "answer": "Unity of nation."
+    },
+    {
+      "question_id": 69,
+      "question": "How do Cultural Rights promote integration?",
+      "answer": "By respecting diversity."
+    },
+    {
+      "question_id": 70,
+      "question": "What is faith?",
+      "answer": "Belief in religion."
+    },
+    {
+      "question_id": 71,
+      "question": "Why is freedom of faith important?",
+      "answer": "For conscience."
+    },
+    {
+      "question_id": 72,
+      "question": "What is worship?",
+      "answer": "Religious practice."
+    },
+    {
+      "question_id": 73,
+      "question": "Why is worship freedom important?",
+      "answer": "For liberty."
+    },
+    {
+      "question_id": 74,
+      "question": "What is linguistic minority?",
+      "answer": "Language-based group."
+    },
+    {
+      "question_id": 75,
+      "question": "Why protect linguistic minorities?",
+      "answer": "For identity."
+    },
+    {
+      "question_id": 76,
+      "question": "What is constitutional protection?",
+      "answer": "Protection by Constitution."
+    },
+    {
+      "question_id": 77,
+      "question": "Why is Constitution supreme?",
+      "answer": "It is highest law."
+    },
+    {
+      "question_id": 78,
+      "question": "How do Fundamental Rights support democracy?",
+      "answer": "By empowering people."
+    },
+    {
+      "question_id": 79,
+      "question": "Why must citizens respect others’ rights?",
+      "answer": "For harmony."
+    },
+    {
+      "question_id": 80,
+      "question": "What is essence of Fundamental Rights?",
+      "answer": "Freedom and equality."
+    },
+    {
+      "question_id": 81,
+      "question": "Why is this chapter important?",
+      "answer": "It explains religious and cultural rights."
+    },
+    {
+      "question_id": 82,
+      "question": "What lesson does this chapter teach?",
+      "answer": "Respect diversity."
+    },
+    {
+      "question_id": 83,
+      "question": "How do rights strengthen democracy?",
+      "answer": "By ensuring justice."
+    },
+    {
+      "question_id": 84,
+      "question": "Why is unity in diversity important?",
+      "answer": "It strengthens nation."
+    },
+    {
+      "question_id": 85,
+      "question": "How do remedies ensure justice?",
+      "answer": "By legal enforcement."
+    },
+    {
+      "question_id": 86,
+      "question": "Why are rights enforceable?",
+      "answer": "Courts protect them."
+    },
+    {
+      "question_id": 87,
+      "question": "What is importance of writs?",
+      "answer": "They ensure quick justice."
+    },
+    {
+      "question_id": 88,
+      "question": "How does Constitution ensure harmony?",
+      "answer": "Through rights."
+    },
+    {
+      "question_id": 89,
+      "question": "Why should students learn rights?",
+      "answer": "To be aware citizens."
+    },
+    {
+      "question_id": 90,
+      "question": "What is long-term value of rights?",
+      "answer": "Sustains democracy."
+    }
+  ]
+}

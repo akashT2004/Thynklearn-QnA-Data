@@ -1,0 +1,1602 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.09",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "Agriculture"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Agriculture is the ____ of crops and rearing animals.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "industry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "science",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "practice"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The practice of growing crops is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "forestry",
+          "is_correct": false
+        }
+      ],
+      "answer": "farming"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The practice of rearing animals is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "poultry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "animal husbandry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "dairy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "animal husbandry"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Agriculture mainly depends on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "rainfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which crop is a food crop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jute",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which crop is a cash crop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sugarcane",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pulses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sugarcane"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which crop is used as raw material in industries?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Maize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which crop is grown in summer season?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rabi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kharif",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Zaid",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Zaid"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Kharif crops are sown in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "monsoon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "monsoon"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Rabi crops are sown in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "monsoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "winter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "winter"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which is a Rabi crop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sugarcane",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which is a Kharif crop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gram",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rice",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mustard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which is a Zaid crop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Watermelon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cotton",
+          "is_correct": false
+        }
+      ],
+      "answer": "Watermelon"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which crop requires high rainfall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gram",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mustard",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which crop grows well in black soil?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tea",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Tea is a ____ crop.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "food",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cash",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "oilseed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fibre",
+          "is_correct": false
+        }
+      ],
+      "answer": "cash"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Coffee is grown mainly on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "plains",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "plateaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "mountain slopes",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "deserts",
+          "is_correct": false
+        }
+      ],
+      "answer": "mountain slopes"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which crop provides fibre?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gram",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which crop is used to make sugar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sugarcane",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Maize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sugarcane"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Pulses are rich in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "fats",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "proteins",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "carbohydrates",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "vitamins",
+          "is_correct": false
+        }
+      ],
+      "answer": "proteins"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which is an oilseed crop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Groundnut",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Maize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Groundnut"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which farming uses simple tools?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Commercial farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Subsistence farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Plantation farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Intensive farming",
+          "is_correct": false
+        }
+      ],
+      "answer": "Subsistence farming"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which farming is done to earn profit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Subsistence",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Commercial",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shifting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mixed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Commercial"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Plantation farming involves ____ crop.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "many",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "single",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "seasonal",
+          "is_correct": false
+        }
+      ],
+      "answer": "single"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which is a plantation crop?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pulses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tea"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Shifting cultivation is also called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "intensive farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "jhum farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "mixed farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "dry farming",
+          "is_correct": false
+        }
+      ],
+      "answer": "jhum farming"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which farming involves crop rotation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Subsistence",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mixed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shifting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pastoral",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mixed"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which farming includes crops and animals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plantation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mixed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shifting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Commercial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mixed"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which method of irrigation uses canals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sprinkler",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Drip",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Canal irrigation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rainwater harvesting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Canal irrigation"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which irrigation method saves water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Canal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flood",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drip",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Tank",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drip"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which farming is practiced on hill slopes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Terrace farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Plantation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mixed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pastoral",
+          "is_correct": false
+        }
+      ],
+      "answer": "Terrace farming"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Terrace farming prevents ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "floods",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "erosion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pollution",
+          "is_correct": false
+        }
+      ],
+      "answer": "erosion"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which tool is used for ploughing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sickle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hoe",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plough",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spade",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plough"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Harvesting means ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "sowing seeds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cutting crops",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ploughing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "irrigating",
+          "is_correct": false
+        }
+      ],
+      "answer": "cutting crops"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which machine is used for harvesting?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tractor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Harvester",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Plough",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hoe",
+          "is_correct": false
+        }
+      ],
+      "answer": "Harvester"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Manures are ____ substances.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "chemical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "organic",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "artificial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "harmful",
+          "is_correct": false
+        }
+      ],
+      "answer": "organic"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Fertilizers are ____ substances.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "organic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "natural",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "chemical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "harmless",
+          "is_correct": false
+        }
+      ],
+      "answer": "chemical"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Use of excessive fertilizers ____ soil.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "improves",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "damages",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "protects",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "does not affect",
+          "is_correct": false
+        }
+      ],
+      "answer": "damages"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which practice helps maintain soil fertility?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Monocropping",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Crop rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Overgrazing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Deforestation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Crop rotation"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which farming depends mainly on rainfall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Irrigated farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dry farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mixed farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Plantation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dry farming"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which crop grows in dry regions?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Millets",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sugarcane",
+          "is_correct": false
+        }
+      ],
+      "answer": "Millets"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which crop is known as staple food?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cotton",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tea",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Agriculture provides ____ to most people.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "shelter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "employment",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "medicine",
+          "is_correct": false
+        }
+      ],
+      "answer": "employment"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which sector does agriculture belong to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Primary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Secondary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tertiary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Quaternary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Primary"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is agriculture?",
+      "answer": "The practice of growing crops and rearing animals."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why agriculture is important?",
+      "answer": "It provides food and raw materials."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is farming?",
+      "answer": "Growing of crops."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is animal husbandry?",
+      "answer": "Rearing of animals."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Name two food crops.",
+      "answer": "Rice and wheat."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Name two cash crops.",
+      "answer": "Cotton and sugarcane."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are Kharif crops?",
+      "answer": "Crops grown in monsoon season."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are Rabi crops?",
+      "answer": "Crops grown in winter season."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are Zaid crops?",
+      "answer": "Crops grown in summer season."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Give example of Kharif crop.",
+      "answer": "Rice."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Give example of Rabi crop.",
+      "answer": "Wheat."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Give example of Zaid crop.",
+      "answer": "Watermelon."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which crop needs heavy rainfall?",
+      "answer": "Rice."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which crop grows in black soil?",
+      "answer": "Cotton."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are plantation crops?",
+      "answer": "Crops grown on large estates."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Give example of plantation crop.",
+      "answer": "Tea."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is subsistence farming?",
+      "answer": "Farming for self consumption."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is commercial farming?",
+      "answer": "Farming done for sale."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is shifting cultivation?",
+      "answer": "Cultivation after clearing forests."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why shifting cultivation is harmful?",
+      "answer": "Causes deforestation and erosion."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is mixed farming?",
+      "answer": "Crops and animals reared together."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is terrace farming?",
+      "answer": "Step farming on hill slopes."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why terrace farming is useful?",
+      "answer": "Prevents soil erosion."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is irrigation?",
+      "answer": "Artificial supply of water to crops."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Name two sources of irrigation.",
+      "answer": "Canals and wells."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is drip irrigation?",
+      "answer": "Water supplied drop by drop."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why drip irrigation is useful?",
+      "answer": "Saves water."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are manures?",
+      "answer": "Organic substances added to soil."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What are fertilizers?",
+      "answer": "Chemical substances added to soil."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why fertilizers should be used carefully?",
+      "answer": "They damage soil if overused."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is ploughing?",
+      "answer": "Loosening and turning of soil."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is sowing?",
+      "answer": "Planting seeds in soil."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is harvesting?",
+      "answer": "Cutting of mature crops."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is threshing?",
+      "answer": "Separating grains from stalks."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is storage of crops?",
+      "answer": "Keeping crops safely."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is crop rotation?",
+      "answer": "Growing different crops alternately."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why crop rotation is important?",
+      "answer": "Maintains soil fertility."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What are millets?",
+      "answer": "Crops grown in dry areas."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why millets need less water?",
+      "answer": "They are drought resistant."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is dry farming?",
+      "answer": "Farming without irrigation."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is irrigated farming?",
+      "answer": "Farming using irrigation."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which farming depends on rainfall?",
+      "answer": "Dry farming."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What tools are used in farming?",
+      "answer": "Plough, hoe and sickle."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is a harvester?",
+      "answer": "Machine used to harvest crops."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How agriculture affects economy?",
+      "answer": "Provides employment and income."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why agriculture is called backbone of economy?",
+      "answer": "Most people depend on it."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "How climate affects agriculture?",
+      "answer": "Determines crop growth."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How soil affects agriculture?",
+      "answer": "Decides crop suitability."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is staple food?",
+      "answer": "Food eaten daily."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Give example of staple food.",
+      "answer": "Rice."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is sustainable agriculture?",
+      "answer": "Farming without harming environment."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why water conservation is important in agriculture?",
+      "answer": "To avoid water scarcity."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is organic farming?",
+      "answer": "Farming using natural inputs."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why organic farming is beneficial?",
+      "answer": "Protects soil health."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How agriculture supports industries?",
+      "answer": "Provides raw materials."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why mechanization is important in farming?",
+      "answer": "Saves time and labour."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is agriculture sector?",
+      "answer": "Primary sector."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "How agriculture affects rural life?",
+      "answer": "Main source of livelihood."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why farmers are important?",
+      "answer": "They produce food."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What is modern agriculture?",
+      "answer": "Use of machines and technology."
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 7,
+  "chapter_name": "The Administration of the Swaraj",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Who was the supreme head of Swaraj administration?",
+      "options": [
+        "Peshwa",
+        "Ashta Pradhan",
+        "Shivaji Maharaj",
+        "Senapati"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 2,
+      "question": "What was the council of ministers called?",
+      "options": [
+        "Panchayat",
+        "Ashta Pradhan",
+        "Mantriparishad",
+        "Sabha"
+      ],
+      "answer": "Ashta Pradhan"
+    },
+    {
+      "question_id": 3,
+      "question": "How many ministers were there in Ashta Pradhan?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "answer": "Eight"
+    },
+    {
+      "question_id": 4,
+      "question": "Who was the Prime Minister of Swaraj?",
+      "options": [
+        "Peshwa",
+        "Amatya",
+        "Sachiv",
+        "Senapati"
+      ],
+      "answer": "Peshwa"
+    },
+    {
+      "question_id": 5,
+      "question": "Which minister looked after finance?",
+      "options": [
+        "Amatya",
+        "Sachiv",
+        "Panditrao",
+        "Sumant"
+      ],
+      "answer": "Amatya"
+    },
+    {
+      "question_id": 6,
+      "question": "Who maintained royal correspondence?",
+      "options": [
+        "Sachiv",
+        "Amatya",
+        "Peshwa",
+        "Mantri"
+      ],
+      "answer": "Sachiv"
+    },
+    {
+      "question_id": 7,
+      "question": "Which minister was in charge of foreign relations?",
+      "options": [
+        "Sumant",
+        "Amatya",
+        "Panditrao",
+        "Nyayadhish"
+      ],
+      "answer": "Sumant"
+    },
+    {
+      "question_id": 8,
+      "question": "Who was responsible for justice?",
+      "options": [
+        "Panditrao",
+        "Nyayadhish",
+        "Peshwa",
+        "Sachiv"
+      ],
+      "answer": "Nyayadhish"
+    },
+    {
+      "question_id": 9,
+      "question": "Which minister looked after religious matters?",
+      "options": [
+        "Panditrao",
+        "Amatya",
+        "Sachiv",
+        "Sumant"
+      ],
+      "answer": "Panditrao"
+    },
+    {
+      "question_id": 10,
+      "question": "Who was the military commander?",
+      "options": [
+        "Peshwa",
+        "Senapati",
+        "Amatya",
+        "Sachiv"
+      ],
+      "answer": "Senapati"
+    },
+    {
+      "question_id": 11,
+      "question": "Which system ensured decentralised administration?",
+      "options": [
+        "Central rule",
+        "Village administration",
+        "Foreign rule",
+        "British system"
+      ],
+      "answer": "Village administration"
+    },
+    {
+      "question_id": 12,
+      "question": "Who was the head of a village?",
+      "options": [
+        "Kulkarni",
+        "Patil",
+        "Deshmukh",
+        "Qazi"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 13,
+      "question": "Who maintained village records?",
+      "options": [
+        "Patil",
+        "Kulkarni",
+        "Deshmukh",
+        "Amatya"
+      ],
+      "answer": "Kulkarni"
+    },
+    {
+      "question_id": 14,
+      "question": "Which official supervised many villages?",
+      "options": [
+        "Patil",
+        "Kulkarni",
+        "Deshmukh",
+        "Havaldar"
+      ],
+      "answer": "Deshmukh"
+    },
+    {
+      "question_id": 15,
+      "question": "What was the main source of income?",
+      "options": [
+        "Trade",
+        "Land revenue",
+        "Customs",
+        "Tribute"
+      ],
+      "answer": "Land revenue"
+    },
+    {
+      "question_id": 16,
+      "question": "What was the land revenue rate generally?",
+      "options": [
+        "One-third",
+        "Half",
+        "Two-thirds",
+        "One-fourth"
+      ],
+      "answer": "One-third"
+    },
+    {
+      "question_id": 17,
+      "question": "Which tax was NOT collected in Swaraj?",
+      "options": [
+        "Land revenue",
+        "Chauth",
+        "Sardeshmukhi",
+        "Jizya"
+      ],
+      "answer": "Jizya"
+    },
+    {
+      "question_id": 18,
+      "question": "Who protected farmers from exploitation?",
+      "options": [
+        "Jagirdars",
+        "Shivaji Maharaj",
+        "Foreigners",
+        "British"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 19,
+      "question": "Which principle guided revenue collection?",
+      "options": [
+        "Harshness",
+        "Fairness",
+        "Force",
+        "Corruption"
+      ],
+      "answer": "Fairness"
+    },
+    {
+      "question_id": 20,
+      "question": "Who looked after intelligence?",
+      "options": [
+        "Mantri",
+        "Sachiv",
+        "Peshwa",
+        "Amatya"
+      ],
+      "answer": "Mantri"
+    },
+    {
+      "question_id": 21,
+      "question": "Which officer inspected provinces?",
+      "options": [
+        "Peshwa",
+        "Mantri",
+        "Amatya",
+        "Senapati"
+      ],
+      "answer": "Mantri"
+    },
+    {
+      "question_id": 22,
+      "question": "Which system ensured justice to people?",
+      "options": [
+        "Judicial system",
+        "Foreign courts",
+        "Military courts",
+        "British courts"
+      ],
+      "answer": "Judicial system"
+    },
+    {
+      "question_id": 23,
+      "question": "Who headed the provincial administration?",
+      "options": [
+        "Subhedar",
+        "Patil",
+        "Kulkarni",
+        "Deshmukh"
+      ],
+      "answer": "Subhedar"
+    },
+    {
+      "question_id": 24,
+      "question": "What were provinces called?",
+      "options": [
+        "Sarkars",
+        "Prants",
+        "Subhas",
+        "Districts"
+      ],
+      "answer": "Prants"
+    },
+    {
+      "question_id": 25,
+      "question": "Who controlled forts?",
+      "options": [
+        "Havaldar",
+        "Subhedar",
+        "Peshwa",
+        "Patil"
+      ],
+      "answer": "Havaldar"
+    },
+    {
+      "question_id": 26,
+      "question": "Which department handled correspondence?",
+      "options": [
+        "Sachiv",
+        "Amatya",
+        "Mantri",
+        "Sumant"
+      ],
+      "answer": "Sachiv"
+    },
+    {
+      "question_id": 27,
+      "question": "What was the role of Nyayadhish?",
+      "options": [
+        "Finance",
+        "Justice",
+        "Religion",
+        "War"
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 28,
+      "question": "Which feature made Swaraj unique?",
+      "options": [
+        "Oppression",
+        "People welfare",
+        "Foreign control",
+        "Heavy taxes"
+      ],
+      "answer": "People welfare"
+    },
+    {
+      "question_id": 29,
+      "question": "Who protected women and children?",
+      "options": [
+        "Army",
+        "Shivaji Maharaj",
+        "Village heads",
+        "Courts"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 30,
+      "question": "Which language was used for administration?",
+      "options": [
+        "Persian",
+        "Marathi",
+        "Sanskrit",
+        "Urdu"
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "question_id": 31,
+      "question": "What ensured efficiency in administration?",
+      "options": [
+        "Clear duties",
+        "Fear",
+        "Punishment",
+        "Foreign support"
+      ],
+      "answer": "Clear duties"
+    },
+    {
+      "question_id": 32,
+      "question": "Who punished corrupt officials?",
+      "options": [
+        "Peshwa",
+        "Shivaji Maharaj",
+        "Nyayadhish",
+        "Amatya"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 33,
+      "question": "Which system avoided jagirdari?",
+      "options": [
+        "Swaraj system",
+        "Mughal system",
+        "British system",
+        "Sultanate system"
+      ],
+      "answer": "Swaraj system"
+    },
+    {
+      "question_id": 34,
+      "question": "What was emphasis of Swaraj administration?",
+      "options": [
+        "Revenue",
+        "Welfare",
+        "Expansion",
+        "War"
+      ],
+      "answer": "Welfare"
+    },
+    {
+      "question_id": 35,
+      "question": "Which officer maintained law and order in forts?",
+      "options": [
+        "Havaldar",
+        "Patil",
+        "Subhedar",
+        "Senapati"
+      ],
+      "answer": "Havaldar"
+    },
+    {
+      "question_id": 36,
+      "question": "Which department collected taxes?",
+      "options": [
+        "Finance",
+        "Military",
+        "Justice",
+        "Foreign"
+      ],
+      "answer": "Finance"
+    },
+    {
+      "question_id": 37,
+      "question": "Who supervised ministers?",
+      "options": [
+        "Peshwa",
+        "Shivaji Maharaj",
+        "Nyayadhish",
+        "Amatya"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 38,
+      "question": "What ensured public support?",
+      "options": [
+        "Fair rule",
+        "Fear",
+        "Force",
+        "Taxes"
+      ],
+      "answer": "Fair rule"
+    },
+    {
+      "question_id": 39,
+      "question": "Which value was central to administration?",
+      "options": [
+        "Justice",
+        "Oppression",
+        "Greed",
+        "Fear"
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 40,
+      "question": "Which official kept records of revenue?",
+      "options": [
+        "Amatya",
+        "Sachiv",
+        "Mantri",
+        "Sumant"
+      ],
+      "answer": "Amatya"
+    },
+    {
+      "question_id": 41,
+      "question": "Which minister advised on diplomacy?",
+      "options": [
+        "Sumant",
+        "Amatya",
+        "Panditrao",
+        "Nyayadhish"
+      ],
+      "answer": "Sumant"
+    },
+    {
+      "question_id": 42,
+      "question": "Which feature reduced corruption?",
+      "options": [
+        "Strict control",
+        "Foreign rule",
+        "Private armies",
+        "Jagirs"
+      ],
+      "answer": "Strict control"
+    },
+    {
+      "question_id": 43,
+      "question": "Who ensured moral conduct?",
+      "options": [
+        "Panditrao",
+        "Nyayadhish",
+        "Peshwa",
+        "Sachiv"
+      ],
+      "answer": "Panditrao"
+    },
+    {
+      "question_id": 44,
+      "question": "Which was NOT a minister?",
+      "options": [
+        "Peshwa",
+        "Amatya",
+        "Collector",
+        "Senapati"
+      ],
+      "answer": "Collector"
+    },
+    {
+      "question_id": 45,
+      "question": "What made administration people-friendly?",
+      "options": [
+        "Justice system",
+        "Heavy taxes",
+        "Fear",
+        "Force"
+      ],
+      "answer": "Justice system"
+    },
+    {
+      "question_id": 46,
+      "question": "Which officer managed provincial defence?",
+      "options": [
+        "Subhedar",
+        "Patil",
+        "Kulkarni",
+        "Panditrao"
+      ],
+      "answer": "Subhedar"
+    },
+    {
+      "question_id": 47,
+      "question": "What ensured stability of Swaraj?",
+      "options": [
+        "Efficient administration",
+        "Foreign alliances",
+        "Fear",
+        "Oppression"
+      ],
+      "answer": "Efficient administration"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What is meant by administration of Swaraj?",
+      "answer": "It refers to the system of governance established by Shivaji Maharaj."
+    },
+    {
+      "question_id": 2,
+      "question": "Who was the head of Swaraj administration?",
+      "answer": "Shivaji Maharaj was the supreme head."
+    },
+    {
+      "question_id": 3,
+      "question": "What was Ashta Pradhan?",
+      "answer": "It was the council of eight ministers."
+    },
+    {
+      "question_id": 4,
+      "question": "Name the Prime Minister of Swaraj.",
+      "answer": "The Prime Minister was called Peshwa."
+    },
+    {
+      "question_id": 5,
+      "question": "Who was Amatya?",
+      "answer": "Amatya was the finance minister."
+    },
+    {
+      "question_id": 6,
+      "question": "What was role of Sachiv?",
+      "answer": "Sachiv handled royal correspondence."
+    },
+    {
+      "question_id": 7,
+      "question": "Who was Sumant?",
+      "answer": "Sumant managed foreign relations."
+    },
+    {
+      "question_id": 8,
+      "question": "What was duty of Nyayadhish?",
+      "answer": "Nyayadhish looked after justice."
+    },
+    {
+      "question_id": 9,
+      "question": "Who was Panditrao?",
+      "answer": "Panditrao managed religious affairs."
+    },
+    {
+      "question_id": 10,
+      "question": "Who was Senapati?",
+      "answer": "Senapati was the military commander."
+    },
+    {
+      "question_id": 11,
+      "question": "What was role of Mantri?",
+      "answer": "Mantri looked after intelligence and inspection."
+    },
+    {
+      "question_id": 12,
+      "question": "How many ministers were there?",
+      "answer": "There were eight ministers."
+    },
+    {
+      "question_id": 13,
+      "question": "Why was Ashta Pradhan important?",
+      "answer": "It ensured smooth administration."
+    },
+    {
+      "question_id": 14,
+      "question": "What was basis of administration?",
+      "answer": "People’s welfare was the basis."
+    },
+    {
+      "question_id": 15,
+      "question": "Which language was used officially?",
+      "answer": "Marathi was used."
+    },
+    {
+      "question_id": 16,
+      "question": "How were provinces divided?",
+      "answer": "Into prants."
+    },
+    {
+      "question_id": 17,
+      "question": "Who was Subhedar?",
+      "answer": "He was head of a province."
+    },
+    {
+      "question_id": 18,
+      "question": "What was role of Havaldar?",
+      "answer": "He controlled forts."
+    },
+    {
+      "question_id": 19,
+      "question": "Who was Patil?",
+      "answer": "Patil was village head."
+    },
+    {
+      "question_id": 20,
+      "question": "What was Kulkarni’s duty?",
+      "answer": "He kept village records."
+    },
+    {
+      "question_id": 21,
+      "question": "Who was Deshmukh?",
+      "answer": "He supervised many villages."
+    },
+    {
+      "question_id": 22,
+      "question": "How was justice delivered?",
+      "answer": "Through fair judicial system."
+    },
+    {
+      "question_id": 23,
+      "question": "Why was administration people-friendly?",
+      "answer": "It protected common people."
+    },
+    {
+      "question_id": 24,
+      "question": "What was main source of income?",
+      "answer": "Land revenue was main source."
+    },
+    {
+      "question_id": 25,
+      "question": "How was land revenue fixed?",
+      "answer": "Generally one-third of produce."
+    },
+    {
+      "question_id": 26,
+      "question": "Why was fairness important?",
+      "answer": "To avoid exploitation."
+    },
+    {
+      "question_id": 27,
+      "question": "What taxes were avoided?",
+      "answer": "Unjust taxes like Jizya were avoided."
+    },
+    {
+      "question_id": 28,
+      "question": "How were corrupt officials treated?",
+      "answer": "They were strictly punished."
+    },
+    {
+      "question_id": 29,
+      "question": "Why was decentralisation adopted?",
+      "answer": "To ensure efficiency."
+    },
+    {
+      "question_id": 30,
+      "question": "How did administration protect farmers?",
+      "answer": "By regulating revenue."
+    },
+    {
+      "question_id": 31,
+      "question": "What role did village system play?",
+      "answer": "It strengthened grassroots governance."
+    },
+    {
+      "question_id": 32,
+      "question": "How were women protected?",
+      "answer": "Strict rules were enforced."
+    },
+    {
+      "question_id": 33,
+      "question": "Why was discipline necessary?",
+      "answer": "For smooth governance."
+    },
+    {
+      "question_id": 34,
+      "question": "What made Swaraj different?",
+      "answer": "Focus on justice and welfare."
+    },
+    {
+      "question_id": 35,
+      "question": "How were ministers supervised?",
+      "answer": "Directly by Shivaji Maharaj."
+    },
+    {
+      "question_id": 36,
+      "question": "Why was secrecy important?",
+      "answer": "For security."
+    },
+    {
+      "question_id": 37,
+      "question": "How did administration support military?",
+      "answer": "By ensuring supplies and pay."
+    },
+    {
+      "question_id": 38,
+      "question": "What was role of forts?",
+      "answer": "They ensured defence."
+    },
+    {
+      "question_id": 39,
+      "question": "How did administration ensure stability?",
+      "answer": "Through clear responsibilities."
+    },
+    {
+      "question_id": 40,
+      "question": "Why was justice central?",
+      "answer": "It gained people’s trust."
+    },
+    {
+      "question_id": 41,
+      "question": "How did administration avoid jagirdari?",
+      "answer": "By direct control."
+    },
+    {
+      "question_id": 42,
+      "question": "What was impact on society?",
+      "answer": "Improved morale and security."
+    },
+    {
+      "question_id": 43,
+      "question": "How did people participate?",
+      "answer": "Through village administration."
+    },
+    {
+      "question_id": 44,
+      "question": "What was role of religion?",
+      "answer": "Promoted moral values."
+    },
+    {
+      "question_id": 45,
+      "question": "Why was law and order important?",
+      "answer": "To maintain peace."
+    },
+    {
+      "question_id": 46,
+      "question": "How were disputes resolved?",
+      "answer": "By courts."
+    },
+    {
+      "question_id": 47,
+      "question": "Why was administration efficient?",
+      "answer": "Due to defined structure."
+    },
+    {
+      "question_id": 48,
+      "question": "What lesson does administration teach?",
+      "answer": "Good governance matters."
+    },
+    {
+      "question_id": 49,
+      "question": "How did Swaraj administration inspire others?",
+      "answer": "It set an example."
+    },
+    {
+      "question_id": 50,
+      "question": "Why was welfare prioritised?",
+      "answer": "To ensure loyalty."
+    },
+    {
+      "question_id": 51,
+      "question": "How did administration strengthen Swaraj?",
+      "answer": "By unity and justice."
+    },
+    {
+      "question_id": 52,
+      "question": "What role did officers play?",
+      "answer": "They executed policies."
+    },
+    {
+      "question_id": 53,
+      "question": "Why was accountability important?",
+      "answer": "To prevent misuse."
+    },
+    {
+      "question_id": 54,
+      "question": "How did Shivaji Maharaj monitor system?",
+      "answer": "Through inspections."
+    },
+    {
+      "question_id": 55,
+      "question": "Why was administration flexible?",
+      "answer": "To adapt to needs."
+    },
+    {
+      "question_id": 56,
+      "question": "What was impact on peasants?",
+      "answer": "They were protected."
+    },
+    {
+      "question_id": 57,
+      "question": "How did administration handle revenue?",
+      "answer": "Systematically."
+    },
+    {
+      "question_id": 58,
+      "question": "Why was corruption discouraged?",
+      "answer": "It harmed people."
+    },
+    {
+      "question_id": 59,
+      "question": "How were forts supplied?",
+      "answer": "Through state resources."
+    },
+    {
+      "question_id": 60,
+      "question": "Why was discipline enforced?",
+      "answer": "For order."
+    },
+    {
+      "question_id": 61,
+      "question": "How did administration reflect leadership?",
+      "answer": "Through fairness."
+    },
+    {
+      "question_id": 62,
+      "question": "What was role of intelligence?",
+      "answer": "To gather information."
+    },
+    {
+      "question_id": 63,
+      "question": "How did administration manage expansion?",
+      "answer": "Through planning."
+    },
+    {
+      "question_id": 64,
+      "question": "Why was unity promoted?",
+      "answer": "For strength."
+    },
+    {
+      "question_id": 65,
+      "question": "How did administration ensure loyalty?",
+      "answer": "By justice."
+    },
+    {
+      "question_id": 66,
+      "question": "Why was village system strong?",
+      "answer": "It empowered locals."
+    },
+    {
+      "question_id": 67,
+      "question": "How did administration protect trade?",
+      "answer": "By ensuring security."
+    },
+    {
+      "question_id": 68,
+      "question": "What was significance of Ashta Pradhan?",
+      "answer": "Collective decision-making."
+    },
+    {
+      "question_id": 69,
+      "question": "How did administration differ from Mughals?",
+      "answer": "It was people-oriented."
+    },
+    {
+      "question_id": 70,
+      "question": "Why was public trust essential?",
+      "answer": "For stability."
+    },
+    {
+      "question_id": 71,
+      "question": "How did administration ensure transparency?",
+      "answer": "Through supervision."
+    },
+    {
+      "question_id": 72,
+      "question": "What was role of moral values?",
+      "answer": "They guided governance."
+    },
+    {
+      "question_id": 73,
+      "question": "Why is this chapter important?",
+      "answer": "It explains governance of Swaraj."
+    },
+    {
+      "question_id": 74,
+      "question": "How did administration shape future?",
+      "answer": "It strengthened Maratha state."
+    },
+    {
+      "question_id": 75,
+      "question": "What legacy did Swaraj administration leave?",
+      "answer": "Model of good governance."
+    },
+    {
+      "question_id": 76,
+      "question": "Why is Shivaji Maharaj admired as administrator?",
+      "answer": "For justice and efficiency."
+    },
+    {
+      "question_id": 77,
+      "question": "How did administration support freedom?",
+      "answer": "By protecting people."
+    },
+    {
+      "question_id": 78,
+      "question": "What lesson can students learn?",
+      "answer": "Value of good administration."
+    },
+    {
+      "question_id": 79,
+      "question": "Why was efficiency crucial?",
+      "answer": "To sustain Swaraj."
+    },
+    {
+      "question_id": 80,
+      "question": "How did administration handle challenges?",
+      "answer": "With discipline."
+    },
+    {
+      "question_id": 81,
+      "question": "What role did ethics play?",
+      "answer": "Ensured fairness."
+    },
+    {
+      "question_id": 82,
+      "question": "How did administration ensure peace?",
+      "answer": "By law and order."
+    },
+    {
+      "question_id": 83,
+      "question": "Why was Swaraj stable?",
+      "answer": "Due to strong administration."
+    },
+    {
+      "question_id": 84,
+      "question": "How does this chapter inspire?",
+      "answer": "It shows importance of governance."
+    }
+  ]
+}

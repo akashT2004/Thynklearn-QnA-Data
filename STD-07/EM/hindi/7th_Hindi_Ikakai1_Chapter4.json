@@ -1,0 +1,1372 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 1",
+    "chapter_number": 4,
+    "chapter_name": "वार्षिकोत्सव"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘वार्षिकोत्सव’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यालय का उत्सव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेल प्रतियोगिता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "परीक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भ्रमण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यालय का उत्सव"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव किस अवसर पर मनाया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्ष के अंत में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वर्ष के आरंभ में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मध्य वर्ष में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "छुट्टियों में",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्ष के अंत में"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव का आयोजन कहाँ होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यालय में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घर में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाज़ार में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उद्यान में",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यालय में"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में कौन भाग लेते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अभिभावक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव का उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रतिभा प्रदर्शन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सम्मान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाठ में बच्चों ने क्या प्रस्तुत किया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सांस्कृतिक कार्यक्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "परीक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सांस्कृतिक कार्यक्रम"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में कौन-से कार्यक्रम होते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नृत्य और गीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल भाषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल खेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवल कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "नृत्य और गीत"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाठ में वातावरण कैसा बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साहपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साहपूर्ण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में मुख्य अतिथि कौन होते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विशेष आमंत्रित व्यक्ति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशेष आमंत्रित व्यक्ति"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में पुरस्कार क्यों दिए जाते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रोत्साहन के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डराने के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दंड के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "औपचारिकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोत्साहन के लिए"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पाठ में मंच का क्या महत्व है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रस्तुति के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सजावट के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विश्राम के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भोजन के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रस्तुति के लिए"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव से विद्यार्थियों में क्या बढ़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में कौन-सी भावना दिखाई देती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाठ में सजावट किससे की गई थी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फूलों और झंडियों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कपड़ों से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कागज़ से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लकड़ी से",
+          "is_correct": false
+        }
+      ],
+      "answer": "फूलों और झंडियों से"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव किस प्रकार का आयोजन है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सांस्कृतिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राजनीतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यावसायिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धार्मिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सांस्कृतिक"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव का लाभ क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रतिभा पहचान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समय नष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "थकान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिभा पहचान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठ में बच्चों की भूमिका कैसी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सक्रिय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निष्क्रिय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "सक्रिय"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में शिक्षक क्या करते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मार्गदर्शन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतियोगिता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विश्राम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दंड",
+          "is_correct": false
+        }
+      ],
+      "answer": "मार्गदर्शन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाठ में अभिभावकों की भूमिका क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्साह बढ़ाना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दंड देना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलोचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनदेखी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साह बढ़ाना"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव का समापन कैसे होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन्यवाद ज्ञापन से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेल से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भोजन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परीक्षा से",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन्यवाद ज्ञापन से"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में बच्चों का व्यवहार कैसा होना चाहिए?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुशासित",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उपद्रवी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लापरवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलसी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुशासित"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाठ में कौन-सा कार्यक्रम सबसे आकर्षक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नृत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव से विद्यालय की छवि कैसी बनती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सकारात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कमजोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सकारात्मक"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव किस भावना को मजबूत करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सामूहिकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामूहिकता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाठ में पुरस्कार पाने से बच्चों को क्या मिलता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घमंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में मंच सज्जा क्यों आवश्यक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकर्षण के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औपचारिकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षण के लिए"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव से बच्चों की कौन-सी कला निखरती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिव्यक्ति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिव्यक्ति"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पाठ में वार्षिकोत्सव का वर्णन कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवंत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सूखा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवंत"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में समय का पालन क्यों जरूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्यक्रम सुचारु रखने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्यक्रम सुचारु रखने के लिए"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव विद्यालय के लिए क्यों महत्वपूर्ण है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समग्र विकास के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औपचारिकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "समग्र विकास के लिए"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में बच्चों का उत्साह क्यों बढ़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मंच मिलने से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दंड से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "मंच मिलने से"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पाठ में कौन-सी भावना नहीं है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौरव",
+          "is_correct": false
+        }
+      ],
+      "answer": "उदासी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव से कौन-सा गुण विकसित होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव का आयोजन किसके सहयोग से होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षक और विद्यार्थी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षक और विद्यार्थी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पाठ में वार्षिकोत्सव की तैयारी कैसे की गई?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगठित रूप से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अव्यवस्थित",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलसी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगठित रूप से"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव में बच्चों को क्या सीख मिलती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "टीमवर्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "टीमवर्क"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव किस प्रकार का अनुभव देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंददायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकाऊ",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंददायक"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पाठ में विद्यालय का वातावरण कैसा लगता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्सवमय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्सवमय"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "वार्षिकोत्सव से बच्चों में क्या भावना आती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "गर्व"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पाठ का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सांस्कृतिक विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थता",
+          "is_correct": false
+        }
+      ],
+      "answer": "सांस्कृतिक विकास"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘वार्षिकोत्सव’ पाठ का मुख्य विषय क्या है?",
+      "answer": "विद्यालय में मनाए जाने वाले वार्षिक उत्सव का वर्णन।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव कब मनाया जाता है?",
+      "answer": "शैक्षणिक वर्ष के अंत में।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव कहाँ आयोजित किया जाता है?",
+      "answer": "विद्यालय परिसर में।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में कौन भाग लेते हैं?",
+      "answer": "विद्यार्थी, शिक्षक और अभिभावक।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव का उद्देश्य क्या है?",
+      "answer": "बच्चों की प्रतिभा को मंच देना।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "पाठ में कौन-से कार्यक्रम प्रस्तुत किए गए?",
+      "answer": "नृत्य, गीत और नाटक।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से बच्चों को क्या लाभ होता है?",
+      "answer": "आत्मविश्वास बढ़ता है।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में मंच का क्या महत्व है?",
+      "answer": "प्रस्तुति के लिए।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पाठ में वातावरण कैसा था?",
+      "answer": "उत्साह और आनंद से भरा।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में पुरस्कार क्यों दिए जाते हैं?",
+      "answer": "प्रेरणा देने के लिए।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से बच्चों में कौन-सा गुण विकसित होता है?",
+      "answer": "साहस और आत्मविश्वास।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाठ में सजावट का क्या वर्णन है?",
+      "answer": "फूलों और रंगीन सजावट से सुसज्जित।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में मुख्य अतिथि की भूमिका क्या होती है?",
+      "answer": "कार्यक्रम का उत्साह बढ़ाना।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में शिक्षक क्या करते हैं?",
+      "answer": "मार्गदर्शन और प्रोत्साहन देते हैं।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से विद्यालय को क्या लाभ होता है?",
+      "answer": "सकारात्मक छवि बनती है।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पाठ में बच्चों का उत्साह क्यों दिखता है?",
+      "answer": "मंच पर प्रस्तुति के कारण।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में समय पालन क्यों आवश्यक है?",
+      "answer": "कार्यक्रम सुचारु रखने के लिए।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पाठ में अभिभावकों की उपस्थिति क्यों महत्वपूर्ण है?",
+      "answer": "बच्चों का मनोबल बढ़ाने के लिए।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से बच्चों की कौन-सी कला निखरती है?",
+      "answer": "अभिव्यक्ति कला।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठ का भाव कैसा है?",
+      "answer": "आनंदपूर्ण और उत्साहजनक।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में बच्चों का व्यवहार कैसा होना चाहिए?",
+      "answer": "अनुशासित।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पाठ में वार्षिकोत्सव का वर्णन क्यों किया गया है?",
+      "answer": "विद्यालय जीवन का महत्व दिखाने के लिए।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से कौन-सी भावना मजबूत होती है?",
+      "answer": "सामूहिकता।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाठ में कौन-सा कार्यक्रम सबसे आकर्षक था?",
+      "answer": "सांस्कृतिक प्रस्तुतियाँ।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में बच्चों को क्या सीख मिलती है?",
+      "answer": "टीमवर्क और अनुशासन।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाठ में मंच सज्जा क्यों आवश्यक बताई गई है?",
+      "answer": "आकर्षण के लिए।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से बच्चों में कौन-सी भावना आती है?",
+      "answer": "गर्व।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाठ में विद्यालय का वातावरण कैसा लगता है?",
+      "answer": "उत्सवमय।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव का समापन कैसे होता है?",
+      "answer": "धन्यवाद ज्ञापन से।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठ का मुख्य संदेश क्या है?",
+      "answer": "सांस्कृतिक और सर्वांगीण विकास।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से बच्चों की कौन-सी क्षमता बढ़ती है?",
+      "answer": "आत्म-अभिव्यक्ति।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पाठ में सहयोग का क्या महत्व है?",
+      "answer": "कार्यक्रम की सफलता के लिए।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में बच्चों की तैयारी कैसे होती है?",
+      "answer": "पूर्व अभ्यास से।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पाठ में उत्सव का महत्व क्यों बताया गया है?",
+      "answer": "बच्चों के विकास के लिए।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव में दर्शकों की भूमिका क्या है?",
+      "answer": "प्रोत्साहन देना।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पाठ में कार्यक्रमों की विविधता क्यों दिखाई गई है?",
+      "answer": "प्रतिभा की विविधता दिखाने के लिए।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव से बच्चों को कौन-सा अनुभव मिलता है?",
+      "answer": "आनंददायक अनुभव।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पाठ में उत्सव का सामाजिक महत्व क्या है?",
+      "answer": "समुदाय को जोड़ना।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वार्षिकोत्सव विद्यालय जीवन का क्यों महत्वपूर्ण हिस्सा है?",
+      "answer": "समग्र विकास के कारण।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "‘वार्षिकोत्सव’ पाठ से हमें क्या सीख मिलती है?",
+      "answer": "मिल-जुलकर उत्सव मनाने की।"
+    }
+  ]
+}

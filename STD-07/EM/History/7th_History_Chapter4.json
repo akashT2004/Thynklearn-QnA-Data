@@ -1,0 +1,926 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 4,
+  "chapter_name": "Maharashtra before the times of Shivaji Maharaj",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Before Shivaji Maharaj, Maharashtra was mainly under whose rule?",
+      "options": [
+        "British",
+        "Mughal and Deccan Sultanates",
+        "Portuguese",
+        "French"
+      ],
+      "answer": "Mughal and Deccan Sultanates"
+    },
+    {
+      "question_id": 2,
+      "question": "Which dynasty ruled Ahmednagar region?",
+      "options": [
+        "Adilshahi",
+        "Nizamshahi",
+        "Qutubshahi",
+        "Mughal"
+      ],
+      "answer": "Nizamshahi"
+    },
+    {
+      "question_id": 3,
+      "question": "Which dynasty ruled Bijapur?",
+      "options": [
+        "Nizamshahi",
+        "Adilshahi",
+        "Qutubshahi",
+        "Mughal"
+      ],
+      "answer": "Adilshahi"
+    },
+    {
+      "question_id": 4,
+      "question": "Who was a powerful administrator in Ahmednagar?",
+      "options": [
+        "Malik Ambar",
+        "Shahaji Raje",
+        "Akbar",
+        "Aurangzeb"
+      ],
+      "answer": "Malik Ambar"
+    },
+    {
+      "question_id": 5,
+      "question": "Which system of land measurement was introduced by Malik Ambar?",
+      "options": [
+        "Ryotwari",
+        "Zamindari",
+        "Land measurement system",
+        "Jagirdari"
+      ],
+      "answer": "Land measurement system"
+    },
+    {
+      "question_id": 6,
+      "question": "Shahaji Raje served which sultanate?",
+      "options": [
+        "Bijapur",
+        "Ahmednagar",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 7,
+      "question": "Which fort was important in Maharashtra?",
+      "options": [
+        "Raigad",
+        "Agra",
+        "Red Fort",
+        "Delhi Fort"
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 8,
+      "question": "Who were Deshmukhs?",
+      "options": [
+        "Village heads",
+        "Military officers",
+        "Revenue officials",
+        "Priests"
+      ],
+      "answer": "Revenue officials"
+    },
+    {
+      "question_id": 9,
+      "question": "Who maintained law and order in villages?",
+      "options": [
+        "Patil",
+        "Deshmukh",
+        "Kulkarni",
+        "Qazi"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 10,
+      "question": "Kulkarni was responsible for?",
+      "options": [
+        "Justice",
+        "Village accounts",
+        "Revenue collection",
+        "Defence"
+      ],
+      "answer": "Village accounts"
+    },
+    {
+      "question_id": 11,
+      "question": "Which language was used in administration?",
+      "options": [
+        "Marathi",
+        "Persian",
+        "Sanskrit",
+        "Hindi"
+      ],
+      "answer": "Persian"
+    },
+    {
+      "question_id": 12,
+      "question": "What was the main occupation of people?",
+      "options": [
+        "Trade",
+        "Agriculture",
+        "Crafts",
+        "Fishing"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question_id": 13,
+      "question": "Which crop was widely grown?",
+      "options": [
+        "Tea",
+        "Cotton",
+        "Coffee",
+        "Rubber"
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 14,
+      "question": "Which tax burdened farmers the most?",
+      "options": [
+        "Jizya",
+        "Land revenue",
+        "Customs duty",
+        "Octroi"
+      ],
+      "answer": "Land revenue"
+    },
+    {
+      "question_id": 15,
+      "question": "Who collected land revenue?",
+      "options": [
+        "Patil",
+        "Deshmukh",
+        "Jagirdar",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 16,
+      "question": "Which class suffered most?",
+      "options": [
+        "Nobles",
+        "Farmers",
+        "Merchants",
+        "Priests"
+      ],
+      "answer": "Farmers"
+    },
+    {
+      "question_id": 17,
+      "question": "What weakened Maharashtra before Shivaji Maharaj?",
+      "options": [
+        "Unity",
+        "Internal conflicts",
+        "Strong rule",
+        "Prosperity"
+      ],
+      "answer": "Internal conflicts"
+    },
+    {
+      "question_id": 18,
+      "question": "Who were Watandars?",
+      "options": [
+        "Landholders",
+        "Kings",
+        "Saints",
+        "Merchants"
+      ],
+      "answer": "Landholders"
+    },
+    {
+      "question_id": 19,
+      "question": "Which fort system was important for defence?",
+      "options": [
+        "Hill forts",
+        "Sea forts",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 20,
+      "question": "Who controlled trade on west coast?",
+      "options": [
+        "British",
+        "French",
+        "Portuguese",
+        "Dutch"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "question_id": 21,
+      "question": "Which city was an important port?",
+      "options": [
+        "Surat",
+        "Pune",
+        "Satara",
+        "Kolhapur"
+      ],
+      "answer": "Surat"
+    },
+    {
+      "question_id": 22,
+      "question": "Which system gave land for service?",
+      "options": [
+        "Mansabdari",
+        "Jagirdari",
+        "Ryotwari",
+        "Zamindari"
+      ],
+      "answer": "Jagirdari"
+    },
+    {
+      "question_id": 23,
+      "question": "Who administered justice in villages?",
+      "options": [
+        "Patil",
+        "Kulkarni",
+        "Qazi",
+        "Mansabdar"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 24,
+      "question": "Which region formed the core of Maharashtra?",
+      "options": [
+        "Konkan",
+        "Desh",
+        "Vidarbha",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 25,
+      "question": "What was the condition of common people?",
+      "options": [
+        "Prosperous",
+        "Oppressed",
+        "Free",
+        "Wealthy"
+      ],
+      "answer": "Oppressed"
+    },
+    {
+      "question_id": 26,
+      "question": "Who built many forts in Maharashtra?",
+      "options": [
+        "Bahmani rulers",
+        "British",
+        "French",
+        "Dutch"
+      ],
+      "answer": "Bahmani rulers"
+    },
+    {
+      "question_id": 27,
+      "question": "Which dynasty ruled Golconda?",
+      "options": [
+        "Qutubshahi",
+        "Adilshahi",
+        "Nizamshahi",
+        "Mughal"
+      ],
+      "answer": "Qutubshahi"
+    },
+    {
+      "question_id": 28,
+      "question": "Which factor led to unrest?",
+      "options": [
+        "Heavy taxation",
+        "Peace",
+        "Unity",
+        "Prosperity"
+      ],
+      "answer": "Heavy taxation"
+    },
+    {
+      "question_id": 29,
+      "question": "Which group enjoyed privileges?",
+      "options": [
+        "Watandars",
+        "Farmers",
+        "Labourers",
+        "Artisans"
+      ],
+      "answer": "Watandars"
+    },
+    {
+      "question_id": 30,
+      "question": "Which ruler followed religious tolerance?",
+      "options": [
+        "Akbar",
+        "Aurangzeb",
+        "Shah Jahan",
+        "Babur"
+      ],
+      "answer": "Akbar"
+    },
+    {
+      "question_id": 31,
+      "question": "Which ruler imposed Jizya?",
+      "options": [
+        "Aurangzeb",
+        "Akbar",
+        "Babur",
+        "Humayun"
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 32,
+      "question": "Which fort later became Shivaji Maharaj’s capital?",
+      "options": [
+        "Raigad",
+        "Sinhagad",
+        "Pratapgad",
+        "Purandar"
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 33,
+      "question": "Which family served Deccan rulers?",
+      "options": [
+        "Bhosale",
+        "Chavan",
+        "More",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 34,
+      "question": "Which official kept village records?",
+      "options": [
+        "Kulkarni",
+        "Patil",
+        "Deshmukh",
+        "Qazi"
+      ],
+      "answer": "Kulkarni"
+    },
+    {
+      "question_id": 35,
+      "question": "Which system caused exploitation?",
+      "options": [
+        "Watandari",
+        "Ryotwari",
+        "Education",
+        "Trade"
+      ],
+      "answer": "Watandari"
+    },
+    {
+      "question_id": 36,
+      "question": "Which region was frequently attacked?",
+      "options": [
+        "Maharashtra",
+        "Punjab",
+        "Assam",
+        "Kashmir"
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 37,
+      "question": "Who protected villages?",
+      "options": [
+        "Local chiefs",
+        "Foreigners",
+        "British",
+        "French"
+      ],
+      "answer": "Local chiefs"
+    },
+    {
+      "question_id": 38,
+      "question": "Which factor led to need for Swarajya?",
+      "options": [
+        "Oppression",
+        "Peace",
+        "Unity",
+        "Trade"
+      ],
+      "answer": "Oppression"
+    },
+    {
+      "question_id": 39,
+      "question": "Which power was strongest in Deccan?",
+      "options": [
+        "Mughal",
+        "British",
+        "French",
+        "Dutch"
+      ],
+      "answer": "Mughal"
+    },
+    {
+      "question_id": 40,
+      "question": "What was the role of forts?",
+      "options": [
+        "Trade",
+        "Defence",
+        "Education",
+        "Religion"
+      ],
+      "answer": "Defence"
+    },
+    {
+      "question_id": 41,
+      "question": "Which area had self-sufficient villages?",
+      "options": [
+        "Maharashtra",
+        "Bengal",
+        "Punjab",
+        "Kashmir"
+      ],
+      "answer": "Maharashtra"
+    },
+    {
+      "question_id": 42,
+      "question": "Who exploited farmers?",
+      "options": [
+        "Revenue officials",
+        "Saints",
+        "Merchants",
+        "Teachers"
+      ],
+      "answer": "Revenue officials"
+    },
+    {
+      "question_id": 43,
+      "question": "Which dynasty declined before Shivaji Maharaj?",
+      "options": [
+        "Nizamshahi",
+        "Mughal",
+        "British",
+        "French"
+      ],
+      "answer": "Nizamshahi"
+    },
+    {
+      "question_id": 44,
+      "question": "Which need arose among people?",
+      "options": [
+        "Self-rule",
+        "Foreign rule",
+        "More taxes",
+        "War"
+      ],
+      "answer": "Self-rule"
+    },
+    {
+      "question_id": 45,
+      "question": "Which period does this chapter describe?",
+      "options": [
+        "Before Shivaji Maharaj",
+        "After Shivaji Maharaj",
+        "British period",
+        "Modern period"
+      ],
+      "answer": "Before Shivaji Maharaj"
+    },
+    {
+      "question_id": 46,
+      "question": "What prepared ground for Shivaji Maharaj?",
+      "options": [
+        "Social unrest",
+        "Prosperity",
+        "Peace",
+        "Unity"
+      ],
+      "answer": "Social unrest"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "Who ruled Maharashtra before Shivaji Maharaj?",
+      "answer": "Mughal and Deccan Sultanates ruled Maharashtra."
+    },
+    {
+      "question_id": 2,
+      "question": "Name two Deccan Sultanates ruling Maharashtra.",
+      "answer": "Ahmednagar and Bijapur Sultanates ruled Maharashtra."
+    },
+    {
+      "question_id": 3,
+      "question": "Who was Malik Ambar?",
+      "answer": "Malik Ambar was an able administrator of Ahmednagar."
+    },
+    {
+      "question_id": 4,
+      "question": "What was Malik Ambar’s contribution?",
+      "answer": "He introduced a systematic land measurement system."
+    },
+    {
+      "question_id": 5,
+      "question": "Who was Shahaji Raje?",
+      "answer": "Shahaji Raje was a Maratha noble serving Deccan rulers."
+    },
+    {
+      "question_id": 6,
+      "question": "Which sultanates did Shahaji Raje serve?",
+      "answer": "He served both Ahmednagar and Bijapur."
+    },
+    {
+      "question_id": 7,
+      "question": "What was the main occupation of people?",
+      "answer": "Agriculture was the main occupation."
+    },
+    {
+      "question_id": 8,
+      "question": "Which crop was important?",
+      "answer": "Cotton was an important crop."
+    },
+    {
+      "question_id": 9,
+      "question": "Who were Deshmukhs?",
+      "answer": "Deshmukhs were revenue officers over many villages."
+    },
+    {
+      "question_id": 10,
+      "question": "What was the role of Patil?",
+      "answer": "Patil maintained law and order in villages."
+    },
+    {
+      "question_id": 11,
+      "question": "What was the role of Kulkarni?",
+      "answer": "Kulkarni kept village records."
+    },
+    {
+      "question_id": 12,
+      "question": "Which language was used in administration?",
+      "answer": "Persian was used in administration."
+    },
+    {
+      "question_id": 13,
+      "question": "What was the Watandari system?",
+      "answer": "It was a hereditary land holding system."
+    },
+    {
+      "question_id": 14,
+      "question": "How did Watandari system affect people?",
+      "answer": "It caused exploitation of farmers."
+    },
+    {
+      "question_id": 15,
+      "question": "Who collected land revenue?",
+      "answer": "Patils, Deshmukhs and Jagirdars collected revenue."
+    },
+    {
+      "question_id": 16,
+      "question": "What burden did farmers face?",
+      "answer": "They faced heavy land revenue taxes."
+    },
+    {
+      "question_id": 17,
+      "question": "Why were farmers unhappy?",
+      "answer": "Due to heavy taxation and exploitation."
+    },
+    {
+      "question_id": 18,
+      "question": "Which group enjoyed privileges?",
+      "answer": "Watandars enjoyed privileges."
+    },
+    {
+      "question_id": 19,
+      "question": "Which forts were important?",
+      "answer": "Hill forts and sea forts were important."
+    },
+    {
+      "question_id": 20,
+      "question": "Why were forts necessary?",
+      "answer": "They were needed for defence."
+    },
+    {
+      "question_id": 21,
+      "question": "Which foreign power controlled west coast trade?",
+      "answer": "Portuguese controlled west coast trade."
+    },
+    {
+      "question_id": 22,
+      "question": "Name an important port.",
+      "answer": "Surat was an important port."
+    },
+    {
+      "question_id": 23,
+      "question": "What was the Jagirdari system?",
+      "answer": "Land was given for military service."
+    },
+    {
+      "question_id": 24,
+      "question": "Who were Watandars?",
+      "answer": "Hereditary landholders were Watandars."
+    },
+    {
+      "question_id": 25,
+      "question": "What caused unrest in Maharashtra?",
+      "answer": "Heavy taxation and oppression caused unrest."
+    },
+    {
+      "question_id": 26,
+      "question": "Which ruler was tolerant?",
+      "answer": "Akbar was religiously tolerant."
+    },
+    {
+      "question_id": 27,
+      "question": "Which ruler imposed Jizya?",
+      "answer": "Aurangzeb imposed Jizya."
+    },
+    {
+      "question_id": 28,
+      "question": "What was condition of common people?",
+      "answer": "They lived an oppressed life."
+    },
+    {
+      "question_id": 29,
+      "question": "Why was Maharashtra politically unstable?",
+      "answer": "Due to conflicts among rulers."
+    },
+    {
+      "question_id": 30,
+      "question": "Which region formed Maharashtra?",
+      "answer": "Konkan, Desh and Vidarbha formed Maharashtra."
+    },
+    {
+      "question_id": 31,
+      "question": "Which dynasty ruled Golconda?",
+      "answer": "Qutubshahi dynasty ruled Golconda."
+    },
+    {
+      "question_id": 32,
+      "question": "Which dynasty declined before Shivaji Maharaj?",
+      "answer": "Nizamshahi dynasty declined."
+    },
+    {
+      "question_id": 33,
+      "question": "Who exploited farmers?",
+      "answer": "Revenue officials exploited farmers."
+    },
+    {
+      "question_id": 34,
+      "question": "Why did people desire Swarajya?",
+      "answer": "To end oppression and injustice."
+    },
+    {
+      "question_id": 35,
+      "question": "Which fort became Shivaji Maharaj’s capital later?",
+      "answer": "Raigad became the capital."
+    },
+    {
+      "question_id": 36,
+      "question": "What was the role of local chiefs?",
+      "answer": "They protected villages."
+    },
+    {
+      "question_id": 37,
+      "question": "What weakened Maharashtra?",
+      "answer": "Internal conflicts weakened Maharashtra."
+    },
+    {
+      "question_id": 38,
+      "question": "Why was land revenue high?",
+      "answer": "To support administration and army."
+    },
+    {
+      "question_id": 39,
+      "question": "What was the condition of villages?",
+      "answer": "Villages were self-sufficient but burdened."
+    },
+    {
+      "question_id": 40,
+      "question": "How was justice administered?",
+      "answer": "Through local officials like Patil."
+    },
+    {
+      "question_id": 41,
+      "question": "What was the effect of wars?",
+      "answer": "Wars increased suffering of people."
+    },
+    {
+      "question_id": 42,
+      "question": "Why was unity lacking?",
+      "answer": "Due to rivalry among rulers."
+    },
+    {
+      "question_id": 43,
+      "question": "What role did Maratha nobles play?",
+      "answer": "They served Deccan rulers."
+    },
+    {
+      "question_id": 44,
+      "question": "Which family played major role?",
+      "answer": "Bhosale family played major role."
+    },
+    {
+      "question_id": 45,
+      "question": "What was social condition of women?",
+      "answer": "Women had limited rights."
+    },
+    {
+      "question_id": 46,
+      "question": "How was education imparted?",
+      "answer": "Through temples and religious centres."
+    },
+    {
+      "question_id": 47,
+      "question": "Why were forts strategically important?",
+      "answer": "They controlled regions and trade routes."
+    },
+    {
+      "question_id": 48,
+      "question": "What was economic base?",
+      "answer": "Agriculture was economic base."
+    },
+    {
+      "question_id": 49,
+      "question": "Why did people support Shivaji Maharaj?",
+      "answer": "He promised justice and self-rule."
+    },
+    {
+      "question_id": 50,
+      "question": "What is Swarajya?",
+      "answer": "Self-rule of people."
+    },
+    {
+      "question_id": 51,
+      "question": "What prepared ground for Swarajya?",
+      "answer": "Social and political unrest."
+    },
+    {
+      "question_id": 52,
+      "question": "Why study this chapter?",
+      "answer": "To understand background of Shivaji Maharaj."
+    },
+    {
+      "question_id": 53,
+      "question": "How did administration affect people?",
+      "answer": "It burdened them with taxes."
+    },
+    {
+      "question_id": 54,
+      "question": "What was role of religion?",
+      "answer": "Religion influenced policies."
+    },
+    {
+      "question_id": 55,
+      "question": "Why was Deccan important?",
+      "answer": "It was strategically located."
+    },
+    {
+      "question_id": 56,
+      "question": "How did trade affect economy?",
+      "answer": "It brought wealth but exploitation."
+    },
+    {
+      "question_id": 57,
+      "question": "Why were Portuguese disliked?",
+      "answer": "They controlled trade forcefully."
+    },
+    {
+      "question_id": 58,
+      "question": "What was impact of Mughal rule?",
+      "answer": "Centralised control increased pressure."
+    },
+    {
+      "question_id": 59,
+      "question": "What was social structure like?",
+      "answer": "Society was hierarchical."
+    },
+    {
+      "question_id": 60,
+      "question": "How did oppression affect society?",
+      "answer": "It created dissatisfaction."
+    },
+    {
+      "question_id": 61,
+      "question": "Why were rebellions common?",
+      "answer": "Due to injustice."
+    },
+    {
+      "question_id": 62,
+      "question": "What lesson does chapter give?",
+      "answer": "Unity is essential for freedom."
+    },
+    {
+      "question_id": 63,
+      "question": "How did forts help resistance?",
+      "answer": "They provided strong defence."
+    },
+    {
+      "question_id": 64,
+      "question": "Why did people seek leadership?",
+      "answer": "To fight injustice."
+    },
+    {
+      "question_id": 65,
+      "question": "What role did geography play?",
+      "answer": "Hills helped defence."
+    },
+    {
+      "question_id": 66,
+      "question": "How was law enforced?",
+      "answer": "By village officials."
+    },
+    {
+      "question_id": 67,
+      "question": "Why was administration harsh?",
+      "answer": "To extract revenue."
+    },
+    {
+      "question_id": 68,
+      "question": "How did unrest help Shivaji Maharaj?",
+      "answer": "People supported his leadership."
+    },
+    {
+      "question_id": 69,
+      "question": "What is significance of this chapter?",
+      "answer": "It explains background of Swarajya."
+    },
+    {
+      "question_id": 70,
+      "question": "Why was Maharashtra ready for change?",
+      "answer": "Due to prolonged suffering."
+    },
+    {
+      "question_id": 71,
+      "question": "How did this period shape future?",
+      "answer": "It led to rise of Shivaji Maharaj."
+    },
+    {
+      "question_id": 72,
+      "question": "Why was self-rule necessary?",
+      "answer": "To ensure justice."
+    },
+    {
+      "question_id": 73,
+      "question": "What values emerged?",
+      "answer": "Courage and unity."
+    },
+    {
+      "question_id": 74,
+      "question": "How did people resist oppression?",
+      "answer": "By supporting leaders."
+    },
+    {
+      "question_id": 75,
+      "question": "What was impact on culture?",
+      "answer": "Culture remained strong."
+    },
+    {
+      "question_id": 76,
+      "question": "Why did Marathas gain support?",
+      "answer": "They understood local problems."
+    },
+    {
+      "question_id": 77,
+      "question": "What was condition of peasants?",
+      "answer": "They were heavily taxed."
+    },
+    {
+      "question_id": 78,
+      "question": "Why is chapter important?",
+      "answer": "It sets stage for Shivaji Maharaj."
+    },
+    {
+      "question_id": 79,
+      "question": "How did exploitation affect economy?",
+      "answer": "It weakened economy."
+    },
+    {
+      "question_id": 80,
+      "question": "What motivated people?",
+      "answer": "Desire for justice."
+    },
+    {
+      "question_id": 81,
+      "question": "Why did leadership matter?",
+      "answer": "It united people."
+    },
+    {
+      "question_id": 82,
+      "question": "How does chapter inspire?",
+      "answer": "It shows need for good governance."
+    }
+  ]
+}

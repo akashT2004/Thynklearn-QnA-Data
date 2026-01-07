@@ -1,0 +1,934 @@
+{
+  "class": 7,
+  "subject": "Civics",
+  "chapter_number": 1,
+  "chapter_name": "Introduction to Our Constitution",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "What is a Constitution?",
+      "options": [
+        "Book of laws",
+        "Collection of stories",
+        "Religious text",
+        "Economic plan"
+      ],
+      "answer": "Book of laws"
+    },
+    {
+      "question_id": 2,
+      "question": "Which country has the longest written Constitution?",
+      "options": [
+        "USA",
+        "UK",
+        "India",
+        "France"
+      ],
+      "answer": "India"
+    },
+    {
+      "question_id": 3,
+      "question": "When was the Indian Constitution adopted?",
+      "options": [
+        "26 Jan 1950",
+        "26 Nov 1949",
+        "15 Aug 1947",
+        "2 Oct 1950"
+      ],
+      "answer": "26 Nov 1949"
+    },
+    {
+      "question_id": 4,
+      "question": "When did the Indian Constitution come into force?",
+      "options": [
+        "15 Aug 1947",
+        "26 Jan 1950",
+        "26 Nov 1949",
+        "2 Oct 1950"
+      ],
+      "answer": "26 Jan 1950"
+    },
+    {
+      "question_id": 5,
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Rajendra Prasad"
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "question_id": 6,
+      "question": "Which body drafted the Indian Constitution?",
+      "options": [
+        "Parliament",
+        "Constituent Assembly",
+        "Supreme Court",
+        "Cabinet"
+      ],
+      "answer": "Constituent Assembly"
+    },
+    {
+      "question_id": 7,
+      "question": "Who was the Chairman of the Drafting Committee?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Rajendra Prasad",
+        "Sardar Patel"
+      ],
+      "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+      "question_id": 8,
+      "question": "What does the Preamble describe?",
+      "options": [
+        "Government structure",
+        "Objectives of Constitution",
+        "Fundamental Duties",
+        "Laws"
+      ],
+      "answer": "Objectives of Constitution"
+    },
+    {
+      "question_id": 9,
+      "question": "India is a __________ nation.",
+      "options": [
+        "Monarchy",
+        "Republic",
+        "Dictatorship",
+        "Empire"
+      ],
+      "answer": "Republic"
+    },
+    {
+      "question_id": 10,
+      "question": "Which term means no official religion?",
+      "options": [
+        "Secular",
+        "Socialist",
+        "Republic",
+        "Sovereign"
+      ],
+      "answer": "Secular"
+    },
+    {
+      "question_id": 11,
+      "question": "Which word was added to the Preamble by 42nd Amendment?",
+      "options": [
+        "Justice",
+        "Secular",
+        "Liberty",
+        "Equality"
+      ],
+      "answer": "Secular"
+    },
+    {
+      "question_id": 12,
+      "question": "Which form of government does India follow?",
+      "options": [
+        "Monarchy",
+        "Federal",
+        "Dictatorship",
+        "Colonial"
+      ],
+      "answer": "Federal"
+    },
+    {
+      "question_id": 13,
+      "question": "Which principle ensures equal treatment before law?",
+      "options": [
+        "Liberty",
+        "Justice",
+        "Equality",
+        "Fraternity"
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 14,
+      "question": "Which body interprets the Constitution?",
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "Cabinet",
+        "President"
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "question_id": 15,
+      "question": "Which part deals with Fundamental Rights?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "answer": "Part III"
+    },
+    {
+      "question_id": 16,
+      "question": "Which right ensures freedom of speech?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Cultural Rights"
+      ],
+      "answer": "Right to Freedom"
+    },
+    {
+      "question_id": 17,
+      "question": "How many Fundamental Rights are there currently?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "6"
+    },
+    {
+      "question_id": 18,
+      "question": "Which body can amend the Constitution?",
+      "options": [
+        "President",
+        "Supreme Court",
+        "Parliament",
+        "Prime Minister"
+      ],
+      "answer": "Parliament"
+    },
+    {
+      "question_id": 19,
+      "question": "Which amendment added Fundamental Duties?",
+      "options": [
+        "42nd",
+        "44th",
+        "86th",
+        "73rd"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "question_id": 20,
+      "question": "What does socialist mean?",
+      "options": [
+        "Rule by king",
+        "Equal wealth distribution",
+        "Free trade",
+        "Capitalism"
+      ],
+      "answer": "Equal wealth distribution"
+    },
+    {
+      "question_id": 21,
+      "question": "Which value promotes brotherhood?",
+      "options": [
+        "Justice",
+        "Equality",
+        "Fraternity",
+        "Liberty"
+      ],
+      "answer": "Fraternity"
+    },
+    {
+      "question_id": 22,
+      "question": "Which language is used to write the Constitution?",
+      "options": [
+        "Hindi",
+        "English",
+        "Both",
+        "Sanskrit"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 23,
+      "question": "How long did it take to frame the Constitution?",
+      "options": [
+        "1 year",
+        "2 years",
+        "2 years 11 months",
+        "5 years"
+      ],
+      "answer": "2 years 11 months"
+    },
+    {
+      "question_id": 24,
+      "question": "Which system divides power between centre and states?",
+      "options": [
+        "Unitary",
+        "Federal",
+        "Monarchical",
+        "Confederal"
+      ],
+      "answer": "Federal"
+    },
+    {
+      "question_id": 25,
+      "question": "Which concept ensures free and fair elections?",
+      "options": [
+        "Justice",
+        "Democracy",
+        "Equality",
+        "Liberty"
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 26,
+      "question": "Which body protects Fundamental Rights?",
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "Cabinet",
+        "President"
+      ],
+      "answer": "Supreme Court"
+    },
+    {
+      "question_id": 27,
+      "question": "Which amendment lowered voting age to 18?",
+      "options": [
+        "42nd",
+        "44th",
+        "61st",
+        "86th"
+      ],
+      "answer": "61st"
+    },
+    {
+      "question_id": 28,
+      "question": "Which principle ensures freedom of religion?",
+      "options": [
+        "Secularism",
+        "Socialism",
+        "Republic",
+        "Justice"
+      ],
+      "answer": "Secularism"
+    },
+    {
+      "question_id": 29,
+      "question": "Which organ makes laws?",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "President"
+      ],
+      "answer": "Legislature"
+    },
+    {
+      "question_id": 30,
+      "question": "Which organ executes laws?",
+      "options": [
+        "Legislature",
+        "Judiciary",
+        "Executive",
+        "Supreme Court"
+      ],
+      "answer": "Executive"
+    },
+    {
+      "question_id": 31,
+      "question": "Which organ interprets laws?",
+      "options": [
+        "Executive",
+        "Legislature",
+        "Judiciary",
+        "Cabinet"
+      ],
+      "answer": "Judiciary"
+    },
+    {
+      "question_id": 32,
+      "question": "Which term means independence from external control?",
+      "options": [
+        "Republic",
+        "Sovereign",
+        "Secular",
+        "Federal"
+      ],
+      "answer": "Sovereign"
+    },
+    {
+      "question_id": 33,
+      "question": "Which part contains Directive Principles?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part V",
+        "Part VI"
+      ],
+      "answer": "Part IV"
+    },
+    {
+      "question_id": 34,
+      "question": "Which duty promotes scientific thinking?",
+      "options": [
+        "Unity",
+        "Scientific temper",
+        "Environment",
+        "Heritage"
+      ],
+      "answer": "Scientific temper"
+    },
+    {
+      "question_id": 35,
+      "question": "Which value ensures individual freedom?",
+      "options": [
+        "Liberty",
+        "Justice",
+        "Equality",
+        "Fraternity"
+      ],
+      "answer": "Liberty"
+    },
+    {
+      "question_id": 36,
+      "question": "Which amendment made education a fundamental right?",
+      "options": [
+        "42nd",
+        "86th",
+        "44th",
+        "73rd"
+      ],
+      "answer": "86th"
+    },
+    {
+      "question_id": 37,
+      "question": "Which day is celebrated as Constitution Day?",
+      "options": [
+        "26 Jan",
+        "26 Nov",
+        "15 Aug",
+        "2 Oct"
+      ],
+      "answer": "26 Nov"
+    },
+    {
+      "question_id": 38,
+      "question": "Who was the first President of India?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. Radhakrishnan",
+        "Jawaharlal Nehru",
+        "Ambedkar"
+      ],
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "question_id": 39,
+      "question": "Which principle ensures social justice?",
+      "options": [
+        "Liberty",
+        "Equality",
+        "Justice",
+        "Fraternity"
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 40,
+      "question": "What is universal adult franchise?",
+      "options": [
+        "Right to vote",
+        "Right to education",
+        "Right to speech",
+        "Right to religion"
+      ],
+      "answer": "Right to vote"
+    },
+    {
+      "question_id": 41,
+      "question": "What is the voting age in India?",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "25"
+      ],
+      "answer": "18"
+    },
+    {
+      "question_id": 42,
+      "question": "Which value promotes harmony?",
+      "options": [
+        "Justice",
+        "Equality",
+        "Fraternity",
+        "Liberty"
+      ],
+      "answer": "Fraternity"
+    },
+    {
+      "question_id": 43,
+      "question": "Which amendment added Fundamental Duties and words to Preamble?",
+      "options": [
+        "42nd",
+        "44th",
+        "61st",
+        "73rd"
+      ],
+      "answer": "42nd"
+    },
+    {
+      "question_id": 44,
+      "question": "Which organ enforces the Constitution?",
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "President",
+        "Prime Minister"
+      ],
+      "answer": "Supreme Court"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What is a Constitution?",
+      "answer": "It is the supreme law of a country."
+    },
+    {
+      "question_id": 2,
+      "question": "Why is a Constitution necessary?",
+      "answer": "It provides rules for governance."
+    },
+    {
+      "question_id": 3,
+      "question": "Which is the longest written Constitution?",
+      "answer": "Indian Constitution."
+    },
+    {
+      "question_id": 4,
+      "question": "When was Indian Constitution adopted?",
+      "answer": "26 November 1949."
+    },
+    {
+      "question_id": 5,
+      "question": "When did it come into force?",
+      "answer": "26 January 1950."
+    },
+    {
+      "question_id": 6,
+      "question": "Who drafted the Constitution?",
+      "answer": "The Constituent Assembly."
+    },
+    {
+      "question_id": 7,
+      "question": "Who was Chairman of Drafting Committee?",
+      "answer": "Dr. B.R. Ambedkar."
+    },
+    {
+      "question_id": 8,
+      "question": "What is the Preamble?",
+      "answer": "Introduction to the Constitution."
+    },
+    {
+      "question_id": 9,
+      "question": "What does Sovereign mean?",
+      "answer": "Independent from foreign control."
+    },
+    {
+      "question_id": 10,
+      "question": "What does Socialist mean?",
+      "answer": "Economic equality."
+    },
+    {
+      "question_id": 11,
+      "question": "What does Secular mean?",
+      "answer": "No state religion."
+    },
+    {
+      "question_id": 12,
+      "question": "What does Democratic mean?",
+      "answer": "Government by people."
+    },
+    {
+      "question_id": 13,
+      "question": "What does Republic mean?",
+      "answer": "Elected head of state."
+    },
+    {
+      "question_id": 14,
+      "question": "Why is India a Republic?",
+      "answer": "President is elected."
+    },
+    {
+      "question_id": 15,
+      "question": "What is Justice?",
+      "answer": "Fair treatment of all."
+    },
+    {
+      "question_id": 16,
+      "question": "What is Liberty?",
+      "answer": "Freedom of thought and expression."
+    },
+    {
+      "question_id": 17,
+      "question": "What is Equality?",
+      "answer": "Equal status and opportunity."
+    },
+    {
+      "question_id": 18,
+      "question": "What is Fraternity?",
+      "answer": "Sense of brotherhood."
+    },
+    {
+      "question_id": 19,
+      "question": "What are Fundamental Rights?",
+      "answer": "Basic rights of citizens."
+    },
+    {
+      "question_id": 20,
+      "question": "Name any two Fundamental Rights.",
+      "answer": "Right to Equality and Right to Freedom."
+    },
+    {
+      "question_id": 21,
+      "question": "Which part has Fundamental Rights?",
+      "answer": "Part III."
+    },
+    {
+      "question_id": 22,
+      "question": "What are Directive Principles?",
+      "answer": "Guidelines for government."
+    },
+    {
+      "question_id": 23,
+      "question": "Which part has Directive Principles?",
+      "answer": "Part IV."
+    },
+    {
+      "question_id": 24,
+      "question": "What are Fundamental Duties?",
+      "answer": "Moral duties of citizens."
+    },
+    {
+      "question_id": 25,
+      "question": "How many Fundamental Duties?",
+      "answer": "Eleven."
+    },
+    {
+      "question_id": 26,
+      "question": "Which amendment added Fundamental Duties?",
+      "answer": "42nd Amendment."
+    },
+    {
+      "question_id": 27,
+      "question": "Who can amend Constitution?",
+      "answer": "Parliament."
+    },
+    {
+      "question_id": 28,
+      "question": "What is Federalism?",
+      "answer": "Division of powers."
+    },
+    {
+      "question_id": 29,
+      "question": "Name three organs of government.",
+      "answer": "Legislature, Executive, Judiciary."
+    },
+    {
+      "question_id": 30,
+      "question": "Role of Legislature?",
+      "answer": "To make laws."
+    },
+    {
+      "question_id": 31,
+      "question": "Role of Executive?",
+      "answer": "To implement laws."
+    },
+    {
+      "question_id": 32,
+      "question": "Role of Judiciary?",
+      "answer": "To interpret laws."
+    },
+    {
+      "question_id": 33,
+      "question": "Which is highest court?",
+      "answer": "Supreme Court."
+    },
+    {
+      "question_id": 34,
+      "question": "What is rule of law?",
+      "answer": "Law is supreme."
+    },
+    {
+      "question_id": 35,
+      "question": "What is adult franchise?",
+      "answer": "Right to vote."
+    },
+    {
+      "question_id": 36,
+      "question": "What is voting age?",
+      "answer": "18 years."
+    },
+    {
+      "question_id": 37,
+      "question": "Which amendment lowered voting age?",
+      "answer": "61st Amendment."
+    },
+    {
+      "question_id": 38,
+      "question": "Why is secularism important?",
+      "answer": "It respects all religions."
+    },
+    {
+      "question_id": 39,
+      "question": "What is national unity?",
+      "answer": "Togetherness of people."
+    },
+    {
+      "question_id": 40,
+      "question": "Why should we respect Constitution?",
+      "answer": "It protects rights."
+    },
+    {
+      "question_id": 41,
+      "question": "What is Constitution Day?",
+      "answer": "26 November."
+    },
+    {
+      "question_id": 42,
+      "question": "Why is Preamble important?",
+      "answer": "It states ideals."
+    },
+    {
+      "question_id": 43,
+      "question": "What is social justice?",
+      "answer": "Equality in society."
+    },
+    {
+      "question_id": 44,
+      "question": "What is economic justice?",
+      "answer": "Fair distribution of wealth."
+    },
+    {
+      "question_id": 45,
+      "question": "What is political justice?",
+      "answer": "Equal political rights."
+    },
+    {
+      "question_id": 46,
+      "question": "Can Fundamental Rights be restricted?",
+      "answer": "Yes, in public interest."
+    },
+    {
+      "question_id": 47,
+      "question": "What is judicial review?",
+      "answer": "Power to review laws."
+    },
+    {
+      "question_id": 48,
+      "question": "What is amendment?",
+      "answer": "Change in Constitution."
+    },
+    {
+      "question_id": 49,
+      "question": "Why is Constitution flexible?",
+      "answer": "To adapt to changes."
+    },
+    {
+      "question_id": 50,
+      "question": "Which country has unwritten Constitution?",
+      "answer": "United Kingdom."
+    },
+    {
+      "question_id": 51,
+      "question": "What is separation of powers?",
+      "answer": "Division among organs."
+    },
+    {
+      "question_id": 52,
+      "question": "What is democracy?",
+      "answer": "Rule by people."
+    },
+    {
+      "question_id": 53,
+      "question": "Why is democracy important?",
+      "answer": "Ensures participation."
+    },
+    {
+      "question_id": 54,
+      "question": "What is equality before law?",
+      "answer": "Law treats all equally."
+    },
+    {
+      "question_id": 55,
+      "question": "What is liberty of thought?",
+      "answer": "Freedom to think."
+    },
+    {
+      "question_id": 56,
+      "question": "Why is fraternity necessary?",
+      "answer": "Maintains unity."
+    },
+    {
+      "question_id": 57,
+      "question": "What is civic sense?",
+      "answer": "Responsible citizenship."
+    },
+    {
+      "question_id": 58,
+      "question": "What is constitutional morality?",
+      "answer": "Respecting Constitution values."
+    },
+    {
+      "question_id": 59,
+      "question": "Why follow Fundamental Duties?",
+      "answer": "For national development."
+    },
+    {
+      "question_id": 60,
+      "question": "What is scientific temper?",
+      "answer": "Rational thinking."
+    },
+    {
+      "question_id": 61,
+      "question": "Which amendment made education a right?",
+      "answer": "86th Amendment."
+    },
+    {
+      "question_id": 62,
+      "question": "Why is education important?",
+      "answer": "For informed citizens."
+    },
+    {
+      "question_id": 63,
+      "question": "Why is voting important?",
+      "answer": "Strengthens democracy."
+    },
+    {
+      "question_id": 64,
+      "question": "What is national integrity?",
+      "answer": "Unity of nation."
+    },
+    {
+      "question_id": 65,
+      "question": "Why preserve heritage?",
+      "answer": "Shows culture."
+    },
+    {
+      "question_id": 66,
+      "question": "What is constitutional governance?",
+      "answer": "Rule as per Constitution."
+    },
+    {
+      "question_id": 67,
+      "question": "Why is Constitution supreme?",
+      "answer": "All laws derive from it."
+    },
+    {
+      "question_id": 68,
+      "question": "What is significance of Constitution?",
+      "answer": "Safeguards democracy."
+    },
+    {
+      "question_id": 69,
+      "question": "Why is this chapter important?",
+      "answer": "It introduces the Constitution."
+    },
+    {
+      "question_id": 70,
+      "question": "What is independence of judiciary?",
+      "answer": "Judiciary free from pressure."
+    },
+    {
+      "question_id": 71,
+      "question": "Why is judiciary important?",
+      "answer": "Protects rights."
+    },
+    {
+      "question_id": 72,
+      "question": "What is equality of opportunity?",
+      "answer": "Equal chances for all."
+    },
+    {
+      "question_id": 73,
+      "question": "What is liberty of expression?",
+      "answer": "Freedom to express ideas."
+    },
+    {
+      "question_id": 74,
+      "question": "Why are duties important?",
+      "answer": "They balance rights."
+    },
+    {
+      "question_id": 75,
+      "question": "What is environmental duty?",
+      "answer": "Protect nature."
+    },
+    {
+      "question_id": 76,
+      "question": "Why unity in diversity?",
+      "answer": "Strengthens nation."
+    },
+    {
+      "question_id": 77,
+      "question": "What is national sovereignty?",
+      "answer": "Supreme authority of nation."
+    },
+    {
+      "question_id": 78,
+      "question": "Why is fraternity important?",
+      "answer": "Promotes harmony."
+    },
+    {
+      "question_id": 79,
+      "question": "What does this chapter teach?",
+      "answer": "Importance of Constitution."
+    },
+    {
+      "question_id": 80,
+      "question": "Why must citizens obey laws?",
+      "answer": "For order."
+    },
+    {
+      "question_id": 81,
+      "question": "What is parliamentary democracy?",
+      "answer": "Elected representatives rule."
+    },
+    {
+      "question_id": 82,
+      "question": "Why is rule of law essential?",
+      "answer": "Ensures justice."
+    },
+    {
+      "question_id": 83,
+      "question": "What is flexibility of Constitution?",
+      "answer": "Ability to amend."
+    },
+    {
+      "question_id": 84,
+      "question": "What is rigidity of Constitution?",
+      "answer": "Difficult to amend."
+    },
+    {
+      "question_id": 85,
+      "question": "Why Indian Constitution is unique?",
+      "answer": "Blend of rigidity and flexibility."
+    },
+    {
+      "question_id": 86,
+      "question": "What is significance of Fundamental Rights?",
+      "answer": "Protect freedoms."
+    },
+    {
+      "question_id": 87,
+      "question": "What is significance of Duties?",
+      "answer": "Promote responsibility."
+    },
+    {
+      "question_id": 88,
+      "question": "What is essence of Constitution?",
+      "answer": "Justice, liberty, equality."
+    }
+  ]
+}

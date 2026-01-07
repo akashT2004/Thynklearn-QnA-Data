@@ -1,0 +1,1372 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 1",
+    "chapter_number": 5,
+    "chapter_name": "गणित का जादू"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘गणित का जादू’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गणित की रोचकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कठिनाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परीक्षा",
+          "is_correct": false
+        }
+      ],
+      "answer": "गणित की रोचकता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को कैसा विषय बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोचक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निरर्थक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उबाऊ",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोचक"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गणित का जादू किसमें छिपा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संख्याओं में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कहानियों में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रों में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गीतों में",
+          "is_correct": false
+        }
+      ],
+      "answer": "संख्याओं में"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाठ के अनुसार गणित किसे आसान बनाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध को",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन को"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गणित का उपयोग कहाँ-कहाँ होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनिक जीवन में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल स्कूल में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल परीक्षा में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कहीं नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "दैनिक जीवन में"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को क्यों ‘जादू’ कहा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्या सुलझाने के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कठिनाई के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरर्थकता के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्या सुलझाने के कारण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गणित सीखने से कौन-सा गुण बढ़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तर्कशक्ति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "तर्कशक्ति"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित से किसका समाधान बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्याओं का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध का",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्याओं का"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "गणित का सही अभ्यास क्या करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास बढ़ाता है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर बढ़ाता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "थकान देता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराश करता है",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास बढ़ाता है"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को किससे जोड़ा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तर्क और बुद्धि",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर और भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य और थकान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध और ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "तर्क और बुद्धि"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गणित के नियम किसलिए उपयोगी हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्या हल करने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर बढ़ाने के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भ्रम के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समय नष्ट करने के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्या हल करने के लिए"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित का भय किससे दूर होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समझ से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "समझ से"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गणित का जादू किसे आकर्षित करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सीखने वालों को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरपोक को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलसी को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास को",
+          "is_correct": false
+        }
+      ],
+      "answer": "सीखने वालों को"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गणित में गलतियाँ क्या सिखाती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सीख",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "सीख"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाठ के अनुसार गणित किसका आधार है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तर्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "तर्क"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गणित का अभ्यास क्यों जरूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समझ बढ़ाने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "थकान के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "समझ बढ़ाने के लिए"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को किस दृष्टि से देखने को कहा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल की तरह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर की तरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बोझ की तरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सजा की तरह",
+          "is_correct": false
+        }
+      ],
+      "answer": "खेल की तरह"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "गणित से कौन-सी क्षमता विकसित होती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्या समाधान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्या समाधान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गणित का जादू किसे सफल बनाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनती विद्यार्थी को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आलसी को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लापरवाह को",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनती विद्यार्थी को"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पाठ का उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गणित के प्रति रुचि बढ़ाना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर पैदा करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासी",
+          "is_correct": false
+        }
+      ],
+      "answer": "गणित के प्रति रुचि बढ़ाना"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "गणित के प्रश्न कैसे हल होते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तर्क से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयोग से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य से",
+          "is_correct": false
+        }
+      ],
+      "answer": "तर्क से"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को क्यों उपयोगी बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन में सहायक होने के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कठिन होने के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरर्थक होने के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन में सहायक होने के कारण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गणित सीखने से क्या कम होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समझ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तर्क",
+          "is_correct": false
+        }
+      ],
+      "answer": "भय"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "गणित का जादू किस समय दिखाई देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समस्या हल करते समय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरते समय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोते समय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेलते समय",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्या हल करते समय"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को कौन-सा विषय कहा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोचक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उबाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कठोर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोचक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "गणित से विद्यार्थी में क्या बढ़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "गणित का सही तरीका क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समझ और अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रटने से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "समझ और अभ्यास"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को किससे जोड़कर समझाया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनिक जीवन से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल परीक्षा से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल किताब से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "दैनिक जीवन से"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "गणित का जादू किसे नहीं दिखता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जो अभ्यास न करे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मेहनती को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समझदार को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सीखने वाले को",
+          "is_correct": false
+        }
+      ],
+      "answer": "जो अभ्यास न करे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "गणित का ज्ञान किसे लाभ देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सभी को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल छात्रों को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल शिक्षकों को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी को"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "गणित में सफलता का मूल मंत्र क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यास"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित का संबंध किससे बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तर्क से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भावना से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "तर्क से"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "गणित सीखने से कौन-सा गुण नहीं बढ़ता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समझ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तर्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आत्मविश्वास",
+          "is_correct": false
+        }
+      ],
+      "answer": "डर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "गणित का जादू हमें क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भागना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "छोड़ना",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोचना"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पाठ में गणित को किस रूप में प्रस्तुत किया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मित्र की तरह",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शत्रु की तरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बोझ की तरह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सजा की तरह",
+          "is_correct": false
+        }
+      ],
+      "answer": "मित्र की तरह"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "गणित से कौन-सा डर दूर होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संख्याओं का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समझ का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तर्क का",
+          "is_correct": false
+        }
+      ],
+      "answer": "संख्याओं का"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "गणित के प्रयोग से क्या आसान होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निर्णय लेना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "निर्णय लेना"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पाठ का भाव कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायक"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "गणित का जादू किसके लिए है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सीखने वालों के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरपोक के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलसी के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "सीखने वालों के लिए"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पाठ का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गणित को समझकर सीखो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गणित से डरो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गणित छोड़ दो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गणित कठिन है",
+          "is_correct": false
+        }
+      ],
+      "answer": "गणित को समझकर सीखो"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘गणित का जादू’ पाठ का मुख्य विचार क्या है?",
+      "answer": "गणित को रोचक और सरल बनाना।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "गणित को जादू क्यों कहा गया है?",
+      "answer": "क्योंकि यह समस्याएँ आसानी से हल करता है।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित का उपयोग कहाँ बताया गया है?",
+      "answer": "दैनिक जीवन में।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "गणित सीखने से क्या लाभ होता है?",
+      "answer": "तर्कशक्ति बढ़ती है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "गणित का अभ्यास क्यों जरूरी है?",
+      "answer": "समझ मजबूत करने के लिए।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित से जुड़ा कौन-सा डर बताया गया है?",
+      "answer": "संख्याओं का डर।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "गणित का सही तरीका क्या है?",
+      "answer": "समझ और अभ्यास।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "गणित का जादू किसे दिखाई देता है?",
+      "answer": "जो ध्यान से सीखता है।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "गणित से कौन-सी क्षमता विकसित होती है?",
+      "answer": "समस्या समाधान।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "पाठ का उद्देश्य क्या है?",
+      "answer": "गणित के प्रति रुचि बढ़ाना।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "गणित को कैसे रोचक बनाया जा सकता है?",
+      "answer": "उदाहरणों से।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "गणित का जादू कब अनुभव होता है?",
+      "answer": "प्रश्न हल करते समय।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "गणित सीखने से कौन-सा गुण बढ़ता है?",
+      "answer": "आत्मविश्वास।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित को किस रूप में दिखाया गया है?",
+      "answer": "मित्र के रूप में।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "गणित का ज्ञान क्यों आवश्यक है?",
+      "answer": "सही निर्णय लेने के लिए।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "गणित से डर कैसे दूर किया जा सकता है?",
+      "answer": "समझ और अभ्यास से।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "गणित का जादू बच्चों को क्या सिखाता है?",
+      "answer": "सोचने की कला।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित का संबंध किससे है?",
+      "answer": "तर्क और बुद्धि से।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "गणित सीखने से क्या कम होता है?",
+      "answer": "भय।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "गणित का उपयोग जीवन को कैसे आसान बनाता है?",
+      "answer": "समस्याएँ सुलझाकर।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "गणित के नियम क्यों महत्वपूर्ण हैं?",
+      "answer": "समाधान के लिए।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित को बोझ क्यों नहीं माना गया है?",
+      "answer": "क्योंकि यह उपयोगी है।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "गणित का अभ्यास किस आदत को दर्शाता है?",
+      "answer": "अनुशासन।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "गणित से जुड़ी गलतियाँ क्या सिखाती हैं?",
+      "answer": "सीख।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "गणित का जादू किसे सफल बनाता है?",
+      "answer": "मेहनती विद्यार्थी को।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित को किससे जोड़कर समझाया गया है?",
+      "answer": "दैनिक जीवन से।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "गणित का ज्ञान समाज के लिए क्यों जरूरी है?",
+      "answer": "सही निर्णय के लिए।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "गणित सीखने से जीवन में क्या परिवर्तन आता है?",
+      "answer": "आत्मविश्वास बढ़ता है।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित का भाव कैसा है?",
+      "answer": "प्रेरणादायक।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "गणित का जादू हमें क्या सोचने को प्रेरित करता है?",
+      "answer": "तर्कपूर्ण सोच।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "गणित सीखने का सही समय कब है?",
+      "answer": "नियमित अभ्यास के समय।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "गणित से कौन-सा डर दूर होता है?",
+      "answer": "असफलता का डर।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "गणित का ज्ञान छात्रों के लिए क्यों जरूरी है?",
+      "answer": "भविष्य निर्माण के लिए।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पाठ में गणित का महत्व कैसे दिखाया गया है?",
+      "answer": "उदाहरणों द्वारा।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "गणित का अभ्यास न करने से क्या होता है?",
+      "answer": "समझ कमजोर होती है।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "गणित का जादू पाठ से हमें क्या सीख मिलती है?",
+      "answer": "गणित को मित्र समझना।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "गणित के प्रश्न हल करने से क्या संतोष मिलता है?",
+      "answer": "आत्मिक संतोष।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "गणित से जीवन में क्या सुविधा मिलती है?",
+      "answer": "समस्या समाधान।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "गणित का जादू किसे नहीं समझ आता?",
+      "answer": "जो अभ्यास न करे।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "‘गणित का जादू’ पाठ हमें क्या संदेश देता है?",
+      "answer": "डर छोड़कर गणित सीखो।"
+    }
+  ]
+}

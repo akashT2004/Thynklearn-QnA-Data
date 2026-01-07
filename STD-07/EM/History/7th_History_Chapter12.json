@@ -1,0 +1,941 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 12,
+  "chapter_name": "Progression of the Empire",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Which empire is referred to in this chapter?",
+      "options": [
+        "Mughal Empire",
+        "British Empire",
+        "Maratha Empire",
+        "Maurya Empire"
+      ],
+      "answer": "Maratha Empire"
+    },
+    {
+      "question_id": 2,
+      "question": "Who played a key role in the progression of the Maratha Empire?",
+      "options": [
+        "Shivaji Maharaj",
+        "Peshwas",
+        "British",
+        "Portuguese"
+      ],
+      "answer": "Peshwas"
+    },
+    {
+      "question_id": 3,
+      "question": "Where was the administrative center during empire progression?",
+      "options": [
+        "Satara",
+        "Raigad",
+        "Pune",
+        "Nagpur"
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 4,
+      "question": "Which position became powerful during empire expansion?",
+      "options": [
+        "King",
+        "Peshwa",
+        "Senapati",
+        "Amatya"
+      ],
+      "answer": "Peshwa"
+    },
+    {
+      "question_id": 5,
+      "question": "Who was the first Peshwa to strengthen the empire?",
+      "options": [
+        "Balaji Vishwanath",
+        "Baji Rao I",
+        "Madhavrao I",
+        "Nanasaheb"
+      ],
+      "answer": "Balaji Vishwanath"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Maratha leader expanded power in North India?",
+      "options": [
+        "Baji Rao I",
+        "Balaji Bajirao",
+        "Madhavrao I",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 7,
+      "question": "Which revenue sources supported empire growth?",
+      "options": [
+        "Chauth and Sardeshmukhi",
+        "Trade tax",
+        "Temple tax",
+        "Customs"
+      ],
+      "answer": "Chauth and Sardeshmukhi"
+    },
+    {
+      "question_id": 8,
+      "question": "Which battle strengthened Maratha dominance?",
+      "options": [
+        "Battle of Palkhed",
+        "Battle of Panipat",
+        "Battle of Jinji",
+        "Battle of Surat"
+      ],
+      "answer": "Battle of Palkhed"
+    },
+    {
+      "question_id": 9,
+      "question": "Which region came under Maratha influence?",
+      "options": [
+        "Malwa",
+        "Gujarat",
+        "Bundelkhand",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 10,
+      "question": "Which family ruled Gwalior?",
+      "options": [
+        "Holkar",
+        "Scindia",
+        "Bhonsle",
+        "Gaekwad"
+      ],
+      "answer": "Scindia"
+    },
+    {
+      "question_id": 11,
+      "question": "Which family ruled Indore?",
+      "options": [
+        "Scindia",
+        "Holkar",
+        "Bhonsle",
+        "Gaekwad"
+      ],
+      "answer": "Holkar"
+    },
+    {
+      "question_id": 12,
+      "question": "Which family ruled Nagpur?",
+      "options": [
+        "Scindia",
+        "Holkar",
+        "Bhonsle",
+        "Gaekwad"
+      ],
+      "answer": "Bhonsle"
+    },
+    {
+      "question_id": 13,
+      "question": "Which family ruled Baroda?",
+      "options": [
+        "Scindia",
+        "Holkar",
+        "Bhonsle",
+        "Gaekwad"
+      ],
+      "answer": "Gaekwad"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Maratha leader focused on good governance?",
+      "options": [
+        "Baji Rao I",
+        "Balaji Bajirao",
+        "Madhavrao I",
+        "Raghunathrao"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 15,
+      "question": "Who restored stability after Panipat?",
+      "options": [
+        "Madhavrao I",
+        "Sadashivrao Bhau",
+        "Balaji Bajirao",
+        "Shahu Maharaj"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 16,
+      "question": "Which event caused temporary setback?",
+      "options": [
+        "Third Battle of Panipat",
+        "Battle of Palkhed",
+        "Treaty of Delhi",
+        "Battle of Kolhapur"
+      ],
+      "answer": "Third Battle of Panipat"
+    },
+    {
+      "question_id": 17,
+      "question": "Which quality helped empire grow?",
+      "options": [
+        "Unity",
+        "Fear",
+        "Luxury",
+        "Greed"
+      ],
+      "answer": "Unity"
+    },
+    {
+      "question_id": 18,
+      "question": "Which administrative system ensured control over vast areas?",
+      "options": [
+        "Decentralized administration",
+        "British system",
+        "Jagirdari",
+        "Zamindari"
+      ],
+      "answer": "Decentralized administration"
+    },
+    {
+      "question_id": 19,
+      "question": "Which region was strategic for expansion?",
+      "options": [
+        "Malwa",
+        "Punjab",
+        "Bengal",
+        "Assam"
+      ],
+      "answer": "Malwa"
+    },
+    {
+      "question_id": 20,
+      "question": "Which leader never lost a battle?",
+      "options": [
+        "Baji Rao I",
+        "Balaji Bajirao",
+        "Madhavrao I",
+        "Raghunathrao"
+      ],
+      "answer": "Baji Rao I"
+    },
+    {
+      "question_id": 21,
+      "question": "Which factor weakened Mughal Empire aiding Marathas?",
+      "options": [
+        "Internal conflicts",
+        "Maratha attacks",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 22,
+      "question": "Which role did forts play?",
+      "options": [
+        "Defense and administration",
+        "Trade",
+        "Religion",
+        "Education"
+      ],
+      "answer": "Defense and administration"
+    },
+    {
+      "question_id": 23,
+      "question": "Which region became Maratha administrative hub?",
+      "options": [
+        "Pune",
+        "Satara",
+        "Raigad",
+        "Nagpur"
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 24,
+      "question": "Which Maratha leader expanded empire in South?",
+      "options": [
+        "Baji Rao I",
+        "Balaji Bajirao",
+        "Madhavrao I",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 25,
+      "question": "Which tax provided regular income?",
+      "options": [
+        "Chauth",
+        "Sardeshmukhi",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 26,
+      "question": "Which empire declined during Maratha rise?",
+      "options": [
+        "Mughal Empire",
+        "British Empire",
+        "French Empire",
+        "Portuguese Empire"
+      ],
+      "answer": "Mughal Empire"
+    },
+    {
+      "question_id": 27,
+      "question": "Which Maratha leader strengthened diplomacy?",
+      "options": [
+        "Balaji Vishwanath",
+        "Baji Rao I",
+        "Madhavrao I",
+        "Nanasaheb"
+      ],
+      "answer": "Balaji Vishwanath"
+    },
+    {
+      "question_id": 28,
+      "question": "Which principle guided expansion?",
+      "options": [
+        "Protection of Swaraj",
+        "Personal gain",
+        "Trade",
+        "Luxury"
+      ],
+      "answer": "Protection of Swaraj"
+    },
+    {
+      "question_id": 29,
+      "question": "Which quality made Maratha administration effective?",
+      "options": [
+        "Discipline",
+        "Corruption",
+        "Fear",
+        "Greed"
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 30,
+      "question": "Which Maratha leader emphasized recovery?",
+      "options": [
+        "Madhavrao I",
+        "Balaji Bajirao",
+        "Raghunathrao",
+        "Sadashivrao Bhau"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 31,
+      "question": "Which region remained outside Maratha control?",
+      "options": [
+        "Punjab",
+        "Malwa",
+        "Gujarat",
+        "Bundelkhand"
+      ],
+      "answer": "Punjab"
+    },
+    {
+      "question_id": 32,
+      "question": "Which institution managed empire affairs?",
+      "options": [
+        "Peshwa office",
+        "British council",
+        "Royal court",
+        "Village panchayat"
+      ],
+      "answer": "Peshwa office"
+    },
+    {
+      "question_id": 33,
+      "question": "Which quality helped manage vast empire?",
+      "options": [
+        "Efficient administration",
+        "Fear",
+        "Luxury",
+        "Oppression"
+      ],
+      "answer": "Efficient administration"
+    },
+    {
+      "question_id": 34,
+      "question": "Which Maratha family ruled in North?",
+      "options": [
+        "Scindia",
+        "Holkar",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 35,
+      "question": "Which value maintained public support?",
+      "options": [
+        "Justice",
+        "Fear",
+        "Greed",
+        "Oppression"
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 36,
+      "question": "Which leader balanced expansion and governance?",
+      "options": [
+        "Madhavrao I",
+        "Baji Rao I",
+        "Balaji Bajirao",
+        "Raghunathrao"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 37,
+      "question": "Which empire became strongest power in 18th century India?",
+      "options": [
+        "Maratha Empire",
+        "Mughal Empire",
+        "British Empire",
+        "French Empire"
+      ],
+      "answer": "Maratha Empire"
+    },
+    {
+      "question_id": 38,
+      "question": "Which war weakened Maratha power temporarily?",
+      "options": [
+        "Panipat",
+        "Palkhed",
+        "Kolhapur",
+        "Jinji"
+      ],
+      "answer": "Panipat"
+    },
+    {
+      "question_id": 39,
+      "question": "Which role did alliances play?",
+      "options": [
+        "Strengthened empire",
+        "Weakened empire",
+        "No role",
+        "Destroyed empire"
+      ],
+      "answer": "Strengthened empire"
+    },
+    {
+      "question_id": 40,
+      "question": "Which region saw Maratha revenue collection?",
+      "options": [
+        "Malwa",
+        "Gujarat",
+        "Delhi region",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 41,
+      "question": "Which quality defined Maratha leadership?",
+      "options": [
+        "Strategy",
+        "Greed",
+        "Fear",
+        "Luxury"
+      ],
+      "answer": "Strategy"
+    },
+    {
+      "question_id": 42,
+      "question": "Which leader improved administration after crisis?",
+      "options": [
+        "Madhavrao I",
+        "Baji Rao I",
+        "Balaji Vishwanath",
+        "Nanasaheb"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 43,
+      "question": "Which factor ensured long-term empire growth?",
+      "options": [
+        "People’s support",
+        "Foreign help",
+        "Fear",
+        "Wealth"
+      ],
+      "answer": "People’s support"
+    },
+    {
+      "question_id": 44,
+      "question": "Which city symbolized administrative growth?",
+      "options": [
+        "Pune",
+        "Raigad",
+        "Satara",
+        "Nagpur"
+      ],
+      "answer": "Pune"
+    },
+    {
+      "question_id": 45,
+      "question": "What does progression of empire signify?",
+      "options": [
+        "Territorial growth with administration",
+        "Only wars",
+        "Only trade",
+        "Only taxation"
+      ],
+      "answer": "Territorial growth with administration"
+    },
+    {
+      "question_id": 46,
+      "question": "Which leader guided empire at peak?",
+      "options": [
+        "Madhavrao I",
+        "Baji Rao I",
+        "Balaji Bajirao",
+        "Shahu Maharaj"
+      ],
+      "answer": "Madhavrao I"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What is meant by progression of the empire?",
+      "answer": "It means the systematic growth and consolidation of the Maratha Empire."
+    },
+    {
+      "question_id": 2,
+      "question": "Which empire progressed in this chapter?",
+      "answer": "The Maratha Empire progressed."
+    },
+    {
+      "question_id": 3,
+      "question": "Who played key role in empire progression?",
+      "answer": "The Peshwas played a key role."
+    },
+    {
+      "question_id": 4,
+      "question": "Why did Pune become important?",
+      "answer": "It became the administrative center."
+    },
+    {
+      "question_id": 5,
+      "question": "Who was the first Peshwa?",
+      "answer": "Balaji Vishwanath was the first Peshwa."
+    },
+    {
+      "question_id": 6,
+      "question": "What was role of Balaji Vishwanath?",
+      "answer": "He strengthened administration and diplomacy."
+    },
+    {
+      "question_id": 7,
+      "question": "Who was Baji Rao I?",
+      "answer": "A great military leader who expanded the empire."
+    },
+    {
+      "question_id": 8,
+      "question": "Why is Baji Rao I famous?",
+      "answer": "He never lost a battle."
+    },
+    {
+      "question_id": 9,
+      "question": "What was contribution of Madhavrao I?",
+      "answer": "He restored stability and strengthened governance."
+    },
+    {
+      "question_id": 10,
+      "question": "Why is Madhavrao I admired?",
+      "answer": "For efficient administration and recovery."
+    },
+    {
+      "question_id": 11,
+      "question": "Which battle was a setback?",
+      "answer": "The Third Battle of Panipat."
+    },
+    {
+      "question_id": 12,
+      "question": "How did Marathas recover after Panipat?",
+      "answer": "Through strong leadership and reforms."
+    },
+    {
+      "question_id": 13,
+      "question": "What role did Peshwas play?",
+      "answer": "They managed administration and expansion."
+    },
+    {
+      "question_id": 14,
+      "question": "Which regions came under Maratha rule?",
+      "answer": "Malwa, Gujarat and Bundelkhand."
+    },
+    {
+      "question_id": 15,
+      "question": "Who ruled Gwalior?",
+      "answer": "The Scindia family ruled Gwalior."
+    },
+    {
+      "question_id": 16,
+      "question": "Who ruled Indore?",
+      "answer": "The Holkar family ruled Indore."
+    },
+    {
+      "question_id": 17,
+      "question": "Who ruled Nagpur?",
+      "answer": "The Bhonsle family ruled Nagpur."
+    },
+    {
+      "question_id": 18,
+      "question": "Who ruled Baroda?",
+      "answer": "The Gaekwad family ruled Baroda."
+    },
+    {
+      "question_id": 19,
+      "question": "Why was Malwa important?",
+      "answer": "It was strategically located."
+    },
+    {
+      "question_id": 20,
+      "question": "What is Chauth?",
+      "answer": "One-fourth of land revenue."
+    },
+    {
+      "question_id": 21,
+      "question": "What is Sardeshmukhi?",
+      "answer": "Additional ten percent tax."
+    },
+    {
+      "question_id": 22,
+      "question": "Why were these taxes collected?",
+      "answer": "To support administration and army."
+    },
+    {
+      "question_id": 23,
+      "question": "How did administration manage vast empire?",
+      "answer": "Through decentralization."
+    },
+    {
+      "question_id": 24,
+      "question": "What was impact on Mughal Empire?",
+      "answer": "It weakened Mughal power."
+    },
+    {
+      "question_id": 25,
+      "question": "How did forts help empire?",
+      "answer": "They ensured defence and control."
+    },
+    {
+      "question_id": 26,
+      "question": "Why was unity important?",
+      "answer": "It strengthened expansion."
+    },
+    {
+      "question_id": 27,
+      "question": "How did Marathas maintain discipline?",
+      "answer": "Through strict administration."
+    },
+    {
+      "question_id": 28,
+      "question": "What role did people play?",
+      "answer": "They supported Maratha rule."
+    },
+    {
+      "question_id": 29,
+      "question": "Why was justice important?",
+      "answer": "It gained public trust."
+    },
+    {
+      "question_id": 30,
+      "question": "How did Marathas treat local rulers?",
+      "answer": "Through alliances and agreements."
+    },
+    {
+      "question_id": 31,
+      "question": "What was role of diplomacy?",
+      "answer": "It avoided unnecessary wars."
+    },
+    {
+      "question_id": 32,
+      "question": "How did geography help expansion?",
+      "answer": "Hills and routes aided movement."
+    },
+    {
+      "question_id": 33,
+      "question": "Why was Panipat not end of empire?",
+      "answer": "Because Marathas recovered."
+    },
+    {
+      "question_id": 34,
+      "question": "How did Madhavrao I rebuild power?",
+      "answer": "Through reforms and leadership."
+    },
+    {
+      "question_id": 35,
+      "question": "What was effect on Indian politics?",
+      "answer": "Marathas became dominant power."
+    },
+    {
+      "question_id": 36,
+      "question": "Why was administration crucial?",
+      "answer": "To manage large territories."
+    },
+    {
+      "question_id": 37,
+      "question": "How did empire ensure revenue flow?",
+      "answer": "By systematic tax collection."
+    },
+    {
+      "question_id": 38,
+      "question": "What role did army play?",
+      "answer": "Protection and expansion."
+    },
+    {
+      "question_id": 39,
+      "question": "How did empire maintain stability?",
+      "answer": "Through good governance."
+    },
+    {
+      "question_id": 40,
+      "question": "Why is this chapter important?",
+      "answer": "It explains consolidation of empire."
+    },
+    {
+      "question_id": 41,
+      "question": "What lesson does progression teach?",
+      "answer": "Growth needs administration."
+    },
+    {
+      "question_id": 42,
+      "question": "How did Marathas balance war and peace?",
+      "answer": "Through strategy and diplomacy."
+    },
+    {
+      "question_id": 43,
+      "question": "Why was Peshwa system effective?",
+      "answer": "It ensured continuity."
+    },
+    {
+      "question_id": 44,
+      "question": "How did expansion affect society?",
+      "answer": "It brought order and security."
+    },
+    {
+      "question_id": 45,
+      "question": "What challenges did empire face?",
+      "answer": "Opposition and setbacks."
+    },
+    {
+      "question_id": 46,
+      "question": "How were challenges overcome?",
+      "answer": "By unity and leadership."
+    },
+    {
+      "question_id": 47,
+      "question": "Why was recovery after Panipat significant?",
+      "answer": "It showed resilience."
+    },
+    {
+      "question_id": 48,
+      "question": "How did empire influence future India?",
+      "answer": "It shaped power balance."
+    },
+    {
+      "question_id": 49,
+      "question": "What values guided progression?",
+      "answer": "Justice and discipline."
+    },
+    {
+      "question_id": 50,
+      "question": "Why was people’s support vital?",
+      "answer": "It sustained empire."
+    },
+    {
+      "question_id": 51,
+      "question": "How did empire manage distant regions?",
+      "answer": "Through local rulers."
+    },
+    {
+      "question_id": 52,
+      "question": "What was impact on economy?",
+      "answer": "Increased revenue."
+    },
+    {
+      "question_id": 53,
+      "question": "How did Marathas protect Swaraj?",
+      "answer": "By strengthening empire."
+    },
+    {
+      "question_id": 54,
+      "question": "Why was Malwa fertile for expansion?",
+      "answer": "It was rich and strategic."
+    },
+    {
+      "question_id": 55,
+      "question": "How did alliances help?",
+      "answer": "They reduced conflict."
+    },
+    {
+      "question_id": 56,
+      "question": "What was role of intelligence?",
+      "answer": "It guided decisions."
+    },
+    {
+      "question_id": 57,
+      "question": "Why did empire survive setbacks?",
+      "answer": "Strong administration."
+    },
+    {
+      "question_id": 58,
+      "question": "How did empire maintain law and order?",
+      "answer": "Through officials."
+    },
+    {
+      "question_id": 59,
+      "question": "What was significance of Pune?",
+      "answer": "Center of power."
+    },
+    {
+      "question_id": 60,
+      "question": "How did leadership evolve?",
+      "answer": "From kings to Peshwas."
+    },
+    {
+      "question_id": 61,
+      "question": "Why is Madhavrao I considered ideal ruler?",
+      "answer": "For balanced governance."
+    },
+    {
+      "question_id": 62,
+      "question": "What was long-term impact?",
+      "answer": "Strong Maratha state."
+    },
+    {
+      "question_id": 63,
+      "question": "How did empire influence culture?",
+      "answer": "It spread Maratha values."
+    },
+    {
+      "question_id": 64,
+      "question": "Why was decentralization effective?",
+      "answer": "It improved control."
+    },
+    {
+      "question_id": 65,
+      "question": "How did empire ensure security?",
+      "answer": "By forts and army."
+    },
+    {
+      "question_id": 66,
+      "question": "What does consolidation mean?",
+      "answer": "Strengthening control."
+    },
+    {
+      "question_id": 67,
+      "question": "Why was governance emphasized?",
+      "answer": "To maintain stability."
+    },
+    {
+      "question_id": 68,
+      "question": "How did empire respond to threats?",
+      "answer": "With strategy."
+    },
+    {
+      "question_id": 69,
+      "question": "Why is progression different from expansion?",
+      "answer": "It includes administration."
+    },
+    {
+      "question_id": 70,
+      "question": "How did empire gain legitimacy?",
+      "answer": "Through effective rule."
+    },
+    {
+      "question_id": 71,
+      "question": "Why is justice highlighted?",
+      "answer": "It ensured loyalty."
+    },
+    {
+      "question_id": 72,
+      "question": "How did empire manage resources?",
+      "answer": "Efficiently."
+    },
+    {
+      "question_id": 73,
+      "question": "What role did reforms play?",
+      "answer": "They improved governance."
+    },
+    {
+      "question_id": 74,
+      "question": "Why was leadership continuity important?",
+      "answer": "For stability."
+    },
+    {
+      "question_id": 75,
+      "question": "How did empire inspire confidence?",
+      "answer": "Through success."
+    },
+    {
+      "question_id": 76,
+      "question": "Why is chapter relevant today?",
+      "answer": "It teaches governance lessons."
+    },
+    {
+      "question_id": 77,
+      "question": "How did empire protect people?",
+      "answer": "By maintaining order."
+    },
+    {
+      "question_id": 78,
+      "question": "What was role of discipline?",
+      "answer": "It ensured efficiency."
+    },
+    {
+      "question_id": 79,
+      "question": "Why was unity essential?",
+      "answer": "It prevented collapse."
+    },
+    {
+      "question_id": 80,
+      "question": "How did empire overcome internal issues?",
+      "answer": "Through reforms."
+    },
+    {
+      "question_id": 81,
+      "question": "What lesson does history give?",
+      "answer": "Strong administration sustains power."
+    },
+    {
+      "question_id": 82,
+      "question": "Why is progression important?",
+      "answer": "It ensures longevity."
+    },
+    {
+      "question_id": 83,
+      "question": "How did empire balance power?",
+      "answer": "Through checks."
+    },
+    {
+      "question_id": 84,
+      "question": "Why is this chapter significant?",
+      "answer": "It explains empire-building."
+    },
+    {
+      "question_id": 85,
+      "question": "What does Maratha progression symbolize?",
+      "answer": "Organized growth."
+    }
+  ]
+}

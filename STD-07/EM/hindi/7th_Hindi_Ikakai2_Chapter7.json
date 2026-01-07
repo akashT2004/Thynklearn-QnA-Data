@@ -1,0 +1,1372 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 2",
+    "chapter_number": 7,
+    "chapter_name": "प्यारा देश"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘प्यारा देश’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशप्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशप्रेम"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवि अपने देश को क्यों प्रिय मानता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उसकी विविधता के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उसकी शक्ति के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उसके डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उसकी संपत्ति के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "उसकी विविधता के कारण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाठ में देश के प्रति कौन-सी भावना व्यक्त की गई है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "गर्व"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार देश की सबसे बड़ी पहचान क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेना",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृति"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पाठ में देश को किस रूप में देखा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माता के रूप में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शत्रु के रूप में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार के रूप में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूमि के रूप में",
+          "is_correct": false
+        }
+      ],
+      "answer": "माता के रूप में"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवि देश के नागरिकों से क्या अपेक्षा करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्तव्यनिष्ठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्यनिष्ठा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की सुंदरता किससे बनी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकृति और संस्कृति से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भवनों से",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकृति और संस्कृति से"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार देश को महान क्या बनाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नागरिकों का चरित्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्ति",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "नागरिकों का चरित्र"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाठ में किस मूल्य पर ज़ोर दिया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाठ का भाव कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओजपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यंग्यात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओजपूर्ण"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘प्यारा देश’ कविता किस भावना को जगाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशभक्ति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशभक्ति"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवि देश को क्यों ‘प्यारा’ कहता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उसके मूल्यों के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उसकी शक्ति के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उसके डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उसकी संपत्ति के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "उसके मूल्यों के कारण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की आत्मा किसमें बसती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जनता में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भवनों में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सेना में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धन में",
+          "is_correct": false
+        }
+      ],
+      "answer": "जनता में"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवि किस प्रकार के नागरिक की कल्पना करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईमानदार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लालची",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईमानदार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाठ में देश के लिए क्या करने की प्रेरणा दी गई है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार देश की रक्षा कैसे होती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्तव्यों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शक्ति से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्यों से"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की महानता किससे जुड़ी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कारों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संपत्ति से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कारों से"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवि देश को किस रूप में देखता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पवित्र भूमि",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "युद्धभूमि",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार स्थल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर का स्थान",
+          "is_correct": false
+        }
+      ],
+      "answer": "पवित्र भूमि"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाठ में किस भावना को नकारा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "देशप्रेम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कर्तव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वार्थ"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार देश के प्रति सही भाव क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समर्पण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "समर्पण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की पहचान कैसे बनी रहती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृति से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृति से"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कवि देश को क्यों सम्मान देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उसकी विरासत के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उसकी शक्ति के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उसके डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उसकी संपत्ति के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "उसकी विरासत के कारण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पाठ में देश के प्रति कौन-सा कर्तव्य बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईमानदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लाभ",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईमानदारी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कवि देश के नागरिकों से क्या अपेक्षा करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकता बनाए रखें",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ कमाएँ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरें",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा करें",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकता बनाए रखें"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की शक्ति किसमें है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जनता की एकता में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हथियारों में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर में",
+          "is_correct": false
+        }
+      ],
+      "answer": "जनता की एकता में"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कवि देश के भविष्य को कैसे देखता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उज्ज्वल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अस्पष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराशाजनक",
+          "is_correct": false
+        }
+      ],
+      "answer": "उज्ज्वल"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की सेवा का अर्थ क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्तव्य निभाना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ कमाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्य निभाना"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार देश के लिए बलिदान क्यों आवश्यक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राष्ट्रहित के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाभ के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिखावे के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "राष्ट्रहित के लिए"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की सुंदरता किसमें झलकती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सांस्कृतिक विविधता में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भवनों में",
+          "is_correct": false
+        }
+      ],
+      "answer": "सांस्कृतिक विविधता में"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘प्यारा देश’ कविता का स्वर कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यंग्यात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पाठ में देश के प्रति प्रेम कैसे प्रकट होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्तव्यों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दों से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लाभ से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्यों से"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कवि देश को क्यों सुरक्षित देखना चाहता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नागरिकों के प्रयास से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "नागरिकों के प्रयास से"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "पाठ में देश की आत्मा किससे बनती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृति और मूल्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृति और मूल्य"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार सच्चा देशप्रेम क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्तव्य निभाना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नारे लगाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लाभ लेना",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्य निभाना"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पाठ में देश के लिए कौन-सा गुण आवश्यक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईमानदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "ईमानदारी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कवि देश की रक्षा किससे जोड़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नागरिक चरित्र से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हथियारों से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "नागरिक चरित्र से"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पाठ में देश का आदर्श स्वरूप क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकजुट राष्ट्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धनवान राष्ट्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शक्तिशाली राष्ट्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना राष्ट्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकजुट राष्ट्र"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार देश की उन्नति कैसे होती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सभी के प्रयास से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी के प्रयास से"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पाठ में देश के प्रति क्या भावना जागृत होती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समर्पण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लालच",
+          "is_correct": false
+        }
+      ],
+      "answer": "समर्पण"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "‘प्यारा देश’ कविता हमें क्या सिखाती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशप्रेम और कर्तव्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशप्रेम और कर्तव्य"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘प्यारा देश’ कविता का मुख्य विषय क्या है?",
+      "answer": "देशप्रेम और राष्ट्रीय कर्तव्य।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कवि अपने देश को प्यारा क्यों मानता है?",
+      "answer": "उसकी संस्कृति और मूल्यों के कारण।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "पाठ में देश के प्रति कौन-सी भावना व्यक्त की गई है?",
+      "answer": "गर्व और प्रेम।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार देश की पहचान क्या है?",
+      "answer": "उसकी संस्कृति।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "पाठ में देश को किस रूप में देखा गया है?",
+      "answer": "माता के रूप में।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवि नागरिकों से क्या अपेक्षा करता है?",
+      "answer": "कर्तव्यनिष्ठा।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की सुंदरता किससे बनी है?",
+      "answer": "प्रकृति और संस्कृति से।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार देश को महान क्या बनाता है?",
+      "answer": "नागरिकों का चरित्र।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पाठ का भाव कैसा है?",
+      "answer": "प्रेरणादायक।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कविता किस भावना को जगाती है?",
+      "answer": "देशभक्ति।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवि देश को सम्मान क्यों देता है?",
+      "answer": "उसकी विरासत के कारण।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की आत्मा किसमें बसती है?",
+      "answer": "जनता में।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवि किस प्रकार के नागरिक की कल्पना करता है?",
+      "answer": "ईमानदार नागरिक।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाठ में देश के लिए क्या करने की प्रेरणा दी गई है?",
+      "answer": "सेवा।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार देश की रक्षा कैसे होती है?",
+      "answer": "कर्तव्यों से।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की महानता किससे जुड़ी है?",
+      "answer": "संस्कारों से।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवि देश को किस रूप में देखता है?",
+      "answer": "पवित्र भूमि के रूप में।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पाठ में किस भावना को नकारा गया है?",
+      "answer": "स्वार्थ को।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार देश के प्रति सही भाव क्या है?",
+      "answer": "समर्पण।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की पहचान कैसे बनी रहती है?",
+      "answer": "संस्कृति से।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कवि देश के नागरिकों से क्या अपेक्षा करता है?",
+      "answer": "एकता बनाए रखने की।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की शक्ति किसमें है?",
+      "answer": "जनता की एकता में।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवि देश के भविष्य को कैसे देखता है?",
+      "answer": "उज्ज्वल।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की सेवा का अर्थ क्या है?",
+      "answer": "कर्तव्य निभाना।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार देश के लिए बलिदान क्यों आवश्यक है?",
+      "answer": "राष्ट्रहित के लिए।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की सुंदरता किसमें झलकती है?",
+      "answer": "सांस्कृतिक विविधता में।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कविता का स्वर कैसा है?",
+      "answer": "ओजपूर्ण।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाठ में देश के प्रति प्रेम कैसे प्रकट होता है?",
+      "answer": "कर्तव्यों के पालन से।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवि देश को सुरक्षित क्यों देखना चाहता है?",
+      "answer": "नागरिकों के प्रयास से।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की आत्मा किससे बनती है?",
+      "answer": "संस्कृति और मूल्यों से।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार सच्चा देशप्रेम क्या है?",
+      "answer": "कर्तव्य निभाना।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पाठ में देश के लिए कौन-सा गुण आवश्यक बताया गया है?",
+      "answer": "ईमानदारी।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कवि देश की रक्षा किससे जोड़ता है?",
+      "answer": "नागरिक चरित्र से।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पाठ में देश का आदर्श स्वरूप क्या है?",
+      "answer": "एकजुट राष्ट्र।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार देश की उन्नति कैसे होती है?",
+      "answer": "सभी के प्रयास से।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पाठ में देश के प्रति क्या भावना जागृत होती है?",
+      "answer": "समर्पण।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "‘प्यारा देश’ कविता का संदेश क्या है?",
+      "answer": "देशप्रेम और कर्तव्य।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पाठ में देश की महानता क्यों बताई गई है?",
+      "answer": "उसके मूल्यों के कारण।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवि देश के नागरिकों को क्या बनते देखना चाहता है?",
+      "answer": "कर्तव्यनिष्ठ।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "‘प्यारा देश’ कविता से हमें क्या सीख मिलती है?",
+      "answer": "देश के प्रति निष्ठा और सेवा।"
+    }
+  ]
+}

@@ -1,0 +1,2011 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.English.Unit1",
+    "standard": "7",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Unit 1 \u2013 Past, Present, Future (Complete Unit)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 1)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 2)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 3)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 4)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 5)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 6)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 7)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 8)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 9)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 10)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 11)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 12)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 13)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 14)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 15)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 16)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 17)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 18)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 19)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 20)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 21)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 22)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 23)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 24)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 25)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 26)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 27)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 28)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 29)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 30)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 31)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 32)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 33)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 34)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 35)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 36)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 37)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 38)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 39)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 40)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 41)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 42)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 43)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 44)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 45)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who is the speaker addressing in the poem 'Past, Present, Future'? (Variant 46)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A traveller",
+          "is_correct": false
+        }
+      ],
+      "answer": "A child"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which season describes the past in the poem? (Variant 47)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What does the present hour symbolize? (Variant 48)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Preparation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Preparation"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What image is used for the future? (Variant 49)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sea"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The poem 'Past, Present, Future' is written by: (Variant 50)",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Emily Bront\u00eb",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wordsworth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Keats",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "Emily Bront\u00eb"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 1)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 2)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 3)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 4)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 5)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 6)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 7)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 8)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 9)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 10)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 11)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 12)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 13)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 14)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 15)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 16)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 17)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 18)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 19)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 20)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 21)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 22)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 23)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 24)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 25)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 26)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 27)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 28)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 29)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 30)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 31)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 32)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 33)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 34)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 35)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 36)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 37)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 38)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 39)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 40)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 41)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 42)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 43)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 44)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 45)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 46)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 47)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 48)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 49)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 50)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 51)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 52)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 53)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 54)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 55)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 56)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 57)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 58)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 59)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 60)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 61)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 62)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 63)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 64)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 65)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 66)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 67)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 68)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 69)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 70)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 71)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 72)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 73)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 74)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 75)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 76)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 77)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 78)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 79)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 80)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 81)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 82)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 83)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 84)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 85)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 86)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 87)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 88)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 89)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 90)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 91)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 92)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 93)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 94)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 95)",
+      "answer": "A comparison using 'as' or 'like'."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "What is meant by the past in the poem? (Question 96)",
+      "answer": "It refers to a pleasant time that has already ended."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "What does the young bird represent? (Question 97)",
+      "answer": "It represents growth and preparation for the future."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "Why is the future described as infinite? (Question 98)",
+      "answer": "Because it is unknown and full of endless possibilities."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "What lesson does Unit 1 convey? (Question 99)",
+      "answer": "It teaches us to learn from the past and prepare in the present."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "What is a simile? (Question 100)",
+      "answer": "A comparison using 'as' or 'like'."
+    }
+  ]
+}

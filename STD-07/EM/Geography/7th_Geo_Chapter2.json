@@ -1,0 +1,1572 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.02",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "The Sun, The Moon and The Earth"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "The Sun is a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "planet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "star",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "satellite",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "asteroid",
+          "is_correct": false
+        }
+      ],
+      "answer": "star"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The Earth revolves around the Sun in a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "circle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ellipse",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "straight line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "square",
+          "is_correct": false
+        }
+      ],
+      "answer": "ellipse"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Time taken by Earth to complete one revolution around the Sun is about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "24 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "30 days",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "365 days",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "12 hours",
+          "is_correct": false
+        }
+      ],
+      "answer": "365 days"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Rotation of the Earth causes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "day and night",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "eclipses",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tides",
+          "is_correct": false
+        }
+      ],
+      "answer": "day and night"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Revolution of the Earth causes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day and night",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "phases of moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "seasons",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "tides",
+          "is_correct": false
+        }
+      ],
+      "answer": "seasons"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The axis of the Earth is tilted by about ____ degrees.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "23.5",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "66.5",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "45",
+          "is_correct": false
+        }
+      ],
+      "answer": "23.5"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The imaginary line passing through North and South Poles is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "orbit",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "meridian",
+          "is_correct": false
+        }
+      ],
+      "answer": "axis"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The Earth rotates from ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "east to west",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "west to east",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "north to south",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "south to north",
+          "is_correct": false
+        }
+      ],
+      "answer": "west to east"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The Moon is a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "planet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "star",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "satellite",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "comet",
+          "is_correct": false
+        }
+      ],
+      "answer": "satellite"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The Moon revolves around the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Time taken by Moon to complete one revolution around Earth is about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15 days",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "27 days",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "30 days",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "365 days",
+          "is_correct": false
+        }
+      ],
+      "answer": "27 days"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The Moon does not have ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "gravity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "light",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "atmosphere",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "surface",
+          "is_correct": false
+        }
+      ],
+      "answer": "atmosphere"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The Moon shines because it ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "produces light",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "reflects sunlight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "stores energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "burns gases",
+          "is_correct": false
+        }
+      ],
+      "answer": "reflects sunlight"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "The shape of illuminated part of Moon changes due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "revolution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "reflection",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "refraction",
+          "is_correct": false
+        }
+      ],
+      "answer": "revolution"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The changing shapes of Moon are called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "orbits",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "phases",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "eclipses",
+          "is_correct": false
+        }
+      ],
+      "answer": "phases"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The Moon is not visible on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Full Moon day",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Half Moon day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "New Moon day",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Crescent day",
+          "is_correct": false
+        }
+      ],
+      "answer": "New Moon day"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The Sun appears to rise in the east due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "tilt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "rotation"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The circle that divides Earth into two equal halves is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "axis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "orbit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "longitude",
+          "is_correct": false
+        }
+      ],
+      "answer": "equator"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The Earth receives maximum heat at the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "poles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "temperate zone",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "tropics",
+          "is_correct": false
+        }
+      ],
+      "answer": "equator"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The Sun’s rays fall vertically on the equator on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "solstice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equinox",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "aphelion",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "perihelion",
+          "is_correct": false
+        }
+      ],
+      "answer": "equinox"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "The longest day in the Northern Hemisphere occurs around ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "21 June",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "23 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "22 December",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 June"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "The shortest day in the Northern Hemisphere occurs around ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "22 December",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "21 March",
+          "is_correct": false
+        }
+      ],
+      "answer": "22 December"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "When day and night are equal, it is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "solstice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "eclipse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "equinox",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "apogee",
+          "is_correct": false
+        }
+      ],
+      "answer": "equinox"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "The circle separating day and night on Earth is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "axis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "terminator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "orbit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "equator",
+          "is_correct": false
+        }
+      ],
+      "answer": "terminator"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The Moon causes ____ on Earth.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "seasons",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tides",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "eclipses only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "earthquakes",
+          "is_correct": false
+        }
+      ],
+      "answer": "tides"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The gravitational pull of Moon mainly affects the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "air",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "land",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "oceans",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "rocks",
+          "is_correct": false
+        }
+      ],
+      "answer": "oceans"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The shadow of Earth falling on Moon causes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "solar eclipse",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "lunar eclipse",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "phases",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "seasons",
+          "is_correct": false
+        }
+      ],
+      "answer": "lunar eclipse"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The shadow of Moon falling on Earth causes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "lunar eclipse",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "solar eclipse",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "phases",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tides",
+          "is_correct": false
+        }
+      ],
+      "answer": "solar eclipse"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "A solar eclipse occurs on a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Full Moon day",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "New Moon day",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Half Moon day",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Any day",
+          "is_correct": false
+        }
+      ],
+      "answer": "New Moon day"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "A lunar eclipse occurs on a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "New Moon day",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Half Moon day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Full Moon day",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Any day",
+          "is_correct": false
+        }
+      ],
+      "answer": "Full Moon day"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "The distance between Earth and Sun is measured in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "kilometres",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "light year",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "astronomical unit",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "nautical mile",
+          "is_correct": false
+        }
+      ],
+      "answer": "astronomical unit"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "The Earth’s shape is best described as ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "perfect sphere",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "geoid",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "cube",
+          "is_correct": false
+        }
+      ],
+      "answer": "geoid"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "The region beyond Earth’s atmosphere is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "troposphere",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "stratosphere",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "space",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "lithosphere",
+          "is_correct": false
+        }
+      ],
+      "answer": "space"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "The Moon has ____ gravity compared to Earth.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "more",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "less",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "zero",
+          "is_correct": false
+        }
+      ],
+      "answer": "less"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The Earth completes one rotation in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "24 hours",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "30 days",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "365 days",
+          "is_correct": false
+        }
+      ],
+      "answer": "24 hours"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "The Sun is the main source of ____ for Earth.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "energy"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The apparent movement of the Sun is due to Earth’s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "tilt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "rotation"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The Earth’s orbit around the Sun is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "circular",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "square",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "elliptical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "triangular",
+          "is_correct": false
+        }
+      ],
+      "answer": "elliptical"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The hemisphere facing the Sun experiences ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "night",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "eclipse",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The Moon has ____ phases in one cycle.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "answer": "8"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "The imaginary path of Earth around the Sun is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "axis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "orbit",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "longitude",
+          "is_correct": false
+        }
+      ],
+      "answer": "orbit"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "The Sun’s heat is unevenly distributed on Earth due to Earth’s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "size",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tilt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "shape",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "distance",
+          "is_correct": false
+        }
+      ],
+      "answer": "tilt"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "The Earth’s poles receive ____ heat.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "maximum",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "minimum",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "unequal",
+          "is_correct": false
+        }
+      ],
+      "answer": "minimum"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "The line joining places of equal day and night is related to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equinox",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "solstice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "orbit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "axis",
+          "is_correct": false
+        }
+      ],
+      "answer": "equinox"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is the Sun?",
+      "answer": "The Sun is a star at the centre of the solar system."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why is the Sun important for Earth?",
+      "answer": "It provides heat and light essential for life."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is rotation of the Earth?",
+      "answer": "The spinning of Earth on its axis."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is revolution of the Earth?",
+      "answer": "The movement of Earth around the Sun."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What causes day and night?",
+      "answer": "Rotation of the Earth."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What causes seasons?",
+      "answer": "Revolution of Earth and its tilted axis."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is Earth’s axis?",
+      "answer": "An imaginary line passing through the poles."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "In which direction does Earth rotate?",
+      "answer": "From west to east."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the equator?",
+      "answer": "An imaginary line dividing Earth into two halves."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a hemisphere?",
+      "answer": "One half of the Earth."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the Moon?",
+      "answer": "The natural satellite of the Earth."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Does the Moon have its own light?",
+      "answer": "No, it reflects sunlight."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What are phases of the Moon?",
+      "answer": "Different shapes of the Moon seen from Earth."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why do phases of the Moon occur?",
+      "answer": "Due to the Moon’s revolution around Earth."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is New Moon?",
+      "answer": "The phase when Moon is not visible."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is Full Moon?",
+      "answer": "The phase when Moon appears completely round."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is Half Moon?",
+      "answer": "The phase when half of the Moon is visible."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How long does Moon take to revolve around Earth?",
+      "answer": "About 27 days."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why Moon has no atmosphere?",
+      "answer": "Because of low gravitational force."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why astronauts feel lighter on the Moon?",
+      "answer": "Moon’s gravity is weaker than Earth’s."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is an eclipse?",
+      "answer": "The partial or total hiding of a celestial body."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is a solar eclipse?",
+      "answer": "When Moon comes between Sun and Earth."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is a lunar eclipse?",
+      "answer": "When Earth comes between Sun and Moon."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "On which day does solar eclipse occur?",
+      "answer": "On a New Moon day."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "On which day does lunar eclipse occur?",
+      "answer": "On a Full Moon day."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What are tides?",
+      "answer": "Regular rise and fall of sea water."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What causes tides?",
+      "answer": "Gravitational pull of the Moon and Sun."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which force binds Earth to the Sun?",
+      "answer": "Gravitational force."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is orbit?",
+      "answer": "The fixed path of a celestial body."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is the shape of Earth’s orbit?",
+      "answer": "Elliptical."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is equinox?",
+      "answer": "When day and night are equal."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "When does equinox occur?",
+      "answer": "Around 21 March and 23 September."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is solstice?",
+      "answer": "The longest or shortest day of the year."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "When is the longest day in Northern Hemisphere?",
+      "answer": "Around 21 June."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "When is the shortest day in Northern Hemisphere?",
+      "answer": "Around 22 December."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is terminator?",
+      "answer": "The line separating day and night."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why poles receive less heat?",
+      "answer": "Sun’s rays fall slantingly."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why equator receives maximum heat?",
+      "answer": "Sun’s rays fall vertically."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is an astronomical unit?",
+      "answer": "Average distance between Earth and Sun."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is geoid?",
+      "answer": "The true shape of the Earth."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why the Sun appears to move across the sky?",
+      "answer": "Due to Earth’s rotation."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why Earth supports life?",
+      "answer": "Suitable temperature, air and water."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is gravity?",
+      "answer": "Force of attraction between objects."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why Moon always shows the same face?",
+      "answer": "Its rotation and revolution periods are equal."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is a celestial body?",
+      "answer": "Natural object found in space."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why eclipses do not occur every month?",
+      "answer": "Orbits of Earth and Moon are tilted."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the solar system?",
+      "answer": "The Sun and bodies revolving around it."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why study Sun, Moon and Earth?",
+      "answer": "To understand Earth’s movements and effects."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How does the Moon affect Earth?",
+      "answer": "It causes tides."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why Earth is called a unique planet?",
+      "answer": "It supports life."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What would happen without the Sun?",
+      "answer": "Life on Earth would not exist."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is night side of Earth?",
+      "answer": "The part facing away from the Sun."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is day side of Earth?",
+      "answer": "The part facing the Sun."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why seasons differ in hemispheres?",
+      "answer": "Due to Earth’s axial tilt."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the importance of Moon for Earth?",
+      "answer": "It stabilizes Earth and causes tides."
+    }
+  ]
+}

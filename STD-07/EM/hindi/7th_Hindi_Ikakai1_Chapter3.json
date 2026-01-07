@@ -1,0 +1,1344 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 1",
+    "chapter_number": 3,
+    "chapter_name": "अपकार का उपकार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘अपकार का उपकार’ कहानी के लेखक कौन हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डॉ. दर्शनसिंह आशट",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेमचंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हरिवंश राय बच्चन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "महादेवी वर्मा",
+          "is_correct": false
+        }
+      ],
+      "answer": "डॉ. दर्शनसिंह आशट"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कहानी में कछुआ कहाँ रहता था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नदी में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तालाब में",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "झील में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्र में",
+          "is_correct": false
+        }
+      ],
+      "answer": "तालाब में"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "तालाब के किनारे कौन-सा पेड़ था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पीपल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जामुन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बरगद",
+          "is_correct": false
+        }
+      ],
+      "answer": "जामुन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कछुए को कौन परेशान करता था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कबूतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौआ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तोता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बगुला",
+          "is_correct": false
+        }
+      ],
+      "answer": "कौआ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कौए का स्वभाव कैसा था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नम्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दयालु",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपद्रवी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शांत",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपद्रवी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कौए की पत्नी का स्वभाव कैसा था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्रूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नम्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अहंकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चालाक",
+          "is_correct": false
+        }
+      ],
+      "answer": "नम्र"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कछुए को कौआ कैसे परेशान करता था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चोंच मारकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पीठ पर बैठकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पंख फड़फड़ाकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्थर फेंककर",
+          "is_correct": false
+        }
+      ],
+      "answer": "पीठ पर बैठकर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कछुआ कौए से क्या पूछता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तुम क्या चाहते हो?",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तुम क्यों उड़ते हो?",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तुम कहाँ रहते हो?",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुम क्या खाते हो?",
+          "is_correct": false
+        }
+      ],
+      "answer": "तुम क्या चाहते हो?"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कछुआ तालाब से बाहर आना क्यों कम कर देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बीमारी के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कौए की वजह से",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भूख के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "कौए की वजह से"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कौए की पत्नी ने अंडे कब दिए?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्दियों में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गर्मियों में",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बरसात में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बसंत में",
+          "is_correct": false
+        }
+      ],
+      "answer": "गर्मियों में"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कौए का अंडा कहाँ गिरा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घास पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पत्थर पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तालाब में",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पेड़ से बाहर",
+          "is_correct": false
+        }
+      ],
+      "answer": "तालाब में"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गिरते अंडे को किसने देखा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लड़कों ने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौए ने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कछुए ने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पत्नी ने",
+          "is_correct": false
+        }
+      ],
+      "answer": "कछुए ने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कछुए ने अंडे के साथ क्या किया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फेंक दिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तोड़ दिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मुँह में उठा लिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "छुपा दिया",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुँह में उठा लिया"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अंडा सुरक्षित क्यों बच गया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घास पर गिरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कछुए ने पकड़ लिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कौए ने पकड़ लिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पेड़ पर अटका",
+          "is_correct": false
+        }
+      ],
+      "answer": "कछुए ने पकड़ लिया"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कछुए के इस व्यवहार से कौए को क्या हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुस्सा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लज्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खुशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "लज्जा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कौए को अपनी किस बात का एहसास हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपनी गलती का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अपनी ताकत का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अपनी उड़ान का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपनी भूख का",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपनी गलती का"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कहानी का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बदला लेना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपकार का उपकार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर दिखाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चालाकी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपकार का उपकार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कहानी में ‘जब जागो तभी सवेरा’ का अर्थ क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुबह जल्दी उठो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समय पर समझ आना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोना अच्छा है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिन छोटा है",
+          "is_correct": false
+        }
+      ],
+      "answer": "समय पर समझ आना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कहानी में कछुआ किस गुण का प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चालाकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कहानी में कौआ किस दोष का प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दयालुता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अहंकार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परिश्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "साहस",
+          "is_correct": false
+        }
+      ],
+      "answer": "अहंकार"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कछुए का व्यवहार कैसा था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रतिशोधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दयालु",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रूर",
+          "is_correct": false
+        }
+      ],
+      "answer": "दयालु"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कौए की पत्नी किस बात के लिए मना करती थी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उड़ने से",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्व्यवहार से",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घोंसला बनाने से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंडे देने से",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुर्व्यवहार से"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "गाँव के लड़के क्यों आए थे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नहाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जामुन खाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेलने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पेड़ काटने",
+          "is_correct": false
+        }
+      ],
+      "answer": "जामुन खाने"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "लड़कों के आने से क्या घटना घटी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंडा गिरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पेड़ गिरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तालाब सूख गया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कछुआ भागा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंडा गिरा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कौआ किस बात पर रो पड़ा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंडा खोने पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भूख लगने पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कछुए पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पेड़ कटने पर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंडा खोने पर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कछुए ने अंडा कहाँ रखा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तालाब में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घोंसले में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घास पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पेड़ पर",
+          "is_correct": false
+        }
+      ],
+      "answer": "घास पर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कहानी में कछुए का कथन क्या दर्शाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बुद्धिमानी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "बुद्धिमानी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कौए ने भविष्य में क्या न करने का वचन दिया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उड़ना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्व्यवहार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घोंसला बनाना",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुर्व्यवहार"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कहानी का अंत कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अधूरा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कहानी से कौन-सा मूल्य सीखने को मिलता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्षमा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बदला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घमंड",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षमा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कछुए का उपकार किस पर था?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लड़कों पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौए पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पत्नी पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पेड़ पर",
+          "is_correct": false
+        }
+      ],
+      "answer": "कौए पर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कौए की पत्नी का स्वभाव क्यों सराहनीय है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वह चुप थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वह समझदार थी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वह डरपोक थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वह चालाक थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वह समझदार थी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कहानी में ‘अपकार’ किसका है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कछुए का",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कौए का",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लड़कों का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पत्नी का",
+          "is_correct": false
+        }
+      ],
+      "answer": "कौए का"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कहानी में ‘उपकार’ किसका है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कौए का",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कछुए का",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लड़कों का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पेड़ का",
+          "is_correct": false
+        }
+      ],
+      "answer": "कछुए का"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कछुए ने बदला क्यों नहीं लिया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दयालुता के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कमजोरी के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "दयालुता के कारण"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कहानी हमें क्या बनने की प्रेरणा देती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्रोधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दयालु",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चालाक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरपोक",
+          "is_correct": false
+        }
+      ],
+      "answer": "दयालु"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कौए का परिवर्तन कब हुआ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंडा गिरने पर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कछुए को देखकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्नी के कहने पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लड़कों के जाने पर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंडा गिरने पर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कहानी का शीर्षक सार्थक क्यों है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्योंकि बदला दिखाया गया",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्योंकि उपकार से परिवर्तन हुआ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्योंकि डर दिखाया गया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्योंकि चालाकी थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्योंकि उपकार से परिवर्तन हुआ"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कहानी किस प्रकार की रचना है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कहानी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कहानी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "‘अपकार का उपकार’ कहानी का मुख्य संदेश क्या है?",
+      "answer": "बुराई का उत्तर भलाई से देना चाहिए।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "कहानी का प्रमुख पात्र कौन है?",
+      "answer": "कछुआ।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कछुआ कहाँ रहता था?",
+      "answer": "तालाब में।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "कौए का स्वभाव कैसा था?",
+      "answer": "उपद्रवी और अहंकारी।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कौए की पत्नी कैसी थी?",
+      "answer": "नम्र और समझदार।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कछुए को कौआ कैसे परेशान करता था?",
+      "answer": "उसकी पीठ पर बैठकर।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कछुआ तालाब से बाहर आना क्यों कम कर देता है?",
+      "answer": "कौए की वजह से।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "गाँव के लड़के क्यों आए थे?",
+      "answer": "जामुन खाने।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कौए का अंडा कहाँ गिरा?",
+      "answer": "तालाब में।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "अंडे को किसने बचाया?",
+      "answer": "कछुए ने।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कछुए ने अंडे के साथ क्या किया?",
+      "answer": "मुँह में उठाकर सुरक्षित रखा।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कौए को अपनी गलती का एहसास कब हुआ?",
+      "answer": "जब कछुए ने अंडा बचाया।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कौए ने किस बात का वचन दिया?",
+      "answer": "दुर्व्यवहार न करने का।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कहानी में कछुए का व्यवहार क्या दर्शाता है?",
+      "answer": "दयालुता।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कहानी का अंत कैसा है?",
+      "answer": "प्रेरणादायक।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कहानी में ‘अपकार’ किसने किया?",
+      "answer": "कौए ने।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कहानी में ‘उपकार’ किसने किया?",
+      "answer": "कछुए ने।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कहानी से कौन-सा मूल्य मिलता है?",
+      "answer": "क्षमा और करुणा।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कछुआ बदला क्यों नहीं लेता?",
+      "answer": "वह दयालु है।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कौए की पत्नी क्यों सराहनीय है?",
+      "answer": "वह गलत को रोकती थी।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कहानी में ‘जब जागो तभी सवेरा’ का अर्थ क्या है?",
+      "answer": "समय पर समझ आ जाना।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कछुए का गुण क्या है?",
+      "answer": "धैर्य।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कौए का दोष क्या है?",
+      "answer": "अहंकार।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कछुए का उपकार किसके लिए था?",
+      "answer": "कौए के लिए।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कहानी हमें क्या सिखाती है?",
+      "answer": "भलाई कभी व्यर्थ नहीं जाती।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कछुए का व्यवहार समाज के लिए क्या संदेश देता है?",
+      "answer": "दयालु बनने का।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कहानी में कौन परिवर्तन का पात्र है?",
+      "answer": "कौआ।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कौए का हृदय परिवर्तन क्यों हुआ?",
+      "answer": "कछुए की भलाई देखकर।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कहानी का शीर्षक क्यों उपयुक्त है?",
+      "answer": "क्योंकि अपकार का उत्तर उपकार से दिया गया।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कहानी में जानवरों का प्रयोग क्यों किया गया है?",
+      "answer": "संदेश सरल बनाने के लिए।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कहानी का वातावरण कैसा है?",
+      "answer": "सरल और बोधप्रद।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कछुए का व्यवहार किसके लिए उदाहरण है?",
+      "answer": "सभी के लिए।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कहानी में कौन-सी भावना प्रमुख है?",
+      "answer": "करुणा।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कहानी का उद्देश्य क्या है?",
+      "answer": "नैतिक शिक्षा देना।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कछुए की बुद्धिमानी किस घटना में दिखती है?",
+      "answer": "अंडा बचाने में।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कहानी हमें किस प्रकार का व्यवहार अपनाने को कहती है?",
+      "answer": "सौहार्दपूर्ण।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कौए की पत्नी किस गुण का प्रतीक है?",
+      "answer": "समझदारी।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कहानी का संदेश बच्चों के लिए क्यों महत्वपूर्ण है?",
+      "answer": "यह अच्छे संस्कार सिखाती है।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कहानी में सीख को कैसे प्रस्तुत किया गया है?",
+      "answer": "घटना के माध्यम से।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "‘अपकार का उपकार’ से हमें क्या प्रेरणा मिलती है?",
+      "answer": "भलाई से बुराई जीत सकती है।"
+    }
+  ]
+}

@@ -1,0 +1,1600 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.07",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "Soils"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Soil is formed by the ____ of rocks.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "melting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "weathering",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "burning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "freezing",
+          "is_correct": false
+        }
+      ],
+      "answer": "weathering"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Soil formation is a ____ process.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "slow",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "instant",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sudden",
+          "is_correct": false
+        }
+      ],
+      "answer": "slow"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The uppermost layer of soil is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "subsoil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "parent rock",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "topsoil",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "bedrock",
+          "is_correct": false
+        }
+      ],
+      "answer": "topsoil"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Humus is found mainly in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "subsoil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "topsoil",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "bedrock",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "parent rock",
+          "is_correct": false
+        }
+      ],
+      "answer": "topsoil"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which soil is most fertile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sandy soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clayey soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Loamy soil",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rocky soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "Loamy soil"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which soil has good water retention?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sandy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clayey",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Loamy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gravel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clayey"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which soil drains water quickly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clayey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Loamy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sandy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Alluvial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sandy"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Soil rich in humus appears ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "red",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "white",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dark",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "yellow",
+          "is_correct": false
+        }
+      ],
+      "answer": "dark"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which component gives soil fertility?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sand",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clay",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Humus",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gravel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Humus"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Parent rock is also known as ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "bedrock",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "topsoil",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "humus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "loam",
+          "is_correct": false
+        }
+      ],
+      "answer": "bedrock"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Soil profile shows ____ layers.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "two",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "three",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "four",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "one",
+          "is_correct": false
+        }
+      ],
+      "answer": "four"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "The B-horizon is also called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "topsoil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "subsoil",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "bedrock",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "humus",
+          "is_correct": false
+        }
+      ],
+      "answer": "subsoil"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "The C-horizon consists of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "fine soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "humus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "weathered rock",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "roots",
+          "is_correct": false
+        }
+      ],
+      "answer": "weathered rock"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which horizon has maximum organisms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A-horizon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "B-horizon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "C-horizon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "bedrock",
+          "is_correct": false
+        }
+      ],
+      "answer": "A-horizon"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Soil erosion means ____ of soil.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "formation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mixing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "removal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "fertilization",
+          "is_correct": false
+        }
+      ],
+      "answer": "removal"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which factor causes soil erosion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deforestation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Plant roots help in preventing ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "pollution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "weathering",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "erosion",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "floods",
+          "is_correct": false
+        }
+      ],
+      "answer": "erosion"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which human activity increases soil erosion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Afforestation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Terracing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Deforestation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Contour ploughing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Terracing is practiced on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "plains",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "plateaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "mountains",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "deserts",
+          "is_correct": false
+        }
+      ],
+      "answer": "mountains"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Contour ploughing helps in preventing ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "floods",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "erosion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pollution",
+          "is_correct": false
+        }
+      ],
+      "answer": "erosion"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Alluvial soil is found near ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mountains",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rivers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "deserts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "plateaus",
+          "is_correct": false
+        }
+      ],
+      "answer": "rivers"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Black soil is also called ____ soil.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "regur",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laterite",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "alluvial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "red",
+          "is_correct": false
+        }
+      ],
+      "answer": "regur"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Black soil is suitable for growing ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "cotton",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "wheat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tea",
+          "is_correct": false
+        }
+      ],
+      "answer": "cotton"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Red soil gets its colour due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "humus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "iron",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "sand",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "clay",
+          "is_correct": false
+        }
+      ],
+      "answer": "iron"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Laterite soil is rich in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "iron and aluminium",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "humus",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "lime",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "potash",
+          "is_correct": false
+        }
+      ],
+      "answer": "iron and aluminium"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Laterite soil is formed due to ____ rainfall.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "heavy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "seasonal",
+          "is_correct": false
+        }
+      ],
+      "answer": "heavy"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Desert soil contains more ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sand",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "humus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "silt",
+          "is_correct": false
+        }
+      ],
+      "answer": "sand"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which soil is less fertile?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Alluvial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Laterite",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Loamy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Laterite"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which soil supports paddy cultivation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alluvial",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laterite",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alluvial"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Soil conservation means ____ of soil.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "use",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "protection",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "formation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "erosion",
+          "is_correct": false
+        }
+      ],
+      "answer": "protection"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Afforestation helps in ____ soil erosion.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "increasing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "stopping",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "not affecting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "removing",
+          "is_correct": false
+        }
+      ],
+      "answer": "stopping"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Crop rotation helps in maintaining soil ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "colour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "fertility",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "texture",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "depth",
+          "is_correct": false
+        }
+      ],
+      "answer": "fertility"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Excessive use of fertilizers ____ soil quality.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "improves",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "damages",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "does not affect",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "restores",
+          "is_correct": false
+        }
+      ],
+      "answer": "damages"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Soil organisms help in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "pollution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "weathering",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fertility",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "erosion",
+          "is_correct": false
+        }
+      ],
+      "answer": "fertility"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which soil layer is richest in nutrients?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A-horizon",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "B-horizon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "C-horizon",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "bedrock",
+          "is_correct": false
+        }
+      ],
+      "answer": "A-horizon"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Soil texture depends on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "colour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "particle size",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "depth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "moisture",
+          "is_correct": false
+        }
+      ],
+      "answer": "particle size"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which soil particle is largest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Silt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sand",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Humus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sand"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which soil particle is smallest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sand",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Silt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Clay",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gravel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Loamy soil is a mixture of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "sand and clay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sand and silt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sand, silt and clay",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "clay and humus",
+          "is_correct": false
+        }
+      ],
+      "answer": "sand, silt and clay"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Soil is a ____ resource.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "renewable",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "non-renewable",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "inexhaustible",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "artificial",
+          "is_correct": false
+        }
+      ],
+      "answer": "non-renewable"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Soil supports ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rocks",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "plants",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "air",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "plants"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which practice reduces soil erosion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Deforestation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Overgrazing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Afforestation",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mining",
+          "is_correct": false
+        }
+      ],
+      "answer": "Afforestation"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Soil formation depends on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "organisms",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which soil is sticky when wet?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sandy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clayey",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Loamy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Gravel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clayey"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which soil is best for gardening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sandy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clayey",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Loamy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rocky",
+          "is_correct": false
+        }
+      ],
+      "answer": "Loamy"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is soil?",
+      "answer": "The uppermost layer of the Earth supporting plant life."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "How is soil formed?",
+      "answer": "By weathering of rocks."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What is weathering?",
+      "answer": "Breaking down of rocks into smaller particles."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why soil formation is slow?",
+      "answer": "It takes thousands of years."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is topsoil?",
+      "answer": "The upper fertile layer of soil."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is humus?",
+      "answer": "Decayed organic matter in soil."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why humus is important?",
+      "answer": "It increases soil fertility."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is soil profile?",
+      "answer": "Vertical section showing soil layers."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name the soil horizons.",
+      "answer": "A, B and C horizons."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is A-horizon?",
+      "answer": "Topsoil rich in humus."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is B-horizon?",
+      "answer": "Subsoil containing minerals."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is C-horizon?",
+      "answer": "Weathered parent rock."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is parent rock?",
+      "answer": "Original rock from which soil forms."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is soil erosion?",
+      "answer": "Removal of topsoil by wind or water."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Name two agents of soil erosion.",
+      "answer": "Wind and water."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "How does deforestation cause erosion?",
+      "answer": "Roots no longer hold soil."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How plants prevent soil erosion?",
+      "answer": "Roots bind soil particles."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is terracing?",
+      "answer": "Step farming on slopes."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why terracing is done?",
+      "answer": "To reduce soil erosion."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is contour ploughing?",
+      "answer": "Ploughing along contours."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why contour ploughing reduces erosion?",
+      "answer": "Slows water flow."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is alluvial soil?",
+      "answer": "Soil deposited by rivers."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Where is alluvial soil found?",
+      "answer": "River valleys."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is black soil?",
+      "answer": "Clayey soil rich in lime."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why black soil is called regur?",
+      "answer": "Local name in India."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What crops grow in black soil?",
+      "answer": "Cotton."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is red soil?",
+      "answer": "Soil rich in iron oxide."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why red soil is red?",
+      "answer": "Presence of iron."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is laterite soil?",
+      "answer": "Soil formed by heavy rainfall."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Where is laterite soil found?",
+      "answer": "High rainfall areas."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why laterite soil is less fertile?",
+      "answer": "Leaching removes nutrients."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is desert soil?",
+      "answer": "Sandy soil of arid regions."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why desert soil is sandy?",
+      "answer": "Wind action."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is loamy soil?",
+      "answer": "Mixture of sand, silt and clay."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why loamy soil is best?",
+      "answer": "Good drainage and fertility."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is soil conservation?",
+      "answer": "Protection of soil from erosion."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name one method of soil conservation.",
+      "answer": "Afforestation."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How does crop rotation help soil?",
+      "answer": "Maintains fertility."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is overgrazing?",
+      "answer": "Excessive grazing by animals."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How overgrazing affects soil?",
+      "answer": "Causes erosion."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What are soil organisms?",
+      "answer": "Living beings in soil."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How earthworms help soil?",
+      "answer": "Improve aeration and fertility."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is soil texture?",
+      "answer": "Size of soil particles."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is sandy soil?",
+      "answer": "Soil with large particles."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is clayey soil?",
+      "answer": "Soil with fine particles."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why clayey soil retains water?",
+      "answer": "Small pore spaces."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why sandy soil drains quickly?",
+      "answer": "Large pore spaces."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Is soil renewable?",
+      "answer": "No, it is non-renewable."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why soil is important?",
+      "answer": "Supports plant growth."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How soil affects agriculture?",
+      "answer": "Determines crop yield."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why soil conservation is important?",
+      "answer": "To protect fertility."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is leaching?",
+      "answer": "Washing away of nutrients."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How fertilizers affect soil?",
+      "answer": "Excess damages soil health."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is sustainable soil use?",
+      "answer": "Using soil wisely."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why study soils?",
+      "answer": "For agriculture and environment."
+    }
+  ]
+}

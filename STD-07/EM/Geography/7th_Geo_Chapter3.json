@@ -1,0 +1,1600 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.03",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "Tides"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Tides are the periodic rise and fall of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sea water",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "clouds",
+          "is_correct": false
+        }
+      ],
+      "answer": "sea water"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "The main cause of tides is the gravitational pull of the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Earth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "planets",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which celestial body has greater effect on tides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Venus",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "High tide occurs when sea water ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "falls",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rises",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "freezes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "evaporates",
+          "is_correct": false
+        }
+      ],
+      "answer": "rises"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Low tide occurs when sea water ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rises",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "stops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "falls",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "overflows",
+          "is_correct": false
+        }
+      ],
+      "answer": "falls"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Tides occur regularly due to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth’s gravity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon’s gravity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "rotation of Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "clouds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon’s gravity"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "How many high tides usually occur in a day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How many low tides usually occur in a day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Spring tides occur on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Half Moon days",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "New and Full Moon days",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Any day",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only Full Moon",
+          "is_correct": false
+        }
+      ],
+      "answer": "New and Full Moon days"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Neap tides occur on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "New Moon days",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Full Moon days",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Half Moon days",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Eclipse days",
+          "is_correct": false
+        }
+      ],
+      "answer": "Half Moon days"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Spring tides are ____ tides.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "strong",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "strong"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Neap tides are ____ tides.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "weak",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "weak"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "During spring tide, the Sun, Moon and Earth are in a ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "circle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "triangle",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "straight line",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "curve",
+          "is_correct": false
+        }
+      ],
+      "answer": "straight line"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "During neap tide, the Sun and Moon pull the Earth at ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "same direction",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "opposite directions",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "right angles",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "no force",
+          "is_correct": false
+        }
+      ],
+      "answer": "right angles"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which tide has the greatest difference between high and low tide?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neap tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Normal tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spring tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spring tide"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which tide has the least difference between high and low tide?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spring tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neap tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ocean tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solar tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neap tide"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Tides help fishermen by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "predicting rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "bringing fish near coast",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "cooling water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "raising ships",
+          "is_correct": false
+        }
+      ],
+      "answer": "bringing fish near coast"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Tides help ships to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "sink",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "dock safely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "stop moving",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "change direction",
+          "is_correct": false
+        }
+      ],
+      "answer": "dock safely"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which tide helps in cleaning harbours?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Low tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neap tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spring tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "High tide",
+          "is_correct": true
+        }
+      ],
+      "answer": "High tide"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Tidal energy is a type of ____ energy.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "thermal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "nuclear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "renewable",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "chemical",
+          "is_correct": false
+        }
+      ],
+      "answer": "renewable"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which energy is produced using tides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wind energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Solar energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tidal energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Thermal energy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tidal energy"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Tides are stronger near the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "poles",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "coasts",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "deserts",
+          "is_correct": false
+        }
+      ],
+      "answer": "coasts"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "The gravitational pull of the Sun causes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stronger tides",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "weaker tides",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "no tides",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "only neap tides",
+          "is_correct": false
+        }
+      ],
+      "answer": "weaker tides"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which tide occurs twice a month?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neap tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spring tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Daily tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Annual tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spring tide"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which tide occurs between two spring tides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spring tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neap tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ocean tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solar tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neap tide"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Tides are useful for generating ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "food",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "soil",
+          "is_correct": false
+        }
+      ],
+      "answer": "energy"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which region experiences tides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountains",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plains",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Coastal areas",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Deserts",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coastal areas"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Tides affect ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "agriculture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "marine life",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "forests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "minerals",
+          "is_correct": false
+        }
+      ],
+      "answer": "marine life"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which activity depends on tides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fishing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weaving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fishing"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The time between two high tides is about ____ hours.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "24",
+          "is_correct": false
+        }
+      ],
+      "answer": "12"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which ocean shows high tidal range?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Ocean",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Atlantic Ocean",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Arctic Ocean",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pacific Ocean",
+          "is_correct": false
+        }
+      ],
+      "answer": "Atlantic Ocean"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Tidal range means the difference between ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "two high tides",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "two low tides",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high and low tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "day and night",
+          "is_correct": false
+        }
+      ],
+      "answer": "high and low tide"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which tide is useful for power generation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neap tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Low tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spring tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Normal tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spring tide"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which country uses tidal energy extensively?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "India",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "France",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "China",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Japan",
+          "is_correct": false
+        }
+      ],
+      "answer": "France"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Tides occur because Earth and Moon ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "repel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "attract",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "rotate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shine",
+          "is_correct": false
+        }
+      ],
+      "answer": "attract"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which force is responsible for tides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetic force",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gravitational force",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Frictional force",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Electric force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gravitational force"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The water level is highest during ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "neap tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "no tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "high tide"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which tide occurs when Sun and Moon are aligned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neap tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spring tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Low tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spring tide"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which tide occurs when Sun and Moon are at right angle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spring tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neap tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "High tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Solar tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neap tide"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Tides mainly occur in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rivers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "lakes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "oceans",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ponds",
+          "is_correct": false
+        }
+      ],
+      "answer": "oceans"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which natural phenomenon affects tides?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earthquake",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gravity",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gravity"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which is NOT a type of tide?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spring tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neap tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Solar tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "River tide",
+          "is_correct": true
+        }
+      ],
+      "answer": "River tide"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Tides repeat in a fixed ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "pattern",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "year",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "season",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cycle",
+          "is_correct": false
+        }
+      ],
+      "answer": "pattern"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which tide is weakest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Spring tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neap tide",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "High tide",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Normal tide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neap tide"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Tides help in ____ of sediments.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "deposition",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "evaporation",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "freezing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "condensation",
+          "is_correct": false
+        }
+      ],
+      "answer": "deposition"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What are tides?",
+      "answer": "Tides are the periodic rise and fall of sea water."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What causes tides?",
+      "answer": "The gravitational pull of the Moon and the Sun."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Which body mainly causes tides?",
+      "answer": "The Moon."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is high tide?",
+      "answer": "The rise of sea water level."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is low tide?",
+      "answer": "The fall of sea water level."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "How many tides occur in a day?",
+      "answer": "Two high tides and two low tides."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is tidal range?",
+      "answer": "Difference between high tide and low tide."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What are spring tides?",
+      "answer": "Strong tides occurring on new and full moon days."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why spring tides occur?",
+      "answer": "Sun, Moon and Earth are in a straight line."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What are neap tides?",
+      "answer": "Weak tides occurring on half moon days."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why neap tides occur?",
+      "answer": "Sun and Moon pull at right angles."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which tides are strongest?",
+      "answer": "Spring tides."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which tides are weakest?",
+      "answer": "Neap tides."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How often spring tides occur?",
+      "answer": "Twice a month."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How often neap tides occur?",
+      "answer": "Twice a month."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What role does Sun play in tides?",
+      "answer": "It modifies the Moon’s effect."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is tidal energy?",
+      "answer": "Energy obtained from tides."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Is tidal energy renewable?",
+      "answer": "Yes, it is renewable."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Where are tides strongest?",
+      "answer": "In coastal areas."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why tides are important?",
+      "answer": "They help navigation and fishing."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How tides help fishermen?",
+      "answer": "Bring fish near the coast."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How tides help ships?",
+      "answer": "Help ships enter and leave harbours."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How tides clean harbours?",
+      "answer": "High tides flush sediments."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which tide is useful for power generation?",
+      "answer": "Spring tide."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Name a country using tidal energy.",
+      "answer": "France."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What force causes tides?",
+      "answer": "Gravitational force."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why Moon affects tides more than Sun?",
+      "answer": "It is closer to Earth."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Do tides occur in rivers?",
+      "answer": "No, mainly in oceans."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which ocean has high tidal range?",
+      "answer": "Atlantic Ocean."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is tidal cycle?",
+      "answer": "Regular pattern of tides."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the time gap between two high tides?",
+      "answer": "About 12 hours."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why tides repeat daily?",
+      "answer": "Due to Earth’s rotation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What happens during high tide?",
+      "answer": "Sea level rises."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What happens during low tide?",
+      "answer": "Sea level falls."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How tides affect marine life?",
+      "answer": "Influence feeding and movement."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Do tides affect climate?",
+      "answer": "No, mainly affect oceans."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is slack tide?",
+      "answer": "Period between tides."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why study tides?",
+      "answer": "For navigation and energy."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Are tides predictable?",
+      "answer": "Yes, they follow a pattern."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the importance of tides for ports?",
+      "answer": "Maintain water depth."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which tide is good for fishing?",
+      "answer": "High tide."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the role of Earth’s rotation in tides?",
+      "answer": "Causes daily cycle."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Do tides occur every day?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is coastal erosion?",
+      "answer": "Wearing away of coast."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How tides cause erosion?",
+      "answer": "Strong water movement."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Are tides harmful?",
+      "answer": "Sometimes during high tides."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is tidal flooding?",
+      "answer": "Overflow during high tide."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why tidal studies are important?",
+      "answer": "For coastal planning."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is lunar tide?",
+      "answer": "Tide caused by Moon."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is solar tide?",
+      "answer": "Tide caused by Sun."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which tide is stronger lunar or solar?",
+      "answer": "Lunar tide."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why tides vary in height?",
+      "answer": "Changing positions of Sun and Moon."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the main source of tidal energy?",
+      "answer": "Gravitational pull."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Do all coasts have same tides?",
+      "answer": "No, they vary."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why tides are natural phenomena?",
+      "answer": "Caused by gravity."
+    }
+  ]
+}

@@ -1,0 +1,952 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 13,
+  "chapter_name": "Life of the People in Maharashtra",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "What was the main occupation of people in Maharashtra during Maratha period?",
+      "options": [
+        "Trade",
+        "Agriculture",
+        "Fishing",
+        "Mining"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question_id": 2,
+      "question": "Which class formed the majority of population?",
+      "options": [
+        "Merchants",
+        "Farmers",
+        "Soldiers",
+        "Artisans"
+      ],
+      "answer": "Farmers"
+    },
+    {
+      "question_id": 3,
+      "question": "What was the village head called?",
+      "options": [
+        "Patil",
+        "Kulkarni",
+        "Deshmukh",
+        "Kotwal"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 4,
+      "question": "Who maintained village records?",
+      "options": [
+        "Patil",
+        "Kulkarni",
+        "Senapati",
+        "Peshwa"
+      ],
+      "answer": "Kulkarni"
+    },
+    {
+      "question_id": 5,
+      "question": "Which system managed village administration?",
+      "options": [
+        "Panchayat system",
+        "British system",
+        "Central system",
+        "Feudal system"
+      ],
+      "answer": "Panchayat system"
+    },
+    {
+      "question_id": 6,
+      "question": "Which crop was commonly grown?",
+      "options": [
+        "Tea",
+        "Rice",
+        "Coffee",
+        "Cotton"
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 7,
+      "question": "Which festival reflected social life?",
+      "options": [
+        "Diwali",
+        "Christmas",
+        "Eid",
+        "Easter"
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "question_id": 8,
+      "question": "What was main source of livelihood for artisans?",
+      "options": [
+        "Crafts",
+        "Trade",
+        "Farming",
+        "Service"
+      ],
+      "answer": "Crafts"
+    },
+    {
+      "question_id": 9,
+      "question": "Which community practiced weaving?",
+      "options": [
+        "Koshti",
+        "Kunbi",
+        "Mahar",
+        "Brahmin"
+      ],
+      "answer": "Koshti"
+    },
+    {
+      "question_id": 10,
+      "question": "Which group protected villages?",
+      "options": [
+        "Soldiers",
+        "Police",
+        "British army",
+        "Foreigners"
+      ],
+      "answer": "Soldiers"
+    },
+    {
+      "question_id": 11,
+      "question": "What type of houses were common?",
+      "options": [
+        "Mud houses",
+        "Stone palaces",
+        "Wooden villas",
+        "Apartments"
+      ],
+      "answer": "Mud houses"
+    },
+    {
+      "question_id": 12,
+      "question": "Which food was staple?",
+      "options": [
+        "Rice and jowar",
+        "Bread",
+        "Meat",
+        "Fish only"
+      ],
+      "answer": "Rice and jowar"
+    },
+    {
+      "question_id": 13,
+      "question": "Who provided education?",
+      "options": [
+        "Gurus",
+        "British teachers",
+        "Foreigners",
+        "Merchants"
+      ],
+      "answer": "Gurus"
+    },
+    {
+      "question_id": 14,
+      "question": "What language was commonly spoken?",
+      "options": [
+        "Marathi",
+        "Hindi",
+        "Persian",
+        "English"
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "question_id": 15,
+      "question": "Which art form was popular?",
+      "options": [
+        "Powada",
+        "Ballet",
+        "Opera",
+        "Jazz"
+      ],
+      "answer": "Powada"
+    },
+    {
+      "question_id": 16,
+      "question": "What role did women play?",
+      "options": [
+        "Household and farming",
+        "Only ruling",
+        "Only teaching",
+        "No role"
+      ],
+      "answer": "Household and farming"
+    },
+    {
+      "question_id": 17,
+      "question": "Which clothes were commonly worn?",
+      "options": [
+        "Dhoti and saree",
+        "Jeans",
+        "Robes",
+        "Suits"
+      ],
+      "answer": "Dhoti and saree"
+    },
+    {
+      "question_id": 18,
+      "question": "Which social institution solved disputes?",
+      "options": [
+        "Village Panchayat",
+        "Courts",
+        "Police",
+        "Army"
+      ],
+      "answer": "Village Panchayat"
+    },
+    {
+      "question_id": 19,
+      "question": "What was main source of entertainment?",
+      "options": [
+        "Folk arts",
+        "Cinema",
+        "Television",
+        "Internet"
+      ],
+      "answer": "Folk arts"
+    },
+    {
+      "question_id": 20,
+      "question": "Which metal tools were used?",
+      "options": [
+        "Iron",
+        "Plastic",
+        "Aluminium",
+        "Steel"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question_id": 21,
+      "question": "Who collected revenue?",
+      "options": [
+        "Patil",
+        "British officer",
+        "Foreign ruler",
+        "Merchant"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 22,
+      "question": "Which transport was common?",
+      "options": [
+        "Bullock carts",
+        "Cars",
+        "Trains",
+        "Ships"
+      ],
+      "answer": "Bullock carts"
+    },
+    {
+      "question_id": 23,
+      "question": "What kind of economy existed?",
+      "options": [
+        "Agrarian",
+        "Industrial",
+        "Digital",
+        "Service"
+      ],
+      "answer": "Agrarian"
+    },
+    {
+      "question_id": 24,
+      "question": "Which religious practices were followed?",
+      "options": [
+        "Multiple faiths",
+        "Only one",
+        "None",
+        "Foreign"
+      ],
+      "answer": "Multiple faiths"
+    },
+    {
+      "question_id": 25,
+      "question": "Which social value was strong?",
+      "options": [
+        "Unity",
+        "Luxury",
+        "Greed",
+        "Isolation"
+      ],
+      "answer": "Unity"
+    },
+    {
+      "question_id": 26,
+      "question": "Which craft was practiced by Lohar community?",
+      "options": [
+        "Blacksmithing",
+        "Weaving",
+        "Pottery",
+        "Carpentry"
+      ],
+      "answer": "Blacksmithing"
+    },
+    {
+      "question_id": 27,
+      "question": "Which craft was practiced by Kumbhar?",
+      "options": [
+        "Pottery",
+        "Weaving",
+        "Carpentry",
+        "Metal work"
+      ],
+      "answer": "Pottery"
+    },
+    {
+      "question_id": 28,
+      "question": "Which music form was popular?",
+      "options": [
+        "Abhang",
+        "Rock",
+        "Pop",
+        "Jazz"
+      ],
+      "answer": "Abhang"
+    },
+    {
+      "question_id": 29,
+      "question": "Who looked after law and order locally?",
+      "options": [
+        "Village officers",
+        "British police",
+        "Army",
+        "Foreigners"
+      ],
+      "answer": "Village officers"
+    },
+    {
+      "question_id": 30,
+      "question": "What was women’s attire?",
+      "options": [
+        "Saree",
+        "Gown",
+        "Skirt",
+        "Robe"
+      ],
+      "answer": "Saree"
+    },
+    {
+      "question_id": 31,
+      "question": "Which grain was commonly cultivated?",
+      "options": [
+        "Jowar",
+        "Wheat",
+        "Barley",
+        "Maize"
+      ],
+      "answer": "Jowar"
+    },
+    {
+      "question_id": 32,
+      "question": "What was main fuel?",
+      "options": [
+        "Firewood",
+        "Gas",
+        "Electricity",
+        "Coal"
+      ],
+      "answer": "Firewood"
+    },
+    {
+      "question_id": 33,
+      "question": "Which activity strengthened unity?",
+      "options": [
+        "Festivals",
+        "Wars",
+        "Trade",
+        "Taxes"
+      ],
+      "answer": "Festivals"
+    },
+    {
+      "question_id": 34,
+      "question": "Who guided moral values?",
+      "options": [
+        "Saints",
+        "Foreigners",
+        "Soldiers",
+        "Merchants"
+      ],
+      "answer": "Saints"
+    },
+    {
+      "question_id": 35,
+      "question": "Which art form narrated history?",
+      "options": [
+        "Powada",
+        "Drama",
+        "Film",
+        "Novel"
+      ],
+      "answer": "Powada"
+    },
+    {
+      "question_id": 36,
+      "question": "Which material was used for utensils?",
+      "options": [
+        "Copper",
+        "Plastic",
+        "Steel",
+        "Glass"
+      ],
+      "answer": "Copper"
+    },
+    {
+      "question_id": 37,
+      "question": "What was status of women?",
+      "options": [
+        "Respected",
+        "Ignored",
+        "Oppressed",
+        "No role"
+      ],
+      "answer": "Respected"
+    },
+    {
+      "question_id": 38,
+      "question": "Which occupation supported trade?",
+      "options": [
+        "Carpenters",
+        "IT workers",
+        "Pilots",
+        "Engineers"
+      ],
+      "answer": "Carpenters"
+    },
+    {
+      "question_id": 39,
+      "question": "Which religion influenced life?",
+      "options": [
+        "Hinduism",
+        "Christianity",
+        "Islam",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 40,
+      "question": "What was main form of education?",
+      "options": [
+        "Oral teaching",
+        "Books",
+        "Online",
+        "Schools"
+      ],
+      "answer": "Oral teaching"
+    },
+    {
+      "question_id": 41,
+      "question": "Which community handled leather work?",
+      "options": [
+        "Chambhar",
+        "Koshti",
+        "Kunbi",
+        "Brahmin"
+      ],
+      "answer": "Chambhar"
+    },
+    {
+      "question_id": 42,
+      "question": "Which festival showed devotion?",
+      "options": [
+        "Ashadhi Ekadashi",
+        "Christmas",
+        "Eid",
+        "New Year"
+      ],
+      "answer": "Ashadhi Ekadashi"
+    },
+    {
+      "question_id": 43,
+      "question": "Which village official handled revenue records?",
+      "options": [
+        "Kulkarni",
+        "Patil",
+        "Deshmukh",
+        "Kotwal"
+      ],
+      "answer": "Kulkarni"
+    },
+    {
+      "question_id": 44,
+      "question": "Which animal was widely used in farming?",
+      "options": [
+        "Oxen",
+        "Horse",
+        "Camel",
+        "Elephant"
+      ],
+      "answer": "Oxen"
+    },
+    {
+      "question_id": 45,
+      "question": "Which value bound society?",
+      "options": [
+        "Cooperation",
+        "Competition",
+        "Isolation",
+        "Greed"
+      ],
+      "answer": "Cooperation"
+    },
+    {
+      "question_id": 46,
+      "question": "Which art expressed devotion?",
+      "options": [
+        "Bhajan",
+        "Jazz",
+        "Rock",
+        "Opera"
+      ],
+      "answer": "Bhajan"
+    },
+    {
+      "question_id": 47,
+      "question": "What defined lifestyle?",
+      "options": [
+        "Simple living",
+        "Luxury",
+        "Technology",
+        "Modernity"
+      ],
+      "answer": "Simple living"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What was the main occupation of people?",
+      "answer": "Agriculture was the main occupation."
+    },
+    {
+      "question_id": 2,
+      "question": "Who formed the backbone of society?",
+      "answer": "Farmers formed the backbone of society."
+    },
+    {
+      "question_id": 3,
+      "question": "What was the role of Patil?",
+      "answer": "Patil was the head of the village."
+    },
+    {
+      "question_id": 4,
+      "question": "What was the role of Kulkarni?",
+      "answer": "Kulkarni maintained village records."
+    },
+    {
+      "question_id": 5,
+      "question": "How was village administration run?",
+      "answer": "Through the village panchayat system."
+    },
+    {
+      "question_id": 6,
+      "question": "Which crops were grown?",
+      "answer": "Rice, jowar and other grains were grown."
+    },
+    {
+      "question_id": 7,
+      "question": "What kind of houses did people live in?",
+      "answer": "Most people lived in mud houses."
+    },
+    {
+      "question_id": 8,
+      "question": "What food was commonly eaten?",
+      "answer": "Rice and jowar were staple food."
+    },
+    {
+      "question_id": 9,
+      "question": "Which language was spoken?",
+      "answer": "Marathi was commonly spoken."
+    },
+    {
+      "question_id": 10,
+      "question": "How did people entertain themselves?",
+      "answer": "Through folk arts and festivals."
+    },
+    {
+      "question_id": 11,
+      "question": "What was Powada?",
+      "answer": "A folk art narrating heroic deeds."
+    },
+    {
+      "question_id": 12,
+      "question": "What was Abhang?",
+      "answer": "A devotional song."
+    },
+    {
+      "question_id": 13,
+      "question": "What role did women play?",
+      "answer": "They managed households and helped in farming."
+    },
+    {
+      "question_id": 14,
+      "question": "How were women treated?",
+      "answer": "Women were respected."
+    },
+    {
+      "question_id": 15,
+      "question": "Which clothes were worn?",
+      "answer": "Dhoti for men and saree for women."
+    },
+    {
+      "question_id": 16,
+      "question": "What was the education system?",
+      "answer": "Education was mostly oral."
+    },
+    {
+      "question_id": 17,
+      "question": "Who provided moral guidance?",
+      "answer": "Saints and gurus provided guidance."
+    },
+    {
+      "question_id": 18,
+      "question": "Which crafts were practiced?",
+      "answer": "Weaving, pottery, carpentry and metal work."
+    },
+    {
+      "question_id": 19,
+      "question": "Who were Koshtis?",
+      "answer": "They were weavers."
+    },
+    {
+      "question_id": 20,
+      "question": "Who were Kumbhars?",
+      "answer": "They were potters."
+    },
+    {
+      "question_id": 21,
+      "question": "Who were Lohars?",
+      "answer": "They were blacksmiths."
+    },
+    {
+      "question_id": 22,
+      "question": "Who were Chambhars?",
+      "answer": "They worked with leather."
+    },
+    {
+      "question_id": 23,
+      "question": "How was revenue collected?",
+      "answer": "Through village officials."
+    },
+    {
+      "question_id": 24,
+      "question": "Which transport was used?",
+      "answer": "Bullock carts were used."
+    },
+    {
+      "question_id": 25,
+      "question": "What was the economic system?",
+      "answer": "It was an agrarian economy."
+    },
+    {
+      "question_id": 26,
+      "question": "How did festivals help society?",
+      "answer": "They promoted unity."
+    },
+    {
+      "question_id": 27,
+      "question": "Which festival was important?",
+      "answer": "Ashadhi Ekadashi was important."
+    },
+    {
+      "question_id": 28,
+      "question": "How did people practice religion?",
+      "answer": "By following different faiths peacefully."
+    },
+    {
+      "question_id": 29,
+      "question": "What role did saints play?",
+      "answer": "They spread moral values."
+    },
+    {
+      "question_id": 30,
+      "question": "What was lifestyle like?",
+      "answer": "Simple and community-oriented."
+    },
+    {
+      "question_id": 31,
+      "question": "How were disputes resolved?",
+      "answer": "By village panchayat."
+    },
+    {
+      "question_id": 32,
+      "question": "What materials were used for utensils?",
+      "answer": "Copper and brass."
+    },
+    {
+      "question_id": 33,
+      "question": "What fuel was used?",
+      "answer": "Firewood was used."
+    },
+    {
+      "question_id": 34,
+      "question": "How did people cooperate?",
+      "answer": "Through collective work."
+    },
+    {
+      "question_id": 35,
+      "question": "What was women’s attire?",
+      "answer": "Saree was worn."
+    },
+    {
+      "question_id": 36,
+      "question": "How did people protect villages?",
+      "answer": "Through local soldiers."
+    },
+    {
+      "question_id": 37,
+      "question": "What was role of artisans?",
+      "answer": "They supported rural economy."
+    },
+    {
+      "question_id": 38,
+      "question": "How did trade occur?",
+      "answer": "Through local markets."
+    },
+    {
+      "question_id": 39,
+      "question": "What animals were used in farming?",
+      "answer": "Oxen were used."
+    },
+    {
+      "question_id": 40,
+      "question": "How was law and order maintained?",
+      "answer": "By village officers."
+    },
+    {
+      "question_id": 41,
+      "question": "What was social structure based on?",
+      "answer": "Occupation and community."
+    },
+    {
+      "question_id": 42,
+      "question": "How did people celebrate occasions?",
+      "answer": "With festivals and rituals."
+    },
+    {
+      "question_id": 43,
+      "question": "What was role of panchayat?",
+      "answer": "It managed village affairs."
+    },
+    {
+      "question_id": 44,
+      "question": "How was knowledge passed?",
+      "answer": "Orally from elders."
+    },
+    {
+      "question_id": 45,
+      "question": "What was the status of children?",
+      "answer": "They helped families and learned skills."
+    },
+    {
+      "question_id": 46,
+      "question": "How did arts influence society?",
+      "answer": "They preserved culture."
+    },
+    {
+      "question_id": 47,
+      "question": "What was role of folk music?",
+      "answer": "It expressed devotion and history."
+    },
+    {
+      "question_id": 48,
+      "question": "How was unity maintained?",
+      "answer": "Through cooperation and festivals."
+    },
+    {
+      "question_id": 49,
+      "question": "What was people’s attitude towards work?",
+      "answer": "Hardworking and disciplined."
+    },
+    {
+      "question_id": 50,
+      "question": "How did religion shape life?",
+      "answer": "It guided moral conduct."
+    },
+    {
+      "question_id": 51,
+      "question": "What was main source of income?",
+      "answer": "Agriculture and crafts."
+    },
+    {
+      "question_id": 52,
+      "question": "How did people help each other?",
+      "answer": "Through mutual support."
+    },
+    {
+      "question_id": 53,
+      "question": "What was impact of saints?",
+      "answer": "They united society."
+    },
+    {
+      "question_id": 54,
+      "question": "How was social harmony maintained?",
+      "answer": "By respecting all faiths."
+    },
+    {
+      "question_id": 55,
+      "question": "What role did family play?",
+      "answer": "Family was central unit."
+    },
+    {
+      "question_id": 56,
+      "question": "How did environment affect life?",
+      "answer": "It influenced farming."
+    },
+    {
+      "question_id": 57,
+      "question": "What was importance of cattle?",
+      "answer": "They helped in farming."
+    },
+    {
+      "question_id": 58,
+      "question": "How did people preserve traditions?",
+      "answer": "Through customs and rituals."
+    },
+    {
+      "question_id": 59,
+      "question": "What was nature of housing?",
+      "answer": "Simple and practical."
+    },
+    {
+      "question_id": 60,
+      "question": "How did people manage resources?",
+      "answer": "Carefully and collectively."
+    },
+    {
+      "question_id": 61,
+      "question": "What values were important?",
+      "answer": "Cooperation and unity."
+    },
+    {
+      "question_id": 62,
+      "question": "How did folk arts help?",
+      "answer": "They educated people."
+    },
+    {
+      "question_id": 63,
+      "question": "What was role of markets?",
+      "answer": "They facilitated trade."
+    },
+    {
+      "question_id": 64,
+      "question": "How was justice delivered?",
+      "answer": "Through panchayat decisions."
+    },
+    {
+      "question_id": 65,
+      "question": "What was attitude towards women?",
+      "answer": "Respectful."
+    },
+    {
+      "question_id": 66,
+      "question": "How did people celebrate harvest?",
+      "answer": "With festivals."
+    },
+    {
+      "question_id": 67,
+      "question": "What was role of elders?",
+      "answer": "They guided families."
+    },
+    {
+      "question_id": 68,
+      "question": "How did people spend leisure time?",
+      "answer": "In community activities."
+    },
+    {
+      "question_id": 69,
+      "question": "What was nature of society?",
+      "answer": "Community-based."
+    },
+    {
+      "question_id": 70,
+      "question": "How did arts preserve history?",
+      "answer": "By oral traditions."
+    },
+    {
+      "question_id": 71,
+      "question": "What was importance of cooperation?",
+      "answer": "It ensured survival."
+    },
+    {
+      "question_id": 72,
+      "question": "How did people show devotion?",
+      "answer": "Through bhajans."
+    },
+    {
+      "question_id": 73,
+      "question": "What was impact of simple living?",
+      "answer": "It reduced conflicts."
+    },
+    {
+      "question_id": 74,
+      "question": "How was education valued?",
+      "answer": "As moral guidance."
+    },
+    {
+      "question_id": 75,
+      "question": "What was social life centered on?",
+      "answer": "Village and family."
+    },
+    {
+      "question_id": 76,
+      "question": "How did people respect nature?",
+      "answer": "By sustainable use."
+    },
+    {
+      "question_id": 77,
+      "question": "What was role of festivals?",
+      "answer": "They brought joy."
+    },
+    {
+      "question_id": 78,
+      "question": "How did work divide?",
+      "answer": "Based on skills."
+    },
+    {
+      "question_id": 79,
+      "question": "What was influence of saints like Tukaram?",
+      "answer": "They inspired devotion."
+    },
+    {
+      "question_id": 80,
+      "question": "How did people manage hardships?",
+      "answer": "By unity."
+    },
+    {
+      "question_id": 81,
+      "question": "What was role of cooperation?",
+      "answer": "It strengthened society."
+    },
+    {
+      "question_id": 82,
+      "question": "How did culture thrive?",
+      "answer": "Through traditions."
+    },
+    {
+      "question_id": 83,
+      "question": "Why was village life important?",
+      "answer": "It shaped society."
+    },
+    {
+      "question_id": 84,
+      "question": "What does this chapter teach?",
+      "answer": "Simple living and unity."
+    },
+    {
+      "question_id": 85,
+      "question": "Why is this chapter important?",
+      "answer": "It explains social life."
+    }
+  ]
+}

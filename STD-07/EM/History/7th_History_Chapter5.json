@@ -1,0 +1,925 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 5,
+  "chapter_name": "The Foundation of the Swaraj",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "What does 'Swaraj' mean?",
+      "options": [
+        "Foreign rule",
+        "Self-rule",
+        "Kingdom",
+        "Empire"
+      ],
+      "answer": "Self-rule"
+    },
+    {
+      "question_id": 2,
+      "question": "Who laid the foundation of Swaraj?",
+      "options": [
+        "Shahaji Raje",
+        "Shivaji Maharaj",
+        "Sambhaji Maharaj",
+        "Akbar"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 3,
+      "question": "In which year did Shivaji Maharaj take oath of Swaraj?",
+      "options": [
+        "1630",
+        "1645",
+        "1647",
+        "1656"
+      ],
+      "answer": "1645"
+    },
+    {
+      "question_id": 4,
+      "question": "Where did Shivaji Maharaj take the oath of Swaraj?",
+      "options": [
+        "Raigad",
+        "Torna",
+        "Rohideshwar",
+        "Sinhagad"
+      ],
+      "answer": "Rohideshwar"
+    },
+    {
+      "question_id": 5,
+      "question": "Who inspired Shivaji Maharaj to establish Swaraj?",
+      "options": [
+        "Jijabai",
+        "Shahaji Raje",
+        "Saints",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 6,
+      "question": "Which fort was captured by Shivaji Maharaj at a young age?",
+      "options": [
+        "Raigad",
+        "Torna",
+        "Purandar",
+        "Rajgad"
+      ],
+      "answer": "Torna"
+    },
+    {
+      "question_id": 7,
+      "question": "Torna fort was later renamed as?",
+      "options": [
+        "Raigad",
+        "Rajgad",
+        "Sinhagad",
+        "Pratapgad"
+      ],
+      "answer": "Rajgad"
+    },
+    {
+      "question_id": 8,
+      "question": "Who helped Shivaji Maharaj in his early conquests?",
+      "options": [
+        "Mavalas",
+        "Portuguese",
+        "British",
+        "Mughals"
+      ],
+      "answer": "Mavalas"
+    },
+    {
+      "question_id": 9,
+      "question": "Which region supported Shivaji Maharaj initially?",
+      "options": [
+        "Konkan",
+        "Maval",
+        "Vidarbha",
+        "Khandesh"
+      ],
+      "answer": "Maval"
+    },
+    {
+      "question_id": 10,
+      "question": "Who was Shivaji Maharaj’s spiritual guide?",
+      "options": [
+        "Samarth Ramdas",
+        "Tukaram",
+        "Eknath",
+        "Namdev"
+      ],
+      "answer": "Samarth Ramdas"
+    },
+    {
+      "question_id": 11,
+      "question": "Which fort was captured after Torna?",
+      "options": [
+        "Purandar",
+        "Kondhana",
+        "Chakan",
+        "Panhala"
+      ],
+      "answer": "Kondhana"
+    },
+    {
+      "question_id": 12,
+      "question": "Kondhana fort is now known as?",
+      "options": [
+        "Rajgad",
+        "Sinhagad",
+        "Raigad",
+        "Pratapgad"
+      ],
+      "answer": "Sinhagad"
+    },
+    {
+      "question_id": 13,
+      "question": "Who was Tanaji Malusare?",
+      "options": [
+        "A Mughal general",
+        "A Maratha warrior",
+        "A Sultan",
+        "A Portuguese officer"
+      ],
+      "answer": "A Maratha warrior"
+    },
+    {
+      "question_id": 14,
+      "question": "Which fort was associated with Tanaji Malusare?",
+      "options": [
+        "Rajgad",
+        "Sinhagad",
+        "Raigad",
+        "Panhala"
+      ],
+      "answer": "Sinhagad"
+    },
+    {
+      "question_id": 15,
+      "question": "Who governed the forts captured by Shivaji Maharaj?",
+      "options": [
+        "Deshmukhs",
+        "Havaldars",
+        "Karkhane",
+        "Mughals"
+      ],
+      "answer": "Havaldars"
+    },
+    {
+      "question_id": 16,
+      "question": "Which policy did Shivaji Maharaj follow while capturing forts?",
+      "options": [
+        "Destruction",
+        "Protection of people",
+        "Looting",
+        "Conversion"
+      ],
+      "answer": "Protection of people"
+    },
+    {
+      "question_id": 17,
+      "question": "What was the nature of Shivaji Maharaj’s administration?",
+      "options": [
+        "Oppressive",
+        "People-oriented",
+        "Foreign",
+        "Temporary"
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 18,
+      "question": "Which officers were appointed to manage forts?",
+      "options": [
+        "Subhedars",
+        "Havaldars",
+        "Qazis",
+        "Jagirdars"
+      ],
+      "answer": "Havaldars"
+    },
+    {
+      "question_id": 19,
+      "question": "Which area was crucial for early Swaraj?",
+      "options": [
+        "Plains",
+        "Hilly regions",
+        "Desert",
+        "Coastal plains"
+      ],
+      "answer": "Hilly regions"
+    },
+    {
+      "question_id": 20,
+      "question": "Why were forts important for Swaraj?",
+      "options": [
+        "Trade",
+        "Defence",
+        "Agriculture",
+        "Religion"
+      ],
+      "answer": "Defence"
+    },
+    {
+      "question_id": 21,
+      "question": "Which fort became the capital later?",
+      "options": [
+        "Rajgad",
+        "Raigad",
+        "Sinhagad",
+        "Purandar"
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 22,
+      "question": "Who supported Shivaji Maharaj with resources?",
+      "options": [
+        "Common people",
+        "Foreigners",
+        "Mughals",
+        "British"
+      ],
+      "answer": "Common people"
+    },
+    {
+      "question_id": 23,
+      "question": "Which quality of Shivaji Maharaj helped Swaraj?",
+      "options": [
+        "Cruelty",
+        "Leadership",
+        "Fear",
+        "Greed"
+      ],
+      "answer": "Leadership"
+    },
+    {
+      "question_id": 24,
+      "question": "Which treaty later recognized Shivaji Maharaj?",
+      "options": [
+        "Treaty of Purandar",
+        "Treaty of Surat",
+        "Treaty of Bassein",
+        "Treaty of Agra"
+      ],
+      "answer": "Treaty of Purandar"
+    },
+    {
+      "question_id": 25,
+      "question": "Who opposed the establishment of Swaraj?",
+      "options": [
+        "Mughals",
+        "Deccan Sultans",
+        "Both",
+        "None"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 26,
+      "question": "Which fort was captured from Adilshahi?",
+      "options": [
+        "Torna",
+        "Raigad",
+        "Purandar",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 27,
+      "question": "What was the role of Mavalas?",
+      "options": [
+        "Farmers",
+        "Warriors",
+        "Merchants",
+        "Priests"
+      ],
+      "answer": "Warriors"
+    },
+    {
+      "question_id": 28,
+      "question": "Which value was central to Swaraj?",
+      "options": [
+        "Justice",
+        "Oppression",
+        "Fear",
+        "Slavery"
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 29,
+      "question": "Who trained Shivaji Maharaj in warfare?",
+      "options": [
+        "Shahaji Raje",
+        "Jijabai",
+        "Samarth Ramdas",
+        "Mavalas"
+      ],
+      "answer": "Shahaji Raje"
+    },
+    {
+      "question_id": 30,
+      "question": "What inspired loyalty among people?",
+      "options": [
+        "Force",
+        "Fair administration",
+        "Fear",
+        "Taxes"
+      ],
+      "answer": "Fair administration"
+    },
+    {
+      "question_id": 31,
+      "question": "Which fort symbolized early Swaraj?",
+      "options": [
+        "Rajgad",
+        "Raigad",
+        "Sinhagad",
+        "Pratapgad"
+      ],
+      "answer": "Rajgad"
+    },
+    {
+      "question_id": 32,
+      "question": "Which power controlled Maharashtra before Swaraj?",
+      "options": [
+        "Mughals",
+        "Deccan Sultanates",
+        "Both",
+        "British"
+      ],
+      "answer": "Both"
+    },
+    {
+      "question_id": 33,
+      "question": "What was the main aim of Swaraj?",
+      "options": [
+        "Expansion",
+        "Self-rule",
+        "Trade",
+        "Religion"
+      ],
+      "answer": "Self-rule"
+    },
+    {
+      "question_id": 34,
+      "question": "Who protected common people?",
+      "options": [
+        "Shivaji Maharaj",
+        "Mughals",
+        "Portuguese",
+        "British"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 35,
+      "question": "Which group formed backbone of Swaraj?",
+      "options": [
+        "Nobles",
+        "Mavalas",
+        "Foreigners",
+        "Merchants"
+      ],
+      "answer": "Mavalas"
+    },
+    {
+      "question_id": 36,
+      "question": "Which fort was captured without bloodshed?",
+      "options": [
+        "Torna",
+        "Chakan",
+        "Rajgad",
+        "Sinhagad"
+      ],
+      "answer": "Chakan"
+    },
+    {
+      "question_id": 37,
+      "question": "Which value did Swaraj promote?",
+      "options": [
+        "Equality",
+        "Discrimination",
+        "Oppression",
+        "Fear"
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 38,
+      "question": "What strengthened Swaraj?",
+      "options": [
+        "Unity",
+        "Division",
+        "Fear",
+        "Oppression"
+      ],
+      "answer": "Unity"
+    },
+    {
+      "question_id": 39,
+      "question": "Which saint influenced Shivaji Maharaj?",
+      "options": [
+        "Samarth Ramdas",
+        "Kabir",
+        "Tukaram",
+        "Namdev"
+      ],
+      "answer": "Samarth Ramdas"
+    },
+    {
+      "question_id": 40,
+      "question": "Which was the first capital of Swaraj?",
+      "options": [
+        "Rajgad",
+        "Raigad",
+        "Sinhagad",
+        "Purandar"
+      ],
+      "answer": "Rajgad"
+    },
+    {
+      "question_id": 41,
+      "question": "Which fort was renamed Rajgad?",
+      "options": [
+        "Torna",
+        "Raigad",
+        "Sinhagad",
+        "Purandar"
+      ],
+      "answer": "Torna"
+    },
+    {
+      "question_id": 42,
+      "question": "Who administered justice in Swaraj?",
+      "options": [
+        "Shivaji Maharaj",
+        "Qazis",
+        "Foreigners",
+        "Sultans"
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 43,
+      "question": "What ensured people's support?",
+      "options": [
+        "Just rule",
+        "Fear",
+        "Heavy taxes",
+        "Force"
+      ],
+      "answer": "Just rule"
+    },
+    {
+      "question_id": 44,
+      "question": "Which quality defined Swaraj?",
+      "options": [
+        "Good governance",
+        "Exploitation",
+        "Oppression",
+        "Instability"
+      ],
+      "answer": "Good governance"
+    },
+    {
+      "question_id": 45,
+      "question": "Which event marked the foundation of Swaraj?",
+      "options": [
+        "Oath at Rohideshwar",
+        "Coronation",
+        "Treaty",
+        "War"
+      ],
+      "answer": "Oath at Rohideshwar"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What is Swaraj?",
+      "answer": "Swaraj means self-rule by the people."
+    },
+    {
+      "question_id": 2,
+      "question": "Who founded Swaraj?",
+      "answer": "Shivaji Maharaj founded Swaraj."
+    },
+    {
+      "question_id": 3,
+      "question": "Why did Shivaji Maharaj establish Swaraj?",
+      "answer": "To free people from oppression and foreign rule."
+    },
+    {
+      "question_id": 4,
+      "question": "Who inspired Shivaji Maharaj?",
+      "answer": "Jijabai, Shahaji Raje and saints inspired him."
+    },
+    {
+      "question_id": 5,
+      "question": "Where was the oath of Swaraj taken?",
+      "answer": "At Rohideshwar temple."
+    },
+    {
+      "question_id": 6,
+      "question": "When was the oath of Swaraj taken?",
+      "answer": "In 1645."
+    },
+    {
+      "question_id": 7,
+      "question": "Which fort was captured first?",
+      "answer": "Torna fort was captured first."
+    },
+    {
+      "question_id": 8,
+      "question": "What was Torna renamed as?",
+      "answer": "Torna was renamed Rajgad."
+    },
+    {
+      "question_id": 9,
+      "question": "Why were forts important?",
+      "answer": "They provided defence and control."
+    },
+    {
+      "question_id": 10,
+      "question": "Who were Mavalas?",
+      "answer": "Mavalas were local warriors supporting Shivaji Maharaj."
+    },
+    {
+      "question_id": 11,
+      "question": "Which region supported Swaraj?",
+      "answer": "Maval region supported Swaraj."
+    },
+    {
+      "question_id": 12,
+      "question": "Who was Shivaji Maharaj’s spiritual guide?",
+      "answer": "Samarth Ramdas was his spiritual guide."
+    },
+    {
+      "question_id": 13,
+      "question": "Which fort became early capital?",
+      "answer": "Rajgad became early capital."
+    },
+    {
+      "question_id": 14,
+      "question": "Which fort later became capital?",
+      "answer": "Raigad became capital later."
+    },
+    {
+      "question_id": 15,
+      "question": "Who governed forts?",
+      "answer": "Havaldars governed forts."
+    },
+    {
+      "question_id": 16,
+      "question": "What policy was followed during conquests?",
+      "answer": "People and property were protected."
+    },
+    {
+      "question_id": 17,
+      "question": "How was administration?",
+      "answer": "It was just and people-oriented."
+    },
+    {
+      "question_id": 18,
+      "question": "Why did people support Swaraj?",
+      "answer": "Because of justice and protection."
+    },
+    {
+      "question_id": 19,
+      "question": "Which powers opposed Swaraj?",
+      "answer": "Mughals and Deccan Sultanates opposed Swaraj."
+    },
+    {
+      "question_id": 20,
+      "question": "Which fort is associated with Tanaji?",
+      "answer": "Sinhagad is associated with Tanaji."
+    },
+    {
+      "question_id": 21,
+      "question": "Who was Tanaji Malusare?",
+      "answer": "A brave Maratha warrior."
+    },
+    {
+      "question_id": 22,
+      "question": "Why is Rajgad important?",
+      "answer": "It symbolized early Swaraj."
+    },
+    {
+      "question_id": 23,
+      "question": "What values did Swaraj promote?",
+      "answer": "Justice, equality and freedom."
+    },
+    {
+      "question_id": 24,
+      "question": "What role did Jijabai play?",
+      "answer": "She instilled values and inspiration."
+    },
+    {
+      "question_id": 25,
+      "question": "Who trained Shivaji Maharaj?",
+      "answer": "Shahaji Raje trained him."
+    },
+    {
+      "question_id": 26,
+      "question": "How did geography help Swaraj?",
+      "answer": "Hills provided natural defence."
+    },
+    {
+      "question_id": 27,
+      "question": "Why was unity important?",
+      "answer": "Unity strengthened Swaraj."
+    },
+    {
+      "question_id": 28,
+      "question": "What was condition of people before Swaraj?",
+      "answer": "They were oppressed."
+    },
+    {
+      "question_id": 29,
+      "question": "How did Swaraj change lives?",
+      "answer": "It brought justice and security."
+    },
+    {
+      "question_id": 30,
+      "question": "Which treaty recognized Swaraj?",
+      "answer": "Treaty of Purandar."
+    },
+    {
+      "question_id": 31,
+      "question": "What was unique about Swaraj administration?",
+      "answer": "It focused on welfare of people."
+    },
+    {
+      "question_id": 32,
+      "question": "How were forts managed?",
+      "answer": "By appointed officers."
+    },
+    {
+      "question_id": 33,
+      "question": "What was role of common people?",
+      "answer": "They supported with resources and loyalty."
+    },
+    {
+      "question_id": 34,
+      "question": "Why was Chakan fort important?",
+      "answer": "It was captured strategically."
+    },
+    {
+      "question_id": 35,
+      "question": "What is significance of Rohideshwar oath?",
+      "answer": "It marked foundation of Swaraj."
+    },
+    {
+      "question_id": 36,
+      "question": "How did Shivaji Maharaj treat enemies?",
+      "answer": "With fairness and humanity."
+    },
+    {
+      "question_id": 37,
+      "question": "Why was Rajgad strategically important?",
+      "answer": "It was centrally located."
+    },
+    {
+      "question_id": 38,
+      "question": "What made Swaraj stable?",
+      "answer": "Strong administration and public support."
+    },
+    {
+      "question_id": 39,
+      "question": "How did religion influence Swaraj?",
+      "answer": "It promoted tolerance."
+    },
+    {
+      "question_id": 40,
+      "question": "Why did Mavalas remain loyal?",
+      "answer": "Due to trust and leadership."
+    },
+    {
+      "question_id": 41,
+      "question": "What was Shivaji Maharaj’s leadership style?",
+      "answer": "Inspirational and just."
+    },
+    {
+      "question_id": 42,
+      "question": "How did Swaraj ensure justice?",
+      "answer": "Through direct supervision by Shivaji Maharaj."
+    },
+    {
+      "question_id": 43,
+      "question": "What was impact on farmers?",
+      "answer": "They received protection."
+    },
+    {
+      "question_id": 44,
+      "question": "Why were forts renovated?",
+      "answer": "To strengthen defence."
+    },
+    {
+      "question_id": 45,
+      "question": "How did Swaraj differ from previous rule?",
+      "answer": "It was people-centered."
+    },
+    {
+      "question_id": 46,
+      "question": "What was military strength based on?",
+      "answer": "Discipline and strategy."
+    },
+    {
+      "question_id": 47,
+      "question": "Why was secrecy important?",
+      "answer": "To surprise enemies."
+    },
+    {
+      "question_id": 48,
+      "question": "How did Swaraj grow?",
+      "answer": "Through strategic conquests."
+    },
+    {
+      "question_id": 49,
+      "question": "What lessons does Swaraj teach?",
+      "answer": "Leadership and justice."
+    },
+    {
+      "question_id": 50,
+      "question": "Why was local support crucial?",
+      "answer": "It ensured sustainability."
+    },
+    {
+      "question_id": 51,
+      "question": "How did Shivaji Maharaj earn trust?",
+      "answer": "By fair governance."
+    },
+    {
+      "question_id": 52,
+      "question": "What role did saints play?",
+      "answer": "They provided moral guidance."
+    },
+    {
+      "question_id": 53,
+      "question": "How did Swaraj protect women?",
+      "answer": "Strict action against offenders."
+    },
+    {
+      "question_id": 54,
+      "question": "Why was fort administration strict?",
+      "answer": "To prevent corruption."
+    },
+    {
+      "question_id": 55,
+      "question": "How did Swaraj encourage unity?",
+      "answer": "By including all sections."
+    },
+    {
+      "question_id": 56,
+      "question": "What is significance of Swaraj?",
+      "answer": "It symbolizes freedom."
+    },
+    {
+      "question_id": 57,
+      "question": "How did people contribute?",
+      "answer": "Through service and loyalty."
+    },
+    {
+      "question_id": 58,
+      "question": "Why did Swaraj expand quickly?",
+      "answer": "Due to efficient leadership."
+    },
+    {
+      "question_id": 59,
+      "question": "What was role of discipline?",
+      "answer": "It maintained order."
+    },
+    {
+      "question_id": 60,
+      "question": "How did Swaraj inspire future generations?",
+      "answer": "It showed power of self-rule."
+    },
+    {
+      "question_id": 61,
+      "question": "Why was justice central?",
+      "answer": "It gained people’s trust."
+    },
+    {
+      "question_id": 62,
+      "question": "What was role of havaldars?",
+      "answer": "They managed forts."
+    },
+    {
+      "question_id": 63,
+      "question": "How was administration organized?",
+      "answer": "Clearly defined roles."
+    },
+    {
+      "question_id": 64,
+      "question": "Why was Rajgad chosen first?",
+      "answer": "For security reasons."
+    },
+    {
+      "question_id": 65,
+      "question": "How did Swaraj deal with corruption?",
+      "answer": "Strict punishment."
+    },
+    {
+      "question_id": 66,
+      "question": "What was foundation of Swaraj?",
+      "answer": "People’s support and leadership."
+    },
+    {
+      "question_id": 67,
+      "question": "Why did Swaraj need forts?",
+      "answer": "For territorial control."
+    },
+    {
+      "question_id": 68,
+      "question": "How did geography shape strategy?",
+      "answer": "Hills enabled guerrilla tactics."
+    },
+    {
+      "question_id": 69,
+      "question": "What made Swaraj different?",
+      "answer": "Ethical governance."
+    },
+    {
+      "question_id": 70,
+      "question": "How did Shivaji Maharaj motivate people?",
+      "answer": "By leading by example."
+    },
+    {
+      "question_id": 71,
+      "question": "Why was Swaraj a revolution?",
+      "answer": "It empowered people."
+    },
+    {
+      "question_id": 72,
+      "question": "What role did trust play?",
+      "answer": "It strengthened loyalty."
+    },
+    {
+      "question_id": 73,
+      "question": "How did Swaraj ensure peace?",
+      "answer": "Through justice."
+    },
+    {
+      "question_id": 74,
+      "question": "Why was early administration simple?",
+      "answer": "To be effective."
+    },
+    {
+      "question_id": 75,
+      "question": "What values were taught?",
+      "answer": "Duty and freedom."
+    },
+    {
+      "question_id": 76,
+      "question": "How did Swaraj face challenges?",
+      "answer": "With courage and planning."
+    },
+    {
+      "question_id": 77,
+      "question": "What was impact on society?",
+      "answer": "Improved morale."
+    },
+    {
+      "question_id": 78,
+      "question": "Why was Rohideshwar oath symbolic?",
+      "answer": "It represented commitment."
+    },
+    {
+      "question_id": 79,
+      "question": "How did Swaraj inspire unity?",
+      "answer": "By shared purpose."
+    },
+    {
+      "question_id": 80,
+      "question": "What is lasting legacy of Swaraj?",
+      "answer": "Foundation of Maratha power."
+    },
+    {
+      "question_id": 81,
+      "question": "Why is this chapter important?",
+      "answer": "It explains beginning of Swaraj."
+    },
+    {
+      "question_id": 82,
+      "question": "How did Swaraj shape history?",
+      "answer": "It changed power balance."
+    },
+    {
+      "question_id": 83,
+      "question": "Why is Shivaji Maharaj remembered?",
+      "answer": "For visionary leadership."
+    },
+    {
+      "question_id": 84,
+      "question": "What does Swaraj represent today?",
+      "answer": "Self-respect and freedom."
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "class": 7,
+  "subject": "Civics",
+  "chapter_number": 3,
+  "chapter_name": "Features of the Constitution",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Which feature means division of powers between Centre and States?",
+      "options": [
+        "Democracy",
+        "Federalism",
+        "Secularism",
+        "Republic"
+      ],
+      "answer": "Federalism"
+    },
+    {
+      "question_id": 2,
+      "question": "Which feature ensures people rule themselves?",
+      "options": [
+        "Democracy",
+        "Federalism",
+        "Justice",
+        "Liberty"
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 3,
+      "question": "Which feature means no state religion?",
+      "options": [
+        "Socialism",
+        "Secularism",
+        "Republic",
+        "Justice"
+      ],
+      "answer": "Secularism"
+    },
+    {
+      "question_id": 4,
+      "question": "Which feature ensures equality before law?",
+      "options": [
+        "Liberty",
+        "Equality",
+        "Justice",
+        "Fraternity"
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 5,
+      "question": "Which feature gives freedom of speech?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom",
+        "Right to Religion",
+        "Right to Remedies"
+      ],
+      "answer": "Right to Freedom"
+    },
+    {
+      "question_id": 6,
+      "question": "Which feature allows amendment of Constitution?",
+      "options": [
+        "Rigid nature",
+        "Flexible nature",
+        "Federal nature",
+        "Secular nature"
+      ],
+      "answer": "Flexible nature"
+    },
+    {
+      "question_id": 7,
+      "question": "Which feature ensures welfare of people?",
+      "options": [
+        "Socialism",
+        "Republic",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Socialism"
+    },
+    {
+      "question_id": 8,
+      "question": "Which feature protects Fundamental Rights?",
+      "options": [
+        "Parliament",
+        "Judiciary",
+        "Executive",
+        "President"
+      ],
+      "answer": "Judiciary"
+    },
+    {
+      "question_id": 9,
+      "question": "Which feature divides power among organs?",
+      "options": [
+        "Separation of Powers",
+        "Federalism",
+        "Democracy",
+        "Justice"
+      ],
+      "answer": "Separation of Powers"
+    },
+    {
+      "question_id": 10,
+      "question": "Which organ makes laws?",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "President"
+      ],
+      "answer": "Legislature"
+    },
+    {
+      "question_id": 11,
+      "question": "Which organ implements laws?",
+      "options": [
+        "Legislature",
+        "Judiciary",
+        "Executive",
+        "Supreme Court"
+      ],
+      "answer": "Executive"
+    },
+    {
+      "question_id": 12,
+      "question": "Which organ interprets laws?",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "Cabinet"
+      ],
+      "answer": "Judiciary"
+    },
+    {
+      "question_id": 13,
+      "question": "Which feature allows judicial review?",
+      "options": [
+        "Democracy",
+        "Independence of Judiciary",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Independence of Judiciary"
+    },
+    {
+      "question_id": 14,
+      "question": "Which feature ensures rule of law?",
+      "options": [
+        "Justice",
+        "Equality",
+        "Democracy",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 15,
+      "question": "Which feature makes India a Republic?",
+      "options": [
+        "Elected President",
+        "Monarchy",
+        "Hereditary rule",
+        "Dictatorship"
+      ],
+      "answer": "Elected President"
+    },
+    {
+      "question_id": 16,
+      "question": "Which feature ensures free and fair elections?",
+      "options": [
+        "Justice",
+        "Democracy",
+        "Liberty",
+        "Equality"
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 17,
+      "question": "Which feature promotes national unity?",
+      "options": [
+        "Fraternity",
+        "Equality",
+        "Justice",
+        "Liberty"
+      ],
+      "answer": "Fraternity"
+    },
+    {
+      "question_id": 18,
+      "question": "Which feature ensures protection of minorities?",
+      "options": [
+        "Secularism",
+        "Socialism",
+        "Federalism",
+        "Republic"
+      ],
+      "answer": "Secularism"
+    },
+    {
+      "question_id": 19,
+      "question": "Which feature balances rigidity and flexibility?",
+      "options": [
+        "Written Constitution",
+        "Lengthy Constitution",
+        "Amendment procedure",
+        "Federalism"
+      ],
+      "answer": "Amendment procedure"
+    },
+    {
+      "question_id": 20,
+      "question": "Which feature ensures adult franchise?",
+      "options": [
+        "Republic",
+        "Democracy",
+        "Justice",
+        "Liberty"
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 21,
+      "question": "Which feature gives right to constitutional remedies?",
+      "options": [
+        "Judiciary",
+        "Fundamental Rights",
+        "Directive Principles",
+        "Federalism"
+      ],
+      "answer": "Fundamental Rights"
+    },
+    {
+      "question_id": 22,
+      "question": "Which feature makes Constitution supreme?",
+      "options": [
+        "Judicial review",
+        "Federalism",
+        "Democracy",
+        "Secularism"
+      ],
+      "answer": "Judicial review"
+    },
+    {
+      "question_id": 23,
+      "question": "Which feature ensures welfare state?",
+      "options": [
+        "Socialism",
+        "Republic",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Socialism"
+    },
+    {
+      "question_id": 24,
+      "question": "Which feature allows peaceful change?",
+      "options": [
+        "Democracy",
+        "Rigid Constitution",
+        "Dictatorship",
+        "Monarchy"
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 25,
+      "question": "Which feature ensures decentralization?",
+      "options": [
+        "Federalism",
+        "Socialism",
+        "Republic",
+        "Justice"
+      ],
+      "answer": "Federalism"
+    },
+    {
+      "question_id": 26,
+      "question": "Which feature ensures independent judiciary?",
+      "options": [
+        "Judicial review",
+        "Independence of judiciary",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Independence of judiciary"
+    },
+    {
+      "question_id": 27,
+      "question": "Which feature supports unity in diversity?",
+      "options": [
+        "Secularism",
+        "Federalism",
+        "Fraternity",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 28,
+      "question": "Which feature makes Constitution detailed?",
+      "options": [
+        "Written nature",
+        "Rigid nature",
+        "Lengthy Constitution",
+        "Secularism"
+      ],
+      "answer": "Lengthy Constitution"
+    },
+    {
+      "question_id": 29,
+      "question": "Which feature allows amendments by Parliament?",
+      "options": [
+        "Flexible nature",
+        "Rigid nature",
+        "Federalism",
+        "Republic"
+      ],
+      "answer": "Flexible nature"
+    },
+    {
+      "question_id": 30,
+      "question": "Which feature ensures dignity of individual?",
+      "options": [
+        "Equality",
+        "Justice",
+        "Liberty",
+        "Fraternity"
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 31,
+      "question": "Which feature allows division of functions?",
+      "options": [
+        "Separation of Powers",
+        "Federalism",
+        "Democracy",
+        "Justice"
+      ],
+      "answer": "Separation of Powers"
+    },
+    {
+      "question_id": 32,
+      "question": "Which feature promotes economic equality?",
+      "options": [
+        "Socialism",
+        "Secularism",
+        "Republic",
+        "Federalism"
+      ],
+      "answer": "Socialism"
+    },
+    {
+      "question_id": 33,
+      "question": "Which feature gives power to courts to protect rights?",
+      "options": [
+        "Judicial review",
+        "Democracy",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Judicial review"
+    },
+    {
+      "question_id": 34,
+      "question": "Which feature ensures supremacy of Constitution?",
+      "options": [
+        "Rule of law",
+        "Judicial review",
+        "Democracy",
+        "Federalism"
+      ],
+      "answer": "Judicial review"
+    },
+    {
+      "question_id": 35,
+      "question": "Which feature ensures impartial justice?",
+      "options": [
+        "Independence of judiciary",
+        "Federalism",
+        "Republic",
+        "Secularism"
+      ],
+      "answer": "Independence of judiciary"
+    },
+    {
+      "question_id": 36,
+      "question": "Which feature allows cultural freedom?",
+      "options": [
+        "Secularism",
+        "Socialism",
+        "Federalism",
+        "Republic"
+      ],
+      "answer": "Secularism"
+    },
+    {
+      "question_id": 37,
+      "question": "Which feature ensures smooth administration?",
+      "options": [
+        "Separation of powers",
+        "Justice",
+        "Liberty",
+        "Equality"
+      ],
+      "answer": "Separation of powers"
+    },
+    {
+      "question_id": 38,
+      "question": "Which feature makes India democratic?",
+      "options": [
+        "Elections",
+        "Democracy",
+        "Federalism",
+        "Republic"
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 39,
+      "question": "Which feature ensures people participation?",
+      "options": [
+        "Democracy",
+        "Republic",
+        "Justice",
+        "Liberty"
+      ],
+      "answer": "Democracy"
+    },
+    {
+      "question_id": 40,
+      "question": "Which feature ensures flexibility with stability?",
+      "options": [
+        "Amendment procedure",
+        "Rigid Constitution",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Amendment procedure"
+    },
+    {
+      "question_id": 41,
+      "question": "Which feature supports welfare of weaker sections?",
+      "options": [
+        "Socialism",
+        "Republic",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Socialism"
+    },
+    {
+      "question_id": 42,
+      "question": "Which feature ensures unity of nation?",
+      "options": [
+        "Federalism",
+        "Fraternity",
+        "Justice",
+        "Equality"
+      ],
+      "answer": "Fraternity"
+    },
+    {
+      "question_id": 43,
+      "question": "Which feature allows decentralised governance?",
+      "options": [
+        "Federalism",
+        "Democracy",
+        "Republic",
+        "Justice"
+      ],
+      "answer": "Federalism"
+    },
+    {
+      "question_id": 44,
+      "question": "Which feature protects cultural diversity?",
+      "options": [
+        "Secularism",
+        "Socialism",
+        "Republic",
+        "Federalism"
+      ],
+      "answer": "Secularism"
+    },
+    {
+      "question_id": 45,
+      "question": "Which feature ensures supremacy of law?",
+      "options": [
+        "Rule of law",
+        "Federalism",
+        "Democracy",
+        "Secularism"
+      ],
+      "answer": "Rule of law"
+    },
+    {
+      "question_id": 46,
+      "question": "Which feature supports rights of citizens?",
+      "options": [
+        "Fundamental Rights",
+        "Directive Principles",
+        "Duties",
+        "Schedules"
+      ],
+      "answer": "Fundamental Rights"
+    },
+    {
+      "question_id": 47,
+      "question": "Which feature ensures constitutional governance?",
+      "options": [
+        "Rule of law",
+        "Democracy",
+        "Federalism",
+        "Secularism"
+      ],
+      "answer": "Rule of law"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What are the features of the Constitution?",
+      "answer": "They are the important characteristics of the Constitution."
+    },
+    {
+      "question_id": 2,
+      "question": "Why is Indian Constitution democratic?",
+      "answer": "Because people elect the government."
+    },
+    {
+      "question_id": 3,
+      "question": "What is Federalism?",
+      "answer": "Division of powers between Centre and States."
+    },
+    {
+      "question_id": 4,
+      "question": "Why is India called a Federal state?",
+      "answer": "Because powers are divided."
+    },
+    {
+      "question_id": 5,
+      "question": "What is Secularism?",
+      "answer": "Equal respect to all religions."
+    },
+    {
+      "question_id": 6,
+      "question": "Why is India a secular nation?",
+      "answer": "Because it has no state religion."
+    },
+    {
+      "question_id": 7,
+      "question": "What is Socialism?",
+      "answer": "Reducing economic inequality."
+    },
+    {
+      "question_id": 8,
+      "question": "Why is Socialism important?",
+      "answer": "It ensures welfare of people."
+    },
+    {
+      "question_id": 9,
+      "question": "What is Republic?",
+      "answer": "A state with elected head."
+    },
+    {
+      "question_id": 10,
+      "question": "Why is India a Republic?",
+      "answer": "Because President is elected."
+    },
+    {
+      "question_id": 11,
+      "question": "What is Democracy?",
+      "answer": "Government by people."
+    },
+    {
+      "question_id": 12,
+      "question": "Why is democracy important?",
+      "answer": "It ensures participation."
+    },
+    {
+      "question_id": 13,
+      "question": "What is Rule of Law?",
+      "answer": "Law is supreme."
+    },
+    {
+      "question_id": 14,
+      "question": "Why is Rule of Law important?",
+      "answer": "It ensures justice."
+    },
+    {
+      "question_id": 15,
+      "question": "What is Separation of Powers?",
+      "answer": "Division among organs."
+    },
+    {
+      "question_id": 16,
+      "question": "Name three organs of government.",
+      "answer": "Legislature, Executive, Judiciary."
+    },
+    {
+      "question_id": 17,
+      "question": "Role of Legislature?",
+      "answer": "To make laws."
+    },
+    {
+      "question_id": 18,
+      "question": "Role of Executive?",
+      "answer": "To implement laws."
+    },
+    {
+      "question_id": 19,
+      "question": "Role of Judiciary?",
+      "answer": "To interpret laws."
+    },
+    {
+      "question_id": 20,
+      "question": "What is Independence of Judiciary?",
+      "answer": "Judiciary free from influence."
+    },
+    {
+      "question_id": 21,
+      "question": "Why is judiciary independent?",
+      "answer": "To protect rights."
+    },
+    {
+      "question_id": 22,
+      "question": "What is Judicial Review?",
+      "answer": "Power of courts to review laws."
+    },
+    {
+      "question_id": 23,
+      "question": "Why is Judicial Review important?",
+      "answer": "To safeguard Constitution."
+    },
+    {
+      "question_id": 24,
+      "question": "What are Fundamental Rights?",
+      "answer": "Basic rights of citizens."
+    },
+    {
+      "question_id": 25,
+      "question": "Why are Fundamental Rights important?",
+      "answer": "They protect freedoms."
+    },
+    {
+      "question_id": 26,
+      "question": "Which feature ensures equality?",
+      "answer": "Equality before law."
+    },
+    {
+      "question_id": 27,
+      "question": "What is Adult Franchise?",
+      "answer": "Right of all adults to vote."
+    },
+    {
+      "question_id": 28,
+      "question": "Why is adult franchise important?",
+      "answer": "It strengthens democracy."
+    },
+    {
+      "question_id": 29,
+      "question": "What is Flexible Constitution?",
+      "answer": "Easy to amend."
+    },
+    {
+      "question_id": 30,
+      "question": "Why flexibility is needed?",
+      "answer": "To adapt to changes."
+    },
+    {
+      "question_id": 31,
+      "question": "What is Rigid Constitution?",
+      "answer": "Difficult to amend."
+    },
+    {
+      "question_id": 32,
+      "question": "Why Indian Constitution is partly rigid?",
+      "answer": "To maintain stability."
+    },
+    {
+      "question_id": 33,
+      "question": "What is Lengthy Constitution?",
+      "answer": "Detailed Constitution."
+    },
+    {
+      "question_id": 34,
+      "question": "Why Indian Constitution is lengthy?",
+      "answer": "It covers many subjects."
+    },
+    {
+      "question_id": 35,
+      "question": "What is Written Constitution?",
+      "answer": "Constitution in written form."
+    },
+    {
+      "question_id": 36,
+      "question": "Why written Constitution important?",
+      "answer": "It avoids confusion."
+    },
+    {
+      "question_id": 37,
+      "question": "What is Unity in Diversity?",
+      "answer": "Unity despite differences."
+    },
+    {
+      "question_id": 38,
+      "question": "How does Constitution support unity?",
+      "answer": "By respecting diversity."
+    },
+    {
+      "question_id": 39,
+      "question": "What is Welfare State?",
+      "answer": "State works for welfare."
+    },
+    {
+      "question_id": 40,
+      "question": "Which feature supports welfare state?",
+      "answer": "Socialism."
+    },
+    {
+      "question_id": 41,
+      "question": "What is Supremacy of Constitution?",
+      "answer": "Constitution is highest law."
+    },
+    {
+      "question_id": 42,
+      "question": "How is supremacy ensured?",
+      "answer": "By judicial review."
+    },
+    {
+      "question_id": 43,
+      "question": "What is Amendment?",
+      "answer": "Change in Constitution."
+    },
+    {
+      "question_id": 44,
+      "question": "Who can amend Constitution?",
+      "answer": "Parliament."
+    },
+    {
+      "question_id": 45,
+      "question": "Why amendment procedure important?",
+      "answer": "Balances rigidity and flexibility."
+    },
+    {
+      "question_id": 46,
+      "question": "What is Decentralisation?",
+      "answer": "Distribution of power."
+    },
+    {
+      "question_id": 47,
+      "question": "How does federalism ensure decentralisation?",
+      "answer": "By sharing powers."
+    },
+    {
+      "question_id": 48,
+      "question": "What is Cultural Freedom?",
+      "answer": "Freedom to follow culture."
+    },
+    {
+      "question_id": 49,
+      "question": "How is cultural freedom protected?",
+      "answer": "Through secularism."
+    },
+    {
+      "question_id": 50,
+      "question": "What is Equality before Law?",
+      "answer": "Same law for all."
+    },
+    {
+      "question_id": 51,
+      "question": "Why equality important?",
+      "answer": "Prevents discrimination."
+    },
+    {
+      "question_id": 52,
+      "question": "What is Fraternity?",
+      "answer": "Brotherhood among citizens."
+    },
+    {
+      "question_id": 53,
+      "question": "Why fraternity important?",
+      "answer": "Maintains unity."
+    },
+    {
+      "question_id": 54,
+      "question": "What is Dignity of Individual?",
+      "answer": "Self-respect of citizens."
+    },
+    {
+      "question_id": 55,
+      "question": "How is dignity ensured?",
+      "answer": "Through equality."
+    },
+    {
+      "question_id": 56,
+      "question": "What is Economic Justice?",
+      "answer": "Fair distribution of resources."
+    },
+    {
+      "question_id": 57,
+      "question": "Which feature ensures economic justice?",
+      "answer": "Socialism."
+    },
+    {
+      "question_id": 58,
+      "question": "What is Political Justice?",
+      "answer": "Equal political rights."
+    },
+    {
+      "question_id": 59,
+      "question": "Which feature ensures political justice?",
+      "answer": "Democracy."
+    },
+    {
+      "question_id": 60,
+      "question": "What is Legal Justice?",
+      "answer": "Equality before law."
+    },
+    {
+      "question_id": 61,
+      "question": "Why legal justice important?",
+      "answer": "Ensures fairness."
+    },
+    {
+      "question_id": 62,
+      "question": "What is Fundamental Duty?",
+      "answer": "Moral duty of citizens."
+    },
+    {
+      "question_id": 63,
+      "question": "How do duties support Constitution?",
+      "answer": "By responsible citizenship."
+    },
+    {
+      "question_id": 64,
+      "question": "What is Independence of State?",
+      "answer": "Freedom from external control."
+    },
+    {
+      "question_id": 65,
+      "question": "Which feature ensures sovereignty?",
+      "answer": "Sovereign nature."
+    },
+    {
+      "question_id": 66,
+      "question": "Why sovereignty important?",
+      "answer": "Ensures independence."
+    },
+    {
+      "question_id": 67,
+      "question": "What is National Integration?",
+      "answer": "Unity of nation."
+    },
+    {
+      "question_id": 68,
+      "question": "How does Constitution promote integration?",
+      "answer": "Through fraternity."
+    },
+    {
+      "question_id": 69,
+      "question": "What is People’s Participation?",
+      "answer": "Involvement in governance."
+    },
+    {
+      "question_id": 70,
+      "question": "Which feature ensures participation?",
+      "answer": "Democracy."
+    },
+    {
+      "question_id": 71,
+      "question": "Why is Constitution supreme?",
+      "answer": "All laws derive from it."
+    },
+    {
+      "question_id": 72,
+      "question": "What is Constitutional Governance?",
+      "answer": "Governance as per Constitution."
+    },
+    {
+      "question_id": 73,
+      "question": "Why is Constitution stable?",
+      "answer": "Due to rigidity."
+    },
+    {
+      "question_id": 74,
+      "question": "Why is Constitution adaptable?",
+      "answer": "Due to flexibility."
+    },
+    {
+      "question_id": 75,
+      "question": "What is Balance of Powers?",
+      "answer": "No organ dominates."
+    },
+    {
+      "question_id": 76,
+      "question": "Which feature ensures balance?",
+      "answer": "Separation of powers."
+    },
+    {
+      "question_id": 77,
+      "question": "Why is judiciary guardian of Constitution?",
+      "answer": "It protects rights."
+    },
+    {
+      "question_id": 78,
+      "question": "What is importance of features?",
+      "answer": "They define governance."
+    },
+    {
+      "question_id": 79,
+      "question": "How do features protect citizens?",
+      "answer": "By ensuring rights."
+    },
+    {
+      "question_id": 80,
+      "question": "Why are features interrelated?",
+      "answer": "They support each other."
+    },
+    {
+      "question_id": 81,
+      "question": "What lesson does chapter teach?",
+      "answer": "Importance of Constitution."
+    },
+    {
+      "question_id": 82,
+      "question": "Why is this chapter important?",
+      "answer": "It explains Constitution features."
+    },
+    {
+      "question_id": 83,
+      "question": "How does Constitution ensure stability?",
+      "answer": "Through strong features."
+    },
+    {
+      "question_id": 84,
+      "question": "How does Constitution ensure democracy?",
+      "answer": "Through elections."
+    },
+    {
+      "question_id": 85,
+      "question": "What is essence of Constitution?",
+      "answer": "Justice, liberty, equality."
+    },
+    {
+      "question_id": 86,
+      "question": "Why should students study features?",
+      "answer": "To understand democracy."
+    },
+    {
+      "question_id": 87,
+      "question": "How do features strengthen nation?",
+      "answer": "By good governance."
+    },
+    {
+      "question_id": 88,
+      "question": "What is long-term importance?",
+      "answer": "Sustains democracy."
+    }
+  ]
+}

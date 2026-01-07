@@ -1,0 +1,1372 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 1",
+    "chapter_number": 6,
+    "chapter_name": "परिश्रम ही पूजा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘परिश्रम ही पूजा’ पाठ का मुख्य विचार क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन का महत्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रम का महत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भाग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आराम",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम का महत्व"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाठ के अनुसार पूजा किसे माना गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन को",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रम को",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आराम को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाग्य को",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम को"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "परिश्रम करने वाला व्यक्ति कैसा होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलसी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सफल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लापरवाह",
+          "is_correct": false
+        }
+      ],
+      "answer": "सफल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम को किससे जोड़ा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूजा से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाग्य से",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूजा से"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "परिश्रम से क्या प्राप्त होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "असफलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सम्मान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "सम्मान"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाठ का उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिक शिक्षा देना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर पैदा करना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलोचना",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक शिक्षा देना"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "परिश्रम से व्यक्ति में कौन-सा गुण बढ़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम को किसके समान बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूजा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बोझ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूजा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "परिश्रम का जीवन में क्या स्थान है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनावश्यक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अत्यंत महत्वपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हानिकारक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गौण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अत्यंत महत्वपूर्ण"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "परिश्रम से समाज को क्या लाभ होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रगति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगति"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पाठ में आलस्य को क्यों बुरा बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यह असफलता लाता है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "यह सुख देता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यह सरल है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "यह लाभ देता है",
+          "is_correct": false
+        }
+      ],
+      "answer": "यह असफलता लाता है"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "परिश्रम किसे आगे बढ़ाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यक्ति को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध को",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यक्ति को"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "परिश्रम का फल कैसा होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मीठा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कड़वा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानिकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "मीठा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम का संदेश किसके लिए है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सभी के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बच्चों के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल बड़ों के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी के लिए"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "परिश्रम से कौन-सा दोष दूर होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आलस्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सम्मान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सफलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आलस्य"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "परिश्रम का समाज पर क्या प्रभाव पड़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सकारात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हानिकारक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "सकारात्मक"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम का उदाहरण किससे दिया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "किसान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सैनिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "किसान"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "परिश्रम से व्यक्ति क्या बनता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मनिर्भर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलसी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लापरवाह",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मनिर्भर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "परिश्रम का संबंध किससे है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरंतर प्रयास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भाग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलस्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरंतर प्रयास"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पाठ का भाव कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेरणादायक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नकारात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "परिश्रम से जीवन कैसा बनता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सार्थक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "सार्थक"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम क्यों आवश्यक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उन्नति के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "उन्नति के लिए"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "परिश्रम करने से कौन-सा गुण विकसित होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "परिश्रम का महत्व कब समझ आता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठिन समय में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आराम में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नींद में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजन में",
+          "is_correct": false
+        }
+      ],
+      "answer": "कठिन समय में"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम किसका आधार है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सफल जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नुकसान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सफल जीवन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "परिश्रम से क्या नहीं मिलता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सम्मान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सफलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आत्मसंतोष",
+          "is_correct": false
+        }
+      ],
+      "answer": "डर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम को किस दृष्टि से देखा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पवित्र कर्म",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बोझ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "पवित्र कर्म"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "परिश्रम का जीवन में क्या प्रभाव पड़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सकारात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हानिकारक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "सकारात्मक"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "परिश्रम से व्यक्ति का चरित्र कैसा बनता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मजबूत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कमजोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "मजबूत"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पाठ का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परिश्रम ही पूजा है",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भाग्य सर्वोपरि है",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरना चाहिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आराम जरूरी है",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम ही पूजा है"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "परिश्रम का महत्व समाज के लिए क्यों है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रगति लाने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर बढ़ाने के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगति लाने के लिए"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम को किससे श्रेष्ठ बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाग्य से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग से",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाग्य से"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "परिश्रम से व्यक्ति में क्या बढ़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मबल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मबल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पाठ में आलस्य का परिणाम क्या बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "असफलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सफलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सम्मान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लाभ",
+          "is_correct": false
+        }
+      ],
+      "answer": "असफलता"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "परिश्रम का जीवन में क्या लाभ है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मसंतोष",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मसंतोष"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "परिश्रम से कौन-सा मूल्य जुड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुशासन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुशासन"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "पाठ में परिश्रम किसे प्रेरित करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सही मार्ग पर चलने को",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरने को",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य को",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध को",
+          "is_correct": false
+        }
+      ],
+      "answer": "सही मार्ग पर चलने को"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "परिश्रम करने वाला व्यक्ति समाज में कैसा माना जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सम्मानित",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उपेक्षित",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलसी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सम्मानित"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "परिश्रम से व्यक्ति का भविष्य कैसा बनता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उज्ज्वल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अंधकारमय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनिश्चित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डरावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "उज्ज्वल"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पाठ हमें क्या बनने की प्रेरणा देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेहनती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आलसी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरपोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लापरवाह",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेहनती"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘परिश्रम ही पूजा’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "परिश्रम को ही सच्ची पूजा माना गया है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "पाठ में पूजा किसे कहा गया है?",
+      "answer": "परिश्रम को।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "परिश्रम क्यों आवश्यक है?",
+      "answer": "सफल जीवन के लिए।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "पाठ में आलस्य को क्यों बुरा बताया गया है?",
+      "answer": "क्योंकि यह असफलता लाता है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "परिश्रम से व्यक्ति क्या बनता है?",
+      "answer": "आत्मनिर्भर और सफल।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "परिश्रम का जीवन में क्या स्थान है?",
+      "answer": "अत्यंत महत्वपूर्ण।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम को किससे जोड़ा गया है?",
+      "answer": "पूजा से।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "परिश्रम से कौन-सा गुण बढ़ता है?",
+      "answer": "आत्मविश्वास।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का उदाहरण किससे दिया गया है?",
+      "answer": "किसान से।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "परिश्रम का फल कैसा बताया गया है?",
+      "answer": "मीठा।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "परिश्रम से समाज को क्या लाभ होता है?",
+      "answer": "समग्र प्रगति।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाठ का उद्देश्य क्या है?",
+      "answer": "नैतिक शिक्षा देना।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "परिश्रम से कौन-सा दोष दूर होता है?",
+      "answer": "आलस्य।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम को किस दृष्टि से देखा गया है?",
+      "answer": "पवित्र कर्म के रूप में।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "परिश्रम का समाज पर क्या प्रभाव पड़ता है?",
+      "answer": "सकारात्मक।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "परिश्रम से व्यक्ति का चरित्र कैसा बनता है?",
+      "answer": "मजबूत।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पाठ में आलस्य का परिणाम क्या बताया गया है?",
+      "answer": "असफलता।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "परिश्रम का महत्व कब समझ आता है?",
+      "answer": "कठिन समय में।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "परिश्रम से व्यक्ति में क्या विकसित होता है?",
+      "answer": "धैर्य।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठ का भाव कैसा है?",
+      "answer": "प्रेरणादायक।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "परिश्रम से जीवन कैसे बदलता है?",
+      "answer": "सार्थक बनता है।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम को क्यों पूजा कहा गया है?",
+      "answer": "क्योंकि यह जीवन को सफल बनाता है।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "परिश्रम से कौन-सा मूल्य जुड़ा है?",
+      "answer": "अनुशासन।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का संदेश किसके लिए है?",
+      "answer": "सभी के लिए।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "परिश्रम से व्यक्ति को क्या सम्मान मिलता है?",
+      "answer": "समाज में प्रतिष्ठा।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का महत्व कैसे समझाया गया है?",
+      "answer": "उदाहरणों द्वारा।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "परिश्रम से कौन-सा डर दूर होता है?",
+      "answer": "असफलता का डर।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का जीवन पर क्या प्रभाव है?",
+      "answer": "सकारात्मक।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "परिश्रम से व्यक्ति का भविष्य कैसा बनता है?",
+      "answer": "उज्ज्वल।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठ हमें क्या बनने की प्रेरणा देता है?",
+      "answer": "मेहनती व्यक्ति।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "परिश्रम का महत्व छात्रों के लिए क्यों है?",
+      "answer": "भविष्य निर्माण के लिए।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का संबंध किससे बताया गया है?",
+      "answer": "निरंतर प्रयास से।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "परिश्रम से व्यक्ति में कौन-सा गुण नहीं बढ़ता?",
+      "answer": "आलस्य।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम को क्यों श्रेष्ठ बताया गया है?",
+      "answer": "क्योंकि यह सफलता देता है।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "परिश्रम से व्यक्ति का आत्मबल कैसे बढ़ता है?",
+      "answer": "सफल अनुभवों से।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पाठ में परिश्रम का सामाजिक महत्व क्या है?",
+      "answer": "समाज को आगे बढ़ाना।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "परिश्रम का जीवन में क्या लाभ है?",
+      "answer": "आत्मसंतोष।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पाठ का मुख्य विचार एक वाक्य में लिखिए।",
+      "answer": "परिश्रम ही सच्ची पूजा है।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "परिश्रम से कौन-सी आदत विकसित होती है?",
+      "answer": "अनुशासन की आदत।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "‘परिश्रम ही पूजा’ पाठ से हमें क्या सीख मिलती है?",
+      "answer": "मेहनत को महत्व देना।"
+    }
+  ]
+}

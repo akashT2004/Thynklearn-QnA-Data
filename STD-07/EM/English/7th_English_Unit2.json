@@ -1,0 +1,1451 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.English.Unit2",
+    "standard": "7",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Unit 2 \u2013 From a Railway Carriage to Great Scientists"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the poet of 'From a Railway Carriage'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "R. L. Stevenson",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Emily Bront\u00eb",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Langston Hughes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Robert Frost",
+          "is_correct": false
+        }
+      ],
+      "answer": "R. L. Stevenson"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What moves 'faster than fairies' in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Train",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "River",
+          "is_correct": false
+        }
+      ],
+      "answer": "Train"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which sense is most used in 'From a Railway Carriage'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hearing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Smell",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sight",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Touch",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sight"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What flies past the window 'as thick as driving rain'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Houses and bridges",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "People",
+          "is_correct": false
+        }
+      ],
+      "answer": "Houses and bridges"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does the rhythm of the poem resemble?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Heartbeat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Train movement",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Rainfall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Train movement"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who is the main character in 'The Souvenir'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neha",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sayali",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rima",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malti",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sayali"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Where does Sayali travel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moon",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Space station",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jupiter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moon"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the gravitational force of the moon compared to Earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Half",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "One-sixth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Double",
+          "is_correct": false
+        }
+      ],
+      "answer": "One-sixth"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What shape are the moon settlements?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cylindrical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dome-shaped",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cube-shaped",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pyramid-shaped",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dome-shaped"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who is the base named after on the moon?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kalpana Chawla",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neil Armstrong",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Buzz Aldrin",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Yuri Gagarin",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which poem celebrates rain and new life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Brook",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tartary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "In Time of Silver Rain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "The Past",
+          "is_correct": false
+        }
+      ],
+      "answer": "In Time of Silver Rain"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What colour is associated with rain in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Silver",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Grey",
+          "is_correct": false
+        }
+      ],
+      "answer": "Silver"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What lifts silken wings in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Butterflies",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Leaves",
+          "is_correct": false
+        }
+      ],
+      "answer": "Butterflies"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What season is described in 'In Time of Silver Rain'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spring",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Autumn",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Summer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spring"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What spreads over the plain after rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Darkness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wonder of life",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cold",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wonder of life"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What type of text is 'Learn Yoga from Animals'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poem",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Story",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Informational",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Drama",
+          "is_correct": false
+        }
+      ],
+      "answer": "Informational"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which quality is emphasized through yoga?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Balance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Balance"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Yoga from animals mainly teaches:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strength only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flexibility and discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Speed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Competition",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flexibility and discipline"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Animals are used as examples because they:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Are strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Live naturally",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Are trained",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Are wild",
+          "is_correct": false
+        }
+      ],
+      "answer": "Live naturally"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Yoga helps in improving:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only health",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Only mind",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mind and body",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only strength",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mind and body"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is described in 'Great Scientists'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Athletes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Inventors",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Scientists",
+          "is_correct": true
+        }
+      ],
+      "answer": "Scientists"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Scientists are remembered for their:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Discoveries",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fame",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discoveries"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Scientific discoveries help humanity by:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Creating fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Solving problems",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Causing wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Entertainment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Solving problems"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Great scientists are usually:",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Arrogant",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which quality is essential for a scientist?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pride",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which literary device uses repetition of sounds?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Metaphor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Simile",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Alliteration",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Personification",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alliteration"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which poem in Unit 2 focuses on speed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "The Souvenir",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "From a Railway Carriage",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Great Scientists",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silver Rain",
+          "is_correct": false
+        }
+      ],
+      "answer": "From a Railway Carriage"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which poem describes nature after rain?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tartary",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Silver Rain",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Brook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Past",
+          "is_correct": false
+        }
+      ],
+      "answer": "Silver Rain"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which unit includes space travel?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unit 1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Unit 2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Unit 3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Unit 4",
+          "is_correct": false
+        }
+      ],
+      "answer": "Unit 2"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does Unit 2 mainly focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature, travel and science",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Myths",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fantasy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature, travel and science"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "What feeling does the train journey create in the poem?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "Why do the sights appear to fly past?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "What role does rhythm play in the poem?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "Name two things seen from the train window.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "How does the poem show movement?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "Why is Sayali amazed by the moon view?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "What makes space travel different from Earth travel?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "Why are instructions important on the moon?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "What is meant by artificial gravity?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "Why should souvenirs be bought from authorised shops?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "How does rain bring new life?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "Why are butterflies mentioned in the poem?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "What mood is created by the silver rain?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "How does nature respond to rain?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What does the poem suggest about renewal?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why are animals good teachers of yoga?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What values does yoga teach?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "How does yoga help students?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why is discipline important in life?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "How does observation help learning?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why are scientists important to society?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What qualities make a great scientist?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How does curiosity lead to discovery?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why is hard work important in science?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How do discoveries change daily life?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is the theme of Unit 2?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How is imagination used in Unit 2?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What role does nature play in the unit?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How is science shown as exciting?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What lesson does space travel teach?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why is observation important in poetry?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How does poetry describe speed?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is the importance of rhythm?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How does literature inspire curiosity?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is discipline needed for success?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does yoga improve concentration?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is rain important for life?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does the moon teach us about Earth?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why should rules be followed in new places?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How does travel change perspective?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why are poems effective in description?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the importance of imagination?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How do scientists solve problems?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why is patience important in learning?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How does nature influence humans?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why is health important for students?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How does Unit 2 encourage learning?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why should students respect science?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How does poetry make learning enjoyable?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What message does Unit 2 give students?",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 51.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 52.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 53.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 54.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 55.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 56.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 57.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 58.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 59.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 60.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 61.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 62.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 63.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 64.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 65.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 66.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 67.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 68.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 69.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 70.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 71.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 72.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 73.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 74.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 75.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 76.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 77.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 78.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 79.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 80.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 81.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 82.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 83.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 84.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 85.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 86.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 87.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 88.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 89.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 90.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 91.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 92.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 93.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 94.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 95.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 96.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 97.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 98.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 99.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "Explain the idea related to Unit 2 topic number 100.",
+      "answer": "This answer is based on the concepts and lessons explained in Unit 2 of the textbook."
+    }
+  ]
+}

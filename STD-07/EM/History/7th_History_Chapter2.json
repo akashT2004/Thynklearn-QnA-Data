@@ -1,0 +1,927 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 2,
+  "chapter_name": "India before the times of Shivaji Maharaj",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Which period is referred to as 'before the times of Shivaji Maharaj'?",
+      "options": [
+        "Ancient period",
+        "Early medieval period",
+        "Modern period",
+        "Prehistoric period"
+      ],
+      "answer": "Early medieval period"
+    },
+    {
+      "question_id": 2,
+      "question": "Who ruled most of northern India before Shivaji Maharaj?",
+      "options": [
+        "Marathas",
+        "Mughals",
+        "Portuguese",
+        "French"
+      ],
+      "answer": "Mughals"
+    },
+    {
+      "question_id": 3,
+      "question": "Who was the Mughal emperor during Shivaji Maharaj’s early life?",
+      "options": [
+        "Babur",
+        "Akbar",
+        "Aurangzeb",
+        "Humayun"
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 4,
+      "question": "Which dynasty ruled in the Deccan region before Shivaji Maharaj?",
+      "options": [
+        "Guptas",
+        "Bahmani",
+        "Maurya",
+        "Kushan"
+      ],
+      "answer": "Bahmani"
+    },
+    {
+      "question_id": 5,
+      "question": "After the Bahmani kingdom, the Deccan was divided into how many sultanates?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "answer": "Five"
+    },
+    {
+      "question_id": 6,
+      "question": "Which of the following was NOT a Deccan Sultanate?",
+      "options": [
+        "Bijapur",
+        "Golconda",
+        "Ahmednagar",
+        "Delhi"
+      ],
+      "answer": "Delhi"
+    },
+    {
+      "question_id": 7,
+      "question": "The Ahmadnagar Sultanate was founded by?",
+      "options": [
+        "Malik Ambar",
+        "Ahmad Nizam Shah",
+        "Ibrahim Adil Shah",
+        "Quli Qutb Shah"
+      ],
+      "answer": "Ahmad Nizam Shah"
+    },
+    {
+      "question_id": 8,
+      "question": "Who was a powerful administrator of Ahmadnagar?",
+      "options": [
+        "Rana Pratap",
+        "Malik Ambar",
+        "Todar Mal",
+        "Birbal"
+      ],
+      "answer": "Malik Ambar"
+    },
+    {
+      "question_id": 9,
+      "question": "Which system of land revenue was introduced by Malik Ambar?",
+      "options": [
+        "Zabt system",
+        "Ryotwari system",
+        "Revenue measurement system",
+        "Jagirdari system"
+      ],
+      "answer": "Revenue measurement system"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Sultanate had its capital at Bijapur?",
+      "options": [
+        "Ahmednagar",
+        "Golconda",
+        "Bijapur",
+        "Berar"
+      ],
+      "answer": "Bijapur"
+    },
+    {
+      "question_id": 11,
+      "question": "Which European power first came to India before Shivaji Maharaj?",
+      "options": [
+        "British",
+        "Dutch",
+        "Portuguese",
+        "French"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "question_id": 12,
+      "question": "The Portuguese captured Goa in which year?",
+      "options": [
+        "1498",
+        "1500",
+        "1510",
+        "1526"
+      ],
+      "answer": "1510"
+    },
+    {
+      "question_id": 13,
+      "question": "Who discovered the sea route to India?",
+      "options": [
+        "Columbus",
+        "Vasco da Gama",
+        "Magellan",
+        "Cook"
+      ],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "question_id": 14,
+      "question": "Which Mughal emperor followed a policy of religious tolerance?",
+      "options": [
+        "Babur",
+        "Akbar",
+        "Aurangzeb",
+        "Jahangir"
+      ],
+      "answer": "Akbar"
+    },
+    {
+      "question_id": 15,
+      "question": "The Mughal administrative system was based on?",
+      "options": [
+        "Village autonomy",
+        "Centralized administration",
+        "Tribal rule",
+        "Democracy"
+      ],
+      "answer": "Centralized administration"
+    },
+    {
+      "question_id": 16,
+      "question": "What was the Mansabdari system related to?",
+      "options": [
+        "Trade",
+        "Military and administration",
+        "Religion",
+        "Education"
+      ],
+      "answer": "Military and administration"
+    },
+    {
+      "question_id": 17,
+      "question": "Which tax was imposed on non-Muslims by Aurangzeb?",
+      "options": [
+        "Zakat",
+        "Jizya",
+        "Land tax",
+        "Customs duty"
+      ],
+      "answer": "Jizya"
+    },
+    {
+      "question_id": 18,
+      "question": "Which fort was an important centre of power in the Deccan?",
+      "options": [
+        "Agra Fort",
+        "Red Fort",
+        "Daulatabad Fort",
+        "Fatehpur Sikri"
+      ],
+      "answer": "Daulatabad Fort"
+    },
+    {
+      "question_id": 19,
+      "question": "Which crop was widely cultivated during this period?",
+      "options": [
+        "Tea",
+        "Cotton",
+        "Coffee",
+        "Rubber"
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question_id": 20,
+      "question": "The economy before Shivaji Maharaj was mainly based on?",
+      "options": [
+        "Industry",
+        "Agriculture",
+        "Mining",
+        "Trade only"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question_id": 21,
+      "question": "Who were jagirdars?",
+      "options": [
+        "Village heads",
+        "Revenue collectors",
+        "Land grant holders",
+        "Priests"
+      ],
+      "answer": "Land grant holders"
+    },
+    {
+      "question_id": 22,
+      "question": "Which language was mainly used in administration of the Mughals?",
+      "options": [
+        "Sanskrit",
+        "Persian",
+        "Arabic",
+        "Hindi"
+      ],
+      "answer": "Persian"
+    },
+    {
+      "question_id": 23,
+      "question": "Which city was the capital of the Mughal Empire?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Fatehpur Sikri",
+        "All of these"
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 24,
+      "question": "Who controlled trade on the western coast of India?",
+      "options": [
+        "British",
+        "French",
+        "Portuguese",
+        "Dutch"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "question_id": 25,
+      "question": "Which Deccan Sultanate was famous for diamond trade?",
+      "options": [
+        "Bijapur",
+        "Golconda",
+        "Ahmednagar",
+        "Berar"
+      ],
+      "answer": "Golconda"
+    },
+    {
+      "question_id": 26,
+      "question": "Which Mughal emperor built Fatehpur Sikri?",
+      "options": [
+        "Babur",
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan"
+      ],
+      "answer": "Akbar"
+    },
+    {
+      "question_id": 27,
+      "question": "Who was the founder of the Mughal Empire in India?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Humayun",
+        "Aurangzeb"
+      ],
+      "answer": "Babur"
+    },
+    {
+      "question_id": 28,
+      "question": "Which religion was followed by most of the population?",
+      "options": [
+        "Islam",
+        "Christianity",
+        "Hinduism",
+        "Buddhism"
+      ],
+      "answer": "Hinduism"
+    },
+    {
+      "question_id": 29,
+      "question": "Which system gave land revenue rights in return for military service?",
+      "options": [
+        "Ryotwari",
+        "Zamindari",
+        "Jagirdari",
+        "Mansabdari"
+      ],
+      "answer": "Jagirdari"
+    },
+    {
+      "question_id": 30,
+      "question": "Which port was controlled by the Portuguese on the west coast?",
+      "options": [
+        "Surat",
+        "Goa",
+        "Mumbai",
+        "Calicut"
+      ],
+      "answer": "Goa"
+    },
+    {
+      "question_id": 31,
+      "question": "Who was Shivaji Maharaj’s father?",
+      "options": [
+        "Shahaji Raje",
+        "Sambhaji",
+        "Baji Rao",
+        "Malik Ambar"
+      ],
+      "answer": "Shahaji Raje"
+    },
+    {
+      "question_id": 32,
+      "question": "Shivaji Maharaj was born in which year?",
+      "options": [
+        "1627",
+        "1630",
+        "1635",
+        "1640"
+      ],
+      "answer": "1630"
+    },
+    {
+      "question_id": 33,
+      "question": "Before Shivaji Maharaj, the Maratha region was under?",
+      "options": [
+        "British rule",
+        "Mughal and Deccan Sultanates",
+        "French rule",
+        "Portuguese rule"
+      ],
+      "answer": "Mughal and Deccan Sultanates"
+    },
+    {
+      "question_id": 34,
+      "question": "Which tax was collected from farmers?",
+      "options": [
+        "Customs duty",
+        "Land revenue",
+        "Jizya",
+        "Octroi"
+      ],
+      "answer": "Land revenue"
+    },
+    {
+      "question_id": 35,
+      "question": "Who maintained law and order in villages?",
+      "options": [
+        "Deshmukh",
+        "Patil",
+        "Kotwal",
+        "Mansabdar"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 36,
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "answer": "Shah Jahan"
+    },
+    {
+      "question_id": 37,
+      "question": "Which was a major centre of learning in medieval India?",
+      "options": [
+        "Nalanda",
+        "Takshashila",
+        "Banaras",
+        "Ujjain"
+      ],
+      "answer": "Banaras"
+    },
+    {
+      "question_id": 38,
+      "question": "Who collected revenue at the village level?",
+      "options": [
+        "Patil",
+        "Deshmukh",
+        "Mansabdar",
+        "Qazi"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 39,
+      "question": "Which Mughal emperor was known for strict policies?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Aurangzeb",
+        "Shah Jahan"
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 40,
+      "question": "Which European power came after the Portuguese?",
+      "options": [
+        "French",
+        "British",
+        "Dutch",
+        "Spanish"
+      ],
+      "answer": "Dutch"
+    },
+    {
+      "question_id": 41,
+      "question": "What was the main occupation of people?",
+      "options": [
+        "Trade",
+        "Agriculture",
+        "Crafts",
+        "Fishing"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question_id": 42,
+      "question": "Which region is called the Deccan?",
+      "options": [
+        "Northern plains",
+        "Southern plateau",
+        "Western coast",
+        "Eastern coast"
+      ],
+      "answer": "Southern plateau"
+    },
+    {
+      "question_id": 43,
+      "question": "Which sultanate was ruled by Adil Shahi dynasty?",
+      "options": [
+        "Bijapur",
+        "Ahmednagar",
+        "Golconda",
+        "Berar"
+      ],
+      "answer": "Bijapur"
+    },
+    {
+      "question_id": 44,
+      "question": "Who was responsible for justice in villages?",
+      "options": [
+        "Qazi",
+        "Patil",
+        "Kotwal",
+        "Mansabdar"
+      ],
+      "answer": "Patil"
+    },
+    {
+      "question_id": 45,
+      "question": "Which Mughal emperor expanded the empire the most?",
+      "options": [
+        "Babur",
+        "Akbar",
+        "Aurangzeb",
+        "Jahangir"
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 46,
+      "question": "Before Shivaji Maharaj, India was politically?",
+      "options": [
+        "United",
+        "Democratic",
+        "Divided",
+        "Independent"
+      ],
+      "answer": "Divided"
+    },
+    {
+      "question_id": 47,
+      "question": "Which factor weakened Indian rulers before Shivaji Maharaj?",
+      "options": [
+        "Unity",
+        "Internal conflicts",
+        "Strong economy",
+        "Stable rule"
+      ],
+      "answer": "Internal conflicts"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "What period does this chapter describe?",
+      "answer": "It describes India in the early medieval period before Shivaji Maharaj."
+    },
+    {
+      "question_id": 2,
+      "question": "Who were the main rulers of northern India before Shivaji Maharaj?",
+      "answer": "The Mughals were the main rulers of northern India."
+    },
+    {
+      "question_id": 3,
+      "question": "Name the Mughal emperor during Shivaji Maharaj’s childhood.",
+      "answer": "Aurangzeb was the Mughal emperor during Shivaji Maharaj’s childhood."
+    },
+    {
+      "question_id": 4,
+      "question": "Which region is known as the Deccan?",
+      "answer": "The southern plateau region of India is called the Deccan."
+    },
+    {
+      "question_id": 5,
+      "question": "Which dynasty ruled the Deccan before it split into sultanates?",
+      "answer": "The Bahmani dynasty ruled the Deccan."
+    },
+    {
+      "question_id": 6,
+      "question": "Name any two Deccan Sultanates.",
+      "answer": "Ahmednagar and Bijapur were two Deccan Sultanates."
+    },
+    {
+      "question_id": 7,
+      "question": "Who founded the Ahmadnagar Sultanate?",
+      "answer": "Ahmad Nizam Shah founded the Ahmadnagar Sultanate."
+    },
+    {
+      "question_id": 8,
+      "question": "Who was Malik Ambar?",
+      "answer": "Malik Ambar was a powerful administrator of Ahmadnagar."
+    },
+    {
+      "question_id": 9,
+      "question": "What was Malik Ambar famous for?",
+      "answer": "He was famous for his efficient land revenue system."
+    },
+    {
+      "question_id": 10,
+      "question": "Which European power came first to India?",
+      "answer": "The Portuguese were the first European power to come to India."
+    },
+    {
+      "question_id": 11,
+      "question": "Who discovered the sea route to India?",
+      "answer": "Vasco da Gama discovered the sea route to India."
+    },
+    {
+      "question_id": 12,
+      "question": "Which port was captured by the Portuguese in 1510?",
+      "answer": "Goa was captured by the Portuguese in 1510."
+    },
+    {
+      "question_id": 13,
+      "question": "What was the main occupation of people?",
+      "answer": "Agriculture was the main occupation of people."
+    },
+    {
+      "question_id": 14,
+      "question": "Which crops were mainly grown?",
+      "answer": "Crops like cotton, rice and millets were grown."
+    },
+    {
+      "question_id": 15,
+      "question": "What was the main source of income for the state?",
+      "answer": "Land revenue was the main source of income."
+    },
+    {
+      "question_id": 16,
+      "question": "What was the Jagirdari system?",
+      "answer": "It was a system of granting land in return for services."
+    },
+    {
+      "question_id": 17,
+      "question": "Who were jagirdars?",
+      "answer": "Jagirdars were holders of jagirs who collected revenue."
+    },
+    {
+      "question_id": 18,
+      "question": "What was the Mansabdari system?",
+      "answer": "It was a system related to military and administration."
+    },
+    {
+      "question_id": 19,
+      "question": "Which language was used for Mughal administration?",
+      "answer": "Persian was used for administration."
+    },
+    {
+      "question_id": 20,
+      "question": "Who followed a policy of religious tolerance?",
+      "answer": "Akbar followed a policy of religious tolerance."
+    },
+    {
+      "question_id": 21,
+      "question": "Which tax was reimposed by Aurangzeb?",
+      "answer": "Jizya tax was reimposed by Aurangzeb."
+    },
+    {
+      "question_id": 22,
+      "question": "What was the role of the Patil?",
+      "answer": "The Patil maintained law and order in the village."
+    },
+    {
+      "question_id": 23,
+      "question": "Who collected revenue at village level?",
+      "answer": "The Patil collected revenue at village level."
+    },
+    {
+      "question_id": 24,
+      "question": "What was the role of Deshmukh?",
+      "answer": "Deshmukh supervised revenue collection over many villages."
+    },
+    {
+      "question_id": 25,
+      "question": "Which fort was important in the Deccan?",
+      "answer": "Daulatabad Fort was an important fort in the Deccan."
+    },
+    {
+      "question_id": 26,
+      "question": "Which sultanate was famous for diamonds?",
+      "answer": "Golconda Sultanate was famous for diamonds."
+    },
+    {
+      "question_id": 27,
+      "question": "Who built Fatehpur Sikri?",
+      "answer": "Akbar built Fatehpur Sikri."
+    },
+    {
+      "question_id": 28,
+      "question": "Who built the Taj Mahal?",
+      "answer": "Shah Jahan built the Taj Mahal."
+    },
+    {
+      "question_id": 29,
+      "question": "Who was Shivaji Maharaj’s father?",
+      "answer": "Shahaji Raje was Shivaji Maharaj’s father."
+    },
+    {
+      "question_id": 30,
+      "question": "In which year was Shivaji Maharaj born?",
+      "answer": "Shivaji Maharaj was born in 1630."
+    },
+    {
+      "question_id": 31,
+      "question": "Under whose rule was the Maratha region?",
+      "answer": "The Maratha region was under Mughal and Deccan Sultanates."
+    },
+    {
+      "question_id": 32,
+      "question": "Why was India politically divided?",
+      "answer": "India was divided due to internal conflicts among rulers."
+    },
+    {
+      "question_id": 33,
+      "question": "What weakened Indian rulers?",
+      "answer": "Lack of unity and internal conflicts weakened rulers."
+    },
+    {
+      "question_id": 34,
+      "question": "What was the condition of farmers?",
+      "answer": "Farmers paid heavy land revenue taxes."
+    },
+    {
+      "question_id": 35,
+      "question": "How was trade conducted?",
+      "answer": "Trade was carried through ports and inland routes."
+    },
+    {
+      "question_id": 36,
+      "question": "Which coast was controlled by the Portuguese?",
+      "answer": "The western coast was controlled by the Portuguese."
+    },
+    {
+      "question_id": 37,
+      "question": "Name one important Mughal capital.",
+      "answer": "Agra was an important Mughal capital."
+    },
+    {
+      "question_id": 38,
+      "question": "What was the role of Qazi?",
+      "answer": "Qazi was responsible for judicial matters."
+    },
+    {
+      "question_id": 39,
+      "question": "Which empire was strongest before Shivaji Maharaj?",
+      "answer": "The Mughal Empire was the strongest."
+    },
+    {
+      "question_id": 40,
+      "question": "Why were forts important?",
+      "answer": "Forts were centres of administration and defence."
+    },
+    {
+      "question_id": 41,
+      "question": "What was the main religion of people?",
+      "answer": "Hinduism was the main religion of people."
+    },
+    {
+      "question_id": 42,
+      "question": "Which system ensured military service?",
+      "answer": "The Mansabdari system ensured military service."
+    },
+    {
+      "question_id": 43,
+      "question": "What was the economic base of the kingdom?",
+      "answer": "Agriculture was the economic base."
+    },
+    {
+      "question_id": 44,
+      "question": "Who controlled diamond trade?",
+      "answer": "Golconda Sultanate controlled diamond trade."
+    },
+    {
+      "question_id": 45,
+      "question": "What role did European powers play?",
+      "answer": "They controlled ports and trade."
+    },
+    {
+      "question_id": 46,
+      "question": "Which European power came after Portuguese?",
+      "answer": "The Dutch came after the Portuguese."
+    },
+    {
+      "question_id": 47,
+      "question": "What was the condition of villages?",
+      "answer": "Villages were self-sufficient but taxed heavily."
+    },
+    {
+      "question_id": 48,
+      "question": "Why was administration centralized?",
+      "answer": "To control a vast empire efficiently."
+    },
+    {
+      "question_id": 49,
+      "question": "What was the impact of Mughal rule?",
+      "answer": "It brought centralized administration and stability."
+    },
+    {
+      "question_id": 50,
+      "question": "How was justice administered?",
+      "answer": "Justice was administered through local officials and qazis."
+    },
+    {
+      "question_id": 51,
+      "question": "What was the role of religion in administration?",
+      "answer": "Religion influenced policies under different rulers."
+    },
+    {
+      "question_id": 52,
+      "question": "Why was Aurangzeb unpopular?",
+      "answer": "Due to his strict religious policies."
+    },
+    {
+      "question_id": 53,
+      "question": "What was the importance of ports?",
+      "answer": "Ports helped in trade and foreign contact."
+    },
+    {
+      "question_id": 54,
+      "question": "How did foreign trade affect India?",
+      "answer": "It increased wealth but led to foreign control."
+    },
+    {
+      "question_id": 55,
+      "question": "Why was the Deccan strategically important?",
+      "answer": "It connected northern and southern India."
+    },
+    {
+      "question_id": 56,
+      "question": "What was the lifestyle of people?",
+      "answer": "People lived simple agrarian lives."
+    },
+    {
+      "question_id": 57,
+      "question": "What type of houses did people live in?",
+      "answer": "People lived in mud and stone houses."
+    },
+    {
+      "question_id": 58,
+      "question": "What was the role of craftsmen?",
+      "answer": "They produced goods for local use and trade."
+    },
+    {
+      "question_id": 59,
+      "question": "Which communities dominated administration?",
+      "answer": "Nobles and mansabdars dominated administration."
+    },
+    {
+      "question_id": 60,
+      "question": "Why was land revenue high?",
+      "answer": "To maintain armies and administration."
+    },
+    {
+      "question_id": 61,
+      "question": "What was the impact of wars?",
+      "answer": "Wars caused economic burden on people."
+    },
+    {
+      "question_id": 62,
+      "question": "Why did people suffer?",
+      "answer": "Due to heavy taxes and conflicts."
+    },
+    {
+      "question_id": 63,
+      "question": "What was the status of women?",
+      "answer": "Women had limited rights in society."
+    },
+    {
+      "question_id": 64,
+      "question": "How was education imparted?",
+      "answer": "Education was imparted through religious institutions."
+    },
+    {
+      "question_id": 65,
+      "question": "What was the role of temples and mosques?",
+      "answer": "They were centres of religion and learning."
+    },
+    {
+      "question_id": 66,
+      "question": "Why was Shivaji Maharaj’s rise important?",
+      "answer": "He challenged existing powers and founded Swarajya."
+    },
+    {
+      "question_id": 67,
+      "question": "What conditions led to Shivaji Maharaj’s rise?",
+      "answer": "Political instability and oppression led to his rise."
+    },
+    {
+      "question_id": 68,
+      "question": "What was the condition of governance?",
+      "answer": "Governance was centralized and often oppressive."
+    },
+    {
+      "question_id": 69,
+      "question": "Why was there dissatisfaction among people?",
+      "answer": "Due to heavy taxation and injustice."
+    },
+    {
+      "question_id": 70,
+      "question": "What lesson does this chapter give?",
+      "answer": "Unity and good governance are essential."
+    },
+    {
+      "question_id": 71,
+      "question": "How does this chapter help us?",
+      "answer": "It explains the background before Shivaji Maharaj."
+    },
+    {
+      "question_id": 72,
+      "question": "Why should we study this period?",
+      "answer": "To understand the conditions that led to Swarajya."
+    },
+    {
+      "question_id": 73,
+      "question": "What was the role of local officers?",
+      "answer": "They maintained law, order and revenue."
+    },
+    {
+      "question_id": 74,
+      "question": "How did administration affect common people?",
+      "answer": "It often burdened them with taxes."
+    },
+    {
+      "question_id": 75,
+      "question": "What was the importance of military?",
+      "answer": "Military protected and expanded kingdoms."
+    },
+    {
+      "question_id": 76,
+      "question": "Why were rebellions common?",
+      "answer": "Due to dissatisfaction and oppression."
+    },
+    {
+      "question_id": 77,
+      "question": "What was the impact of European presence?",
+      "answer": "It changed trade patterns and power balance."
+    },
+    {
+      "question_id": 78,
+      "question": "What was the condition of unity?",
+      "answer": "There was lack of unity among Indian rulers."
+    },
+    {
+      "question_id": 79,
+      "question": "How did internal conflicts harm India?",
+      "answer": "They made India weak and vulnerable."
+    },
+    {
+      "question_id": 80,
+      "question": "What is the significance of this chapter?",
+      "answer": "It sets the stage for Shivaji Maharaj’s work."
+    }
+  ]
+}

@@ -1,0 +1,1697 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.English.01",
+    "standard": "7",
+    "subject": "Geography",
+    "medium": "English",
+    "chapter_name": "How Seasons Occur \u2013 Part 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which movement of the Earth causes day and night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rotation"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How much time does Earth take to complete one rotation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "24 hours",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "30 days",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "365 days",
+          "is_correct": false
+        }
+      ],
+      "answer": "24 hours"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What is the imaginary line joining the North and South Poles called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Orbit",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Latitude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Axis"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which motion of Earth causes seasons?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Revolution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wind movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cloud formation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Revolution"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How long does Earth take to complete one revolution around the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "24 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "180 days",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "365\u00bc days",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "400 days",
+          "is_correct": false
+        }
+      ],
+      "answer": "365\u00bc days"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Meridian",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tropic of Cancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Axis",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equator"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why do different places receive different amounts of heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth is flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sun is small",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Earth is tilted",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cloud cover",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth is tilted"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "On which dates are day and night equal everywhere?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June and 22 December",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "21 March and 23 September",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1 January and 31 December",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "14 April and 14 October",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 March and 23 September"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which hemisphere experiences summer in June?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Southern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Northern",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Western",
+          "is_correct": false
+        }
+      ],
+      "answer": "Northern"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the angle of Earth\u2019s tilt?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "15\u00b0",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "23\u00bd\u00b0",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "45\u00b0",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "90\u00b0",
+          "is_correct": false
+        }
+      ],
+      "answer": "23\u00bd\u00b0"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which hemisphere experiences winter in December?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Northern",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Southern",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Both",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neither",
+          "is_correct": false
+        }
+      ],
+      "answer": "Northern"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What happens when a place on Earth moves away from the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunrise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sunset",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Noon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sunset"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which motion of Earth helps us calculate years?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Revolution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shadow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Revolution"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which part of Earth receives vertical rays of the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Poles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Temperate zone",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Arctic circle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equator"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What causes variation in the length of day and night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth\u2019s tilt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rainfall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth\u2019s tilt"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which date marks the longest day in the Northern Hemisphere?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "21 June",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "23 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "22 December",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 June"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which date marks the shortest day in the Northern Hemisphere?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 December",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "23 September",
+          "is_correct": false
+        }
+      ],
+      "answer": "22 December"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What do we call the spinning movement of Earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oscillation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Circulation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rotation"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What do we call the path along which Earth moves around the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Axis",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ellipse",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Orbit",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Latitude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Orbit"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why do seasons change gradually?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fast rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sudden tilt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Slow revolution",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cloud movement",
+          "is_correct": false
+        }
+      ],
+      "answer": "Slow revolution"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which zone receives maximum heat from the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Frigid zone",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Temperate zone",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Torrid zone",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Polar zone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Torrid zone"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What happens at the North Pole during summer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Continuous night",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Continuous daylight",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equal day and night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No sunlight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Continuous daylight"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What is the main cause of seasons?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Distance from Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth\u2019s tilt and revolution",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rotation only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Moon\u2019s gravity",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth\u2019s tilt and revolution"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which movement causes sunrise and sunset?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tilting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rotation"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which factor decides the duration of daylight?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Longitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Latitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Altitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Depth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Latitude"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which hemisphere is India located in?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Southern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Northern",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Western",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eastern",
+          "is_correct": false
+        }
+      ],
+      "answer": "Northern"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which line passes through Greenwich?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Prime Meridian",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Axis",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tropic",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prime Meridian"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why does the Sun appear to move from east to west?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth\u2019s revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth\u2019s rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sun\u2019s movement",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Moon\u2019s movement",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth\u2019s rotation"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which season occurs when a hemisphere is tilted towards the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Summer",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Summer"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which season occurs when a hemisphere is tilted away from the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Winter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Spring",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Monsoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Winter"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is equinox?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Longest day",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shortest day",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Equal day and night",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "No sunlight",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equal day and night"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "How many equinoxes occur in a year?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Two"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which zone lies between the torrid and frigid zones?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Polar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Temperate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Subtropical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Temperate"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What is the shape of Earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cubical",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spherical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cylindrical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spherical"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which season occurs around 21 March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spring",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Autumn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spring"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which season occurs around 23 September?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Monsoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Autumn"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Why do polar regions receive less heat?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Closer to Sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Slanting rays",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cloud cover",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "High altitude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Slanting rays"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which hemisphere experiences opposite seasons to the Northern Hemisphere?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Southern",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Polar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Southern"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What causes differences in temperature on Earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sun\u2019s size",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Angle of Sun\u2019s rays",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Moon\u2019s distance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wind speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Angle of Sun\u2019s rays"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which motion of Earth is responsible for time difference?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tilting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rotation"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which imaginary line helps measure latitude?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Prime Meridian",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Axis",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equator"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the duration of one complete day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "18 hours",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "24 hours",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "36 hours",
+          "is_correct": false
+        }
+      ],
+      "answer": "24 hours"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which zone lies near the poles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Torrid",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Temperate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Frigid",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Equatorial",
+          "is_correct": false
+        }
+      ],
+      "answer": "Frigid"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What happens to shadows at noon?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Longest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shortest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Change colour",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shortest"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which factor mainly controls seasons?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rainfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tilt of Earth",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ocean currents",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tilt of Earth"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which part of Earth has six months day and six months night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tropics",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Poles",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Temperate zone",
+          "is_correct": false
+        }
+      ],
+      "answer": "Poles"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Why does Earth not fall into the Sun?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Magnetism",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gravity balance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rotation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clouds",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gravity balance"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which season has equal day and night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Spring and Autumn",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Monsoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spring and Autumn"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is Earth\u2019s rotation?",
+      "answer": "Earth\u2019s rotation is the spinning of the Earth on its own axis."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What is Earth\u2019s revolution?",
+      "answer": "Earth\u2019s revolution is its movement around the Sun in a fixed path."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why does day occur?",
+      "answer": "Day occurs when a place on Earth faces the Sun."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why does night occur?",
+      "answer": "Night occurs when a place on Earth turns away from the Sun."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is the axis of the Earth?",
+      "answer": "The axis is an imaginary line joining the North and South Poles."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why do seasons change?",
+      "answer": "Seasons change due to Earth\u2019s tilt and revolution around the Sun."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is an equinox?",
+      "answer": "An equinox is a day when day and night are equal."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a solstice?",
+      "answer": "A solstice is the day with the longest or shortest daylight."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why do poles experience long days and nights?",
+      "answer": "Because of Earth\u2019s tilt and its revolution."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the torrid zone?",
+      "answer": "The torrid zone is the hottest region near the Equator."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why are temperate zones moderate in climate?",
+      "answer": "They receive slanting rays of the Sun."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why are frigid zones very cold?",
+      "answer": "They receive very slanting rays of the Sun."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What happens during summer?",
+      "answer": "The hemisphere tilted towards the Sun experiences summer."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What happens during winter?",
+      "answer": "The hemisphere tilted away from the Sun experiences winter."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why do shadows change length?",
+      "answer": "Because the angle of the Sun\u2019s rays changes."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is the importance of Earth\u2019s tilt?",
+      "answer": "It is responsible for seasons and unequal days."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is the Equator hotter than the poles?",
+      "answer": "Because it receives direct sunlight."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is the duration of one year?",
+      "answer": "One year is the time Earth takes to revolve around the Sun."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why do days and nights vary with seasons?",
+      "answer": "Due to Earth\u2019s tilted axis."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What causes sunrise?",
+      "answer": "Earth\u2019s rotation causes sunrise."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What causes sunset?",
+      "answer": "Sunset occurs when a place moves away from the Sun."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why does India experience different seasons?",
+      "answer": "Because of Earth\u2019s revolution and tilt."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is latitude?",
+      "answer": "Latitude is the angular distance north or south of the Equator."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why does temperature vary with latitude?",
+      "answer": "Because the angle of Sun\u2019s rays changes."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is the significance of the Prime Meridian?",
+      "answer": "It helps measure longitude."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why do seasons not occur on the Equator?",
+      "answer": "The Equator receives nearly equal sunlight throughout the year."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the Northern Hemisphere?",
+      "answer": "The part of Earth north of the Equator."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is the Southern Hemisphere?",
+      "answer": "The part of Earth south of the Equator."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why do opposite hemispheres have opposite seasons?",
+      "answer": "Because they tilt in opposite directions."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the role of the Sun in seasons?",
+      "answer": "The Sun provides heat and light."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why does Earth rotate from west to east?",
+      "answer": "Due to its natural motion since formation."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What happens during spring?",
+      "answer": "Temperature becomes moderate and days grow longer."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What happens during autumn?",
+      "answer": "Days become shorter and temperature decreases."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why are seasons important?",
+      "answer": "They affect climate, agriculture, and life."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is climate?",
+      "answer": "Climate is the average weather over a long period."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why is Earth suitable for life?",
+      "answer": "Because it has proper heat, water, and atmosphere."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the importance of sunlight?",
+      "answer": "It provides energy for life on Earth."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why do farmers depend on seasons?",
+      "answer": "Crops grow according to seasonal conditions."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is the relationship between Earth and Sun?",
+      "answer": "Earth depends on the Sun for energy."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why is Earth called a unique planet?",
+      "answer": "It supports life."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How does revolution affect climate?",
+      "answer": "It causes seasonal changes."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is the Earth not too hot or too cold?",
+      "answer": "Because of its distance from the Sun."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the significance of equinoxes?",
+      "answer": "They mark seasonal changes."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is understanding seasons important?",
+      "answer": "It helps understand climate patterns."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is the effect of seasons on daily life?",
+      "answer": "They influence clothing, food, and activities."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why is geography important?",
+      "answer": "It helps understand Earth and human life."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How do seasons affect vegetation?",
+      "answer": "Plants grow differently in each season."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why do animals migrate?",
+      "answer": "To adapt to seasonal changes."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the main idea of this chapter?",
+      "answer": "To explain how seasons occur on Earth."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How does Earth\u2019s movement affect life?",
+      "answer": "It controls day, night, and seasons."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is Earth\u2019s axis imaginary?",
+      "answer": "Because it does not physically exist."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What would happen without Earth\u2019s tilt?",
+      "answer": "There would be no seasons."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "How does science explain seasons?",
+      "answer": "Through Earth\u2019s tilt and revolution."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "Why do we study seasons?",
+      "answer": "To understand climate and natural processes."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "How does rotation help humans?",
+      "answer": "It creates a regular cycle of day and night."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "What makes seasons predictable?",
+      "answer": "Earth\u2019s regular revolution around the Sun."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "Why is this chapter important for students?",
+      "answer": "It builds basic understanding of Earth\u2019s movements."
+    }
+  ]
+}

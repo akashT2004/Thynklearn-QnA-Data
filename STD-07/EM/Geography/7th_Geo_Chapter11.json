@@ -1,0 +1,1572 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.11",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "Contour Maps and Landforms"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "A contour line joins places of equal ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "height",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "rainfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "distance",
+          "is_correct": false
+        }
+      ],
+      "answer": "height"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Contour maps are used to show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "population",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "relief of land",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "vegetation",
+          "is_correct": false
+        }
+      ],
+      "answer": "relief of land"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "The vertical distance between two contour lines is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "contour interval",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "gradient",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "height",
+          "is_correct": false
+        }
+      ],
+      "answer": "contour interval"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Closely spaced contour lines indicate ____ slope.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "gentle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "steep",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "steep"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Widely spaced contour lines indicate ____ slope.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "steep",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "uneven",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "gentle",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "vertical",
+          "is_correct": false
+        }
+      ],
+      "answer": "gentle"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Contour lines never ____ each other.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "meet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "touch",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cross",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "bend",
+          "is_correct": false
+        }
+      ],
+      "answer": "cross"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The highest point on a map is shown by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "widely spaced contours",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "closed contours",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "straight contours",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "broken contours",
+          "is_correct": false
+        }
+      ],
+      "answer": "closed contours"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "A hill is shown by contour lines with values ____ towards the centre.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "decreasing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "increasing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "random",
+          "is_correct": false
+        }
+      ],
+      "answer": "increasing"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "A depression is shown by contour lines with values ____ towards the centre.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "increasing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "decreasing",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "random",
+          "is_correct": false
+        }
+      ],
+      "answer": "decreasing"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "A flat land is shown by ____ contour lines.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "curved",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "closely spaced",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "widely spaced",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "circular",
+          "is_correct": false
+        }
+      ],
+      "answer": "widely spaced"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Contour interval remains ____ on the map.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "same",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "different",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "unequal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "random",
+          "is_correct": false
+        }
+      ],
+      "answer": "same"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Steep slopes are difficult for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "settlement",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Gentle slopes are suitable for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "terrace farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "settlements",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "forests",
+          "is_correct": false
+        }
+      ],
+      "answer": "settlements"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Valley is formed by action of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "glaciers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "V-shaped contours indicate a ____ valley.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "U-shaped",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "broad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "narrow",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "river",
+          "is_correct": true
+        }
+      ],
+      "answer": "river"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "U-shaped valleys are formed by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rivers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "wind",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "glaciers",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "sea waves",
+          "is_correct": false
+        }
+      ],
+      "answer": "glaciers"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "A ridge is a ____ landform.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "depressed",
+          "is_correct": false
+        }
+      ],
+      "answer": "high"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Spur is a ____ extension of a hill.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sloping",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "vertical",
+          "is_correct": false
+        }
+      ],
+      "answer": "sloping"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "A plateau is an area of ____ land.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "flat high",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "steep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sloping",
+          "is_correct": false
+        }
+      ],
+      "answer": "flat high"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Plains are generally ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "flat",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "steep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "rocky",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "uneven",
+          "is_correct": false
+        }
+      ],
+      "answer": "flat"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Contour lines are drawn in ____ colour.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "blue",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "red",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "brown",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "green",
+          "is_correct": false
+        }
+      ],
+      "answer": "brown"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Contour maps help in planning ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "dams",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "settlements",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "A saddle is a ____ between two hills.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "depression",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "pass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "valley",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "plain",
+          "is_correct": false
+        }
+      ],
+      "answer": "pass"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "A cliff is shown by contour lines that are ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "widely spaced",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "straight",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "very close",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "circular",
+          "is_correct": false
+        }
+      ],
+      "answer": "very close"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "A conical hill has ____ contour lines.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "square",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "triangular",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "circular",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "straight",
+          "is_correct": false
+        }
+      ],
+      "answer": "circular"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The lowest point on a contour map is shown by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "highest value",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "lowest value",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "interval",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "scale",
+          "is_correct": false
+        }
+      ],
+      "answer": "lowest value"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Contours help to find ____ of land.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "shape",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "height",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Landforms are shaped mainly by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "human activities",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "natural forces",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "animals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "plants",
+          "is_correct": false
+        }
+      ],
+      "answer": "natural forces"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Mountains are ____ landforms.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "depressed",
+          "is_correct": false
+        }
+      ],
+      "answer": "high"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Plains are suitable for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "agriculture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "settlements",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Plateaus are useful for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mining",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "mining"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Rivers form ____ plains.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "coastal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "flood",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "rocky",
+          "is_correct": false
+        }
+      ],
+      "answer": "flood"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Waterfalls occur where there is a sudden ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "bend",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "drop",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "turn",
+          "is_correct": false
+        }
+      ],
+      "answer": "drop"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "A gorge is a ____ valley.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "wide",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "shallow",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "deep narrow",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "flat",
+          "is_correct": false
+        }
+      ],
+      "answer": "deep narrow"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Landforms influence ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "human activities",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "vegetation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Contour maps are two-dimensional representations of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "population",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "three-dimensional land",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "vegetation",
+          "is_correct": false
+        }
+      ],
+      "answer": "three-dimensional land"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The shape of land surface is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relief",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "height",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "scale",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "interval",
+          "is_correct": false
+        }
+      ],
+      "answer": "relief"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which landform is highest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plateau",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mountain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Valley",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mountain"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which landform is lowest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plateau",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plain",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Valley",
+          "is_correct": true
+        }
+      ],
+      "answer": "Valley"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Contour maps are useful for ____ students.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "science",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "geography",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "history",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "language",
+          "is_correct": false
+        }
+      ],
+      "answer": "geography"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "A gentle slope is safe for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "roads",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "houses",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Steep slopes are prone to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "floods",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "erosion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "earthquakes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "pollution",
+          "is_correct": false
+        }
+      ],
+      "answer": "erosion"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which landform is formed by deposition?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mountain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Plateau",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Plain",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Valley",
+          "is_correct": false
+        }
+      ],
+      "answer": "Plain"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Contour maps help in understanding ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "landforms",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "relief",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "slope",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is a contour line?",
+      "answer": "A line joining points of equal height."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is a contour map?",
+      "answer": "Map showing relief using contour lines."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What is contour interval?",
+      "answer": "Vertical distance between contour lines."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "Why contour interval is constant?",
+      "answer": "To maintain uniform measurement."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What do close contours indicate?",
+      "answer": "Steep slope."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "What do wide contours indicate?",
+      "answer": "Gentle slope."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why contour lines never cross?",
+      "answer": "A point cannot have two heights."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a hill?",
+      "answer": "A raised landform."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How is a hill shown on map?",
+      "answer": "Contours increasing towards centre."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a depression?",
+      "answer": "A low area surrounded by higher land."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How is depression shown on map?",
+      "answer": "Contours decreasing towards centre."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is a plain?",
+      "answer": "Flat or gently sloping land."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why plains are important?",
+      "answer": "Good for farming and settlements."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is a plateau?",
+      "answer": "Flat highland."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why plateaus are useful?",
+      "answer": "Rich in minerals."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is a mountain?",
+      "answer": "Very high landform."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why mountains are cold?",
+      "answer": "Temperature decreases with height."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is a valley?",
+      "answer": "Low land between hills."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How valleys are formed?",
+      "answer": "By river or glacier erosion."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is a V-shaped valley?",
+      "answer": "Valley formed by river."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is a U-shaped valley?",
+      "answer": "Valley formed by glacier."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is a ridge?",
+      "answer": "Long narrow highland."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is a spur?",
+      "answer": "Side extension of a hill."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is a saddle?",
+      "answer": "Low pass between two hills."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is a cliff?",
+      "answer": "Very steep rock face."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How is a cliff shown on map?",
+      "answer": "Very close contours."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is a gorge?",
+      "answer": "Deep narrow valley."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is a waterfall?",
+      "answer": "Sudden drop in river course."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why contour maps are useful?",
+      "answer": "To understand land relief."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who uses contour maps?",
+      "answer": "Geographers and planners."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How contour maps help farmers?",
+      "answer": "To select suitable land."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How contour maps help engineers?",
+      "answer": "In road and dam planning."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How contour maps help soldiers?",
+      "answer": "For navigation."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is relief?",
+      "answer": "Variation in height of land."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is landform?",
+      "answer": "Natural feature of Earth surface."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Name major landforms.",
+      "answer": "Mountains, plateaus and plains."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which landform supports dense population?",
+      "answer": "Plains."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which landform has sparse population?",
+      "answer": "Mountains."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why transport is difficult in mountains?",
+      "answer": "Steep slopes."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How landforms affect climate?",
+      "answer": "Influence rainfall and temperature."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How landforms affect vegetation?",
+      "answer": "Decide plant types."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How landforms affect human life?",
+      "answer": "Affect occupation and settlement."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why dams are built in valleys?",
+      "answer": "Narrow shape is suitable."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why roads follow gentle slopes?",
+      "answer": "Easy and safe travel."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is scale of map?",
+      "answer": "Ratio between map and ground distance."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why contour maps are accurate?",
+      "answer": "Show exact height differences."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is topography?",
+      "answer": "Physical features of land."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is elevation?",
+      "answer": "Height above sea level."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why plains are fertile?",
+      "answer": "Deposition of sediments."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why mountains are sources of rivers?",
+      "answer": "Snow melts at high altitude."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is erosion?",
+      "answer": "Wearing away of land."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is deposition?",
+      "answer": "Laying down of sediments."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which agent forms plains?",
+      "answer": "Rivers."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why contour maps are important in geography?",
+      "answer": "They show relief clearly."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why study landforms?",
+      "answer": "To understand Earth’s surface."
+    }
+  ]
+}

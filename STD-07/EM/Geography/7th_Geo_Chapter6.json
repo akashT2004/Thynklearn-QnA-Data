@@ -1,0 +1,1544 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.06",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "Natural Regions"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Natural regions are formed due to combination of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rocks only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "climate, land and vegetation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "soil only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water only",
+          "is_correct": false
+        }
+      ],
+      "answer": "climate, land and vegetation"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which factor mainly decides natural regions?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Population",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Climate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Climate"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Equatorial region is located near the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "poles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equator",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "tropics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "temperate zone",
+          "is_correct": false
+        }
+      ],
+      "answer": "equator"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Equatorial region receives ____ rainfall.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "heavy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "heavy"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Equatorial region has ____ climate.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hot and wet",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "hot and dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cool",
+          "is_correct": false
+        }
+      ],
+      "answer": "hot and wet"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Vegetation in equatorial region is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "grassland",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "coniferous",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "dense forests",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "shrubs",
+          "is_correct": false
+        }
+      ],
+      "answer": "dense forests"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which natural region has grasslands?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Tundra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Savanna",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Taiga",
+          "is_correct": false
+        }
+      ],
+      "answer": "Savanna"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Savanna region is found between ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equator and poles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "equator and deserts",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "deserts and tundra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "poles and taiga",
+          "is_correct": false
+        }
+      ],
+      "answer": "equator and deserts"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Savanna region has ____ rainfall.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "heavy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "scanty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "none",
+          "is_correct": false
+        }
+      ],
+      "answer": "moderate"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Main vegetation of savanna is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "trees",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "grass",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "moss",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shrubs",
+          "is_correct": false
+        }
+      ],
+      "answer": "grass"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Desert regions receive ____ rainfall.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "heavy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "very little",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "seasonal",
+          "is_correct": false
+        }
+      ],
+      "answer": "very little"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which desert is the largest hot desert?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Thar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gobi",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sahara",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Kalahari",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sahara"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Climate of desert region is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hot and wet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hot and dry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "cold and wet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cool",
+          "is_correct": false
+        }
+      ],
+      "answer": "hot and dry"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Vegetation in deserts is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "dense",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "abundant",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sparse",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "tall",
+          "is_correct": false
+        }
+      ],
+      "answer": "sparse"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which plant is common in desert?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pine",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cactus",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oak",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Grass",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cactus"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Temperate grasslands are called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Savanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Prairies",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Tundra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taiga",
+          "is_correct": false
+        }
+      ],
+      "answer": "Prairies"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Prairies are found in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Africa",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "North America",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Asia",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Europe",
+          "is_correct": false
+        }
+      ],
+      "answer": "North America"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Temperate grasslands receive ____ rainfall.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "heavy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "scanty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "none",
+          "is_correct": false
+        }
+      ],
+      "answer": "moderate"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Main occupation in grasslands is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mining",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "agriculture",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "hunting",
+          "is_correct": false
+        }
+      ],
+      "answer": "agriculture"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which animal is common in grasslands?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Camel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bison",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Polar bear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reindeer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bison"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Mediterranean region has ____ climate.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hot and wet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hot dry summers and mild winters",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "wet throughout",
+          "is_correct": false
+        }
+      ],
+      "answer": "hot dry summers and mild winters"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Mediterranean region is suitable for ____ farming.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tea",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fruit",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "rubber",
+          "is_correct": false
+        }
+      ],
+      "answer": "fruit"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Coniferous forests are found in ____ region.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "savanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "taiga",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "taiga"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Taiga region is also known as ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "tropical forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "coniferous forest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "grassland",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tundra",
+          "is_correct": false
+        }
+      ],
+      "answer": "coniferous forest"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Taiga region experiences ____ winters.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "short",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mild",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "long and cold",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "hot",
+          "is_correct": false
+        }
+      ],
+      "answer": "long and cold"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Trees in taiga have ____ leaves.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "broad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "needle-like",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "round",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "flat",
+          "is_correct": false
+        }
+      ],
+      "answer": "needle-like"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Tundra region is found near the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "equator",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tropics",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "poles",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "deserts",
+          "is_correct": false
+        }
+      ],
+      "answer": "poles"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Tundra region has ____ climate.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hot",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "warm",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cold",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "humid",
+          "is_correct": false
+        }
+      ],
+      "answer": "cold"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Vegetation in tundra is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "dense forests",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "grass",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "moss and lichens",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "shrubs",
+          "is_correct": false
+        }
+      ],
+      "answer": "moss and lichens"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Permafrost is found in ____ region.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "savanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "tundra",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "equatorial",
+          "is_correct": false
+        }
+      ],
+      "answer": "tundra"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which animal is found in tundra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elephant",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Camel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reindeer",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Lion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reindeer"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Equatorial forests are also called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "deciduous forests",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "tropical rainforests",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "coniferous forests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "grasslands",
+          "is_correct": false
+        }
+      ],
+      "answer": "tropical rainforests"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Natural regions help in understanding ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "transport",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "climate and vegetation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "population",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "industry",
+          "is_correct": false
+        }
+      ],
+      "answer": "climate and vegetation"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which region has evergreen forests?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Savanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Grassland",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equatorial"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which region has seasonal rainfall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Savanna",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tundra",
+          "is_correct": false
+        }
+      ],
+      "answer": "Savanna"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which region has extreme temperatures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mediterranean",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Desert",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Savanna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desert"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which region is sparsely populated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Desert",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mediterranean",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Grassland",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desert"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which region is suitable for wheat farming?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tundra",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grassland",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Grassland"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which natural region supports nomadic life?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Desert",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Mediterranean",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taiga",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desert"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which region has short growing season?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Savanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tundra",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Grassland",
+          "is_correct": false
+        }
+      ],
+      "answer": "Tundra"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Natural regions depend on ____ factors.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "one",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "many",
+          "is_correct": false
+        }
+      ],
+      "answer": "three"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which region has high biodiversity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Equatorial",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tundra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Desert",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taiga",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equatorial"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which region has cold climate and forests?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Taiga",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Savanna",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Equatorial",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Desert",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taiga"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "What are natural regions?",
+      "answer": "Large areas with similar climate, vegetation and landforms."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "Which factors determine natural regions?",
+      "answer": "Climate, landforms and vegetation."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "What is equatorial region?",
+      "answer": "Region near the equator with hot and wet climate."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Why equatorial region receives heavy rainfall?",
+      "answer": "Due to intense heating and convection."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What type of vegetation grows in equatorial region?",
+      "answer": "Dense evergreen forests."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "What is savanna region?",
+      "answer": "Grassland region with scattered trees."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why savanna has seasonal rainfall?",
+      "answer": "Shifting of wind belts."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is desert region?",
+      "answer": "Region with very low rainfall."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why deserts have sparse vegetation?",
+      "answer": "Due to lack of water."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is grassland region?",
+      "answer": "Region dominated by grasses."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name temperate grasslands of North America.",
+      "answer": "Prairies."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is main occupation in grasslands?",
+      "answer": "Agriculture and animal rearing."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is Mediterranean region?",
+      "answer": "Region with dry summers and mild winters."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why Mediterranean region is suitable for fruit farming?",
+      "answer": "Favourable climate."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is taiga region?",
+      "answer": "Coniferous forest region."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why taiga has needle-like leaves?",
+      "answer": "To reduce water loss."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is tundra region?",
+      "answer": "Cold region near poles."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why tundra has moss and lichens?",
+      "answer": "Short growing season."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is permafrost?",
+      "answer": "Permanently frozen subsoil."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which animals live in tundra?",
+      "answer": "Reindeer and polar animals."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why natural regions are useful?",
+      "answer": "They help understand environment."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which region has highest biodiversity?",
+      "answer": "Equatorial region."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why equatorial forests are evergreen?",
+      "answer": "Rainfall throughout the year."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why deserts are sparsely populated?",
+      "answer": "Harsh climate."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why grasslands are suitable for farming?",
+      "answer": "Fertile soil."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why taiga has low population?",
+      "answer": "Severe cold climate."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why tundra has short summer?",
+      "answer": "Low solar heating."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is biodiversity?",
+      "answer": "Variety of plant and animal life."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is nomadic life?",
+      "answer": "Life of moving from place to place."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which region supports nomadic life?",
+      "answer": "Desert region."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How climate affects vegetation?",
+      "answer": "Determines type of plants."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How vegetation affects animal life?",
+      "answer": "Provides food and shelter."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is evergreen forest?",
+      "answer": "Forest that remains green all year."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is deciduous forest?",
+      "answer": "Forest that sheds leaves seasonally."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which natural region has deciduous forests?",
+      "answer": "Temperate region."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is coniferous forest?",
+      "answer": "Forest of cone-bearing trees."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why coniferous trees are tall?",
+      "answer": "To receive sunlight."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is tundra vegetation?",
+      "answer": "Mosses and lichens."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why agriculture is difficult in tundra?",
+      "answer": "Frozen soil."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why deserts experience extreme temperatures?",
+      "answer": "Clear sky and dry air."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which region has moderate climate?",
+      "answer": "Mediterranean region."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why Mediterranean region is densely populated?",
+      "answer": "Favourable living conditions."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How natural regions affect lifestyle?",
+      "answer": "They determine occupation and food."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why people wear wool in cold regions?",
+      "answer": "To keep warm."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why people wear loose clothes in deserts?",
+      "answer": "To protect from heat."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why houses differ across regions?",
+      "answer": "Climate variation."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is adaptation?",
+      "answer": "Adjustment to environment."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Give example of plant adaptation in desert.",
+      "answer": "Cactus stores water."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Give example of animal adaptation in tundra.",
+      "answer": "Reindeer has thick fur."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why study natural regions?",
+      "answer": "To understand Earth’s diversity."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How natural regions affect economy?",
+      "answer": "They decide resources."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which region has rich wildlife?",
+      "answer": "Equatorial region."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is human-environment interaction?",
+      "answer": "Relationship between humans and nature."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why conservation is important in natural regions?",
+      "answer": "To protect biodiversity."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the importance of natural regions?",
+      "answer": "They shape life on Earth."
+    }
+  ]
+}

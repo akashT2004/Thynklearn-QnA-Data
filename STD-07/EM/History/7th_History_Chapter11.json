@@ -1,0 +1,947 @@
+{
+  "class": 7,
+  "subject": "History",
+  "chapter_number": 11,
+  "chapter_name": "Marathas – The Protectors of the Nation",
+  "mcqs": [
+    {
+      "question_id": 1,
+      "question": "Why are the Marathas called protectors of the nation?",
+      "options": [
+        "They ruled whole India",
+        "They protected people from foreign invasions",
+        "They spread religion",
+        "They collected taxes"
+      ],
+      "answer": "They protected people from foreign invasions"
+    },
+    {
+      "question_id": 2,
+      "question": "Which power threatened India during Maratha period?",
+      "options": [
+        "British",
+        "Portuguese",
+        "Foreign invaders from North-West",
+        "French"
+      ],
+      "answer": "Foreign invaders from North-West"
+    },
+    {
+      "question_id": 3,
+      "question": "Who led Maratha resistance against foreign invasions?",
+      "options": [
+        "Shivaji Maharaj",
+        "Peshwas",
+        "Maratha Sardars",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 4,
+      "question": "Which invader was defeated by Marathas at Panipat?",
+      "options": [
+        "Nadir Shah",
+        "Ahmad Shah Abdali",
+        "Timur",
+        "Babur"
+      ],
+      "answer": "Ahmad Shah Abdali"
+    },
+    {
+      "question_id": 5,
+      "question": "Which battle showed Marathas’ role as national protectors?",
+      "options": [
+        "Battle of Palkhed",
+        "Battle of Panipat",
+        "Battle of Kolhapur",
+        "Battle of Jinji"
+      ],
+      "answer": "Battle of Panipat"
+    },
+    {
+      "question_id": 6,
+      "question": "Which Maratha leader led forces in North India?",
+      "options": [
+        "Sadashivrao Bhau",
+        "Baji Rao I",
+        "Balaji Vishwanath",
+        "Madhavrao I"
+      ],
+      "answer": "Sadashivrao Bhau"
+    },
+    {
+      "question_id": 7,
+      "question": "Who motivated Marathas to protect the nation?",
+      "options": [
+        "Shivaji Maharaj’s ideals",
+        "British policy",
+        "Trade",
+        "Wealth"
+      ],
+      "answer": "Shivaji Maharaj’s ideals"
+    },
+    {
+      "question_id": 8,
+      "question": "Which quality made Marathas national defenders?",
+      "options": [
+        "Selfishness",
+        "Sense of duty",
+        "Greed",
+        "Fear"
+      ],
+      "answer": "Sense of duty"
+    },
+    {
+      "question_id": 9,
+      "question": "Which region did Marathas protect from invaders?",
+      "options": [
+        "Only Maharashtra",
+        "Only Deccan",
+        "Entire India",
+        "Only North India"
+      ],
+      "answer": "Entire India"
+    },
+    {
+      "question_id": 10,
+      "question": "Which Maratha policy shows national interest?",
+      "options": [
+        "Personal gain",
+        "Protection of temples and people",
+        "Luxury",
+        "Trade monopoly"
+      ],
+      "answer": "Protection of temples and people"
+    },
+    {
+      "question_id": 11,
+      "question": "Which invader looted Delhi before Maratha rise?",
+      "options": [
+        "Ahmad Shah Abdali",
+        "Nadir Shah",
+        "Babur",
+        "Timur"
+      ],
+      "answer": "Nadir Shah"
+    },
+    {
+      "question_id": 12,
+      "question": "Who became symbol of national resistance?",
+      "options": [
+        "Marathas",
+        "British",
+        "Mughals",
+        "French"
+      ],
+      "answer": "Marathas"
+    },
+    {
+      "question_id": 13,
+      "question": "Which Maratha army protected holy places?",
+      "options": [
+        "Northern army",
+        "Southern army",
+        "Central army",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 14,
+      "question": "Which value guided Maratha actions?",
+      "options": [
+        "National duty",
+        "Greed",
+        "Fear",
+        "Oppression"
+      ],
+      "answer": "National duty"
+    },
+    {
+      "question_id": 15,
+      "question": "Who supported Marathas in their campaigns?",
+      "options": [
+        "Local rulers and people",
+        "British",
+        "French",
+        "Portuguese"
+      ],
+      "answer": "Local rulers and people"
+    },
+    {
+      "question_id": 16,
+      "question": "Which event weakened Maratha power temporarily?",
+      "options": [
+        "Third Battle of Panipat",
+        "Battle of Palkhed",
+        "Treaty of Purandar",
+        "Agra escape"
+      ],
+      "answer": "Third Battle of Panipat"
+    },
+    {
+      "question_id": 17,
+      "question": "Despite defeat, what role did Marathas play?",
+      "options": [
+        "They withdrew",
+        "They continued protecting nation",
+        "They surrendered",
+        "They allied with invaders"
+      ],
+      "answer": "They continued protecting nation"
+    },
+    {
+      "question_id": 18,
+      "question": "Which principle made Marathas fight beyond Maharashtra?",
+      "options": [
+        "Personal rule",
+        "National responsibility",
+        "Trade benefit",
+        "Religion only"
+      ],
+      "answer": "National responsibility"
+    },
+    {
+      "question_id": 19,
+      "question": "Who reorganized Maratha power after Panipat?",
+      "options": [
+        "Madhavrao I",
+        "Baji Rao I",
+        "Balaji Vishwanath",
+        "Raghunathrao"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 20,
+      "question": "Which Maratha leader restored stability?",
+      "options": [
+        "Madhavrao I",
+        "Sadashivrao Bhau",
+        "Tarabai",
+        "Shahu Maharaj"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 21,
+      "question": "What threat did Marathas stop repeatedly?",
+      "options": [
+        "British expansion",
+        "Afghan invasions",
+        "Portuguese trade",
+        "French control"
+      ],
+      "answer": "Afghan invasions"
+    },
+    {
+      "question_id": 22,
+      "question": "Which region became safe due to Marathas?",
+      "options": [
+        "North India",
+        "South India",
+        "West India",
+        "All"
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 23,
+      "question": "Which ideal inspired Maratha protection?",
+      "options": [
+        "Swaraj",
+        "Foreign rule",
+        "Trade profit",
+        "Luxury"
+      ],
+      "answer": "Swaraj"
+    },
+    {
+      "question_id": 24,
+      "question": "Which Maratha leader fought at Panipat?",
+      "options": [
+        "Sadashivrao Bhau",
+        "Madhavrao I",
+        "Balaji Vishwanath",
+        "Baji Rao I"
+      ],
+      "answer": "Sadashivrao Bhau"
+    },
+    {
+      "question_id": 25,
+      "question": "Why is Panipat remembered?",
+      "options": [
+        "Maratha defeat only",
+        "Maratha sacrifice for nation",
+        "British victory",
+        "Mughal victory"
+      ],
+      "answer": "Maratha sacrifice for nation"
+    },
+    {
+      "question_id": 26,
+      "question": "Which quality helped Marathas fight invaders?",
+      "options": [
+        "Courage",
+        "Luxury",
+        "Fear",
+        "Greed"
+      ],
+      "answer": "Courage"
+    },
+    {
+      "question_id": 27,
+      "question": "Who protected pilgrimage routes?",
+      "options": [
+        "Marathas",
+        "British",
+        "Mughals",
+        "French"
+      ],
+      "answer": "Marathas"
+    },
+    {
+      "question_id": 28,
+      "question": "Which Maratha institution helped defence?",
+      "options": [
+        "Strong army",
+        "Trade guilds",
+        "Religious bodies",
+        "British alliances"
+      ],
+      "answer": "Strong army"
+    },
+    {
+      "question_id": 29,
+      "question": "Which concept best defines Maratha role?",
+      "options": [
+        "Regional power",
+        "National power",
+        "Local rulers",
+        "Foreign allies"
+      ],
+      "answer": "National power"
+    },
+    {
+      "question_id": 30,
+      "question": "Which enemy threatened Indian sovereignty?",
+      "options": [
+        "Afghan invaders",
+        "Local kings",
+        "Farmers",
+        "Merchants"
+      ],
+      "answer": "Afghan invaders"
+    },
+    {
+      "question_id": 31,
+      "question": "Which Maratha value protected unity?",
+      "options": [
+        "Nationalism",
+        "Greed",
+        "Fear",
+        "Oppression"
+      ],
+      "answer": "Nationalism"
+    },
+    {
+      "question_id": 32,
+      "question": "Who coordinated northern defence?",
+      "options": [
+        "Peshwas",
+        "British",
+        "Mughals",
+        "Portuguese"
+      ],
+      "answer": "Peshwas"
+    },
+    {
+      "question_id": 33,
+      "question": "Which Maratha leader focused on recovery?",
+      "options": [
+        "Madhavrao I",
+        "Sadashivrao Bhau",
+        "Tarabai",
+        "Balaji Bajirao"
+      ],
+      "answer": "Madhavrao I"
+    },
+    {
+      "question_id": 34,
+      "question": "Why did Marathas fight far from homeland?",
+      "options": [
+        "Expansion",
+        "National protection",
+        "Trade",
+        "Wealth"
+      ],
+      "answer": "National protection"
+    },
+    {
+      "question_id": 35,
+      "question": "Which Maratha role is highlighted in chapter?",
+      "options": [
+        "Rulers",
+        "Protectors",
+        "Merchants",
+        "Traders"
+      ],
+      "answer": "Protectors"
+    },
+    {
+      "question_id": 36,
+      "question": "Which region faced maximum invasions?",
+      "options": [
+        "North-West India",
+        "South India",
+        "East India",
+        "Central India"
+      ],
+      "answer": "North-West India"
+    },
+    {
+      "question_id": 37,
+      "question": "Who benefited from Maratha protection?",
+      "options": [
+        "Only Marathas",
+        "Entire population",
+        "Only kings",
+        "Only traders"
+      ],
+      "answer": "Entire population"
+    },
+    {
+      "question_id": 38,
+      "question": "Which Maratha action shows sacrifice?",
+      "options": [
+        "Panipat war",
+        "Tax collection",
+        "Administration",
+        "Trade"
+      ],
+      "answer": "Panipat war"
+    },
+    {
+      "question_id": 39,
+      "question": "Which value did Marathas uphold?",
+      "options": [
+        "National duty",
+        "Personal gain",
+        "Fear",
+        "Oppression"
+      ],
+      "answer": "National duty"
+    },
+    {
+      "question_id": 40,
+      "question": "Which leader symbolizes Maratha sacrifice?",
+      "options": [
+        "Sadashivrao Bhau",
+        "Balaji Vishwanath",
+        "Madhavrao I",
+        "Raghunathrao"
+      ],
+      "answer": "Sadashivrao Bhau"
+    },
+    {
+      "question_id": 41,
+      "question": "Which Maratha achievement is emphasized?",
+      "options": [
+        "Territory expansion",
+        "National defence",
+        "Trade growth",
+        "Revenue"
+      ],
+      "answer": "National defence"
+    },
+    {
+      "question_id": 42,
+      "question": "Which enemy invasion was checked repeatedly?",
+      "options": [
+        "Afghan",
+        "British",
+        "French",
+        "Portuguese"
+      ],
+      "answer": "Afghan"
+    },
+    {
+      "question_id": 43,
+      "question": "What inspired Maratha unity?",
+      "options": [
+        "Swaraj ideal",
+        "Foreign alliances",
+        "Trade",
+        "Fear"
+      ],
+      "answer": "Swaraj ideal"
+    },
+    {
+      "question_id": 44,
+      "question": "Which Maratha role is remembered historically?",
+      "options": [
+        "Protectors of India",
+        "Only rulers",
+        "Merchants",
+        "Administrators"
+      ],
+      "answer": "Protectors of India"
+    },
+    {
+      "question_id": 45,
+      "question": "Which quality made Marathas respected nationally?",
+      "options": [
+        "Sacrifice",
+        "Luxury",
+        "Greed",
+        "Fear"
+      ],
+      "answer": "Sacrifice"
+    },
+    {
+      "question_id": 46,
+      "question": "Which outcome resulted from Maratha efforts?",
+      "options": [
+        "Delay of foreign rule",
+        "Immediate British rule",
+        "Decline of India",
+        "Trade loss"
+      ],
+      "answer": "Delay of foreign rule"
+    },
+    {
+      "question_id": 47,
+      "question": "What did Marathas defend?",
+      "options": [
+        "Indian sovereignty",
+        "Only their state",
+        "Trade routes only",
+        "Foreign interests"
+      ],
+      "answer": "Indian sovereignty"
+    }
+  ],
+  "short_questions": [
+    {
+      "question_id": 1,
+      "question": "Why are Marathas called protectors of the nation?",
+      "answer": "Because they defended India from foreign invasions."
+    },
+    {
+      "question_id": 2,
+      "question": "Which invasions threatened India during this period?",
+      "answer": "Afghan invasions from the North-West threatened India."
+    },
+    {
+      "question_id": 3,
+      "question": "Who inspired Marathas to protect the nation?",
+      "answer": "The ideals of Shivaji Maharaj inspired them."
+    },
+    {
+      "question_id": 4,
+      "question": "Which battle reflects Maratha sacrifice?",
+      "answer": "The Third Battle of Panipat reflects their sacrifice."
+    },
+    {
+      "question_id": 5,
+      "question": "Who led Maratha forces at Panipat?",
+      "answer": "Sadashivrao Bhau led the forces."
+    },
+    {
+      "question_id": 6,
+      "question": "Why did Marathas fight at Panipat?",
+      "answer": "To stop Afghan invasion of India."
+    },
+    {
+      "question_id": 7,
+      "question": "Who was Ahmad Shah Abdali?",
+      "answer": "He was an Afghan invader."
+    },
+    {
+      "question_id": 8,
+      "question": "What was Marathas’ main objective?",
+      "answer": "Protection of the nation."
+    },
+    {
+      "question_id": 9,
+      "question": "How did Marathas help common people?",
+      "answer": "They protected them from invaders."
+    },
+    {
+      "question_id": 10,
+      "question": "Which value guided Maratha campaigns?",
+      "answer": "National duty."
+    },
+    {
+      "question_id": 11,
+      "question": "Why was North India important to protect?",
+      "answer": "It was entry point for invasions."
+    },
+    {
+      "question_id": 12,
+      "question": "How did Marathas become a national power?",
+      "answer": "By expanding and protecting whole India."
+    },
+    {
+      "question_id": 13,
+      "question": "Who reorganized Maratha power after Panipat?",
+      "answer": "Madhavrao I reorganized it."
+    },
+    {
+      "question_id": 14,
+      "question": "Why is Madhavrao I admired?",
+      "answer": "For restoring stability and strength."
+    },
+    {
+      "question_id": 15,
+      "question": "What role did Peshwas play?",
+      "answer": "They coordinated defence and administration."
+    },
+    {
+      "question_id": 16,
+      "question": "How did Marathas protect religious places?",
+      "answer": "By preventing invaders from looting."
+    },
+    {
+      "question_id": 17,
+      "question": "Why did Marathas fight beyond Maharashtra?",
+      "answer": "Out of national responsibility."
+    },
+    {
+      "question_id": 18,
+      "question": "What does Panipat teach us?",
+      "answer": "Sacrifice for the nation."
+    },
+    {
+      "question_id": 19,
+      "question": "How did Marathas delay foreign rule?",
+      "answer": "By resisting invaders."
+    },
+    {
+      "question_id": 20,
+      "question": "Which areas were secured by Marathas?",
+      "answer": "Large parts of India."
+    },
+    {
+      "question_id": 21,
+      "question": "What quality made Marathas fearless?",
+      "answer": "Courage."
+    },
+    {
+      "question_id": 22,
+      "question": "How did Marathas support unity?",
+      "answer": "By protecting all regions."
+    },
+    {
+      "question_id": 23,
+      "question": "Why were Afghan invasions dangerous?",
+      "answer": "They caused destruction and looting."
+    },
+    {
+      "question_id": 24,
+      "question": "How did Marathas respond to invasions?",
+      "answer": "With organized resistance."
+    },
+    {
+      "question_id": 25,
+      "question": "Which leader symbolizes Maratha sacrifice?",
+      "answer": "Sadashivrao Bhau."
+    },
+    {
+      "question_id": 26,
+      "question": "What was impact of Panipat defeat?",
+      "answer": "Temporary setback but continued resistance."
+    },
+    {
+      "question_id": 27,
+      "question": "Why is Maratha role national, not regional?",
+      "answer": "They fought for entire India."
+    },
+    {
+      "question_id": 28,
+      "question": "What happened after Panipat?",
+      "answer": "Maratha power was rebuilt."
+    },
+    {
+      "question_id": 29,
+      "question": "How did Marathas ensure defence?",
+      "answer": "Through strong army."
+    },
+    {
+      "question_id": 30,
+      "question": "Why were people grateful to Marathas?",
+      "answer": "They provided protection."
+    },
+    {
+      "question_id": 31,
+      "question": "Which ideal unified Marathas?",
+      "answer": "Swaraj."
+    },
+    {
+      "question_id": 32,
+      "question": "How did Marathas treat local rulers?",
+      "answer": "With cooperation and protection."
+    },
+    {
+      "question_id": 33,
+      "question": "Why was sacrifice necessary?",
+      "answer": "To protect freedom."
+    },
+    {
+      "question_id": 34,
+      "question": "How did Marathas maintain morale?",
+      "answer": "Through leadership."
+    },
+    {
+      "question_id": 35,
+      "question": "What was role of soldiers?",
+      "answer": "Defence of nation."
+    },
+    {
+      "question_id": 36,
+      "question": "How did Marathas influence history?",
+      "answer": "By delaying foreign domination."
+    },
+    {
+      "question_id": 37,
+      "question": "Why is this chapter important?",
+      "answer": "It shows national spirit."
+    },
+    {
+      "question_id": 38,
+      "question": "What lesson does Maratha struggle teach?",
+      "answer": "Nation comes first."
+    },
+    {
+      "question_id": 39,
+      "question": "How did Marathas support temples?",
+      "answer": "By guarding them."
+    },
+    {
+      "question_id": 40,
+      "question": "Which value is highlighted?",
+      "answer": "Patriotism."
+    },
+    {
+      "question_id": 41,
+      "question": "How did Marathas inspire future generations?",
+      "answer": "Through sacrifice."
+    },
+    {
+      "question_id": 42,
+      "question": "Why did Marathas fight despite losses?",
+      "answer": "For national protection."
+    },
+    {
+      "question_id": 43,
+      "question": "What was role of leadership?",
+      "answer": "Guided resistance."
+    },
+    {
+      "question_id": 44,
+      "question": "How did Marathas manage large areas?",
+      "answer": "Through administration and defence."
+    },
+    {
+      "question_id": 45,
+      "question": "Why was Afghan threat serious?",
+      "answer": "They aimed to plunder India."
+    },
+    {
+      "question_id": 46,
+      "question": "How did Marathas protect trade routes?",
+      "answer": "By ensuring security."
+    },
+    {
+      "question_id": 47,
+      "question": "What was significance of Panipat war?",
+      "answer": "It delayed Afghan dominance."
+    },
+    {
+      "question_id": 48,
+      "question": "Why are Marathas remembered nationally?",
+      "answer": "For protecting India."
+    },
+    {
+      "question_id": 49,
+      "question": "How did Marathas help pilgrims?",
+      "answer": "By securing routes."
+    },
+    {
+      "question_id": 50,
+      "question": "What was impact on Indian unity?",
+      "answer": "It strengthened unity."
+    },
+    {
+      "question_id": 51,
+      "question": "How did Marathas view India?",
+      "answer": "As one nation to protect."
+    },
+    {
+      "question_id": 52,
+      "question": "Why is national duty important?",
+      "answer": "It ensures collective safety."
+    },
+    {
+      "question_id": 53,
+      "question": "How did Marathas show courage?",
+      "answer": "By fighting powerful invaders."
+    },
+    {
+      "question_id": 54,
+      "question": "What does this chapter emphasize?",
+      "answer": "Role of Marathas in national defence."
+    },
+    {
+      "question_id": 55,
+      "question": "Why is sacrifice valued?",
+      "answer": "It preserves freedom."
+    },
+    {
+      "question_id": 56,
+      "question": "How did Marathas influence politics?",
+      "answer": "By shaping resistance."
+    },
+    {
+      "question_id": 57,
+      "question": "What role did strategy play?",
+      "answer": "It guided defence."
+    },
+    {
+      "question_id": 58,
+      "question": "How did Marathas balance administration and war?",
+      "answer": "Through capable leaders."
+    },
+    {
+      "question_id": 59,
+      "question": "Why is Panipat not seen as failure?",
+      "answer": "Because it showed sacrifice."
+    },
+    {
+      "question_id": 60,
+      "question": "What moral does chapter convey?",
+      "answer": "Nation above self."
+    },
+    {
+      "question_id": 61,
+      "question": "How did Marathas protect culture?",
+      "answer": "By stopping invasions."
+    },
+    {
+      "question_id": 62,
+      "question": "Why were people loyal to Marathas?",
+      "answer": "They ensured safety."
+    },
+    {
+      "question_id": 63,
+      "question": "How did Marathas become symbol of unity?",
+      "answer": "By protecting all regions."
+    },
+    {
+      "question_id": 64,
+      "question": "What was long-term impact?",
+      "answer": "Delay of colonial rule."
+    },
+    {
+      "question_id": 65,
+      "question": "Why is chapter relevant today?",
+      "answer": "It teaches patriotism."
+    },
+    {
+      "question_id": 66,
+      "question": "How did Marathas influence defence traditions?",
+      "answer": "By setting example."
+    },
+    {
+      "question_id": 67,
+      "question": "Why is national protection important?",
+      "answer": "For sovereignty."
+    },
+    {
+      "question_id": 68,
+      "question": "How did Marathas view invasions?",
+      "answer": "As threat to nation."
+    },
+    {
+      "question_id": 69,
+      "question": "What is significance of sacrifice?",
+      "answer": "It inspires unity."
+    },
+    {
+      "question_id": 70,
+      "question": "How did Marathas ensure internal security?",
+      "answer": "Through strong administration."
+    },
+    {
+      "question_id": 71,
+      "question": "Why was leadership crucial?",
+      "answer": "To organize defence."
+    },
+    {
+      "question_id": 72,
+      "question": "How did Marathas handle setbacks?",
+      "answer": "By rebuilding power."
+    },
+    {
+      "question_id": 73,
+      "question": "What does Maratha role teach students?",
+      "answer": "Value of patriotism."
+    },
+    {
+      "question_id": 74,
+      "question": "Why is unity important in defence?",
+      "answer": "It strengthens resistance."
+    },
+    {
+      "question_id": 75,
+      "question": "How did Marathas defend borders?",
+      "answer": "By military presence."
+    },
+    {
+      "question_id": 76,
+      "question": "Why did Marathas not give up?",
+      "answer": "Commitment to nation."
+    },
+    {
+      "question_id": 77,
+      "question": "What was impact on invaders?",
+      "answer": "They were repeatedly resisted."
+    },
+    {
+      "question_id": 78,
+      "question": "How did Marathas protect sovereignty?",
+      "answer": "By resisting foreign powers."
+    },
+    {
+      "question_id": 79,
+      "question": "Why are Marathas national heroes?",
+      "answer": "For protecting India."
+    },
+    {
+      "question_id": 80,
+      "question": "What lesson does Panipat give?",
+      "answer": "Sacrifice matters."
+    },
+    {
+      "question_id": 81,
+      "question": "How did Marathas inspire nationalism?",
+      "answer": "Through actions."
+    },
+    {
+      "question_id": 82,
+      "question": "Why is this chapter essential?",
+      "answer": "It highlights national defence."
+    },
+    {
+      "question_id": 83,
+      "question": "How did Marathas protect future generations?",
+      "answer": "By delaying invasions."
+    },
+    {
+      "question_id": 84,
+      "question": "What is the core message?",
+      "answer": "Nation before self."
+    }
+  ]
+}

@@ -1,0 +1,1572 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "7.GeoSci.04",
+    "standard": "7",
+    "subject": "Geography",
+    "chapter_name": "Air Pressure"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Air pressure is the force exerted by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "air",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "clouds",
+          "is_correct": false
+        }
+      ],
+      "answer": "air"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Air pressure is highest at ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "sea level",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "mountains",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "plateaus",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "poles",
+          "is_correct": false
+        }
+      ],
+      "answer": "sea level"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Air pressure decreases with increase in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "humidity",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "altitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "latitude",
+          "is_correct": false
+        }
+      ],
+      "answer": "altitude"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Instrument used to measure air pressure is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "thermometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "barometer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "anemometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "hygrometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "barometer"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Warm air is ____ than cold air.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "heavier",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "lighter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "same",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "denser",
+          "is_correct": false
+        }
+      ],
+      "answer": "lighter"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Cold air exerts ____ pressure.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "high"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Low air pressure is found at ____ places.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low altitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "high altitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "sea level",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "coasts",
+          "is_correct": false
+        }
+      ],
+      "answer": "high altitude"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "High pressure areas are associated with ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clouds",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "clear sky",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "storms",
+          "is_correct": false
+        }
+      ],
+      "answer": "clear sky"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Low pressure areas are associated with ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clear weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "dry air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cloudy weather",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "snow",
+          "is_correct": false
+        }
+      ],
+      "answer": "cloudy weather"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Air pressure depends on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "altitude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "humidity",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "At high altitude, breathing becomes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "easy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "difficult",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "normal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fast",
+          "is_correct": false
+        }
+      ],
+      "answer": "difficult"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Mountaineers carry oxygen because air pressure is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "high",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "low",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "normal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "same",
+          "is_correct": false
+        }
+      ],
+      "answer": "low"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Air moves from ____ pressure to ____ pressure.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low to high",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "high to low",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "any",
+          "is_correct": false
+        }
+      ],
+      "answer": "high to low"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Moving air is called ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "storm",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "breeze",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "cyclone",
+          "is_correct": false
+        }
+      ],
+      "answer": "wind"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Difference in air pressure causes ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "rain",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "wind",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "temperature",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "humidity",
+          "is_correct": false
+        }
+      ],
+      "answer": "wind"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Wind direction is measured by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "barometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "wind vane",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "anemometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "thermometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "wind vane"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Wind speed is measured by ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "wind vane",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "barometer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anemometer",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "hygrometer",
+          "is_correct": false
+        }
+      ],
+      "answer": "anemometer"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Anemometer measures ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "air pressure",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "wind speed",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "humidity",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "temperature",
+          "is_correct": false
+        }
+      ],
+      "answer": "wind speed"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Land breeze blows during ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "day",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "night",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "evening",
+          "is_correct": false
+        }
+      ],
+      "answer": "night"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Sea breeze blows during ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "night",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "day",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "winter",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "monsoon",
+          "is_correct": false
+        }
+      ],
+      "answer": "day"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Sea breeze blows from ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "land to sea",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "sea to land",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "north to south",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "east to west",
+          "is_correct": false
+        }
+      ],
+      "answer": "sea to land"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Land breeze blows from ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "sea to land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "land to sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "east to west",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "north to south",
+          "is_correct": false
+        }
+      ],
+      "answer": "land to sea"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Hot air rises because it is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "heavy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "light",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "dense",
+          "is_correct": false
+        }
+      ],
+      "answer": "light"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Cold air sinks because it is ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "light",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hot",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "heavy",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "dry",
+          "is_correct": false
+        }
+      ],
+      "answer": "heavy"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Low pressure develops due to ____ air.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "cold",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "warm",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "heavy",
+          "is_correct": false
+        }
+      ],
+      "answer": "warm"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "High pressure develops due to ____ air.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "warm",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "hot",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "cold",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "moist",
+          "is_correct": false
+        }
+      ],
+      "answer": "cold"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Cyclones form in ____ pressure areas.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "high",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "low",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "low"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Anticyclones form in ____ pressure areas.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "equal",
+          "is_correct": false
+        }
+      ],
+      "answer": "high"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Weather conditions depend largely on ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "air pressure",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "rocks",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "soil",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "plants",
+          "is_correct": false
+        }
+      ],
+      "answer": "air pressure"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Air pressure is measured in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "meters",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "bars",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "degrees",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "seconds",
+          "is_correct": false
+        }
+      ],
+      "answer": "bars"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Decrease in air pressure indicates ____ weather.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "fair",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "stormy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "clear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cold",
+          "is_correct": false
+        }
+      ],
+      "answer": "stormy"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Increase in air pressure indicates ____ weather.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stormy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "rainy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "clear",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "cloudy",
+          "is_correct": false
+        }
+      ],
+      "answer": "clear"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Pressure belts run ____ to the equator.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "parallel",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "perpendicular",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "diagonal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "random",
+          "is_correct": false
+        }
+      ],
+      "answer": "parallel"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Equatorial region has ____ pressure.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "high",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "low",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "variable",
+          "is_correct": false
+        }
+      ],
+      "answer": "low"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Polar regions have ____ pressure.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "variable",
+          "is_correct": false
+        }
+      ],
+      "answer": "high"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Subtropical regions have ____ pressure belts.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "low",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "moderate",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "high",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "none",
+          "is_correct": false
+        }
+      ],
+      "answer": "high"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Air pressure affects ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "winds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "all of these"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Atmospheric pressure acts in ____ directions.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "one",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "three",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "all",
+          "is_correct": true
+        }
+      ],
+      "answer": "all"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "When air is heated, pressure ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "increases",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "decreases",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "stays same",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "stops",
+          "is_correct": false
+        }
+      ],
+      "answer": "decreases"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "When air cools, pressure ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "decreases",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "increases",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "same",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "none",
+          "is_correct": false
+        }
+      ],
+      "answer": "increases"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Air pressure is also called ____ pressure.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "water",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "atmospheric",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "surface",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "wind",
+          "is_correct": false
+        }
+      ],
+      "answer": "atmospheric"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Balloon expands at high altitude due to ____ pressure.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "high",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "low",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "normal",
+          "is_correct": false
+        }
+      ],
+      "answer": "low"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Strong winds blow due to ____ pressure difference.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "small",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "no",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "large",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "equal",
+          "is_correct": false
+        }
+      ],
+      "answer": "large"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Air pressure is lowest at the ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "sea level",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mountain top",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "valley",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "coast",
+          "is_correct": false
+        }
+      ],
+      "answer": "mountain top"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "What is air pressure?",
+      "answer": "The force exerted by air on the Earth."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "Why do we not feel air pressure?",
+      "answer": "It acts equally in all directions."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "What instrument measures air pressure?",
+      "answer": "Barometer."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "What happens to air pressure with altitude?",
+      "answer": "It decreases."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "Why is air pressure low at high altitudes?",
+      "answer": "Air density is less."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "Why do mountaineers carry oxygen?",
+      "answer": "Low air pressure causes less oxygen."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is high pressure area?",
+      "answer": "Area with more air pressure."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is low pressure area?",
+      "answer": "Area with less air pressure."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which air is lighter?",
+      "answer": "Warm air."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which air is heavier?",
+      "answer": "Cold air."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why warm air rises?",
+      "answer": "Because it is lighter."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why cold air sinks?",
+      "answer": "Because it is heavier."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What causes wind?",
+      "answer": "Difference in air pressure."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is wind?",
+      "answer": "Movement of air."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "In which direction does wind blow?",
+      "answer": "From high to low pressure."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is sea breeze?",
+      "answer": "Wind from sea to land during day."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is land breeze?",
+      "answer": "Wind from land to sea at night."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why sea breeze occurs?",
+      "answer": "Land heats faster than sea."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why land breeze occurs?",
+      "answer": "Land cools faster than sea."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is anemometer?",
+      "answer": "Instrument measuring wind speed."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is wind vane?",
+      "answer": "Instrument showing wind direction."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is cyclone?",
+      "answer": "Violent storm from low pressure."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is anticyclone?",
+      "answer": "Calm weather from high pressure."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which pressure causes rainfall?",
+      "answer": "Low pressure."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Which pressure causes clear weather?",
+      "answer": "High pressure."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How does air pressure affect weather?",
+      "answer": "Controls winds and rain."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is atmospheric pressure?",
+      "answer": "Pressure exerted by atmosphere."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why balloon bursts at high altitude?",
+      "answer": "Low external pressure."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why straw works while drinking?",
+      "answer": "Due to air pressure."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why suction cups stick?",
+      "answer": "Because of air pressure."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What are pressure belts?",
+      "answer": "Zones of equal air pressure."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name any one pressure belt.",
+      "answer": "Equatorial low pressure belt."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What pressure is found at equator?",
+      "answer": "Low pressure."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What pressure is found at poles?",
+      "answer": "High pressure."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why equator has low pressure?",
+      "answer": "Intense heating of air."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why poles have high pressure?",
+      "answer": "Cold dense air."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is humidity?",
+      "answer": "Amount of water vapour in air."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How humidity affects pressure?",
+      "answer": "More humidity lowers pressure."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is weather?",
+      "answer": "Day-to-day condition of atmosphere."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is climate?",
+      "answer": "Average weather of a place."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How air pressure affects climate?",
+      "answer": "Controls winds and rainfall."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why winds are strong during storms?",
+      "answer": "Large pressure difference."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What happens when pressure difference is small?",
+      "answer": "Light winds blow."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why air pressure is important?",
+      "answer": "It influences weather."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What happens when air cools?",
+      "answer": "Pressure increases."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What happens when air heats?",
+      "answer": "Pressure decreases."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why clouds form in low pressure?",
+      "answer": "Air rises and cools."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why clear sky in high pressure?",
+      "answer": "Air sinks."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is atmospheric circulation?",
+      "answer": "Large scale air movement."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why study air pressure?",
+      "answer": "To understand weather patterns."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How does air pressure affect aviation?",
+      "answer": "Affects aircraft lift."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why ear pain occurs in flights?",
+      "answer": "Sudden pressure change."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is normal air pressure?",
+      "answer": "Pressure at sea level."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How air pressure affects human life?",
+      "answer": "Breathing and weather."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why air pressure varies?",
+      "answer": "Due to temperature and altitude."
+    }
+  ]
+}

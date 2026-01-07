@@ -1,0 +1,1372 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 2",
+    "chapter_number": 1,
+    "chapter_name": "अस्पताल"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘अस्पताल’ पाठ का मुख्य विषय क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चिकित्सा सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विद्यालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यात्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेल",
+          "is_correct": false
+        }
+      ],
+      "answer": "चिकित्सा सेवा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल को किस रूप में दिखाया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा केंद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापार स्थल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भय का स्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कारागार",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा केंद्र"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अस्पताल में मरीज क्यों आते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलाज के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घूमने के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्राम के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलाज के लिए"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाठ में डॉक्टर की भूमिका क्या बताई गई है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवाभावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लापरवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कठोर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवाभावी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अस्पताल में नर्स का मुख्य कार्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मरीजों की देखभाल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दंड देना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लेखा-जोखा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रबंधन",
+          "is_correct": false
+        }
+      ],
+      "answer": "मरीजों की देखभाल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाठ के अनुसार अस्पताल का वातावरण कैसा होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवेदनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उत्सवमय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शोरगुल वाला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आनंददायक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अस्पताल में कौन-सी भावना प्रमुख होती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "करुणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घृणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "करुणा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पाठ में मरीजों के प्रति क्या व्यवहार दिखाया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहानुभूतिपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उपेक्षापूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहानुभूतिपूर्ण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अस्पताल किसके सहयोग से चलता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डॉक्टर और स्टाफ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल डॉक्टर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल नर्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मरीज",
+          "is_correct": false
+        }
+      ],
+      "answer": "डॉक्टर और स्टाफ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल को क्यों आवश्यक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन रक्षा के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापार के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा के लिए",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन रक्षा के लिए"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अस्पताल में स्वच्छता क्यों जरूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोग से बचाव के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सजावट के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "औपचारिकता के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोग से बचाव के लिए"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाठ में मरीजों की स्थिति कैसी बताई गई है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमजोर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उत्साही",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निश्चिंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लापरवाह",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमजोर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अस्पताल में अनुशासन क्यों आवश्यक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यवस्था बनाए रखने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यवस्था बनाए रखने के लिए"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाठ में डॉक्टर किस भावना से कार्य करते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा भाव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा भाव"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अस्पताल में मरीजों को क्या मिलता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपचार और आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दंड",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपचार और आशा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल को किससे जोड़ा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लाभ",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अस्पताल में समय का पालन क्यों जरूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलाज के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "औपचारिकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलाज के लिए"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पाठ में नर्सों का व्यवहार कैसा बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहयोगी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लापरवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहयोगी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अस्पताल में कौन-सी सेवा सबसे महत्वपूर्ण है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चिकित्सा सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भोजन सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रबंधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लेखा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चिकित्सा सेवा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल का उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा और उपचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ कमाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रसिद्धि",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा और उपचार"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अस्पताल में मरीजों के साथ कैसा व्यवहार होना चाहिए?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवेदनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपेक्षापूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लापरवाह",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाठ में डॉक्टरों की मेहनत क्यों सराहनीय है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन बचाने के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रसिद्धि के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर के कारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन बचाने के कारण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "अस्पताल में सहयोग क्यों आवश्यक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपचार की सफलता के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपचार की सफलता के लिए"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल को किस प्रकार का स्थान कहा गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा का स्थान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर का स्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार स्थल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्राम स्थल",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा का स्थान"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अस्पताल में मरीजों को क्या आशा मिलती है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वस्थ होने की",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर की",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाभ की",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा की",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वस्थ होने की"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल का सामाजिक महत्व क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन रक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन रक्षा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अस्पताल में नियमों का पालन क्यों जरूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुरक्षा के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षा के लिए"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल के स्टाफ का आपसी व्यवहार कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहयोगपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विरोधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लापरवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहयोगपूर्ण"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "अस्पताल में कौन-सा गुण सबसे आवश्यक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "करुणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "करुणा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पाठ का भाव कैसा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवेदनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हास्यपूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यंग्यात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराशाजनक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "अस्पताल में मरीजों की देखभाल कौन करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डॉक्टर और नर्स",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल डॉक्टर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल नर्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभिभावक",
+          "is_correct": false
+        }
+      ],
+      "answer": "डॉक्टर और नर्स"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल का वातावरण क्यों गंभीर है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मरीजों की स्थिति के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शोर के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "मरीजों की स्थिति के कारण"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अस्पताल में सेवा का महत्व क्यों बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मानवता के कारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ के कारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवता के कारण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल किस भावना को दर्शाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "करुणा और सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लालच",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "करुणा और सेवा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "अस्पताल में मरीजों को क्या सबसे अधिक चाहिए?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहानुभूति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपेक्षा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहानुभूति"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पाठ में डॉक्टरों को किस रूप में दिखाया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवक के रूप में",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शासक के रूप में",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापारी के रूप में",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलोचक के रूप में",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवक के रूप में"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "अस्पताल में मरीजों की सहायता क्यों जरूरी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शीघ्र स्वस्थ होने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "शीघ्र स्वस्थ होने के लिए"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पाठ में अस्पताल को समाज के लिए क्यों आवश्यक बताया गया है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जीवन बचाने के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लाभ कमाने के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन के लिए",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवन बचाने के लिए"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अस्पताल में सेवा भाव किससे झलकता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्मचारियों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भवन से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपकरणों से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नियमों से",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्मचारियों से"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पाठ का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सेवा और करुणा का महत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लाभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिस्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा और करुणा का महत्व"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘अस्पताल’ पाठ का मुख्य विषय क्या है?",
+      "answer": "अस्पताल में होने वाली सेवा और मानवता का वर्णन।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल को किस रूप में प्रस्तुत किया गया है?",
+      "answer": "सेवा और करुणा के केंद्र के रूप में।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "अस्पताल क्यों आवश्यक है?",
+      "answer": "बीमारों के उपचार और जीवन रक्षा के लिए।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "पाठ में डॉक्टर की भूमिका कैसी बताई गई है?",
+      "answer": "सेवाभावी और जिम्मेदार।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "नर्सों का कार्य क्या बताया गया है?",
+      "answer": "मरीजों की देखभाल करना।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल का वातावरण कैसा है?",
+      "answer": "संवेदनशील और गंभीर।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "अस्पताल में स्वच्छता क्यों जरूरी है?",
+      "answer": "रोगों से बचाव के लिए।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "पाठ में मरीजों के प्रति क्या भावना दिखाई गई है?",
+      "answer": "सहानुभूति।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "अस्पताल का मुख्य उद्देश्य क्या है?",
+      "answer": "उपचार और सेवा।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल का सामाजिक महत्व क्या है?",
+      "answer": "जीवन रक्षा।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अस्पताल में अनुशासन क्यों आवश्यक है?",
+      "answer": "व्यवस्था बनाए रखने के लिए।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाठ में डॉक्टर किस भावना से कार्य करते हैं?",
+      "answer": "सेवा भाव से।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अस्पताल में मरीजों को क्या मिलता है?",
+      "answer": "उपचार और आशा।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल को मानवता से क्यों जोड़ा गया है?",
+      "answer": "क्योंकि वहाँ सेवा होती है।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नर्सों का व्यवहार कैसा बताया गया है?",
+      "answer": "सहयोगी और करुणामय।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अस्पताल में समय का पालन क्यों जरूरी है?",
+      "answer": "इलाज सही समय पर हो सके।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पाठ में मरीजों की स्थिति कैसी बताई गई है?",
+      "answer": "कमजोर और पीड़ित।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अस्पताल में सहयोग का क्या महत्व है?",
+      "answer": "उपचार की सफलता के लिए।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल का वातावरण क्यों गंभीर है?",
+      "answer": "मरीजों की स्थिति के कारण।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "अस्पताल में मरीजों को किस चीज की सबसे अधिक आवश्यकता होती है?",
+      "answer": "सहानुभूति।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल को सेवा का स्थान क्यों कहा गया है?",
+      "answer": "क्योंकि वहाँ निःस्वार्थ सेवा होती है।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "डॉक्टरों की मेहनत क्यों सराहनीय है?",
+      "answer": "वे जीवन बचाते हैं।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "अस्पताल में नियमों का पालन क्यों जरूरी है?",
+      "answer": "सुरक्षा और व्यवस्था के लिए।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल का भाव कैसा है?",
+      "answer": "संवेदनशील।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "अस्पताल में मरीजों के साथ कैसा व्यवहार होना चाहिए?",
+      "answer": "संवेदनशील और सहानुभूतिपूर्ण।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल किस भावना को दर्शाता है?",
+      "answer": "करुणा।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अस्पताल में सेवा भाव किससे झलकता है?",
+      "answer": "डॉक्टर और स्टाफ के व्यवहार से।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाठ में मरीजों की सहायता क्यों आवश्यक बताई गई है?",
+      "answer": "शीघ्र स्वस्थ होने के लिए।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "अस्पताल का समाज के लिए क्या महत्व है?",
+      "answer": "यह जीवन बचाने में सहायक है।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल का उद्देश्य एक वाक्य में लिखिए।",
+      "answer": "बीमारों की सेवा और उपचार।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल का वातावरण पाठक पर क्या प्रभाव डालता है?",
+      "answer": "संवेदनशीलता उत्पन्न करता है।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अस्पताल में कर्मचारियों का आपसी व्यवहार कैसा है?",
+      "answer": "सहयोगपूर्ण।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल को क्यों आवश्यक संस्था बताया गया है?",
+      "answer": "क्योंकि यह मानव जीवन की रक्षा करता है।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "अस्पताल में मरीजों को क्या आशा मिलती है?",
+      "answer": "स्वस्थ होने की।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल के कर्मचारियों की कौन-सी विशेषता दिखाई गई है?",
+      "answer": "कर्तव्यनिष्ठा।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "अस्पताल में सेवा क्यों सर्वोपरि है?",
+      "answer": "क्योंकि वह मानवता का प्रतीक है।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पाठ में अस्पताल का वर्णन किस शैली में किया गया है?",
+      "answer": "संवेदनशील शैली में।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अस्पताल में मरीजों के लिए सबसे महत्वपूर्ण क्या है?",
+      "answer": "उचित उपचार।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पाठ से हमें क्या सीख मिलती है?",
+      "answer": "सेवा और करुणा का महत्व।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "‘अस्पताल’ पाठ का मुख्य संदेश क्या है?",
+      "answer": "मानव सेवा ही सबसे बड़ा धर्म है।"
+    }
+  ]
+}

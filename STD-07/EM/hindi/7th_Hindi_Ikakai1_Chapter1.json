@@ -1,0 +1,1484 @@
+{
+  "chapter_metadata": {
+    "standard": "7",
+    "subject": "Hindi",
+    "book": "सुगमभारती",
+    "unit": "इकाई 1",
+    "chapter_number": 1,
+    "chapter_name": "वाचन मेला"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘वाचन मेला’ का मुख्य उद्देश्य क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तक बिक्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पढ़ने की रुचि बढ़ाना",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खेलकूद",
+          "is_correct": false
+        }
+      ],
+      "answer": "पढ़ने की रुचि बढ़ाना"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किससे संबंधित है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकें",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "यात्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संगीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकें"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में किस प्रकार की पुस्तकें होती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल पाठ्यपुस्तकें",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विविध प्रकार की पुस्तकें",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवल कहानियाँ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवल कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "विविध प्रकार की पुस्तकें"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में बच्चे क्या करते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोते हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकें पढ़ते हैं",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लड़ते हैं",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागते हैं",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकें पढ़ते हैं"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वाचन मेले से बच्चों में क्या विकसित होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पढ़ने की आदत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "पढ़ने की आदत"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘ग्रंथदिंडी’ शब्द का संबंध किससे है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तक यात्रा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नृत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रकला",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तक यात्रा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वाचन मेला कहाँ आयोजित किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मैदान में",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्यालय में",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रेलवे स्टेशन पर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घर में",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यालय में"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में किस प्रकार का वातावरण होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोधित",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किसके लिए उपयोगी है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल विद्यार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सभी के लिए",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "केवल लेखक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सभी के लिए"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में कौन भाग लेते हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल बच्चे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बड़े",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षक और विद्यार्थी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "केवल अभिभावक",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षक और विद्यार्थी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में पुस्तकें कैसे होती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फटी हुई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुसज्जित",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पुरानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुसज्जित"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वाचन मेला बच्चों को किस ओर प्रेरित करता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेलने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पढ़ने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "झगड़ने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागने",
+          "is_correct": false
+        }
+      ],
+      "answer": "पढ़ने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "वाचन मेले का आयोजन क्यों किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समय बिताने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान बढ़ाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोर करने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दंड देने",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान बढ़ाने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस प्रकार की गतिविधि है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेलकूद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घरेलू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यावसायिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में किस भाषा की पुस्तकें हो सकती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवल हिंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवल अंग्रेज़ी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विविध भाषाओं की",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "केवल मराठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विविध भाषाओं की"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "वाचन मेले से बच्चों को क्या लाभ होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस कौशल को बढ़ाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रवण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पठन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में बच्चों का व्यवहार कैसा होना चाहिए?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुशासित",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उपद्रवी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लापरवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलसी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुशासित"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में पुस्तकों के साथ क्या किया जाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फेंका जाता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पढ़ा जाता है",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "छिपाया जाता है",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जलाया जाता है",
+          "is_correct": false
+        }
+      ],
+      "answer": "पढ़ा जाता है"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस संस्कृति को बढ़ावा देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पठन संस्कृति",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेल संस्कृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "टीवी संस्कृति",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोबाइल संस्कृति",
+          "is_correct": false
+        }
+      ],
+      "answer": "पठन संस्कृति"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में कौन-सी पुस्तकें आकर्षित करती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रयुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बिना अक्षर",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रयुक्त"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस प्रकार का अनुभव देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोमांचक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "उबाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कष्टदायक",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोमांचक"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वाचन मेला बच्चों को किससे जोड़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान से"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में कौन-सा गुण विकसित होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जिज्ञासा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिज्ञासा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में पुस्तकों का चयन कैसे होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुचि के अनुसार",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "जबरदस्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयोग से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर से",
+          "is_correct": false
+        }
+      ],
+      "answer": "रुचि के अनुसार"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस प्रकार की सीख देता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अनैतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनुचित",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "वाचन मेला बच्चों को क्या सिखाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समय का महत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लड़ाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "समय का महत्व"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में भाग लेने से क्या बढ़ता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकान",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किससे संबंधित नहीं है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पठन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिंसा",
+          "is_correct": true
+        }
+      ],
+      "answer": "हिंसा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वाचन मेले का संदेश क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पढ़ो और बढ़ो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सोओ और भूलो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डरो और भागो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लड़ो और जीतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "पढ़ो और बढ़ो"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वाचन मेला बच्चों को किससे परिचित कराता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेखकों से",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य से",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध से",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेखकों से"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में किस प्रकार की गतिविधियाँ होती हैं?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पठन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चर्चा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सभी",
+          "is_correct": true
+        }
+      ],
+      "answer": "सभी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस प्रकार की आदत बनाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अच्छी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बुरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गलत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हानिकारक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अच्छी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में कौन-सा व्यवहार उचित है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांति बनाए रखना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शोर मचाना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दौड़ना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धक्का देना",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांति बनाए रखना"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किसका प्रतीक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान का",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर का",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध का",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान का"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में पुस्तकों का क्या महत्व है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अत्यधिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नहीं",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनावश्यक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अत्यधिक"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "वाचन मेला बच्चों को किससे दूर रखता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अध्ययन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अज्ञान"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में कौन-सा गुण आवश्यक है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "क्रोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ईर्ष्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डर",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्य"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस प्रकार का आयोजन है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शैक्षणिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राजनीतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यावसायिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धार्मिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "शैक्षणिक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में बच्चों की भूमिका क्या है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाठक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दर्शक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपद्रवी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आलसी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाठक"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किसके सहयोग से सफल होता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षक और विद्यार्थी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "केवल बच्चे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केवल अभिभावक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोई नहीं",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षक और विद्यार्थी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस भावना को बढ़ाता है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "डर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान प्रेम"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "वाचन मेले में पुस्तकों के साथ कैसा व्यवहार होना चाहिए?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सावधानीपूर्वक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लापरवाही से",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फेंककर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तोड़कर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सावधानीपूर्वक"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "वाचन मेला किस उद्देश्य से जुड़ा है?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हिंसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आलस्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासी",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "वाचन मेला क्या है?",
+      "answer": "पुस्तकों से संबंधित शैक्षणिक आयोजन।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "वाचन मेले का उद्देश्य क्या है?",
+      "answer": "पढ़ने की रुचि विकसित करना।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "वाचन मेला कहाँ आयोजित किया जाता है?",
+      "answer": "विद्यालय में।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में कौन भाग लेते हैं?",
+      "answer": "विद्यार्थी और शिक्षक।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में क्या प्रदर्शित होता है?",
+      "answer": "विविध पुस्तकें।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों को क्या सिखाता है?",
+      "answer": "ज्ञान का महत्व।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वाचन मेले से कौन-सी आदत विकसित होती है?",
+      "answer": "पठन की आदत।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में किस प्रकार की पुस्तकें होती हैं?",
+      "answer": "ज्ञानवर्धक पुस्तकें।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वाचन मेला क्यों महत्वपूर्ण है?",
+      "answer": "यह पढ़ने की संस्कृति बढ़ाता है।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में बच्चों का व्यवहार कैसा होना चाहिए?",
+      "answer": "अनुशासित।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में पुस्तकों का चयन कैसे होता है?",
+      "answer": "रुचि के अनुसार।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वाचन मेला किस कौशल को बढ़ाता है?",
+      "answer": "पठन कौशल।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में शांति क्यों आवश्यक है?",
+      "answer": "एकाग्रता के लिए।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों को किससे जोड़ता है?",
+      "answer": "ज्ञान से।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में भाग लेने से क्या लाभ होता है?",
+      "answer": "आत्मविश्वास बढ़ता है।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वाचन मेला किस प्रकार की गतिविधि है?",
+      "answer": "शैक्षणिक गतिविधि।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में पुस्तकों के साथ कैसा व्यवहार होना चाहिए?",
+      "answer": "सावधानीपूर्वक।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वाचन मेला किस संस्कृति को बढ़ावा देता है?",
+      "answer": "पठन संस्कृति।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में कौन-सा गुण आवश्यक है?",
+      "answer": "धैर्य।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों को क्या प्रेरणा देता है?",
+      "answer": "अधिक पढ़ने की।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में कौन-सी पुस्तकें आकर्षित करती हैं?",
+      "answer": "चित्रयुक्त पुस्तकें।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में चर्चा का क्या महत्व है?",
+      "answer": "विचार साझा करने के लिए।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों को किससे दूर रखता है?",
+      "answer": "अज्ञान से।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में पुस्तकों का क्या महत्व है?",
+      "answer": "अत्यधिक।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में भाग लेना क्यों अच्छा है?",
+      "answer": "ज्ञान प्राप्ति के लिए।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में कौन-सी गतिविधियाँ होती हैं?",
+      "answer": "पठन और चर्चा।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों को किस प्रकार का अनुभव देता है?",
+      "answer": "सकारात्मक अनुभव।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में पुस्तकों की सजावट कैसी होती है?",
+      "answer": "आकर्षक।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों में कौन-सी भावना जगाता है?",
+      "answer": "जिज्ञासा।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में समय का सदुपयोग कैसे होता है?",
+      "answer": "पढ़ने में।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "वाचन मेला किस प्रकार की सीख देता है?",
+      "answer": "नैतिक सीख।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में भाग लेने से क्या विकसित होता है?",
+      "answer": "ज्ञान।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में पुस्तकों का रख-रखाव क्यों जरूरी है?",
+      "answer": "पुस्तकों की सुरक्षा के लिए।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों को किस ओर ले जाता है?",
+      "answer": "ज्ञान की ओर।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में किस प्रकार का वातावरण होता है?",
+      "answer": "शांत और आनंददायक।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वाचन मेला किसके सहयोग से सफल होता है?",
+      "answer": "शिक्षक और विद्यार्थी।"
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में पुस्तकों का आदान-प्रदान क्यों होता है?",
+      "answer": "ज्ञान साझा करने के लिए।"
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वाचन मेला बच्चों को क्या संदेश देता है?",
+      "answer": "पढ़ो और बढ़ो।"
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में भाग लेने से कौन-सा गुण बढ़ता है?",
+      "answer": "आत्मअनुशासन।"
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वाचन मेले में पुस्तकों का चयन क्यों जरूरी है?",
+      "answer": "रुचि के अनुसार पढ़ने के लिए।"
+    }
+  ]
+}
