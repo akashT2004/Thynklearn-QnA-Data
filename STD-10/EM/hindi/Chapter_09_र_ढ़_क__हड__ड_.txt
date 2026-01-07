@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.09",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "रीढ़ की हड्डी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "प्रस्तुत एकांकी 'रीढ़ की हड्डी' के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "रामकुमार वर्मा", "is_correct": false },
+        { "option_id": 2, "text": "जगदीशचंद्र माथुर", "is_correct": true },
+        { "option_id": 3, "text": "विष्णु प्रभाकर", "is_correct": false },
+        { "option_id": 4, "text": "उपेन्द्रनाथ अश्क", "is_correct": false }
+      ],
+      "answer": "जगदीशचंद्र माथुर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "रामस्वरूप की बेटी का नाम क्या है?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमा", "is_correct": false },
+        { "option_id": 2, "text": "उमा", "is_correct": true },
+        { "option_id": 3, "text": "राधा", "is_correct": false },
+        { "option_id": 4, "text": "सीता", "is_correct": false }
+      ],
+      "answer": "उमा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "रामस्वरूप के नौकर का क्या नाम है?",
+      "options": [
+        { "option_id": 1, "text": "शंकर", "is_correct": false },
+        { "option_id": 2, "text": "गोपाल", "is_correct": false },
+        { "option_id": 3, "text": "रतन", "is_correct": true },
+        { "option_id": 4, "text": "मोहन", "is_correct": false }
+      ],
+      "answer": "रतन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "उमा के पिता का नाम क्या है?",
+      "options": [
+        { "option_id": 1, "text": "गोपाल प्रसाद", "is_correct": false },
+        { "option_id": 2, "text": "शंकर", "is_correct": false },
+        { "option_id": 3, "text": "रामस्वरूप", "is_correct": true },
+        { "option_id": 4, "text": "रतन", "is_correct": false }
+      ],
+      "answer": "रामस्वरूप"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गोपाल प्रसाद अपने बेटे शंकर के लिए कैसी बहू चाहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "ज्यादा पढ़ी-लिखी", "is_correct": false },
+        { "option_id": 2, "text": "कम पढ़ी-लिखी (मैट्रिक तक)", "is_correct": true },
+        { "option_id": 3, "text": "नौकरी करने वाली", "is_correct": false },
+        { "option_id": 4, "text": "वकील", "is_correct": false }
+      ],
+      "answer": "कम पढ़ी-लिखी (मैट्रिक तक)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उमा ने कौन सी परीक्षा पास की थी?",
+      "options": [
+        { "option_id": 1, "text": "बी.ए.", "is_correct": true },
+        { "option_id": 2, "text": "एम.ए.", "is_correct": false },
+        { "option_id": 3, "text": "मैट्रिक", "is_correct": false },
+        { "option_id": 4, "text": "इंटरमीडिएट", "is_correct": false }
+      ],
+      "answer": "बी.ए."
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गोपाल प्रसाद क्या काम करते हैं?",
+      "options": [
+        { "option_id": 1, "text": "डॉक्टर", "is_correct": false },
+        { "option_id": 2, "text": "वकील", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "वकील"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शंकर किस कॉलेज में पढ़ता है?",
+      "options": [
+        { "option_id": 1, "text": "इंजीनियरिंग कॉलेज", "is_correct": false },
+        { "option_id": 2, "text": "मेडिकल कॉलेज", "is_correct": true },
+        { "option_id": 3, "text": "लॉ कॉलेज", "is_correct": false },
+        { "option_id": 4, "text": "आर्ट्स कॉलेज", "is_correct": false }
+      ],
+      "answer": "मेडिकल कॉलेज"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "रामस्वरूप ने उमा को क्या पहनकर आने को कहा?",
+      "options": [
+        { "option_id": 1, "text": "सादे कपड़े", "is_correct": true },
+        { "option_id": 2, "text": "फैंसी कपड़े", "is_correct": false },
+        { "option_id": 3, "text": "जेवर", "is_correct": false },
+        { "option_id": 4, "text": "विदेशी कपड़े", "is_correct": false }
+      ],
+      "answer": "सादे कपड़े"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "गोपाल प्रसाद के अनुसार किस पर 'टैक्स' लगना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "पढ़ाई पर", "is_correct": false },
+        { "option_id": 2, "text": "खूबसूरती पर", "is_correct": true },
+        { "option_id": 3, "text": "शादी पर", "is_correct": false },
+        { "option_id": 4, "text": "नाश्ते पर", "is_correct": false }
+      ],
+      "answer": "खूबसूरती पर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "उमा को चश्मा क्यों लगा था?",
+      "options": [
+        { "option_id": 1, "text": "पढ़ाई के कारण", "is_correct": false },
+        { "option_id": 2, "text": "आँखें दुखने के कारण", "is_correct": true },
+        { "option_id": 3, "text": "सिलाई के कारण", "is_correct": false },
+        { "option_id": 4, "text": "धूप के कारण", "is_correct": false }
+      ],
+      "answer": "आँखें दुखने के कारण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गोपाल प्रसाद विवाह को क्या मानते हैं?",
+      "options": [
+        { "option_id": 1, "text": "पवित्र बंधन", "is_correct": false },
+        { "option_id": 2, "text": "दो परिवारों का मिलन", "is_correct": false },
+        { "option_id": 3, "text": "बिजनेस (व्यापार)", "is_correct": true },
+        { "option_id": 4, "text": "धार्मिक कार्य", "is_correct": false }
+      ],
+      "answer": "बिजनेस (व्यापार)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "शंकर की क्या शारीरिक कमी बताई गई है?",
+      "options": [
+        { "option_id": 1, "text": "वह लंगड़ा है", "is_correct": false },
+        { "option_id": 2, "text": "उसकी रीढ़ की हड्डी नहीं है (कमर झुककर बैठता है)", "is_correct": true },
+        { "option_id": 3, "text": "वह बहरा है", "is_correct": false },
+        { "option_id": 4, "text": "वह हकलाता है", "is_correct": false }
+      ],
+      "answer": "उसकी रीढ़ की हड्डी नहीं है (कमर झुककर बैठता है)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "उमा ने सितार पर कौन सा भजन गाया?",
+      "options": [
+        { "option_id": 1, "text": "पायो जी मैंने राम रतन धन पायो", "is_correct": false },
+        { "option_id": 2, "text": "मेरे तो गिरिधर गोपाल", "is_correct": true },
+        { "option_id": 3, "text": "रघुपति राघव राजा राम", "is_correct": false },
+        { "option_id": 4, "text": "वैष्णव जन तो", "is_correct": false }
+      ],
+      "answer": "मेरे तो गिरिधर गोपाल"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रामस्वरूप ने मेहमानों के लिए क्या मंगवाया था?",
+      "options": [
+        { "option_id": 1, "text": "खाना", "is_correct": false },
+        { "option_id": 2, "text": "नाश्ता (टोस्ट, मक्खन)", "is_correct": true },
+        { "option_id": 3, "text": "मिठाई", "is_correct": false },
+        { "option_id": 4, "text": "फल", "is_correct": false }
+      ],
+      "answer": "नाश्ता (टोस्ट, मक्खन)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गोपाल प्रसाद को गुस्सा क्यों आया?",
+      "options": [
+        { "option_id": 1, "text": "चाय ठंडी थी", "is_correct": false },
+        { "option_id": 2, "text": "उमा ने जवाब दिया", "is_correct": false },
+        { "option_id": 3, "text": "उन्हें लगा उनकी बेइज्जती की गई (उमा के पढ़े-लिखे होने के कारण)", "is_correct": true },
+        { "option_id": 4, "text": "नाश्ता अच्छा नहीं था", "is_correct": false }
+      ],
+      "answer": "उन्हें लगा उनकी बेइज्जती की गई (उमा के पढ़े-लिखे होने के कारण)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "उमा ने शंकर की किस हरकत का पर्दाफाश किया?",
+      "options": [
+        { "option_id": 1, "text": "चोरी करने की", "is_correct": false },
+        { "option_id": 2, "text": "झूठ बोलने की", "is_correct": false },
+        { "option_id": 3, "text": "लड़कियों के हॉस्टल में ताक-झाँक करने की", "is_correct": true },
+        { "option_id": 4, "text": "परीक्षा में नकल करने की", "is_correct": false }
+      ],
+      "answer": "लड़कियों के हॉस्टल में ताक-झाँक करने की"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "दीवार पर टंगी कुत्ते वाली तस्वीर किसने बनाई थी?",
+      "options": [
+        { "option_id": 1, "text": "रामस्वरूप ने", "is_correct": false },
+        { "option_id": 2, "text": "प्रेमा ने", "is_correct": false },
+        { "option_id": 3, "text": "उमा ने", "is_correct": true },
+        { "option_id": 4, "text": "बाजार से खरीदी थी", "is_correct": false }
+      ],
+      "answer": "उमा ने"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रामस्वरूप ने उमा की शिक्षा के बारे में गोपाल प्रसाद से क्या झूठ बोला?",
+      "options": [
+        { "option_id": 1, "text": "वह अनपढ़ है", "is_correct": false },
+        { "option_id": 2, "text": "वह सिर्फ मैट्रिक पास है", "is_correct": true },
+        { "option_id": 3, "text": "वह बी.ए. पास है", "is_correct": false },
+        { "option_id": 4, "text": "वह डॉक्टर है", "is_correct": false }
+      ],
+      "answer": "वह सिर्फ मैट्रिक पास है"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'रीढ़ की हड्डी' एकांकी का मुख्य उद्देश्य क्या है?",
+      "options": [
+        { "option_id": 1, "text": "दहेज प्रथा का विरोध", "is_correct": false },
+        { "option_id": 2, "text": "स्त्री शिक्षा और सम्मान का महत्व बताना", "is_correct": true },
+        { "option_id": 3, "text": "राजनीति पर चर्चा", "is_correct": false },
+        { "option_id": 4, "text": "महंगाई की समस्या", "is_correct": false }
+      ],
+      "answer": "स्त्री शिक्षा और सम्मान का महत्व बताना"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "रामस्वरूप और उनका नौकर कमरे में क्या बिछा रहे थे?",
+      "answer": "रामस्वरूप और उनका नौकर कमरे में तख्त और उस पर दरी बिछा रहे थे।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "प्रेमा ने उमा के बारे में रामस्वरूप को क्या बताया?",
+      "answer": "प्रेमा ने बताया कि उमा मुँह फुलाए पड़ी है और वह तैयार नहीं हो रही है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "गोपाल प्रसाद को रास्ते में क्या सुविधा मिली?",
+      "answer": "गोपाल प्रसाद को ताँगेवाला मिला जो रास्ता जानता था, इसलिए उन्हें मकान ढूँढ़ने में तकलीफ नहीं हुई।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "शंकर किस लिए लखनऊ आया था?",
+      "answer": "शंकर 'वीक एंड' (सप्ताहांत) की छुट्टियों में घर आया था (वैसे वह लखनऊ में ही पढ़ता था)।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "रामस्वरूप ने चाय के साथ क्या नाश्ता दिया?",
+      "answer": "रामस्वरूप ने चाय के साथ समोसे, मक्खन और टोस्ट दिए।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "गोपाल प्रसाद ने चाय में क्या ज्यादा डालने को कहा?",
+      "answer": "गोपाल प्रसाद ने चाय में चीनी ज्यादा डालने को कहा।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "बाप-बेटे उमा को देखकर क्यों चौंक उठे?",
+      "answer": "उमा के चेहरे पर सुनहरी रिमवाला चश्मा देखकर बाप-बेटे चौंक उठे।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "उमा ने गाना गाते हुए अचानक क्यों बंद कर दिया?",
+      "answer": "गाते समय उमा की आँखें शंकर से मिलीं और वह उसे पहचान कर झेंप गई, इसलिए उसने गाना बंद कर दिया।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "उमा ने सिलाई के बारे में क्या बताया गया?",
+      "answer": "रामस्वरूप ने बताया कि घर की सारी सिलाई, यहाँ तक कि उनकी कमीजें भी उमा ही सिलती है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "उमा ने दुकानदार और कुर्सी-मेज का उदाहरण क्यों दिया?",
+      "answer": "उमा ने कहा कि जब कुर्सी-मेज बिकती है तो दुकानदार उनसे कुछ नहीं पूछता, सिर्फ खरीददार को दिखा देता है; उसी तरह लड़कियों को भी बेजान वस्तु समझा जा रहा है।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "शंकर हॉस्टल से क्यों भगाया गया था?",
+      "answer": "शंकर लड़कियों के हॉस्टल में ताक-झाँक करते हुए पकड़ा गया था और नौकरानी के पैरों में पड़कर माफी मांगकर भगा था।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "गोपाल प्रसाद ने रामस्वरूप पर क्या आरोप लगाया?",
+      "answer": "गोपाल प्रसाद ने आरोप लगाया कि रामस्वरूप ने उमा की पढ़ाई (बी.ए. पास) छिपाकर उनके साथ दगा (धोखा) किया है।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "उमा ने शंकर की रीढ़ की हड्डी के बारे में क्या कहा?",
+      "answer": "उमा ने कहा कि घर जाकर पता लगाइए कि आपके लाड़ले बेटे की रीढ़ की हड्डी (backbone) है भी या नहीं।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "जगदीशचंद्र माथुर किस विधा के लिए प्रसिद्ध हैं?",
+      "answer": "जगदीशचंद्र माथुर प्रसिद्ध नाटककार और एकांकीकार के रूप में प्रतिष्ठित हैं।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "इस एकांकी में 'तख्त' और 'तश्तरी' शब्द किस भाषा के हैं?",
+      "answer": "'तख्त' और 'तश्तरी' फारसी भाषा के शब्द हैं।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "गोपाल प्रसाद लड़कियों की पढ़ाई के बारे में क्या सोचते थे?",
+      "answer": "गोपाल प्रसाद सोचते थे कि लड़कियों को अधिक पढ़ने की जरूरत नहीं है, उन्हें सिर्फ सिलाई-पुराई और घर का काम आना चाहिए।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "रामस्वरूप अपनी बेटी की पढ़ाई क्यों छिपाते हैं?",
+      "answer": "रामस्वरूप अपनी बेटी की पढ़ाई इसलिए छिपाते हैं क्योंकि गोपाल प्रसाद को कम पढ़ी-लिखी बहू चाहिए थी और वे उमा की शादी करवाना चाहते थे।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "उमा का व्यक्तित्व कैसा है?",
+      "answer": "उमा सुशिक्षित, स्वाभिमानी और स्पष्टवादी युवती है जो अन्याय का विरोध करती है।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "गोपाल प्रसाद और शंकर घर से कैसे निकले?",
+      "answer": "गोपाल प्रसाद गुस्से में और शंकर रुआँसा होकर, बेइज्जत महसूस करते हुए घर से चले गए।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "'रीढ़ की हड्डी' शीर्षक का क्या प्रतीकात्मक अर्थ है?",
+      "answer": "'रीढ़ की हड्डी' चरित्र, स्वाभिमान और व्यक्तित्व के सीधेपन का प्रतीक है, जो शंकर में नहीं था।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "एकांकी 'रीढ़ की हड्डी' के आधार पर उमा का चरित्र चित्रण कीजिए।",
+      "answer": "उमा इस एकांकी की मुख्य पात्र है। वह एक सुशिक्षित (बी.ए. पास) युवती है। वह सादगी पसंद है और दिखावे में विश्वास नहीं करती। वह स्वाभिमानी है और लड़कियों को भेड़-बकरी की तरह तोले जाने का विरोध करती है। वह निडर है और गोपाल प्रसाद जैसे दकियानूसी लोगों को करारा जवाब देती है। उसने शंकर की असलियत सबके सामने लाकर अपने आत्मसम्मान की रक्षा की। वह आज की नारी का प्रतिनिधित्व करती है जो अपने अधिकारों के प्रति सजग है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "गोपाल प्रसाद के विचारों की आलोचना कीजिए।",
+      "answer": "गोपाल प्रसाद एक पेशे से वकील और समाज में उठने-बैठने वाले व्यक्ति हैं, लेकिन उनके विचार अत्यंत संकीर्ण और दकियानूसी हैं। वे लड़के और लड़की में भेदभाव करते हैं। वे चाहते हैं कि बहू कम पढ़ी-लिखी हो ताकि वह उनकी गुलाम बनकर रहे। वे शादी को एक 'बिजनेस' मानते हैं और खूबसूरती पर टैक्स लगाने जैसी भद्दी बातें करते हैं। उनका मानना है कि पढ़ाई सिर्फ मर्दों का अधिकार है। उनका यह दोहरा चरित्र समाज के लिए घातक है।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "'रीढ़ की हड्डी' एकांकी का उद्देश्य स्पष्ट कीजिए।",
+      "answer": "इस एकांकी का मुख्य उद्देश्य समाज में व्याप्त स्त्री-शिक्षा विरोधी मानसिकता और दहेज प्रथा जैसी कुरीतियों पर प्रहार करना है। लेखक ने दिखाया है कि कैसे पढ़े-लिखे लोग भी (जैसे वकील गोपाल प्रसाद) अपनी बहू के रूप में कम पढ़ी-लिखी लड़की चाहते हैं। यह एकांकी लड़कियों के आत्मसम्मान और व्यक्तित्व की रक्षा का संदेश देती है। यह बताती है कि लड़कियों का भी अपना वजूद है और उन्हें सम्मान से जीने का अधिकार है। साथ ही, यह लड़कों के चरित्रहीनता (बिना रीढ़ की हड्डी) पर भी व्यंग्य करती है।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "रामस्वरूप अपनी बेटी की उच्च शिक्षा क्यों छिपाते हैं? क्या उनका यह व्यवहार उचित था?",
+      "answer": "रामस्वरूप एक मजबूरी में फँसे पिता हैं। वे जानते हैं कि समाज में, विशेषकर गोपाल प्रसाद जैसे लोग, ज्यादा पढ़ी-लिखी लड़की को बहू बनाना नहीं चाहते। वे अपनी बेटी उमा की शादी के लिए चिंतित हैं, इसलिए वे झूठ बोलते हैं कि उमा सिर्फ मैट्रिक पास है। उनका यह व्यवहार उनकी विवशता को दर्शाता है, लेकिन यह उचित नहीं है। झूठ की बुनियाद पर रिश्ते नहीं टिकते। उन्हें अपनी बेटी की योग्यता पर गर्व करना चाहिए था और ऐसे दकियानूसी लोगों से रिश्ता जोड़ने का प्रयास नहीं करना चाहिए था।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "शंकर जैसे युवकों के बारे में आपके क्या विचार हैं?",
+      "answer": "शंकर जैसे युवक समाज के लिए बोझ हैं। वह उच्च शिक्षा (मेडिकल) प्राप्त कर रहा है, लेकिन उसका अपना कोई व्यक्तित्व या चरित्र नहीं है। वह पूरी तरह अपने पिता पर निर्भर है ('बाप सेर तो बेटा सवा सेर' मुहावरे के विपरीत, वह पिता की जी-हुजूरी करता है)। उसका नैतिक पतन हो चुका है (हॉस्टल की घटना)। उसकी शारीरिक मुद्रा (झुककर बैठना) उसकी कमजोर मानसिकता (बिना रीढ़ की हड्डी) का प्रतीक है। ऐसे युवक न तो अच्छे पति बन सकते हैं और न ही अच्छे नागरिक।"
+    }
+  ]
+}

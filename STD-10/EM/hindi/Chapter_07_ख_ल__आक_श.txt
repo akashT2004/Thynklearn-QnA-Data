@@ -1,0 +1,402 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.07",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "खुला आकाश (पूरक पठन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'खुला आकाश' पाठ की विधा क्या है?",
+      "options": [
+        { "option_id": 1, "text": "कहानी", "is_correct": false },
+        { "option_id": 2, "text": "डायरी", "is_correct": true },
+        { "option_id": 3, "text": "निबंध", "is_correct": false },
+        { "option_id": 4, "text": "एकांकी", "is_correct": false }
+      ],
+      "answer": "डायरी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "'खुला आकाश' पाठ के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "कुँवर नारायण", "is_correct": true },
+        { "option_id": 2, "text": "रामधारी सिंह दिनकर", "is_correct": false },
+        { "option_id": 3, "text": "प्रेमचंद", "is_correct": false },
+        { "option_id": 4, "text": "निराला", "is_correct": false }
+      ],
+      "answer": "कुँवर नारायण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार हमारे अंदर की दुनिया बाहर की दुनिया से कैसी है?",
+      "options": [
+        { "option_id": 1, "text": "छोटी", "is_correct": false },
+        { "option_id": 2, "text": "बराबर", "is_correct": false },
+        { "option_id": 3, "text": "कहीं ज्यादा बड़ी", "is_correct": true },
+        { "option_id": 4, "text": "महत्वहीन", "is_correct": false }
+      ],
+      "answer": "कहीं ज्यादा बड़ी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लेखक जिस गली में रहते हैं, वहाँ क्या नहीं दिखाई देता?",
+      "options": [
+        { "option_id": 1, "text": "मकान", "is_correct": false },
+        { "option_id": 2, "text": "आसमान", "is_correct": true },
+        { "option_id": 3, "text": "लोग", "is_correct": false },
+        { "option_id": 4, "text": "दुकानें", "is_correct": false }
+      ],
+      "answer": "आसमान"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लेखक की गली में चिड़ियाँ कहाँ बैठी दिखती हैं?",
+      "options": [
+        { "option_id": 1, "text": "पेड़ों पर", "is_correct": false },
+        { "option_id": 2, "text": "बिजली या टेलीफोन के तारों पर", "is_correct": true },
+        { "option_id": 3, "text": "घरों के अंदर", "is_correct": false },
+        { "option_id": 4, "text": "जमीन पर", "is_correct": false }
+      ],
+      "answer": "बिजली या टेलीफोन के तारों पर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लेखक को चिड़ियाँ कैसी लगती हैं?",
+      "options": [
+        { "option_id": 1, "text": "प्राकृतिक", "is_correct": false },
+        { "option_id": 2, "text": "रबड़ या प्लास्टिक के बने खिलौने जैसी", "is_correct": true },
+        { "option_id": 3, "text": "डरावनी", "is_correct": false },
+        { "option_id": 4, "text": "सुंदर", "is_correct": false }
+      ],
+      "answer": "रबड़ या प्लास्टिक के बने खिलौने जैसी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "लेखक अपने आप को किसमें कैद कर लेते हैं?",
+      "options": [
+        { "option_id": 1, "text": "कमरे में", "is_correct": false },
+        { "option_id": 2, "text": "घर में", "is_correct": false },
+        { "option_id": 3, "text": "शहर में", "is_correct": false },
+        { "option_id": 4, "text": "मकान और अपनी ही गली में", "is_correct": true }
+      ],
+      "answer": "मकान और अपनी ही गली में"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लेखक को कैसा जीवन पसंद नहीं है?",
+      "options": [
+        { "option_id": 1, "text": "खुला जीवन", "is_correct": false },
+        { "option_id": 2, "text": "संघर्षपूर्ण जीवन", "is_correct": false },
+        { "option_id": 3, "text": "सीमित और घनी आबादी वाला जीवन", "is_correct": true },
+        { "option_id": 4, "text": "ग्रामीण जीवन", "is_correct": false }
+      ],
+      "answer": "सीमित और घनी आबादी वाला जीवन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सही साहित्य का प्रमुख कर्तव्य क्या है?",
+      "options": [
+        { "option_id": 1, "text": "मनोरंजन करना", "is_correct": false },
+        { "option_id": 2, "text": "धन कमाना", "is_correct": false },
+        { "option_id": 3, "text": "मनुष्य को आशावादी बनाना", "is_correct": true },
+        { "option_id": 4, "text": "आलोचना करना", "is_correct": false }
+      ],
+      "answer": "मनुष्य को आशावादी बनाना"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "साहित्य को मनुष्य की किस शक्ति पर विश्वास होना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "शारीरिक शक्ति", "is_correct": false },
+        { "option_id": 2, "text": "आर्थिक शक्ति", "is_correct": false },
+        { "option_id": 3, "text": "जीजीविषा", "is_correct": true },
+        { "option_id": 4, "text": "राजनीतिक शक्ति", "is_correct": false }
+      ],
+      "answer": "जीजीविषा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार हमें किससे नहीं लड़ना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "दूसरों से", "is_correct": false },
+        { "option_id": 2, "text": "बाहरी परिस्थितियों से", "is_correct": false },
+        { "option_id": 3, "text": "अपने आप से", "is_correct": true },
+        { "option_id": 4, "text": "समाज से", "is_correct": false }
+      ],
+      "answer": "अपने आप से"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लेखक दूसरों से क्या न करने की बात करते हैं?",
+      "options": [
+        { "option_id": 1, "text": "बातचीत", "is_correct": false },
+        { "option_id": 2, "text": "बहस", "is_correct": true },
+        { "option_id": 3, "text": "मदद", "is_correct": false },
+        { "option_id": 4, "text": "प्रेम", "is_correct": false }
+      ],
+      "answer": "बहस"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लेखक ने अपनी डायरी में 10 मार्च 1998 को किस विषय पर लिखा?",
+      "options": [
+        { "option_id": 1, "text": "साहित्य के बारे में", "is_correct": false },
+        { "option_id": 2, "text": "मकान पर मकान", "is_correct": true },
+        { "option_id": 3, "text": "फिल्म के बारे में", "is_correct": false },
+        { "option_id": 4, "text": "यात्रा के बारे में", "is_correct": false }
+      ],
+      "answer": "मकान पर मकान"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लेखक ने 8 अगस्त 1998 को किस विषय पर लिखा?",
+      "options": [
+        { "option_id": 1, "text": "जीने का अर्थ", "is_correct": false },
+        { "option_id": 2, "text": "सही साहित्य", "is_correct": true },
+        { "option_id": 3, "text": "भीड़", "is_correct": false },
+        { "option_id": 4, "text": "प्रकृति", "is_correct": false }
+      ],
+      "answer": "सही साहित्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लेखक को किन लोगों से शिकायत है?",
+      "options": [
+        { "option_id": 1, "text": "जो कम बोलते हैं", "is_correct": false },
+        { "option_id": 2, "text": "जो बहुत बोलते हैं", "is_correct": true },
+        { "option_id": 3, "text": "जो सच बोलते हैं", "is_correct": false },
+        { "option_id": 4, "text": "जो झूठ बोलते हैं", "is_correct": false }
+      ],
+      "answer": "जो बहुत बोलते हैं"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "अतीत में की गई मदद के बारे में लेखक का क्या विचार है?",
+      "options": [
+        { "option_id": 1, "text": "दावा किया जा सकता है", "is_correct": false },
+        { "option_id": 2, "text": "दावा कभी नहीं किया जा सकता", "is_correct": true },
+        { "option_id": 3, "text": "भूल जाना चाहिए", "is_correct": false },
+        { "option_id": 4, "text": "बदला लेना चाहिए", "is_correct": false }
+      ],
+      "answer": "दावा कभी नहीं किया जा सकता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "लंदन में एक कमरे का किराया कितना था?",
+      "options": [
+        { "option_id": 1, "text": "दो पाउंड", "is_correct": false },
+        { "option_id": 2, "text": "पाँच पाउंड", "is_correct": false },
+        { "option_id": 3, "text": "तीन पाउंड", "is_correct": true },
+        { "option_id": 4, "text": "दस पाउंड", "is_correct": false }
+      ],
+      "answer": "तीन पाउंड"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार, मनुष्य को कैसा होना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "स्वार्थी", "is_correct": false },
+        { "option_id": 2, "text": "मानवीय", "is_correct": true },
+        { "option_id": 3, "text": "कठोर", "is_correct": false },
+        { "option_id": 4, "text": "उदास", "is_correct": false }
+      ],
+      "answer": "मानवीय"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "लेखक किस शहर का उदाहरण देते हैं जहाँ वे रहे?",
+      "options": [
+        { "option_id": 1, "text": "पेरिस", "is_correct": false },
+        { "option_id": 2, "text": "लंदन", "is_correct": true },
+        { "option_id": 3, "text": "न्यू यॉर्क", "is_correct": false },
+        { "option_id": 4, "text": "बर्लिन", "is_correct": false }
+      ],
+      "answer": "लंदन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार हमें किस दुनिया का विस्तार करना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "बाहरी दुनिया का", "is_correct": false },
+        { "option_id": 2, "text": "अंदर की दुनिया का", "is_correct": true },
+        { "option_id": 3, "text": "भौतिक दुनिया का", "is_correct": false },
+        { "option_id": 4, "text": "काल्पनिक दुनिया का", "is_correct": false }
+      ],
+      "answer": "अंदर की दुनिया का"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार आजादी कहाँ संभव है?",
+      "answer": "लेखक के अनुसार, पूरी आजादी अगर कहीं संभव है तो वह हमारे अंदर की (भीतरी) दुनिया में ही है।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "लेखक की गली में किस चीज की गुंजाइश नहीं है?",
+      "answer": "लेखक की गली में पेड़ लगाने की कोई गुंजाइश नहीं है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "लेखक को अपने मकान से बाहर झाँकने पर क्या दिखाई देता है?",
+      "answer": "लेखक को अपने मकान से बाहर झाँकने पर 'बाहर' नहीं, बल्कि सिर्फ दूसरे मकान और एक गंदी व तंग गली दिखाई देती है।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "लेखक किस तरह की संकरी दुनिया में नहीं रहना चाहते?",
+      "answer": "लेखक ऐसी संकरी और तंग गलियों में नहीं रहना चाहते जहाँ से बाहर निकलने का कोई रास्ता न हो और जहाँ प्रकृति का अभाव हो।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "लेखक कब 'बाहर' जाते हैं?",
+      "answer": "लेखक जब भी 'बाहर' जाते हैं, तो खुली जगह और प्रकृति की तलाश में जाते हैं।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "लेखक को 'नर्क' जैसा अनुभव कब होता है?",
+      "answer": "भीड़भाड़, शोरगुल और धक्का-मुक्की वाले स्थानों पर जाने से लेखक को 'नर्क' जैसा अनुभव होता है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "साहित्य को कैसा होना चाहिए?",
+      "answer": "साहित्य को मनुष्य को हताशा-निराशा से बचाकर आशावादी बनाने वाला होना चाहिए।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "लेखक दूसरों से बहस क्यों नहीं करना चाहते?",
+      "answer": "लेखक दूसरों से बहस इसलिए नहीं करना चाहते क्योंकि वे अपनी ऊर्जा और समय व्यर्थ की बहसों में नष्ट नहीं करना चाहते।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "खुले आकाश के नीचे लेखक को कैसा महसूस होता है?",
+      "answer": "खुले आकाश के नीचे लेखक को ताजी हवा में साँस लेने और अपने अंदर की दुनिया को विस्तार देने का अवसर मिलता है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "'जीजीविषा' का क्या अर्थ है?",
+      "answer": "'जीजीविषा' का अर्थ है जीने की प्रबल इच्छा।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार कौन से लोग ज्यादा दुखी हैं?",
+      "answer": "विवेकानंद के प्रसंग के अनुसार, लेखक से भी ज्यादा दुखी लोग इस संसार में हैं।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "लेखक को लंदन में अपनी जेब से खर्च क्यों करना पड़ता था?",
+      "answer": "क्योंकि लंदन में उनकी आमदनी कुछ भी नहीं थी, इसलिए उन्हें सब कुछ अपनी जेब से ही खर्च करना पड़ता था।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "लेखक अपनी तकलीफों की शिकायत क्यों नहीं करते?",
+      "answer": "लेखक मानते हैं कि यह उनका अपना कर्मफल है और इसे उन्हें ही भुगतना होगा, इसलिए वे शिकायत नहीं करते।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "लेखक किस बात के प्रति चिर कृतज्ञ हैं?",
+      "answer": "लेखक उन सभी लोगों के प्रति चिर कृतज्ञ हैं जिन्होंने अतीत में उनकी मदद की है या भविष्य में करेंगे।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "दूसरों से मदद की उम्मीद के बारे में लेखक का क्या विचार है?",
+      "answer": "लेखक का मानना है कि उन्हें इस दुनिया से मदद की प्रार्थना करने का कोई अधिकार नहीं है।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "भीड़ का लेखक पर क्या प्रभाव पड़ता है?",
+      "answer": "भीड़ से लेखक का रोम-रोम पुलकित नहीं होता, बल्कि उन्हें घुटन और परेशानी महसूस होती है।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "लेखक किस चीज को गुलाम नहीं बनाना चाहते?",
+      "answer": "लेखक अपने मन या विचारों को दूसरों के विचारों का गुलाम नहीं बनाना चाहते।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार, मकानों की भीड़ कैसी लगती है?",
+      "answer": "मकानों की भीड़ ऐसी लगती है मानो मकान पर मकान लदे हों और वे एक-दूसरे को धकेल रहे हों।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "लेखक किन लोगों को 'मूर्ख' कहते हैं?",
+      "answer": "लेखक उन लोगों को मूर्ख समझते हैं जो बिना सोचे-समझे, केवल बोलने के लिए बहुत बोलते हैं।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "लेखक को चिड़ियों की आवाज़ कैसी लगती है?",
+      "answer": "लेखक को लगता है कि वहाँ की चिड़ियाँ शायद ही चूँ-चूँ की आवाज़ें निकाल सकती हों, वे रबर के खिलौने जैसी लगती हैं।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "'हमारे अंदर की दुनिया बाहर की दुनिया से कहीं ज्यादा बड़ी है' - इस पंक्ति का आशय स्पष्ट कीजिए।",
+      "answer": "लेखक का मानना है कि मनुष्य का मन और उसकी कल्पना शक्ति असीमित है। बाहरी दुनिया की अपनी सीमाएँ हैं, लेकिन हमारे भीतर के विचारों, भावनाओं और सपनों का कोई अंत नहीं है। हम अपने भीतर की दुनिया को जितना चाहें उतना विस्तृत और समृद्ध बना सकते हैं। बाहरी दुनिया में हम परिस्थितियों के गुलाम हो सकते हैं, लेकिन अपनी भीतरी दुनिया में हम पूर्णतः स्वतंत्र हैं। इसलिए हमें अपने आंतरिक विकास पर अधिक ध्यान देना चाहिए।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "लेखक ने शहरी जीवन की क्या समस्याएँ बताई हैं?",
+      "answer": "लेखक ने शहरी जीवन की संकीर्णता और भीड़भाड़ का सजीव चित्रण किया है। शहरों में मकानों की भीड़ है, गलियाँ तंग और गंदी हैं, और खुले आकाश या प्रकृति के लिए कोई जगह नहीं है। पेड़-पौधे और पक्षी दुर्लभ हो गए हैं। लोगों का जीवन यंत्रवत हो गया है और वे हमेशा भागदौड़ में लगे रहते हैं। शहरों में शोरगुल और प्रदूषण है, जिससे मानसिक शांति मिलना मुश्किल हो जाता है। लेखक को ऐसा जीवन 'नर्क' समान लगता है।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "सही साहित्य के बारे में लेखक के क्या विचार हैं?",
+      "answer": "लेखक के अनुसार, सही साहित्य वह है जो मनुष्य को जीवन के प्रति सकारात्मक दृष्टिकोण दे। साहित्य को केवल मनोरंजन का साधन नहीं होना चाहिए, बल्कि उसे मनुष्य की 'जीजीविषा' (जीने की इच्छा) को जगाना चाहिए। उसे पाठक को हताशा और निराशा से उबारकर आशा और विश्वास से भरना चाहिए। साहित्य ऐसा हो जो मनुष्य को उसकी आंतरिक शक्ति और सौंदर्य का भान कराए और उसे बेहतर इंसान बनने के लिए प्रेरित करे।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "विवेकानंद के प्रसंग से हमें क्या प्रेरणा मिलती है?",
+      "answer": "विवेकानंद के प्रसंग से हमें यह प्रेरणा मिलती है कि हमें अपनी परिस्थितियों का रोना नहीं रोना चाहिए। संसार में हमसे भी अधिक दुखी और कष्ट में लोग हैं। हमें आत्मनिर्भर बनना चाहिए और अपनी समस्याओं का समाधान स्वयं ढूँढ़ना चाहिए। दूसरों से मदद की अपेक्षा रखने के बजाय, हमें अपना कर्तव्य निभाना चाहिए। हमें उन लोगों के प्रति कृतज्ञ होना चाहिए जिन्होंने हमारी मदद की, लेकिन मदद को अपना अधिकार नहीं समझना चाहिए।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "लेखक 'बाहर' जाकर क्या प्राप्त करना चाहते हैं?",
+      "answer": "लेखक जब अपने तंग मकान और गली से 'बाहर' जाते हैं, तो वे खुलेपन और शांति की तलाश में होते हैं। वे प्रकृति के सानिध्य, ताजी हवा, और खुले आकाश को महसूस करना चाहते हैं। वे शहर की भीड़भाड़ और शोरगुल से दूर, अपने आप को फिर से ऊर्जान्वित करना चाहते हैं। 'बाहर' जाना उनके लिए केवल स्थान परिवर्तन नहीं है, बल्कि अपनी आत्मा को मुक्त करने और अपने भीतर की दुनिया को फिर से खोजने का एक तरीका है।"
+    }
+  ]
+}
+[cite_start]```[cite: 1]

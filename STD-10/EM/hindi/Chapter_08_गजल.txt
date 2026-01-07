@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.08",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "गजल (Ghazal)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "इस गजल के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "दुष्यंत कुमार", "is_correct": false },
+        { "option_id": 2, "text": "माणिक वर्मा", "is_correct": true },
+        { "option_id": 3, "text": "निदा फ़ाज़ली", "is_correct": false },
+        { "option_id": 4, "text": "मिर्ज़ा ग़ालिब", "is_correct": false }
+      ],
+      "answer": "माणिक वर्मा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार हमें किस तरह दिखना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "स्वर्णिम शिखर बनकर", "is_correct": false },
+        { "option_id": 2, "text": "नींव के अंदर", "is_correct": true },
+        { "option_id": 3, "text": "बादल बनकर", "is_correct": false },
+        { "option_id": 4, "text": "पत्थर बनकर", "is_correct": false }
+      ],
+      "answer": "नींव के अंदर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आसमानों पर क्या बनकर लिखने की बात कही गई है?",
+      "options": [
+        { "option_id": 1, "text": "रंग", "is_correct": false },
+        { "option_id": 2, "text": "धुआँ", "is_correct": false },
+        { "option_id": 3, "text": "गर्द (धूल)", "is_correct": true },
+        { "option_id": 4, "text": "बादल", "is_correct": false }
+      ],
+      "answer": "गर्द (धूल)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "यदि कहीं बैठो, तो क्या बनकर दिखना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "कुर्सी", "is_correct": false },
+        { "option_id": 2, "text": "पेड़", "is_correct": false },
+        { "option_id": 3, "text": "मील का पत्थर", "is_correct": true },
+        { "option_id": 4, "text": "पहाड़", "is_correct": false }
+      ],
+      "answer": "मील का पत्थर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पत्थरों के शहर में क्या बनकर दिखने को कहा गया है?",
+      "options": [
+        { "option_id": 1, "text": "दीवार", "is_correct": false },
+        { "option_id": 2, "text": "आईना", "is_correct": true },
+        { "option_id": 3, "text": "खिलौना", "is_correct": false },
+        { "option_id": 4, "text": "मूर्तिकार", "is_correct": false }
+      ],
+      "answer": "आईना"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मोम के भीतर किस तरह जलने की बात की गई है?",
+      "options": [
+        { "option_id": 1, "text": "आग की तरह", "is_correct": false },
+        { "option_id": 2, "text": "धागे-सा", "is_correct": true },
+        { "option_id": 3, "text": "लकड़ी की तरह", "is_correct": false },
+        { "option_id": 4, "text": "कागज की तरह", "is_correct": false }
+      ],
+      "answer": "धागे-सा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वक्त की धुंध में क्या बनकर दिखने को कहा गया है?",
+      "options": [
+        { "option_id": 1, "text": "रोशनी", "is_correct": true },
+        { "option_id": 2, "text": "अँधेरा", "is_correct": false },
+        { "option_id": 3, "text": "साया", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "रोशनी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मोती बनने के लिए किसके अंदर दिखना जरूरी है?",
+      "options": [
+        { "option_id": 1, "text": "सागर के", "is_correct": false },
+        { "option_id": 2, "text": "रेत के", "is_correct": false },
+        { "option_id": 3, "text": "सीप के", "is_correct": true },
+        { "option_id": 4, "text": "पानी के", "is_correct": false }
+      ],
+      "answer": "सीप के"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवि ने 'स्वर्णिम' शब्द का प्रयोग किसके लिए किया है?",
+      "options": [
+        { "option_id": 1, "text": "नींव के लिए", "is_correct": false },
+        { "option_id": 2, "text": "शिखर के लिए", "is_correct": true },
+        { "option_id": 3, "text": "पत्थर के लिए", "is_correct": false },
+        { "option_id": 4, "text": "धूल के लिए", "is_correct": false }
+      ],
+      "answer": "शिखर के लिए"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "किसके टूटे पर पर दिखने की बात कही गई है?",
+      "options": [
+        { "option_id": 1, "text": "पक्षी के", "is_correct": false },
+        { "option_id": 2, "text": "तितली के", "is_correct": true },
+        { "option_id": 3, "text": "भौंरे के", "is_correct": false },
+        { "option_id": 4, "text": "मधुमक्खी के", "is_correct": false }
+      ],
+      "answer": "तितली के"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'जुगनू' ने क्या कहा?",
+      "options": [
+        { "option_id": 1, "text": "मैं अँधेरे में हूँ", "is_correct": false },
+        { "option_id": 2, "text": "मैं भी तुम्हारे साथ हूँ", "is_correct": true },
+        { "option_id": 3, "text": "मैं बहुत छोटा हूँ", "is_correct": false },
+        { "option_id": 4, "text": "मैं उड़ नहीं सकता", "is_correct": false }
+      ],
+      "answer": "मैं भी तुम्हारे साथ हूँ"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवि किसमें 'अक्सर' दिखने की कामना करता है?",
+      "options": [
+        { "option_id": 1, "text": "आईने में", "is_correct": false },
+        { "option_id": 2, "text": "भीड़ में", "is_correct": false },
+        { "option_id": 3, "text": "जिसे देखूँ उसी में", "is_correct": true },
+        { "option_id": 4, "text": "सपनों में", "is_correct": false }
+      ],
+      "answer": "जिसे देखूँ उसी में"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सिर्फ देखने के लिए दिखना क्या है?",
+      "options": [
+        { "option_id": 1, "text": "बहुत अच्छा है", "is_correct": false },
+        { "option_id": 2, "text": "कोई दिखना नहीं", "is_correct": true },
+        { "option_id": 3, "text": "जरूरी है", "is_correct": false },
+        { "option_id": 4, "text": "कठिन है", "is_correct": false }
+      ],
+      "answer": "कोई दिखना नहीं"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "माणिक वर्मा जी किस विधा के सशक्त हस्ताक्षर माने जाते हैं?",
+      "options": [
+        { "option_id": 1, "text": "कहानी", "is_correct": false },
+        { "option_id": 2, "text": "हास्य-व्यंग्य", "is_correct": true },
+        { "option_id": 3, "text": "नाटक", "is_correct": false },
+        { "option_id": 4, "text": "उपन्यास", "is_correct": false }
+      ],
+      "answer": "हास्य-व्यंग्य"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आदमी हो तो क्या बनकर दिखने की सलाह दी गई है?",
+      "options": [
+        { "option_id": 1, "text": "देवता", "is_correct": false },
+        { "option_id": 2, "text": "अमीर", "is_correct": false },
+        { "option_id": 3, "text": "आदमी", "is_correct": true },
+        { "option_id": 4, "text": "नेता", "is_correct": false }
+      ],
+      "answer": "आदमी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "माणिक वर्मा जी का जन्म कब और कहाँ हुआ?",
+      "answer": "माणिक वर्मा जी का जन्म १९३८ में उज्जैन (मध्य प्रदेश) में हुआ।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "कवि ने 'नींव के अंदर' दिखने के लिए क्यों कहा है?",
+      "answer": "कवि का मानना है कि बाहरी दिखावे (शिखर) से ज्यादा महत्वपूर्ण है आधार (नींव) बनना, क्योंकि अच्छे कर्म ही समाज की नींव मजबूत करते हैं।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार 'मील का पत्थर' बनने का क्या अर्थ है?",
+      "answer": "'मील का पत्थर' बनने का अर्थ है दूसरों के लिए मार्गदर्शक बनना और उन्हें सही राह दिखाना।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "आदमी बनकर दिखने का क्या तात्पर्य है?",
+      "answer": "इसका तात्पर्य है कि मनुष्य को केवल रूप-रंग से नहीं, बल्कि अपने मानवीय गुणों और अच्छे व्यवहार से सच्चा इंसान बनना चाहिए।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "कवि ने जिंदगी की शक्ल को किस प्रकार वर्णित किया है?",
+      "answer": "कवि कहते हैं कि जिंदगी की शक्ल वह होनी चाहिए जो किसी भी परिस्थिति में टूटकर बिखरे नहीं, बल्कि मजबूत बनी रहे।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "पत्थरों के शहर में आईना बनने का क्या आशय है?",
+      "answer": "कठोर और संवेदनहीन समाज (पत्थरों के शहर) में भी संवेदनशील और सच्चा (आईना) बने रहना चाहिए।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "मोम के भीतर धागे-सा जलने से क्या होता है?",
+      "answer": "मोम के भीतर धागे-सा जलने से दूसरों का दुख-दर्द महसूस होता है और हम दूसरों के लिए प्रकाश (मदद) दे पाते हैं।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'वक्त की धुंध' का क्या अर्थ है?",
+      "answer": "'वक्त की धुंध' का अर्थ है जीवन में आने वाली मुसीबतें, कठिनाइयाँ या निराशा का समय।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवि ने 'मर्यादा' के संदर्भ में क्या कहा है?",
+      "answer": "कवि ने कहा है कि हम सभी के लिए एक मर्यादा बनी है, और यदि हमें श्रेष्ठ (मोती) बनना है तो उस मर्यादा (सीप) के भीतर रहकर ही श्रेष्ठता प्राप्त करनी होगी।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "तितली के टूटे पर पर दिखने का क्या मतलब है?",
+      "answer": "इसका मतलब है कि जब कोई कोमल या कमजोर व्यक्ति (कली/तितली) मुसीबत में हो या डर रहा हो, तो हमें उसका सहारा बनना चाहिए।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "कवि भीड़ में कैसी शक्ल देखना चाहता है?",
+      "answer": "कवि भीड़ में एक ऐसी शक्ल देखना चाहता है, जिसे वह जब भी देखे, उसमें उसे अपना ही अक्स (या मानवता) दिखाई दे।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "माणिक वर्मा जी की किन्हीं दो कृतियों के नाम लिखिए।",
+      "answer": "'गजल मेरी इबादत है', 'आखिरी पत्ता'।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "'गर्द' और 'धुंध' शब्दों के अर्थ बताइए।",
+      "answer": "'गर्द' का अर्थ है धूल और 'धुंध' का अर्थ है धुआँ या कोहरा।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "यह गजल किस संग्रह से ली गई है?",
+      "answer": "यह गजल 'गजल मेरी इबादत है' संग्रह से ली गई है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "गजलकार ने किस बात को अधिक महत्त्व दिया है - रूप-रंग या कर्म?",
+      "answer": "गजलकार ने कर्म को अधिक महत्त्व दिया है।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "'नींव के अंदर दिखो' पंक्ति का भावार्थ स्पष्ट कीजिए।",
+      "answer": "कवि कहते हैं कि अक्सर लोग सफलता के शिखर पर चमकना चाहते हैं, जहाँ सबकी नजर उन पर पड़े। लेकिन कोई भी इमारत तब तक मजबूत नहीं होती जब तक उसकी नींव मजबूत न हो। नींव की ईंटें दिखाई नहीं देतीं, लेकिन वही पूरी इमारत का भार उठाती हैं। इसी प्रकार, हमें केवल वाहवाही लूटने या दिखावे के लिए काम नहीं करना चाहिए, बल्कि समाज की मजबूती के लिए नेपथ्य में रहकर, त्याग और समर्पण के साथ अच्छे कर्म करने चाहिए। सच्चा योगदान वही है जो नींव बनकर समाज को खड़ा करे।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "'आईना बनकर दिखो' से कवि क्या संदेश देना चाहते हैं?",
+      "answer": "इस पंक्ति के माध्यम से कवि कहना चाहते हैं कि भले ही दुनिया कितनी भी कठोर और संवेदनहीन क्यों न हो जाए (पत्थरों का शहर), हमें अपनी संवेदनशीलता और सच्चाई नहीं खोनी चाहिए। आईना सच्चाई का प्रतीक है, वह जैसा होता है वैसा ही दिखाता है। हमें भी विपरीत परिस्थितियों में टूटना नहीं चाहिए, बल्कि अपनी असली पहचान और मानवीय मूल्यों को बनाए रखना चाहिए। हमें समाज में एक सच्चे और पारदर्शी व्यक्तित्व के रूप में उदाहरण पेश करना चाहिए।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "'आपको महसूस होगी तब हरइक दिल की जलन' पंक्ति का आशय समझाइए।",
+      "answer": "कवि कहते हैं कि मोमबत्ती में धागा मोम के भीतर रहकर खुद जलता है और दूसरों को रोशनी देता है। जब तक हम दूसरों के दुख-दर्द को अपना नहीं समझते, तब तक हम उनकी पीड़ा महसूस नहीं कर सकते। दूसरों की मदद करने के लिए या उनके दुख को समझने के लिए हमें त्याग करना पड़ता है, कष्ट सहना पड़ता है। जैसे धागा जलकर प्रकाश फैलाता है, वैसे ही हमें भी परोपकार के लिए कष्ट सहने को तैयार रहना चाहिए। तभी हम सच्चे इंसान कहलाएंगे।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "'कोई ऐसी शक्ल तो मुझको दिखे इस भीड़ में' शेर का अर्थ विस्तार से लिखिए।",
+      "answer": "आज की दुनिया में बहुत भीड़ है, लेकिन सच्चे इंसानों की कमी है। कवि एक ऐसे व्यक्ति की तलाश में है जो भीड़ में भी अलग और सच्चा हो। वह कामना करते हैं कि वे जिस भी व्यक्ति को देखें, उसमें उन्हें अपनापन और मानवता दिखाई दे। अर्थात, हम सभी एक-दूसरे के प्रतिबिंब बनें, एक-दूसरे के सुख-दुख को समझें और हर इंसान में अच्छाई और ईश्वर का अंश देखें। यह शेर विश्व-बंधुत्व और एकात्मता की भावना को दर्शाता है।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "गजल में प्रयुक्त प्राकृतिक घटकों के प्रतीकात्मक अर्थ स्पष्ट कीजिए।",
+      "answer": "गजल में कई प्राकृतिक घटकों का सुंदर प्रयोग किया गया है:\n1. **गर्द (धूल):** यह हमारे अच्छे कर्मों और कीर्ति का प्रतीक है जो आसमान तक पहुँचनी चाहिए।\n2. **जुगनू:** यह आशा और मार्गदर्शन का प्रतीक है, जो घोर अंधकार (निराशा) में भी रोशनी (उम्मीद) की किरण बनकर साथ देता है।\n3. **सीप और मोती:** सीप मर्यादा और अनुशासन का प्रतीक है, जिसके भीतर रहकर ही मोती जैसा श्रेष्ठ और मूल्यवान व्यक्तित्व बनता है।\n4. **फूल और तितली:** यह कोमलता और सहारे की आवश्यकता को दर्शाते हैं। हमें मुसीबत में पड़े कोमल हृदय वालों (कली/तितली) का सहारा बनना चाहिए।"
+    }
+  ]
+}

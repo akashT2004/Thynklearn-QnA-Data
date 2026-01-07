@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.10",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "ठेस (पूरक पठन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'ठेस' कहानी के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमचंद", "is_correct": false },
+        { "option_id": 2, "text": "फणीश्वरनाथ 'रेणु'", "is_correct": true },
+        { "option_id": 3, "text": "जयशंकर प्रसाद", "is_correct": false },
+        { "option_id": 4, "text": "महादेवी वर्मा", "is_correct": false }
+      ],
+      "answer": "फणीश्वरनाथ 'रेणु'"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गाँव के किसान सिरचन को क्या समझते थे?",
+      "options": [
+        { "option_id": 1, "text": "कारीगर", "is_correct": false },
+        { "option_id": 2, "text": "बेकार और बेगार", "is_correct": true },
+        { "option_id": 3, "text": "विद्वान", "is_correct": false },
+        { "option_id": 4, "text": "नेता", "is_correct": false }
+      ],
+      "answer": "बेकार और बेगार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सिरचन किस काम में माहिर था?",
+      "options": [
+        { "option_id": 1, "text": "खेती-बाड़ी में", "is_correct": false },
+        { "option_id": 2, "text": "कारीगरी (चिक और शीतलपाटी बनाने) में", "is_correct": true },
+        { "option_id": 3, "text": "पढ़ाने में", "is_correct": false },
+        { "option_id": 4, "text": "गाना गाने में", "is_correct": false }
+      ],
+      "answer": "कारीगरी (चिक और शीतलपाटी बनाने) में"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सिरचन को बुलाने पर लोग उसे मजदूरी के बदले क्या देते थे?",
+      "options": [
+        { "option_id": 1, "text": "नकद पैसे", "is_correct": false },
+        { "option_id": 2, "text": "भरपेट खाना और पुराना कपड़ा", "is_correct": true },
+        { "option_id": 3, "text": "सोना", "is_correct": false },
+        { "option_id": 4, "text": "जमीन", "is_correct": false }
+      ],
+      "answer": "भरपेट खाना और पुराना कपड़ा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मानू कौन थी?",
+      "options": [
+        { "option_id": 1, "text": "लेखक की माँ", "is_correct": false },
+        { "option_id": 2, "text": "लेखक की बहन (काकी की सबसे छोटी बेटी)", "is_correct": true },
+        { "option_id": 3, "text": "सिरचन की बेटी", "is_correct": false },
+        { "option_id": 4, "text": "गाँव की मुखिया", "is_correct": false }
+      ],
+      "answer": "लेखक की बहन (काकी की सबसे छोटी बेटी)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मानू ने ससुराल संदेश भेजकर क्या बनवाने को कहा था?",
+      "options": [
+        { "option_id": 1, "text": "मिठाई", "is_correct": false },
+        { "option_id": 2, "text": "गहने", "is_correct": false },
+        { "option_id": 3, "text": "मोती की शीतलपाटी और चिक", "is_correct": true },
+        { "option_id": 4, "text": "कपड़े", "is_correct": false }
+      ],
+      "answer": "मोती की शीतलपाटी और चिक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सिरचन को खाने में क्या पसंद था?",
+      "options": [
+        { "option_id": 1, "text": "सूखी रोटी", "is_correct": false },
+        { "option_id": 2, "text": "घी की खकौरन के साथ चूड़ा", "is_correct": true },
+        { "option_id": 3, "text": "कड़वी दवाई", "is_correct": false },
+        { "option_id": 4, "text": "बासी चावल", "is_correct": false }
+      ],
+      "answer": "घी की खकौरन के साथ चूड़ा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सिरचन को किसने 'चटोर' कहा?",
+      "options": [
+        { "option_id": 1, "text": "मानू ने", "is_correct": false },
+        { "option_id": 2, "text": "चाची ने", "is_correct": true },
+        { "option_id": 3, "text": "माँ ने", "is_correct": false },
+        { "option_id": 4, "text": "लेखक ने", "is_correct": false }
+      ],
+      "answer": "चाची ने"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मँझली भाभी ने सिरचन को कढ़ी के साथ क्या खाने को नहीं दिया?",
+      "options": [
+        { "option_id": 1, "text": "भात", "is_correct": false },
+        { "option_id": 2, "text": "रोटी", "is_correct": false },
+        { "option_id": 3, "text": "पापड़", "is_correct": false },
+        { "option_id": 4, "text": "तरकारी (या रस)", "is_correct": true }
+      ],
+      "answer": "तरकारी (या रस)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सिरचन काम अधूरा छोड़कर क्यों चला गया?",
+      "options": [
+        { "option_id": 1, "text": "उसे पैसे नहीं मिले", "is_correct": false },
+        { "option_id": 2, "text": "उसे ठेस लगी (अपमानित महसूस हुआ)", "is_correct": true },
+        { "option_id": 3, "text": "सामान खत्म हो गया", "is_correct": false },
+        { "option_id": 4, "text": "उसे कहीं और जाना था", "is_correct": false }
+      ],
+      "answer": "उसे ठेस लगी (अपमानित महसूस हुआ)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "स्टेशन पर मानू को विदा करने कौन आया था?",
+      "options": [
+        { "option_id": 1, "text": "सिर्फ लेखक", "is_correct": false },
+        { "option_id": 2, "text": "सिरचन", "is_correct": true },
+        { "option_id": 3, "text": "चाची", "is_correct": false },
+        { "option_id": 4, "text": "गाँव वाले", "is_correct": false }
+      ],
+      "answer": "सिरचन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सिरचन स्टेशन पर अपने साथ क्या लाया था?",
+      "options": [
+        { "option_id": 1, "text": "मिठाई", "is_correct": false },
+        { "option_id": 2, "text": "चिक, शीतलपाटी और आसन", "is_correct": true },
+        { "option_id": 3, "text": "फल", "is_correct": false },
+        { "option_id": 4, "text": "पैसे", "is_correct": false }
+      ],
+      "answer": "चिक, शीतलपाटी और आसन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मानू ने सिरचन को दाम देने की कोशिश की तो उसने क्या किया?",
+      "options": [
+        { "option_id": 1, "text": "ले लिए", "is_correct": false },
+        { "option_id": 2, "text": "मना कर दिया और जीभ दाँतों तले दबा ली", "is_correct": true },
+        { "option_id": 3, "text": "ज्यादा माँगे", "is_correct": false },
+        { "option_id": 4, "text": "गुस्सा हो गया", "is_correct": false }
+      ],
+      "answer": "मना कर दिया और जीभ दाँतों तले दबा ली"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सिरचन किस जाति का था?",
+      "options": [
+        { "option_id": 1, "text": "कारीगर जाति का (संदर्भ: जाति नहीं, काम)", "is_correct": false },
+        { "option_id": 2, "text": "उसकी जाति का उल्लेख स्पष्ट नहीं है, पर वह कारीगर था", "is_correct": true },
+        { "option_id": 3, "text": "जमींदार", "is_correct": false },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "उसकी जाति का उल्लेख स्पष्ट नहीं है, पर वह कारीगर था"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सिरचन ने किसे 'बेपानी' कर दिया था?",
+      "options": [
+        { "option_id": 1, "text": "लेखक को", "is_correct": false },
+        { "option_id": 2, "text": "पंचानंद चौधरी के छोटे लड़के को", "is_correct": true },
+        { "option_id": 3, "text": "मानू को", "is_correct": false },
+        { "option_id": 4, "text": "माँ को", "is_correct": false }
+      ],
+      "answer": "पंचानंद चौधरी के छोटे लड़के को"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मँझली भाभी ने मुट्ठी भर क्या सूप में फेंका था?",
+      "options": [
+        { "option_id": 1, "text": "चावल", "is_correct": false },
+        { "option_id": 2, "text": "बुंदियाँ", "is_correct": true },
+        { "option_id": 3, "text": "सब्जी", "is_correct": false },
+        { "option_id": 4, "text": "नमक", "is_correct": false }
+      ],
+      "answer": "बुंदियाँ"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "'ठेस' कहानी का मुख्य पात्र कौन है?",
+      "options": [
+        { "option_id": 1, "text": "लेखक", "is_correct": false },
+        { "option_id": 2, "text": "सिरचन", "is_correct": true },
+        { "option_id": 3, "text": "मानू", "is_correct": false },
+        { "option_id": 4, "text": "चाची", "is_correct": false }
+      ],
+      "answer": "सिरचन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सिरचन के हाथ की कारीगरी को किसने सराहा था?",
+      "options": [
+        { "option_id": 1, "text": "गाँव वालों ने", "is_correct": false },
+        { "option_id": 2, "text": "मानू के दूल्हे ने (अफसर ने)", "is_correct": true },
+        { "option_id": 3, "text": "चाची ने", "is_correct": false },
+        { "option_id": 4, "text": "किसी ने नहीं", "is_correct": false }
+      ],
+      "answer": "मानू के दूल्हे ने (अफसर ने)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मानू को क्या पसंद था?",
+      "options": [
+        { "option_id": 1, "text": "पान", "is_correct": true },
+        { "option_id": 2, "text": "मिठाई", "is_correct": false },
+        { "option_id": 3, "text": "खिलौने", "is_correct": false },
+        { "option_id": 4, "text": "किताबें", "is_correct": false }
+      ],
+      "answer": "पान"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सिरचन ने अधूरी चिक में क्या लगा दिया था?",
+      "options": [
+        { "option_id": 1, "text": "रंगीन सुतली के फूँदे", "is_correct": true },
+        { "option_id": 2, "text": "काले धागे", "is_correct": false },
+        { "option_id": 3, "text": "मोती", "is_correct": false },
+        { "option_id": 4, "text": "तार", "is_correct": false }
+      ],
+      "answer": "रंगीन सुतली के फूँदे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "सिरचन को लोग 'बेगार' क्यों समझते थे?",
+      "answer": "सिरचन खेती-बाड़ी के काम में कमजोर था और उसे भारी काम नहीं होता था, इसलिए लोग उसे 'बेगार' (बिना काम का) समझते थे।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "लेखक की माँ सिरचन को काम पर बुलाने से पहले क्या पूछ लेती थीं?",
+      "answer": "लेखक की माँ पूछ लेती थीं कि सिरचन के लिए 'भोग' (खाने में) क्या-क्या लगेगा।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "सिरचन की कारीगरी के नमूने क्या-क्या थे?",
+      "answer": "सिरचन बाँस की तीलियों की झिलमिलाती चिक, सतरंगे डोर की मोढ़े, भूसी-चुन्नी रखने के लिए मूँज की रस्सी के बड़े-बड़े जाले और शीतलपाटी बनाता था।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "चाची ने सिरचन को किस बात पर टोका?",
+      "answer": "चाची ने सिरचन को घी की खकौरन के साथ चूड़ा खाते देखकर उसे 'चटोर' कहा और तंज कसा।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "मँझली भाभी ने सिरचन को खाना देते समय क्या किया?",
+      "answer": "मँझली भाभी ने मुट्ठी भर बुंदियाँ सूप में फेंककर दीं, जिससे सिरचन को अपमान महसूस हुआ।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "सिरचन ने काम अधूरा क्यों छोड़ दिया?",
+      "answer": "चाची और मँझली भाभी की कड़वी बातों से सिरचन को 'ठेस' लगी, इसलिए उसने काम अधूरा छोड़ दिया।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "मानू स्टेशन पर क्यों उदास थी?",
+      "answer": "मानू उदास थी क्योंकि सिरचन ने उसकी चिक और शीतलपाटी अधूरी छोड़ दी थी और उसे ससुराल ले जाने के लिए ये चीजें नहीं मिली थीं।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "सिरचन स्टेशन पर कैसे पहुँचा?",
+      "answer": "सिरचन अपनी पीठ पर लादकर चिक, शीतलपाटी और आसनी का बंडल लेकर दौड़ता हुआ स्टेशन पहुँचा।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "सिरचन ने मानू को उपहार देते समय क्या कहा?",
+      "answer": "सिरचन ने कहा, 'यह मेरी ओर से है। सब चीजें हैं दीदी।'"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "कहानी के अंत में लेखक ने सिरचन के बारे में क्या महसूस किया?",
+      "answer": "लेखक ने महसूस किया कि सिरचन केवल एक कारीगर नहीं, बल्कि एक संवेदनशील और स्वाभिमानी इंसान है।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "सिरचन को किस बात की 'ठेस' लगी थी?",
+      "answer": "सिरचन को अपनी गरीबी और खाने के प्रति लालच पर किए गए व्यंग्य और अपमानजनक व्यवहार से 'ठेस' लगी थी।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "'मोती की शीतलपाटी' क्या होती है?",
+      "answer": "यह एक विशेष प्रकार की चटाई होती है जो बहुत बारीक और सुंदर होती है, जिसे सिरचन बनाता था।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "मानू के दूल्हे ने क्या कहकर चिक की तारीफ की थी?",
+      "answer": "मानू के दूल्हे ने कहा था कि ऐसी बारीक कारीगरी वाली चिक उसने पहले कभी नहीं देखी।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "सिरचन ने पान का बीड़ा क्यों लिया?",
+      "answer": "सिरचन को पान पसंद था और मानू ने उसे पान का बीड़ा देकर खुश किया था।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "लेखक ने सिरचन को मनाने की कोशिश कैसे की?",
+      "answer": "लेखक ने सिरचन के घर जाकर उसे मनाने की कोशिश की, लेकिन उसने काम करने से मना कर दिया।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "सिरचन के चेहरे पर मुसकान कब आई?",
+      "answer": "जब मानू ने उसे पान खिलाया, तब सिरचन के चेहरे पर मुसकान आई।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "इस कहानी से हमें क्या सीख मिलती है?",
+      "answer": "हमें यह सीख मिलती है कि कलाकार का सम्मान करना चाहिए और किसी की गरीबी का मजाक नहीं उड़ाना चाहिए।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "सिरचन की आँखें कब गीली हो गईं?",
+      "answer": "जब मानू ने स्टेशन पर उसे पैसे देने की कोशिश की, तो सिरचन की आँखें भर आईं।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "गाड़ी खुलने पर मानू ने क्या किया?",
+      "answer": "गाड़ी खुलने पर मानू ने खिड़की से सिरचन को तब तक देखा जब तक वह ओझल नहीं हो गया।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "फणीश्वरनाथ 'रेणु' किस प्रकार की कहानियों के लिए प्रसिद्ध हैं?",
+      "answer": "फणीश्वरनाथ 'रेणु' आंचलिक कहानियों (ग्रामीण परिवेश पर आधारित) के लिए प्रसिद्ध हैं।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "सिरचन का चरित्र-चित्रण कीजिए।",
+      "answer": "सिरचन 'ठेस' कहानी का मुख्य पात्र है। वह एक कुशल कारीगर है जो बाँस और घास-फूस से सुंदर वस्तुएँ बनाता है। गाँव वाले उसे कामचोर या चटोर समझते हैं, लेकिन वास्तव में वह एक स्वाभिमानी कलाकार है। उसे खाने-पीने का शौक है, लेकिन अपमान वह सहन नहीं कर सकता। वह भावुक और संवेदनशील है। मानू के प्रति उसका स्नेह इतना गहरा है कि वह अपमानित होने के बाद भी रात-दिन एक करके उसके लिए उपहार तैयार करता है और मुफ्त में देता है। उसका चरित्र कलाकार की संवेदनशीलता और मानवीय मूल्यों का प्रतीक है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "कहानी के शीर्षक 'ठेस' की सार्थकता स्पष्ट कीजिए।",
+      "answer": "'ठेस' कहानी का शीर्षक अत्यंत सार्थक है। पूरी कहानी सिरचन के स्वाभिमान को लगी 'ठेस' के इर्द-गिर्द घूमती है। चाची और मँझली भाभी द्वारा खाने को लेकर किए गए कटाक्ष और अपमानजनक व्यवहार से सिरचन के मन को गहरी चोट (ठेस) लगती है। इसी ठेस के कारण वह काम अधूरा छोड़ देता है। लेकिन बाद में, उसी ठेस को भुलाकर, मानू के प्रति अपने स्नेह के कारण वह उपहार लेकर आता है। शीर्षक पाठक को कलाकार के मन की पीड़ा और संवेदनशीलता से जोड़ता है।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "कला और कलाकार का सम्मान क्यों आवश्यक है? 'ठेस' कहानी के आधार पर बताइए।",
+      "answer": "कलाकार अपनी कला में अपना हृदय और आत्मा डाल देता है। 'ठेस' कहानी में सिरचन इसका उदाहरण है। जब उसका सम्मान होता है और उसे प्रेम से खिलाया-पिलाया जाता है, तो वह अद्भुत वस्तुएँ बनाता है। लेकिन जब उसका अपमान होता है, तो उसका मन काम से उचट जाता है। समाज को समझना चाहिए कि कलाकार पैसे का भूखा नहीं होता, वह सम्मान और प्रशंसा का भूखा होता है। कलाकार का सम्मान करने से ही कला जीवित रहती है और समाज सुंदर बनता है। अपमान से कला और कलाकार दोनों का ह्रास होता है।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "स्टेशन पर घटित प्रसंग का वर्णन अपने शब्दों में कीजिए।",
+      "answer": "स्टेशन पर मानू और लेखक गाड़ी में बैठे थे। गाड़ी चलने ही वाली थी कि अचानक सिरचन दौड़ता हुआ आया। उसकी पीठ पर एक बंडल था। उसने खिड़की के पास जाकर बंडल खोला और उसमें से सुंदर चिक, शीतलपाटी और कुश की आसनी निकालकर मानू को दी। मानू यह देखकर हैरान रह गई। उसने सिरचन को दाम देने के लिए नोट निकाला, लेकिन सिरचन ने जीभ दाँतों तले दबाकर मना कर दिया और कहा कि यह उसकी ओर से उपहार है। यह दृश्य अत्यंत भावुक था, जिसने सिरचन की महानता को दर्शाया।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "सिरचन के काम करने के तरीके और उसकी विशेषताओं का वर्णन करें।",
+      "answer": "सिरचन काम करते समय पूरी तल्लीनता से डूब जाता था। वह बाँस की तीलियों को अपने नाखूनों से बारीक करता और उन्हें रंगकर सुंदर डिजाइन बनाता। उसका काम इतना बारीक और साफ होता था कि बड़े-बड़े लोग भी उसकी तारीफ करते थे। वह काम में थोड़ी भी टोक-टाक या गड़बड़ी बर्दाश्त नहीं करता था। अगर कोई उसे टोक दे, तो वह 'साँप की तरह फुफकार' उठता था। उसे काम के बदले अच्छा खाना-पीना चाहिए होता था, पैसे की उसे उतनी परवाह नहीं थी। वह अपनी मर्जी का मालिक था।"
+    }
+  ]
+}

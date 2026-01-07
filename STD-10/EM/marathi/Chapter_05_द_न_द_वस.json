@@ -1,0 +1,1209 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.05",
+    "standard": "10",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "दोन दिवस (Don Divas)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'दोन दिवस' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "कुसुमाग्रज", "is_correct": false },
+        { "option_id": 2, "text": "नारायण सुर्वे", "is_correct": true },
+        { "option_id": 3, "text": "केशवसुत", "is_correct": false },
+        { "option_id": 4, "text": "बालकवी", "is_correct": false }
+      ],
+      "answer": "नारायण सुर्वे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवी नारायण सुर्वे यांचा जन्म कधी झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९२०", "is_correct": false },
+        { "option_id": 2, "text": "१९२६", "is_correct": true },
+        { "option_id": 3, "text": "१९३०", "is_correct": false },
+        { "option_id": 4, "text": "१९४७", "is_correct": false }
+      ],
+      "answer": "१९२६"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "नारायण सुर्वे यांच्या काव्यलेखनाच्या प्रेरणास्थानी काय असते?",
+      "options": [
+        { "option_id": 1, "text": "निसर्ग सौंदर्य", "is_correct": false },
+        { "option_id": 2, "text": "कामगार जीवनाची सुखदुःखे", "is_correct": true },
+        { "option_id": 3, "text": "ऐतिहासिक घटना", "is_correct": false },
+        { "option_id": 4, "text": "धार्मिक विचार", "is_correct": false }
+      ],
+      "answer": "कामगार जीवनाची सुखदुःखे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता कवितासंग्रह नारायण सुर्वे यांचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "विशाखा", "is_correct": false },
+        { "option_id": 2, "text": "ययाति", "is_correct": false },
+        { "option_id": 3, "text": "ऐसा गा मी ब्रह्म", "is_correct": true },
+        { "option_id": 4, "text": "काजळमाया", "is_correct": false }
+      ],
+      "answer": "ऐसा गा मी ब्रह्म"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "'दोन दिवस' ही कविता कोणत्या काव्यसंग्रहातून घेतली आहे?",
+      "options": [
+        { "option_id": 1, "text": "माझे विद्यापीठ", "is_correct": false },
+        { "option_id": 2, "text": "सनद", "is_correct": false },
+        { "option_id": 3, "text": "ऐसा गा मी ब्रह्म", "is_correct": true },
+        { "option_id": 4, "text": "जाहीरनामा", "is_correct": false }
+      ],
+      "answer": "ऐसा गा मी ब्रह्म"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते, आयुष्यातील किती दिवस वाट पाहण्यात गेले?",
+      "options": [
+        { "option_id": 1, "text": "एक", "is_correct": false },
+        { "option_id": 2, "text": "दोन", "is_correct": true },
+        { "option_id": 3, "text": "तीन", "is_correct": false },
+        { "option_id": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते, आयुष्यातील किती दिवस दुःखात गेले?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": true },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "पाच", "is_correct": false },
+        { "option_id": 4, "text": "सहा", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवी कशाचा हिशोब करत आहे?",
+      "options": [
+        { "option_id": 1, "text": "पैशांचा", "is_correct": false },
+        { "option_id": 2, "text": "पावसाचा", "is_correct": false },
+        { "option_id": 3, "text": "डोईवर राहिलेल्या उन्हाळ्यांचा", "is_correct": true },
+        { "option_id": 4, "text": "कामाचा", "is_correct": false }
+      ],
+      "answer": "डोईवर राहिलेल्या उन्हाळ्यांचा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'शेकडो वेळा ____ आला'. रिकामी जागा भरा.",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस", "is_correct": false },
+        { "option_id": 3, "text": "चंद्र", "is_correct": true },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवीने चंद्राची उपमा कशाला दिली आहे?",
+      "options": [
+        { "option_id": 1, "text": "भाकरीला", "is_correct": true },
+        { "option_id": 2, "text": "चेहऱ्याला", "is_correct": false },
+        { "option_id": 3, "text": "फुलाला", "is_correct": false },
+        { "option_id": 4, "text": "दिव्याला", "is_correct": false }
+      ],
+      "answer": "भाकरीला"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जिंदगी कशात बरबाद झाली?",
+      "options": [
+        { "option_id": 1, "text": "झोपण्यात", "is_correct": false },
+        { "option_id": 2, "text": "भाकरीचा चंद्र शोधण्यात", "is_correct": true },
+        { "option_id": 3, "text": "खेळण्यात", "is_correct": false },
+        { "option_id": 4, "text": "फिरण्यात", "is_correct": false }
+      ],
+      "answer": "भाकरीचा चंद्र शोधण्यात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवीचे 'सर्वस्व' काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "घर", "is_correct": false },
+        { "option_id": 2, "text": "संपत्ती", "is_correct": false },
+        { "option_id": 3, "text": "हात", "is_correct": true },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "हात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवीचे हात कोणाकडे गहाण राहिले?",
+      "options": [
+        { "option_id": 1, "text": "सावकाराकडे", "is_correct": false },
+        { "option_id": 2, "text": "दारिद्र्याकडे", "is_correct": true },
+        { "option_id": 3, "text": "मित्राकडे", "is_correct": false },
+        { "option_id": 4, "text": "देवाकडे", "is_correct": false }
+      ],
+      "answer": "दारिद्र्याकडे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "'कलम केलेले हात' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर हात", "is_correct": false },
+        { "option_id": 2, "text": "लिहिणारे हात", "is_correct": false },
+        { "option_id": 3, "text": "असमर्थ / लाचार हात", "is_correct": true },
+        { "option_id": 4, "text": "मजबूत हात", "is_correct": false }
+      ],
+      "answer": "असमर्थ / लाचार हात"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवीच्या साहाय्यास कोण धावून आले?",
+      "options": [
+        { "option_id": 1, "text": "देव", "is_correct": false },
+        { "option_id": 2, "text": "शेजारी", "is_correct": false },
+        { "option_id": 3, "text": "अश्रू", "is_correct": true },
+        { "option_id": 4, "text": "नातेवाईक", "is_correct": false }
+      ],
+      "answer": "अश्रू"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवीने 'मित्र' कोणाला म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "हातांना", "is_correct": false },
+        { "option_id": 2, "text": "चंद्राला", "is_correct": false },
+        { "option_id": 3, "text": "अश्रूंना", "is_correct": true },
+        { "option_id": 4, "text": "सूर्याला", "is_correct": false }
+      ],
+      "answer": "अश्रूंना"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवीने हरघडी कोणाचा विचार केला?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःचा", "is_correct": false },
+        { "option_id": 2, "text": "दुनियेचा (जगाचा)", "is_correct": true },
+        { "option_id": 3, "text": "देवाचा", "is_correct": false },
+        { "option_id": 4, "text": "कामाचा", "is_correct": false }
+      ],
+      "answer": "दुनियेचा (जगाचा)"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवी कोणती शाळा शिकला?",
+      "options": [
+        { "option_id": 1, "text": "मराठी शाळा", "is_correct": false },
+        { "option_id": 2, "text": "इंग्रजी शाळा", "is_correct": false },
+        { "option_id": 3, "text": "जगण्याची शाळा / दुनियेची शाळा", "is_correct": true },
+        { "option_id": 4, "text": "रात्रीची शाळा", "is_correct": false }
+      ],
+      "answer": "जगण्याची शाळा / दुनियेची शाळा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जगाच्या शाळेत कवी काय शिकला?",
+      "options": [
+        { "option_id": 1, "text": "पैसे कमावणे", "is_correct": false },
+        { "option_id": 2, "text": "दुःख पेलावे कसे, पुन्हा जगावे कसे", "is_correct": true },
+        { "option_id": 3, "text": "कविता करणे", "is_correct": false },
+        { "option_id": 4, "text": "राजकारण", "is_correct": false }
+      ],
+      "answer": "दुःख पेलावे कसे, पुन्हा जगावे कसे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पोलाद कोठे शेकावे लागते?",
+      "options": [
+        { "option_id": 1, "text": "उन्हात", "is_correct": false },
+        { "option_id": 2, "text": "शेकोटीवर", "is_correct": false },
+        { "option_id": 3, "text": "झोतभट्टीत", "is_correct": true },
+        { "option_id": 4, "text": "गॅसवर", "is_correct": false }
+      ],
+      "answer": "झोतभट्टीत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवीचे आयुष्य कशाप्रमाणे शेकले गेले?",
+      "options": [
+        { "option_id": 1, "text": "लाकुडाप्रमाणे", "is_correct": false },
+        { "option_id": 2, "text": "पोलादाप्रमाणे", "is_correct": true },
+        { "option_id": 3, "text": "काचेप्रमाणे", "is_correct": false },
+        { "option_id": 4, "text": "सोन्याप्रमाणे", "is_correct": false }
+      ],
+      "answer": "पोलादाप्रमाणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "'बरबाद होणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "यशस्वी होणे", "is_correct": false },
+        { "option_id": 2, "text": "श्रीमंत होणे", "is_correct": false },
+        { "option_id": 3, "text": "वाया जाणे / नाश होणे", "is_correct": true },
+        { "option_id": 4, "text": "आनंदी होणे", "is_correct": false }
+      ],
+      "answer": "वाया जाणे / नाश होणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "'हरघडी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "कधीतरी", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्येक वेळी / क्षणाक्षणाला", "is_correct": true },
+        { "option_id": 3, "text": "सकाळी", "is_correct": false },
+        { "option_id": 4, "text": "रात्री", "is_correct": false }
+      ],
+      "answer": "प्रत्येक वेळी / क्षणाक्षणाला"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "'शेकणे' या शब्दाचा कवितेतील अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "भाजणे", "is_correct": false },
+        { "option_id": 2, "text": "तापणे / अनुभव घेणे", "is_correct": true },
+        { "option_id": 3, "text": "थंडी वाजणे", "is_correct": false },
+        { "option_id": 4, "text": "घाबरणे", "is_correct": false }
+      ],
+      "answer": "तापणे / अनुभव घेणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवीला जगण्यातून काय मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "फक्त दुःख", "is_correct": false },
+        { "option_id": 2, "text": "फक्त सुख", "is_correct": false },
+        { "option_id": 3, "text": "जगण्याची शिकवण", "is_correct": true },
+        { "option_id": 4, "text": "संपत्ती", "is_correct": false }
+      ],
+      "answer": "जगण्याची शिकवण"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "'उन्हाळे' हा शब्द कवितेत कशासाठी वापरला आहे?",
+      "options": [
+        { "option_id": 1, "text": "ऋतूसाठी", "is_correct": false },
+        { "option_id": 2, "text": "कडक उन्हासाठी", "is_correct": false },
+        { "option_id": 3, "text": "दुःख / कष्ट / संघर्षासाठी", "is_correct": true },
+        { "option_id": 4, "text": "सुखासाठी", "is_correct": false }
+      ],
+      "answer": "दुःख / कष्ट / संघर्षासाठी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "'माना उंचावलेले हात' कशाचे प्रतीक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पराभव", "is_correct": false },
+        { "option_id": 2, "text": "कर्तृत्व / स्वाभिमान", "is_correct": true },
+        { "option_id": 3, "text": "भीती", "is_correct": false },
+        { "option_id": 4, "text": "लाचारी", "is_correct": false }
+      ],
+      "answer": "कर्तृत्व / स्वाभिमान"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नारायण सुर्वे यांची शैली कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "अलंकारिक", "is_correct": false },
+        { "option_id": 2, "text": "बोलीभाषेशी जवळीक असणारी / निवेदनात्मक", "is_correct": true },
+        { "option_id": 3, "text": "संस्कृतप्रचुर", "is_correct": false },
+        { "option_id": 4, "text": "क्लिष्ट", "is_correct": false }
+      ],
+      "answer": "बोलीभाषेशी जवळीक असणारी / निवेदनात्मक"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कवीची श्रद्धा कशावर आहे?",
+      "options": [
+        { "option_id": 1, "text": "नशिबावर", "is_correct": false },
+        { "option_id": 2, "text": "माणसावर", "is_correct": true },
+        { "option_id": 3, "text": "धर्मावर", "is_correct": false },
+        { "option_id": 4, "text": "पैशावर", "is_correct": false }
+      ],
+      "answer": "माणसावर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कवितेत किती दिवसांचे आयुष्य असल्याचे म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "शंभर", "is_correct": false },
+        { "option_id": 4, "text": "हजार", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'डोईवर' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "हातावर", "is_correct": false },
+        { "option_id": 2, "text": "डोक्यावर", "is_correct": true },
+        { "option_id": 3, "text": "खांद्यावर", "is_correct": false },
+        { "option_id": 4, "text": "घरावर", "is_correct": false }
+      ],
+      "answer": "डोक्यावर"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'अगा जगमय झालो' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "जगात हरवलो", "is_correct": false },
+        { "option_id": 2, "text": "जगाशी एकरूप झालो", "is_correct": true },
+        { "option_id": 3, "text": "जगाचा राग आला", "is_correct": false },
+        { "option_id": 4, "text": "जगापासून दूर गेलो", "is_correct": false }
+      ],
+      "answer": "जगाशी एकरूप झालो"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कवीने अश्रूंना काय केले नाही?",
+      "options": [
+        { "option_id": 1, "text": "पुसले नाही", "is_correct": false },
+        { "option_id": 2, "text": "वाळविले नाही (हरघडी)", "is_correct": true },
+        { "option_id": 3, "text": "लपवले नाही", "is_correct": false },
+        { "option_id": 4, "text": "साठवले नाही", "is_correct": false }
+      ],
+      "answer": "वाळविले नाही (हरघडी)"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कवीने आपली जिंदगी कशासाठी खर्ची घातली?",
+      "options": [
+        { "option_id": 1, "text": "प्रवासासाठी", "is_correct": false },
+        { "option_id": 2, "text": "भाकरी मिळवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "शिक्षणासाठी", "is_correct": false },
+        { "option_id": 4, "text": "समाजसेवेसाठी", "is_correct": false }
+      ],
+      "answer": "भाकरी मिळवण्यासाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "निसर्ग कविता", "is_correct": false },
+        { "option_id": 2, "text": "वास्तववादी कविता", "is_correct": true },
+        { "option_id": 3, "text": "प्रेम कविता", "is_correct": false },
+        { "option_id": 4, "text": "भक्ती कविता", "is_correct": false }
+      ],
+      "answer": "वास्तववादी कविता"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कवीच्या आयुष्यात 'तारे फुलले' म्हणजे काय झाले?",
+      "options": [
+        { "option_id": 1, "text": "रात्र झाली", "is_correct": false },
+        { "option_id": 2, "text": "सुखाचे क्षण आले", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस पडला", "is_correct": false },
+        { "option_id": 4, "text": "संकट आले", "is_correct": false }
+      ],
+      "answer": "सुखाचे क्षण आले"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "'रात्र धुंद झाली' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "रात्र वैरी झाली", "is_correct": false },
+        { "option_id": 2, "text": "आनंददायी प्रसंग आले", "is_correct": true },
+        { "option_id": 3, "text": "वादळ आले", "is_correct": false },
+        { "option_id": 4, "text": "अंधार पडला", "is_correct": false }
+      ],
+      "answer": "आनंददायी प्रसंग आले"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "'आयुष्य' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "मरण", "is_correct": false },
+        { "option_id": 2, "text": "जीवन", "is_correct": true },
+        { "option_id": 3, "text": "कामुका", "is_correct": false },
+        { "option_id": 4, "text": "आशा", "is_correct": false }
+      ],
+      "answer": "जीवन"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "'मित्र' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "शत्रू", "is_correct": false },
+        { "option_id": 2, "text": "सखा / दोस्त", "is_correct": true },
+        { "option_id": 3, "text": "भाऊ", "is_correct": false },
+        { "option_id": 4, "text": "पिता", "is_correct": false }
+      ],
+      "answer": "सखा / दोस्त"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "'चंद्र' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "शशी / इंदू", "is_correct": true },
+        { "option_id": 3, "text": "तारा", "is_correct": false },
+        { "option_id": 4, "text": "आकाश", "is_correct": false }
+      ],
+      "answer": "शशी / इंदू"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "'हात' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पाऊल", "is_correct": false },
+        { "option_id": 2, "text": "कर / हस्त", "is_correct": true },
+        { "option_id": 3, "text": "डोके", "is_correct": false },
+        { "option_id": 4, "text": "पाय", "is_correct": false }
+      ],
+      "answer": "कर / हस्त"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "'दिवस' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "रात्र", "is_correct": true },
+        { "option_id": 2, "text": "सकाळ", "is_correct": false },
+        { "option_id": 3, "text": "दुपार", "is_correct": false },
+        { "option_id": 4, "text": "पहाट", "is_correct": false }
+      ],
+      "answer": "रात्र"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'दुःख' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "वेदना", "is_correct": false },
+        { "option_id": 2, "text": "सुख", "is_correct": true },
+        { "option_id": 3, "text": "त्रास", "is_correct": false },
+        { "option_id": 4, "text": "आनंद", "is_correct": false }
+      ],
+      "answer": "सुख"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "'मित्र' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        { "option_id": 1, "text": "शत्रू", "is_correct": true },
+        { "option_id": 2, "text": "सवंगडी", "is_correct": false },
+        { "option_id": 3, "text": "मैत्रीण", "is_correct": false },
+        { "option_id": 4, "text": "दोस्त", "is_correct": false }
+      ],
+      "answer": "शत्रू"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "नारायण सुर्वे यांच्या 'जाहीरनामा' या संग्रहाचे नाव कवितेच्या प्रस्तावनेत आले आहे का?",
+      "options": [
+        { "option_id": 1, "text": "होय", "is_correct": true },
+        { "option_id": 2, "text": "नाही", "is_correct": false }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कवीने अश्रूंना कोणत्या रूपात पाहिले आहे?",
+      "options": [
+        { "option_id": 1, "text": "शत्रू", "is_correct": false },
+        { "option_id": 2, "text": "मित्र / साहाय्यक", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "कमजोरी", "is_correct": false }
+      ],
+      "answer": "मित्र / साहाय्यक"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कवितेतील 'गहाण' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "हरवलेले", "is_correct": false },
+        { "option_id": 2, "text": "तारण ठेवलेले", "is_correct": true },
+        { "option_id": 3, "text": "विकलेले", "is_correct": false },
+        { "option_id": 4, "text": "सापडलेले", "is_correct": false }
+      ],
+      "answer": "तारण ठेवलेले"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या वृत्तात आहे?",
+      "options": [
+        { "option_id": 1, "text": "अभंग", "is_correct": false },
+        { "option_id": 2, "text": "ओवी", "is_correct": false },
+        { "option_id": 3, "text": "मुक्तछंद / गझल सदृश", "is_correct": true },
+        { "option_id": 4, "text": "श्लोक", "is_correct": false }
+      ],
+      "answer": "मुक्तछंद / गझल सदृश"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कवी कोणत्या वर्गाचे प्रतिनिधित्व करतो?",
+      "options": [
+        { "option_id": 1, "text": "श्रीमंत", "is_correct": false },
+        { "option_id": 2, "text": "कामगार / कष्टकरी", "is_correct": true },
+        { "option_id": 3, "text": "राजकीय", "is_correct": false },
+        { "option_id": 4, "text": "धार्मिक", "is_correct": false }
+      ],
+      "answer": "कामगार / कष्टकरी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कवितेचा शेवट कोणत्या ओळीने होतो?",
+      "options": [
+        { "option_id": 1, "text": "हे हात माझे सर्वस्व", "is_correct": false },
+        { "option_id": 2, "text": "दोन दिवस वाट पाहण्यात गेले; दोन दुःखात गेले", "is_correct": true },
+        { "option_id": 3, "text": "शेकडो वेळा चंद्र आला", "is_correct": false },
+        { "option_id": 4, "text": "अश्रूच मित्र होऊन", "is_correct": false }
+      ],
+      "answer": "दोन दिवस वाट पाहण्यात गेले; दोन दुःखात गेले"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवी नारायण सुर्वे यांचे दोन दिवस कशात गेले?",
+      "answer": "कवीचे दोन दिवस वाट पाहण्यात आणि दोन दिवस दुःखात गेले."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "'भाकरीचा चंद्र शोधण्यातच जिंदगी बरबाद झाली' या ओळीचा अर्थ काय?",
+      "answer": "भाकरी मिळवण्यासाठी, म्हणजे पोटाची खळगी भरण्यासाठी आयुष्यभर कष्ट करण्यातच संपूर्ण जीवन खर्ची पडले."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवी कशाचा हिशोब करत आहे?",
+      "answer": "कवी डोईवर (आयुष्यात) अजून किती उन्हाळे (दुःखाचे दिवस/संघर्ष) राहिले आहेत, याचा हिशोब करत आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवीचे हात कोठे गहाण राहिले?",
+      "answer": "कवीचे हात दारिद्र्याकडे गहाण राहिले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "'कलम झालेले हात' कशाचे प्रतीक आहे?",
+      "answer": "'कलम झालेले हात' हे गरिबीमुळे आलेल्या हतबलतेचे, लाचारीचे किंवा अपंगत्वाचे प्रतीक आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "'माना उंचावलेले हात' म्हणजे काय?",
+      "answer": "'माना उंचावलेले हात' म्हणजे कष्टाने, स्वाभिमानाने आणि कर्तृत्वाने जगलेले क्षण किंवा नवनिर्मितीचे क्षण."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवीच्या साहाय्यास कोण धावून आले?",
+      "answer": "जेव्हा कवी हतबल झाला, तेव्हा त्याचे 'अश्रू' मित्रासारखे त्याच्या साहाय्यास धावून आले."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवीने दुनियेचा विचार कसा केला?",
+      "answer": "कवीने 'हरघडी' (प्रत्येक क्षणी) दुनियेचा (जगाचा) विचार केला आणि ते जगमय झाले."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवीला दुनियेच्या शाळेने काय शिकवले?",
+      "answer": "दुनियेच्या शाळेने कवीला दुःख कसे पेलावे आणि दुःखातून सावरून पुन्हा कसे जगावे, हे शिकवले."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवीचे आयुष्य कसे शेकले गेले?",
+      "answer": "जसे पोलाद झोतभट्टीत तापवून पक्के केले जाते, तसे कवीचे आयुष्य दुःखाच्या आगीत शेकले (पक्के) गेले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "'रात्र धुंद झाली' असे कवी का म्हणतात?",
+      "answer": "आयुष्यात आलेले थोडेसे सुखाचे, समाधानाचे क्षण व्यक्त करण्यासाठी कवी 'रात्र धुंद झाली' असे म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भाकरीला 'चंद्र' असे का म्हटले आहे?",
+      "answer": "भाकरीचा आकार गोल असतो आणि भुकेल्या माणसाला ती चंद्रासारखी सुंदर व शीतल वाटते, म्हणून तिला 'चंद्र' म्हटले आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नारायण सुर्वे यांच्या प्रसिद्ध काव्यसंग्रहांची नावे सांगा.",
+      "answer": "'ऐसा गा मी ब्रह्म', 'माझे विद्यापीठ', 'जाहीरनामा', 'सनद', 'नव्या माणसाचे आगमन'."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या कवितेत कोणत्या जीवनसत्याचा वेध घेतला आहे?",
+      "answer": "कामगारांच्या कष्टमय जीवनाचे वास्तव आणि जीवनातील संघर्षमय सत्य या कवितेत मांडले आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "'झोतभट्टी' कशाचे प्रतीक आहे?",
+      "answer": "'झोतभट्टी' हे जीवनातील कठीण प्रसंग, संकटे आणि संघर्षाचे प्रतीक आहे, ज्यात माणूस तावून सुलाखून निघतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "'सर्वस्व' म्हणजे काय?",
+      "answer": "'सर्वस्व' म्हणजे स्वतःचे सर्वकाही, संपूर्ण अस्तित्व किंवा सर्वात मौल्यवान गोष्ट."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवीने अश्रू कधी वाळविले नाहीत?",
+      "answer": "कवीने 'हरघडी' (नेहमी) अश्रू वाळविले नाहीत; त्यांनी दुःखाचे प्रदर्शन केले नाही."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "'डोईवर उन्हाळे' या शब्दप्रयोगाचा अर्थ काय?",
+      "answer": "डोक्यावर असलेली जबाबदारी, कष्ट किंवा भविष्यातील कठीण दिवस."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "नारायण सुर्वे यांची शैली कशी आहे?",
+      "answer": "त्यांची शैली निवेदनात्मक, संवादाचा वापर करणारी आणि बोलीभाषेशी जवळीक साधणारी आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "'दारिद्र्याकडे गहाण पडणे' म्हणजे काय?",
+      "answer": "गरिबीमुळे आपली कौशल्ये, स्वप्ने किंवा कर्तृत्व पूर्णपणे वापरता न येणे, गरिबीच्या अधीन राहणे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कवीने स्वतःला 'जगमय झालो' असे का म्हटले आहे?",
+      "answer": "कारण कवीने कधीही स्वार्थी विचार केला नाही, तर नेहमी समाजाचा आणि जगाचा विचार केला, त्यांच्या सुख-दुःखाशी एकरूप झाले."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या गोष्टीला आपली 'शाळा' मानतात?",
+      "answer": "कवी 'दुनियेला' किंवा 'जगाला' आपली शाळा मानतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "या कवितेतील 'दोन दिवस' हे कशाचे रूपक आहे?",
+      "answer": "'दोन दिवस' हे माणसाच्या अल्पायुष्याचे किंवा जीवनाच्या मर्यादित कालावधीचे रूपक आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवीने कष्टाला कशाची उपमा दिली आहे?",
+      "answer": "कवीने कष्टाला 'उन्हाळ्याची' किंवा 'झोतभट्टीची' उपमा दिली आहे (तापवून काढणारे)."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कामगार जीवनाची सुखदुःखे कशात असतात?",
+      "answer": "कामगार जीवनाची सुखदुःखे नारायण सुर्वे यांच्या काव्यलेखनाच्या प्रेरणास्थानी असतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "'तारे फुलले' यातून कवीला काय सुचवायचे आहे?",
+      "answer": "आयुष्यात कधीतरी आलेले आशेचे, आनंदाचे किंवा यशाचे क्षण."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "'अश्रू मित्र होणे' याचा अर्थ काय?",
+      "answer": "दुःखाच्या काळात रडल्यामुळे मन हलके होते, म्हणून अश्रूंनी मित्रासारखी सांत्वना केली."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "'आयुष्य छान शेकले' याचा अर्थ काय?",
+      "answer": "आयुष्यातील संकटांनी आणि अनुभवांनी कवीला परिपक्व आणि मजबूत बनवले."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवितेत 'हात' कशाचे साधन आहे?",
+      "answer": "कवितेत 'हात' हे नवनिर्मितीचे आणि कष्टाचे साधन आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "नारायण सुर्वे यांचा दृष्टिकोन कसा आहे?",
+      "answer": "त्यांचा दृष्टिकोन वास्तववादी आणि आशावादी आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "'शेकडो वेळा चंद्र आला' या ओळीचा अर्थ काय?",
+      "answer": "आयुष्यात अनेकदा सौंदर्याचे किंवा सुखाचे क्षण आले, पण ते उपभोगता आले नाहीत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कवीने दुःखाला कसे सामोरे जावे हे कोठे शिकले?",
+      "answer": "कवीने दुःखाला सामोरे जाणे 'दुनियेच्या शाळेत' शिकले."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "कवितेत व्यक्त झालेली मुख्य भावना कोणती?",
+      "answer": "कवितेत कष्टकऱ्यांच्या जीवनातील व्यथा आणि संघर्षमय जिद्द व्यक्त झाली आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "'दुःख पेलावे' म्हणजे काय?",
+      "answer": "'दुःख पेलावे' म्हणजे दुःख सहन करावे किंवा पचवावे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कवितेच्या सुरुवातीला आणि शेवटी कोणती ओळ येते?",
+      "answer": "'दोन दिवस वाट पाहण्यात गेले; दोन दुःखात गेले' ही ओळ येते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "'हरघडी' या शब्दाचा समानार्थी शब्द सांगा.",
+      "answer": "प्रत्येक वेळी / क्षणाक्षणाला."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "'जिंदगी' या शब्दाचा समानार्थी शब्द सांगा.",
+      "answer": "आयुष्य / जीवन."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "'साहाय्य' या शब्दाचा समानार्थी शब्द सांगा.",
+      "answer": "मदत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "'बर्बाद' या शब्दाचा समानार्थी शब्द सांगा.",
+      "answer": "नाश / वाया."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "'दुनिया' या शब्दाचा समानार्थी शब्द सांगा.",
+      "answer": "जग / विश्व."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कवीला आपले हात कोणाकडे गहाण ठेवावे लागले?",
+      "answer": "दारिद्र्याकडे (गरिबीकडे)."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "कवीने आपली सर्व हयात कशात घालवली?",
+      "answer": "कष्ट करण्यात आणि पोटाची खळगी भरण्यात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "कोणता चंद्र शोधण्यात कवीचे आयुष्य गेले?",
+      "answer": "भाकरीचा चंद्र."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कवीने कशाचा हिशोब मांडला आहे?",
+      "answer": "आयुष्यातील उरलेल्या कष्टाच्या दिवसांचा (उन्हाळ्यांचा)."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कवीने हात 'कलम झालेले' कधी पाहिले?",
+      "answer": "जेव्हा गरिबीमुळे किंवा मालकांच्या हुकमामुळे त्यांना काहीच करता येत नव्हते, तेव्हा."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कवितेत 'पोलद' कशाचे प्रतीक आहे?",
+      "answer": "कठिण आणि मजबूत व्यक्तिमत्त्वाचे."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणाच्या तोंडून वदवली आहे?",
+      "answer": "एका कामगाराच्या किंवा कष्टकऱ्याच्या तोंडून."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नारायण सुर्वे यांच्या कवितेचा केंद्रबिंदू कोण आहे?",
+      "answer": "माणूस (कामगार माणूस)."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "'शेकणे' म्हणजे काय?",
+      "answer": "अनुभवांच्या आगीत तावून सुलाखून निघणे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कवीने दुःख कसे पचवले?",
+      "answer": "जगाच्या शाळेत शिकून आणि संयमाने."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "'दोन दिवस' या कवितेची मध्यवर्ती कल्पना स्पष्ट करा.",
+      "answer": "नारायण सुर्वे यांच्या 'दोन दिवस' या कवितेत कामगार आणि कष्टकरी माणसाच्या जीवनाचे वास्तव चित्र रेखाटले आहे. गरिबी आणि भुकेशी संघर्ष करताना त्याचे आयुष्य कसे खर्च होते, याचे वर्णन कवी करतात. आयुष्य हे चार दिवसांचे आहे, त्यातील दोन दिवस सुखाची वाट पाहण्यात जातात आणि उरलेले दोन दिवस दुःखात जातात. पोटाची खळगी भरण्यासाठी, म्हणजे 'भाकरीचा चंद्र' शोधण्यातच संपूर्ण आयुष्य बरबाद होते. तरीही माणूस उमेद हारत नाही, तो जगाच्या शाळेत दुःख पचवून पुन्हा जिद्दीने जगायला शिकतो. जीवनातील कटू सत्य आणि तरीही टिकून राहिलेला आशावाद हा या कवितेचा गाभा आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "'भाकरीचा चंद्र शोधण्यातच जिंदगी बरबाद झाली' या ओळीचा अर्थ स्पष्ट करा.",
+      "answer": "'भाकरीचा चंद्र' ही एक अत्यंत सुंदर आणि अर्थपूर्ण प्रतिमा आहे. भाकरी गोल असते आणि चंद्रही गोल असतो. भुकेलेल्या माणसाला आकाशातील सौंदर्याच्या चंद्रापेक्षा ताटातील भाकरीचा चंद्र जास्त महत्त्वाचा वाटतो. कामगार वर्गाचे संपूर्ण आयुष्य दोन वेळच्या जेवणाची भ्रांत मिटवण्यात, म्हणजेच पोटापाण्यासाठी कष्ट करण्यातच खर्ची पडते. त्यांच्या वाट्याला आयुष्यातील इतर सुखे, सौंदर्य किंवा आनंद उपभोगण्याची संधीच येत नाही. रोजची भूक भागवण्याच्या संघर्षात त्यांचे आयुष्य संपून जाते, म्हणजेच 'जिंदगी बरबाद होते'. ही ओळ गरिबीचे भीषण वास्तव मांडते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "'हे हात माझे सर्वस्व; दारिद्र्याकडे गहाणच राहिले' या ओळीचे रसग्रहण करा.",
+      "answer": "या ओळीत कवीने कामगाराच्या हातांचे महत्त्व आणि त्याची हतबलता व्यक्त केली आहे. कामगाराचे हात हेच त्याचे भांडवल आणि सर्वस्व असतात, कारण त्या हातांनी कष्ट करून तो आपले पोट भरतो आणि नवनिर्मिती करतो. पण दुर्दैवाने, गरिबीमुळे त्याचे हे कर्तृत्ववान हात नेहमीच परिस्थितीचे गुलाम राहतात. त्याला आपल्या हातांचा उपयोग स्वतःच्या प्रगतीसाठी करता येत नाही, तर ते 'दारिद्र्याकडे गहाण' पडलेले असतात, म्हणजे गरिबीमुळे ते बांधले गेले आहेत. या ओळीतून कवीने कष्टकऱ्यांच्या पराधीनतेचे दुःखद चित्र उभे केले आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "'अश्रूच मित्र होऊन साहाय्यास धावून आले' या विधानाचा अर्थ सांगा.",
+      "answer": "आयुष्यात जेव्हा जेव्हा कठीण प्रसंग आले, जेव्हा माणसाने किंवा नशिबाने साथ दिली नाही, तेव्हा कवीला रडू कोसळले. अशा वेळी डोळ्यातून वाहणाऱ्या अश्रूंनीच त्यांना साथ दिली. रडल्यामुळे मनातील दुःख, वेदना मोकळ्या झाल्या आणि मन हलके झाले. अश्रूंनी एका खऱ्या मित्राप्रमाणे सांत्वना केली आणि दुःखाचा भार हलका करण्यास मदत केली. म्हणून कवी म्हणतात की संकटाच्या वेळी दुसरे कोणी नाही, तर माझे अश्रूच मित्रासारखे माझ्या मदतीला धावून आले."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "'झोतभट्टीत शेकावे पोलाद तसे आयुष्य छान शेकले' या ओळीचा भावार्थ स्पष्ट करा.",
+      "answer": "झोतभट्टीमध्ये पोलाद वितळवून किंवा तापवून त्याला हवा तसा आकार दिला जातो आणि ते मजबूत बनते. त्याचप्रमाणे कवीचे आयुष्य हे दुःखाच्या आणि संघर्षाच्या भट्टीमध्ये तापले गेले आहे. आयुष्यातील अनेक चटके, अपमान, गरिबी आणि कष्ट यांनी त्यांना भाजून काढले आहे. पण या अनुभवांमुळेच ते खचून न जाता अधिक मजबूत, कणखर आणि परिपक्व झाले आहेत. 'आयुष्य छान शेकले' म्हणताना कवीने आपल्या संघर्षाकडे सकारात्मक दृष्टीने पाहिले आहे, की या कष्टांनीच मला घडवले आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "कवीने 'दुनियेच्या शाळेत' काय शिकले ते सविस्तर लिहा.",
+      "answer": "कवी नारायण सुर्वे यांनी कोणतेही औपचारिक शिक्षण घेतले नव्हते, तर ते 'दुनियेच्या शाळेत' म्हणजे प्रत्यक्ष जीवनाच्या अनुभवातून शिकले. या शाळेत त्यांनी दुःखाला घाबरून न जाता ते कसे पेलायचे (सहन करायचे) हे शिकले. इतकेच नाही, तर दुःख पचवून पुन्हा नव्या उमेदीने कसे उभे राहायचे आणि कसे जगायचे, हे देखील त्यांनी याच शाळेत शिकले. जगातील माणसांचे व्यवहार, गरिबीचे चटके आणि सामाजिक विषमता यांतून त्यांना जगण्याचे खरे शिक्षण मिळाले. त्यांनी स्वार्थी न होता जगमय होऊन विचार करायला शिकले."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "'दोन दिवस वाट पाहण्यात गेले; दोन दुःखात गेले' या ओळीतून जीवनाचे कोणते सत्य मांडले आहे?",
+      "answer": "या ओळीतून कवीने मानवी जीवनाचे, विशेषतः कष्टकरी वर्गाच्या जीवनाचे अल्पायुषी आणि संघर्षमय स्वरूप मांडले आहे. 'चार दिवसांचे आयुष्य' ही एक म्हण आहे, जी जीवनाची क्षणभंगुरता दर्शवते. कवी म्हणतात की या छोट्याशा आयुष्यातील अर्धा भाग (दोन दिवस) चांगल्या दिवसांची किंवा सुखाची वाट पाहण्यातच खर्च होतो. आणि उरलेला अर्धा भाग (दोन दिवस) प्रत्यक्षात आलेल्या दुःखात आणि कष्टात जातो. म्हणजेच, सुख हे केवळ प्रतीक्षेतच राहते आणि पदरी मात्र दुःखच येते, हे कामगार जीवनाचे कटू सत्य यात मांडले आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "नारायण सुर्वे यांच्या कवितेतील 'आशावाद' स्पष्ट करा.",
+      "answer": "नारायण सुर्वे यांची कविता ही दुःखाचे चित्रण करणारी असली तरी ती निराशावादी नाही. ती प्रचंड आशावादी आहे. कवी मान्य करतात की आयुष्य कष्टाचे आहे, 'जिंदगी बरबाद झाली' आहे. पण ते हार मानत नाहीत. 'दुःख पेलावे कसे, पुन्हा जगावे कसे' हे ते शिकले आहेत. अश्रू गाळले तरी ते तिथेच थांबले नाहीत. पोलादासारखे टणक होऊन ते संकटांना सामोरे गेले. कितीही उन्हाळे (संकटे) डोक्यावर असले तरी ते त्यांचा हिशोब करायला तयार आहेत, म्हणजेच त्यांना तोंड द्यायला सिद्ध आहेत. हा त्यांचा जगण्यावरचा आणि संघर्षावरचा अढळ विश्वास त्यांचा आशावाद दर्शवतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "हातांच्या संदर्भातील 'माना उंचावलेले' आणि 'कलम केलेले' या अवस्थांचे वर्णन करा.",
+      "answer": "कामगारांचे हात हे कर्तृत्वाचे प्रतीक आहेत. जेव्हा हे हात काही नवनिर्मिती करतात, कष्ट करून स्वाभिमानाने जगतात किंवा अन्यायाविरुद्ध मूठ आवळतात, तेव्हा ते 'माना उंचावलेले' असतात. ते अभिमानाचे आणि विजयाचे प्रतीक असतात. पण कधीकधी परिस्थितीपुढे, गरिबीपुढे किंवा व्यवस्थेपुढे माणसाला नमावे लागते. त्याचे हात बांधलेले असतात, त्याला प्रतिकार करता येत नाही किंवा आपली कला सादर करता येत नाही. अशा लाचारीच्या आणि हतबलतेच्या अवस्थेला कवीने 'हात कलम केलेले' (छाटलेले) असे म्हटले आहे. या दोन्ही परस्परविरोधी अवस्थांतून कामगारांच्या जीवनातील चढ-उतार दिसतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "कवी नारायण सुर्वे यांची सामाजिक बांधिलकी कवितेतून कशी दिसून येते?",
+      "answer": "कवी नारायण सुर्वे हे केवळ स्वतःच्या सुख-दुःखात रमणारे कवी नाहीत. ते म्हणतात, 'दुनियेचा विचार हरघडी केला, अगा जगमय झालो'. यावरून त्यांची सामाजिक बांधिलकी स्पष्ट होते. त्यांनी आपले व्यक्तिगत दुःख बाजूला सारून जगाच्या दुःखाचा विचार केला. समाजातील शोषित, पीडित आणि कष्टकरी वर्गाच्या वेदना त्यांनी आपल्या मानल्या. त्यांचे आयुष्य केवळ स्वतःसाठी नव्हते, तर ते व्यापक समाजाचा एक भाग म्हणून जगले. त्यांचे साहित्य हे समाजाचा आरसा आहे, ज्यात सामान्य माणसाचे प्रतिबिंब दिसते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "'दोन दिवस' कवितेचे रसग्रहण करताना तुम्ही कोणत्या मुद्द्यांचा विचार कराल?",
+      "answer": "१. आशय सौंदर्य: कामगारांच्या जीवनातील दाहक वास्तव, गरिबी, आणि भाकरीचा शोध हा मुख्य विषय. २. काव्य सौंदर्य: 'भाकरीचा चंद्र', 'हातांचे गहाण राहणे', 'झोतभट्टी' यांसारख्या प्रतिमांचा प्रभावी वापर. ३. भाषिक वैशिष्ट्ये: साधी, सोपी पण थेट हृदयाला भिडणारी भाषा. नारायण सुर्वे यांची खास 'निवेदनात्मक' शैली. मुक्तछंदाचा वापर. ४. जीवनमूल्ये: कष्ट, सहनशीलता, जिद्द आणि आशावाद. ५. प्रभाव: वाचकाला अंतर्मुख करायला लावणारी आणि कामगार वर्गाप्रती सहवेदना निर्माण करणारी कविता."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "कवीला 'हरघडी अश्रू वाळविले नाहीत' असे का म्हणावे लागले?",
+      "answer": "सामान्यतः माणूस दुःख लपवण्याचा किंवा अश्रू पुसण्याचा प्रयत्न करतो. पण कवीचे आयुष्य इतके संघर्षमय होते की अनेकदा रडण्याशिवाय पर्याय नव्हता. त्यांनी आपले दुःख दाबून ठेवले नाही किंवा खोटा आव आणला नाही. जेव्हा जेव्हा वेदना असह्य झाल्या, तेव्हा त्यांनी मनमोकळेपणाने रडून घेतले. अश्रूंना त्यांनी कमजोरी मानले नाही तर 'मित्र' मानले. म्हणून ते म्हणतात की मी प्रत्येक वेळी अश्रू कोरडे केले नाहीत, तर त्यांना वाहू दिले, ज्याने मला पुन्हा उभे राहण्याचे बळ दिले."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "'हिशोब करतो आहे किती राहिलेत डोईवर उन्हाळे' या ओळीतील रूपक स्पष्ट करा.",
+      "answer": "येथे 'उन्हाळे' हे दुःखाचे, कष्टाचे किंवा संकटांचे रूपक आहे. उन्हाळ्यात जशी लाही लाही होते, तसे आयुष्यातील संकटांनी जीव पोळून निघतो. कवी आपल्या आयुष्याचा जमाखर्च मांडत आहेत. भूतकाळात किती दुःख भोगले आणि आता भविष्यात अजून किती दुःख (उन्हाळे) आपल्या नशिबात (डोईवर) वाढून ठेवले आहे, याचा ते अंदाज घेत आहेत. हे विधान एकाच वेळी कवीची सोशिकता आणि भविष्याविषयीची चिंता दोन्ही व्यक्त करते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "कामगारांचे हात हेच त्यांचे 'सर्वस्व' कसे असतात?",
+      "answer": "कामगार किंवा कष्टकरी माणसाकडे वडिलोपार्जित संपत्ती, बँक बॅलन्स किंवा इतर भांडवल नसते. त्यांच्याकडे फक्त त्यांचे शरीर आणि मुख्यत्वे त्यांचे 'हात' असतात. या हातांच्या बळावरच ते कष्ट करतात, मजुरी करतात आणि पैसे कमावतात. जर हात थकले किंवा थांबले, तर त्यांची चूल पेटणार नाही. त्यांचे संपूर्ण अस्तित्व आणि उदरनिर्वाह या हातांवरच अवलंबून असतो. म्हणूनच कवीने हातांना कामगाराचे 'सर्वस्व' (सर्वकाही) म्हटले आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "कवितेतील 'चंद्र' या प्रतिमेचे विविध अर्थ सांगा.",
+      "answer": "कवितेत 'चंद्र' दोन वेगळ्या अर्थांनी आला आहे. १. सौंदर्याचा आणि स्वप्नांचा चंद्र: 'शेकडो वेळा चंद्र आला; तारे फुलले'. येथे चंद्र म्हणजे आयुष्यातील सुंदर, रोमँटिक किंवा आनंदाचे क्षण, जे कामगाराच्याही आयुष्यात येतात पण गरिबीमुळे त्याला ते पूर्णपणे जगता येत नाहीत. २. भाकरीचा चंद्र: 'भाकरीचा चंद्र शोधण्यातच जिंदगी बरबाद झाली'. येथे चंद्र म्हणजे गोल गरगरीत भाकरी. भुकेल्या पोटासाठी भाकरी हाच सर्वात सुंदर चंद्र असतो. ही दुसरी प्रतिमा वास्तवाची जाणीव करून देणारी आहे."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "कवी नारायण सुर्वे यांचे व्यक्तिमत्त्व कवितेतून कसे उमटते?",
+      "answer": "कवितेतून नारायण सुर्वे यांचे एक स्वाभिमानी, संवेदनशील आणि संघर्षशील व्यक्तिमत्त्व समोर येते. ते परिस्थितीने गांजलेले आहेत, पण लाचार नाहीत. ते आपल्या गरिबीची तक्रार करत नाहीत, तर ते सत्य स्वीकारून जगतात. ते स्वतःच्या दुःखात अडकून न पडता जगाचा विचार करतात. ते अनुभवातून शिकणारे विद्यार्थी आहेत. 'पोलादासारखे' कणखर मन आणि 'अश्रूंना मित्र' मानणारे हळवे मन असा त्यांच्या व्यक्तिमत्त्वाचा सुंदर मिलाफ यातून दिसतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "या कवितेतून कष्टकऱ्यांच्या जीवनातील 'अनिश्चितता' कशी व्यक्त झाली आहे?",
+      "answer": "'वाट पाहण्यात' दिवस जाणे हे अनिश्चिततेचे लक्षण आहे. उद्या पोट भरेल की नाही, उद्या काम मिळेल की नाही, याची शाश्वती नसणे म्हणजेच वाट पाहणे. 'हिशोब करतो आहे' यातून भविष्याची चिंता दिसते. 'कधी माना उंचावलेले, कधी कलम झालेले' हात हे दाखवतात की त्यांच्या आयुष्यात स्थिरता नाही. कधी सन्मान तर कधी अपमान, कधी काम तर कधी बेकारी. ही सततची अनिश्चितता आणि अस्थिरता कवितेच्या प्रत्येक ओळीतून जाणवते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "'आयुष्याच्या शाळेत' कवी काय शिकला, हे तुमच्या शब्दांत सांगा.",
+      "answer": "आयुष्याच्या शाळेत कवी प्रामुख्याने 'जगायला' शिकला. पुस्तकी ज्ञानापेक्षा अनुभवाचे ज्ञान जास्त महत्त्वाचे असते. कवीने शिकले की संकटे येणारच, पण त्यांना घाबरून चालणार नाही. दुःखाचा डोंगर कोसळला तरी तो पेलायची ताकद ठेवायला हवी. पडल्यावर पुन्हा उभे राहायचे आणि चालायचे, ही जिद्द त्यांनी शिकली. तसेच, स्वतःसाठी न जगता इतरांसाठी, जगासाठी जगणे आणि माणुसकी जपणे, हा महत्त्वाचा धडा त्यांना या शाळेने दिला."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "दारिद्र्य माणसाला कसे हतबल करते, हे कवितेच्या आधारे स्पष्ट करा.",
+      "answer": "दारिद्र्य माणसाचे स्वातंत्र्य हिरावून घेते. कवी म्हणतात की त्यांचे हात 'दारिद्र्याकडे गहाण' पडले आहेत. म्हणजे त्यांच्यात क्षमता असूनही ते गरिबीमुळे बांधले गेले आहेत. पोटाची भूक भागवणे हीच त्यांची प्राथमिकता बनते, त्यामुळे इतर स्वप्ने, कला किंवा इच्छा बाजूला राहतात. 'भाकरीचा चंद्र' शोधण्यात आयुष्य संपते, म्हणजे माणसाची विचारशक्ती फक्त अन्नाभोवती फिरत राहते. दारिद्र्य माणसाला परिस्थितीचा गुलाम बनवते, हे या कवितेतून स्पष्ट होते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "तुम्ही कष्टकरी माणसासाठी काय करू शकाल, तुमचे विचार लिहा.",
+      "answer": "(हे मुक्तोत्तरी प्रश्न आहे, विद्यार्थी स्वतःचे विचार लिहू शकतात. उदाहरणार्थ): मी कष्टकरी माणसांचा आदर करेन. त्यांना त्यांच्या कामाचा योग्य मोबदला वेळेवर देईन. त्यांच्याशी उद्धटपणे न वागता प्रेमाने वागेन. शक्य असल्यास त्यांच्या मुलांना शिक्षणासाठी मदत करेन. त्यांच्या समस्या समजून घेऊन त्यांना मानसिक आधार देण्याचा प्रयत्न करेन. आपण वापरत असलेल्या अनेक गोष्टी त्यांच्या कष्टाने बनल्या आहेत, याची जाणीव ठेवीन."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "कवितेची भाषाशैली आणि तिचा परिणाम यावर टीप लिहा.",
+      "answer": "नारायण सुर्वे यांची भाषा ही कामगारांची, सर्वसामान्यांची भाषा आहे. ती कृत्रिम किंवा अलंकारिक नाही, तर ती थेट काळजाला भिडणारी आहे. 'जिंदगी', 'दुनिया', 'बरबाद', 'हरघडी' यांसारखे हिंदी/उर्दू शब्द त्यांनी सहजपणे वापरले आहेत, जे मुंबईच्या कामगार वस्तीतील बोलीभाषेचा भाग आहेत. यामुळे कविता वाचकाला आपलीशी वाटते. साध्या शब्दांतून गहन तत्त्वज्ञान मांडण्याची त्यांची शैली कवितेचा परिणाम अधिक गडद करते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "कवितेतील 'तारे फुलले, रात्र धुंद झाली' या ओळीचा संदर्भ स्पष्ट करा.",
+      "answer": "हे वर्णन कवीच्या तारुण्यातील किंवा सुखद क्षणांचे असावे. जेव्हा आकाशात तारे असतात आणि रात्र धुंद असते, तेव्हा वातावरण रोमँटिक आणि स्वप्नवत असते. कामगारांच्याही आयुष्यात प्रेमाचे, स्वप्नांचे आणि आनंदाचे क्षण येतात. पण ते क्षण फार काळ टिकत नाहीत. भाकरीच्या चिंतेमुळे हे 'फुलेले तारे' आणि 'धुंद रात्र' विरून जाते. हे सौंदर्य त्यांच्या नशिबात जास्त काळ नसते, हा विरोधाभास यातून दिसतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "नारायण सुर्वे यांना 'कामगार कवी' का म्हटले जाते?",
+      "answer": "नारायण सुर्वे यांनी स्वतः गिरणी कामगार, हॉटेल बॉय, प्यून अशी कामे केली. त्यांनी कामगार वस्तीतील जीवन जवळून अनुभवले. त्यांच्या कवितेचा नायक हा नेहमीच कष्टकरी, मजूर किंवा सामान्य माणूस राहिला आहे. त्यांनी कामगारांची सुख-दुःखे, त्यांचा संघर्ष आणि त्यांची भाषा साहित्यात आणली. त्यांच्या कवितेत घामाचा वास आणि यंत्रांचा आवाज आहे. कामगारांच्या व्यथांना त्यांनी आवाज दिला, म्हणून त्यांना 'कामगार कवी' म्हटले जाते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "'असेही क्षण आले' - कवी कोणत्या क्षणांबद्दल बोलत असावा?",
+      "answer": "कवी आयुष्यातील अत्यंत हताश आणि एकाकी क्षणांबद्दल बोलत आहेत. असे क्षण जेव्हा जवळचे लोक दूर गेले असतील, जेव्हा खायला अन्न नसेल, जेव्हा अपार कष्ट करूनही यश मिळत नसेल किंवा जेव्हा स्वाभिमानाला ठेच लागली असेल. अशा वेळी माणसाला रडू येते. हे क्षण माणसाची परीक्षा पाहणारे असतात. अशाच कठीण प्रसंगी अश्रूंनी कवीला साथ दिली."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "'जगमय झालो' या संकल्पनेचा विस्तार करा.",
+      "answer": "'जगमय होणे' म्हणजे स्वतःचे अस्तित्व विसरून समष्टीशी एकरूप होणे. संतांनी जसे 'हे विश्वची माझे घर' म्हटले, तसेच काहीसे कवीचे मत आहे. त्यांनी स्वतःच्या दुःखाचे भांडवल न करता, जगातील इतर दुःखी लोकांचा विचार केला. आपली वेदना ही विश्वाची वेदना आहे आणि विश्वाची वेदना ही आपली आहे, ही व्यापक भावना त्यांच्यात निर्माण झाली. यामुळे त्यांचे दुःख हलके झाले आणि त्यांना जगण्याचे बळ मिळाले."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "या कवितेतून मिळणारा 'जीवन जगण्याचा मंत्र' कोणता?",
+      "answer": "ही कविता आपल्याला शिकवते की आयुष्य हे सुख आणि दुःख यांचे मिश्रण आहे. दुःखाला घाबरून पळून जाऊ नका. परिस्थिती कितीही कठीण असली, तरी तिचा सामना करा. रडावेसे वाटले तर रडा, पण नंतर डोळे पुसून पुन्हा कामाला लागा. कष्टाला टाळू नका, कारण कष्टच माणसाला घडवतात. स्वतःपुरते न पाहता जगाचा विचार करा. थोडक्यात, 'संघर्ष करा आणि नेटाने जगा', हा मंत्र ही कविता देते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "कवितेच्या शीर्षकाची ('दोन दिवस') सार्थकता स्पष्ट करा.",
+      "answer": "शीर्षक 'दोन दिवस' हे प्रतीकात्मक आहे. ते मानवी जीवनाची अल्पजीविता दर्शवते. कवीने जीवनाचे विभाजन दोन भागांत केले आहे - दोन दिवस वाट पाहण्याचे (सुखाचे) आणि दोन दिवस दुःखाचे. हे शीर्षक साधे असूनही संपूर्ण कवितेचा सार त्यात सामावलेला आहे. आयुष्य किती छोटे आहे आणि ते कसे संघर्षात संपते, हे सांगण्यासाठी हे शीर्षक अत्यंत समर्पक आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "तुम्हाला या कवितेतील सर्वात जास्त आवडलेली ओळ कोणती आणि का?",
+      "answer": "(विद्यार्थी कोणतीही ओळ निवडू शकतात). उदाहरण: मला 'झोतभट्टीत शेकावे पोलाद तसे आयुष्य छान शेकले' ही ओळ खूप आवडली. कारण ही ओळ दुःखाकडे पाहण्याचा सकारात्मक दृष्टिकोन देते. दुःख माणसाला तोडत नाही तर मजबूत करते, जसे आग पोलादाला मजबूत करते. या ओळीतून कवीची जिद्द आणि आयुष्यावरील प्रेम दिसून येते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "कवी आणि त्यांचे हात यांच्यातील नाते स्पष्ट करा.",
+      "answer": "कवी आणि त्यांचे हात यांच्यात अतूट नाते आहे. हात हेच त्यांचे सर्वस्व, त्यांची ओळख आणि त्यांचे अस्तित्व आहे. जसे सैनिक शस्त्रावर अवलंबून असतो, तसे कवी हातांवर अवलंबून आहे. त्यांनी हातांना कधी अभिमानाने उंचावलेले पाहिले आहे, तर कधी गरिबीत अडकलेले. हात हे केवळ अवयव नसून कवीच्या जीवनातील चढ-उतारांचे साक्षीदार आहेत. त्यांच्या संपूर्ण जीवनाचा प्रवास या हातांभोवती फिरतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "आजच्या काळात 'दोन दिवस' या कवितेचे महत्त्व काय आहे?",
+      "answer": "आजच्या काळात बेरोजगारी, महागाई आणि आर्थिक विषमता वाढत आहे. अनेक लोक नैराश्याला बळी पडत आहेत. अशा वेळी ही कविता आपल्याला प्रेरणा देते. ती सांगते की संघर्ष हा जीवनाचा भाग आहे. गरिबी किंवा अपयश आले म्हणून खचून जाऊ नये. कष्टकऱ्यांचे महत्त्व समजून घेण्यासाठी आणि स्वतःच्या आयुष्यातील सुख-दुःखाचा समतोल राखण्यासाठी ही कविता आजही मार्गदर्शक ठरते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "नारायण सुर्वे यांच्या कवितेतील 'चंद्र' आणि इतर रोमँटिक कवितांमधील 'चंद्र' यात काय फरक आहे?",
+      "answer": "इतर रोमँटिक कवितांमध्ये चंद्र हे सौंदर्याचे, प्रेमाचे आणि शीतलतेचे प्रतीक असते. तो आकाशातील एक स्वप्नवत घटक असतो. पण नारायण सुर्वे यांच्या कवितेत 'चंद्र' हे जमिनीवरच्या वास्तवाचे प्रतीक आहे. तो 'भाकरीचा चंद्र' आहे. येथे चंद्राचा संबंध सौंदर्याशी नसून भुकेशी आहे. ही प्रतिमा कविकल्पनेच्या जगातून वाचकाला वास्तवाच्या खडकाळ जमिनीवर आणते, हाच मुख्य फरक आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "कवितेतील 'वेदना' आणि 'विद्रोह' कसा व्यक्त झाला आहे?",
+      "answer": "कवितेत वेदना स्पष्ट दिसते - 'जिंदगी बरबाद झाली', 'हात गहाण राहिले'. हे गरिबीचे चटके आहेत. पण यात एक सुप्त विद्रोहही आहे. कवी रडतो, पण हार मानत नाही. 'पुन्हा जगावे कसे' हे तो शिकतो. तो परिस्थितीला शरण जात नाही तर तिचा सामना करतो. 'पोलादासारखे आयुष्य शेकणे' यात परिस्थितीवर मात करण्याची जिद्द म्हणजेच विद्रोह दडला आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "कवीच्या मते आयुष्य म्हणजे काय?",
+      "answer": "कवीच्या मते आयुष्य म्हणजे एक शाळा आहे, जिथे रोज नवे धडे गिरवावे लागतात. आयुष्य म्हणजे एक झोतभट्टी आहे, जिथे स्वतःला तावून सुलाखून घ्यावे लागते. आयुष्य म्हणजे भाकरीच्या चंद्राचा शोध आहे. आणि आयुष्य म्हणजे सुख आणि दुःख, आशा आणि निराशा, यश आणि अपयश यांचा खेळ आहे. थोडक्यात, आयुष्य म्हणजे सततचा संघर्ष आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "तुम्ही तुमच्या आयुष्यातील कठीण प्रसंगाला कसे सामोरे जाल?",
+      "answer": "(मुक्तोत्तरी). मी कवीप्रमाणेच सकारात्मक दृष्टिकोन ठेवीन. कठीण प्रसंगात रडू आले तरी मी खचणार नाही. मी या प्रसंगातून काय शिकता येईल याचा विचार करेन. मी हे लक्षात ठेवीन की हे 'दिवस' (दुःखाचे) सुद्धा जातील. मी माझ्या कुटुंबाचा आणि मित्रांचा आधार घेईन. कष्टाला न घाबरता मी पुन्हा नव्याने सुरुवात करेन."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "'दारिद्र्य' हे माणसाच्या प्रगतीतील अडथळा आहे, यावर तुमचे मत मांडा.",
+      "answer": "होय, दारिद्र्य हे नक्कीच प्रगतीतील मोठा अडथळा आहे. कवितेत म्हटल्याप्रमाणे, गरिबीमुळे माणसाचे हात 'गहाण' पडतात. बुद्धिमत्ता आणि कौशल्य असूनही संधी मिळत नाहीत. मूलभूत गरजा (अन्न, वस्त्र, निवारा) पूर्ण करण्यातच शक्ती खर्च होते, त्यामुळे उच्च ध्येय गाठणे कठीण होते. शिक्षण आणि आरोग्याकडे दुर्लक्ष होते. गरिबी माणसाचा आत्मविश्वास कमी करते. पण जिद्दीने यावर मात करणारे लोकही आहेत, हे सुर्वे यांच्यासारख्या उदाहरणावरून दिसते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "कवितेतील 'सूर्य' आणि 'चंद्र' यांचा प्रतीकात्मक वापर कसा केला जाऊ शकतो?",
+      "answer": "(कवितेत सूर्य/उन्हाळे आणि चंद्र आले आहेत). 'उन्हाळे' (सूर्य) हे दाहकतेचे, संघर्षाचे आणि कष्टाचे प्रतीक आहे. ते डोक्यावर तळपत असतात. 'चंद्र' (भाकरी) हे शीतलता, समाधान आणि तृप्तीचे प्रतीक आहे, ज्याची माणूस आस धरतो. आयुष्य हे या 'तापलेल्या उन्हात' 'शीतल चंद्राचा' शोध घेणे आहे. ऊन आणि सावलीचा खेळ म्हणजेच जीवन."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "नारायण सुर्वे यांच्या कवितेचे वेगळेपण काय आहे?",
+      "answer": "नारायण सुर्वे यांची कविता पांढरपेशा वर्गाची नाही, तर ती श्रमिकांची आहे. त्यांच्या कवितेत पुस्तकी ज्ञान नाही, तर जीवनानुभव आहे. त्यांची भाषा रांगडी आणि बोलीभाषेची आहे. त्यात कोणताही अभिनिवेश नाही. ते स्वतःच्या दुःखाचे प्रदर्शन न करता त्यातून मिळणारी ताकद मांडतात. मराठी साहित्यात कामगारांचे विश्व इतक्या प्रभावीपणे मांडणारे ते पहिले प्रमुख कवी आहेत, हेच त्यांचे वेगळेपण आहे."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "कवितेतून 'माणूस' म्हणून कवीचा कोणता धर्म दिसतो?",
+      "answer": "कवितेतून कवीचा 'मानवता' हाच धर्म दिसतो. त्यांनी कोणत्याही विशिष्ट धर्माचा, जातीचा किंवा देवासंदर्भातील उल्लेख केलेला नाही. त्यांनी 'दुनियेचा' विचार केला, 'माणसावरील अपार श्रद्धेतून' त्यांची कविता साकारली. कष्ट करणे, दुःख सोसणे आणि तरीही जगत राहणे हाच मानवाचा खरा धर्म आहे, असे त्यांच्या कवितेतून दिसते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "'माना उंचावलेले हात' आणि 'कलम केलेले हात' यांतील विरोधाभास स्पष्ट करा.",
+      "answer": "हे दोन्ही एकाच नाण्याच्या दोन बाजू आहेत. 'माना उंचावलेले हात' हे स्वातंत्र्याचे, स्वाभिमानाचे आणि यशाचे निदर्शक आहेत. तेव्हा माणूस ताठ मानेने जगतो. पण 'कलम केलेले हात' हे गुलामगिरीचे, पराधीनतेचे आणि अपयशाचे निदर्शक आहेत. तेव्हा माणूस परिस्थितीपुढे हतबल होतो. एकाच आयुष्यात माणसाला या दोन्ही टोकाच्या परिस्थितींना सामोरे जावे लागते, हा विरोधाभास कवीने मांडला आहे."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "कवितेतील 'शेकडो वेळा चंद्र आला...' या कडव्याचे सौंदर्य उलगडून दाखवा.",
+      "answer": "या कडव्यात निसर्गाचे सौंदर्य आणि मानवी जीवनाची शोकांतिका यांचा अद्भूत मिलाफ आहे. चंद्र येणे, तारे फुलणे, रात्र धुंद होणे हे सर्व सुखद आणि सुंदर प्रसंग आहेत. निसर्ग आपले चक्र पूर्ण करत असतो, सौंदर्य उधळत असतो. पण माणसाचे (कष्टकऱ्याचे) दुर्दैव असे की या सौंदर्याचा आस्वाद घेण्याऐवजी, त्याची नजर फक्त पोटाची भूक भागवणाऱ्या 'भाकरीच्या चंद्रा'कडेच लागलेली असते. निसर्गाचा चंद्र त्याच्यासाठी निरर्थक ठरतो. हे वास्तव मनाला चटका लावणारे आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "कामगारांच्या जीवनातील 'सत्य' आणि 'स्वप्न' यातील अंतर कवितेत कसे दिसते?",
+      "answer": "स्वप्न म्हणजे 'तारे फुलणे', 'चंद्र येणे', सुखाचे दिवस येणे. प्रत्येक कामगार स्वप्न पाहतो की त्याचे आयुष्य बदलेल. पण 'सत्य' म्हणजे 'डोईवर उन्हाळे', 'हात गहाण पडणे' आणि 'जिंदगी बरबाद होणे'. स्वप्न आणि सत्य यात खूप मोठी दरी आहे. स्वप्ने पाहण्यात अर्धे आयुष्य जाते (दोन दिवस), पण प्रत्यक्षात सत्याच्या चटक्यात उरलेले आयुष्य (दोन दिवस) जळून जाते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "कवीने 'मित्र' म्हणून अश्रूंची निवड का केली असावी?",
+      "answer": "सुखात अनेक मित्र असतात, पण दुःखात अनेकदा माणूस एकटा पडतो. अशा वेळी कोणीही मदतीला येत नाही. पण डोळ्यातील अश्रू मात्र न बोलावता धावून येतात. ते माणसाची साथ सोडत नाहीत. ते वेदना बाहेर काढून मनाला शांत करतात. ज्याप्रमाणे खरा मित्र संकटात धावून येतो, तसेच अश्रू आले, म्हणून कवीने त्यांना 'मित्र' म्हटले आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "कवितेचा शेवट तुम्हाला काय शिकवतो?",
+      "answer": "कवितेचा शेवट पुन्हा त्या वास्तवाची आठवण करून देतो - 'दोन दिवस वाट पाहण्यात गेले; दोन दुःखात गेले'. हा शेवट शिकवतो की जीवन हे एक चक्र आहे. सुख आणि दुःख येतच राहणार. हिशोब चालूच राहणार. पण या हिशोबात न अडकता, आहे त्या परिस्थितीचा स्वीकार करून जगणे महत्त्वाचे आहे. शेवट जरी दुःखाचा उल्लेख करत असला, तरी संपूर्ण कवितेचा सूर लढण्याचा आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "नारायण सुर्वे यांची कविता 'बोलीभाषेशी जवळीक साधणारी' आहे, हे उदाहरणासह स्पष्ट करा.",
+      "answer": "सुर्वे यांच्या कवितेतील शब्दरचना अगदी संवादासारखी आहे. उदा. 'हिशोब करतो आहे', 'अगा जगमय झालो', 'जिंदगी बरबाद झाली'. हे शब्द आपण रोजच्या बोलण्यात वापरतो. 'अगा', 'जिंदगी', 'दुनिया', 'बरबाद' हे शब्द प्रमाण मराठीपेक्षा बोलीभाषेतील आहेत. 'डोईवर उन्हाळे' हा वाक्प्रचारही ग्रामीण किंवा बोली ढंगाचा आहे. यामुळे कविता वाचकाला जवळची वाटते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "कवितेत 'हात' या अवयवाचा उल्लेख किती प्रकारे आला आहे आणि त्यांचे अर्थ काय?",
+      "answer": "कवितेत हाताचा उल्लेख तीन प्रकारे आला आहे: १. 'हे हात माझे सर्वस्व' - हात हेच भांडवल/ताकद. २. 'माना उंचावलेले हात' - यशाचे/स्वाभिमानाचे प्रतीक. ३. 'कलम झालेले हात' - पराभवाचे/असमर्थतेचे प्रतीक. एकाच अवयवाचा वापर करून कवीने कामगाराच्या जीवनातील विविध टप्पे आणि अवस्था प्रभावीपणे मांडल्या आहेत."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "'अगा जगमय झालो' यातून कवीचा 'विश्वबंधुत्व' भाव कसा दिसतो?",
+      "answer": "कवी स्वतःच्या कोश्यात राहत नाही. तो स्वतःला जगाचा एक भाग मानतो. जेव्हा तो म्हणतो 'दुनियेचा विचार हरघडी केला', तेव्हा त्याला जगातील इतर लोकांच्या सुख-दुःखाची जाणीव असते. 'जगमय होणे' म्हणजे जगाच्या रंगात रंगणे, जगाचे दुःख आपले मानणे. हा विचार संकुचित नसून व्यापक आहे, जो विश्वबंधुत्वाकडे (वसुधैव कुटुंबकम) नेणारा आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "शाळा आणि जगण्याची शाळा यात काय फरक आहे?",
+      "answer": "शाळेत आपण पुस्तकी ज्ञान घेतो, परीक्षा देतो आणि पास होतो. तेथे चुका सुधारण्याची संधी असते. पण 'जगण्याच्या शाळेत' अनुभव हेच शिक्षक असतात. येथे आधी परीक्षा असते (संकटे) आणि मग धडा मिळतो. ही शाळा कधीच सुट्टी देत नाही. येथील शिक्षण हे चारित्र्य आणि व्यक्तिमत्त्व घडवणारे असते, जे कोणत्याही पदवीपेक्षा श्रेष्ठ असते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "कवीच्या मते, अश्रू 'हरघडी' का वाळविले नाहीत?",
+      "answer": "'हरघडी अश्रू वाळविले नाहीत' याचा अर्थ कवीने आपल्या भावनांना मारले नाही. कामगार म्हणून जगत असताना अनेकदा स्वाभिमान दुखावला गेला असेल, वेदना झाल्या असतील. अशा वेळी पुरुषी अहंकार न बाळगता त्यांनी रडून मोकळे होणे पसंत केले. भावनांचे दमन केल्याने माणूस दगड बनतो, पण अश्रू वाहू दिल्याने माणुसकी जिवंत राहते, असे कवीला वाटते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "'दोन दिवस' कविता आणि 'कामगार दिन' यांचा सहसंबंध जोडा.",
+      "answer": "१ मे हा 'कामगार दिन' म्हणून साजरा केला जातो. हा दिवस कामगारांच्या कष्टाचा आणि हक्कांचा सन्मान करतो. 'दोन दिवस' ही कविता याच कामगारांची व्यथा मांडते. त्यामुळे कामगार दिनाच्या दिवशी ही कविता वाचल्यास कामगारांच्या संघर्षाची खरी जाणीव होते. कामगारांचे हात देशाचे भविष्य घडवतात, पण त्यांचे स्वतःचे आयुष्य मात्र 'भाकरी शोधण्यात' जाते, हे सत्य ही कविता कामगार दिनाच्या पार्श्वभूमीवर अधोरेखित करते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "या कवितेचा तुमच्या मनावर झालेला परिणाम लिहा.",
+      "answer": "ही कविता वाचल्यावर माझे मन हेलावून गेले. आपण ज्या गोष्टींना गृहीत धरतो (अन्न, सुख), त्यासाठी एका मोठ्या वर्गाला आयुष्यभर संघर्ष करावा लागतो, याची जाणीव झाली. मला माझ्या अडचणी खूप छोट्या वाटू लागल्या. नारायण सुर्वे यांची जिद्द पाहून मला प्रेरणा मिळाली की परिस्थिती कशीही असली तरी रडत न बसता लढले पाहिजे. कष्टकरी लोकांबद्दल माझ्या मनात आदर निर्माण झाला."
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.11",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "कृषक गान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'कृषक गान' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "मैथिलीशरण गुप्त", "is_correct": false },
+        { "option_id": 2, "text": "दिनेश भारद्वाज", "is_correct": true },
+        { "option_id": 3, "text": "जयशंकर प्रसाद", "is_correct": false },
+        { "option_id": 4, "text": "निराला", "is_correct": false }
+      ],
+      "answer": "दिनेश भारद्वाज"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "किसान के हाथ में किसकी तलवार है?",
+      "options": [
+        { "option_id": 1, "text": "लोहे की", "is_correct": false },
+        { "option_id": 2, "text": "असंतोष की", "is_correct": false },
+        { "option_id": 3, "text": "संतोष की", "is_correct": true },
+        { "option_id": 4, "text": "क्रोध की", "is_correct": false }
+      ],
+      "answer": "संतोष की"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "जगत में मधुमास है, पर कृषक पर सदा क्या रहता है?",
+      "options": [
+        { "option_id": 1, "text": "बहार", "is_correct": false },
+        { "option_id": 2, "text": "पतझर", "is_correct": true },
+        { "option_id": 3, "text": "सावन", "is_correct": false },
+        { "option_id": 4, "text": "वसंत", "is_correct": false }
+      ],
+      "answer": "पतझर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कृषक का अभिमान क्या है?",
+      "options": [
+        { "option_id": 1, "text": "धन", "is_correct": false },
+        { "option_id": 2, "text": "दीनता", "is_correct": true },
+        { "option_id": 3, "text": "शक्ति", "is_correct": false },
+        { "option_id": 4, "text": "फसल", "is_correct": false }
+      ],
+      "answer": "दीनता"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवि कृषक का क्या करना चाहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "अपमान", "is_correct": false },
+        { "option_id": 2, "text": "गान", "is_correct": true },
+        { "option_id": 3, "text": "विरोध", "is_correct": false },
+        { "option_id": 4, "text": "परिहास", "is_correct": false }
+      ],
+      "answer": "गान"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कृषक ने जगत में मधुरस कैसे बनाया है?",
+      "options": [
+        { "option_id": 1, "text": "फलों से", "is_correct": false },
+        { "option_id": 2, "text": "श्रम-रक्त चूसकर", "is_correct": true },
+        { "option_id": 3, "text": "पानी से", "is_correct": false },
+        { "option_id": 4, "text": "फूलों से", "is_correct": false }
+      ],
+      "answer": "श्रम-रक्त चूसकर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सृजक ने कृषक के लिए धूप और छाया कैसी बनाई है?",
+      "options": [
+        { "option_id": 1, "text": "अलग-अलग", "is_correct": false },
+        { "option_id": 2, "text": "एक-सी", "is_correct": true },
+        { "option_id": 3, "text": "रंग-बिरंगी", "is_correct": false },
+        { "option_id": 4, "text": "सुहावनी", "is_correct": false }
+      ],
+      "answer": "एक-सी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवि किसके ध्वज तले कृषक का आह्वान करना चाहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "देश के", "is_correct": false },
+        { "option_id": 2, "text": "धर्म के", "is_correct": false },
+        { "option_id": 3, "text": "मनुजता के", "is_correct": true },
+        { "option_id": 4, "text": "विजय के", "is_correct": false }
+      ],
+      "answer": "मनुजता के"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कृषक विश्व का क्या बनकर उसे अमर कर रहा है?",
+      "options": [
+        { "option_id": 1, "text": "पालक", "is_correct": true },
+        { "option_id": 2, "text": "शासक", "is_correct": false },
+        { "option_id": 3, "text": "सेवक", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "पालक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कृषक किनके द्वारा पद-दलित होकर मर रहा है?",
+      "options": [
+        { "option_id": 1, "text": "शत्रुओं के", "is_correct": false },
+        { "option_id": 2, "text": "अपने पालितों के", "is_correct": true },
+        { "option_id": 3, "text": "जानवरों के", "is_correct": false },
+        { "option_id": 4, "text": "प्रकृति के", "is_correct": false }
+      ],
+      "answer": "अपने पालितों के"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवि कृषक से हाथ मिलाकर किसका निर्माण करना चाहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "महल का", "is_correct": false },
+        { "option_id": 2, "text": "नव सृष्टि का", "is_correct": true },
+        { "option_id": 3, "text": "खेत का", "is_correct": false },
+        { "option_id": 4, "text": "मूर्तियों का", "is_correct": false }
+      ],
+      "answer": "नव सृष्टि का"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कृषक अपने क्षीण और बलहीन शरीर को किससे पालता है?",
+      "options": [
+        { "option_id": 1, "text": "अन्न से", "is_correct": false },
+        { "option_id": 2, "text": "दूध से", "is_correct": false },
+        { "option_id": 3, "text": "पत्तियों से", "is_correct": true },
+        { "option_id": 4, "text": "हवा से", "is_correct": false }
+      ],
+      "answer": "पत्तियों से"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कृषक अपने खून से किसे उर्वरा (उपजाऊ) बना देता है?",
+      "options": [
+        { "option_id": 1, "text": "ऊसरों (बंजर भूमि) को", "is_correct": true },
+        { "option_id": 2, "text": "नदियों को", "is_correct": false },
+        { "option_id": 3, "text": "पहाड़ों को", "is_correct": false },
+        { "option_id": 4, "text": "समुद्र को", "is_correct": false }
+      ],
+      "answer": "ऊसरों (बंजर भूमि) को"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवि सुर-असुर को छोड़कर किसका ध्यान करना चाहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "ईश्वर का", "is_correct": false },
+        { "option_id": 2, "text": "कृषक का", "is_correct": true },
+        { "option_id": 3, "text": "राजा का", "is_correct": false },
+        { "option_id": 4, "text": "स्वयं का", "is_correct": false }
+      ],
+      "answer": "कृषक का"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कृषक कैसा जीवित बना हुआ है?",
+      "options": [
+        { "option_id": 1, "text": "यंत्रवत", "is_correct": true },
+        { "option_id": 2, "text": "सुखी", "is_correct": false },
+        { "option_id": 3, "text": "स्वतंत्र", "is_correct": false },
+        { "option_id": 4, "text": "अमर", "is_correct": false }
+      ],
+      "answer": "यंत्रवत"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कौन अपनी जीत हारकर रो रही है?",
+      "options": [
+        { "option_id": 1, "text": "प्रकृति", "is_correct": false },
+        { "option_id": 2, "text": "पीड़ित मनुजता", "is_correct": true },
+        { "option_id": 3, "text": "सरकार", "is_correct": false },
+        { "option_id": 4, "text": "फसल", "is_correct": false }
+      ],
+      "answer": "पीड़ित मनुजता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवि कृषक के कण-कण को जोड़कर किसका निर्माण करना चाहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "भवन का", "is_correct": false },
+        { "option_id": 2, "text": "नीड़ (घोंसले/घर) का", "is_correct": true },
+        { "option_id": 3, "text": "मंदिर का", "is_correct": false },
+        { "option_id": 4, "text": "पुल का", "is_correct": false }
+      ],
+      "answer": "नीड़ (घोंसले/घर) का"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'मधुमास' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "वर्षा ऋतु", "is_correct": false },
+        { "option_id": 2, "text": "वसंत ऋतु", "is_correct": true },
+        { "option_id": 3, "text": "शरद ऋतु", "is_correct": false },
+        { "option_id": 4, "text": "ग्रीष्म ऋतु", "is_correct": false }
+      ],
+      "answer": "वसंत ऋतु"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'ऊसर' शब्द का विलोम शब्द कविता में कौन सा है?",
+      "options": [
+        { "option_id": 1, "text": "बंजर", "is_correct": false },
+        { "option_id": 2, "text": "उर्वरा", "is_correct": true },
+        { "option_id": 3, "text": "पथरीला", "is_correct": false },
+        { "option_id": 4, "text": "सूखा", "is_correct": false }
+      ],
+      "answer": "उर्वरा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "दिनेश भारद्वाज जी की रचनाएँ मुख्य रूप से किससे जुड़ी होती हैं?",
+      "options": [
+        { "option_id": 1, "text": "आसमान से", "is_correct": false },
+        { "option_id": 2, "text": "जमीन से", "is_correct": true },
+        { "option_id": 3, "text": "शहर से", "is_correct": false },
+        { "option_id": 4, "text": "विदेश से", "is_correct": false }
+      ],
+      "answer": "जमीन से"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कवि दिनेश भारद्वाज का जन्म कब और कहाँ हुआ?",
+      "answer": "कवि दिनेश भारद्वाज का जन्म १९४३ में मुरैना (मध्य प्रदेश) में हुआ।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "कृषक के हाथ में 'संतोष की तलवार' होने का क्या अर्थ है?",
+      "answer": "इसका अर्थ है कि कृषक अभावों में भी संतुष्ट रहता है और संतोष रूपी हथियार से ही जीवन की कठिनाइयों का सामना करता है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'जगत में मधुमास, उसपर सदा पतझर रहा है' - इसका भाव स्पष्ट कीजिए।",
+      "answer": "पूरी दुनिया में सुख-समृद्धि (वसंत) है, लेकिन किसान का जीवन हमेशा अभावों और कष्टों (पतझर) से भरा रहता है।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कृषक जगत में 'मधुरस' कैसे बनाता है?",
+      "answer": "कृषक अपना श्रम और रक्त चूसकर (कड़ी मेहनत करके) जगत के लिए मधुरस (अन्न/सुख) पैदा करता है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "सृजक ने कृषक के लिए धूप और छाया कैसी बनाई है?",
+      "answer": "सृजक (ईश्वर) ने कृषक के लिए धूप और छाया दोनों को एक समान बनाया है, वह दोनों में समान रूप से काम करता है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "कृषक को 'विश्व का पालक' क्यों कहा गया है?",
+      "answer": "क्योंकि कृषक ही अन्न उगाकर पूरी दुनिया का पेट भरता है, इसलिए उसे विश्व का पालक कहा गया है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "कृषक की दुर्दशा का एक कारण बताइए।",
+      "answer": "कृषक की दुर्दशा का कारण यह है कि वह जिन लोगों (समाज) का पालन करता है, उन्हीं के द्वारा वह पद-दलित (अपमानित/शोषित) होता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "कवि कृषक का 'आह्वान' किसके तले करना चाहते हैं?",
+      "answer": "कवि कृषक का आह्वान 'मनुजता के ध्वज तले' (मानवता के झंडे के नीचे) करना चाहते हैं।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "कृषक बंजर जमीन (ऊसरों) को कैसे उपजाऊ (उर्वरा) बनाता है?",
+      "answer": "कृषक अपने खून-पसीने से सींचकर बंजर जमीन को उपजाऊ बनाता है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "कवि सुर-असुर को छोड़कर किसका ध्यान करना चाहते हैं और क्यों?",
+      "answer": "कवि कृषक का ध्यान करना चाहते हैं क्योंकि वही सच्चा देवता है जो परिश्रम करके दुनिया को जीवन देता है।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "'यंत्रवत जीवित बना है' का क्या आशय है?",
+      "answer": "इसका आशय है कि किसान का जीवन मशीन की तरह हो गया है, जिसमें भावना और अधिकारों की कोई जगह नहीं बची है।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "कवि कृषक के लिए किसका निर्माण करना चाहते हैं?",
+      "answer": "कवि कृषक के बिखरे हुए कण-कण को जोड़कर उसके लिए एक 'नीड़' (घर/सम्मानजनक स्थान) का निर्माण करना चाहते हैं।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "'मनुजता' और 'नीड़' शब्दों के अर्थ लिखिए।",
+      "answer": "'मनुजता' का अर्थ है मनुष्यता और 'नीड़' का अर्थ है घोंसला या घर।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "दिनेश भारद्वाज जी की किन्हीं दो कृतियों के नाम लिखिए।",
+      "answer": "'जन्म और जिंदगी' और 'तृष्णा से तृप्ति तक'।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य उद्देश्य क्या है?",
+      "answer": "कविता का उद्देश्य अन्नदाता कृषक की दुर्दशा का वर्णन करना और समाज में उसका खोया हुआ सम्मान पुनः स्थापित करना है।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "'कृषक गान' कविता का केंद्रीय भाव अपने शब्दों में लिखिए।",
+      "answer": "'कृषक गान' कविता में कवि दिनेश भारद्वाज ने भारतीय किसान के त्यागमय और संघर्षपूर्ण जीवन का मार्मिक चित्रण किया है। किसान पूरी दुनिया का अन्नदाता है, वह कड़ी धूप और मेहनत में तपकर बंजर धरती को भी उपजाऊ बना देता है। इसके बावजूद वह स्वयं अभावों में जीता है, उसे अपना हक नहीं मिलता और समाज द्वारा उसकी उपेक्षा की जाती है। कवि इस अन्याय के खिलाफ आवाज उठाना चाहते हैं और किसान को उसका उचित सम्मान और अधिकार दिलाकर एक नई सृष्टि का निर्माण करना चाहते हैं।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "'विश्व का पालक बन जो, अमर उसको कर रहा है, किंतु अपने पालितों के, पद दलित हो मर रहा है' - इन पंक्तियों का भावार्थ स्पष्ट कीजिए।",
+      "answer": "कवि कहते हैं कि किसान अपने अथक परिश्रम से अन्न उपजाकर पूरे विश्व का पालन-पोषण करता है और दूसरों को जीवन (अमरत्व) प्रदान करता है। लेकिन विडंबना यह है कि जिन लोगों (समाज और व्यवस्था) को वह पालता है, उन्हीं के द्वारा उसे अपमानित और शोषित किया जाता है। वह 'पद दलित' यानी पैरों तले कुचला जाता है। अन्नदाता होकर भी वह स्वयं भूख और गरीबी में मरने को विवश है। यह पंक्तियाँ समाज की कृतघ्नता को दर्शाती हैं।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "कवि कृषक का गान और ध्यान क्यों करना चाहते हैं?",
+      "answer": "कवि कृषक का गान और ध्यान इसलिए करना चाहते हैं क्योंकि उनके लिए किसान ही सच्चा देवता और सृजक है। किसान अपने सुख-दुख की परवाह किए बिना, संतोष के साथ पूरी मानव जाति के लिए अन्न पैदा करता है। वह बंजर को उपजाऊ बनाता है और विषमताओं में भी अविचल रहता है। देवताओं (सुर-असुर) की पूजा करने के बजाय, कवि उस श्रमयोगी किसान की पूजा करना चाहते हैं जो प्रत्यक्ष रूप से जीवनदाता है, ताकि उसे उसका खोया हुआ स्वाभिमान लौटा सकें।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "कृषक के जीवन की विडंबनाओं को कविता के आधार पर स्पष्ट कीजिए।",
+      "answer": "कृषक के जीवन में अनेक विडंबनाएँ हैं: 1. वह दुनिया के लिए 'मधुरस' (आनंद/अन्न) बनाता है, लेकिन खुद उसका खून-पसीना (श्रम-रक्त) चुसता है। 2. दुनिया में वसंत (खुशहाली) होती है, लेकिन किसान के जीवन में हमेशा पतझर (अभाव) रहता है। 3. वह विश्व का पालक है, फिर भी अपने ही पालितों द्वारा शोषित होता है। 4. वह दूसरों को भोजन देता है, लेकिन खुद पत्तियों से अपना पेट भरने को मजबूर है। 5. वह हाड़-तोड़ मेहनत करता है, फिर भी उसे मशीन (यंत्रवत) मान लिया गया है और अधिकार नहीं मिलते।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "कवि 'नव सृष्टि का निर्माण' कैसे करना चाहते हैं?",
+      "answer": "कवि किसान की दयनीय स्थिति को बदलकर एक नई दुनिया (नव सृष्टि) बनाना चाहते हैं। वे किसान से हाथ मिलाकर, उसके साथ खड़े होकर इस बदलाव की शुरुआत करना चाहते हैं। उनका मानना है कि जब तक किसान, जो सभ्यता की नींव है, दुखी और शोषित रहेगा, तब तक मानवता की जीत नहीं हो सकती। इसलिए वे किसान के बिखरे हुए स्वाभिमान और अधिकारों (कण-कण) को जोड़कर एक सुरक्षित 'नीड़' (आश्रय/सम्मानजनक स्थान) बनाना चाहते हैं, जहाँ किसान को उसका उचित हक़ और सम्मान मिले।"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.05",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "गोवा : जैसा मैंने देखा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'गोवा : जैसा मैंने देखा' पाठ के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "घनश्याम अग्रवाल", "is_correct": false },
+        { "option_id": 2, "text": "विनय शर्मा", "is_correct": true },
+        { "option_id": 3, "text": "विकास परिहार", "is_correct": false },
+        { "option_id": 4, "text": "जयशंकर प्रसाद", "is_correct": false }
+      ],
+      "answer": "विनय शर्मा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लेखक और उनका परिवार किस तारीख को गोवा पहुँचा?",
+      "options": [
+        { "option_id": 1, "text": "२३ नवंबर", "is_correct": true },
+        { "option_id": 2, "text": "२५ दिसंबर", "is_correct": false },
+        { "option_id": 3, "text": "१ जनवरी", "is_correct": false },
+        { "option_id": 4, "text": "१५ अगस्त", "is_correct": false }
+      ],
+      "answer": "२३ नवंबर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "गोवा जाने के लिए लेखक ने कौन सी ट्रेन पकड़ी थी?",
+      "options": [
+        { "option_id": 1, "text": "राजधानी एक्सप्रेस", "is_correct": false },
+        { "option_id": 2, "text": "गोवा एक्सप्रेस", "is_correct": true },
+        { "option_id": 3, "text": "कोकण कन्या", "is_correct": false },
+        { "option_id": 4, "text": "शताब्दी एक्सप्रेस", "is_correct": false }
+      ],
+      "answer": "गोवा एक्सप्रेस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लेखक के साथ खंडवा से कौन शामिल हुआ?",
+      "options": [
+        { "option_id": 1, "text": "उनके मित्र", "is_correct": false },
+        { "option_id": 2, "text": "उनके भाई", "is_correct": false },
+        { "option_id": 3, "text": "उनके साढू साहब", "is_correct": true },
+        { "option_id": 4, "text": "उनके माता-पिता", "is_correct": false }
+      ],
+      "answer": "उनके साढू साहब"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "गोवा की राजधानी पणजी किस नदी के किनारे स्थित है?",
+      "options": [
+        { "option_id": 1, "text": "गंगा", "is_correct": false },
+        { "option_id": 2, "text": "यमुना", "is_correct": false },
+        { "option_id": 3, "text": "मांडवी", "is_correct": true },
+        { "option_id": 4, "text": "गोदावरी", "is_correct": false }
+      ],
+      "answer": "मांडवी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "बेनालियम बीच (तट) मडगाँव से कितनी दूर है?",
+      "options": [
+        { "option_id": 1, "text": "१० किमी", "is_correct": false },
+        { "option_id": 2, "text": "५ किमी", "is_correct": true },
+        { "option_id": 3, "text": "१५ किमी", "is_correct": false },
+        { "option_id": 4, "text": "२ किमी", "is_correct": false }
+      ],
+      "answer": "५ किमी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बेनालियम बीच की क्या विशेषता है?",
+      "options": [
+        { "option_id": 1, "text": "यह बहुत भीड़भाड़ वाला है", "is_correct": false },
+        { "option_id": 2, "text": "यह पथरीला है", "is_correct": false },
+        { "option_id": 3, "text": "यह रेतीला और उथला है", "is_correct": true },
+        { "option_id": 4, "text": "यहाँ वॉटर स्पोर्ट्स होते हैं", "is_correct": false }
+      ],
+      "answer": "यह रेतीला और उथला है"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अंजुना बीच कैसा है?",
+      "options": [
+        { "option_id": 1, "text": "रेतीला और शांत", "is_correct": false },
+        { "option_id": 2, "text": "पथरीला और गहरा", "is_correct": true },
+        { "option_id": 3, "text": "समतल", "is_correct": false },
+        { "option_id": 4, "text": "कीचड़ भरा", "is_correct": false }
+      ],
+      "answer": "पथरीला और गहरा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "गोवा का सबसे लंबा बीच कौन सा है?",
+      "options": [
+        { "option_id": 1, "text": "बेनालियम", "is_correct": false },
+        { "option_id": 2, "text": "अंजुना", "is_correct": false },
+        { "option_id": 3, "text": "कलिंगवुड (कलंगुट)", "is_correct": true },
+        { "option_id": 4, "text": "कोलवा", "is_correct": false }
+      ],
+      "answer": "कलिंगवुड (कलंगुट)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लेखक ने कलिंगवुड बीच पर किस खेल का आनंद लिया?",
+      "options": [
+        { "option_id": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_id": 2, "text": "तैराकी", "is_correct": false },
+        { "option_id": 3, "text": "पैराग्लाइडिंग", "is_correct": true },
+        { "option_id": 4, "text": "फुटबॉल", "is_correct": false }
+      ],
+      "answer": "पैराग्लाइडिंग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मछुआरों की पहली पसंद कौन सा बीच है?",
+      "options": [
+        { "option_id": 1, "text": "अंजुना", "is_correct": false },
+        { "option_id": 2, "text": "बेनालियम", "is_correct": true },
+        { "option_id": 3, "text": "कलिंगवुड", "is_correct": false },
+        { "option_id": 4, "text": "बागा", "is_correct": false }
+      ],
+      "answer": "बेनालियम"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "बॉलीवुड की पहली पसंद कौन सा बीच है?",
+      "options": [
+        { "option_id": 1, "text": "बेनालियम", "is_correct": false },
+        { "option_id": 2, "text": "अंजुना", "is_correct": true },
+        { "option_id": 3, "text": "कलिंगवुड", "is_correct": false },
+        { "option_id": 4, "text": "कोलवा", "is_correct": false }
+      ],
+      "answer": "अंजुना"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लेखक ने कोलवा बीच पर क्या देखा?",
+      "options": [
+        { "option_id": 1, "text": "शार्क", "is_correct": false },
+        { "option_id": 2, "text": "व्हेल", "is_correct": false },
+        { "option_id": 3, "text": "डॉल्फिन मछलियाँ", "is_correct": true },
+        { "option_id": 4, "text": "मगरमच्छ", "is_correct": false }
+      ],
+      "answer": "डॉल्फिन मछलियाँ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गोवा में दशहरा के दिन किसकी पूजा की जाती है?",
+      "options": [
+        { "option_id": 1, "text": "शस्त्रों की", "is_correct": false },
+        { "option_id": 2, "text": "वाहनों की", "is_correct": true },
+        { "option_id": 3, "text": "पुस्तकों की", "is_correct": false },
+        { "option_id": 4, "text": "नदियों की", "is_correct": false }
+      ],
+      "answer": "वाहनों की"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लेखक के अनुसार जीवन की समस्याओं से निजात पाने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        { "option_id": 1, "text": "सो जाना", "is_correct": false },
+        { "option_id": 2, "text": "पर्यटन", "is_correct": true },
+        { "option_id": 3, "text": "टीवी देखना", "is_correct": false },
+        { "option_id": 4, "text": "काम करना", "is_correct": false }
+      ],
+      "answer": "पर्यटन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गोवा राज्य कितने भागों में बँटा हुआ है?",
+      "options": [
+        { "option_id": 1, "text": "तीन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "दो (दक्षिण और उत्तर गोवा)", "is_correct": true },
+        { "option_id": 4, "text": "पाँच", "is_correct": false }
+      ],
+      "answer": "दो (दक्षिण और उत्तर गोवा)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "समुद्री इलाका होने के कारण गोवा के मौसम में क्या बनी रहती है?",
+      "options": [
+        { "option_id": 1, "text": "ठंड", "is_correct": false },
+        { "option_id": 2, "text": "सूखापन", "is_correct": false },
+        { "option_id": 3, "text": "उमस और नमी", "is_correct": true },
+        { "option_id": 4, "text": "बर्फबारी", "is_correct": false }
+      ],
+      "answer": "उमस और नमी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लेखक ने बच्चों से क्या सीखा?",
+      "options": [
+        { "option_id": 1, "text": "खेलना", "is_correct": false },
+        { "option_id": 2, "text": "तैरना", "is_correct": false },
+        { "option_id": 3, "text": "आशावाद (घर बनाने के प्रयास से)", "is_correct": true },
+        { "option_id": 4, "text": "हँसना", "is_correct": false }
+      ],
+      "answer": "आशावाद (घर बनाने के प्रयास से)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "किनारे पर मँड़राते पक्षी किसका शिकार करते हैं?",
+      "options": [
+        { "option_id": 1, "text": "मछलियों का", "is_correct": true },
+        { "option_id": 2, "text": "कीड़ों का", "is_correct": false },
+        { "option_id": 3, "text": "केकड़ों का", "is_correct": false },
+        { "option_id": 4, "text": "कछुओं का", "is_correct": false }
+      ],
+      "answer": "मछलियों का"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "लेखक ने शाकाहारी पर्यटकों के लिए किस समस्या का उल्लेख किया है?",
+      "options": [
+        { "option_id": 1, "text": "रहने की समस्या", "is_correct": false },
+        { "option_id": 2, "text": "परिवहन की समस्या", "is_correct": false },
+        { "option_id": 3, "text": "सुस्वादु भोजन की समस्या", "is_correct": true },
+        { "option_id": 4, "text": "भाषा की समस्या", "is_correct": false }
+      ],
+      "answer": "सुस्वादु भोजन की समस्या"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "पर्यटक गोवा की ओर क्यों खिंचे चले आते हैं?",
+      "answer": "गोवा की प्रकृति, आबोहवा और जीवनशैली के आकर्षण के कारण पर्यटक यहाँ खिंचे चले आते हैं।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "गोवा को कितने जिलों में बाँटा गया है? उनके नाम लिखिए।",
+      "answer": "गोवा को दो जिलों में बाँटा गया है: दक्षिण गोवा जिला और उत्तर गोवा जिला।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "लेखक ने 'सी फूड' की अधिकता के कारण किस समस्या का जिक्र किया है?",
+      "answer": "लेखक ने बताया है कि 'सी फूड' की अधिकता के कारण शाकाहारी पर्यटकों को स्वादिष्ट भोजन की समस्या से जूझना पड़ता है।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "लेखक ने बेनालियम बीच पर बच्चों को क्या करते देखा?",
+      "answer": "लेखक ने देखा कि बच्चे रेत का घर बना रहे थे और लहरों द्वारा उसे गिरा दिए जाने पर वे फिर से नया घर बनाने में जुट जाते थे।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "अंजुना बीच पर फिसलन का डर क्यों रहता है?",
+      "answer": "अंजुना बीच पर पत्थरों के बीच पानी भर जाने से काई जम जाती है, जिससे फिसलने का डर रहता है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "कलिंगवुड बीच की दो विशेषताएँ लिखिए।",
+      "answer": "१. यह गोवा का सबसे लंबा बीच (३ से ४ किमी) है। २. यहाँ कई प्रकार के वाटर स्पोर्ट्स (जल क्रीड़ाएँ) होते हैं।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "गोवा में नवरात्रि और दशहरा कैसे मनाया जाता है?",
+      "answer": "गोवा में नवरात्रि में माँ दुर्गा की घट स्थापना होती है और गरबा खेला जाता है। दशहरे पर रावण दहन नहीं होता, बल्कि वाहनों की पूजा होती है और 'सोना' (पत्तियाँ) बाँटा जाता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "पैराग्लाइडिंग करते समय लेखक को कैसा अनुभव हुआ?",
+      "answer": "पैराग्लाइडिंग करते समय लेखक को ऊँचाई से अथाह जलराशि देखना विस्मयकारी और भयावह दोनों लगा। वे डर भी रहे थे और रोमांचित भी थे।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "बेनालियम बीच मछुआरों की पहली पसंद क्यों है?",
+      "answer": "बेनालियम बीच रेतीला और उथला है, जहाँ सुबह-सुबह बड़ी मात्रा में मछलियाँ पकड़ी जाती हैं, इसलिए यह मछुआरों की पहली पसंद है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "गोवा की शाम का आनंद लेखक ने कहाँ लिया?",
+      "answer": "गोवा की शाम का आनंद लेखक ने बेनालियम बीच पर लिया, जो बहुत ही खूबसूरत और शांत जगह है।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "किनारे पर बैठे कुत्तों को किस बात का इंतजार रहता है?",
+      "answer": "किनारे पर बैठे कुत्तों को इस बात का इंतजार रहता है कि सुस्ताने के लिए बैठे पक्षियों पर वे झपट सकें और शिकार कर सकें।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "रात होने पर समुद्र का दृश्य कैसा हो गया?",
+      "answer": "रात होने पर और चंद्रमा की चाँदनी में नहाकर समुद्र स्याह और भयावह दिखने लगा।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "अंजुना बीच का पानी पत्थरों पर क्या प्रभाव डालता है?",
+      "answer": "पानी ने काट-काटकर पत्थरों में कई छेद कर दिए हैं, जिससे वे कमजोर हो गए हैं।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "लेखक ने अपनी यात्रा के लिए बस का चुनाव क्यों किया?",
+      "answer": "यद्यपि वहाँ बाइक किराए पर मिलती थीं, लेकिन बच्चों के साथ होने के कारण लेखक ने बस से घूमना मुनासिब समझा।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "गोवा में सांस्कृतिक परंपरा के बारे में लेखक का क्या मत है?",
+      "answer": "लेखक का मत है कि पश्चिमी फैशन और सभ्यता में रचे-बसे होने के बावजूद, गोवा के स्थानीय लोग अपनी भारतीय सांस्कृतिक परंपराओं से मजबूती से जुड़े हुए हैं।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "लेखक ने किस बीच पर डॉल्फिन मछलियाँ देखीं?",
+      "answer": "लेखक ने कोलवा बीच पर डॉल्फिन मछलियाँ देखीं।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "लेखक के अनुसार पर्यटन का क्या लाभ है?",
+      "answer": "पर्यटन से मन तरोताजा हो जाता है, शरीर को विश्राम मिलता है और जीवन की समस्याओं से निजात पाने में मदद मिलती है।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "गोवा की जलवायु कैसी है?",
+      "answer": "गोवा की जलवायु में नमी और उमस रहती है क्योंकि यह एक समुद्री इलाका है, लेकिन हरियाली के कारण यह मुंबई जितना चिपचिपा नहीं है।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "लेखक ने यात्रा के दौरान अपनी दिनचर्या क्या बताई?",
+      "answer": "सुबह जल्दी उठना, नाश्ता करना, दिन भर घूमना-फिरना और शाम को थककर रिसॉर्ट आकर पूल में तैरना।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "मांडवी नदी की क्या विशेषता है?",
+      "answer": "मांडवी नदी काफी बड़ी है और वर्ष भर पानी से भरी रहती है; इसी के किनारे राजधानी पणजी स्थित है।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "लेखक ने बेनालियम बीच और अंजुना बीच में क्या अंतर बताया है? विस्तार से लिखिए।",
+      "answer": "लेखक ने बताया है कि बेनालियम बीच रेतीला और उथला है। यह शांत है और मछुआरों की पहली पसंद है जहाँ सुबह मछलियाँ पकड़ी जाती हैं। दूसरी ओर, अंजुना बीच पथरीला और गहरा है। इसका पानी नीला है और यह बॉलीवुड की पहली पसंद है जहाँ शूटिंग होती है। बेनालियम का व्यवसाय मछली पकड़ना है जबकि अंजुना का व्यवसाय पर्यटन और फिल्म शूटिंग है। दोनों का अपना-अपना अलग सौंदर्य है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "गोवा की प्राकृतिक सुंदरता और वहाँ की जीवनशैली का वर्णन पाठ के आधार पर कीजिए।",
+      "answer": "पाठ के अनुसार, गोवा की प्रकृति बहुत आकर्षक है। यहाँ की आबोहवा में नमी है और हरियाली भरपूर है। यहाँ के समुद्र तट (बीच) जैसे बेनालियम, अंजुना और कलिंगवुड बहुत सुंदर हैं। कहीं रेत है तो कहीं पत्थर। जीवनशैली की बात करें तो गोवा पाश्चात्य संस्कृति से प्रभावित दिखता है, लेकिन यहाँ की भारतीय सांस्कृतिक जड़ें गहरी हैं। लोग त्योहार (नवरात्रि, दशहरा) पारंपरिक तरीके से मनाते हैं। यहाँ का जीवन सुस्त और आरामदेह है (सुस्ताते पक्षी, शाम का आनंद)।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "लेखक ने बच्चों के रेत के घर बनाने के प्रसंग से क्या जीवन मूल्य सीखा?",
+      "answer": "लेखक ने देखा कि बच्चे समुद्र किनारे रेत के घर बना रहे थे। लहरें आकर उनके घरों को तोड़ देती थीं, लेकिन बच्चे हार नहीं मानते थे। वे दूसरी लहर आने से पहले फिर से नया घर बनाने में जुट जाते थे। इस दृश्य से लेखक ने सीखा कि जीवन में आशावाद बहुत महत्वपूर्ण है। यदि हमारे अंदर आशा है, तो हम किसी भी असफलता के बाद दोबारा प्रयास कर सकते हैं और कोई भी काम असंभव नहीं रहता। 'बनने के बाद मिटना ही नियति है', यह सत्य भी उन्हें समझ आया।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "गोवा में मनाए जाने वाले दशहरा पर्व का वर्णन कीजिए और यह उत्तर भारत से कैसे भिन्न है?",
+      "answer": "गोवा में दशहरा पर्व के दिन लोग सुबह से अपने वाहनों की सफाई करते हैं और उनकी पूजा करते हैं। शाम को भगवान की पालकी मंदिर ले जाई जाती है। इसके बाद एक विशेष पेड़ की पत्तियाँ (जिन्हें 'सोना' कहा जाता है) तोड़कर लोग एक-दूसरे को बधाई देते हैं। उत्तर भारत में दशहरे पर रावण का पुतला जलाया जाता है, लेकिन गोवा में रावण दहन नहीं होता। यह इस पर्व की एक अलग स्थानीय परंपरा है जो इसे उत्तर भारत से भिन्न बनाती है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "कलिंगवुड बीच पर लेखक के पैराग्लाइडिंग के अनुभव को अपने शब्दों में लिखिए।",
+      "answer": "कलिंगवुड बीच पर लेखक ने वाटर स्पोर्ट्स का आनंद लिया, जिसमें पैराग्लाइडिंग सबसे रोमांचक थी। लेखक और उनकी पत्नी रस्सियों के सहारे हवा में लटके हुए थे। नीचे अथाह जलराशि थी और ऊपर तेज हवा। यह दृश्य जितना विस्मयकारी था, उतना ही डरावना भी। उन्हें डर लग रहा था कि अगर रस्सियाँ छूट गईं तो क्या होगा, लेकिन साथ ही इतनी ऊँचाई से समुद्र को देखने की खुशी और रोमांच भी था। यह उनके लिए एक अद्भुत अनुभव था।"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.02",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "लक्ष्मी (Lakshmi)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "लक्ष्मी की पीठ पर डंडे किसने बरसाए थे?",
+      "options": [
+        { "option_id": 1, "text": "करामत अली ने", "is_correct": false },
+        { "option_id": 2, "text": "रमजानी ने", "is_correct": false },
+        { "option_id": 3, "text": "रहमान ने", "is_correct": true },
+        { "option_id": 4, "text": "ज्ञान सिंह ने", "is_correct": false }
+      ],
+      "answer": "रहमान ने"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "करामत अली के मित्र का नाम क्या था?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञान सिंह", "is_correct": true },
+        { "option_id": 2, "text": "मान सिंह", "is_correct": false },
+        { "option_id": 3, "text": "रहमान", "is_correct": false },
+        { "option_id": 4, "text": "नरेश", "is_correct": false }
+      ],
+      "answer": "ज्ञान सिंह"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ज्ञान सिंह और करामत अली एक-दूसरे के पड़ोसी होने के साथ-साथ और क्या थे?",
+      "options": [
+        { "option_id": 1, "text": "रिश्तेदार", "is_correct": false },
+        { "option_id": 2, "text": "कारखाने में सहयोगी", "is_correct": true },
+        { "option_id": 3, "text": "व्यापारी", "is_correct": false },
+        { "option_id": 4, "text": "दुश्मन", "is_correct": false }
+      ],
+      "answer": "कारखाने में सहयोगी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लक्ष्मी किस नस्ल की गाय थी?",
+      "options": [
+        { "option_id": 1, "text": "साहीवाल", "is_correct": false },
+        { "option_id": 2, "text": "जर्सी", "is_correct": true },
+        { "option_id": 3, "text": "गिर", "is_correct": false },
+        { "option_id": 4, "text": "सिंधी", "is_correct": false }
+      ],
+      "answer": "जर्सी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ज्ञान सिंह को किस चीज़ का शौक था?",
+      "options": [
+        { "option_id": 1, "text": "खेती करने का", "is_correct": false },
+        { "option_id": 2, "text": "मवेशी पालने का", "is_correct": true },
+        { "option_id": 3, "text": "मछली पकड़ने का", "is_correct": false },
+        { "option_id": 4, "text": "किताबें पढ़ने का", "is_correct": false }
+      ],
+      "answer": "मवेशी पालने का"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "करामत अली ने लक्ष्मी की चोट पर क्या लगाया?",
+      "options": [
+        { "option_id": 1, "text": "मरहम", "is_correct": false },
+        { "option_id": 2, "text": "हल्दी", "is_correct": false },
+        { "option_id": 3, "text": "रोगन", "is_correct": true },
+        { "option_id": 4, "text": "घी", "is_correct": false }
+      ],
+      "answer": "रोगन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रमजानी ने करामत अली को क्या दिया?",
+      "options": [
+        { "option_id": 1, "text": "दूध", "is_correct": false },
+        { "option_id": 2, "text": "रोगन", "is_correct": true },
+        { "option_id": 3, "text": "चारा", "is_correct": false },
+        { "option_id": 4, "text": "दवा", "is_correct": false }
+      ],
+      "answer": "रोगन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लक्ष्मी ने क्या देना बंद कर दिया था?",
+      "options": [
+        { "option_id": 1, "text": "गोबर", "is_correct": false },
+        { "option_id": 2, "text": "दूध", "is_correct": true },
+        { "option_id": 3, "text": "आवाज", "is_correct": false },
+        { "option_id": 4, "text": "परेशानी", "is_correct": false }
+      ],
+      "answer": "दूध"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "करामत अली गाय को कहाँ भर्ती कराने का विचार करता है?",
+      "options": [
+        { "option_id": 1, "text": "अस्पताल में", "is_correct": false },
+        { "option_id": 2, "text": "गऊशाला में", "is_correct": true },
+        { "option_id": 3, "text": "चिड़ियाघर में", "is_correct": false },
+        { "option_id": 4, "text": "खेत में", "is_correct": false }
+      ],
+      "answer": "गऊशाला में"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रहमान ने गाय को क्यों पीटा?",
+      "options": [
+        { "option_id": 1, "text": "वह खेत में घुस गई थी", "is_correct": false },
+        { "option_id": 2, "text": "उसने दूध नहीं दिया था", "is_correct": true },
+        { "option_id": 3, "text": "उसने रस्सी तोड़ दी थी", "is_correct": false },
+        { "option_id": 4, "text": "उसने चारा नहीं खाया", "is_correct": false }
+      ],
+      "answer": "उसने दूध नहीं दिया था"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ज्ञान सिंह ने करामत अली को गाय क्यों दी?",
+      "options": [
+        { "option_id": 1, "text": "वह गाय को बेचना चाहता था", "is_correct": false },
+        { "option_id": 2, "text": "वह नौकरी से अवकाश प्राप्त कर शहर छोड़ रहा था", "is_correct": true },
+        { "option_id": 3, "text": "गाय बीमार थी", "is_correct": false },
+        { "option_id": 4, "text": "करामत अली ने माँगी थी", "is_correct": false }
+      ],
+      "answer": "वह नौकरी से अवकाश प्राप्त कर शहर छोड़ रहा था"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "करामत अली को लक्ष्मी की पीठ पर क्या देखकर धक्का लगा?",
+      "options": [
+        { "option_id": 1, "text": "मक्खियाँ", "is_correct": false },
+        { "option_id": 2, "text": "घाव के निशान", "is_correct": true },
+        { "option_id": 3, "text": "मिट्टी", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "घाव के निशान"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लक्ष्मी अब किसके लिए बोझ बन गई थी?",
+      "options": [
+        { "option_id": 1, "text": "ज्ञान सिंह के लिए", "is_correct": false },
+        { "option_id": 2, "text": "रमजानी के लिए", "is_correct": true },
+        { "option_id": 3, "text": "डॉक्टर के लिए", "is_correct": false },
+        { "option_id": 4, "text": "गऊशाला के लिए", "is_correct": false }
+      ],
+      "answer": "रमजानी के लिए"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लक्ष्मी को हरी घास देने के बारे में रमजानी ने क्या कहा?",
+      "options": [
+        { "option_id": 1, "text": "ढेर सारी घास ले आओ", "is_correct": false },
+        { "option_id": 2, "text": "सूखी घास ही बहुत है", "is_correct": false },
+        { "option_id": 3, "text": "पैसे नहीं हैं", "is_correct": true },
+        { "option_id": 4, "text": "हरी घास नुकसान करेगी", "is_correct": false }
+      ],
+      "answer": "पैसे नहीं हैं"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "करामत अली की तबीयत कैसी थी?",
+      "options": [
+        { "option_id": 1, "text": "वह अस्वस्थ था", "is_correct": true },
+        { "option_id": 2, "text": "वह बिल्कुल ठीक था", "is_correct": false },
+        { "option_id": 3, "text": "उसे चोट लगी थी", "is_correct": false },
+        { "option_id": 4, "text": "वह खुश था", "is_correct": false }
+      ],
+      "answer": "वह अस्वस्थ था"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गाय को खुला छोड़ने के बाद वह कहाँ गई?",
+      "options": [
+        { "option_id": 1, "text": "जंगल में", "is_correct": false },
+        { "option_id": 2, "text": "दूसरे गाँव", "is_correct": false },
+        { "option_id": 3, "text": "कांजी हाउस (मवेशी खाने)", "is_correct": true },
+        { "option_id": 4, "text": "ज्ञान सिंह के घर", "is_correct": false }
+      ],
+      "answer": "कांजी हाउस (मवेशी खाने)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "गऊशाला कितनी दूर थी?",
+      "options": [
+        { "option_id": 1, "text": "एक किलोमीटर", "is_correct": false },
+        { "option_id": 2, "text": "दो किलोमीटर", "is_correct": true },
+        { "option_id": 3, "text": "पाँच किलोमीटर", "is_correct": false },
+        { "option_id": 4, "text": "दस किलोमीटर", "is_correct": false }
+      ],
+      "answer": "दो किलोमीटर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "करामत अली ने लक्ष्मी को क्या खिलाया?",
+      "options": [
+        { "option_id": 1, "text": "रोटी", "is_correct": false },
+        { "option_id": 2, "text": "मिठाई", "is_correct": false },
+        { "option_id": 3, "text": "दरा", "is_correct": true },
+        { "option_id": 4, "text": "चावल", "is_correct": false }
+      ],
+      "answer": "दरा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कहानी के अंत में करामत अली लक्ष्मी को कहाँ ले गया?",
+      "options": [
+        { "option_id": 1, "text": "बाजार", "is_correct": false },
+        { "option_id": 2, "text": "कांजी हाउस", "is_correct": false },
+        { "option_id": 3, "text": "गऊशाला", "is_correct": true },
+        { "option_id": 4, "text": "बूचड़खाने", "is_correct": false }
+      ],
+      "answer": "गऊशाला"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "किसने कहा 'इसे खुला छोड़कर आजमा कर तो देखो'?",
+      "options": [
+        { "option_id": 1, "text": "रहमान ने", "is_correct": false },
+        { "option_id": 2, "text": "रमजानी ने", "is_correct": true },
+        { "option_id": 3, "text": "नरेश ने", "is_correct": false },
+        { "option_id": 4, "text": "ज्ञान सिंह ने", "is_correct": false }
+      ],
+      "answer": "रमजानी ने"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "करामत अली ने रहमान को क्या सजा देने की बात कही?",
+      "answer": "करामत अली ने गुस्से में कहा कि जिस लाठी से रहमान ने गाय को पीटा है, उसी से उसके दोनों हाथ तोड़ दिए जाएँ।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "लक्ष्मी को किसने पाला था?",
+      "answer": "लक्ष्मी को करामत अली के मित्र ज्ञान सिंह ने पाला था।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "ज्ञान सिंह की समस्या क्या थी?",
+      "answer": "ज्ञान सिंह की समस्या यह थी कि वह रिटायर हो गया था और कंपनी का मकान खाली करना था, लेकिन वह लक्ष्मी को बेचना नहीं चाहता था।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "करामत अली ने लक्ष्मी की देखभाल की जिम्मेदारी क्यों ली?",
+      "answer": "करामत अली ने अपने मित्र ज्ञान सिंह की मदद करने और गाय की सेवा करने के उद्देश्य से लक्ष्मी की जिम्मेदारी ली।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "लक्ष्मी ने दूध देना क्यों बंद कर दिया था?",
+      "answer": "लक्ष्मी अब बूढ़ी हो गई थी और उसकी उम्र ढल चुकी थी, इसलिए उसने दूध देना बंद कर दिया था।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "रमजानी लक्ष्मी को बेचने की बात क्यों कर रही थी?",
+      "answer": "रमजानी को लगता था कि बिना दूध देने वाली गाय को खिलाना-पिलाना एक भारी खर्च और बोझ है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "रहमान ने लक्ष्मी को कहाँ छोड़ने की कोशिश की?",
+      "answer": "रहमान ने लक्ष्मी को इलाके से बाहर किसी दूर जगह छोड़ने की कोशिश की ताकि वह वापस न आ सके।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "करामत अली ने लक्ष्मी के माथे पर हाथ फेरते हुए क्या कहा?",
+      "answer": "करामत अली ने लक्ष्मी से माफ़ी माँगी और उसे पुचकारा।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "लक्ष्मी के लिए 'सानी' कौन तैयार करने लगा?",
+      "answer": "करामत अली खुद लक्ष्मी के लिए सानी (चारा) तैयार करने लगा।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "'कांजी हाउस' क्या होता है?",
+      "answer": "कांजी हाउस वह जगह होती है जहाँ लावारिस या आवारा पशुओं को रखा जाता है।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "एक व्यक्ति लक्ष्मी को खरीदने क्यों आया था?",
+      "answer": "वह व्यक्ति लक्ष्मी को संभवतः काटकर उसका मांस बेचने या चमड़े के लिए खरीदना चाहता था (बूचड़खाना)।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "करामत अली ने उस व्यक्ति को क्या जवाब दिया?",
+      "answer": "करामत अली ने उसे कठोरता से चले जाने को कहा और गाय बेचने से मना कर दिया।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "रमजानी ने करामत अली को 'होलकर' के पैसे क्यों दिए?",
+      "answer": "रमजानी ने करामत अली को पैसे इसलिए दिए ताकि वह लक्ष्मी के लिए राशन (चारा/दरा) ला सके।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "गऊशाला में पशुओं की देखभाल कैसे होती है?",
+      "answer": "गऊशाला में बूढ़े और अनुपयोगी जानवरों को भी आश्रय दिया जाता है और उनकी देखभाल की जाती है।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "कहानी के अंत में करामत अली की आँखों में आँसू क्यों थे?",
+      "answer": "क्योंकि वह लक्ष्मी को अपने घर से दूर गऊशाला में छोड़ने जा रहा था, जिससे उसे बहुत दुख हो रहा था।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "ज्ञान सिंह ने करामत अली से क्या वचन लिया था?",
+      "answer": "ज्ञान सिंह ने वचन लिया था कि करामत अली लक्ष्मी का पूरा ख्याल रखेगा और उसे तकलीफ नहीं होने देगा।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "करामत अली के राशन के पैसे किसने जमा किए थे?",
+      "answer": "करामत अली ने अपनी भविष्य निधि (प्रोविडेंट फंड) या बचत से पैसे जमा किए थे, या रमजानी ने घर खर्च से बचाए थे।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "'रोगन' का उपयोग किसलिए किया गया?",
+      "answer": "रोगन का उपयोग लक्ष्मी के घावों पर लगाने के लिए किया गया ताकि उसे दर्द से राहत मिले।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "क्या करामत अली अमीर आदमी था?",
+      "answer": "नहीं, करामत अली एक साधारण मजदूर था और उसे आर्थिक तंगी का सामना करना पड़ रहा था।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "कहानी 'लक्ष्मी' का मुख्य संदेश क्या है?",
+      "answer": "कहानी का संदेश यह है कि पशुओं के प्रति प्रेम और जिम्मेदारी केवल उनके उपयोगी होने तक ही सीमित नहीं होनी चाहिए।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "करामत अली का चरित्र चित्रण कीजिए।",
+      "answer": "करामत अली एक संवेदनशील, दयालु और वचन का पक्का इंसान है। वह जानवरों से बहुत प्रेम करता है, जैसा कि लक्ष्मी के प्रति उसके व्यवहार से पता चलता है। वह अपने मित्र ज्ञान सिंह को दिए गए वचन को निभाने के लिए हर संभव प्रयास करता है, भले ही उसे आर्थिक कठिनाइयों का सामना करना पड़े। वह अपने बेटे रहमान की क्रूरता का विरोध करता है और अंत में लक्ष्मी की भलाई के लिए उसे गऊशाला छोड़ने का भारी मन से निर्णय लेता है। उसका चरित्र मानवीय मूल्यों का प्रतीक है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "लक्ष्मी के प्रति रहमान और रमजानी के दृष्टिकोण में क्या अंतर था?",
+      "answer": "रहमान और रमजानी का दृष्टिकोण व्यावहारिक और कुछ हद तक स्वार्थी था। वे लक्ष्मी को केवल दूध के स्रोत के रूप में देखते थे। जब लक्ष्मी ने दूध देना बंद कर दिया, तो रहमान ने उसे पीटा और रमजानी उसे बेचने या छुटकारा पाने की बात करने लगी। उन्हें लक्ष्मी का खर्चा उठाना भारी लग रहा था। इसके विपरीत, करामत अली का दृष्टिकोण भावनात्मक और जिम्मेदारी भरा था। वह लक्ष्मी को परिवार का सदस्य मानता था।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "यदि आप करामत अली की जगह होते, तो इस स्थिति में क्या करते?",
+      "answer": "यदि मैं करामत अली की जगह होता, तो मैं भी लक्ष्मी की देखभाल करने का पूरा प्रयास करता। मैं उसे कसाई को बेचने के बजाय, उसकी सेवा करता। यदि आर्थिक स्थिति बहुत खराब होती, तो मैं किसी ऐसी संस्था या गऊशाला से संपर्क करता जहाँ उसकी अच्छी देखभाल हो सके, जैसा कि करामत अली ने अंत में किया। पशुओं के प्रति क्रूरता करना या उन्हें बेसहारा छोड़ देना नैतिक रूप से गलत है।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "कहानी में 'गऊशाला' का महत्व स्पष्ट कीजिए।",
+      "answer": "कहानी में 'गऊशाला' एक सुरक्षित आश्रय के रूप में दिखाई गई है। जब कोई पशु बूढ़ा या अनुपयोगी हो जाता है और मालिक उसका खर्च नहीं उठा पाता, तो गऊशाला उसे सहारा देती है। यहाँ पशुओं को बेचा या मारा नहीं जाता, बल्कि उनकी स्वाभाविक मृत्यु तक देखभाल की जाती है। करामत अली के लिए गऊशाला एक राहत का विकल्प बनी, जहाँ वह सुनिश्चित कर सकता था कि लक्ष्मी सुरक्षित रहेगी, भले ही वह खुद उसकी देखभाल करने में असमर्थ हो गया था।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "ज्ञान सिंह और करामत अली की मित्रता पर प्रकाश डालिए।",
+      [cite_start]"answer": "ज्ञान सिंह और करामत अली की मित्रता बहुत गहरी और विश्वास पर आधारित थी। वे पड़ोसी थे और एक ही कारखाने में काम करते थे। उनकी विचारधारा और शौक मिलते-जुलते थे। जब ज्ञान सिंह को जाना पड़ा, तो उसने अपनी सबसे प्यारी गाय लक्ष्मी को किसी और को बेचने के बजाय करामत अली को सौंपा, क्योंकि उसे विश्वास था कि करामत अली ही उसकी सही देखभाल कर सकता है। करामत अली ने भी अनेक कष्ट सहकर उस मित्रता और वचन को अंत तक निभाया[cite: 1, 2]."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  chapter_metadata {
+    chapter_id 10.Marathi.01,
+    standard 10,
+    subject Marathi,
+    medium Marathi,
+    chapter_name तू बुद्धी दे (Tu Buddhi De)
+  },
+  questions [
+    {
+      question_id 1,
+      question_type MCQ,
+      question 'तू बुद्धी दे' या कवितेचे कवी कोण आहेत,
+      options [
+        { option_id 1, text संत तुकाराम, is_correct false },
+        { option_id 2, text गुरू ठाकूर, is_correct true },
+        { option_id 3, text सुरेश भट, is_correct false },
+        { option_id 4, text मंगेश पाडगावकर, is_correct false }
+      ],
+      answer गुरू ठाकूर
+    },
+    {
+      question_id 2,
+      question_type MCQ,
+      question कवी ईश्वराकडे कशाचा ध्यास मागत आहेत,
+      options [
+        { option_id 1, text संपत्तीचा, is_correct false },
+        { option_id 2, text सत्तेचा, is_correct false },
+        { option_id 3, text सत्य आणि सुंदराचा, is_correct true },
+        { option_id 4, text कीर्तीचा, is_correct false }
+      ],
+      answer सत्य आणि सुंदराचा
+    },
+    {
+      question_id 3,
+      question_type MCQ,
+      question कवी कोणाचा सोबती होण्यास ईश्वराला सांगत आहेत,
+      options [
+        { option_id 1, text ज्यांचे आभाळ हरवले आहे, is_correct true },
+        { option_id 2, text जे श्रीमंत आहेत, is_correct false },
+        { option_id 3, text जे आनंदी आहेत, is_correct false },
+        { option_id 4, text जे शक्तिशाली आहेत, is_correct false }
+      ],
+      answer ज्यांचे आभाळ हरवले आहे
+    },
+    {
+      question_id 4,
+      question_type MCQ,
+      question ज्यांना वाट सापडत नाही, त्यांचा कोण होण्याची विनंती कवी करतात,
+      options [
+        { option_id 1, text मित्र, is_correct false },
+        { option_id 2, text सारथी, is_correct true },
+        { option_id 3, text मालक, is_correct false },
+        { option_id 4, text सेवक, is_correct false }
+      ],
+      answer सारथी
+    },
+    {
+      question_id 5,
+      question_type MCQ,
+      question 'खल' या शब्दाचा अर्थ काय,
+      options [
+        { option_id 1, text चांगला माणूस, is_correct false },
+        { option_id 2, text दुष्टवाईट प्रवृत्ती, is_correct true },
+        { option_id 3, text खलबत्ता, is_correct false },
+        { option_id 4, text मित्र, is_correct false }
+      ],
+      answer दुष्टवाईट प्रवृत्ती
+    },
+    {
+      question_id 6,
+      question_type MCQ,
+      question कवी ईश्वराकडे सदा काय लाभो अशी प्रार्थना करतात,
+      options [
+        { option_id 1, text सन्मार्ग आणि सन्मती, is_correct true },
+        { option_id 2, text धन आणि दौलत, is_correct false },
+        { option_id 3, text यश आणि कीर्ती, is_correct false },
+        { option_id 4, text सुख आणि चैन, is_correct false }
+      ],
+      answer सन्मार्ग आणि सन्मती
+    },
+    {
+      question_id 7,
+      question_type MCQ,
+      question संकटे आली तरी काय भ्रष्ट होऊ नये असे कवीला वाटते,
+      options [
+        { option_id 1, text संपत्ती, is_correct false },
+        { option_id 2, text शरीर, is_correct false },
+        { option_id 3, text नीती, is_correct true },
+        { option_id 4, text नाते, is_correct false }
+      ],
+      answer नीती
+    },
+    {
+      question_id 8,
+      question_type MCQ,
+      question 'रुधिर' या शब्दाचा समानार्थी शब्द कोणता,
+      options [
+        { option_id 1, text पाणी, is_correct false },
+        { option_id 2, text रक्त, is_correct true },
+        { option_id 3, text दूध, is_correct false },
+        { option_id 4, text अश्रू, is_correct false }
+      ],
+      answer रक्त
+    },
+    {
+      question_id 9,
+      question_type MCQ,
+      question कवी रंध्रातून काय तेवत ठेवण्यास सांगत आहेत,
+      options [
+        { option_id 1, text दिवा, is_correct false },
+        { option_id 2, text संवेदना, is_correct true },
+        { option_id 3, text राग, is_correct false },
+        { option_id 4, text भीती, is_correct false }
+      ],
+      answer संवेदना
+    },
+    {
+      question_id 10,
+      question_type MCQ,
+      question गुरू ठाकूर यांना २००९ साली कोणता पुरस्कार मिळाला,
+      options [
+        { option_id 1, text पद्मश्री, is_correct false },
+        { option_id 2, text कलागौरव, is_correct true },
+        { option_id 3, text ज्ञानपीठ, is_correct false },
+        { option_id 4, text साहित्य अकादमी, is_correct false }
+      ],
+      answer कलागौरव
+    },
+    {
+      question_id 11,
+      question_type SHORT,
+      question कवी ईश्वराकडे कोणकोणत्या गोष्टींची मागणी करत आहेत,
+      answer कवी ईश्वराकडे बुद्धी, तेज, नवचेतना आणि विश्वास देण्याची मागणी करत आहेत.
+    },
+    {
+      question_id 12,
+      question_type SHORT,
+      question 'ज्यांचे आभाळ हरवले' याचा अर्थ काय,
+      answer 'ज्यांचे आभाळ हरवले' म्हणजे जे निराधार आहेत, पोरके आहेत किंवा ज्यांच्या जीवनातील आशा संपली आहे.
+    },
+    {
+      question_id 13,
+      question_type SHORT,
+      question कवी शब्दांना आणि जगण्याला काय प्राप्त व्हावे अशी इच्छा व्यक्त करतात,
+      answer कवी शब्दांना 'सामर्थ्य' आणि जगण्याला 'अर्थ' प्राप्त व्हावा अशी इच्छा व्यक्त करतात.
+    },
+    {
+      question_id 14,
+      question_type SHORT,
+      question कवी कोणाचे दुःख आणि वेदना जाणण्याची शक्ती मागत आहेत,
+      answer कवी दुर्बलांचे दुःख आणि वेदना जाणण्याची शक्ती मागत आहेत.
+    },
+    {
+      question_id 15,
+      question_type SHORT,
+      question 'खल भेदण्याची आस' म्हणजे काय,
+      answer याचा अर्थ दुष्ट प्रवृत्तींचा नाश करण्याची किंवा वाईट गोष्टींवर मात करण्याची इच्छा किंवा शक्ती होय.
+    },
+    {
+      question_id 16,
+      question_type SHORT,
+      question पंखांना बळ कशासाठी हवे आहे,
+      answer नव्या आकाशात झेपावण्यासाठी पंखांना बळ हवे आहे.
+    },
+    {
+      question_id 17,
+      question_type SHORT,
+      question गुरू ठाकूर यांनी गीतलेखन केलेले कोणतेही दोन चित्रपट सांगा.,
+      answer 'नटरंग', 'अगं बाई अरेच्चा', 'घर दोघांचे', 'टाइमपास' यांपैकी कोणतेही दोन.
+    },
+    {
+      question_id 18,
+      question_type SHORT,
+      question 'सारथी' या शब्दाचा शब्दार्थ सांगा.,
+      answer सारथी म्हणजे रथ चालवणारा किंवा मार्ग, रस्ता, दिशा दाखवणारा.
+    },
+    {
+      question_id 19,
+      question_type SHORT,
+      question कवितेत 'सत्य सुंदर' यांचा ध्यास कधीपर्यंत असावा असे म्हटले आहे,
+      answer कवितेत 'सत्य सुंदर' यांचा ध्यास 'आजन्म' (जन्मभर) असावा असे म्हटले आहे.
+    },
+    {
+      question_id 20,
+      question_type SHORT,
+      question प्रस्तुत कवितेतून कोणती भावना व्यक्त झाली आहे,
+      answer कायम सत्याची कास धरावी, संवेदनशीलता जपावी, अनाथांचे नाथ व्हावे आणि शाश्वत सौंदर्याचा ध्यास लागावा, या भावना व्यक्त झाल्या आहेत.
+    },
+    {
+      question_id 21,
+      question_type LONG,
+      question 'तू बुद्धी दे' या कवितेची मध्यवर्ती कल्पना स्पष्ट करा.,
+      answer गुरू ठाकूर यांची 'तू बुद्धी दे' ही कविता एक प्रार्थना आहे. यामध्ये कवी ईश्वराकडे सन्मार्ग, सन्मती आणि चांगल्या लोकांची संगत (सत्संगती) मागत आहेत. कवीला सत्याचा आणि सौंदर्याचा ध्यास हवा आहे. समाजात जे दुर्बल, वंचित आणि निराधार आहेत, त्यांचे दुःख समजून घेण्याची संवेदनशीलता कवी मागत आहेत. तसेच, वाईट प्रवृत्तींचा नाश करण्याचे सामर्थ्य आणि संकटातही आपली नीतिमत्ता ढळू न देण्याचे बळ कवी ईश्वराकडे मागत आहेत.
+    },
+    {
+      question_id 22,
+      question_type LONG,
+      question 'जाणवाया दुर्बलांचे दुःख आणि वेदना, तेवत्या राहो सदा रंध्रातुनी संवेदना' या ओळींचा भावार्थ स्पष्ट करा.,
+      answer या ओळींमधून कवी मानवी मनातील संवेदनशीलतेचे महत्त्व व्यक्त करत आहेत. समाजात अनेक लोक दुर्बल, पीडित आणि दुःखी आहेत. त्यांचे दुःख आणि वेदना समजून घेण्याची क्षमता आपल्यात असावी, अशी प्रार्थना कवी करत आहेत. केवळ वरवरची दया न दाखवता, आपल्या शरीराच्या कणाकणातून (रंध्रातून) त्यांच्याप्रती सहानुभूती आणि संवेदना कायम जागृत (तेवत) राहावी, जेणेकरून आपण त्यांना मदत करू शकू, असा उदात्त विचार या ओळींतून मांडला आहे.
+    },
+    {
+      question_id 23,
+      question_type LONG,
+      question 'सन्मार्ग आणि सन्मती लाभो सदा सत्संगती' या ओळीचे महत्त्व तुमच्या शब्दांत लिहा.,
+      answer माणसाचे जीवन यशस्वी आणि अर्थपूर्ण होण्यासाठी त्याला योग्य मार्ग (सन्मार्ग) आणि चांगली बुद्धी (सन्मती) मिळणे आवश्यक आहे. तसेच, माणसावर त्याच्या सोबतीचा खूप मोठा प्रभाव पडत असतो. जर आपल्याला चांगल्या विचारांच्या सज्जन लोकांची संगत (सत्संगती) लाभली, तर आपले विचारही उन्नत होतात. कवी ईश्वराकडे हेच मागत आहेत की, मला नेहमी चांगल्या मार्गावर चालण्याची बुद्धी दे आणि माझ्या आजूबाजूला नेहमी चांगली माणसे असू दे, जेणेकरून माझे आयुष्य नीतिमत्तेचे आणि आदर्श ठरेल.
+    },
+    {
+      question_id 24,
+      question_type LONG,
+      question संकटाच्या वेळी आपली वागणूक कशी असावी, असे कवीला वाटते,
+      answer आयुष्यात संकटे येणे नैसर्गिक आहे, परंतु कवीच्या मते, कितीही भयानक संकटे आली तरी माणसाने आपली 'नीती' सोडू नये. म्हणजेच, कठीण प्रसंगातही माणसाने आपल्या तत्त्वांची, सदाचाराची आणि चांगुलपणाची कास सोडू नये. संकटांना घाबरून चुकीचा मार्ग न निवडता, धैर्याने आणि नीतिमत्तेने त्याला सामोरे जावे, असे कवीला वाटते. यासाठीच कवी ईश्वराकडे नीती भ्रष्ट न होण्याचे बळ मागत आहेत.
+    },
+    {
+      question_id 25,
+      question_type LONG,
+      question कवी 'नव्या आकाशात झेपावण्यासाठी' ईश्वराकडे काय मागत आहेत,
+      answer कवीला आयुष्यात प्रगती करायची आहे आणि नवीन क्षितिजे गाठायची आहेत. यासाठी ते ईश्वराकडे आपल्या पंखांमध्ये बळ मागत आहेत. हे बळ केवळ शारीरिक नसून ते आत्मविश्वासाचे आणि नवचेतनेचे आहे. 'नवे आकाश' म्हणजे नवीन संधी आणि नवीन ध्येये. ही ध्येये साध्य करण्यासाठी आणि प्रगतीच्या दिशेने उडान भरण्यासाठी कवी ईश्वराकडे सामर्थ्य आणि शक्तीची मागणी करत आहेत.
+    }
+  ]
+}

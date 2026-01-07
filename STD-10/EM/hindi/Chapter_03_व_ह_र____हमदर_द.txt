@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.03",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "वाह रे ! हमदर्द"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "लेखक किस विषय पर भाषण सुनकर आ रहे थे?",
+      "options": [
+        { "option_id": 1, "text": "राजनीति पर", "is_correct": false },
+        { "option_id": 2, "text": "पूँजीवादी और समाजवादी अर्थव्यवस्था पर", "is_correct": true },
+        { "option_id": 3, "text": "महंगाई पर", "is_correct": false },
+        { "option_id": 4, "text": "शिक्षा प्रणाली पर", "is_correct": false }
+      ],
+      "answer": "पूँजीवादी और समाजवादी अर्थव्यवस्था पर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "लेखक की साइकिल किससे टकराई?",
+      "options": [
+        { "option_id": 1, "text": "ट्रक से", "is_correct": false },
+        { "option_id": 2, "text": "दीवार से", "is_correct": false },
+        { "option_id": 3, "text": "कार से", "is_correct": true },
+        { "option_id": 4, "text": "स्कूटर से", "is_correct": false }
+      ],
+      "answer": "कार से"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "दुर्घटना के फलस्वरूप लेखक का क्या टूट गया?",
+      "options": [
+        { "option_id": 1, "text": "हाथ", "is_correct": false },
+        { "option_id": 2, "text": "सिर", "is_correct": false },
+        { "option_id": 3, "text": "टाँग", "is_correct": true },
+        { "option_id": 4, "text": "साइकिल", "is_correct": false }
+      ],
+      "answer": "टाँग"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लेखक को किस अस्पताल में भर्ती किया गया?",
+      "options": [
+        { "option_id": 1, "text": "निजी अस्पताल", "is_correct": false },
+        { "option_id": 2, "text": "सार्वजनिक अस्पताल", "is_correct": true },
+        { "option_id": 3, "text": "सैनिक अस्पताल", "is_correct": false },
+        { "option_id": 4, "text": "विदेशी अस्पताल", "is_correct": false }
+      ],
+      "answer": "सार्वजनिक अस्पताल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लेखक की दूसरी टाँग किस सहारे लटक रही थी?",
+      "options": [
+        { "option_id": 1, "text": "रस्सी के सहारे", "is_correct": false },
+        { "option_id": 2, "text": "रेत की थैली के सहारे", "is_correct": true },
+        { "option_id": 3, "text": "तकिए के सहारे", "is_correct": false },
+        { "option_id": 4, "text": "लोहे की छड़ के सहारे", "is_correct": false }
+      ],
+      "answer": "रेत की थैली के सहारे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लेखक को टाँग टूटने से ज्यादा फिक्र किसकी थी?",
+      "options": [
+        { "option_id": 1, "text": "डॉक्टर की", "is_correct": false },
+        { "option_id": 2, "text": "इलाज के खर्च की", "is_correct": false },
+        { "option_id": 3, "text": "हमदर्दी जताने आने वालों की", "is_correct": true },
+        { "option_id": 4, "text": "नौकरी की", "is_correct": false }
+      ],
+      "answer": "हमदर्दी जताने आने वालों की"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सोनाबाई अपने साथ कितने बच्चों को लेकर आई थीं?",
+      "options": [
+        { "option_id": 1, "text": "दो", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": true },
+        { "option_id": 4, "text": "पाँच", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सोनाबाई की छोटी लड़की ने क्या किया?",
+      "options": [
+        { "option_id": 1, "text": "गाना गाया", "is_correct": false },
+        { "option_id": 2, "text": "दवा की शीशी पटक दी", "is_correct": true },
+        { "option_id": 3, "text": "रोने लगी", "is_correct": false },
+        { "option_id": 4, "text": "सो गई", "is_correct": false }
+      ],
+      "answer": "दवा की शीशी पटक दी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "श्री लपकानंद जी क्या थे?",
+      "options": [
+        { "option_id": 1, "text": "डॉक्टर", "is_correct": false },
+        { "option_id": 2, "text": "वकील", "is_correct": false },
+        { "option_id": 3, "text": "कवि", "is_correct": true },
+        { "option_id": 4, "text": "व्यापारी", "is_correct": false }
+      ],
+      "answer": "कवि"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लेखक ने अंत में ईश्वर से क्या प्रार्थना की?",
+      "options": [
+        { "option_id": 1, "text": "जल्दी ठीक होने की", "is_correct": false },
+        { "option_id": 2, "text": "अमीर बनने की", "is_correct": false },
+        { "option_id": 3, "text": "दूसरी टाँग वहाँ तोड़ने की जहाँ कोई परिचित न हो", "is_correct": true },
+        { "option_id": 4, "text": "कार वालों को सजा देने की", "is_correct": false }
+      ],
+      "answer": "दूसरी टाँग वहाँ तोड़ने की जहाँ कोई परिचित न हो"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सोनाबाई के लड़के ने किस चीज़ पर बॉक्सिंग की प्रैक्टिस की?",
+      "options": [
+        { "option_id": 1, "text": "दीवार पर", "is_correct": false },
+        { "option_id": 2, "text": "लेखक की पीठ पर", "is_correct": false },
+        { "option_id": 3, "text": "टाँग के साथ लटक रही रेती की थैली पर", "is_correct": true },
+        { "option_id": 4, "text": "तकिए पर", "is_correct": false }
+      ],
+      "answer": "टाँग के साथ लटक रही रेती की थैली पर"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लेखक की पत्नी ने रोने वाले आदमी को क्या समझकर टैक्सी वाले को पैसे दिए?",
+      "options": [
+        { "option_id": 1, "text": "भिखारी", "is_correct": false },
+        { "option_id": 2, "text": "रिश्तेदार या करीबी मित्र", "is_correct": true },
+        { "option_id": 3, "text": "पड़ोसी", "is_correct": false },
+        { "option_id": 4, "text": "डॉक्टर", "is_correct": false }
+      ],
+      "answer": "रिश्तेदार या करीबी मित्र"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "'हमदर्दी' शब्द किस भाषा का है?",
+      "options": [
+        { "option_id": 1, "text": "हिंदी", "is_correct": false },
+        { "option_id": 2, "text": "अरबी", "is_correct": false },
+        { "option_id": 3, "text": "फारसी", "is_correct": true },
+        { "option_id": 4, "text": "अंग्रेजी", "is_correct": false }
+      ],
+      "answer": "फारसी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ऑफिस के बड़े बाबू ने लेखक को जगाने के लिए क्या किया?",
+      "options": [
+        { "option_id": 1, "text": "आवाज दी", "is_correct": false },
+        { "option_id": 2, "text": "पानी डाला", "is_correct": false },
+        { "option_id": 3, "text": "टाँग के टूटे हिस्से को जोर से दबाया", "is_correct": true },
+        { "option_id": 4, "text": "ताली बजाई", "is_correct": false }
+      ],
+      "answer": "टाँग के टूटे हिस्से को जोर से दबाया"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लपकानंद ने अपनी कविता में असम की राजधानी क्या बताई?",
+      "options": [
+        { "option_id": 1, "text": "दिसपुर", "is_correct": false },
+        { "option_id": 2, "text": "गुवाहाटी", "is_correct": false },
+        { "option_id": 3, "text": "शिलाँग", "is_correct": true },
+        { "option_id": 4, "text": "इम्फाल", "is_correct": false }
+      ],
+      "answer": "शिलाँग"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "लेखक ने 'टाँग का टूटना' मुहावरे का क्या अर्थ निकाला?",
+      "answer": "लेखक ने 'टाँग का टूटना' का अर्थ निकाला - 'सार्वजनिक अस्पताल में कुछ दिन रहना'।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "लेखक को सार्वजनिक अस्पताल का खयाल आते ही क्या हुआ?",
+      "answer": "सार्वजनिक अस्पताल का खयाल आते ही लेखक काँप उठे क्योंकि उन्हें लगा कि वहाँ आत्मा का परमात्मा से मिलन हो सकता है।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "मरीज को आराम की जरूरत कब सबसे अधिक होती है?",
+      "answer": "जब मरीज दर्द से परेशान हो और उसे नींद की सख्त जरूरत हो, तब उसे आराम की सबसे अधिक आवश्यकता होती है।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "जनरल वार्ड और प्राइवेट वार्ड में मिलने के समय में क्या अंतर होता है?",
+      "answer": "जनरल वार्ड में मिलने का एक निश्चित समय होता है, जबकि प्राइवेट वार्ड में कोई समय बंधन नहीं होता, यह एक खुला निमंत्रण होता है।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "कुछ लोग मरीज से मिलने क्यों आते हैं?",
+      "answer": "कुछ लोग मरीज से हमदर्दी जताने नहीं, बल्कि केवल अपनी सूरत दिखाने और औपचारिकता निभाने आते हैं।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "सोनाबाई ने बच्चों को लेखक का परिचय किस तरह दिया?",
+      "answer": "सोनाबाई ने बच्चों को लेखक की ओर इशारा करते हुए ऐसे कहा जैसे चिड़ियाघर में बंदर दिखाया जा रहा हो - 'ये देखो चाचा जी'।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "सोनाबाई की लड़की दवा की शीशी लेकर क्या करने लगी?",
+      "answer": "सोनाबाई की लड़की दवा की शीशी लेकर कथकली डांस करने लगी।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "दवा की शीशी टूटने पर सोनाबाई ने क्या कहा?",
+      "answer": "सोनाबाई ने कहा कि 'दवा गिरना शुभ होता है। दवा गई समझो बीमारी गई'।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "रोने वाला आदमी लेखक के कमरे में क्यों आया था?",
+      "answer": "वह आदमी गलतफहमी में लेखक के कमरे में आ गया था, उसे बगल वाले कमरे में गुप्ता जी से मिलने जाना था।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "लेखक लपकानंद से क्यों भागते थे?",
+      "answer": "लेखक लपकानंद से इसलिए भागते थे क्योंकि वह जब भी मिलते थे, अपनी दस-बीस बेतुकी कविताएँ सुनाए बिना नहीं छोड़ते थे।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "लेखक ने अपनी टाँग टूटने को घटना और अस्पताल में भर्ती होने को क्या कहा?",
+      "answer": "लेखक ने टाँग टूटने को 'घटना' और सार्वजनिक अस्पताल में भर्ती होने को 'दुर्घटना' कहा।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "मुहल्ले वाले अस्पताल में कब आते हैं?",
+      "answer": "मुहल्ले वाले अपनी फुरसत से आते हैं।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "लेखक को किन लोगों से सबसे पहले मिलने की उम्मीद थी?",
+      "answer": "जिनकी टाँग या कुछ और टूटने पर लेखक कभी उनसे मिलने गए थे, वे अपना एहसान चुकाने सबसे पहले आएँगे।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "लेखक ने लपकानंद को जल्दी विदा करने के लिए क्या किया?",
+      "answer": "लेखक ने उन्हें जल्दी से चाय पिलाई और फिर कविताएँ सुनने का वादा करके विदा किया।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "इस पाठ के लेखक कौन हैं?",
+      "answer": "इस पाठ के लेखक घनश्याम अग्रवाल हैं।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "सार्वजनिक अस्पताल के बारे में लेखक के क्या विचार हैं?",
+      "answer": "लेखक का मानना है कि 'अस्पताल' शब्द ही खतरनाक होता है, और यदि वह 'सार्वजनिक' हो तो और भी भयावह होता है। उन्हें लगता है कि सार्वजनिक अस्पताल में भर्ती होना 'आत्मा से परमात्मा के मिलन' जैसा है। वहाँ मिलने-जुलने वालों का कोई निश्चित समय या नियम नहीं होता, जिससे मरीज को आराम नहीं मिल पाता। लेखक के अनुसार, टाँग टूटना एक घटना है, लेकिन सार्वजनिक अस्पताल में भर्ती होना एक दुर्घटना है।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "सोनाबाई के बच्चों ने अस्पताल में क्या ऊधम मचाया?",
+      "answer": "सोनाबाई अपने चार बच्चों के साथ लेखक को देखने आईं। आते ही बच्चे शरारत करने लगे। एक बच्चा कुर्सी पर चढ़ा तो दूसरा मेज पर। छोटी लड़की दवा की शीशी लेकर कथकली डांस करने लगी और अंततः शीशी पटक कर तोड़ दी। एक लड़का लेखक की टूटी टाँग के साथ लटक रही रेती की थैली पर बॉक्सिंग की प्रैक्टिस करने लगा। उनके शोर और हरकतों से लेखक बहुत परेशान हो गए।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "औपचारिकता निभाने वाले मिलने वालों का वर्णन कीजिए।",
+      "answer": "कुछ लोग मरीज से मिलने केवल औपचारिकता निभाने आते हैं। उन्हें मरीज की पीड़ा या हमदर्दी से कोई लेना-देना नहीं होता, वे बस अपनी सूरत दिखाने आते हैं ताकि मरीज को पता चले कि वे आए थे। जैसे ऑफिस के बड़े बाबू ने लेखक को सोता देख उन्हें जगाया और टूटी टाँग को दबाकर पूछा कि दर्द कैसा है। ऐसे लोग मरीज के आराम में खलल डालते हैं और उनके लिए परेशानी का कारण बनते हैं।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "लपकानंद जी ने लेखक को कौन सी कविता सुनाई और उस प्रसंग का वर्णन करें।",
+      "answer": "लपकानंद जी एक कवि हैं जो अपनी बेतुकी कविताओं से लोगों को परेशान करते हैं। वे झोला लेकर अस्पताल पहुँचे और कहने लगे कि वे रात भर लेखक के बारे में सोच रहे थे। उन्होंने अपनी डायरी से कविता सुनाई: \"असम की राजधानी है शिलाँग, मेरे दोस्त की टूट गई है टाँग, मोटरवाले, तेरी ही साइड थी राँग।\" कविता सुनाकर वे लेखक की प्रतिक्रिया का इंतजार करने लगे। लेखक ने बड़ी मुश्किल से चाय पिलाकर उन्हें विदा किया।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "पाठ 'वाह रे ! हमदर्द' के माध्यम से लेखक क्या संदेश देना चाहते हैं?",
+      "answer": "इस हास्य-व्यंग्य निबंध के माध्यम से लेखक यह संदेश देना चाहते हैं कि मरीज को हमदर्दी की जरूरत होती है, लेकिन कभी-कभी मिलने-जुलने वाले लोग हमदर्दी के नाम पर मरीज को परेशान कर देते हैं। बेवक्त आना, शोर मचाना, और मरीज को आराम न करने देना गलत है। लेखक ने यह भी दर्शाया है कि कैसे कुछ लोग केवल औपचारिकता या बदला चुकाने के लिए मिलने आते हैं। हमें मरीज की स्थिति और जरूरत को समझकर ही व्यवहार करना चाहिए।"
+    }
+  ]
+}

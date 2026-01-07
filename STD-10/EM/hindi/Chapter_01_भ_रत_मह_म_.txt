@@ -1,0 +1,371 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.01",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "भारत महिमा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'भारत महिमा' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "महादेवी वर्मा", "is_correct": false },
+        { "option_id": 2, "text": "जयशंकर प्रसाद", "is_correct": true },
+        { "option_id": 3, "text": "रामधारी सिंह दिनकर", "is_correct": false },
+        { "option_id": 4, "text": "सूर्यकांत त्रिपाठी 'निराला'", "is_correct": false }
+      ],
+      "answer": "जयशंकर प्रसाद"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हिमालय के आँगन में भारत को किसका उपहार मिला?",
+      "options": [
+        { "option_id": 1, "text": "चाँदनी का", "is_correct": false },
+        { "option_id": 2, "text": "किरणों का", "is_correct": true },
+        { "option_id": 3, "text": "फूलों का", "is_correct": false },
+        { "option_id": 4, "text": "जल का", "is_correct": false }
+      ],
+      "answer": "किरणों का"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हँसकर भारत का अभिनंदन किसने किया?",
+      "options": [
+        { "option_id": 1, "text": "संध्या ने", "is_correct": false },
+        { "option_id": 2, "text": "रात्रि ने", "is_correct": false },
+        { "option_id": 3, "text": "उषा ने", "is_correct": true },
+        { "option_id": 4, "text": "प्रकृति ने", "is_correct": false }
+      ],
+      "answer": "उषा ने"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "उषा ने भारत को कौन-सा हार पहनाया?",
+      "options": [
+        { "option_id": 1, "text": "स्वर्ण हार", "is_correct": false },
+        { "option_id": 2, "text": "हीरक हार", "is_correct": true },
+        { "option_id": 3, "text": "मोतियों का हार", "is_correct": false },
+        { "option_id": 4, "text": "फूलों का हार", "is_correct": false }
+      ],
+      "answer": "हीरक हार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार सबसे पहले ज्ञान का उदय कहाँ हुआ?",
+      "options": [
+        { "option_id": 1, "text": "चीन में", "is_correct": false },
+        { "option_id": 2, "text": "भारत में (हम जगे)", "is_correct": true },
+        { "option_id": 3, "text": "यूनान में", "is_correct": false },
+        { "option_id": 4, "text": "श्रीलंका में", "is_correct": false }
+      ],
+      "answer": "भारत में (हम जगे)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वीणा किसने हाथ में ली?",
+      "options": [
+        { "option_id": 1, "text": "लक्ष्मी जी ने", "is_correct": false },
+        { "option_id": 2, "text": "पार्वती जी ने", "is_correct": false },
+        { "option_id": 3, "text": "विमल वाणी (सरस्वती) ने", "is_correct": true },
+        { "option_id": 4, "text": "दुर्गा जी ने", "is_correct": false }
+      ],
+      "answer": "विमल वाणी (सरस्वती) ने"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सप्तसिंधु में क्या छिड़ा?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध", "is_correct": false },
+        { "option_id": 2, "text": "मधुर साम संगीत", "is_correct": true },
+        { "option_id": 3, "text": "विवाद", "is_correct": false },
+        { "option_id": 4, "text": "क्रंदन", "is_correct": false }
+      ],
+      "answer": "मधुर साम संगीत"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारत की धरा पर किसकी धूम रही है?",
+      "options": [
+        { "option_id": 1, "text": "लोहे की", "is_correct": false },
+        { "option_id": 2, "text": "युद्ध की", "is_correct": false },
+        { "option_id": 3, "text": "धर्म की", "is_correct": true },
+        { "option_id": 4, "text": "अशांति की", "is_correct": false }
+      ],
+      "answer": "धर्म की"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सम्राट क्या बनकर घर-घर घूमते थे?",
+      "options": [
+        { "option_id": 1, "text": "व्यापारी", "is_correct": false },
+        { "option_id": 2, "text": "सैनिक", "is_correct": false },
+        { "option_id": 3, "text": "भिक्षु", "is_correct": true },
+        { "option_id": 4, "text": "यात्री", "is_correct": false }
+      ],
+      "answer": "भिक्षु"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भारत ने 'यवन' को क्या दिया?",
+      "options": [
+        { "option_id": 1, "text": "दया का दान", "is_correct": true },
+        { "option_id": 2, "text": "युद्ध की चुनौती", "is_correct": false },
+        { "option_id": 3, "text": "स्वर्ण", "is_correct": false },
+        { "option_id": 4, "text": "शरण", "is_correct": false }
+      ],
+      "answer": "दया का दान"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "चीन को भारत से क्या मिला?",
+      "options": [
+        { "option_id": 1, "text": "रेशम", "is_correct": false },
+        { "option_id": 2, "text": "धर्म की दृष्टि", "is_correct": true },
+        { "option_id": 3, "text": "व्यापार", "is_correct": false },
+        { "option_id": 4, "text": "संगीत", "is_correct": false }
+      ],
+      "answer": "धर्म की दृष्टि"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सिंहल (श्रीलंका) को भारत से क्या मिला?",
+      "options": [
+        { "option_id": 1, "text": "शील", "is_correct": true },
+        { "option_id": 2, "text": "शस्त्र", "is_correct": false },
+        { "option_id": 3, "text": "धन", "is_correct": false },
+        { "option_id": 4, "text": "भूमि", "is_correct": false }
+      ],
+      "answer": "शील"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भारतीयों के चरित्र की क्या विशेषता बताई गई है?",
+      "options": [
+        { "option_id": 1, "text": "वे अपवित्र थे", "is_correct": false },
+        { "option_id": 2, "text": "चरित थे पूत (पवित्र)", "is_correct": true },
+        { "option_id": 3, "text": "वे कपटी थे", "is_correct": false },
+        { "option_id": 4, "text": "वे आलसी थे", "is_correct": false }
+      ],
+      "answer": "चरित थे पूत (पवित्र)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भारतीयों को किस पर गर्व था?",
+      "options": [
+        { "option_id": 1, "text": "धन पर", "is_correct": false },
+        { "option_id": 2, "text": "शक्ति पर", "is_correct": false },
+        { "option_id": 3, "text": "हृदय के गौरव पर", "is_correct": true },
+        { "option_id": 4, "text": "सुंदरता पर", "is_correct": false }
+      ],
+      "answer": "हृदय के गौरव पर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अतिथि को भारतीय क्या मानते थे?",
+      "options": [
+        { "option_id": 1, "text": "बोझ", "is_correct": false },
+        { "option_id": 2, "text": "देव (देवता)", "is_correct": true },
+        { "option_id": 3, "text": "शत्रु", "is_correct": false },
+        { "option_id": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "देव (देवता)"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारतीयों की प्रतिज्ञा में क्या रहती थी?",
+      "options": [
+        { "option_id": 1, "text": "टेव (आदत)", "is_correct": true },
+        { "option_id": 2, "text": "शंका", "is_correct": false },
+        { "option_id": 3, "text": "छल", "is_correct": false },
+        { "option_id": 4, "text": "अहंकार", "is_correct": false }
+      ],
+      "answer": "टेव (आदत)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "हम किसकी संतान हैं?",
+      "options": [
+        { "option_id": 1, "text": "दिव्य आर्य संतान", "is_correct": true },
+        { "option_id": 2, "text": "यवन संतान", "is_correct": false },
+        { "option_id": 3, "text": "पाश्चात्य संतान", "is_correct": false },
+        { "option_id": 4, "text": "अनजान संतान", "is_correct": false }
+      ],
+      "answer": "दिव्य आर्य संतान"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवि अपना सर्वस्व किस पर निछावर करने को कहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "स्वयं पर", "is_correct": false },
+        { "option_id": 2, "text": "मित्रों पर", "is_correct": false },
+        { "option_id": 3, "text": "प्यारे भारतवर्ष पर", "is_correct": true },
+        { "option_id": 4, "text": "धन पर", "is_correct": false }
+      ],
+      "answer": "प्यारे भारतवर्ष पर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'व्योमतम' शब्द का सही अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "आकाश का प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "आकाश में व्याप्त अँधेरा (अज्ञान)", "is_correct": true },
+        { "option_id": 3, "text": "बादल", "is_correct": false },
+        { "option_id": 4, "text": "तारे", "is_correct": false }
+      ],
+      "answer": "आकाश में व्याप्त अँधेरा (अज्ञान)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "जयशंकर प्रसाद किस युग के कवि हैं?",
+      "options": [
+        { "option_id": 1, "text": "भक्तिकाल", "is_correct": false },
+        { "option_id": 2, "text": "छायावादी युग", "is_correct": true },
+        { "option_id": 3, "text": "रीतिकाल", "is_correct": false },
+        { "option_id": 4, "text": "आदिकाल", "is_correct": false }
+      ],
+      "answer": "छायावादी युग"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कवि जयशंकर प्रसाद का जन्म कब और कहाँ हुआ था?",
+      "answer": "कवि जयशंकर प्रसाद का जन्म १८९० में वाराणसी (उत्तर प्रदेश) में हुआ था।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "जयशंकर प्रसाद जी की किन्हीं दो प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "कामायनी (महाकाव्य) और आँसू (काव्य)।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'हीरक हार' से कवि का क्या तात्पर्य है?",
+      "answer": "'हीरक हार' से कवि का तात्पर्य सूर्य की किरणों से चमकती हुई ओस की बूंदों या भारत के यश/वैभव से है जो प्रकृति ने उसे पहनाया है।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "विश्व में आलोक (प्रकाश) कैसे फैला?",
+      "answer": "सबसे पहले भारतवासी जगे, फिर उन्होंने पूरे विश्व को जगाया, जिससे अज्ञान का अँधेरा नष्ट हुआ और लोक में आलोक फैला।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "भारतीयों ने अपनी भुजाओं और नम्रता के बारे में क्या कहा है?",
+      "answer": "भारतीयों की भुजाओं में अपार शक्ति थी, फिर भी वे सदा नम्रता से संपन्न रहे।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "भारतीय किसी को कैसा नहीं देख सकते थे?",
+      "answer": "भारतीय अपने हृदय के गौरव और गर्व के कारण किसी को विपन्न (निर्धन/दुखी) नहीं देख सकते थे।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "भारतीय संचय क्यों करते थे?",
+      "answer": "भारतीय केवल दान देने के लिए ही धन का संचय करते थे, लोभ के कारण नहीं।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "कविता में 'लोहे की विजय' का क्या अर्थ है?",
+      "answer": "'लोहे की विजय' का अर्थ है शस्त्रों या बल के प्रयोग से प्राप्त की गई जीत, जिसे कवि ने भारत की संस्कृति नहीं माना है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "भारतीयों के वचन और हृदय की क्या विशेषता थी?",
+      "answer": "भारतीयों के वचन में सत्यता होती थी और उनके हृदय में तेज (ओज) होता था।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "'कहीं से हम आए थे नहीं' इस पंक्ति का क्या आशय है?",
+      "answer": "इसका आशय है कि हम भारतीय विदेशी नहीं हैं, हम इसी भारत भूमि के मूल निवासी हैं; हमारा जन्म यहीं हुआ है।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "'स्वर्ण भूमि' किसे कहा गया है और उसे भारत से क्या मिला?",
+      "answer": "'स्वर्ण भूमि' (संभवतः बर्मा/जावा) को भारत से बौद्ध धर्म के त्रिरत्न (बुद्ध, संघ, धम्म) मिले।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "अखिल संसृति कब अशोक (शोक रहित) हो उठी?",
+      "answer": "जब भारतवासियों ने जगकर अज्ञान रूपी अंधकार (व्योमतम) को नष्ट किया, तब अखिल संसृति अशोक हो उठी।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "कविता में प्रयुक्त दो धातुओं के नाम लिखिए।",
+      "answer": "कविता में प्रयुक्त दो धातुएँ 'लोहा' और 'स्वर्ण' हैं।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "'विपन्न' और 'आलोक' शब्दों के अर्थ लिखिए।",
+      "answer": "'विपन्न' का अर्थ है निर्धन या दुखी और 'आलोक' का अर्थ है प्रकाश।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "इस कविता का मुख्य संदेश क्या है?",
+      "answer": "इस कविता का संदेश है कि हमें अपनी भारतीय संस्कृति और गौरवशाली अतीत पर गर्व करना चाहिए और देश के लिए अपना सब कुछ बलिदान करने को तत्पर रहना चाहिए।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "LONG",
+      "question": "'भारत महिमा' कविता का केंद्रीय भाव अपने शब्दों में लिखिए।",
+      "answer": "'भारत महिमा' कविता में जयशंकर प्रसाद जी ने भारत के गौरवशाली और प्राचीन इतिहास का वर्णन किया है। कवि बताते हैं कि ज्ञान का सूर्य सबसे पहले भारत में ही उदित हुआ और यहीं से पूरे विश्व में फैला। हमारी संस्कृति में दान, दया, सत्य और अहिंसा के मूल्यों का बहुत महत्त्व है। हमने कभी किसी की भूमि नहीं छीनी, बल्कि हमने दुनिया को धर्म और शांति का संदेश दिया। हम इसी देश की संतान हैं और हमें अपने देश पर गर्व है। आवश्यकता पड़ने पर हम देश के लिए अपना सर्वस्व न्योछावर करने को तैयार हैं।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "LONG",
+      "question": "'विजय केवल लोहे की नहीं, धर्म की रही धरा पर धूम' - इन पंक्तियों का भाव स्पष्ट कीजिए।",
+      "answer": "इन पंक्तियों के माध्यम से कवि कहना चाहते हैं कि भारत ने कभी भी शस्त्रों के बल पर या खून-खराबे से विजय प्राप्त करने में विश्वास नहीं रखा। 'लोहे' का अर्थ यहाँ हथियारों से है। भारत में हमेशा 'धर्म' की, यानी नैतिकता, सत्य और अहिंसा की जयकार हुई है। यहाँ के राजाओं और सम्राटों (जैसे अशोक) ने भी युद्ध का त्याग कर भिक्षु बनकर दुनिया को दया, प्रेम और शांति का पाठ पढ़ाया। भारत की विजय शस्त्रों की नहीं, बल्कि शास्त्रों और संस्कारों की विजय रही है।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "LONG",
+      "question": "भारतीय संस्कृति की किन्हीं चार विशेषताओं का वर्णन कविता के आधार पर कीजिए।",
+      "answer": "कविता के आधार पर भारतीय संस्कृति की चार विशेषताएँ निम्नलिखित हैं:\n१. **दानवीरता:** भारतीय धन का संचय केवल दान देने के लिए करते थे।\n२. **अतिथि सत्कार:** यहाँ अतिथि को देवता (अतिथि देवो भव) माना जाता है।\n३. **सत्यवादिता:** भारतीयों के वचनों में हमेशा सत्य होता था, वे झूठ का सहारा नहीं लेते थे।\n४. **शरणागत की रक्षा:** भारतीयों ने शत्रुओं (जैसे यवन) को भी दया का दान दिया और कभी किसी का हक नहीं छीना।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "LONG",
+      "question": "'वही है रक्त, वही है देश...' पंक्ति के माध्यम से कवि क्या सिद्ध करना चाहते हैं?",
+      "answer": "इस पंक्ति के माध्यम से कवि यह सिद्ध करना चाहते हैं कि हम वर्तमान भारतीय उन्हीं महान पूर्वजों और आर्यों की संतान हैं। हमारे शरीर में उन्हीं का रक्त दौड़ रहा है। हमारा देश वही पुरातन और महान भारतवर्ष है। हमारे अंदर आज भी वही साहस, वही ज्ञान, वही शांति और वही शक्ति विद्यमान है जो हमारे पूर्वजों में थी। समय बदला है, लेकिन हमारी आत्मा और हमारे संस्कार वही हैं। हम अपनी महान विरासत के सच्चे उत्तराधिकारी हैं।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "LONG",
+      "question": "कवि ने भारत के प्राकृतिक सौंदर्य का वर्णन किस प्रकार किया है?",
+      "answer": "कवि ने कविता की शुरुआत में ही भारत के प्राकृतिक सौंदर्य का मनोहर चित्रण किया है। वे कहते हैं कि हिमालय के आँगन में सूर्य की किरणें सबसे पहले पहुँचकर उसे उपहार देती हैं। उषा (सुबह) हँसकर भारत का अभिनंदन करती है और ओस की बूंदों पर जब सूर्य की किरणें पड़ती हैं, तो ऐसा लगता है मानो प्रकृति ने भारत को हीरों का हार पहना दिया हो। यह देश ऋषियों की तपोभूमि और प्राकृतिक सुषमा से परिपूर्ण है।"
+    }
+  ]
+}

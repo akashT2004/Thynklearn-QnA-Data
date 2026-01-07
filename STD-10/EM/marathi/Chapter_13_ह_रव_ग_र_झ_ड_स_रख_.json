@@ -1,0 +1,311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.13",
+    "standard": "10",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "हिरवंगार झाडासारखं"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'हिरवंगार झाडासारखं' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "संदीप खरे", "is_correct": false },
+        { "option_id": 2, "text": "जॉर्ज लोपीस", "is_correct": true },
+        { "option_id": 3, "text": "मंगेश पाडगावकर", "is_correct": false },
+        { "option_id": 4, "text": "विंदा करंदीकर", "is_correct": false }
+      ],
+      "answer": "जॉर्ज लोपीस"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "झाड कशाप्रकारे तपश्चर्या करते?",
+      "options": [
+        { "option_id": 1, "text": "बोलून", "is_correct": false },
+        { "option_id": 2, "text": "रडून", "is_correct": false },
+        { "option_id": 3, "text": "ध्यानस्थ ऋषिसारखे मौन व्रत धारण करून", "is_correct": true },
+        { "option_id": 4, "text": "हालचाल करून", "is_correct": false }
+      ],
+      "answer": "ध्यानस्थ ऋषिसारखे मौन व्रत धारण करून"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "मुळावर घाव घातला तरी झाड काय करते?",
+      "options": [
+        { "option_id": 1, "text": "मुकाट सहन करते", "is_correct": true },
+        { "option_id": 2, "text": "रडते", "is_correct": false },
+        { "option_id": 3, "text": "तक्रार करते", "is_correct": false },
+        { "option_id": 4, "text": "प्रतिकार करते", "is_correct": false }
+      ],
+      "answer": "मुकाट सहन करते"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "झाडाच्या पानावरून काय अलगद उतरतात?",
+      "options": [
+        { "option_id": 1, "text": "पावसाचे थेंब", "is_correct": false },
+        { "option_id": 2, "text": "दवांचे टपोरे थेंब", "is_correct": true },
+        { "option_id": 3, "text": "फुले", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "दवांचे टपोरे थेंब"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "झाडाकडे टक लावून पाहिल्यावर शरीरभर कोणता रंग विरघळतो?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": false },
+        { "option_id": 2, "text": "लाल", "is_correct": false },
+        { "option_id": 3, "text": "हिरवा", "is_correct": true },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "हिरवा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "आयुष्य कोणासारखे टवटवीत होते?",
+      "options": [
+        { "option_id": 1, "text": "सुकलेल्या पानासारखे", "is_correct": false },
+        { "option_id": 2, "text": "नुकत्याच खुडलेल्या फुलासारखे", "is_correct": true },
+        { "option_id": 3, "text": "फळासारखे", "is_correct": false },
+        { "option_id": 4, "text": "मुळासारखे", "is_correct": false }
+      ],
+      "answer": "नुकत्याच खुडलेल्या फुलासारखे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "झाडाचे बाहू (फांद्या) कोणासाठी सरसावलेले असतात?",
+      "options": [
+        { "option_id": 1, "text": "पक्ष्यांसाठी", "is_correct": false },
+        { "option_id": 2, "text": "मुसाफिरांना कवेत घेण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पावसासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वाऱ्यासाठी", "is_correct": false }
+      ],
+      "answer": "मुसाफिरांना कवेत घेण्यासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पानझडीनंतर झाड पुन्हा नवीन वस्त्र धारण करते, तेव्हा ते कोणासारखे दिसते?",
+      "options": [
+        { "option_id": 1, "text": "म्हाताऱ्यासारखे", "is_correct": false },
+        { "option_id": 2, "text": "लहान बाळासारखे", "is_correct": false },
+        { "option_id": 3, "text": "नव्या नवरीसारखे", "is_correct": true },
+        { "option_id": 4, "text": "सैनिकासारखे", "is_correct": false }
+      ],
+      "answer": "नव्या नवरीसारखे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "झाडाला पालवी फुटल्यावर काय झटकली जाते?",
+      "options": [
+        { "option_id": 1, "text": "धूळ", "is_correct": false },
+        { "option_id": 2, "text": "मरगळ", "is_correct": true },
+        { "option_id": 3, "text": "पाने", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "मरगळ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पक्ष्यांच्या मंजुळ नादात झाडाचे काय दडलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "दुःख", "is_correct": false },
+        { "option_id": 2, "text": "जीवनाचे एक संथ गाणे", "is_correct": true },
+        { "option_id": 3, "text": "भविष्य", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "जीवनाचे एक संथ गाणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते कसे हसावे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्याने", "is_correct": false },
+        { "option_id": 2, "text": "सळसळत्या पानासारखे", "is_correct": true },
+        { "option_id": 3, "text": "हळूच", "is_correct": false },
+        { "option_id": 4, "text": "खळखळून", "is_correct": false }
+      ],
+      "answer": "सळसळत्या पानासारखे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मुळावं मुरावं कसं?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यासारखे", "is_correct": false },
+        { "option_id": 2, "text": "मातीसारखे", "is_correct": false },
+        { "option_id": 3, "text": "झाडासारखे घट्ट पाय रोवीत", "is_correct": true },
+        { "option_id": 4, "text": "गवतासारखे", "is_correct": false }
+      ],
+      "answer": "झाडासारखे घट्ट पाय रोवीत"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवी जॉर्ज लोपीस यांच्या प्रसिद्ध कवितासंग्रहाचे नाव काय?",
+      "options": [
+        { "option_id": 1, "text": "विशाखा", "is_correct": false },
+        { "option_id": 2, "text": "पूर्ण झाले आहे", "is_correct": true },
+        { "option_id": 3, "text": "ययाति", "is_correct": false },
+        { "option_id": 4, "text": "गीतरामायण", "is_correct": false }
+      ],
+      "answer": "पूर्ण झाले आहे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "झाडाचे जीवन कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "कंटाळवाणे", "is_correct": false },
+        { "option_id": 2, "text": "ताजे आणि प्रफुल्लित", "is_correct": true },
+        { "option_id": 3, "text": "दुःखी", "is_correct": false },
+        { "option_id": 4, "text": "रागीट", "is_correct": false }
+      ],
+      "answer": "ताजे आणि प्रफुल्लित"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'मौन व्रत' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "खूप बोलणे", "is_correct": false },
+        { "option_id": 2, "text": "न बोलण्याचा नियम", "is_correct": true },
+        { "option_id": 3, "text": "उपास करणे", "is_correct": false },
+        { "option_id": 4, "text": "ध्यान करणे", "is_correct": false }
+      ],
+      "answer": "न बोलण्याचा नियम"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "कवी जॉर्ज लोपीस यांनी 'झाड' या कवितेत झाडाची कोणती वैशिष्ट्ये सांगितली आहेत?",
+      "answer": "कवी जॉर्ज लोपीस यांनी झाडाची सहनशीलता, दातृत्व, सहकार्याची वृत्ती आणि कठीण प्रसंगातही घट्ट पाय रोवून राहण्याची वृत्ती ही वैशिष्ट्ये सांगितली आहेत."
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "झाड कशाप्रकारे ध्यानस्थ बसते?",
+      "answer": "झाड ऋषिसारखे मौन व्रत धारण करून आणि तपश्चर्या करत ध्यानस्थ बसते."
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "पक्षी आणि झाड यांच्या नात्याबद्दल कवी काय म्हणतात?",
+      "answer": "कवी म्हणतात की पक्षी झाडांचे कुणीच नसतात, तरीही झाड त्यांचे असते आणि त्यांना आश्रय देते."
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "झाडाच्या पानांवरून काय उतरते?",
+      "answer": "झाडाच्या पानांवरून वहीच्या पानावर दवांचे टपोरे थेंब अलगद उतरतात."
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "झाडाकडे पाहिल्यावर रक्त कसे होते?",
+      "answer": "झाडाकडे पाहिल्यावर रक्त क्षणभर हिरवेगार होते."
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "पानझडीनंतर झाड कसे दिसते?",
+      "answer": "पानझडीनंतर झाड पुन्हा नवीन वस्त्र धारण करते आणि नव्या नवरीसारखे दिसते."
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "झाडाला पालवी फुटल्यावर शरीरात काय बदल होतो?",
+      "answer": "झाडाला पालवी फुटल्यावर शरीरभर पालवी फुटते आणि मरगळ झटकली जाते."
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "झाडाच्या जीवनाचे गाणे कोठे दडलेले असते?",
+      "answer": "पक्ष्यांच्या मंजुळ नादात झाडाच्याही जीवनाचे एक संथ गाणे दडलेले असते."
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवीने रोजचे चिंतन कसे करायला सांगितले आहे?",
+      "answer": "कवीने रोजचे चिंतन झाडासारखे करायला सांगितले आहे."
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "झाडाचे बाहू कशासाठी सरसावलेले असतात?",
+      "answer": "झाडाचे बाहू मुसाफिरांना कवेत घेण्यासाठी सरसावलेले असतात."
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "कवितेत झाडाला कोणाची उपमा दिली आहे?",
+      "answer": "कवितेत झाडाला 'ध्यानस्थ ऋषी'ची उपमा दिली आहे."
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "पानझडीनंतर झाड काय करते?",
+      "answer": "पानझडीनंतर झाड पुन्हा नवीन वस्त्र धारण करते."
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "'कवेत घेणे' या वाक्प्रचाराचा अर्थ काय?",
+      "answer": "'कवेत घेणे' म्हणजे 'मिठीत घेणे' किंवा 'आश्रय देणे'."
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "कवीने उत्साही आयुष्याची तुलना कशाशी केली आहे?",
+      "answer": "कवीने उत्साही आयुष्याची तुलना 'नुकत्याच खुडलेल्या फुलासारखे टवटवीत' आयुष्याशी केली आहे."
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "झाडासारखे कसे जगावे?",
+      "answer": "झाडासारखे हिरवेगार आणि ताजेतवाने जगावे."
+    },
+    {
+      "question_id": 31,
+      "question_type": "LONG",
+      "question": "झाडाची सहनशीलता कवीने कशी व्यक्त केली आहे?",
+      "answer": "कवीने झाडाची सहनशीलता अतिशय समर्पक शब्दांत व्यक्त केली आहे. कवी म्हणतात की झाड एखाद्या ऋषिसारखे मौन व्रत धारण करून तपश्चर्या करत उभे असते. त्याच्या मुळावर जरी कोणी घाव घातला, तरी ते कोणतीही तक्रार न करता, रडगाणे न गाता मुकाटपणे तो घाव सहन करते. परोपकारी वृत्तीने ते सर्वांना मदतच करते, पण स्वतःवरील अन्याय निमूटपणे सोसते. यातून झाडाची असीम सहनशीलता दिसून येते."
+    },
+    {
+      "question_id": 32,
+      "question_type": "LONG",
+      "question": "'झाडाच्या पानावरून वहीच्या पानावर अलगद उतरतात दवांचे टपोरे थेंब' या ओळीचा अर्थ स्पष्ट करा.",
+      "answer": "या ओळीतून कवी निसर्गाचा आणि मानवी सृजनशीलतेचा सुंदर मिलाफ साधतात. कवी म्हणतात की झाडाच्या पानांवर साठलेले दवांचे टपोरे थेंब जणू कवीच्या वहीच्या पानावर शब्दांच्या रूपाने उतरतात. निसर्गाच्या सान्निध्यात कवीला जी स्फूर्ती मिळते, तिचे रूपांतर कवितेत होते. दवांचे थेंब हे निसर्गाचे प्रतीक आहेत, तर वहीचे पान हे नवनिर्मितीचे प्रतीक आहे. निसर्ग पाहून मनात उमटणारे विचार आणि भावना शब्दांकित होतात, असा याचा भावार्थ आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "LONG",
+      "question": "झाडाकडून कोणकोणते गुण घेण्यासारखे आहेत असे कवीला वाटते?",
+      "answer": "कवीला वाटते की झाडाकडून अनेक गुण घेण्यासारखे आहेत. (१) सहनशीलता: संकटे आली तरी तक्रार न करता ती सहन करणे. (२) दातृत्व: पक्ष्यांना, प्रवाशांना निस्वार्थपणे आश्रय देणे. (३) स्थितप्रज्ञता: सुखात आणि दुःखात (पानझडीत आणि वसंतात) समान राहणे. (४) नवनिर्मितीची आस: जुने टाकून देऊन पुन्हा नवीन वस्त्र (पालवी) धारण करणे. (५) प्रसन्नता: सळसळत्या पानांसारखे हसणे आणि टवटवीत राहणे. हे सर्व गुण आपण झाडाकडून शिकले पाहिजेत."
+    },
+    {
+      "question_id": 34,
+      "question_type": "LONG",
+      "question": "पानझडी आणि पालवी फुटणे यातून झाडाच्या कोणत्या वृत्तीचे दर्शन घडते?",
+      "answer": "पानझडी म्हणजे झाडाची पाने गळून पडणे आणि पालवी फुटणे म्हणजे नवी पाने येणे. या नैसर्गिक चक्रातून झाडाची आशावादी आणि नवनिर्मितीची वृत्ती दिसून येते. पानझडीच्या काळात झाड निष्पर्ण होते, पण ते खचून जात नाही. ते पुन्हा नव्या उमेदीने नवीन वस्त्र धारण करते, म्हणजेच नवीन पालवी धारण करते. हे एका नववधूसारखे नटणे असते. जुन्या, जीर्ण गोष्टींचा त्याग करून नावीन्य स्वीकारणे आणि मरगळ झटकून पुन्हा उत्साहाने जगणे, ही वृत्ती यातून दिसून येते."
+    },
+    {
+      "question_id": 35,
+      "question_type": "LONG",
+      "question": "'आयुष्य होतं नुकत्याच खुडलेल्या फुलासारखं टवटवीत' या ओळीचा भावार्थ सांगा.",
+      "answer": "जेव्हा आपण झाडाच्या सान्निध्यात जातो, तेव्हा त्याच्या हिरवाईचा आणि प्रसन्नतेचा प्रभाव आपल्या मनावर होतो. कवी म्हणतात की झाडाकडे पाहिल्यावर मनातील निराशा, दुःख आणि ताण नाहीसा होतो. जसे देठावरून नुकतेच तोडलेले फूल अत्यंत ताजे, टवटवीत आणि सुंदर दिसते, तसेच आपले आयुष्यही झाडाच्या सहवासात प्रसन्न आणि उत्साही होते. झाड आपल्याला जगण्याची नवी ऊर्जा आणि टवटवीतपणा देते, असा या ओळीचा भावार्थ आहे."
+    }
+  ]
+}

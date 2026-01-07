@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.06",
+    "standard": "10",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "चुडीवाला (Chudiwala)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'चुडीवाला' या पाठाच्या लेखिका कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "शांता शेळके", "is_correct": false },
+        { "option_id": 2, "text": "जयश्री रुईकर", "is_correct": true },
+        { "option_id": 3, "text": "विभावरी शिरूरकर", "is_correct": false },
+        { "option_id": 4, "text": "अरुणा ढेरे", "is_correct": false }
+      ],
+      "answer": "जयश्री रुईकर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "जयश्री रुईकर यांचा जन्म कोणत्या साली झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९३०", "is_correct": false },
+        { "option_id": 2, "text": "१९३९", "is_correct": true },
+        { "option_id": 3, "text": "१९४५", "is_correct": false },
+        { "option_id": 4, "text": "१९५०", "is_correct": false }
+      ],
+      "answer": "१९३९"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाठात उल्लेख केलेले 'तपोवन' कोठे स्थित आहे?",
+      "options": [
+        { "option_id": 1, "text": "पुणे", "is_correct": false },
+        { "option_id": 2, "text": "अमरावती", "is_correct": true },
+        { "option_id": 3, "text": "नागपूर", "is_correct": false },
+        { "option_id": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "अमरावती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "तपोवनाचे संस्थापक कोण होते?",
+      "options": [
+        { "option_id": 1, "text": "बाबा आमटे", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. शिवाजीराव पटवर्धन", "is_correct": true },
+        { "option_id": 3, "text": "साने गुरुजी", "is_correct": false },
+        { "option_id": 4, "text": "विनोबा भावे", "is_correct": false }
+      ],
+      "answer": "डॉ. शिवाजीराव पटवर्धन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "डॉ. शिवाजीराव पटवर्धन यांना कोणत्या नावाने ओळखले जात असे?",
+      "options": [
+        { "option_id": 1, "text": "अण्णासाहेब", "is_correct": false },
+        { "option_id": 2, "text": "दादासाहेब", "is_correct": false },
+        { "option_id": 3, "text": "दाजीसाहेब", "is_correct": true },
+        { "option_id": 4, "text": "बाबासाहेब", "is_correct": false }
+      ],
+      "answer": "दाजीसाहेब"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अब्दुल वर्षातून किती वेळा तपोवनात जात असे?",
+      "options": [
+        { "option_id": 1, "text": "एकदा", "is_correct": false },
+        { "option_id": 2, "text": "दोनदा", "is_correct": true },
+        { "option_id": 3, "text": "तीनदा", "is_correct": false },
+        { "option_id": 4, "text": "महिन्यातून एकदा", "is_correct": false }
+      ],
+      "answer": "दोनदा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अब्दुल तपोवनात कोणत्या दिवशी जात असे?",
+      "options": [
+        { "option_id": 1, "text": "दिवाळी आणि दसरा", "is_correct": false },
+        { "option_id": 2, "text": "संक्रांत आणि ज्येष्ठ पौर्णिमा", "is_correct": true },
+        { "option_id": 3, "text": "ईद आणि नाताळ", "is_correct": false },
+        { "option_id": 4, "text": "गुढीपाडवा आणि भाऊबीज", "is_correct": false }
+      ],
+      "answer": "संक्रांत आणि ज्येष्ठ पौर्णिमा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अब्दुलच्या पत्नीचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "शबाना", "is_correct": false },
+        { "option_id": 2, "text": "शन्नू", "is_correct": true },
+        { "option_id": 3, "text": "रझिया", "is_correct": false },
+        { "option_id": 4, "text": "सलमा", "is_correct": false }
+      ],
+      "answer": "शन्नू"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अब्दुलच्या मुलाचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "अन्वर", "is_correct": true },
+        { "option_id": 2, "text": "समीर", "is_correct": false },
+        { "option_id": 3, "text": "रहीम", "is_correct": false },
+        { "option_id": 4, "text": "करीम", "is_correct": false }
+      ],
+      "answer": "अन्वर"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अब्दुलच्या दुकानाशेजारी कोणाचे दुकान होते?",
+      "options": [
+        { "option_id": 1, "text": "रामलाल", "is_correct": false },
+        { "option_id": 2, "text": "रघुभैया", "is_correct": true },
+        { "option_id": 3, "text": "श्यामलाल", "is_correct": false },
+        { "option_id": 4, "text": "मोहनशेठ", "is_correct": false }
+      ],
+      "answer": "रघुभैया"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "संक्रांतीचा दिवस कोणासाठी 'पर्वणी' असे?",
+      "options": [
+        { "option_id": 1, "text": "अब्दुलसाठी", "is_correct": false },
+        { "option_id": 2, "text": "शन्नूसाठी", "is_correct": false },
+        { "option_id": 3, "text": "बांगडीवाल्यांसाठी", "is_correct": true },
+        { "option_id": 4, "text": "अन्वरसाठी", "is_correct": false }
+      ],
+      "answer": "बांगडीवाल्यांसाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अब्दुलने कोणाला तपोवनात जात असल्याचे सांगू नये असे शन्नूला सांगितले?",
+      "options": [
+        { "option_id": 1, "text": "रघुभैयाला", "is_correct": false },
+        { "option_id": 2, "text": "कोणालाही", "is_correct": true },
+        { "option_id": 3, "text": "अन्वरला", "is_correct": false },
+        { "option_id": 4, "text": "दाजीसाहेबांना", "is_correct": false }
+      ],
+      "answer": "कोणालाही"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अब्दुल तपोवनात कसा गेला?",
+      "options": [
+        { "option_id": 1, "text": "सायकलने", "is_correct": false },
+        { "option_id": 2, "text": "चालत", "is_correct": false },
+        { "option_id": 3, "text": "बसने", "is_correct": true },
+        { "option_id": 4, "text": "बैलगाडीने", "is_correct": false }
+      ],
+      "answer": "बसने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "बसमध्ये अब्दुलने बांगड्यांची पेटी कुठे ठेवली?",
+      "options": [
+        { "option_id": 1, "text": "सीटखाली", "is_correct": false },
+        { "option_id": 2, "text": "मांडीवर", "is_correct": true },
+        { "option_id": 3, "text": "शेजारच्या सीटवर", "is_correct": false },
+        { "option_id": 4, "text": "वाहक कक्षात", "is_correct": false }
+      ],
+      "answer": "मांडीवर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "तपोवनाजवळ बस रिकामी कुठे झाली?",
+      "options": [
+        { "option_id": 1, "text": "बस स्टँडवर", "is_correct": false },
+        { "option_id": 2, "text": "जिल्हाधिकारी कचेरीजवळ", "is_correct": true },
+        { "option_id": 3, "text": "बाजारपेठेत", "is_correct": false },
+        { "option_id": 4, "text": "शाळ जवळ", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी कचेरीजवळ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "तपोवनातील मुलींनी अब्दुलला पाहून काय गलका केला?",
+      "options": [
+        { "option_id": 1, "text": "काका आले", "is_correct": false },
+        { "option_id": 2, "text": "चुडीवाला आला", "is_correct": true },
+        { "option_id": 3, "text": "बांगडीवाला आला", "is_correct": false },
+        { "option_id": 4, "text": "पाहुणे आले", "is_correct": false }
+      ],
+      "answer": "चुडीवाला आला"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अब्दुल बांगड्या भरण्यासाठी कुठे बसला?",
+      "options": [
+        { "option_id": 1, "text": "खुर्चीवर", "is_correct": false },
+        { "option_id": 2, "text": "जमिनीवर", "is_correct": false },
+        { "option_id": 3, "text": "आंब्याच्या झाडाखालील चौथऱ्यावर", "is_correct": true },
+        { "option_id": 4, "text": "व्हरांड्यात", "is_correct": false }
+      ],
+      "answer": "आंब्याच्या झाडाखालील चौथऱ्यावर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "तपोवनातील स्त्रिया आणि मुलींना अब्दुल कसा वाटे?",
+      "options": [
+        { "option_id": 1, "text": "व्यापाऱ्यासारखा", "is_correct": false },
+        { "option_id": 2, "text": "देवदूतासारखा", "is_correct": true },
+        { "option_id": 3, "text": "पाहुण्यासारखा", "is_correct": false },
+        { "option_id": 4, "text": "वडिलांसारखा", "is_correct": false }
+      ],
+      "answer": "देवदूतासारखा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अब्दुलला आलेले पत्र कोणत्या भाषेत होते?",
+      "options": [
+        { "option_id": 1, "text": "हिंदी", "is_correct": false },
+        { "option_id": 2, "text": "उर्दू", "is_correct": false },
+        { "option_id": 3, "text": "मराठी", "is_correct": true },
+        { "option_id": 4, "text": "इंग्रजी", "is_correct": false }
+      ],
+      "answer": "मराठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पत्र कुणी वाचून दाखवले?",
+      "options": [
+        { "option_id": 1, "text": "अन्वरने", "is_correct": false },
+        { "option_id": 2, "text": "शन्नूने", "is_correct": false },
+        { "option_id": 3, "text": "रघुभैयाने", "is_correct": true },
+        { "option_id": 4, "text": "पोस्टमनने", "is_correct": false }
+      ],
+      "answer": "रघुभैयाने"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "पत्र कशाबद्दल होते?",
+      "options": [
+        { "option_id": 1, "text": "बांगड्यांच्या ऑर्डरसाठी", "is_correct": false },
+        { "option_id": 2, "text": "सत्काराच्या निमंत्रणासाठी", "is_correct": true },
+        { "option_id": 3, "text": "पैसे मागण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "तक्रार करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "सत्काराच्या निमंत्रणासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "समारंभात अब्दुलला संकोच का वाटला?",
+      "options": [
+        { "option_id": 1, "text": "कपड्यांमुळे", "is_correct": false },
+        { "option_id": 2, "text": "पाहुण्यांबरोबर बसायला", "is_correct": true },
+        { "option_id": 3, "text": "उशीर झाल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "भाषा न आल्यामुळे", "is_correct": false }
+      ],
+      "answer": "पाहुण्यांबरोबर बसायला"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "दाजीसाहेबांचे वय किती होते?",
+      "options": [
+        { "option_id": 1, "text": "७० वर्षे", "is_correct": false },
+        { "option_id": 2, "text": "८४ वर्षे", "is_correct": true },
+        { "option_id": 3, "text": "६० वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "९० वर्षे", "is_correct": false }
+      ],
+      "answer": "८४ वर्षे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "दाजीसाहेबांनी आपल्या भाषणात कोणाचे उदाहरण दिले?",
+      "options": [
+        { "option_id": 1, "text": "हनुमान", "is_correct": false },
+        { "option_id": 2, "text": "खारीचे (सेतुबंधन)", "is_correct": true },
+        { "option_id": 3, "text": "भीम", "is_correct": false },
+        { "option_id": 4, "text": "कर्ण", "is_correct": false }
+      ],
+      "answer": "खारीचे (सेतुबंधन)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सत्काराच्या वेळी अब्दुलला काय भेट मिळाले?",
+      "options": [
+        { "option_id": 1, "text": "शाल व श्रीफळ", "is_correct": false },
+        { "option_id": 2, "text": "पैसे", "is_correct": false },
+        { "option_id": 3, "text": "फुलांचा गुच्छ व फुलदाणी", "is_correct": true },
+        { "option_id": 4, "text": "पुस्तक", "is_correct": false }
+      ],
+      "answer": "फुलांचा गुच्छ व फुलदाणी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अब्दुलने सत्काराचा स्वीकार केल्यानंतर काय केले?",
+      "options": [
+        { "option_id": 1, "text": "भाषण दिले", "is_correct": false },
+        { "option_id": 2, "text": "दाजीसाहेबांच्या पायांना स्पर्श केला", "is_correct": true },
+        { "option_id": 3, "text": "रडला", "is_correct": false },
+        { "option_id": 4, "text": "निघून गेला", "is_correct": false }
+      ],
+      "answer": "दाजीसाहेबांच्या पायांना स्पर्श केला"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सत्कारानंतर घरी आल्यावर अब्दुलला काय वाटत होते?",
+      "options": [
+        { "option_id": 1, "text": "शन्नूला आणायला हवे होते", "is_correct": true },
+        { "option_id": 2, "text": "पैसे मिळायला हवे होते", "is_correct": false },
+        { "option_id": 3, "text": "अन्वरला आणायला हवे होते", "is_correct": false },
+        { "option_id": 4, "text": "दुकान उघडायला हवे होते", "is_correct": false }
+      ],
+      "answer": "शन्नूला आणायला हवे होते"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "घरी आल्यावर अन्वरने कशासाठी हट्ट धरला होता?",
+      "options": [
+        { "option_id": 1, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "खिम्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "कपड्यांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "मिठाईसाठी", "is_correct": false }
+      ],
+      "answer": "खिम्यासाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शन्नू अब्दुलला वारंवार काय सांगत असे?",
+      "options": [
+        { "option_id": 1, "text": "नवीन घर घेण्यास", "is_correct": false },
+        { "option_id": 2, "text": "दुसरा धंदा सुरू करण्यास", "is_correct": true },
+        { "option_id": 3, "text": "तपोवनात न जाण्यास", "is_correct": false },
+        { "option_id": 4, "text": "अन्वरला शाळेत टाकण्यास", "is_correct": false }
+      ],
+      "answer": "दुसरा धंदा सुरू करण्यास"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "नवरात्र संपल्यावर रघुभैयाने काय काम काढले होते?",
+      "options": [
+        { "option_id": 1, "text": "दुकान वाढवण्याचे", "is_correct": false },
+        { "option_id": 2, "text": "दुकानाला रंग देण्याचे", "is_correct": true },
+        { "option_id": 3, "text": "गावाला जाण्याचे", "is_correct": false },
+        { "option_id": 4, "text": "माल भरण्याचे", "is_correct": false }
+      ],
+      "answer": "दुकानाला रंग देण्याचे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "अब्दुल उदास का होता?",
+      "options": [
+        { "option_id": 1, "text": "धंदा झाला नाही म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "तपोवन दाजीसाहेबांच्या हाती राहिले नाही म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "शन्नू भांडली म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "पैसे हरवले म्हणून", "is_correct": false }
+      ],
+      "answer": "तपोवन दाजीसाहेबांच्या हाती राहिले नाही म्हणून"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "दाजीसाहेबांनी तपोवन सोडल्यावर अब्दुलला काय वाटले?",
+      "options": [
+        { "option_id": 1, "text": "आनंद", "is_correct": false },
+        { "option_id": 2, "text": "भीती", "is_correct": false },
+        { "option_id": 3, "text": "जीवनेच्छा उडून गेल्यासारखे", "is_correct": true },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "जीवनेच्छा उडून गेल्यासारखे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "रात्री अब्दुल काय पाहत होता?",
+      "options": [
+        { "option_id": 1, "text": "पैसे मोजत होता", "is_correct": false },
+        { "option_id": 2, "text": "संक्रांतीला तपोवनात नेण्याच्या वस्तू", "is_correct": true },
+        { "option_id": 3, "text": "जुने फोटो", "is_correct": false },
+        { "option_id": 4, "text": "चिठ्ठी", "is_correct": false }
+      ],
+      "answer": "संक्रांतीला तपोवनात नेण्याच्या वस्तू"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "'पर्वणी' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "सुट्टी", "is_correct": false },
+        { "option_id": 2, "text": "सण", "is_correct": false },
+        { "option_id": 3, "text": "दुर्मीळ संधी / शुभकाल", "is_correct": true },
+        { "option_id": 4, "text": "संकट", "is_correct": false }
+      ],
+      "answer": "दुर्मीळ संधी / शुभकाल"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "'तेजी' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "मंदी", "is_correct": false },
+        { "option_id": 2, "text": "भरभराट", "is_correct": true },
+        { "option_id": 3, "text": "वेगाने", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश", "is_correct": false }
+      ],
+      "answer": "भरभराट"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अब्दुलचा बांगड्यांचा व्यवसाय कोणापासून चालत आला होता?",
+      "options": [
+        { "option_id": 1, "text": "स्वतः सुरू केला होता", "is_correct": false },
+        { "option_id": 2, "text": "अब्बाजानपासून (वडिलांपासून)", "is_correct": true },
+        { "option_id": 3, "text": "सासऱ्याकडून", "is_correct": false },
+        { "option_id": 4, "text": "रघुभैयाकडून", "is_correct": false }
+      ],
+      "answer": "अब्बाजानपासून (वडिलांपासून)"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "तपोवन कशासाठी प्रसिद्ध होते?",
+      "options": [
+        { "option_id": 1, "text": "शाळा", "is_correct": false },
+        { "option_id": 2, "text": "कुष्ठरोग्यांची सेवा", "is_correct": true },
+        { "option_id": 3, "text": "अनाथालय", "is_correct": false },
+        { "option_id": 4, "text": "वृद्धाश्रम", "is_correct": false }
+      ],
+      "answer": "कुष्ठरोग्यांची सेवा"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "'संकोच वाटणे' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "भीती वाटणे", "is_correct": false },
+        { "option_id": 2, "text": "मोकळेपणा न वाटणे", "is_correct": true },
+        { "option_id": 3, "text": "राग येणे", "is_correct": false },
+        { "option_id": 4, "text": "आनंद वाटणे", "is_correct": false }
+      ],
+      "answer": "मोकळेपणा न वाटणे"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अब्दुलच्या स्वेटरची अवस्था कशी होती?",
+      "options": [
+        { "option_id": 1, "text": "नवीन होता", "is_correct": false },
+        { "option_id": 2, "text": "उसवलेला होता", "is_correct": true },
+        { "option_id": 3, "text": "रंगीत होता", "is_correct": false },
+        { "option_id": 4, "text": "हरवला होता", "is_correct": false }
+      ],
+      "answer": "उसवलेला होता"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "तपोवनातील स्त्रिया कोणाची आतुरतेने वाट पाहत असत?",
+      "options": [
+        { "option_id": 1, "text": "डॉक्टरांची", "is_correct": false },
+        { "option_id": 2, "text": "पाहुण्यांची", "is_correct": false },
+        { "option_id": 3, "text": "चुडीवाल्याची", "is_correct": true },
+        { "option_id": 4, "text": "पोस्टमनची", "is_correct": false }
+      ],
+      "answer": "चुडीवाल्याची"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "अब्दुलने संक्रांतीला नेण्यासाठी काय जमवले होते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त बांगड्या", "is_correct": false },
+        { "option_id": 2, "text": "मिठाई", "is_correct": false },
+        { "option_id": 3, "text": "पावडरचा डबा, रुमाल, रिबिनी, पिना, बांगड्या", "is_correct": true },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "पावडरचा डबा, रुमाल, रिबिनी, पिना, बांगड्या"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "दाजीसाहेबांनी अब्दुलला काय म्हटले?",
+      "options": [
+        { "option_id": 1, "text": "अब्दुलभाई", "is_correct": false },
+        { "option_id": 2, "text": "अब्दुलमियाँ", "is_correct": true },
+        { "option_id": 3, "text": "चुडीवाला", "is_correct": false },
+        { "option_id": 4, "text": "दोस्त", "is_correct": false }
+      ],
+      "answer": "अब्दुलमियाँ"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "तपोवनातील कर्मभूमी सोडताना दाजीसाहेबांना काय वाटले असेल, असा विचार कोण करत होता?",
+      "options": [
+        { "option_id": 1, "text": "रघुभैया", "is_correct": false },
+        { "option_id": 2, "text": "शन्नू", "is_correct": false },
+        { "option_id": 3, "text": "अब्दुल", "is_correct": true },
+        { "option_id": 4, "text": "अन्वर", "is_correct": false }
+      ],
+      "answer": "अब्दुल"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "अब्दुल वर्षातून किती वेळा समाजकार्य करत असे?",
+      "options": [
+        { "option_id": 1, "text": "दोनदा", "is_correct": true },
+        { "option_id": 2, "text": "तीनदा", "is_correct": false },
+        { "option_id": 3, "text": "चारदा", "is_correct": false },
+        { "option_id": 4, "text": "एकदा", "is_correct": false }
+      ],
+      "answer": "दोनदा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "अब्दुल तपोवनात का जात असे?",
+      "options": [
+        { "option_id": 1, "text": "पैसे कमवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "कुष्ठरोगी भगिनींना आनंद देण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "प्रसिद्धीसाठी", "is_correct": false },
+        { "option_id": 4, "text": "दाजीसाहेबांच्या सांगण्यावरून", "is_correct": false }
+      ],
+      "answer": "कुष्ठरोगी भगिनींना आनंद देण्यासाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "अब्दुलच्या बांगड्या भरण्याच्या कलेचे वर्णन कसे केले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कठीण", "is_correct": false },
+        { "option_id": 2, "text": "एक दिव्यच", "is_correct": true },
+        { "option_id": 3, "text": "सोपे", "is_correct": false },
+        { "option_id": 4, "text": "त्रासदायक", "is_correct": false }
+      ],
+      "answer": "एक दिव्यच"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "तपोवनातील स्त्रियांसाठी बांगड्या भरणे हे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "कंटाळवाणे", "is_correct": false },
+        { "option_id": 2, "text": "आनंदाचा वर्षाव", "is_correct": true },
+        { "option_id": 3, "text": "खर्चिक", "is_correct": false },
+        { "option_id": 4, "text": "गरजेचे", "is_correct": false }
+      ],
+      "answer": "आनंदाचा वर्षाव"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "अब्दुलचा स्वभाव कसा होता?",
+      "options": [
+        { "option_id": 1, "text": "संवेदनशील आणि परोपकारी", "is_correct": true },
+        { "option_id": 2, "text": "लोभी", "is_correct": false },
+        { "option_id": 3, "text": "रागीट", "is_correct": false },
+        { "option_id": 4, "text": "आळशी", "is_correct": false }
+      ],
+      "answer": "संवेदनशील आणि परोपकारी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाठात 'सेतुबंधन' चे उदाहरण कशासाठी दिले आहे?",
+      "options": [
+        { "option_id": 1, "text": "रामाच्या कथेसाठी", "is_correct": false },
+        { "option_id": 2, "text": "खारीच्या वाटा (योगदान) साठी", "is_correct": true },
+        { "option_id": 3, "text": "पूल बांधण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वानरांसाठी", "is_correct": false }
+      ],
+      "answer": "खारीच्या वाटा (योगदान) साठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "अब्दुलच्या डोळ्यात पाणी का आले?",
+      "options": [
+        { "option_id": 1, "text": "धंदा न झाल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "तपोवनात जाता येणार नाही म्हणून", "is_correct": true },
+        { "option_id": 3, "text": "शन्नू रागावली म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "अन्वर रडला म्हणून", "is_correct": false }
+      ],
+      "answer": "तपोवनात जाता येणार नाही म्हणून"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अब्दुल वर्षातून कोणत्या दोन दिवशी तपोवनात जात असे?",
+      "answer": "संक्रांत आणि ज्येष्ठ पौर्णिमेला."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "तपोवनात कोण राहत होते?",
+      "answer": "कुष्ठरोगी स्त्रिया आणि मुली."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "शन्नू अब्दुलवर का नाराज होती?",
+      "answer": "सणासुदीच्या दिवशी अब्दुल दुकान बंद ठेवून तपोवनात जात असे, ज्यामुळे धंद्याचे नुकसान होत असे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अन्वरने अब्दुलला काय विचारले?",
+      "answer": "\"अब्बाजान, आज मत जाओ ना तपोवनको.\""
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रघुभैयाचा धंदा कसा चालणार होता?",
+      "answer": "रघुभैयाचा धंदा तेजीत चालणार होता."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अब्दुलने जाताना सोबत काय घेतले?",
+      "answer": "एका हातात बांगड्यांची पेटी आणि एका हातात पिशवी."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अब्दुलने शन्नूकडे बघून काय वाटले?",
+      "answer": "तिच्याकडे बघून त्याला राग आला नाही, तर कीव आली."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बसमध्ये अब्दुलने बांगड्यांची पेटी कशी सांभाळली?",
+      "answer": "गर्दीत धक्का लागू नये म्हणून त्याने पेटी अलगद उचलून मांडीवर ठेवली."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "तपोवनाच्या कमानीवर काय फुलले होते?",
+      "answer": "कमानीवर वेल फुलली होती."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तपोवनातील मुलींनी अब्दुलला पाहून काय केले?",
+      "answer": "मुलींनी \"चुडीवाला आला\" म्हणून गलका करायला सुरुवात केली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "तपोवनातील एका मुलीने अब्दुलकडे कशाची मागणी केली होती?",
+      "answer": "आरशाची मागणी केली होती."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कुष्ठरोगी स्त्रियांना बांगड्या भरणे 'दिव्य' का होते?",
+      "answer": "त्यांच्या हाताची बोटे विद्रूप असल्यामुळे बांगड्या भरणे कष्टाचे होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "अब्दुलला कोणते समाधान मिळत असे?",
+      "answer": "बांगड्या भरल्यानंतर स्त्रियांच्या चेहऱ्यावरचा आनंद बघून त्याला समाधान मिळत असे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रघुभैयाने आणलेल्या पत्रात काय लिहिले होते?",
+      "answer": "तपोवनातील संमेलनात अब्दुलचा सत्कार होणार असल्याचे लिहिले होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पत्र ऐकून अब्दुलला काय वाटले?",
+      "answer": "अब्दुलला खूप आनंद झाला आणि सत्काराएवढे आपण काय केले आहे असा प्रश्न पडला."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "सत्कार समारंभात दाजीसाहेबांची वेशभूषा कशी होती?",
+      "answer": "पांढरेस्वच्छ धोतर, बंद गळ्याचा कोट आणि केशरी फेटा."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "दाजीसाहेबांनी अब्दुलची तुलना कोणाशी केली?",
+      "answer": "सेतुबंधनात मदत करणाऱ्या खारीशी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "इतर बांगडीवाल्यांनी तपोवनात येण्यास का नकार दिला होता?",
+      "answer": "कदाचित भीतीमुळे किंवा नफ्यासाठी, त्यांनी विनंती स्वीकारली नाही."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "अब्दुलचे कार्य कसे आहे असे दाजीसाहेब म्हणाले?",
+      "answer": "अब्दुलचे कार्य अनमोल आणि मोठी मानवसेवा आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सत्कारानंतर परतताना अब्दुलला कोणाची आठवण आली?",
+      "answer": "शन्नूची आठवण आली."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अब्दुल घरी आल्यावर शन्नूने काय केले?",
+      "answer": "तिने जेवणाची थाळी अब्दुलसमोर ठेवली."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शन्नूने जेवण का केले नाही?",
+      "answer": "तिची इच्छा नव्हती (जी नहीं चाहता खानेकू)."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अन्वरने कशासाठी हट्ट धरला होता?",
+      "answer": "खिम्यासाठी."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "अब्दुलची जेवणाची इच्छा का मेली?",
+      "answer": "अन्वरने खिम्यासाठी हट्ट धरला होता हे ऐकून त्याला वाईट वाटले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "शन्नू अब्दुलला नेहमी कोणता सल्ला देत असे?",
+      "answer": "बांगड्यांचा धंदा सोडून नवीन धंदा सुरू करा."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नवीन धंदा सुरू करण्यास काय अडचण होती?",
+      "answer": "भांडवलाची कमतरता."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रघुभैया दुकानाला काय करत होता?",
+      "answer": "रंग देत होता."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अब्दुलचा चेहरा उदास का दिसत होता?",
+      "answer": "दाजीसाहेबांनी तपोवन सोडल्याच्या बातमीमुळे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अब्दुलला कोणाची काळजी वाटत होती?",
+      "answer": "तपोवनातील रोग्यांची आणि वसाहतीची."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "रात्री अब्दुलने पिशवीतून काय बाहेर काढले?",
+      "answer": "संक्रांतीला तपोवनात नेण्याच्या वस्तू (पावडर, बांगड्या इ.)."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "अब्दुलला कोणता आनंद मिळत असे?",
+      "answer": "दुसऱ्यासाठी जगण्यातला आनंद."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "अब्दुलची 'जीवनेच्छा उडून गेली' असे का म्हटले आहे?",
+      "answer": "कारण आता त्याला तपोवनात जाऊन सेवा करता येणार नव्हती."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "'गलका करणे' म्हणजे काय?",
+      "answer": "गोंगाट करणे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "'हातभार लावणे' म्हणजे काय?",
+      "answer": "मदत करणे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "'भारावून जाणे' म्हणजे काय?",
+      "answer": "प्रभावित होणे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अब्दुलची बायको शन्नूचा स्वभाव कसा होता?",
+      "answer": "ती व्यवहारी होती आणि संसाराच्या काळजीने ग्रासलेली होती."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अब्दुलचा स्वभाव कसा होता?",
+      "answer": "अब्दुल संवेदनशील, परोपकारी आणि समाधानी होता."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "तपोवनातील स्त्रियांसाठी चुडीवाला कोण होता?",
+      "answer": "आनंद आणि चैतन्य घेऊन येणारा दूत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "दाजीसाहेबांचे व्यक्तिमत्त्व कसे होते?",
+      "answer": "तेजःपुंज, प्रभावी आणि सेवाभावी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "अब्दुलने बांगड्या भरण्याची कला कशी साधली होती?",
+      "answer": "कुष्ठरोगी स्त्रियांच्या हाताला त्रास न होता बांगड्या भरण्याचे कसब त्याला अवगत होते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "'समाजऋण' म्हणजे काय?",
+      "answer": "समाजाचे देणे किंवा समाजाप्रती असलेले कर्तव्य."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "अब्दुलच्या बांगड्यांच्या पेटीत कोणत्या रंगाच्या बांगड्या होत्या?",
+      "answer": "लाल, हिरव्या, निळ्या."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "अब्दुलने मफलर का बांधला होता?",
+      "answer": "बसमध्ये थंडगार वारा लागत होता म्हणून."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "तपोवनात जाणाऱ्या रस्त्यावर अब्दुलला कोणी भेटू नये असे शन्नूला वाटत होते?",
+      "answer": "ओळखीचे कोणीही, कारण त्याचा धंद्यावर परिणाम होईल."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "अब्दुलला पत्र वाचता येत होते का?",
+      "answer": "नाही, म्हणून त्याने रघुभैयाला वाचायला सांगितले."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "अब्दुलला कशाची भीती वाटत होती?",
+      "answer": "गर्दीत बांगड्यांच्या पेटीला धक्का लागण्याची."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "अब्दुल वर्षातून किती दिवस आनंदाचे अनुभवत असे?",
+      "answer": "फक्त दोन दिवस."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "अब्दुलच्या मते पोटाची आग आणि कशाची तुलना केली आहे?",
+      "answer": "पोटाची आग आणि शोभेची वस्तू (किंवा तत्सम संदर्भ)."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "लेखिकेने कोणत्या मूल्याचे दर्शन घडवले आहे?",
+      "answer": "समाजऋण आणि माणुसकी."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "अब्दुलने बांगड्यांचा धंदा का सोडला नाही?",
+      "answer": "कारण तो त्याचा वडिलोपार्जित (अब्बाजानपासून चालत आलेला) धंदा होता."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "अब्दुलचा स्वभावचित्र रेखाटा.",
+      "answer": "अब्दुल हा एक गरीब पण अत्यंत संवेदनशील बांगडीवाला आहे. तो वर्षातून दोनदा तपोवनातील कुष्ठरोगी स्त्रियांना विनामूल्य बांगड्या भरण्यासाठी जातो. त्याला पैशापेक्षा लोकांच्या चेहऱ्यावरील आनंद महत्त्वाचा वाटतो. घरची गरिबी आणि पत्नीची कुरकुर असूनही तो आपले समाजकार्य निष्ठेने करतो. तो नम्र आहे, दाजीसाहेबांचा आदर करतो आणि प्रसिद्धीचा हव्यास धरत नाही. त्याच्यात माणुसकी आणि परोपकाराची भावना ओतप्रोत भरलेली आहे. तो आपल्या कलेचा उपयोग दुसऱ्यांच्या सुखासाठी करतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "शन्नूच्या नाराजीचे कारण काय होते?",
+      "answer": "शन्नू ही अब्दुलची पत्नी आहे आणि तिला आपल्या संसाराची काळजी आहे. संक्रांत आणि ज्येष्ठ पौर्णिमा हे दिवस बांगड्यांच्या धंद्यासाठी 'पर्वणी' असतात, म्हणजेच खूप कमाईचे दिवस असतात. अशा दिवशी अब्दुल दुकान बंद ठेवून तपोवनात मोफत बांगड्या भरण्यासाठी जात असे. यामुळे त्यांचे आर्थिक नुकसान होत असे. घरात गरिबी असताना अब्दुलने असे वागणे तिला पटत नव्हते. तिची नाराजी व्यावहारिक होती, कारण तिला आपल्या मुलाचे आणि घराचे भविष्य सुरक्षित करायचे होते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "तपोवनातील स्त्रियांसाठी अब्दुलचे येणे महत्त्वाचे का होते?",
+      "answer": "तपोवनातील स्त्रिया कुष्ठरोगी होत्या आणि समाज प्रवाहापासून दूर होत्या. त्यांना सहसा कोणी भेटायला येत नसे किंवा बांगड्या भरण्यासाठी इतर बांगडीवाले तिथे जाण्यास तयार नसत. अब्दुल मात्र वर्षातून दोनदा न चुकता तिथे जात असे. तो त्यांना त्यांच्या आवडीच्या बांगड्या प्रेमाने भरत असे. त्याच्या येण्यामुळे त्यांच्या जीवनात आनंद आणि उत्साह निर्माण होत असे. तो त्यांना माहेरच्या माणसासारखा किंवा देवदूतासारखा वाटत असे, जो त्यांच्यासाठी खुशाली आणि सौंदर्य घेऊन येतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "दाजीसाहेबांनी अब्दुलचा सत्कार का केला?",
+      "answer": "दाजीसाहेबांनी तपोवनात कुष्ठरोग्यांची सेवा करण्यासाठी आपले आयुष्य वेचले होते. त्यांनी अनेक बांगडीवाल्यांना तपोवनात येण्याची विनंती केली होती, पण कोणीही तयार झाले नाही. अब्दुल मात्र स्वतःहून पुढे आला आणि कोणत्याही मोबदल्याची अपेक्षा न करता दरवर्षी सेवा देत राहिला. त्याच्या या निस्वार्थ समाजसेवेची आणि मानवतेची दखल घेऊन, त्याला प्रोत्साहन देण्यासाठी आणि कृतज्ञता व्यक्त करण्यासाठी दाजीसाहेबांनी त्याचा जाहीर सत्कार केला. त्यांचे हे कार्य 'सेतुबंधातील खारीच्या वाट्यासारखे' मोलाचे होते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "दाजीसाहेबांनी तपोवन सोडल्याचा अब्दुलवर काय परिणाम झाला?",
+      "answer": "दाजीसाहेबांनी तपोवन सोडल्याची बातमी कळताच अब्दुलला मोठा धक्का बसला. त्याची मनस्थिती अत्यंत उदास झाली. त्याला तपोवनातील रुग्णांची काळजी वाटू लागली की आता त्यांचे काय होईल. त्याच्यासाठी तपोवन हे केवळ एक ठिकाण नव्हते, तर त्याच्या आनंदाचे आणि समाधानाचे स्त्रोत होते. दाजीसाहेबांच्या जाण्याने तो स्त्रोतच नाहीसा झाल्यासारखे त्याला वाटले. त्याची 'जीवनेच्छा उडून गेल्यासारखी' झाली. संक्रांतीला नेण्यासाठी जमवलेल्या वस्तूंकडे पाहून त्याचे डोळे पाणावले. तो पूर्णपणे निराश झाला."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "अब्दुल आणि रघुभैया यांच्या स्वभावातील फरक स्पष्ट करा.",
+      "answer": "अब्दुल हा परोपकारी आणि संवेदनशील आहे. तो व्यवसायापेक्षा समाजसेवेला महत्त्व देतो. स्वतःच्या गरिबीची पर्वा न करता तो इतरांना आनंद देण्यात सुख मानतो. याउलट, रघुभैया हा पूर्णपणे व्यावसायिक वृत्तीचा आहे. तो सणासुदीला दुकान उघडून भरपूर कमाई करतो आणि आपल्या घरासाठी नवीन वस्तू खरेदी करतो. त्याला सामाजिक बांधिलकीचे फारसे घेणेदेणे नाही. अब्दुल 'देण्यात' आनंद मानतो, तर रघुभैया 'कमावण्यात' आनंद मानतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या समाजकार्याचे वर्णन करा.",
+      "answer": "अब्दुलचे समाजकार्य खूप वेगळे आणि हृदयस्पर्शी आहे. तो श्रीमंत नाही, पण त्याचे मन मोठे आहे. तो वर्षातून दोनदा आपल्या खर्चितून बांगड्या, रिबिनी, पावडर इत्यादी वस्तू घेऊन तपोवनात जातो. तेथील कुष्ठरोगी स्त्रियांना तो प्रेमाने बांगड्या भरतो. कुष्ठरोगामुळे विद्रूप झालेल्या हातांना स्पर्श करताना त्याला घृणा वाटत नाही. उलट, त्या स्त्रियांच्या चेहऱ्यावरील आनंद पाहून त्याला समाधान मिळते. तो हे काम कोणत्याही प्रसिद्धीसाठी करत नाही, तर आत्मिक समाधानासाठी करतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "पाठातून मिळणारा संदेश काय आहे?",
+      "answer": "'चुडीवाला' या पाठातून आपल्याला निस्वार्थ समाजसेवेचा आणि माणुसकीचा संदेश मिळतो. आपण कितीही सामान्य असलो तरी आपल्या परीने समाजासाठी काहीतरी करू शकतो, हे अब्दुलच्या उदाहरणावरून समजते. शारीरिक व्याधी असलेल्यांना प्रेमाची आणि स्वीकाराची गरज असते. खरी श्रीमंती पैशात नसून दुसऱ्याला आनंद देण्यात आहे. तसेच, समाजऋण फेडणे हे प्रत्येकाचे कर्तव्य आहे, मग तो कोणत्याही धर्माचा किंवा व्यवसायाचा असो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "शन्नूच्या वागण्यामागील तिचा विचार काय असावा?",
+      "answer": "शन्नूचे वागणे हे एका सामान्य गृहिणीचे आणि आईचे आहे. तिच्या घरात गरिबी आहे. पतीचा व्यवसाय जेमतेम चालतो. सणासुदीला जास्त कमाई होण्याची संधी असते, ती अब्दुल समाजसेवेपायी गमावतो, याचा तिला त्रास होतो. मुलांचे लाड पुरवता येत नाहीत (उदा. खिम्यासाठी हट्ट), घरच्या गरजा भागत नाहीत, अशा वेळी पतीने व्यवहारी वागावे अशी तिची अपेक्षा असते. तिची चिडचिड स्वार्थापोटी नसून परिस्थितीमुळे आणि सुरक्षित भविष्वाच्या चिंतेमुळे आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "सत्कार समारंभाचे वर्णन तुमच्या शब्दांत करा.",
+      "answer": "तपोवनातील संमेलनात अब्दुलचा खास सत्कार आयोजित केला होता. दाजीसाहेबांनी त्याला मंचावर बोलावले. ८४ वर्षांचे दाजीसाहेब पांढऱ्या शुभ्र वेशात तेजस्वी दिसत होते. त्यांनी अब्दुलच्या कार्याचा गौरव केला. ते म्हणाले की अब्दुलचे कार्य लहान वाटले तरी ते रामाच्या सेतूबंधातील खारीसारखे महत्त्वाचे आहे. त्यांनी अब्दुलला फुलांचा गुच्छ आणि फुलदाणी दिली. उपस्थितांनी टाळ्यांचा कडकडाट केला. अब्दुल भारावून गेला आणि त्याने दाजीसाहेबांच्या पाया पडला. हा प्रसंग अब्दुलच्या आयुष्यातील सर्वात मोठा सन्मान होता."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "'सत्याता पटवून द्या - अब्दुल एक थोर समाजसेवक'.",
+      "answer": "अब्दुल हा खरोखरच एक थोर समाजसेवक आहे कारण तो समाजसेवा प्रसिद्धीसाठी किंवा फायद्यासाठी करत नाही. तो स्वतः गरीब असूनही वर्षातून दोनदा आपल्या कमाईचे नुकसान करून तपोवनात जातो. कुष्ठरोगी स्त्रियांना समाज टाळतो, पण अब्दुल त्यांच्या जवळ जाऊन त्यांना बांगड्या भरतो. तो त्यांच्या वेदना समजून घेतो आणि त्यांना क्षणभराचा आनंद देतो. त्याचे हे कार्य सातत्याने चालू आहे. दाजीसाहेबांसारख्या थोरांनी त्याच्या कार्याचा गौरव केला आहे. दुसऱ्याच्या सुखात आपले सुख मानणे, हेच थोर समाजसेवकाचे लक्षण आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "दुसऱ्याला मदत करण्यातला आनंद ज्या प्रसंगातून मिळू शकतो, असा एखादा प्रसंग लिहा (स्वमत).",
+      "answer": "(उदाहरण) एकदा मी शाळेतून घरी येत होतो. कडक ऊन होते. रस्त्याच्या कडेला एक आजी जड पिशवी घेऊन उभ्या होत्या. त्यांना रस्ता ओलांडायचा होता पण वाहनांमुळे जमत नव्हते. मी त्यांच्या जवळ गेलो, त्यांची पिशवी घेतली आणि हात धरून त्यांना रस्ता ओलांडून दिला. त्यांनी मला हसून आशीर्वाद दिले. त्यांच्या चेहऱ्यावरील तो निवांत भाव पाहून मला खूप आनंद झाला. त्या दिवशी मला जाणवले की मदत करण्यात खूप मोठे समाधान असते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या मुलाला व्यवसायात तंत्रज्ञानाची जोड कशी देता येईल?",
+      "answer": "अब्दुलच्या मुलाला (अन्वरला) बांगड्यांच्या व्यवसायात तंत्रज्ञानाचा वापर करून वाढ करता येईल. १. तो सोशल मीडियाचा वापर करून बांगड्यांचे डिझाइन्स लोकांपर्यंत पोहोचवू शकतो. २. ऑनलाईन पेमेंट (UPI) स्वीकारू शकतो. ३. होलसेल माल मागवण्यासाठी इंटरनेटचा वापर करू शकतो. ४. ग्राहकांच्या आवडीनिवडीचा डेटाबेस तयार करून त्यांना नवीन स्टॉकबद्दल मेसेज पाठवू शकतो. ५. कदाचित तो बांगड्या बनवण्याचे नवीन तंत्र शिकून स्वतः उत्पादनही सुरू करू शकतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "दाजीसाहेबांच्या बोलण्यातील 'सेतुबंधन' आणि 'खार' यांचा संदर्भ स्पष्ट करा.",
+      "answer": "रामायणात जेव्हा प्रभू रामचंद्रांनी लंकेवर जाण्यासाठी सेतू (पूल) बांधला, तेव्हा वानरांनी मोठे दगड टाकून मदत केली. पण एका लहानशा खारीनेही आपल्या क्षमतेनुसार वाळूचे कण टाकून मदत केली. दाजीसाहेबांनी तपोवन हे कुष्ठरोग्यांसाठी एक मोठे सेवाकार्य उभे केले आहे (सेतुबंधन). त्यात अनेक मोठ्या देणगीदारांनी मदत केली असेल. पण अब्दुलसारखा सामान्य माणूस, जो आपल्या परीने बांगड्या भरून आनंद देतो, त्याचे कार्य त्या 'खारी'सारखेच महत्त्वाचे आणि पवित्र आहे, असा हा संदर्भ आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "अब्दुलचा व्यवसाय आणि त्याची कौटुंबिक परिस्थिती यावर टीप लिहा.",
+      "answer": "अब्दुल हा बांगड्या विकण्याचा व्यवसाय करतो. त्याचे दुकान लहान आहे आणि तो फिरूनही बांगड्या विकतो. हा धंदा त्याला त्याच्या वडिलांकडून मिळाला आहे. त्याची आर्थिक परिस्थिती बेताची आहे. त्याचे घर छोटे आहे आणि पत्नी शन्नू व मुलगा अन्वर असे त्याचे कुटुंब आहे. सणासुदीलाच त्याचा धंदा चांगला होतो, इतर वेळी उत्पन्न कमी असते. घरात गरिबी असल्यामुळे शन्नू त्याला नेहमी दुसरा धंदा करण्यासाठी सुचवत असते, पण अब्दुलला हा व्यवसाय सोडवत नाही."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या प्रवासाचे वर्णन करा.",
+      "answer": "अब्दुल हातात बांगड्यांची पेटी आणि पिशवी घेऊन घरातून निघतो. पायात चपला सरकवतो. थंडीपासून वाचण्यासाठी स्वेटर आणि मफलर वापरतो. तो बसस्टॉपवर येतो आणि बसमध्ये खिडकीच्या शेजारी बसतो. बांगड्यांची पेटी सांभाळून मांडीवर ठेवतो. वाऱ्याचा झोत त्रासदायक असूनही तो सहन करतो. जिल्हाधिकारी कचेरीजवळ उतरून तो तपोवनाच्या कमानीकडे पाहत आत जातो, जिथे मुली त्याचे स्वागत करतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "पाठातील संवादांचे महत्त्व सांगा.",
+      "answer": "पाठातील संवाद पात्रांचे स्वभाव आणि परिस्थिती स्पष्ट करतात. शन्नू आणि अब्दुल यांच्या संवादातून घरातील तणाव आणि आर्थिक चणचण समजते. रघुभैया आणि अब्दुल यांच्या संवादातून रघुभैयाचा व्यावहारिक दृष्टिकोन आणि अब्दुलचा हळवेपणा दिसतो. दाजीसाहेबांच्या भाषणातून अब्दुलच्या कार्याचे महत्त्व अधोरेखित होते. हे संवाद कथेला पुढे नेतात आणि वाचकाला पात्रांच्या भावनांशी जोडतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "अब्दुलने संक्रांतीसाठी कोणती तयारी केली होती?",
+      "answer": "अब्दुलने संक्रांतीला तपोवनात जाण्यासाठी आधीच तयारी केली होती. त्याने कोपऱ्यात ठेवलेल्या पिशवीत विविध वस्तू जमवल्या होत्या. त्यात पावडरचा डबा, रुमाल, रिबिनी, पिना, सोनेरी बांगड्या, साध्या बांगड्या आणि नायलॉनच्या बांगड्या होत्या. या वस्तू तो तपोवनातील स्त्रिया आणि मुलींना भेट म्हणून नेणार होता. ही तयारी त्याच्या उत्साहाचे आणि समर्पणाचे लक्षण होते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "अब्दुलला 'देवदूत' का म्हटले आहे?",
+      "answer": "देवदूत म्हणजे ईश्वराचा संदेश घेऊन येणारा किंवा मदत करणारा. तपोवनातील स्त्रियांचे आयुष्य दुखःमय आणि एकाकी होते. त्यांच्या आयुष्यात आनंद घेऊन येणारे खूप कमी लोक होते. अब्दुल वर्षातून दोनदा त्यांच्यासाठी बांगड्या आणि इतर वस्तू घेऊन येत असे. त्याच्या येण्याने संपूर्ण वातावरणात उत्साह निर्माण होत असे. तो त्यांना माणुसकीची वागणूक देत असे. म्हणून त्यांच्यासाठी तो साक्षात आनंदाचा वर्षाव करणारा 'देवदूत' होता."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "अब्दुलला सत्कार प्रसंगी घरी आल्यावर अपराधी का वाटले?",
+      "answer": "सत्कार समारंभात दाजीसाहेबांनी अब्दुलचे खूप कौतुक केले. त्याला मानसन्मान मिळाला. पण घरी परतल्यावर त्याला आपल्या गरिबीची जाणीव झाली. शन्नूने त्याला साधेच जेवण (चपाती आणि वांगे) वाढले. अन्वर खिम्यासाठी रडला होता हे त्याला समजले. बाहेर लोकांनी त्याला 'मोठा' म्हटले, पण घरात तो आपल्या मुलाची छोटीशी इच्छा (खिमा) पूर्ण करू शकला नाही, या विचाराने त्याला स्वतःबद्दल अपराधी वाटले."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "'एखाद्या वस्त्राचा एकाएकी रंग उडून जावा तशी त्याची जीवनेच्छा उडून गेली' - या वाक्याचा अर्थ स्पष्ट करा.",
+      "answer": "वस्त्राचा रंग उडाल्यावर ते निस्तेज आणि जुने वाटते, त्यातले सौंदर्य नाहीसे होते. तसेच, दाजीसाहेबांनी तपोवन सोडल्याचे कळल्यावर अब्दुलच्या आयुष्यातील उत्साह आणि आनंद नाहीसा झाला. तपोवन आणि तेथील सेवा हेच त्याच्या जीवनातील आनंदाचे प्रमुख कारण (रंग) होते. तेच आता राहणार नाही हे समजल्यावर, त्याचे जीवन निरर्थक आणि निस्तेज झाल्यासारखे त्याला वाटले. त्याच्या मनातील जगण्याची उमेद संपल्यासारखी झाली."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या स्वभावातील 'तडजोड' कशी दिसून येते?",
+      "answer": "अब्दुलला आपल्या घरच्या परिस्थितीची पूर्ण जाणीव आहे. तरीही तो आपल्या समाजसेवेच्या व्रताशी तडजोड करत नाही. तो शन्नूच्या रागाकडे दुर्लक्ष करतो (तडजोड करतो) जेणेकरून घरात भांडण होऊ नये. तो स्वतःच्या गरजा बाजूला सारून (फाटका स्वेटर) दुसऱ्यांसाठी खर्च करतो. तो समाजाच्या टोमण्यांकडे दुर्लक्ष करतो. त्याची ही तडजोड स्वतःच्या सुखासाठी नसून दुसऱ्यांच्या आनंदासाठी असते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "समाजसेवेसाठी पैशांची नाही तर मनाची श्रीमंती लागते, हे पाठावरून स्पष्ट करा.",
+      "answer": "अब्दुल हा अत्यंत गरीब बांगडीवाला आहे. त्याच्याकडे स्वतःचे दुकान नीट चालवण्यासाठीही भांडवल नाही. तरीही तो तपोवनातील शेकडो स्त्रियांना मोफत बांगड्या भरतो आणि भेटवस्तू देतो. रघुभैयासारखे श्रीमंत व्यापारी हे करू शकत नाहीत, कारण त्यांच्याकडे मनाचा मोठेपणा नाही. अब्दुल स्वतःच्या पोटाला चिमटा काढून हे करतो. यावरून सिद्ध होते की समाजसेवा करण्यासाठी बँक बॅलन्सची नाही, तर उदार आणि संवेदनशील मनाची गरज असते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "लेखिकेने तपोवनातील वातावरणाचे वर्णन कसे केले आहे?",
+      "answer": "लेखिकेने तपोवनातील वातावरण अत्यंत भावूक पद्धतीने वर्णन केले आहे. अब्दुल येताच तिथे आनंदाची लाट पसरते. मुलींचा गलका, स्त्रियांची गडबड आणि चेहऱ्यावरील हास्य यामुळे वातावरण चैतन्यमय होते. आंब्याच्या झाडाखालील चौथऱ्यावर बसलेला अब्दुल आणि त्याच्याभोवती जमलेली गर्दी हे दृश्य जिवंत वाटते. बांगड्यांचा रंग, त्यांचा आवाज आणि स्त्रियांचा आनंद यामुळे तपोवन एका उत्सवासारखे वाटते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या समाजकार्याला घरच्यांचा विरोध का होता?",
+      "answer": "अब्दुलच्या घरच्यांचा (मुख्यतः शन्नूचा) विरोध त्याच्या समाजकार्याला नव्हता, तर त्यामुळे होणाऱ्या आर्थिक नुकसानीला होता. त्यांचे कुटुंब गरीब होते. संक्रांतीसारख्या सणाच्या दिवशी दुकानात चांगली कमाई होऊ शकते, ती सोडून अब्दुल फुकट बांगड्या वाटायला जात असे, हे शन्नूला पटत नव्हते. अन्वर लहान होता, त्याच्या गरजा होत्या. व्यावहारिक अडचणींमुळे घरच्यांचा विरोध होता."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "अब्दुल आणि तपोवनातील स्त्रिया यांच्यातील नात्याचे वर्णन करा.",
+      "answer": "अब्दुल आणि तपोवनातील स्त्रिया यांच्यात भावा-बहिणीसारखे प्रेमाचे नाते होते. त्या स्त्रिया वर्षातून दोनदा त्याची आतुरतेने वाट पाहत. अब्दुलही त्यांच्यासाठी मनपसंत बांगड्या आणि वस्तू घेऊन जात असे. तो त्यांच्याशी आपुलकीने बोलत असे. त्यांनी बनवलेली फुलदाणी त्याला भेट दिली, यावरून त्यांचे प्रेम दिसून येते. हे नाते रक्ताचे नव्हते, तर माणुसकीचे आणि विश्वासाचे होते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "सत्काराच्या वेळी अब्दुलच्या मनात कोणते विचार आले असतील?",
+      "answer": "सत्काराच्या वेळी अब्दुलच्या मनात कृतज्ञता आणि संकोच असेल. त्याला वाटले असेल की आपण एवढे मोठे काम केले नाही की सत्कार व्हावा. दाजीसाहेबांसारख्या महान व्यक्तीच्या हस्ते सत्कार होतोय, याचा त्याला अभिमान वाटला असेल. त्याच वेळी त्याला आपल्या वडिलांची (अब्बाजानची) आठवण झाली असेल ज्यांनी हा व्यवसाय दिला. त्याला हा क्षण शन्नूने पाहायला हवा होता असेही वाटले असेल."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "पाठात आलेल्या विरामचिन्हांचा वापर आणि त्यांचे महत्त्व सांगा.",
+      "answer": "पाठात प्रश्नचिन्ह, उद्गारवाचक चिन्ह, अवतरण चिन्ह यांचा वापर संवादात भावना व्यक्त करण्यासाठी केला आहे. उदा. \"क्यूं बेटे?\" (प्रश्न), \"बापरे! केवढी मोठी वसाहत.\" (आश्चर्य). संवाद दुहेरी अवतरण चिन्हात दिले आहेत. यामुळे भाषा जिवंत वाटते आणि वाचकाला पात्रांच्या भावना (राग, आश्चर्य, आनंद) समजण्यास मदत होते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "अब्दुलने बांगड्या भरताना कोणत्या गोष्टीची काळजी घेतली?",
+      "answer": "तपोवनातील स्त्रिया कुष्ठरोगी होत्या. त्यांच्या हाताची बोटे झडलेली किंवा वाकडी असत. अशा हातांत काचेच्या बांगड्या भरणे अवघड असते. अब्दुलने अत्यंत हळुवारपणे, त्यांना इजा न होऊ देता, त्यांच्या मनपसंत मापाच्या बांगड्या भरल्या. ही कला त्याला साध्य झाली होती. त्याने त्यांच्याशी प्रेमाने संवाद साधत हे काम केले."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "या कथेचा शेवट कसा झाला आहे?",
+      "answer": "कथेचा शेवट अत्यंत भावूक आणि उदास आहे. दाजीसाहेब तपोवन सोडणार ही बातमी कळल्यामुळे अब्दुलचे मन खचले आहे. रात्री तो संक्रांतीला नेण्यासाठी जमवलेल्या वस्तूंकडे पाहतो आणि त्याचे डोळे पाणावतात. त्याचा आनंद आणि उमेद संपल्यासारखी वाटते. 'रात्र उतरणीला लागली होती' हे वाक्य केवळ दिवसाची वेळच नाही, तर अब्दुलच्या मनातील निराशेची रात्रही सूचित करते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "रघुभैया आणि अब्दुल यांच्यातील संवाद काय दर्शवतो?",
+      "answer": "हा संवाद दोन भिन्न प्रवृत्ती दर्शवतो. रघुभैया व्यावहारिक आहे, तो धंद्यावर लक्ष केंद्रित करतो (\"आज दुकान नहीं खोलता?\"). अब्दुल मात्र भावनाप्रधान आहे, त्याला धंद्यापेक्षा तपोवनाची चिंता आहे. रघुभैयाला अब्दुलच्या दुःखाची पूर्ण जाणीव नाही. हा संवाद अब्दुलच्या मनातील खळबळ आणि समाजाचा त्याच्याकडे पाहण्याचा दृष्टिकोन व्यक्त करतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "अलंकारांच्या वापराचे महत्त्व (उपमा, उत्प्रेक्षा) पाठात कसे आले आहे?",
+      "answer": "पाठात लेखिकेने भाषेचे सौंदर्य वाढवण्यासाठी अलंकारांचा वापर केला आहे. उदा. 'अब्दुल हा तपोवनातील स्त्रियांना देवदूतासारखा वाटे' (उपमा) - यामुळे अब्दुलचे महत्त्व अधोरेखित होते. 'अब्दुल हा तपोवनातील स्त्रियांसाठी जणू देवदूतच' (उत्प्रेक्षा). अशा वाक्यांमुळे वर्णनाला उठाव मिळतो आणि प्रभाव पडतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या वडिलांची शिकवण त्याच्या वागण्यातून कशी दिसते?",
+      "answer": "अब्दुल वारंवार म्हणतो की हा धंदा 'अब्बाजानपासून' चालत आला आहे. वडिलांनी दिलेला हा वारसा तो फक्त पैशासाठी नाही, तर सेवेसाठी वापरतो. वडिलांनी त्याला कदाचित माणुसकी आणि इमानदारी शिकवली असेल, जी तो तपोवनातील सेवेतून पाळतो. तो आपल्या परंपरेचा अभिमान बाळगतो आणि ती सोडायला तयार नाही."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "तपोवनातील मुलींनी कोणत्या रंगाच्या बांगड्या मागितल्या?",
+      "answer": "पाठात उल्लेख केल्याप्रमाणे, मुलींनी लाल आणि हिरव्या रंगाच्या बांगड्यांची मागणी केली. लाल आणि हिरवा हे रंग उत्साहाचे आणि सौभाग्याचे प्रतीक मानले जातात. त्या मुलींच्या आयुष्यात रंग भरण्याचे काम अब्दुलच्या बांगड्या करत होत्या."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या या कथेवरून उद्योजकांनी काय शिकावे?",
+      "answer": "उद्योजकांनी हे शिकावे की व्यवसायाचा उद्देश केवळ नफा कमवणे नसावा. व्यवसायाला सामाजिक बांधिलकीची जोड असावी. आपल्या उत्पन्नाचा काही भाग किंवा आपली सेवा समाजातील वंचित घटकांसाठी वापरावी (Corporate Social Responsibility). ग्राहकांशी आणि समाजाशी प्रेमाचे नाते जोडावे, ज्यामुळे व्यवसायाला एक वेगळी प्रतिष्ठा आणि समाधान मिळते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "शन्नूच्या जागी तुम्ही असता तर तुम्ही काय केले असते?",
+      "answer": "(स्वमत) शन्नूच्या जागी मी असतो/असते, तर मलाही सुरुवातीला घराच्या आर्थिक परिस्थितीची चिंता वाटली असती. पण अब्दुलला मिळणारे समाधान आणि लोकांचे प्रेम पाहून मी त्याला पाठिंबा दिला असता. सणाच्या दिवशी दुकानात मदतीला मी स्वतः किंवा मुलाला बसवून, अब्दुलला तपोवनात जाण्यास मदत केली असती. पैशापेक्षा पुण्य मोठे असते, हा विचार करून मी त्याच्या कार्याचा अभिमान बाळगला असता."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "दाजीसाहेबांचे भाषण अब्दुलसाठी का महत्त्वाचे होते?",
+      "answer": "दाजीसाहेबांचे भाषण अब्दुलसाठी खूप महत्त्वाचे होते कारण त्यात त्याच्या निस्वार्थ सेवेची दखल घेतली गेली होती. दाजीसाहेबांनी त्याला 'समाजसेवक' म्हणून संबोधले आणि त्याच्या कार्याची तुलना खारीच्या वाटाशी केली. समाजाकडून अनेकदा उपेक्षित राहिलेल्या अब्दुलला या भाषणामुळे आत्मसन्मान आणि ओळख मिळाली. त्याचे कष्ट वाया गेले नाहीत, याची पोचपावती त्याला मिळाली."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "तपोवन हे अब्दुलसाठी 'कर्मभूमी' का होते?",
+      "answer": "कर्मभूमी म्हणजे जिथे माणूस आपले कर्तव्य पार पाडतो. अब्दुलसाठी तपोवन हे केवळ बांगड्या विकण्याचे ठिकाण नव्हते, तर माणुसकीची सेवा करण्याचे ठिकाण होते. तिथे जाऊन तो आत्मिक समाधान मिळवत असे. त्याचे मन तिथे रमत असे. जसे दाजीसाहेबांनी तपोवन फुलवले, तसे अब्दुलनेही आपल्या प्रेमाने तिथे स्थान निर्माण केले होते. म्हणून तपोवन ही त्याची कर्मभूमी होती."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या उदाहरणावरून 'माणुसकी'ची व्याख्या करा.",
+      "answer": "माणुसकी म्हणजे दुसऱ्याच्या वेदना समजून घेणे आणि निस्वार्थपणे मदत करणे. स्वतःच्या सुखाचा विचार न करता, समाजातील दुर्लक्षित आणि दुःखी लोकांच्या चेहऱ्यावर हास्य आणणे म्हणजे माणुसकी. जात, धर्म, पैसा यापलीकडे जाऊन माणसाने माणसाशी प्रेमाने वागणे, हेच अब्दुलच्या उदाहरणावरून शिकायला मिळते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "अब्दुलने नवीन धंदा का सुरू केला नाही?",
+      "answer": "पहिली गोष्ट म्हणजे, अब्दुलकडे नवीन धंदा सुरू करण्यासाठी लागणारे भांडवल (पैसे) नव्हते. दुसरी महत्त्वाची गोष्ट म्हणजे, बांगड्यांचा धंदा हा त्याचा वडिलोपार्जित व्यवसाय होता. त्याच्याशी त्याची भावनिक गुंतवणूक होती. त्याला या व्यवसायातून मिळणारे समाधान (विशेषतः तपोवनातील सेवेतून) इतर कोणत्याही धंद्यात मिळाले नसते. म्हणून त्याने नवीन धंदा सुरू केला नाही."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "अब्दुलला मिळालेल्या पत्रात काय विशेष होते?",
+      "answer": "अब्दुलला मिळालेले पत्र हे साधे निमंत्रण नव्हते. ते दाजीसाहेबांनी स्वतः पाठवले होते आणि ते मराठीत होते. अब्दुलसारख्या एका सामान्य बांगडीवाल्याला एवढ्या मोठ्या संस्थेकडून सन्मानासाठी बोलावणे हे विशेष होते. हे पत्र त्याच्या सेवेची पावती होती, ज्यामुळे त्याच्या आणि त्याच्या कुटुंबाच्या (शन्नूच्या) मनात अभिमानाची भावना निर्माण झाली."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "तपोवनाच्या गेटवर पोहोचल्यावर अब्दुलला काय दिसले?",
+      "answer": "तपोवनाच्या गेटवर पोहोचल्यावर अब्दुलला दिसले की गोलाकार कमानीवर लावलेली वेल गेल्या सहा महिन्यात खूप वाढली आहे आणि फुलली आहे. हे निसर्गाचे बहरणे तपोवनातील चैतन्याचे प्रतीक होते. त्यानंतर लगेच त्याला लहान मुलींचा घोळका दिसला जो त्याच्या स्वागतासाठी आतुर होता."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या मनातील संघर्ष स्पष्ट करा.",
+      "answer": "अब्दुलच्या मनात सतत एक संघर्ष चालू असे. एका बाजूला त्याची समाजसेवा करण्याची तीव्र इच्छा आणि तपोवनाबद्दलचे प्रेम होते. दुसऱ्या बाजूला घरची गरिबी, पत्नीची नाराजी आणि मुलाच्या गरजा होत्या. त्याला माहित होते की त्याचे वागणे व्यावहारिकदृष्ट्या चुकीचे आहे, पण भावनिकदृष्ट्या त्याला ते बरोबर वाटत असे. हा 'कर्तव्य विरुद्ध आवड' असा संघर्ष त्याच्या मनात होता."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "या पाठातून 'धार्मिक सलोखा' कसा दिसून येतो?",
+      "answer": "अब्दुल हा मुस्लिम आहे, तर तपोवन ही हिंदू विचारसरणीच्या (दाजीसाहेब) व्यक्तीने चालवलेली संस्था आहे. संक्रांत हा हिंदूंचा सण आहे. पण अब्दुल धर्माचा विचार न करता तिथे सेवा देतो. दाजीसाहेबही त्याचा 'अब्दुलमियाँ' म्हणून आदर करतात आणि सत्कार करतात. रघुभैया (हिंदू) त्याला पत्र वाचून दाखवतो. पाठात कुठेही धर्मावरून भेद दिसत नाही, उलट माणुसकीच्या धर्माचे पालन होताना दिसते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "अब्दुलने गोळा केलेल्या वस्तूंमध्ये काय काय होते आणि का?",
+      "answer": "अब्दुलने बांगड्यांशिवाय पावडरचा डबा, रुमाल, रिबिनी, पिना अशा वस्तू गोळा केल्या होत्या. कारण तपोवनातील मुलींना या वस्तूंचीही हौस असते, पण त्या सहज मिळत नाहीत किंवा विकत घेता येत नाहीत. अब्दुलला त्यांना पूर्ण आनंद द्यायचा होता. बांगड्या हाताचे सौंदर्य वाढवतात, तर या इतर वस्तू शृंगारासाठी असतात. मुलींना सजून आनंदी पाहावे, हा त्याचा हेतू होता."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "'जिल्हाधिकारी कचेरीजवळ पाऊण बस रिकामी झाली' - यावरून काय समजते?",
+      "answer": "यावरून असे समजते की बहुतेक लोक स्वतःच्या कामासाठी शहरात येतात. तपोवनासारख्या ठिकाणी, जिथे कुष्ठरोगी राहतात, तिथे जायला कोणाला आवडत नाही किंवा वेळ नाही. समाजाची तपोवनाकडे पाहण्याची अनास्था यातून दिसून येते. अब्दुल मात्र त्या मोजक्या लोकांपैकी होता जो तिथे आनंदाने जात होता."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या कष्टाचे वर्णन करा.",
+      "answer": "अब्दुलचे कष्ट शारीरिक आणि मानसिक दोन्ही होते. तो उन्हात, थंडीत (उसवलेल्या स्वेटरमध्ये) प्रवास करत असे. बांगड्यांची जड पेटी सांभाळत असे. दिवसभर बसून बांगड्या भरण्याचे काम करत असे. त्यासोबतच घरच्या गरिबीशी आणि पत्नीच्या टोमण्यांशी त्याला रोज लढावे लागत असे. तरीही तो चेहऱ्यावर हास्य ठेवून हे सर्व कष्ट सहन करत असे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "दाजीसाहेबांचे कार्य अब्दुलला कसे वाटले?",
+      "answer": "दाजीसाहेबांचे कार्य अब्दुलला महान वाटले. त्यांनी ८४ व्या वर्षीही तपोवन उभे करून ते सांभाळले होते. त्यांची देहयष्टी आणि बोलण्यातील ऐट पाहून अब्दुल भारावून गेला. त्यांनी आपले तन-मन-धन देऊन हे कार्य उभे केले आहे, याची जाणीव अब्दुलला होती. म्हणून जेव्हा त्यांनी तपोवन सोडले, तेव्हा अब्दुलला खूप दुःख झाले."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "अब्दुलच्या घरी परतल्यावरचे वातावरण कसे होते?",
+      "answer": "अब्दुल सत्कार घेऊन आनंदाने घरी परतला, तेव्हा रात्र झाली होती. वातावरण शांत होते. आकाशात चंद्र होता. पण घरात शिरताच वातावरण गंभीर झाले. शन्नू रागात होती, तिने जेवण केले नव्हते. अन्वर हट्ट करून झोपला होता. अब्दुलचा आनंद क्षणार्धात विरला आणि त्याला अपराधी वाटू लागले. बाहेरचा सन्मान आणि घरातील वास्तव यातला हा विरोधाभास होता."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "तुम्ही अब्दुलचे सांत्वन कसे केले असते?",
+      "answer": "(स्वमत) मी अब्दुलला सांगितले असते की, \"चाचा, तुम्ही नाराज होऊ नका. दाजीसाहेब गेले तरी त्यांनी लावलेले रोपटे आता मोठे झाले आहे. तुम्ही तुमचे कार्य थांबवू नका. तुमच्यासारख्या माणसांमुळेच तपोवनातील लोकांचे आयुष्य सुंदर आहे. दाजीसाहेबांची इच्छाही हीच असेल की तुम्ही हे कार्य चालू ठेवावे. ईश्वर तुमच्या सेवेचे फळ नक्की देईल.\""
+    }
+  ]
+}

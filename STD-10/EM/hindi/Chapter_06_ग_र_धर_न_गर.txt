@@ -1,0 +1,461 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.06",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "गिरिधर नागर"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'गिरिधर नागर' पद की कवयित्री कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "महादेवी वर्मा", "is_correct": false },
+        { "option_id": 2, "text": "सुभद्रा कुमारी चौहान", "is_correct": false },
+        { "option_id": 3, "text": "संत मीराबाई", "is_correct": true },
+        { "option_id": 4, "text": "सहजोबाई", "is_correct": false }
+      ],
+      "answer": "संत मीराबाई"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मीराबाई किसे अपना पति मानती हैं?",
+      "options": [
+        { "option_id": 1, "text": "राजा को", "is_correct": false },
+        { "option_id": 2, "text": "गिरिधर गोपाल को", "is_correct": true },
+        { "option_id": 3, "text": "संतों को", "is_correct": false },
+        { "option_id": 4, "text": "समाज को", "is_correct": false }
+      ],
+      "answer": "गिरिधर गोपाल को"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "श्रीकृष्ण के सिर पर क्या विराजमान है?",
+      "options": [
+        { "option_id": 1, "text": "सोने का मुकुट", "is_correct": false },
+        { "option_id": 2, "text": "मोर मुकुट", "is_correct": true },
+        { "option_id": 3, "text": "पगड़ी", "is_correct": false },
+        { "option_id": 4, "text": "कलगी", "is_correct": false }
+      ],
+      "answer": "मोर मुकुट"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मीराबाई ने किसकी मर्यादा (कानि) छोड़ दी है?",
+      "options": [
+        { "option_id": 1, "text": "कुल की", "is_correct": true },
+        { "option_id": 2, "text": "मित्रों की", "is_correct": false },
+        { "option_id": 3, "text": "शत्रुओं की", "is_correct": false },
+        { "option_id": 4, "text": "देश की", "is_correct": false }
+      ],
+      "answer": "कुल की"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मीराबाई ने प्रेम बेल को किससे सींचा है?",
+      "options": [
+        { "option_id": 1, "text": "गंगाजल से", "is_correct": false },
+        { "option_id": 2, "text": "दूध से", "is_correct": false },
+        { "option_id": 3, "text": "आँसुओं के जल से", "is_correct": true },
+        { "option_id": 4, "text": "वर्षा के जल से", "is_correct": false }
+      ],
+      "answer": "आँसुओं के जल से"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "प्रेम बेल पर अब कौन-सा फल लग गया है?",
+      "options": [
+        { "option_id": 1, "text": "दुख", "is_correct": false },
+        { "option_id": 2, "text": "आनंद", "is_correct": true },
+        { "option_id": 3, "text": "विरह", "is_correct": false },
+        { "option_id": 4, "text": "मोह", "is_correct": false }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मीराबाई ने दूध की मथनियाँ कैसे बिलोई हैं?",
+      "options": [
+        { "option_id": 1, "text": "क्रोध से", "is_correct": false },
+        { "option_id": 2, "text": "जल्दी-जल्दी", "is_correct": false },
+        { "option_id": 3, "text": "बड़े प्रेम से", "is_correct": true },
+        { "option_id": 4, "text": "उदासी से", "is_correct": false }
+      ],
+      "answer": "बड़े प्रेम से"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मीराबाई ने क्या निकाल लिया है और क्या छोड़ दिया है?",
+      "options": [
+        { "option_id": 1, "text": "घी निकाल लिया, दूध छोड़ दिया", "is_correct": false },
+        { "option_id": 2, "text": "माखन निकाल लिया, छाछ छोड़ दी", "is_correct": true },
+        { "option_id": 3, "text": "पानी निकाल लिया, तेल छोड़ दिया", "is_correct": false },
+        { "option_id": 4, "text": "छाछ निकाल ली, माखन छोड़ दिया", "is_correct": false }
+      ],
+      "answer": "माखन निकाल लिया, छाछ छोड़ दी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "मीराबाई जगत को देखकर क्या करती हैं?",
+      "options": [
+        { "option_id": 1, "text": "हँसती हैं", "is_correct": false },
+        { "option_id": 2, "text": "नाचती हैं", "is_correct": false },
+        { "option_id": 3, "text": "रोती हैं", "is_correct": true },
+        { "option_id": 4, "text": "सोती हैं", "is_correct": false }
+      ],
+      "answer": "रोती हैं"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मीराबाई स्वयं को प्रभु की क्या बताती हैं?",
+      "options": [
+        { "option_id": 1, "text": "सखी", "is_correct": false },
+        { "option_id": 2, "text": "दासी (चेरी)", "is_correct": true },
+        { "option_id": 3, "text": "माता", "is_correct": false },
+        { "option_id": 4, "text": "गुरु", "is_correct": false }
+      ],
+      "answer": "दासी (चेरी)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "दूसरे पद में मीराबाई किसे पुकार रही हैं?",
+      "options": [
+        { "option_id": 1, "text": "संसार को", "is_correct": false },
+        { "option_id": 2, "text": "प्रभु को", "is_correct": true },
+        { "option_id": 3, "text": "पिता को", "is_correct": false },
+        { "option_id": 4, "text": "स्वयं को", "is_correct": false }
+      ],
+      "answer": "प्रभु को"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मीराबाई ने संसार को क्या बताया है?",
+      "options": [
+        { "option_id": 1, "text": "सुख का सागर", "is_correct": false },
+        { "option_id": 2, "text": "विकार सागर (दुखों का सागर)", "is_correct": true },
+        { "option_id": 3, "text": "खेल का मैदान", "is_correct": false },
+        { "option_id": 4, "text": "स्वर्ग", "is_correct": false }
+      ],
+      "answer": "विकार सागर (दुखों का सागर)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मीराबाई की नाव किसने घेर ली है?",
+      "options": [
+        { "option_id": 1, "text": "मित्रों ने", "is_correct": false },
+        { "option_id": 2, "text": "संसार रूपी सागर ने", "is_correct": true },
+        { "option_id": 3, "text": "मछलियों ने", "is_correct": false },
+        { "option_id": 4, "text": "नाविकों ने", "is_correct": false }
+      ],
+      "answer": "संसार रूपी सागर ने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "फागुन के कितने दिन बताए गए हैं?",
+      "options": [
+        { "option_id": 1, "text": "दो", "is_correct": false },
+        { "option_id": 2, "text": "दस", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": true },
+        { "option_id": 4, "text": "सात", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मीराबाई बिना करताल और पखावज के क्या सुन रही हैं?",
+      "options": [
+        { "option_id": 1, "text": "अणहद की झनकार", "is_correct": true },
+        { "option_id": 2, "text": "पक्षियों का कलरव", "is_correct": false },
+        { "option_id": 3, "text": "नदी का शोर", "is_correct": false },
+        { "option_id": 4, "text": "लोगों की बातें", "is_correct": false }
+      ],
+      "answer": "अणहद की झनकार"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मीराबाई ने किस रंग की पिचकारी बनाई है?",
+      "options": [
+        { "option_id": 1, "text": "सोने की", "is_correct": false },
+        { "option_id": 2, "text": "प्रेम-प्रीत की", "is_correct": true },
+        { "option_id": 3, "text": "चाँदी की", "is_correct": false },
+        { "option_id": 4, "text": "फूलों की", "is_correct": false }
+      ],
+      "answer": "प्रेम-प्रीत की"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "उड़ते हुए गुलाल से अंबर (आकाश) कैसा हो गया है?",
+      "options": [
+        { "option_id": 1, "text": "नीला", "is_correct": false },
+        { "option_id": 2, "text": "काला", "is_correct": false },
+        { "option_id": 3, "text": "लाल", "is_correct": true },
+        { "option_id": 4, "text": "सफेद", "is_correct": false }
+      ],
+      "answer": "लाल"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'ढिग' शब्द का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "दूर", "is_correct": false },
+        { "option_id": 2, "text": "पास (निकट)", "is_correct": true },
+        { "option_id": 3, "text": "ऊपर", "is_correct": false },
+        { "option_id": 4, "text": "नीचे", "is_correct": false }
+      ],
+      "answer": "पास (निकट)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'कुल की कानि' का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "परिवार की मर्यादा", "is_correct": true },
+        { "option_id": 2, "text": "परिवार का धन", "is_correct": false },
+        { "option_id": 3, "text": "कुल का नाश", "is_correct": false },
+        { "option_id": 4, "text": "कुल का नाम", "is_correct": false }
+      ],
+      "answer": "परिवार की मर्यादा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "'कँवल' शब्द का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "कमल", "is_correct": true },
+        { "option_id": 2, "text": "कल", "is_correct": false },
+        { "option_id": 3, "text": "केवल", "is_correct": false },
+        { "option_id": 4, "text": "कोमल", "is_correct": false }
+      ],
+      "answer": "कमल"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "किसके बिना मीरा की गति नहीं है?",
+      "options": [
+        { "option_id": 1, "text": "हरि (श्रीकृष्ण) के बिना", "is_correct": true },
+        { "option_id": 2, "text": "धन के बिना", "is_correct": false },
+        { "option_id": 3, "text": "घर के बिना", "is_correct": false },
+        { "option_id": 4, "text": "सखियों के बिना", "is_correct": false }
+      ],
+      "answer": "हरि (श्रीकृष्ण) के बिना"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मीराबाई ने केसर किसकी घोली है?",
+      "options": [
+        { "option_id": 1, "text": "रंगों की", "is_correct": false },
+        { "option_id": 2, "text": "सील और संतोख (शील और संतोष) की", "is_correct": true },
+        { "option_id": 3, "text": "दूध की", "is_correct": false },
+        { "option_id": 4, "text": "पानी की", "is_correct": false }
+      ],
+      "answer": "सील और संतोख (शील और संतोष) की"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मीराबाई का रोम-रोम क्या कर रहा है?",
+      "options": [
+        { "option_id": 1, "text": "सो रहा है", "is_correct": false },
+        { "option_id": 2, "text": "रणकार (ध्वनि) कर रहा है", "is_correct": true },
+        { "option_id": 3, "text": "दुख रहा है", "is_correct": false },
+        { "option_id": 4, "text": "जल रहा है", "is_correct": false }
+      ],
+      "answer": "रणकार (ध्वनि) कर रहा है"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "किसके पट (दरवाजे) खोल दिए गए हैं?",
+      "options": [
+        { "option_id": 1, "text": "घर के", "is_correct": false },
+        { "option_id": 2, "text": "मंदिर के", "is_correct": false },
+        { "option_id": 3, "text": "घट (हृदय) के", "is_correct": true },
+        { "option_id": 4, "text": "नगर के", "is_correct": false }
+      ],
+      "answer": "घट (हृदय) के"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "'रावरी' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "हमारी", "is_correct": false },
+        { "option_id": 2, "text": "आपकी", "is_correct": true },
+        { "option_id": 3, "text": "सबकी", "is_correct": false },
+        { "option_id": 4, "text": "पराई", "is_correct": false }
+      ],
+      "answer": "आपकी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "मीराबाई के आराध्य कौन हैं?",
+      "answer": "मीराबाई के आराध्य गिरिधर गोपाल (श्रीकृष्ण) हैं।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "मीराबाई ने लोकलाज कैसे खोई?",
+      "answer": "मीराबाई ने संतों के पास (ढिग) बैठ-बैठकर लोकलाज खो दी।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "मीराबाई ने प्रेम बेल को सींचने के लिए किसका प्रयोग किया?",
+      "answer": "मीराबाई ने प्रेम बेल को सींचने के लिए अपने आँसुओं के जल का प्रयोग किया।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "कवयित्री ने 'दूध की मथनियाँ' के माध्यम से क्या संदेश दिया है?",
+      "answer": "कवयित्री ने यह संदेश दिया है कि उन्होंने संसार रूपी छाछ को त्यागकर भक्ति रूपी सार तत्व (माखन) को ग्रहण कर लिया है।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "मीराबाई किसे देखकर प्रसन्न होती हैं और किसे देखकर रोती हैं?",
+      "answer": "मीराबाई भक्तों को देखकर प्रसन्न (राजी) होती हैं और जगत (संसार की मोह-माया) को देखकर रोती हैं।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "'हरि बिन कूण गती मेरी' का क्या आशय है?",
+      "answer": "इसका आशय है कि हरि (भगवान) के बिना मीरा का कोई आश्रय या रक्षक नहीं है, वही उनकी एकमात्र गति हैं।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "मीराबाई प्रभु से क्या प्रार्थना कर रही हैं?",
+      "answer": "मीराबाई प्रभु से प्रार्थना कर रही हैं कि उनकी जीवन रूपी नाव संसार सागर में डूब रही है, वे आकर उसे बचा लें (पाल बाँधो)।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "बिरहणि किसकी बाट जोह रही है?",
+      "answer": "बिरहणि (मीरा) अपने पिव (प्रियतम/प्रभु) की बाट (रास्ता) जोह रही है।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "फागुन के दिनों में मीराबाई क्या करने को कह रही हैं?",
+      "answer": "फागुन के दिनों में मीराबाई होली खेलने (आनंद मनाने) को कह रही हैं क्योंकि यह समय बहुत कम (चार दिन) का है।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "'बिन सुर राग छतीसूँ गावै' का अर्थ क्या है?",
+      "answer": "इसका अर्थ है कि मीराबाई अंतरात्मा के स्वर में बिना किसी बाहरी वाद्य या प्रयास के श्रेष्ठ राग गा रही हैं।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "होली खेलते समय कौन-से रंग बरस रहे हैं?",
+      "answer": "होली खेलते समय अपार रंग बरस रहे हैं और उड़ते हुए गुलाल से पूरा आकाश लाल हो गया है।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "'घट के पट सब खोल दिए हैं' से क्या तात्पर्य है?",
+      "answer": "इसका तात्पर्य है कि मीराबाई ने अपने हृदय के सभी द्वार ईश्वर के लिए खोल दिए हैं और लोकलाज का त्याग कर दिया है।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "मीराबाई के गिरिधर नागर कैसे हैं?",
+      "answer": "मीराबाई के गिरिधर नागर कमल के समान कोमल और सुंदर हैं।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "मीराबाई प्रभु के चरणों में क्या करना चाहती हैं?",
+      "answer": "मीराबाई प्रभु के चरणों में स्वयं को बलिहार (न्योछावर) करना चाहती हैं।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "'बेर-बेर' शब्द का अर्थ लिखिए।",
+      "answer": "'बेर-बेर' का अर्थ है 'बार-बार'।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "'मथनियाँ' और 'छाछ' का प्रतीकात्मक अर्थ क्या है?",
+      "answer": "'मथनियाँ' भक्ति के प्रयास का प्रतीक है और 'छाछ' संसार की निस्सार वस्तुओं का प्रतीक है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "मीराबाई की भक्ति किस भाव की है?",
+      "answer": "मीराबाई की भक्ति माधुर्य भाव और दास्य भाव की है।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "कृष्ण के अन्य दो नाम बताइए जो पद में आए हैं।",
+      "answer": "गिरिधर, गोपाल, लाल, हरि।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "मीराबाई ने संसार सागर को कैसा बताया है?",
+      "answer": "मीराबाई ने संसार सागर को विकारों (बुराइयों/कष्टों) से भरा हुआ बताया है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "होली के समय आनंद निर्मित करने वाले घटक कौन से हैं?",
+      "answer": "अणहद की झनकार (करता/पखावज), सुर राग, सील-संतोष की केसर, प्रेम-प्रीत की पिचकारी, उड़ता गुलाल।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "LONG",
+      "question": "पहले पद का भावार्थ अपने शब्दों में लिखिए।",
+      "answer": "पहले पद में मीराबाई कहती हैं कि मेरे तो केवल गिरिधर गोपाल (श्रीकृष्ण) हैं, उनके अलावा मेरा कोई नहीं है। जिनके सिर पर मोर मुकुट है, वही मेरे पति हैं। उनके लिए मैंने कुल की मर्यादा छोड़ दी है, अब कोई मेरा क्या करेगा? मैंने संतों के पास बैठ-बैठकर लोकलाज खो दी है। मैंने अपने आँसुओं के जल से सींचकर प्रेम की बेल बोई है, जिस पर अब आनंद रूपी फल लगने लगे हैं। मैंने दूध को भक्ति रूपी मथनी से बड़े प्रेम से बिलोया है और उसमें से माखन (सार तत्व/कृष्ण प्रेम) निकाल लिया है तथा छाछ (निस्सार संसार) को छोड़ दिया है। मैं भक्तों को देखकर खुश होती हूँ और सांसारिक मोह-माया में फंसे जगत को देखकर रोती हूँ। मीरा दासी प्रार्थना करती हैं कि हे गिरिधर लाल! अब आप मेरा उद्धार कीजिए।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "LONG",
+      "question": "दूसरे पद में मीराबाई ने अपनी व्यथा किस प्रकार व्यक्त की है?",
+      "answer": "दूसरे पद में मीराबाई अपनी व्यथा व्यक्त करते हुए कहती हैं कि हे हरि! आपके बिना मेरा कोई नहीं है, आप ही मेरे रक्षक (प्रतिपाल) हैं और मैं आपकी दासी हूँ। मैं दिन-रात, आदि-अंत आपका ही नाम जपती हूँ और बार-बार आपको पुकारती हूँ क्योंकि मुझे आपके दर्शन की तीव्र लालसा (आरति) है। यह संसार विकारों और दुखों का सागर है और मैं इसके बीच में घिर गई हूँ। मेरी जीवन रूपी नाव टूट गई है (फाटी), हे प्रभु! आप शीघ्र आकर पाल बाँधिए अन्यथा मेरी नाव डूब जाएगी। मैं विरहणी अपने प्रियतम की बाट जोह रही हूँ, मुझे अपने पास (नेरी) रख लीजिए। आपकी दासी मीरा सदैव आपके नाम की रट लगाती है और आपकी शरण में है।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "LONG",
+      "question": "तीसरे पद के आधार पर मीराबाई द्वारा खेली गई होली का वर्णन कीजिए।",
+      "answer": "तीसरे पद में मीराबाई अपने मन को फागुन के चार दिनों (जीवन के अल्प समय) में होली खेलने के लिए कह रही हैं। यह होली सांसारिक नहीं, बल्कि आध्यात्मिक है। इसमें बिना करताल और पखावज के ही अनहद नाद (आत्मा की आवाज) की झनकार बज रही है। बिना सुर और राग के भी रोम-रोम में श्रेष्ठ संगीत गूँज रहा है। मीराबाई ने शील और संतोष रूपी केसर घोली है और प्रेम-प्रीत की पिचकारी बनाई है। उनके द्वारा उड़ाए गए भक्ति के गुलाल से पूरा आकाश लाल हो गया है और अपार रंग बरस रहा है। उन्होंने अपने हृदय के पट खोल दिए हैं और लोकलाज छोड़ दी है। मीरा कहती हैं कि उनके गिरिधर नागर (कृष्ण) कमल के समान सुंदर हैं और वे उनके चरणों में अपना सब कुछ न्योछावर करती हैं।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "LONG",
+      "question": "संत मीराबाई की कृष्ण भक्ति की विशेषताओं पर प्रकाश डालिए।",
+      "answer": "संत मीराबाई की भक्ति अनन्य और समर्पित है। वे कृष्ण को ही अपना सब कुछ—पति, स्वामी और रक्षक मानती हैं। उनकी भक्ति में माधुर्य भाव की प्रधानता है। वे कृष्ण प्रेम के लिए समाज की परवाह नहीं करतीं और कुल की मर्यादा तथा लोकलाज का त्याग कर देती हैं। संतों का सत्संग उन्हें प्रिय है। वे संसार को निस्सार मानती हैं और केवल कृष्ण भक्ति को ही जीवन का सार (माखन) समझती हैं। उनकी भक्ति में विरह की तीव्र वेदना भी है, वे अपने प्रियतम के दर्शन के लिए व्याकुल रहती हैं और बार-बार उन्हें पुकारती हैं। वे आत्मसमर्पण (शरणागति) के भाव से कृष्ण की सेवा करना चाहती हैं।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "LONG",
+      "question": "'लोग कहे मीरा भई बावरी, न्यात कहे कुलनासी' - इस पंक्ति के संदर्भ में मीरा के प्रति समाज के दृष्टिकोण को समझाइए। (नोट: यह पंक्ति पाठ में नहीं है, लेकिन पाठ के भाव पर आधारित प्रश्न है)",
+      "answer": "पाठ में मीराबाई कहती हैं कि उन्होंने 'कुल की कानि' (मर्यादा) छोड़ दी है और संतों के पास बैठकर 'लोकलाज' खो दी है। इससे स्पष्ट होता है कि तत्कालीन समाज मीराबाई की भक्ति को स्वीकार नहीं कर पा रहा था। राजघराने की बहू होकर संतों के साथ बैठना और भजन गाना समाज की नजरों में मर्यादा का उल्लंघन था। इसलिए लोग उन्हें पागल (बावरी) और परिवार वाले उन्हें कुल का नाश करने वाली (कुलनासी) कहते थे। लेकिन मीराबाई इन निंदाओं से बेपरवाह होकर अपनी भक्ति में लीन रहीं। वे जगत को मोह-माया में फंसा देखकर रोती थीं और अपनी भक्ति के आनंद में मग्न रहती थीं।"
+    }
+  ]
+}

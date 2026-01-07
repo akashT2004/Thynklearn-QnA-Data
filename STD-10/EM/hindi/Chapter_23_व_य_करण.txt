@@ -1,0 +1,281 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.23",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "व्याकरण (Grammar)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "व्याकरण में शब्दों के कितने मुख्य भेद बताए गए हैं?",
+      "options": [
+        { "option_id": 1, "text": "दो (विकारी और अविकारी)", "is_correct": true },
+        { "option_id": 2, "text": "तीन", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाँच", "is_correct": false }
+      ],
+      "answer": "दो (विकारी और अविकारी)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "निम्नलिखित में से कौन-सा संज्ञा का भेद नहीं है?",
+      "options": [
+        { "option_id": 1, "text": "जातिवाचक", "is_correct": false },
+        { "option_id": 2, "text": "व्यक्तिवाचक", "is_correct": false },
+        { "option_id": 3, "text": "गुणवाचक", "is_correct": true },
+        { "option_id": 4, "text": "भाववाचक", "is_correct": false }
+      ],
+      "answer": "गुणवाचक"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "निजवाचक किसका भेद है?",
+      "options": [
+        { "option_id": 1, "text": "संज्ञा का", "is_correct": false },
+        { "option_id": 2, "text": "सर्वनाम का", "is_correct": true },
+        { "option_id": 3, "text": "विशेषण का", "is_correct": false },
+        { "option_id": 4, "text": "क्रिया का", "is_correct": false }
+      ],
+      "answer": "सर्वनाम का"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "विशेषण के कितने मुख्य भेद पाठ में दिए गए हैं?",
+      "options": [
+        { "option_id": 1, "text": "तीन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "पाँच", "is_correct": false },
+        { "option_id": 4, "text": "छह", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "प्रेरणार्थक और सहायक किसके भेद हैं?",
+      "options": [
+        { "option_id": 1, "text": "संज्ञा", "is_correct": false },
+        { "option_id": 2, "text": "सर्वनाम", "is_correct": false },
+        { "option_id": 3, "text": "विशेषण", "is_correct": false },
+        { "option_id": 4, "text": "क्रिया", "is_correct": true }
+      ],
+      "answer": "क्रिया"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अविकारी शब्दों को और किस नाम से जाना जाता है?",
+      "options": [
+        { "option_id": 1, "text": "उपसर्ग", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्यय", "is_correct": false },
+        { "option_id": 3, "text": "अव्यय", "is_correct": true },
+        { "option_id": 4, "text": "कारक", "is_correct": false }
+      ],
+      "answer": "अव्यय"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "निम्नलिखित में से कौन-सा अव्यय का प्रकार है?",
+      "options": [
+        { "option_id": 1, "text": "सकर्मक", "is_correct": false },
+        { "option_id": 2, "text": "समुच्चयबोधक", "is_correct": true },
+        { "option_id": 3, "text": "निश्चयवाचक", "is_correct": false },
+        { "option_id": 4, "text": "गुणवाचक", "is_correct": false }
+      ],
+      "answer": "समुच्चयबोधक"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संधि के कितने भेद बताए गए हैं?",
+      "options": [
+        { "option_id": 1, "text": "दो", "is_correct": false },
+        { "option_id": 2, "text": "तीन (स्वर, व्यंजन, विसर्ग)", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाँच", "is_correct": false }
+      ],
+      "answer": "तीन (स्वर, व्यंजन, विसर्ग)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "रचना की दृष्टि से वाक्य के कितने भेद हैं?",
+      "options": [
+        { "option_id": 1, "text": "तीन", "is_correct": true },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "पाँच", "is_correct": false },
+        { "option_id": 4, "text": "छह", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अर्थ की दृष्टि से वाक्यों के कितने प्रकार बताए गए हैं?",
+      "options": [
+        { "option_id": 1, "text": "तीन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": false },
+        { "option_id": 3, "text": "पाँच", "is_correct": false },
+        { "option_id": 4, "text": "छह", "is_correct": true }
+      ],
+      "answer": "छह"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मिश्र वाक्य किस वर्गीकरण के अंतर्गत आता है?",
+      "options": [
+        { "option_id": 1, "text": "अर्थ की दृष्टि से", "is_correct": false },
+        { "option_id": 2, "text": "रचना की दृष्टि से", "is_correct": true },
+        { "option_id": 3, "text": "काल की दृष्टि से", "is_correct": false },
+        { "option_id": 4, "text": "शब्द भेद की दृष्टि से", "is_correct": false }
+      ],
+      "answer": "रचना की दृष्टि से"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "विधानार्थक वाक्य किस वर्गीकरण का हिस्सा है?",
+      "options": [
+        { "option_id": 1, "text": "रचना की दृष्टि से", "is_correct": false },
+        { "option_id": 2, "text": "अर्थ की दृष्टि से", "is_correct": true },
+        { "option_id": 3, "text": "संधि भेद", "is_correct": false },
+        { "option_id": 4, "text": "अव्यय भेद", "is_correct": false }
+      ],
+      "answer": "अर्थ की दृष्टि से"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "क्रिया के कालों के मुख्य कितने प्रकार हैं?",
+      "options": [
+        { "option_id": 1, "text": "दो", "is_correct": false },
+        { "option_id": 2, "text": "तीन (वर्तमान, भूत, भविष्य)", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाँच", "is_correct": false }
+      ],
+      "answer": "तीन (वर्तमान, भूत, भविष्य)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "प्रत्येक काल (वर्तमान, भूत, भविष्य) के कितने उप-भेद पाठ में दिए गए हैं?",
+      "options": [
+        { "option_id": 1, "text": "दो", "is_correct": false },
+        { "option_id": 2, "text": "तीन (सामान्य, अपूर्ण, पूर्ण)", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाँच", "is_correct": false }
+      ],
+      "answer": "तीन (सामान्य, अपूर्ण, पूर्ण)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "'परिमाणवाचक' किसका एक भेद है?",
+      "options": [
+        { "option_id": 1, "text": "संज्ञा", "is_correct": false },
+        { "option_id": 2, "text": "विशेषण", "is_correct": true },
+        { "option_id": 3, "text": "सर्वनाम", "is_correct": false },
+        { "option_id": 4, "text": "क्रिया", "is_correct": false }
+      ],
+      "answer": "विशेषण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "SHORT",
+      "question": "विकारी शब्द के अंतर्गत आने वाले चार शब्द भेदों के नाम लिखिए।",
+      "answer": "विकारी शब्द के अंतर्गत संज्ञा, सर्वनाम, विशेषण और क्रिया आते हैं।"
+    },
+    {
+      "question_id": 17,
+      "question_type": "SHORT",
+      "question": "अविकारी शब्द (अव्यय) के चार प्रकार कौन-से हैं?",
+      "answer": "१. क्रियाविशेषण अव्यय, २. संबंधसूचक अव्यय, ३. समुच्चयबोधक अव्यय, ४. विस्मयादिबोधक अव्यय।"
+    },
+    {
+      "question_id": 18,
+      "question_type": "SHORT",
+      "question": "संज्ञा के पाँचों भेदों के नाम लिखिए।",
+      "answer": "जातिवाचक, व्यक्तिवाचक, भाववाचक, द्रव्यवाचक, समूहवाचक।"
+    },
+    {
+      "question_id": 19,
+      "question_type": "SHORT",
+      "question": "सर्वनाम के छह भेद कौन-से हैं?",
+      "answer": "पुरुषवाचक, निश्चयवाचक, अनिश्चयवाचक, निजवाचक, प्रश्नवाचक, संबंधवाचक।"
+    },
+    {
+      "question_id": 20,
+      "question_type": "SHORT",
+      "question": "विशेषण के मुख्य चार भेद कौन-से हैं?",
+      "answer": "गुणवाचक, परिमाणवाचक, संख्यावाचक, सार्वनामिक।"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "क्रिया के कर्म के आधार पर दो भेद कौन-से हैं?",
+      "answer": "सकर्मक और अकर्मक।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "रचना की दृष्टि से वाक्य के तीन प्रकार लिखिए।",
+      "answer": "१. साधारण (सरल) वाक्य, २. मिश्र वाक्य, ३. संयुक्त वाक्य।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "अर्थ की दृष्टि से वाक्य के कोई चार भेद लिखिए।",
+      "answer": "विधानार्थक, निषेधार्थक, प्रश्नार्थक, आज्ञार्थक (अन्य: विस्मयार्थक, संदेशसूचक)।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "संधि के तीन मुख्य प्रकार कौन-से हैं?",
+      "answer": "स्वर संधि, व्यंजन संधि और विसर्ग संधि।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "शब्द संपदा के अंतर्गत किन घटकों का अभ्यास अपेक्षित है?",
+      "answer": "शब्दों के लिंग, वचन, विलोम, पर्यायवाची, शब्दयुग्म, अनेक शब्दों के लिए एक शब्द, भिन्नार्थक शब्द, उपसर्ग-प्रत्यय आदि।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "LONG",
+      "question": "विकारी और अविकारी शब्दों (शब्द भेद) का वर्गीकरण विस्तार से लिखिए।",
+      "answer": "शब्दों को दो मुख्य वर्गों में बाँटा गया है: (१) विकारी शब्द और (२) अविकारी शब्द।\n\n**१. विकारी शब्द:** वे शब्द जिनमें लिंग, वचन या कारक के कारण परिवर्तन होता है। इनके चार भेद हैं:\n* **संज्ञा:** (जातिवाचक, व्यक्तिवाचक, भाववाचक, द्रव्यवाचक, समूहवाचक)\n* **सर्वनाम:** (पुरुषवाचक, निश्चयवाचक, अनिश्चयवाचक, निजवाचक, प्रश्नवाचक, संबंधवाचक)\n* **विशेषण:** (गुणवाचक, परिमाणवाचक, संख्यावाचक, सार्वनामिक)\n* **क्रिया:** (सकर्मक, अकर्मक, संयुक्त, प्रेरणार्थक, सहायक)\n\n**२. अविकारी शब्द (अव्यय):** वे शब्द जिनमें कोई परिवर्तन नहीं होता। इनके भी चार भेद हैं:\n* क्रियाविशेषण अव्यय\n* संबंधसूचक अव्यय\n* समुच्चयबोधक अव्यय\n* विस्मयादिबोधक अव्यय"
+    },
+    {
+      "question_id": 27,
+      "question_type": "LONG",
+      "question": "काल और उसके भेदों का विवरण दीजिए।",
+      "answer": "क्रिया के जिस रूप से कार्य के होने के समय का पता चले, उसे काल कहते हैं। इसके तीन मुख्य भेद हैं:\n\n१. **वर्तमान काल:** जो समय चल रहा है। इसके तीन उप-भेद हैं: सामान्य वर्तमान, अपूर्ण वर्तमान, पूर्ण वर्तमान।\n\n२. **भूतकाल:** जो समय बीत चुका है। इसके भी तीन उप-भेद हैं: सामान्य भूत, अपूर्ण भूत, पूर्ण भूत।\n\n३. **भविष्य काल:** जो समय आने वाला है। इसके भी तीन उप-भेद हैं: सामान्य भविष्य, अपूर्ण भविष्य, पूर्ण भविष्य।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "LONG",
+      "question": "वाक्य के भेदों को 'रचना' और 'अर्थ' की दृष्टि से स्पष्ट कीजिए।",
+      "answer": "वाक्यों को दो आधारों पर वर्गीकृत किया गया है:\n\n**१. रचना की दृष्टि से:**\n* **साधारण (सरल) वाक्य:** जिसमें एक ही मुख्य क्रिया हो।\n* **मिश्र वाक्य:** जिसमें एक प्रधान और एक या अधिक आश्रित उपवाक्य हों।\n* **संयुक्त वाक्य:** जिसमें दो या अधिक स्वतंत्र वाक्य समुच्चयबोधक अव्यय से जुड़े हों।\n\n**२. अर्थ की दृष्टि से:**\n* **विधानार्थक:** सामान्य जानकारी देने वाला।\n* **निषेधार्थक:** न होने का भाव।\n* **प्रश्नार्थक:** प्रश्न पूछने वाला।\n* **आज्ञार्थक:** आज्ञा या आदेश देने वाला।\n* **विस्मयार्थक:** आश्चर्य या भाव प्रकट करने वाला।\n* **संदेशसूचक:** संदेह या संभावना प्रकट करने वाला।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "LONG",
+      "question": "व्याकरण विभाग में दिए गए अन्य महत्त्वपूर्ण घटकों (मुहावरे, कारक, विरामचिह्न आदि) की सूची बनाइए।",
+      "answer": "शब्द भेदों और वाक्यों के अलावा, व्याकरण विभाग में निम्नलिखित महत्त्वपूर्ण घटक शामिल हैं:\n\n* **मुहावरे:** भाषा को प्रभावी बनाने के लिए।\n* **वाक्य शुद्धीकरण:** वाक्यों में होने वाली अशुद्धियों को सुधारना।\n* **सहायक क्रिया:** मुख्य क्रिया की सहायता करने वाली क्रिया को पहचानना।\n* **प्रेरणार्थक क्रिया:** कर्ता स्वयं कार्य न करके किसी और को प्रेरित करे।\n* **कारक:** संज्ञा या सर्वनाम का क्रिया से संबंध बताने वाले चिह्न।\n* **विरामचिह्न:** वाक्यों में ठहराव या भाव स्पष्ट करने वाले चिह्न।\n* **शब्द संपदा:** लिंग, वचन, विलोम, पर्यायवाची, शब्दयुग्म, उपसर्ग, प्रत्यय, कृदंत, तद्धित आदि का ज्ञान।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "LONG",
+      "question": "विशेषण के भेदों का सोदाहरण वर्गीकरण कीजिए (पाठ्यक्रमानुसार)।",
+      "answer": "पाठ्यक्रम के अनुसार विशेषण के चार मुख्य भेद हैं:\n\n१. **गुणवाचक विशेषण:** जो संज्ञा या सर्वनाम के गुण, दोष, रंग, रूप आदि बताए।\n\n२. **परिमाणवाचक विशेषण:** जो मात्रा या नाप-तौल बताए। इसके दो उप-भेद हैं:\n   * निश्चित परिमाणवाचक\n   * अनिश्चित परिमाणवाचक\n\n३. **संख्यावाचक विशेषण:** जो संख्या का बोध कराए। इसके भी दो उप-भेद हैं:\n   * निश्चित संख्यावाचक\n   * अनिश्चित संख्यावाचक\n\n४. **सार्वनामिक विशेषण:** जो सर्वनाम शब्द संज्ञा से पहले आकर विशेषण का कार्य करे।"
+    }
+  ]
+}

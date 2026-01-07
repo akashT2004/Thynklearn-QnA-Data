@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.22",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "समता की ओर"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'समता की ओर' कविता के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "जयशंकर प्रसाद", "is_correct": false },
+        { "option_id": 2, "text": "मुकुटधर पांडेय", "is_correct": true },
+        { "option_id": 3, "text": "निराला", "is_correct": false },
+        { "option_id": 4, "text": "महादेवी वर्मा", "is_correct": false }
+      ],
+      "answer": "मुकुटधर पांडेय"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "किस ऋतु के बीतने पर शिशिर ऋतु आई है?",
+      "options": [
+        { "option_id": 1, "text": "वसंत", "is_correct": false },
+        { "option_id": 2, "text": "ग्रीष्म", "is_correct": false },
+        { "option_id": 3, "text": "हेमंत", "is_correct": true },
+        { "option_id": 4, "text": "वर्षा", "is_correct": false }
+      ],
+      "answer": "हेमंत"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "शिशिर ऋतु में प्रकृति कैसी हो गई है?",
+      "options": [
+        { "option_id": 1, "text": "द्युतिहीन (तेजहीन)", "is_correct": true },
+        { "option_id": 2, "text": "चमकदार", "is_correct": false },
+        { "option_id": 3, "text": "हरी-भरी", "is_correct": false },
+        { "option_id": 4, "text": "सुगंधित", "is_correct": false }
+      ],
+      "answer": "द्युतिहीन (तेजहीन)"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अवनि (धरती) में क्या छाया हुआ है?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "कुंझटिका (धुंध)", "is_correct": true },
+        { "option_id": 3, "text": "जल", "is_correct": false },
+        { "option_id": 4, "text": "अंधकार", "is_correct": false }
+      ],
+      "answer": "कुंझटिका (धुंध)"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ताल में क्या बिलखाते हैं?",
+      "options": [
+        { "option_id": 1, "text": "मछलियाँ", "is_correct": false },
+        { "option_id": 2, "text": "मेंढक", "is_correct": false },
+        { "option_id": 3, "text": "पद्मदल (कमल के पत्ते/फूल)", "is_correct": true },
+        { "option_id": 4, "text": "हंस", "is_correct": false }
+      ],
+      "answer": "पद्मदल (कमल के पत्ते/फूल)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवि ने तुषार (बर्फ/ओस) के गिरने की तुलना किससे की है?",
+      "options": [
+        { "option_id": 1, "text": "फूलों की वर्षा से", "is_correct": false },
+        { "option_id": 2, "text": "अन्यायी नृप (राजा) के दंडों से", "is_correct": true },
+        { "option_id": 3, "text": "माता के आशीर्वाद से", "is_correct": false },
+        { "option_id": 4, "text": "मित्र के उपहार से", "is_correct": false }
+      ],
+      "answer": "अन्यायी नृप (राजा) के दंडों से"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रात में बाहर कौन चिल्लाकर रोते हैं?",
+      "options": [
+        { "option_id": 1, "text": "बच्चे", "is_correct": false },
+        { "option_id": 2, "text": "पक्षी", "is_correct": false },
+        { "option_id": 3, "text": "श्वान और स्यार", "is_correct": true },
+        { "option_id": 4, "text": "चौकीदार", "is_correct": false }
+      ],
+      "answer": "श्वान और स्यार"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चंद्रमा ने कैसा रंग पाया है?",
+      "options": [
+        { "option_id": 1, "text": "लाल", "is_correct": false },
+        { "option_id": 2, "text": "पांडुवर्ण (पीला)", "is_correct": true },
+        { "option_id": 3, "text": "नीला", "is_correct": false },
+        { "option_id": 4, "text": "काला", "is_correct": false }
+      ],
+      "answer": "पांडुवर्ण (पीला)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शिशिर के सारे दुख किसके मत्थे पड़े हैं?",
+      "options": [
+        { "option_id": 1, "text": "धनियों के", "is_correct": false },
+        { "option_id": 2, "text": "दीन-दरिद्रों के", "is_correct": true },
+        { "option_id": 3, "text": "नेताओं के", "is_correct": false },
+        { "option_id": 4, "text": "कवियों के", "is_correct": false }
+      ],
+      "answer": "दीन-दरिद्रों के"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "धनियों को रात-दिन क्या है?",
+      "options": [
+        { "option_id": 1, "text": "चिंता", "is_correct": false },
+        { "option_id": 2, "text": "मौज", "is_correct": true },
+        { "option_id": 3, "text": "दुख", "is_correct": false },
+        { "option_id": 4, "text": "डर", "is_correct": false }
+      ],
+      "answer": "मौज"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "गरीबों को खाने के लिए क्या नहीं मिलता?",
+      "options": [
+        { "option_id": 1, "text": "हलवा-पूड़ी", "is_correct": false },
+        { "option_id": 2, "text": "सूखी रोटी और भाजी", "is_correct": true },
+        { "option_id": 3, "text": "दूध-मलाई", "is_correct": false },
+        { "option_id": 4, "text": "फल", "is_correct": false }
+      ],
+      "answer": "सूखी रोटी और भाजी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अमीरों के शरीर पर क्या होते हैं?",
+      "options": [
+        { "option_id": 1, "text": "फटे कपड़े", "is_correct": false },
+        { "option_id": 2, "text": "रंगीन कीमती शाल-दुशाले", "is_correct": true },
+        { "option_id": 3, "text": "सूती वस्त्र", "is_correct": false },
+        { "option_id": 4, "text": "कंबल", "is_correct": false }
+      ],
+      "answer": "रंगीन कीमती शाल-दुशाले"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "गरीबों के कंपित बदनों पर क्या गिरते हैं?",
+      "options": [
+        { "option_id": 1, "text": "फूल", "is_correct": false },
+        { "option_id": 2, "text": "नित पाले (बर्फ)", "is_correct": true },
+        { "option_id": 3, "text": "धूप", "is_correct": false },
+        { "option_id": 4, "text": "वर्षा", "is_correct": false }
+      ],
+      "answer": "नित पाले (बर्फ)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "गरीबों के घरों की स्थिति कैसी बताई गई है?",
+      "options": [
+        { "option_id": 1, "text": "सुघर", "is_correct": false },
+        { "option_id": 2, "text": "टूटे-फूटे", "is_correct": true },
+        { "option_id": 3, "text": "महल जैसे", "is_correct": false },
+        { "option_id": 4, "text": "पक्के", "is_correct": false }
+      ],
+      "answer": "टूटे-फूटे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पहले प्रकृति हमारी कैसी थी?",
+      "options": [
+        { "option_id": 1, "text": "शत्रु सम", "is_correct": false },
+        { "option_id": 2, "text": "माता सम", "is_correct": true },
+        { "option_id": 3, "text": "दासी सम", "is_correct": false },
+        { "option_id": 4, "text": "अजनबी सम", "is_correct": false }
+      ],
+      "answer": "माता सम"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भाई का भाई पर क्या होना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "अत्याचार", "is_correct": false },
+        { "option_id": 2, "text": "अधिकार", "is_correct": true },
+        { "option_id": 3, "text": "क्रोध", "is_correct": false },
+        { "option_id": 4, "text": "संदेह", "is_correct": false }
+      ],
+      "answer": "अधिकार"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मुकुटधर पांडेय किस वाद के प्रतिष्ठित कवि हैं?",
+      "options": [
+        { "option_id": 1, "text": "छायावाद", "is_correct": true },
+        { "option_id": 2, "text": "प्रगतिवाद", "is_correct": false },
+        { "option_id": 3, "text": "प्रयोगवाद", "is_correct": false },
+        { "option_id": 4, "text": "भक्तिवाद", "is_correct": false }
+      ],
+      "answer": "छायावाद"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'द्युतिहीन' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "बहुत चमकीला", "is_correct": false },
+        { "option_id": 2, "text": "तेजहीन", "is_correct": true },
+        { "option_id": 3, "text": "रंगीन", "is_correct": false },
+        { "option_id": 4, "text": "अंधेरा", "is_correct": false }
+      ],
+      "answer": "तेजहीन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'स्यार' शब्द का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "शेर", "is_correct": false },
+        { "option_id": 2, "text": "कुत्ता", "is_correct": false },
+        { "option_id": 3, "text": "गीदड़", "is_correct": true },
+        { "option_id": 4, "text": "बिल्ली", "is_correct": false }
+      ],
+      "answer": "गीदड़"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवि का जन्म कहाँ हुआ था?",
+      "options": [
+        { "option_id": 1, "text": "रायपुर", "is_correct": false },
+        { "option_id": 2, "text": "बिलासपुर (छत्तीसगढ़)", "is_correct": true },
+        { "option_id": 3, "text": "नागपुर", "is_correct": false },
+        { "option_id": 4, "text": "कानपुर", "is_correct": false }
+      ],
+      "answer": "बिलासपुर (छत्तीसगढ़)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "कवि मुकुटधर पांडेय ने कितनी आयु से लिखना शुरू किया था?",
+      "answer": "कवि मुकुटधर पांडेय ने १२ वर्ष की अल्पायु से ही लिखना शुरू कर दिया था।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "मुकुटधर पांडेय जी की किन्हीं दो प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "'पूजाफूल', 'शैलबाला', 'लच्छमा', 'परिश्रम' आदि (कोई भी दो)।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "शिशिर ऋतु में तारे कैसे दिखाई देते हैं?",
+      "answer": "शिशिर ऋतु में तारे निपट मलीन (धुंधले) दिखाई देते हैं।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "शून्य गगन मंडल को देखकर मन में क्या होता है?",
+      "answer": "शून्य गगन मंडल को देखकर मन में भय उत्पन्न होता है।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "धनियों के 'पौ-बारे' हैं, इसका क्या अर्थ है?",
+      "answer": "इसका अर्थ है कि धनियों को रात-दिन मौज-मस्ती और लाभ ही लाभ है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "दीन-दरिद्रों के घरों में क्या छाई रहती है?",
+      "answer": "दीन-दरिद्रों के टूटे-फूटे घरों में सदा उदासी छाई रहती है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "कवि के अनुसार अमीरों को किसके बारे में विचार करना चाहिए?",
+      "answer": "कवि के अनुसार अमीरों को अपने गरीब भाइयों की भलाई के बारे में विचार करना चाहिए।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "शिशिर ऋतु में धरती पर क्या परिवर्तन होता है?",
+      "answer": "धरती पर कोहरा (कुंझटिका) छा जाता है और खूब तुषार (पाला) पड़ता है।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "तालाबों में कमल की क्या दशा होती है?",
+      "answer": "तालाबों में कमल के दल (पंखुड़ियाँ) ठंड और पाले के कारण बिलखाते (मुरझाते) हैं।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "धनी लोग खाने में क्या खाते हैं?",
+      "answer": "धनी लोग खाने में हलवा-पूड़ी और ताजी दूध-मलाई खाते हैं।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "गरीबों के शरीर ठंड में कैसे होते हैं?",
+      "answer": "गरीबों के शरीर ठंड में कांपते (कंपित) रहते हैं।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "कवि ने प्रकृति की तुलना पहले किससे की है?",
+      "answer": "कवि ने प्रकृति की तुलना माता से की है जो सबका पालन-पोषण करती थी।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "कविता का मुख्य संदेश क्या है?",
+      "answer": "कविता का संदेश है कि धनवान और निर्धन दोनों भाई हैं, इसलिए धनवानों को गरीबों की मदद करनी चाहिए और समता की ओर बढ़ना चाहिए।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "'पांडुवर्ण' का अर्थ क्या है?",
+      "answer": "'पांडुवर्ण' का अर्थ पीला रंग है।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "अर्द्धरात्रि को आँगन में आने पर व्यक्ति को कैसा लगता है?",
+      "answer": "अर्द्धरात्रि को आँगन में आने पर शून्य आकाश को देखकर व्यक्ति डर जाता है।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "चंद्रमा की स्थिति शिशिर में कैसी हो गई है?",
+      "answer": "चंद्रमा का रंग पीला (पांडुवर्ण) पड़ गया है, मानो उस पर कोई कष्ट आया हो।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "'कुंझटिका' शब्द का अर्थ लिखिए।",
+      "answer": "'कुंझटिका' का अर्थ धुंध या कोहरा है।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "धनी और निर्धन के घरों का अंतर बताइए।",
+      "answer": "धनियों के घर सुंदर और सुख-साधनों से भरे (सुघर) होते हैं, जबकि निर्धनों के घर टूटे-फूटे होते हैं।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कवि ने 'अन्यायी नृप के दंडों' की तुलना किससे की है?",
+      "answer": "कवि ने इसकी तुलना शिशिर ऋतु में पड़ने वाले अत्यधिक पाले/तुषार से की है जो कमल को कष्ट देता है।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "वसंत ऋतु किन अंग्रेजी महीनों में आती है?",
+      "answer": "वसंत ऋतु मार्च और अप्रैल महीनों में आती है।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "'समता की ओर' कविता का केंद्रीय भाव (Central Idea) लिखिए।",
+      "answer": "'समता की ओर' कविता में कवि मुकुटधर पांडेय ने शिशिर ऋतु की कड़ाके की ठंड का वर्णन करते हुए समाज में व्याप्त आर्थिक असमानता को दर्शाया है। कवि बताते हैं कि ठंड का प्रकोप अमीरों पर नहीं होता क्योंकि उनके पास सुख-सुविधाएँ, गर्म कपड़े और अच्छा भोजन है। इसके विपरीत, गरीब ठंड में ठिठुरते हैं, उनके पास न तो अच्छे घर हैं, न गर्म कपड़े और न ही भरपेट भोजन। कवि का मुख्य उद्देश्य पाठकों, विशेषकर धनी वर्ग को यह समझाना है कि गरीब भी उनके भाई हैं और एक भाई का दूसरे पर अधिकार होता है, इसलिए हमें समता की भावना अपनाकर उनकी मदद करनी चाहिए।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "शिशिर ऋतु में प्रकृति और वातावरण में होने वाले परिवर्तनों का वर्णन कविता के आधार पर कीजिए।",
+      "answer": "शिशिर ऋतु के आगमन पर प्रकृति की चमक फीकी पड़ जाती है (द्युतिहीन)। धरती पर घना कोहरा (कुंझटिका) छा जाता है। तालाबों में अत्यधिक पाला पड़ने से कमल के फूल मुरझा जाते हैं। रात के समय लोग ठंड से बचने के लिए घरों में सो जाते हैं, जबकि बाहर कुत्ते और सियार ठंड के कारण रोते-चिल्लाते हैं। आकाश सूना और डरावना लगता है। तारे धुंधले हो जाते हैं और चंद्रमा का रंग पीला पड़ जाता है, जैसे किसी राज्य पर कोई राष्ट्रीय संकट आ गया हो।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "कवि ने धनियों और दीन-दरिद्रों की जीवन शैली में क्या अंतर स्पष्ट किया है?",
+      "answer": "कवि ने दोनों वर्गों की जीवन शैली में गहरा अंतर दिखाया है। धनी लोग रात-दिन मौज करते हैं। वे हलवा-पूड़ी और ताजी दूध-मलाई जैसे स्वादिष्ट व्यंजन खाते हैं। वे ठंड से बचने के लिए कीमती रंगीन शाल-दुशाले ओढ़ते हैं और सुख-साधनों से संपन्न सुंदर घरों में रहते हैं। दूसरी ओर, दीन-दरिद्रों के हिस्से में केवल दुख आता है। उन्हें सूखी रोटी और भाजी भी नसीब नहीं होती। वे फटे-पुराने कपड़ों में ठंड से कांपते हैं और उनके घर टूटे-फूटे होते हैं जहाँ हमेशा उदासी छाई रहती है।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "'भाई पर भाई का कुछ अधिकार नहीं क्या होगा' पंक्ति का आशय स्पष्ट कीजिए।",
+      "answer": "इस पंक्ति के माध्यम से कवि मानवता और बंधुत्व की भावना को जगाना चाहते हैं। कवि का मानना है कि सभी मनुष्य ईश्वर की संतान हैं और इस नाते वे आपस में भाई-भाई हैं। जिस प्रकार एक परिवार में भाई का दूसरे भाई पर अधिकार होता है और वे एक-दूसरे की मदद करते हैं, उसी प्रकार समाज में संपन्न वर्ग को विपन्न वर्ग को अपना भाई समझना चाहिए। अमीरों का कर्तव्य है कि वे गरीबों के दुख-दर्द को समझें और उनकी सहायता करें। यह पंक्ति सामाजिक समता और परस्पर सहयोग की वकालत करती है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "कवि मुकुटधर पांडेय के अनुसार पहले प्रकृति का व्यवहार कैसा था?",
+      "answer": "कवि के अनुसार, प्राचीन काल में या पहले के समय में, हमें पेट भरने (उदर) की चिंता कभी नहीं सताती थी। उस समय प्रकृति का व्यवहार हमारे प्रति एक माता के समान था। जैसे एक माँ अपने बच्चे का पालन-पोषण करती है और उसकी जरूरतों का ध्यान रखती है, वैसे ही प्रकृति हमें फल-फूल और अन्न प्रदान करती थी। जीवन सरल था और प्रकृति हमारी पालक थी, जिससे जीवनयापन की इतनी कठिन समस्या नहीं थी जितनी अब दीन-दरिद्रों को झेलनी पड़ रही है।"
+    }
+  ]
+}

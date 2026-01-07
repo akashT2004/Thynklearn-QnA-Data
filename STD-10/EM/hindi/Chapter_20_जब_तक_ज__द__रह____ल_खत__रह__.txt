@@ -1,0 +1,491 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.09",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "जब तक जिंदा रहूँ, लिखता रहूँ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "इस पाठ की विधा क्या है?",
+      "options": [
+        { "option_id": 1, "text": "कहानी", "is_correct": false },
+        { "option_id": 2, "text": "निबंध", "is_correct": false },
+        { "option_id": 3, "text": "साक्षात्कार (इंटरव्यू)", "is_correct": true },
+        { "option_id": 4, "text": "एकांकी", "is_correct": false }
+      ],
+      "answer": "साक्षात्कार (इंटरव्यू)"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "साक्षात्कार लेने वाले (इंटरव्यूअर) कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "अमृतलाल नागर", "is_correct": false },
+        { "option_id": 2, "text": "विश्वनाथ प्रसाद तिवारी", "is_correct": true },
+        { "option_id": 3, "text": "रामविलास शर्मा", "is_correct": false },
+        { "option_id": 4, "text": "प्रेमचंद", "is_correct": false }
+      ],
+      "answer": "विश्वनाथ प्रसाद तिवारी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अमृतलाल नागर जी का पहला मित्र कौन था?",
+      "options": [
+        { "option_id": 1, "text": "किताबें", "is_correct": false },
+        { "option_id": 2, "text": "छापे का अक्षर", "is_correct": true },
+        { "option_id": 3, "text": "पेन", "is_correct": false },
+        { "option_id": 4, "text": "पिताजी", "is_correct": false }
+      ],
+      "answer": "छापे का अक्षर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "नागर जी के घर में कौन-सी दो पत्रिकाएँ आती थीं?",
+      "options": [
+        { "option_id": 1, "text": "हंस और जागरण", "is_correct": false },
+        { "option_id": 2, "text": "सरस्वती और गृहलक्ष्मी", "is_correct": true },
+        { "option_id": 3, "text": "चाँद और माधुरी", "is_correct": false },
+        { "option_id": 4, "text": "धर्मयुग और सारिका", "is_correct": false }
+      ],
+      "answer": "सरस्वती और गृहलक्ष्मी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "नागर जी ने किसका साहित्य पढ़ा था?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमचंद और कौशिक", "is_correct": true },
+        { "option_id": 2, "text": "दिनकर और निराला", "is_correct": false },
+        { "option_id": 3, "text": "प्रसाद और पंत", "is_correct": false },
+        { "option_id": 4, "text": "वर्मा और भारती", "is_correct": false }
+      ],
+      "answer": "प्रेमचंद और कौशिक"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "'देशी और विलायती' कहानी संग्रह के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "बंकिमचंद्र", "is_correct": false },
+        { "option_id": 2, "text": "शरतचंद्र", "is_correct": false },
+        { "option_id": 3, "text": "प्रभातकुमार मुखोपाध्याय", "is_correct": true },
+        { "option_id": 4, "text": "अमृतलाल नागर", "is_correct": false }
+      ],
+      "answer": "प्रभातकुमार मुखोपाध्याय"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "नागर जी की पहली कविता किस घटना से प्रेरित होकर फूटी?",
+      "options": [
+        { "option_id": 1, "text": "जलियाँवाला बाग हत्याकांड", "is_correct": false },
+        { "option_id": 2, "text": "साइमन कमीशन के बहिष्कार", "is_correct": true },
+        { "option_id": 3, "text": "चौरी-चौरा कांड", "is_correct": false },
+        { "option_id": 4, "text": "नमक सत्याग्रह", "is_correct": false }
+      ],
+      "answer": "साइमन कमीशन के बहिष्कार"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नागर जी की पहली कविता कब रची गई?",
+      "options": [
+        { "option_id": 1, "text": "१९३३ में", "is_correct": false },
+        { "option_id": 2, "text": "१९२८-१९२९ में", "is_correct": true },
+        { "option_id": 3, "text": "१९४४ में", "is_correct": false },
+        { "option_id": 4, "text": "१९३० में", "is_correct": false }
+      ],
+      "answer": "१९२८-१९२९ में"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "नागर जी की पहली छपी हुई कहानी का नाम क्या है?",
+      "options": [
+        { "option_id": 1, "text": "प्रायश्चित", "is_correct": false },
+        { "option_id": 2, "text": "शकुन", "is_correct": false },
+        { "option_id": 3, "text": "अपशकुन", "is_correct": true },
+        { "option_id": 4, "text": "महाकाल", "is_correct": false }
+      ],
+      "answer": "अपशकुन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "'अपशकुन' कहानी किस वर्ष छपी?",
+      "options": [
+        { "option_id": 1, "text": "१९२९", "is_correct": false },
+        { "option_id": 2, "text": "१९३०", "is_correct": false },
+        { "option_id": 3, "text": "१९३३", "is_correct": true },
+        { "option_id": 4, "text": "१९४४", "is_correct": false }
+      ],
+      "answer": "१९३३"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "नागर जी के पिताजी किस प्रकार के कर्मचारी थे?",
+      "options": [
+        { "option_id": 1, "text": "प्राइवेट", "is_correct": false },
+        { "option_id": 2, "text": "सरकारी", "is_correct": true },
+        { "option_id": 3, "text": "सेना के", "is_correct": false },
+        { "option_id": 4, "text": "रेलवे के", "is_correct": false }
+      ],
+      "answer": "सरकारी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "नागर जी की लेखन शैली को किसने प्रभावित किया?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमचंद", "is_correct": false },
+        { "option_id": 2, "text": "चंडीप्रसाद हृदयेश", "is_correct": true },
+        { "option_id": 3, "text": "शरतचंद्र", "is_correct": false },
+        { "option_id": 4, "text": "मन्नन द्विवेदी", "is_correct": false }
+      ],
+      "answer": "चंडीप्रसाद हृदयेश"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "नागर जी को आंदोलनों में भाग लेने से किसने रोका?",
+      "options": [
+        { "option_id": 1, "text": "माताजी ने", "is_correct": false },
+        { "option_id": 2, "text": "पिताजी ने", "is_correct": true },
+        { "option_id": 3, "text": "मित्रों ने", "is_correct": false },
+        { "option_id": 4, "text": "अंग्रेजों ने", "is_correct": false }
+      ],
+      "answer": "पिताजी ने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नागर जी की जवाहरलाल नेहरू से भेंट कब हुई?",
+      "options": [
+        { "option_id": 1, "text": "१९३३ में", "is_correct": true },
+        { "option_id": 2, "text": "१९४२ में", "is_correct": false },
+        { "option_id": 3, "text": "१९४७ में", "is_correct": false },
+        { "option_id": 4, "text": "१९३० में", "is_correct": false }
+      ],
+      "answer": "१९३३ में"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "नेहरू जी की माँ कहाँ दाखिल थीं?",
+      "options": [
+        { "option_id": 1, "text": "घर पर", "is_correct": false },
+        { "option_id": 2, "text": "जेल में", "is_correct": false },
+        { "option_id": 3, "text": "मेडिकल कॉलेज में", "is_correct": true },
+        { "option_id": 4, "text": "आश्रम में", "is_correct": false }
+      ],
+      "answer": "मेडिकल कॉलेज में"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "नागर जी का पहला उपन्यास कौन-सा है?",
+      "options": [
+        { "option_id": 1, "text": "बूँद और समुद्र", "is_correct": false },
+        { "option_id": 2, "text": "महाकाल", "is_correct": true },
+        { "option_id": 3, "text": "खंजन नयन", "is_correct": false },
+        { "option_id": 4, "text": "मानस का हंस", "is_correct": false }
+      ],
+      "answer": "महाकाल"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "'महाकाल' उपन्यास बाद में किस नाम से प्रकाशित हुआ?",
+      "options": [
+        { "option_id": 1, "text": "प्यास", "is_correct": false },
+        { "option_id": 2, "text": "भूख", "is_correct": true },
+        { "option_id": 3, "text": "दुख", "is_correct": false },
+        { "option_id": 4, "text": "संघर्ष", "is_correct": false }
+      ],
+      "answer": "भूख"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "माधव शुक्ल अपनी जेब में क्या रखते थे?",
+      "options": [
+        { "option_id": 1, "text": "रूमाल", "is_correct": false },
+        { "option_id": 2, "text": "कलम", "is_correct": false },
+        { "option_id": 3, "text": "जलियाँवाला बाग की खून सनी मिट्टी", "is_correct": true },
+        { "option_id": 4, "text": "गांधीजी की तस्वीर", "is_correct": false }
+      ],
+      "answer": "जलियाँवाला बाग की खून सनी मिट्टी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "नागर जी प्रतिवर्ष किससे मिलने कोलकाता जाते थे?",
+      "options": [
+        { "option_id": 1, "text": "बंकिमचंद्र", "is_correct": false },
+        { "option_id": 2, "text": "रवींद्रनाथ टैगोर", "is_correct": false },
+        { "option_id": 3, "text": "शरतचंद्र", "is_correct": true },
+        { "option_id": 4, "text": "सुभाष चंद्र बोस", "is_correct": false }
+      ],
+      "answer": "शरतचंद्र"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पुराने साहित्यकारों में नागर जी किसको अपना आदर्श मानते हैं?",
+      "options": [
+        { "option_id": 1, "text": "कबीरदास", "is_correct": false },
+        { "option_id": 2, "text": "सूरदास", "is_correct": false },
+        { "option_id": 3, "text": "तुलसीदास", "is_correct": true },
+        { "option_id": 4, "text": "वाल्मीकि", "is_correct": false }
+      ],
+      "answer": "तुलसीदास"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "'खंजन नयन' उपन्यास में किसके चमत्कारों का वर्णन है?",
+      "options": [
+        { "option_id": 1, "text": "तुलसीदास", "is_correct": false },
+        { "option_id": 2, "text": "सूरदास", "is_correct": true },
+        { "option_id": 3, "text": "कबीरदास", "is_correct": false },
+        { "option_id": 4, "text": "मीराबाई", "is_correct": false }
+      ],
+      "answer": "सूरदास"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "नागर जी के अनुसार देखने वाला कौन है?",
+      "options": [
+        { "option_id": 1, "text": "आँख", "is_correct": false },
+        { "option_id": 2, "text": "चश्मा", "is_correct": false },
+        { "option_id": 3, "text": "मन", "is_correct": true },
+        { "option_id": 4, "text": "मस्तिष्क", "is_correct": false }
+      ],
+      "answer": "मन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "नागर जी ने कहाँ से कहाँ तक यात्रा की?",
+      "options": [
+        { "option_id": 1, "text": "दिल्ली से मुंबई", "is_correct": false },
+        { "option_id": 2, "text": "पेशावर से कन्याकुमारी", "is_correct": true },
+        { "option_id": 3, "text": "लखनऊ से कोलकाता", "is_correct": false },
+        { "option_id": 4, "text": "गुजरात से असम", "is_correct": false }
+      ],
+      "answer": "पेशावर से कन्याकुमारी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "अपने समय के लेखकों में नागर जी किसे सबसे अधिक पसंद करते हैं?",
+      "options": [
+        { "option_id": 1, "text": "प्रेमचंद", "is_correct": false },
+        { "option_id": 2, "text": "जैनेंद्र", "is_correct": false },
+        { "option_id": 3, "text": "रामविलास शर्मा", "is_correct": true },
+        { "option_id": 4, "text": "अज्ञेय", "is_correct": false }
+      ],
+      "answer": "रामविलास शर्मा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "'नाच्यो बहुत गोपाल' उपन्यास के लिए नागर जी ने कहाँ का फील्डवर्क किया?",
+      "options": [
+        { "option_id": 1, "text": "किसानों के गाँवों का", "is_correct": false },
+        { "option_id": 2, "text": "सफाई कर्मियों की बस्तियों का", "is_correct": true },
+        { "option_id": 3, "text": "आदिवासी क्षेत्रों का", "is_correct": false },
+        { "option_id": 4, "text": "जेलों का", "is_correct": false }
+      ],
+      "answer": "सफाई कर्मियों की बस्तियों का"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "नागर जी के लेखन के आदर्श कौन थे?",
+      "answer": "नागर जी का कोई विशिष्ट आदर्श नहीं था; उन्होंने केवल पढ़ने के आनंद के लिए लिखना शुरू किया।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "नागर जी की पहली कविता किस अनुभव से फूटी थी?",
+      "answer": "नागर जी की पहली कविता साइमन कमीशन के बहिष्कार के दौरान हुए लाठीचार्ज के अनुभव से फूटी थी।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "१९२९ के बाद नागर जी की रुचि किन कार्यों में बढ़ी?",
+      "answer": "१९२९ के बाद नागर जी की रुचि पढ़ने और सामाजिक कार्यों में बढ़ी।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "नागर जी के पिताजी का कौन-सा गुण उन्हें प्रभावित करता था?",
+      "answer": "उनके पिताजी किसी के भी दुख-दर्द में तुरंत पहुँचते थे, यह गुण नागर जी को बहुत प्रभावित करता था।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "काकोरी बमकांड कब हुआ था?",
+      "answer": "काकोरी बमकांड नागर जी के लेखन शुरू करने के समय से पहले हो चुका था, आंदोलनों के दौर में।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "नेहरू जी से नागर जी की भेंट कहाँ हुई थी?",
+      "answer": "नेहरू जी से नागर जी की भेंट मेडिकल कॉलेज में हुई थी, जब नेहरू जी जेल से छूटे थे और अपनी माँ से मिलने आए थे।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "नागर जी का पहला उपन्यास 'महाकाल' कब लिखा और कब छपा?",
+      "answer": "यह उपन्यास १९४४ में लिखा गया और १९४६ में छपा।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "'महाकाल' उपन्यास किस पृष्ठभूमि पर लिखा गया था?",
+      "answer": "यह उपन्यास बंगाल से लौटने के बाद वहाँ की परिस्थितियों (संभवतः अकाल) की पृष्ठभूमि पर लिखा गया था।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "नागर जी के संपर्क में आने वाले कुछ प्रमुख लेखकों के नाम लिखिए।",
+      "answer": "जगन्नाथदास रत्नाकर, गोपाल राय गहमरी, प्रेमचंद, किशोरी लाल गोस्वामी, लक्ष्मीधर वाजपेयी आदि।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "माधव शुक्ल का पहनावा कैसा था?",
+      "answer": "वे आजानुबाहु थे और ढीला कुरता पहनते थे।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "नागर जी के बाबा उनसे नित्य क्या पढ़वाते थे?",
+      "answer": "नागर जी के बाबा उनसे नित्य 'रामचरितमानस' पढ़वाते थे और श्लोक याद करवाते थे।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "सूरदास के बारे में क्या विवाद था?",
+      "answer": "सूरपंचशती के अवसर पर यह विवाद था कि सूरदास जन्मांध थे या नहीं।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "आँख और मन के संबंध में नागर जी का क्या विचार है?",
+      "answer": "नागर जी मानते हैं कि आँख केवल एक माध्यम है, असली देखने वाला तो मन है।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "नागर जी को अपनी यात्राओं से क्या लाभ हुआ?",
+      "answer": "यात्राओं से उन्हें विभिन्न चरित्र (कैरेक्टर) देखने को मिले और उनके मनोविज्ञान को समझने का मौका मिला।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "नागर जी को किन विदेशी लेखकों की रचनाएँ पसंद हैं?",
+      "answer": "उन्हें टॉल्स्टॉय और चेखव की रचनाएँ प्रिय हैं।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "नागर जी ने किस उपन्यास के लिए बहुत लोगों से मिलना-जुलना पड़ा?",
+      "answer": "'गदर के फूल' उपन्यास के लिए उन्हें बहुत लोगों से मिलना-जुलना पड़ा।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "मन और प्राण के बारे में नागर जी क्या कहते हैं?",
+      "answer": "वे कहते हैं कि प्राण को मन से अलग करना पड़ेगा; मन निर्मल जल जैसा है और वह प्राण से ही सधता है।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "'इंट्यूटिव आई' कब बनती है?",
+      "answer": "जब पूरी प्राणशक्ति एक जगह केंद्रित होती है, तब 'इंट्यूटिव आई' बनती है।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "पत्नी की मृत्यु के बाद नागर जी की क्या स्थिति थी?",
+      "answer": "पत्नी की मृत्यु के बाद उनमें एक टूटन आ गई थी, लेकिन फिर उन्होंने सोचा कि लिखने के सिवा और कोई चारा नहीं है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "नागर जी अपने प्रशंसकों से क्या कामना करते हैं?",
+      "answer": "वे कामना करते हैं कि लोग यह मनाएँ कि जब तक वे जिंदा रहें, लिखते रहें।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "नागर जी के पिताजी ने उन्हें आंदोलनों में जाने से क्यों रोका?",
+      "answer": "क्योंकि वे सरकारी कर्मचारी थे और उस समय काकोरी कांड जैसे क्रांतिकारी आंदोलन हो रहे थे।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "नागर जी की पहली कहानी 'प्रायश्चित' किसका प्रमाण है?",
+      "answer": "यह उनके लेखन में गरीबों के प्रति करुणा का प्रमाण है, जो समाज और पारिवारिक संस्कारों से उभरी थी।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "आरंभ में नागर जी ने किन कवियों को पढ़ा?",
+      "answer": "उन्होंने सनेही जी और अयोध्यासिंह उपाध्याय की कविताएँ पढ़ीं।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "बंकिम के उपन्यास नागर जी ने कब पढ़े?",
+      "answer": "बंकिम के उपन्यास उन्होंने १९३० में ही पढ़ डाले थे।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "साक्षात्कार पाठ 'जब तक जिंदा रहूँ...' किस पुस्तक से लिया गया है?",
+      "answer": "यह पाठ 'एक नाव के यात्री' से लिया गया है।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "LONG",
+      "question": "नागर जी के लेखन के आरंभिक काल और उनकी प्रेरणा के स्रोतों का वर्णन कीजिए।",
+      "answer": "नागर जी ने लिखने से पहले पढ़ना शुरू किया था। उनके घर में 'सरस्वती' और 'गृहलक्ष्मी' पत्रिकाएँ आती थीं। उन्होंने सनेही जी, अयोध्यासिंह उपाध्याय, प्रेमचंद, बंकिमचंद्र आदि को पढ़ा। १९२८-२९ में साइमन कमीशन के बहिष्कार के दौरान हुए लाठीचार्ज के अनुभव ने उन्हें लिखने के लिए प्रेरित किया। उनकी पहली कविता 'कब लौं कहौं लाठी खाय' इसी घटना से फूटी। इस प्रकार, सामाजिक हलचल और पठन-पाठन ने उनके लेखन की नींव रखी।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "LONG",
+      "question": "नागर जी पर उनके पिताजी के प्रभाव के बारे में लिखिए।",
+      "answer": "नागर जी के पिताजी एक सरकारी कर्मचारी थे। उन्होंने नागर जी को राजनीतिक आंदोलनों में भाग लेने से रोका, जिसका नागर जी के लेखन पर सकारात्मक प्रभाव पड़ा। पिताजी में एक अद्भुत गुण था कि वे किसी के भी दुख-दर्द में तुरंत मदद के लिए पहुँचते थे। इस गुण ने नागर जी को बहुत प्रभावित किया और उनके लेखन में गरीबों के प्रति करुणा का भाव इसी संस्कार से आया। पिताजी ने उन्हें सामाजिक आंदोलनों (जैसे आर्य समाज) में जाने से कभी नहीं रोका।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "LONG",
+      "question": "नागर जी के साहित्यिक संपर्कों और समकालीन लेखकों के साथ उनके संबंधों पर प्रकाश डालिए।",
+      "answer": "नागर जी अपने समय के कई महान साहित्यकारों के संपर्क में रहे। जगन्नाथदास रत्नाकर, प्रेमचंद, और शरतचंद्र जैसे दिग्गजों से उनका मिलना-जुलना था। वे १९३१ से १९३७ तक हर साल शरतचंद्र से मिलने कोलकाता जाते थे। माधव शुक्ल, जो जलियाँवाला बाग की मिट्टी अपनी जेब में रखते थे, उनके घर आते थे। समकालीन लेखकों में वे रामविलास शर्मा को बहुत पसंद करते थे और उन्हें प्यार करते थे। इन संपर्कों ने उनके साहित्यिक दृष्टिकोण को समृद्ध किया।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "LONG",
+      "question": "नागर जी की यात्राओं का उनके लेखन पर क्या प्रभाव पड़ा?",
+      "answer": "नागर जी ने पेशावर से कन्याकुमारी और बंगाल से कश्मीर तक पूरे अखंड भारतवर्ष का भ्रमण किया। इन यात्राओं ने उनके लेखन को गहराई दी। यात्राओं के दौरान उन्होंने विभिन्न प्रकार के चरित्रों (कैरेक्टर्स) को देखा और उनके मनोविज्ञान को समझने का अवसर मिला। उन्होंने विभिन्न जातियों के रीति-रिवाजों का संग्रह किया। 'गदर के फूल' और 'नाच्यो बहुत गोपाल' जैसे उपन्यासों के लिए उन्होंने व्यापक फील्डवर्क और यात्राएँ कीं, जिससे उनकी रचनाएँ यथार्थवादी बन सकीं।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "LONG",
+      "question": "नागर जी के 'प्राण' और 'मन' संबंधी विचारों को स्पष्ट कीजिए।",
+      "answer": "नागर जी प्राण और मन को अलग-अलग मानते हैं। उनका कहना है कि मन की गति प्राण से आगे तक है, लेकिन प्राण को वहाँ तक खींचना पड़ता है। वे मन को एक ऐसे निर्मल जल के समान मानते हैं जिससे जीवन के संस्कार रंगे जाते हैं। मन, प्राण के द्वारा ही सधता है। जब पूरी प्राणशक्ति एक जगह केंद्रित हो जाती है, तो वह 'इंट्यूटिव आई' (अंतर्दृष्टि) का निर्माण करती है, जिससे लेखक सूरदास की तरह दसों दिशाओं में देख सकता है।"
+    }
+  ]
+}

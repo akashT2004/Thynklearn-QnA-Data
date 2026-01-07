@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.04",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "मन (पूरक पठन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'मन' कविता के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "रामधारी सिंह दिनकर", "is_correct": false },
+        { "option_id": 2, "text": "विकास परिहार", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यकांत त्रिपाठी निराला", "is_correct": false },
+        { "option_id": 4, "text": "गुलजार", "is_correct": false }
+      ],
+      "answer": "विकास परिहार"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "यह कविता किस विधा में लिखी गई है?",
+      "options": [
+        { "option_id": 1, "text": "दोहा", "is_correct": false },
+        { "option_id": 2, "text": "चौपाई", "is_correct": false },
+        { "option_id": 3, "text": "हाइकु", "is_correct": true },
+        { "option_id": 4, "text": "ग़ज़ल", "is_correct": false }
+      ],
+      "answer": "हाइकु"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हाइकु मूल रूप से किस देश की काव्य विधा है?",
+      "options": [
+        { "option_id": 1, "text": "चीन", "is_correct": false },
+        { "option_id": 2, "text": "भारत", "is_correct": false },
+        { "option_id": 3, "text": "जापान", "is_correct": true },
+        { "option_id": 4, "text": "रूस", "is_correct": false }
+      ],
+      "answer": "जापान"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हाइकु कविता कितने वर्णों के ढाँचे में लिखी जाती है?",
+      "options": [
+        { "option_id": 1, "text": "५+५+७=१७", "is_correct": false },
+        { "option_id": 2, "text": "५+७+५=१७", "is_correct": true },
+        { "option_id": 3, "text": "७+५+५=१७", "is_correct": false },
+        { "option_id": 4, "text": "५+७+७=१९", "is_correct": false }
+      ],
+      "answer": "५+७+५=१७"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "घना अँधेरा होने पर प्रकाश कैसा चमकता है?",
+      "options": [
+        { "option_id": 1, "text": "धुंधला", "is_correct": false },
+        { "option_id": 2, "text": "और अधिक", "is_correct": true },
+        { "option_id": 3, "text": "कम", "is_correct": false },
+        { "option_id": 4, "text": "लुप्त हो जाता है", "is_correct": false }
+      ],
+      "answer": "और अधिक"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवि ने जीवन भर क्या करने को कहा है?",
+      "options": [
+        { "option_id": 1, "text": "आराम", "is_correct": false },
+        { "option_id": 2, "text": "फल की चिंता", "is_correct": false },
+        { "option_id": 3, "text": "कर्म (काम)", "is_correct": true },
+        { "option_id": 4, "text": "शिकायत", "is_correct": false }
+      ],
+      "answer": "कर्म (काम)"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "जीवन नैया कहाँ डोल रही है?",
+      "options": [
+        { "option_id": 1, "text": "किनारे पर", "is_correct": false },
+        { "option_id": 2, "text": "मंझधार में", "is_correct": true },
+        { "option_id": 3, "text": "शांत जल में", "is_correct": false },
+        { "option_id": 4, "text": "हवा में", "is_correct": false }
+      ],
+      "answer": "मंझधार में"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "फागुन का महीना अपने साथ क्या लेकर आया है?",
+      "options": [
+        { "option_id": 1, "text": "बारिश", "is_correct": false },
+        { "option_id": 2, "text": "गर्मी", "is_correct": false },
+        { "option_id": 3, "text": "रंग-बिरंगे रंग", "is_correct": true },
+        { "option_id": 4, "text": "ठंड", "is_correct": false }
+      ],
+      "answer": "रंग-बिरंगे रंग"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "काँटों के बीच खिलखिलाता फूल क्या देता है?",
+      "options": [
+        { "option_id": 1, "text": "पीड़ा", "is_correct": false },
+        { "option_id": 2, "text": "प्रेरणा", "is_correct": true },
+        { "option_id": 3, "text": "सुगंध", "is_correct": false },
+        { "option_id": 4, "text": "निराशा", "is_correct": false }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भीतरी कुंठा कहाँ से बाहर आई?",
+      "options": [
+        { "option_id": 1, "text": "मुँह से", "is_correct": false },
+        { "option_id": 2, "text": "आँखों के द्वार से", "is_correct": true },
+        { "option_id": 3, "text": "कानों से", "is_correct": false },
+        { "option_id": 4, "text": "मन से", "is_correct": false }
+      ],
+      "answer": "आँखों के द्वार से"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "विषाद किससे धुल गए?",
+      "options": [
+        { "option_id": 1, "text": "गंगा जल से", "is_correct": false },
+        { "option_id": 2, "text": "मीठे जल से", "is_correct": false },
+        { "option_id": 3, "text": "खारे जल (आँसू) से", "is_correct": true },
+        { "option_id": 4, "text": "साबुन से", "is_correct": false }
+      ],
+      "answer": "खारे जल (आँसू) से"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मृत्यु को जीना और जीवन विष पीना क्या है?",
+      "options": [
+        { "option_id": 1, "text": "कायरता", "is_correct": false },
+        { "option_id": 2, "text": "मूर्खता", "is_correct": false },
+        { "option_id": 3, "text": "जिजीविषा", "is_correct": true },
+        { "option_id": 4, "text": "निराशा", "is_correct": false }
+      ],
+      "answer": "जिजीविषा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मन की पीड़ा क्या बनकर छाई?",
+      "options": [
+        { "option_id": 1, "text": "बादल", "is_correct": true },
+        { "option_id": 2, "text": "हवा", "is_correct": false },
+        { "option_id": 3, "text": "धुआँ", "is_correct": false },
+        { "option_id": 4, "text": "धूल", "is_correct": false }
+      ],
+      "answer": "बादल"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार रेल की पटरियाँ कैसी हैं?",
+      "options": [
+        { "option_id": 1, "text": "बोलती हुई", "is_correct": false },
+        { "option_id": 2, "text": "मौन", "is_correct": true },
+        { "option_id": 3, "text": "शोर करती हुई", "is_correct": false },
+        { "option_id": 4, "text": "टेढ़ी-मेढ़ी", "is_correct": false }
+      ],
+      "answer": "मौन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सितारे छिपने पर आकाश कैसा हो गया?",
+      "options": [
+        { "option_id": 1, "text": "सुंदर", "is_correct": false },
+        { "option_id": 2, "text": "भरा-पूरा", "is_correct": false },
+        { "option_id": 3, "text": "सूना", "is_correct": true },
+        { "option_id": 4, "text": "चमकदार", "is_correct": false }
+      ],
+      "answer": "सूना"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "'जिजीविषा' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "जीतने की इच्छा", "is_correct": false },
+        { "option_id": 2, "text": "जीने की इच्छा", "is_correct": true },
+        { "option_id": 3, "text": "जानने की इच्छा", "is_correct": false },
+        { "option_id": 4, "text": "मरने की इच्छा", "is_correct": false }
+      ],
+      "answer": "जीने की इच्छा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवि ने 'खारा जल' किसके लिए प्रयुक्त किया है?",
+      "options": [
+        { "option_id": 1, "text": "समुद्र के पानी के लिए", "is_correct": false },
+        { "option_id": 2, "text": "पसीने के लिए", "is_correct": false },
+        { "option_id": 3, "text": "आँसुओं के लिए", "is_correct": true },
+        { "option_id": 4, "text": "बारिश के पानी के लिए", "is_correct": false }
+      ],
+      "answer": "आँसुओं के लिए"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'मंझधार' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "किनारा", "is_correct": false },
+        { "option_id": 2, "text": "नदी के प्रवाह का मध्यभाग", "is_correct": true },
+        { "option_id": 3, "text": "सूखी नदी", "is_correct": false },
+        { "option_id": 4, "text": "पहाड़ की चोटी", "is_correct": false }
+      ],
+      "answer": "नदी के प्रवाह का मध्यभाग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवि ने गीतों को स्वर देकर क्या किया?",
+      "options": [
+        { "option_id": 1, "text": "व्यर्थ किया", "is_correct": false },
+        { "option_id": 2, "text": "बेच दिया", "is_correct": false },
+        { "option_id": 3, "text": "अमर किया", "is_correct": true },
+        { "option_id": 4, "text": "भुला दिया", "is_correct": false }
+      ],
+      "answer": "अमर किया"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सागर में रहकर भी कौन प्यासी रही?",
+      "options": [
+        { "option_id": 1, "text": "नाव", "is_correct": false },
+        { "option_id": 2, "text": "लहरें", "is_correct": false },
+        { "option_id": 3, "text": "मछली", "is_correct": true },
+        { "option_id": 4, "text": "सीप", "is_correct": false }
+      ],
+      "answer": "मछली"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "विकास परिहार का जन्म कब और कहाँ हुआ?",
+      "answer": "विकास परिहार का जन्म १९८३ में गुना (मध्य प्रदेश) में हुआ।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "हाइकु कविता की क्या विशेषता है?",
+      "answer": "हाइकु विश्व की सबसे छोटी कविता है जो ५+७+५ = १७ वर्णों के ढाँचे में लिखी जाती है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "'घना अँधेरा' हाइकु से क्या संदेश मिलता है?",
+      "answer": "जब जीवन में संकट रूपी अँधेरा घना होता है, तो आशा का प्रकाश और अधिक चमकता है।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "कवि ने जीवन के बारे में क्या दृष्टिकोण रखने को कहा है?",
+      "answer": "कवि ने कहा है कि हमें जीवन भर कर्म करते रहना चाहिए और फल पाने की अपेक्षा नहीं करनी चाहिए।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "'जीवन नैया मंझधार में' का क्या अर्थ है?",
+      "answer": "इसका अर्थ है कि जीवन अनेक संकटों और समस्याओं के बीच फँसा हुआ है और कोई सहारा देने वाला नहीं है।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "काँटों के बीच फूल क्या संदेश देता है?",
+      "answer": "काँटों (संकटों) के बीच भी फूल (मनुष्य) को खिलखिलाते (मुस्कुराते) रहना चाहिए, यह प्रेरणा देता है।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "भीतरी कुंठा कैसे बाहर आई?",
+      "answer": "मन की भीतरी कुंठा (निराशा) आँसुओं के रूप में नयनों के द्वार से बाहर निकल आई।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "खारे जल से धुलने पर मन कैसा हो गया?",
+      "answer": "खारे जल (आँसुओं) से धुलने पर मन के सारे विषाद (दुख) मिट गए और मन पावन (पवित्र) हो गया।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "जिजीविषा किसे कहते हैं?",
+      "answer": "कठिन परिस्थितियों और मृत्यु जैसे कष्टों को सहकर भी जीने की प्रबल इच्छा को जिजीविषा कहते हैं।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "मन की पीड़ा ने क्या रूप लिया?",
+      "answer": "मन की पीड़ा ने बादल का रूप लिया और वह आँखों से बरस पड़ी।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "रेल की पटरियों की क्या विशेषता बताई गई है?",
+      "answer": "रेल की पटरियाँ अनंत काल से साथ-साथ चल रही हैं, फिर भी वे एक-दूसरे से बात नहीं करतीं, वे मौन हैं।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "आकाश सूना कब लगता है?",
+      "answer": "जब सितारे बादलों की ओट (आड़) में छिप जाते हैं, तब आकाश सूना लगता है।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "मछली की प्यास क्यों नहीं बुझी?",
+      "answer": "मछली अथाह सागर में रहकर भी खारे पानी के कारण प्यासी ही रह गई (प्रतीकात्मक अर्थ: सब कुछ होते हुए भी असंतोष)।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "'कुंठा' शब्द का अर्थ लिखिए।",
+      "answer": "'कुंठा' का अर्थ है घोर निराशा।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "'विषाद' शब्द का अर्थ लिखिए।",
+      "answer": "अभिलाषा पूरी न होने पर मन में होने वाला खेद या दुख 'विषाद' कहलाता है।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कवि ने किसे अमर कर दिया?",
+      "answer": "कवि ने जिन गीतों को स्वर दिया (रचा), वे अमर हो गए।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "फागुन का महीना क्या लेकर आता है?",
+      "answer": "फागुन का महीना अपने साथ वसंत ऋतु के रंग-बिरंगे रंग और उल्लास लेकर आता है।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "कवि विकास परिहार किस क्षेत्र से जुड़े हैं?",
+      "answer": "कवि विकास परिहार वायुसेना से सेवानिवृत्ति के बाद पत्रकारिता, रेडियो और नाट्य गतिविधियों से जुड़े हैं।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "हाइकु में 'ओट' शब्द का क्या अर्थ है?",
+      "answer": "'ओट' शब्द का अर्थ है आड़ या पर्दा।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "मन कब पावन होता है?",
+      "answer": "जब दुख और विषाद आँसुओं के साथ बह जाते हैं, तब मन पावन और हल्का हो जाता है।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "'काँटों के बीच खिलखिलाता फूल देता प्रेरणा' - इस हाइकु का भावार्थ स्पष्ट कीजिए।",
+      "answer": "इस हाइकु में कवि ने फूल के माध्यम से मनुष्य को जीवन जीने की कला सिखाई है। गुलाब का फूल काँटों से घिरा होने के बावजूद हमेशा खिलखिलाता और महकता रहता है। उसी प्रकार, मनुष्य का जीवन भी संघर्षों और मुसीबतों (काँटों) से भरा हो सकता है। हमें इन मुसीबतों से घबराना नहीं चाहिए, बल्कि फूल की तरह हर परिस्थिति में खुश रहना चाहिए और दूसरों को भी खुशियाँ बाँटनी चाहिए। यह हमें विपरीत परिस्थितियों में भी हार न मानने की प्रेरणा देता है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "'खारे जल से धुल गए विषाद, मन पावन' - इस पंक्ति का अर्थ समझाइए।",
+      "answer": "मनुष्य के जीवन में जब बहुत अधिक दुख या निराशा (विषाद) होती है, तो वह रो पड़ता है। कवि कहते हैं कि आँखों से बहने वाले ये आँसू खारे होते हैं। जब हम रो लेते हैं, तो ऐसा लगता है कि इन खारे आँसुओं के साथ मन का सारा दुख और बोझ भी बह गया है। रोने के बाद मन हल्का, शांत और पवित्र हो जाता है, जैसे कि वह धुल गया हो। यह पंक्ति दुख अभिव्यक्त करने के बाद मिलने वाली मानसिक शांति का वर्णन करती है।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "'करते जाओ पाने की मत सोचो जीवन सारा' - इससे कवि क्या संदेश देना चाहते हैं?",
+      "answer": "इस हाइकु के माध्यम से कवि श्रीमद्भगवद्गीता के कर्मयोग का संदेश दे रहे हैं। वे कहते हैं कि मनुष्य को अपना पूरा जीवन कर्म करने में लगाना चाहिए। कर्म करते समय फल की अपेक्षा या लालच नहीं रखना चाहिए। यदि हम केवल पाने की सोचेंगे, तो हम अपने कर्तव्य से भटक सकते हैं और फल न मिलने पर दुखी होंगे। निस्वार्थ भाव से किया गया कर्म ही जीवन को सार्थक बनाता है और सच्ची संतुष्टि देता है।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "'भीतरी कुंठा नयनों के द्वार से आई बाहर' - स्पष्ट कीजिए।",
+      "answer": "जब मनुष्य के मन में किसी असफलता या दुख के कारण घोर निराशा (कुंठा) भर जाती है, तो उसे दबाकर रखना मुश्किल हो जाता है। ऐसे समय में वह कुंठा आँखों के रास्ते आँसुओं के रूप में बाहर निकल आती है। कवि ने आँखों को 'द्वार' (दरवाजा) कहा है जिससे मन की दबी हुई भावनाएँ बाहर आती हैं। यह एक स्वाभाविक प्रक्रिया है जिससे मन का बोझ हल्का होता है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "'मृत्यु को जीना जीवन विष पीना है जिजीविषा' - इस हाइकु का भावार्थ लिखिए।",
+      "answer": "जीवन में अनेक कष्ट, संघर्ष और अपमान रूपी 'विष' होते हैं। कई बार परिस्थितियाँ इतनी कठिन होती हैं कि जीवन मृत्यु समान लगने लगता है। परंतु, एक साहसी व्यक्ति इन सब के बावजूद जीने की इच्छा नहीं छोड़ता। वह इन संघर्षों का सामना करता है और अपमान के घूँट पीकर भी आगे बढ़ता है। इसी अदम्य जीने की इच्छा को 'जिजीविषा' कहते हैं। कवि कहते हैं कि सच्चा जीवन वही है जो तमाम मुसीबतों के बावजूद हार न माने।"
+    }
+  ]
+}

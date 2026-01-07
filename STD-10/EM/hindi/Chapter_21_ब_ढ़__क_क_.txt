@@ -1,0 +1,557 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.21",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "बूढ़ी काकी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कहानी 'बूढ़ी काकी' के लेखक कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "जयशंकर प्रसाद", "is_correct": false },
+        { "option_id": 2, "text": "प्रेमचंद", "is_correct": true },
+        { "option_id": 3, "text": "यशपाल", "is_correct": false },
+        { "option_id": 4, "text": "मन्नू भंडारी", "is_correct": false }
+      ],
+      "answer": "प्रेमचंद"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बुढ़ापा बहुधा किसका पुनरागमन हुआ करता है?",
+      "options": [
+        { "option_id": 1, "text": "जवानी का", "is_correct": false },
+        { "option_id": 2, "text": "बचपन का", "is_correct": true },
+        { "option_id": 3, "text": "दुखों का", "is_correct": false },
+        { "option_id": 4, "text": "सुखों का", "is_correct": false }
+      ],
+      "answer": "बचपन का"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "बूढ़ी काकी में कौन सी चेष्टा शेष थी?",
+      "options": [
+        { "option_id": 1, "text": "चलने-फिरने की", "is_correct": false },
+        { "option_id": 2, "text": "देखने की", "is_correct": false },
+        { "option_id": 3, "text": "स्वाद की", "is_correct": true },
+        { "option_id": 4, "text": "सुनने की", "is_correct": false }
+      ],
+      "answer": "स्वाद की"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बूढ़ी काकी अपने कष्टों की ओर ध्यान आकर्षित करने के लिए क्या करती थीं?",
+      "options": [
+        { "option_id": 1, "text": "चिल्लाती थीं", "is_correct": false },
+        { "option_id": 2, "text": "रोती थीं", "is_correct": true },
+        { "option_id": 3, "text": "हँसती थीं", "is_correct": false },
+        { "option_id": 4, "text": "चुप रहती थीं", "is_correct": false }
+      ],
+      "answer": "रोती थीं"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बूढ़ी काकी के पति को स्वर्ग सिधारे कितना समय हो चुका था?",
+      "options": [
+        { "option_id": 1, "text": "कुछ दिन", "is_correct": false },
+        { "option_id": 2, "text": "एक वर्ष", "is_correct": false },
+        { "option_id": 3, "text": "कालांतर (बहुत समय)", "is_correct": true },
+        { "option_id": 4, "text": "अभी-अभी", "is_correct": false }
+      ],
+      "answer": "कालांतर (बहुत समय)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "बूढ़ी काकी का एकमात्र सहारा कौन था?",
+      "options": [
+        { "option_id": 1, "text": "बेटा", "is_correct": false },
+        { "option_id": 2, "text": "पोता", "is_correct": false },
+        { "option_id": 3, "text": "भतीजा", "is_correct": true },
+        { "option_id": 4, "text": "भाई", "is_correct": false }
+      ],
+      "answer": "भतीजा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "बूढ़ी काकी के भतीजे का नाम क्या था?",
+      "options": [
+        { "option_id": 1, "text": "पंडित बुद्धिराम", "is_correct": true },
+        { "option_id": 2, "text": "सुखराम", "is_correct": false },
+        { "option_id": 3, "text": "मुखराम", "is_correct": false },
+        { "option_id": 4, "text": "दुखीराम", "is_correct": false }
+      ],
+      "answer": "पंडित बुद्धिराम"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बूढ़ी काकी की संपत्ति की वार्षिक आय कितनी थी?",
+      "options": [
+        { "option_id": 1, "text": "सौ रुपये", "is_correct": false },
+        { "option_id": 2, "text": "डेढ़-दो सौ रुपये", "is_correct": true },
+        { "option_id": 3, "text": "पाँच सौ रुपये", "is_correct": false },
+        { "option_id": 4, "text": "हजार रुपये", "is_correct": false }
+      ],
+      "answer": "डेढ़-दो सौ रुपये"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बुद्धिराम की पत्नी का नाम क्या था?",
+      "options": [
+        { "option_id": 1, "text": "सुशीला", "is_correct": false },
+        { "option_id": 2, "text": "विमला", "is_correct": false },
+        { "option_id": 3, "text": "रूपा", "is_correct": true },
+        { "option_id": 4, "text": "चंपा", "is_correct": false }
+      ],
+      "answer": "रूपा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रूपा का स्वभाव कैसा था?",
+      "options": [
+        { "option_id": 1, "text": "शांत", "is_correct": false },
+        { "option_id": 2, "text": "तीव्र", "is_correct": true },
+        { "option_id": 3, "text": "डरपोक", "is_correct": false },
+        { "option_id": 4, "text": "हंसमुख", "is_correct": false }
+      ],
+      "answer": "तीव्र"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "बुद्धिराम कब तक सज्जन बने रहते थे?",
+      "options": [
+        { "option_id": 1, "text": "हमेशा", "is_correct": false },
+        { "option_id": 2, "text": "जब तक काकी सोती थीं", "is_correct": false },
+        { "option_id": 3, "text": "जब तक उनके कोष (जेब) पर आँच न आए", "is_correct": true },
+        { "option_id": 4, "text": "मेहमानों के सामने", "is_correct": false }
+      ],
+      "answer": "जब तक उनके कोष (जेब) पर आँच न आए"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "लड़कों का बूढ़ों के प्रति स्वाभाविक भाव क्या होता है?",
+      "options": [
+        { "option_id": 1, "text": "प्रेम", "is_correct": false },
+        { "option_id": 2, "text": "आदर", "is_correct": false },
+        { "option_id": 3, "text": "विद्वेष", "is_correct": true },
+        { "option_id": 4, "text": "दया", "is_correct": false }
+      ],
+      "answer": "विद्वेष"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "घर में काकी से किसे प्रेम था?",
+      "options": [
+        { "option_id": 1, "text": "रूपा को", "is_correct": false },
+        { "option_id": 2, "text": "बुद्धिराम को", "is_correct": false },
+        { "option_id": 3, "text": "मुखराम को", "is_correct": false },
+        { "option_id": 4, "text": "लाड़ली को", "is_correct": true }
+      ],
+      "answer": "लाड़ली को"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "किस उत्सव में शहनाई बज रही थी?",
+      "options": [
+        { "option_id": 1, "text": "होली", "is_correct": false },
+        { "option_id": 2, "text": "दीपावली", "is_correct": false },
+        { "option_id": 3, "text": "मुखराम का तिलक", "is_correct": true },
+        { "option_id": 4, "text": "लाड़ली की शादी", "is_correct": false }
+      ],
+      "answer": "मुखराम का तिलक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "उत्सव में किस चीज़ की सुगंध फैली हुई थी?",
+      "options": [
+        { "option_id": 1, "text": "फूलों की", "is_correct": false },
+        { "option_id": 2, "text": "इत्र की", "is_correct": false },
+        { "option_id": 3, "text": "घी और मसाले की", "is_correct": true },
+        { "option_id": 4, "text": "मिठाई की", "is_correct": false }
+      ],
+      "answer": "घी और मसाले की"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "काकी कड़ाह के पास कैसे पहुँचीं?",
+      "options": [
+        { "option_id": 1, "text": "चलकर", "is_correct": false },
+        { "option_id": 2, "text": "रेंगती हुई", "is_correct": true },
+        { "option_id": 3, "text": "दौड़कर", "is_correct": false },
+        { "option_id": 4, "text": "बैसाखी से", "is_correct": false }
+      ],
+      "answer": "रेंगती हुई"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "रूपा ने काकी को कड़ाह के पास देखकर क्या किया?",
+      "options": [
+        { "option_id": 1, "text": "खाना दिया", "is_correct": false },
+        { "option_id": 2, "text": "प्यार से समझाया", "is_correct": false },
+        { "option_id": 3, "text": "दोनों हाथों से झटक दिया", "is_correct": true },
+        { "option_id": 4, "text": "पानी पिलाया", "is_correct": false }
+      ],
+      "answer": "दोनों हाथों से झटक दिया"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बुद्धिराम ने काकी के साथ कैसा व्यवहार किया?",
+      "options": [
+        { "option_id": 1, "text": "सम्मानजनक", "is_correct": false },
+        { "option_id": 2, "text": "अँधेरी कोठरी में पटक दिया", "is_correct": true },
+        { "option_id": 3, "text": "भोजन कराया", "is_correct": false },
+        { "option_id": 4, "text": "अनदेखा किया", "is_correct": false }
+      ],
+      "answer": "अँधेरी कोठरी में पटक दिया"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "लाड़ली ने अपनी पूड़ियाँ कहाँ छिपाकर रखी थीं?",
+      "options": [
+        { "option_id": 1, "text": "अलमारी में", "is_correct": false },
+        { "option_id": 2, "text": "जेब में", "is_correct": false },
+        { "option_id": 3, "text": "गुड़ियों की पिटारी में", "is_correct": true },
+        { "option_id": 4, "text": "बिस्तर के नीचे", "is_correct": false }
+      ],
+      "answer": "गुड़ियों की पिटारी में"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "काकी ने जूठी पत्तलें क्यों चाटीं?",
+      "options": [
+        { "option_id": 1, "text": "पागलपन के कारण", "is_correct": false },
+        { "option_id": 2, "text": "भूख और स्वाद की इच्छा के कारण", "is_correct": true },
+        { "option_id": 3, "text": "सजा के तौर पर", "is_correct": false },
+        { "option_id": 4, "text": "लाड़ली के कहने पर", "is_correct": false }
+      ],
+      "answer": "भूख और स्वाद की इच्छा के कारण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "रूपा को किस बात का पछतावा हुआ?",
+      "options": [
+        { "option_id": 1, "text": "ज्यादा खर्च करने का", "is_correct": false },
+        { "option_id": 2, "text": "काकी के प्रति निर्दयता का", "is_correct": true },
+        { "option_id": 3, "text": "मेहमानों को बुलाने का", "is_correct": false },
+        { "option_id": 4, "text": "लाड़ली को डांटने का", "is_correct": false }
+      ],
+      "answer": "काकी के प्रति निर्दयता का"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "अंत में रूपा ने क्या किया?",
+      "options": [
+        { "option_id": 1, "text": "काकी को घर से निकाल दिया", "is_correct": false },
+        { "option_id": 2, "text": "भगवान से माफी माँगी और काकी को भोजन कराया", "is_correct": true },
+        { "option_id": 3, "text": "रोने लगी", "is_correct": false },
+        { "option_id": 4, "text": "सो गई", "is_correct": false }
+      ],
+      "answer": "भगवान से माफी माँगी और काकी को भोजन कराया"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "प्रेमचंद का जन्म कहाँ हुआ था?",
+      "options": [
+        { "option_id": 1, "text": "इलाहाबाद", "is_correct": false },
+        { "option_id": 2, "text": "लमही (वाराणसी)", "is_correct": true },
+        { "option_id": 3, "text": "पटना", "is_correct": false },
+        { "option_id": 4, "text": "लखनऊ", "is_correct": false }
+      ],
+      "answer": "लमही (वाराणसी)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "प्रेमचंद का मूल नाम क्या था?",
+      "options": [
+        { "option_id": 1, "text": "नवाब राय", "is_correct": false },
+        { "option_id": 2, "text": "धनपत राय", "is_correct": true },
+        { "option_id": 3, "text": "गणपत राय", "is_correct": false },
+        { "option_id": 4, "text": "श्रीपत राय", "is_correct": false }
+      ],
+      "answer": "धनपत राय"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "लाड़ली काकी के पास कब गई?",
+      "options": [
+        { "option_id": 1, "text": "सुबह", "is_correct": false },
+        { "option_id": 2, "text": "दोपहर में", "is_correct": false },
+        { "option_id": 3, "text": "जब सब सो गए (रात के 11 बजे)", "is_correct": true },
+        { "option_id": 4, "text": "शाम को", "is_correct": false }
+      ],
+      "answer": "जब सब सो गए (रात के 11 बजे)"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "बूढ़ी काकी की समस्त इंद्रियों में से कौन सी इंद्रिय सक्रिय थी?",
+      "answer": "बूढ़ी काकी की समस्त इंद्रियों में से केवल जिह्वा (स्वादेंद्रिय) ही सक्रिय थी।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "बूढ़ी काकी ने अपनी संपत्ति किसके नाम लिख दी थी?",
+      "answer": "बूढ़ी काकी ने अपनी सारी संपत्ति अपने भतीजे पंडित बुद्धिराम के नाम लिख दी थी।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "बुद्धिराम की पत्नी रूपा का स्वभाव कैसा था?",
+      "answer": "रूपा स्वभाव से तीव्र थी, लेकिन ईश्वर से डरती थी।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "लड़के बूढ़ी काकी को कैसे सताते थे?",
+      "answer": "कोई लड़का चुटकी काटकर भागता था, तो कोई उन पर पानी की कुल्ली कर देता था।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "लाड़ली अपने भाइयों के डर से क्या करती थी?",
+      "answer": "लाड़ली अपने भाइयों के डर से अपने हिस्से की मिठाई-चबैना बूढ़ी काकी के पास बैठकर खाया करती थी।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "बुद्धिराम के घर किस बात का उत्सव था?",
+      "answer": "बुद्धिराम के घर उनके बड़े लड़के मुखराम के तिलक का उत्सव था।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "भट्ठियों पर क्या पक रहा था?",
+      "answer": "भट्ठियों पर एक कड़ाह में पूड़ियाँ-कचौड़ियाँ और दूसरे में अन्य पकवान व मसालेदार तरकारी पक रही थी।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "रूपा किस बात से डरती थी?",
+      "answer": "रूपा को भय था कि कहीं पड़ोसिनें यह न कहने लगें कि वह इतने काम में उबल पड़ी (क्रोधित हो गई)।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "रूपा ने काकी को क्या कहकर झिड़की दी?",
+      "answer": "रूपा ने कहा कि पेट है या भाड़, अभी मेहमानों ने नहीं खाया, तब तक धैर्य नहीं हुआ।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "बूढ़ी काकी को रूपा पर क्रोध क्यों नहीं आया?",
+      "answer": "बूढ़ी काकी को अपनी जल्दबाजी पर दुख था, इसलिए उन्हें रूपा पर क्रोध नहीं आया।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "काकी ने मन ही मन क्या निश्चय किया?",
+      "answer": "काकी ने निश्चय किया कि जब तक कोई बुलाने न आएगा, वे नहीं जाएँगी।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "मेहमानों के बीच काकी को देखकर लोगों की क्या प्रतिक्रिया थी?",
+      "answer": "कई लोग चौंककर उठ खड़े हुए और पुकारने लगे कि यह बुढ़िया कौन है, कहीं किसी को छू न दे।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "बुद्धिराम ने क्रोध में आकर क्या किया?",
+      "answer": "बुद्धिराम ने काकी को लपककर पकड़ा और उन्हें अंधेरी कोठरी में धम से पटक दिया।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "लाड़ली को नींद क्यों नहीं आ रही थी?",
+      "answer": "काकी को पूड़ियाँ खिलाने की खुशी लाड़ली को सोने नहीं दे रही थी।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "लाड़ली ने काकी से क्या झूठ बोला?",
+      "answer": "लाड़ली ने कहा कि अम्मा सो रही हैं, जगाऊँगी तो मारेंगी (जब काकी ने और पूड़ियाँ माँगी)।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "काकी ने लाड़ली से क्या अनुरोध किया?",
+      "answer": "काकी ने लाड़ली से कहा कि मेरा हाथ पकड़कर वहाँ ले चलो जहाँ मेहमानों ने बैठकर भोजन किया है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "जूठी पत्तलें चाटते समय काकी को कैसा महसूस हो रहा था?",
+      "answer": "काकी को दही, कचौड़ियाँ और खस्ता बहुत स्वादिष्ट लग रहे थे, भले ही वे जानती थीं कि वे गलत कर रही हैं।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "रूपा की आँख खुलने पर उसने क्या देखा?",
+      "answer": "रूपा ने देखा कि लाड़ली जूठे पत्तलों के पास खड़ी है और काकी पत्तलों से पूड़ियों के टुकड़े उठाकर खा रही हैं।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "रूपा का हृदय सन्न क्यों रह गया?",
+      "answer": "परिवार की बुजुर्ग को दूसरों की जूठी पत्तल चाटते देख रूपा का हृदय सन्न रह गया।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "रूपा ने भगवान से क्या प्रार्थना की?",
+      "answer": "रूपा ने प्रार्थना की कि इस अधर्म का दंड उसे न दें और उसके बच्चों पर दया करें।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "रूपा को अपनी किस बात पर ग्लानि हुई?",
+      "answer": "रूपा को ग्लानि हुई कि जिसकी संपत्ति से वह वार्षिक आय खा रही है, उसे वह भरपेट भोजन भी न दे सकी।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "अंत में रूपा ने काकी के लिए क्या किया?",
+      "answer": "रूपा ने भंडार खोलकर एक थाली में भोजन सजाया और काकी से माफी माँगते हुए उन्हें भोजन कराया।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "काकी भोजन करते समय कैसी लग रही थीं?",
+      "answer": "काकी भोजन करते समय उन भोले बच्चों जैसी लग रही थीं जो मिठाई पाकर सब मार और तिरस्कार भूल जाते हैं।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कहानी के अंत में काकी के रोएँ से क्या निकल रहा था?",
+      "answer": "काकी के एक-एक रोएँ से सच्ची सदिच्छाएँ (दुआएँ) निकल रही थीं।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "इस कहानी का मुख्य संदेश क्या है?",
+      "answer": "बुजुर्गों का सम्मान करना चाहिए और उन्हें प्रेम व देखभाल की आवश्यकता होती है।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "प्रेमचंद को हिंदी साहित्य में किस नाम से जाना जाता है?",
+      "answer": "प्रेमचंद को 'कहानी के पितामह' या 'उपन्यास सम्राट' के नाम से जाना जाता है।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "प्रेमचंद की किन्हीं दो रचनाओं के नाम लिखिए।",
+      "answer": "'गोदान' और 'मानसरोवर' (कहानी संग्रह)।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संपत्ति लिखाते समय भतीजे ने क्या वादे किए थे?",
+      "answer": "भतीजे ने खूब लंबे-चौड़े वादे किए थे कि वह काकी का अच्छे से ख्याल रखेगा।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "बुद्धिराम का सज्जन स्वभाव कब तक रहता था?",
+      "answer": "बुद्धिराम तभी तक सज्जन रहते थे जब तक कि उनके पैसे खर्च न हों।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "काकी को किसकी तीव्रता कम खलती थी?",
+      "answer": "काकी को रूपा की तीव्रता (गुस्सा) उतनी नहीं खलती थी जितनी बुद्धिराम की दिखावटी भलमनसाहत।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "'सब्जबाग दिखाना' मुहावरे का क्या अर्थ है?",
+      "answer": "सब्जबाग दिखाना का अर्थ है - झूठे वादे करना या बड़ी-बड़ी आशाएं दिलाना।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "'कलेजे में हूक उठना' का क्या अर्थ है?",
+      "answer": "मन में वेदना या तीव्र दर्द उत्पन्न होना।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "'कंठावरुद्ध' का क्या अर्थ है?",
+      "answer": "गला भर आना या रुंध जाना (भावुकता के कारण)।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "लाड़ली और काकी के बीच कैसा संबंध था?",
+      "answer": "लाड़ली और काकी के बीच प्रेम और स्नेह का संबंध था, काकी लाड़ली का रक्षागार थीं।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "इस कहानी में किस समस्या को उजागर किया गया है?",
+      "answer": "इस कहानी में वृद्धावस्था की समस्याओं और समाज द्वारा बुजुर्गों की उपेक्षा को उजागर किया गया है।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "LONG",
+      "question": "बूढ़ी काकी की दयनीय दशा का वर्णन अपने शब्दों में कीजिए।",
+      "answer": "बूढ़ी काकी वृद्धावस्था की चरम सीमा पर थीं। वे देख नहीं सकती थीं और चल-फिर भी नहीं सकती थीं। उनकी स्वादेंद्रिय के अलावा बाकी इंद्रियां शिथिल हो चुकी थीं। वे अपनी बात कहने या कष्ट प्रकट करने के लिए केवल रोने का सहारा लेती थीं। अपनी सारी संपत्ति भतीजे के नाम करने के बावजूद, उन्हें पेट भर भोजन भी मुश्किल से मिलता था। घर के बच्चे उन्हें सताते थे और भतीजा व उसकी पत्नी भी उनका तिरस्कार करते थे। वे पूरी तरह उपेक्षित और असहाय जीवन जी रही थीं।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "LONG",
+      "question": "बुद्धिराम और रूपा का बूढ़ी काकी के प्रति व्यवहार कैसा था? सोदाहरण स्पष्ट कीजिए।",
+      "answer": "बुद्धिराम और रूपा का व्यवहार काकी के प्रति स्वार्थी और अमानवीय था। बुद्धिराम ने संपत्ति लिखवा ली लेकिन काकी की देखभाल नहीं की। उत्सव के दिन जब काकी भोजन की सुगंध से आकर्षित होकर बाहर आईं, तो बुद्धिराम ने उन्हें घसीटकर कोठरी में पटक दिया। रूपा भी काकी को डांटती थी, हालांकि वह ईश्वर से डरती थी। दोनों ने मेहमानों और अपनी प्रतिष्ठा का ध्यान रखा लेकिन उस बूढ़ी औरत को भूखा रखा जिसकी संपत्ति पर वे ऐश कर रहे थे। उनका व्यवहार कृतघ्नता का परिचायक था।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "LONG",
+      "question": "लाड़ली का चरित्र चित्रण कीजिए।",
+      "answer": "लाड़ली, बुद्धिराम की बेटी, एक भोली और संवेदनशील बालिका थी। वह अपने भाइयों के डर से काकी के पास शरण लेती थी। घर में वही एकमात्र सदस्य थी जिसे काकी से सच्चा प्रेम था। उत्सव की रात जब सब सो गए, तो उसने अपने हिस्से की पूड़ियाँ बचाकर काकी को खिलाईं। हालाँकि उसकी बालबुद्धि पूरी तरह परिपक्व नहीं थी (उसने काकी को जूठी पत्तलों तक ले जाने की गलती की), लेकिन उसका हृदय करुणा और प्रेम से भरा था। वह बड़ों की निष्ठुरता के विपरीत बालसुलभ निर्दोषता का प्रतीक है।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "LONG",
+      "question": "रूपा के हृदय परिवर्तन का क्या कारण था?",
+      "answer": "रूपा का हृदय परिवर्तन तब हुआ जब उसने रात के सन्नाटे में बूढ़ी काकी को मेहमानों की जूठी पत्तलों से भोजन चुनकर खाते हुए देखा। यह दृश्य उसके लिए अत्यंत शोकमय और लज्जाजनक था। उसे अहसास हुआ कि जिस काकी की संपत्ति से वे सुखी जीवन जी रहे हैं और दावतें दे रहे हैं, उसे ही उन्होंने भूखा रखा। इस घोर अन्याय और पाप के बोध ने उसकी आत्मा को झकझोर दिया। उसे ईश्वर के दंड का भय सताने लगा, जिससे उसका हृदय पिघल गया और उसने प्रायश्चित करने का निर्णय लिया।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "LONG",
+      "question": "'बूढ़ी काकी' कहानी के माध्यम से प्रेमचंद क्या संदेश देना चाहते हैं?",
+      "answer": "प्रेमचंद इस कहानी के माध्यम से समाज में बुजुर्गों के प्रति गिरते नैतिक मूल्यों और संवेदनहीनता पर प्रहार करते हैं। वे संदेश देते हैं कि बुजुर्ग हमारे आदर और सेवा के पात्र हैं, न कि दया या तिरस्कार के। संपत्ति के लोभ में रिश्तों को भूलना मानवता के विरुद्ध है। कहानी यह भी बताती है कि गलती का अहसास और प्रायश्चित कभी भी किया जा सकता है। हमें अपने बुजुर्गों की भावनाओं और उनकी जरूरतों, विशेषकर वृद्धावस्था में उनकी असहायता को समझना चाहिए और उन्हें सम्मानजनक जीवन देना चाहिए।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "LONG",
+      "question": "बुढ़ापा बचपन का पुनरागमन हुआ करता है - इस कथन की विवेचना कीजिए।",
+      "answer": "लेखक का यह कथन मनोवैज्ञानिक सत्य पर आधारित है। जैसे बच्चे अपनी इच्छाओं पर नियंत्रण नहीं रख पाते, वैसे ही अत्यधिक वृद्धावस्था में व्यक्ति की तर्कशक्ति क्षीण हो जाती है और वह अपनी मूल वृत्तियों (जैसे भूख, स्वाद) के वश में हो जाता है। काकी का व्यवहार भी बच्चों जैसा था - भूख लगने पर रोना, स्वाद के लिए ललचना, और डांट पड़ने पर चुप हो जाना। जैसे बच्चे मान-अपमान भूलकर प्यार से मान जाते हैं, वैसे ही काकी भी भोजन पाकर सब दुख भूल गईं। यह अवस्था शारीरिक और मानसिक रूप से बचपन जैसी निर्भरता और सरलता की ओर वापसी है।"
+    }
+  ]
+}

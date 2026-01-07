@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.07",
+    "standard": "10",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "फूटप्रिन्टस (Footprints)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'फूटप्रिन्टस' या पाठाचे लेखक कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पु. ल. देशपांडे", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. प्रदीप आवटे", "is_correct": true },
+        { "option_id": 3, "text": "नारायण सुर्वे", "is_correct": false },
+        { "option_id": 4, "text": "वसंत आबाजी डहाके", "is_correct": false }
+      ],
+      "answer": "डॉ. प्रदीप आवटे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अभिषेकचा आतेभाऊ कोण होता?",
+      "options": [
+        { "option_id": 1, "text": "सुमित", "is_correct": true },
+        { "option_id": 2, "text": "सुशांत", "is_correct": false },
+        { "option_id": 3, "text": "सुहास", "is_correct": false },
+        { "option_id": 4, "text": "समीर", "is_correct": false }
+      ],
+      "answer": "सुमित"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सुमित कोठून आला होता?",
+      "options": [
+        { "option_id": 1, "text": "मुंबईहून", "is_correct": false },
+        { "option_id": 2, "text": "पुण्याहून", "is_correct": false },
+        { "option_id": 3, "text": "कानपूरहून", "is_correct": true },
+        { "option_id": 4, "text": "नागपूरहून", "is_correct": false }
+      ],
+      "answer": "कानपूरहून"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सुमित आय. आय. टी. मध्ये कुठे शिकत होता?",
+      "options": [
+        { "option_id": 1, "text": "खडकपूर", "is_correct": false },
+        { "option_id": 2, "text": "मुंबई", "is_correct": false },
+        { "option_id": 3, "text": "कानपूर", "is_correct": true },
+        { "option_id": 4, "text": "दिल्ली", "is_correct": false }
+      ],
+      "answer": "कानपूर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "स्वच्छतेची भोक्ती कोण होती?",
+      "options": [
+        { "option_id": 1, "text": "रेखामावशी", "is_correct": false },
+        { "option_id": 2, "text": "स्नेहल", "is_correct": true },
+        { "option_id": 3, "text": "अभिषेकची आई", "is_correct": false },
+        { "option_id": 4, "text": "सुमितची बहीण", "is_correct": false }
+      ],
+      "answer": "स्नेहल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रेखामावशींच्या पायाचे ठसे कशाने उमटले होते?",
+      "options": [
+        { "option_id": 1, "text": "रंगाने", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याने", "is_correct": false },
+        { "option_id": 3, "text": "धूळ आणि मातीने", "is_correct": true },
+        { "option_id": 4, "text": "तेलाने", "is_correct": false }
+      ],
+      "answer": "धूळ आणि मातीने"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पावडेकाकांचे पाय कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "मळकट", "is_correct": false },
+        { "option_id": 2, "text": "लोण्यागत (गोजिरे, गुलाबी)", "is_correct": true },
+        { "option_id": 3, "text": "काळे", "is_correct": false },
+        { "option_id": 4, "text": "भेगाळलेले", "is_correct": false }
+      ],
+      "answer": "लोण्यागत (गोजिरे, गुलाबी)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सुमितने तयार केलेल्या अॅपचे नाव काय होते?",
+      "options": [
+        { "option_id": 1, "text": "क्लीन इंडिया", "is_correct": false },
+        { "option_id": 2, "text": "फूटप्रिन्टस", "is_correct": true },
+        { "option_id": 3, "text": "ग्रीन अर्थ", "is_correct": false },
+        { "option_id": 4, "text": "कार्बन ट्रॅकर", "is_correct": false }
+      ],
+      "answer": "फूटप्रिन्टस"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अभिषेकच्या बाबांनी सुमितला काय म्हणून हिणवले?",
+      "options": [
+        { "option_id": 1, "text": "शास्त्रज्ञ", "is_correct": false },
+        { "option_id": 2, "text": "टेक्नोसॅव्ही", "is_correct": true },
+        { "option_id": 3, "text": "इंजिनियर", "is_correct": false },
+        { "option_id": 4, "text": "हुशार", "is_correct": false }
+      ],
+      "answer": "टेक्नोसॅव्ही"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रेखामावशी कामाला कशा येत होत्या?",
+      "options": [
+        { "option_id": 1, "text": "बसने", "is_correct": false },
+        { "option_id": 2, "text": "रिक्षाने", "is_correct": false },
+        { "option_id": 3, "text": "पायी (आणि आता सायकलने)", "is_correct": true },
+        { "option_id": 4, "text": "स्कूटरने", "is_correct": false }
+      ],
+      "answer": "पायी (आणि आता सायकलने)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रेखामावशींनी त्यांच्या झोपडीपुढे कोणती झाडे लावली होती?",
+      "options": [
+        { "option_id": 1, "text": "आंब्याची", "is_correct": false },
+        { "option_id": 2, "text": "लिंबोणीची", "is_correct": true },
+        { "option_id": 3, "text": "पेरूची", "is_correct": false },
+        { "option_id": 4, "text": "वड", "is_correct": false }
+      ],
+      "answer": "लिंबोणीची"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अॅपवर रेखामावशींचे पाय कसे आले?",
+      "options": [
+        { "option_id": 1, "text": "ब्लॅक फूटप्रिन्टस", "is_correct": false },
+        { "option_id": 2, "text": "सिल्व्हर फूटप्रिन्टस", "is_correct": true },
+        { "option_id": 3, "text": "ब्राऊन फूटप्रिन्टस", "is_correct": false },
+        { "option_id": 4, "text": "डर्टी फूटप्रिन्टस", "is_correct": false }
+      ],
+      "answer": "सिल्व्हर फूटप्रिन्टस"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पावडेकाका कुठून आले होते?",
+      "options": [
+        { "option_id": 1, "text": "विश्रांतवाडीहून", "is_correct": true },
+        { "option_id": 2, "text": "कोथरूडहून", "is_correct": false },
+        { "option_id": 3, "text": "हडपसरहून", "is_correct": false },
+        { "option_id": 4, "text": "कात्रजहून", "is_correct": false }
+      ],
+      "answer": "विश्रांतवाडीहून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पावडेकाका कशाने प्रवास करत असत?",
+      "options": [
+        { "option_id": 1, "text": "बसने", "is_correct": false },
+        { "option_id": 2, "text": "मोटारसायकलने", "is_correct": false },
+        { "option_id": 3, "text": "कारने", "is_correct": true },
+        { "option_id": 4, "text": "ट्रेनने", "is_correct": false }
+      ],
+      "answer": "कारने"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अॅपवर पावडेकाकांचे पाय कसे आले?",
+      "options": [
+        { "option_id": 1, "text": "सिल्व्हर फूटप्रिन्टस", "is_correct": false },
+        { "option_id": 2, "text": "ब्लॅक फूटप्रिन्टस", "is_correct": true },
+        { "option_id": 3, "text": "गोल्डन फूटप्रिन्टस", "is_correct": false },
+        { "option_id": 4, "text": "क्लीन फूटप्रिन्टस", "is_correct": false }
+      ],
+      "answer": "ब्लॅक फूटप्रिन्टस"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सुमितचे अॅप कशाचे मोजमाप करत होते?",
+      "options": [
+        { "option_id": 1, "text": "पायाच्या स्वच्छतेचे", "is_correct": false },
+        { "option_id": 2, "text": "चालण्याच्या वेगाचे", "is_correct": false },
+        { "option_id": 3, "text": "कार्बन उत्सर्जनाचे", "is_correct": true },
+        { "option_id": 4, "text": "प्रवासाच्या खर्चाचे", "is_correct": false }
+      ],
+      "answer": "कार्बन उत्सर्जनाचे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "स्नेहलने कॉलेजला जाण्यासाठी काय वापरण्याचे ठरवले?",
+      "options": [
+        { "option_id": 1, "text": "स्कूटर", "is_correct": false },
+        { "option_id": 2, "text": "कार", "is_correct": false },
+        { "option_id": 3, "text": "सायकल", "is_correct": true },
+        { "option_id": 4, "text": "रिक्षा", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अभिषेकने ये-जा करण्यासाठी काय वापरण्याचे ठरवले?",
+      "options": [
+        { "option_id": 1, "text": "कार", "is_correct": false },
+        { "option_id": 2, "text": "बस", "is_correct": true },
+        { "option_id": 3, "text": "सायकल", "is_correct": false },
+        { "option_id": 4, "text": "बाईक", "is_correct": false }
+      ],
+      "answer": "बस"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अभिषेकच्या बाबांनी कशाचा आग्रह धरला?",
+      "options": [
+        { "option_id": 1, "text": "नवीन कार घेण्याचा", "is_correct": false },
+        { "option_id": 2, "text": "पब्लिक ट्रान्सपोर्ट (सार्वजनिक वाहतूक)", "is_correct": true },
+        { "option_id": 3, "text": "एसी वापरण्याचा", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिक बंदीचा", "is_correct": false }
+      ],
+      "answer": "पब्लिक ट्रान्सपोर्ट (सार्वजनिक वाहतूक)"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आपली काळीकुट्ट पावलं उजळ करण्यासाठी काय करावे लागेल?",
+      "options": [
+        { "option_id": 1, "text": "पाय धुवावे लागतील", "is_correct": false },
+        { "option_id": 2, "text": "झाडं लावावी लागतील", "is_correct": true },
+        { "option_id": 3, "text": "एसीत बसावे लागेल", "is_correct": false },
+        { "option_id": 4, "text": "कारने फिरावे लागेल", "is_correct": false }
+      ],
+      "answer": "झाडं लावावी लागतील"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "डॉ. प्रदीप आवटे यांचा जन्म कधी झाला?",
+      "options": [
+        { "option_id": 1, "text": "१९६०", "is_correct": false },
+        { "option_id": 2, "text": "१९६६", "is_correct": true },
+        { "option_id": 3, "text": "१९७०", "is_correct": false },
+        { "option_id": 4, "text": "१९८०", "is_correct": false }
+      ],
+      "answer": "१९६६"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता काव्यसंग्रह डॉ. प्रदीप आवटे यांचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "विशाखा", "is_correct": false },
+        { "option_id": 2, "text": "माझ्या आभाळाची गोष्ट", "is_correct": true },
+        { "option_id": 3, "text": "ययाति", "is_correct": false },
+        { "option_id": 4, "text": "नक्षत्रांचे देणे", "is_correct": false }
+      ],
+      "answer": "माझ्या आभाळाची गोष्ट"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रेखामावशींनी आपल्या पायाचे ठसे कशाने पुसले?",
+      "options": [
+        { "option_id": 1, "text": "पाण्याने", "is_correct": false },
+        { "option_id": 2, "text": "ओल्या फडक्याने", "is_correct": true },
+        { "option_id": 3, "text": "झाडूने", "is_correct": false },
+        { "option_id": 4, "text": "कागदाने", "is_correct": false }
+      ],
+      "answer": "ओल्या फडक्याने"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "'जादू की झप्पी' हे पुस्तक कोणी लिहिले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पु. ल. देशपांडे", "is_correct": false },
+        { "option_id": 2, "text": "डॉ. प्रदीप आवटे", "is_correct": true },
+        { "option_id": 3, "text": "व. पु. काळे", "is_correct": false },
+        { "option_id": 4, "text": "वि. स. खांडेकर", "is_correct": false }
+      ],
+      "answer": "डॉ. प्रदीप आवटे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रेखामावशींच्या मुलाने त्यांना काय दिले होते?",
+      "options": [
+        { "option_id": 1, "text": "मोबाईल", "is_correct": false },
+        { "option_id": 2, "text": "साडी", "is_correct": false },
+        { "option_id": 3, "text": "सायकल", "is_correct": true },
+        { "option_id": 4, "text": "चप्पल", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पावडेकाकांचे ऑफिस घरापासून किती किलोमीटर होते?",
+      "options": [
+        { "option_id": 1, "text": "१०", "is_correct": false },
+        { "option_id": 2, "text": "१६", "is_correct": true },
+        { "option_id": 3, "text": "२०", "is_correct": false },
+        { "option_id": 4, "text": "५", "is_correct": false }
+      ],
+      "answer": "१६"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "एक लीटर पेट्रोल जाळल्यावर किती कार्बन डायॉक्साईड वातावरणात सोडला जातो?",
+      "options": [
+        { "option_id": 1, "text": "दुप्पट", "is_correct": false },
+        { "option_id": 2, "text": "दुपटीहून अधिक", "is_correct": true },
+        { "option_id": 3, "text": "निम्मा", "is_correct": false },
+        { "option_id": 4, "text": "समान", "is_correct": false }
+      ],
+      "answer": "दुपटीहून अधिक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "तापानं कोण फणफणलीय?",
+      "options": [
+        { "option_id": 1, "text": "स्नेहल", "is_correct": false },
+        { "option_id": 2, "text": "रेखामावशी", "is_correct": false },
+        { "option_id": 3, "text": "आपली धरती", "is_correct": true },
+        { "option_id": 4, "text": "अभिषेक", "is_correct": false }
+      ],
+      "answer": "आपली धरती"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "'ग्लोबल वॉर्मिंग' ला आपण काय लावतो?",
+      "options": [
+        { "option_id": 1, "text": "हातभार", "is_correct": true },
+        { "option_id": 2, "text": "ब्रेक", "is_correct": false },
+        { "option_id": 3, "text": "शिस्त", "is_correct": false },
+        { "option_id": 4, "text": "झाड", "is_correct": false }
+      ],
+      "answer": "हातभार"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "'मळमळ व्यक्त करणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "उलटी येणे", "is_correct": false },
+        { "option_id": 2, "text": "नाराजी व्यक्त करणे", "is_correct": true },
+        { "option_id": 3, "text": "आनंद व्यक्त करणे", "is_correct": false },
+        { "option_id": 4, "text": "राग व्यक्त करणे", "is_correct": false }
+      ],
+      "answer": "नाराजी व्यक्त करणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "'निरभ्र' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "ढग नसलेले", "is_correct": true },
+        { "option_id": 2, "text": "पावसाळी", "is_correct": false },
+        { "option_id": 3, "text": "काळे", "is_correct": false },
+        { "option_id": 4, "text": "निळे", "is_correct": false }
+      ],
+      "answer": "ढग नसलेले"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "'अनाठायी' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "योग्य ठिकाणी", "is_correct": false },
+        { "option_id": 2, "text": "अयोग्य ठिकाणी", "is_correct": true },
+        { "option_id": 3, "text": "घाईने", "is_correct": false },
+        { "option_id": 4, "text": "हळू", "is_correct": false }
+      ],
+      "answer": "अयोग्य ठिकाणी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "'उत्सर्जन' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आत घेणे", "is_correct": false },
+        { "option_id": 2, "text": "बाहेर टाकणे", "is_correct": true },
+        { "option_id": 3, "text": "स्वच्छ करणे", "is_correct": false },
+        { "option_id": 4, "text": "मोजणे", "is_correct": false }
+      ],
+      "answer": "बाहेर टाकणे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पावडेकाकांनी कोणाकडे माती मागितली होती?",
+      "options": [
+        { "option_id": 1, "text": "स्नेहलकडे", "is_correct": false },
+        { "option_id": 2, "text": "पावडेकाकूंकडे", "is_correct": true },
+        { "option_id": 3, "text": "माळ्याकडे", "is_correct": false },
+        { "option_id": 4, "text": "सुमितकडे", "is_correct": false }
+      ],
+      "answer": "पावडेकाकूंकडे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सुमितने कोणता ड्राईव्ह लगावला?",
+      "options": [
+        { "option_id": 1, "text": "कव्हर ड्राईव्ह", "is_correct": false },
+        { "option_id": 2, "text": "स्ट्रेट ड्राईव्ह", "is_correct": true },
+        { "option_id": 3, "text": "स्क्वेअर कट", "is_correct": false },
+        { "option_id": 4, "text": "हुक शॉट", "is_correct": false }
+      ],
+      "answer": "स्ट्रेट ड्राईव्ह"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "अभिषेकला उठायला उशीर का झाला होता?",
+      "options": [
+        { "option_id": 1, "text": "तो आजारी होता", "is_correct": false },
+        { "option_id": 2, "text": "सुमितसोबत गप्पा आणि प्रोजेक्ट पाहिल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "लाइट नव्हती म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "सुट्टी होती म्हणून", "is_correct": false }
+      ],
+      "answer": "सुमितसोबत गप्पा आणि प्रोजेक्ट पाहिल्यामुळे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "रेखामावशींच्या पायाला काय पडल्या होत्या?",
+      "options": [
+        { "option_id": 1, "text": "जखमा", "is_correct": false },
+        { "option_id": 2, "text": "चिरण्या (भेगा)", "is_correct": true },
+        { "option_id": 3, "text": "फोडी", "is_correct": false },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "चिरण्या (भेगा)"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पावडेकाका आणि बाबा कुठे जाणार होते?",
+      "options": [
+        { "option_id": 1, "text": "ऑफिसला", "is_correct": false },
+        { "option_id": 2, "text": "कार्यक्रमाला", "is_correct": true },
+        { "option_id": 3, "text": "गावाला", "is_correct": false },
+        { "option_id": 4, "text": "मार्केटला", "is_correct": false }
+      ],
+      "answer": "कार्यक्रमाला"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "सगळ्यात भारी अॅप कोठे आहे?",
+      "options": [
+        { "option_id": 1, "text": "मोबाईलमध्ये", "is_correct": false },
+        { "option_id": 2, "text": "डोक्याच्या कवटीत (मेंदूत)", "is_correct": true },
+        { "option_id": 3, "text": "लॅपटॉपमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "इंटरनेटवर", "is_correct": false }
+      ],
+      "answer": "डोक्याच्या कवटीत (मेंदूत)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "सुमितचा मोबाईल कोणता होता?",
+      "options": [
+        { "option_id": 1, "text": "आयफोन", "is_correct": false },
+        { "option_id": 2, "text": "अँड्रॉईड", "is_correct": true },
+        { "option_id": 3, "text": "विंडोज", "is_correct": false },
+        { "option_id": 4, "text": "ब्लॅकबेरी", "is_correct": false }
+      ],
+      "answer": "अँड्रॉईड"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "रेखामावशी कुठे राहायच्या?",
+      "options": [
+        { "option_id": 1, "text": "शहरात", "is_correct": false },
+        { "option_id": 2, "text": "टेकडीपल्याड", "is_correct": true },
+        { "option_id": 3, "text": "चाळीत", "is_correct": false },
+        { "option_id": 4, "text": "गावात", "is_correct": false }
+      ],
+      "answer": "टेकडीपल्याड"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "रेखामावशींचे घर अभिषेकच्या घरापासून किती किमी होते?",
+      "options": [
+        { "option_id": 1, "text": "पाच", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "दहा", "is_correct": false },
+        { "option_id": 4, "text": "दोन", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "'व्हर्चुअल' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "खरे", "is_correct": false },
+        { "option_id": 2, "text": "आभासी", "is_correct": true },
+        { "option_id": 3, "text": "जुने", "is_correct": false },
+        { "option_id": 4, "text": "नवे", "is_correct": false }
+      ],
+      "answer": "आभासी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कोणाचे पाय 'चंदेरी' आहेत?",
+      "options": [
+        { "option_id": 1, "text": "पावडेकाकांचे", "is_correct": false },
+        { "option_id": 2, "text": "रेखामावशींचे", "is_correct": true },
+        { "option_id": 3, "text": "स्नेहलचे", "is_correct": false },
+        { "option_id": 4, "text": "सुमितचे", "is_correct": false }
+      ],
+      "answer": "रेखामावशींचे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "'वर्ख' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "कागद", "is_correct": false },
+        { "option_id": 2, "text": "अतिशय पातळ पत्रा", "is_correct": true },
+        { "option_id": 3, "text": "कापड", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "अतिशय पातळ पत्रा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "'बक्कळ' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "कमी", "is_correct": false },
+        { "option_id": 2, "text": "पुष्कळ / भरपूर", "is_correct": true },
+        { "option_id": 3, "text": "थोडे", "is_correct": false },
+        { "option_id": 4, "text": "नाही", "is_correct": false }
+      ],
+      "answer": "पुष्कळ / भरपूर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "'समदा' म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "काही", "is_correct": false },
+        { "option_id": 2, "text": "सर्व / सगळा", "is_correct": true },
+        { "option_id": 3, "text": "अर्धा", "is_correct": false },
+        { "option_id": 4, "text": "एक", "is_correct": false }
+      ],
+      "answer": "सर्व / सगळा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "या पाठाचा साहित्य प्रकार कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "कथा", "is_correct": false },
+        { "option_id": 2, "text": "विज्ञानकथा", "is_correct": true },
+        { "option_id": 3, "text": "कादंबरी", "is_correct": false },
+        { "option_id": 4, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "विज्ञानकथा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "निळ्याशार तुकड्यावर काय उमलल्याचा भास झाला?",
+      "options": [
+        { "option_id": 1, "text": "फुलं", "is_correct": false },
+        { "option_id": 2, "text": "चांदणं", "is_correct": true },
+        { "option_id": 3, "text": "तारे", "is_correct": false },
+        { "option_id": 4, "text": "ढग", "is_correct": false }
+      ],
+      "answer": "चांदणं"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "आपल्या जीवनशैलीतून उमटणाऱ्या खुणांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "फूटप्रिन्टस", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन प्रिन्टस", "is_correct": true },
+        { "option_id": 3, "text": "फिंगरप्रिन्टस", "is_correct": false },
+        { "option_id": 4, "text": "ब्लूप्रिन्टस", "is_correct": false }
+      ],
+      "answer": "कार्बन प्रिन्टस"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अभिषेकने दार उघडल्यावर कोण आत आले?",
+      "answer": "अभिषेकने दार उघडल्यावर कामवाल्या रेखामावशी आत आल्या."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सुमित कानपूरला काय करत होता?",
+      "answer": "सुमित कानपूरला आय. आय. टी. मध्ये शिकत होता."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अभिषेकला उठायला उशीर का झाला?",
+      "answer": "कारण रात्री दोन वाजेपर्यंत तो सुमितसोबत त्याचे प्रोजेक्ट पाहत बसला होता."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "स्नेहल हॉलमधून का ओरडली?",
+      "answer": "कारण फरशी पुसताना रेखामावशींच्या मळकट पायांचे ठसे फरशीवर उमटले होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "रेखामावशींचे पाय मळकट का झाले होते?",
+      "answer": "कारण त्यांना शेनामातीत काम करावे लागे आणि रस्ता उखडल्यामुळे पायाला धूळ लागत असे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पावडेकाकांचा तळवा कसा होता?",
+      "answer": "पावडेकाकांचा तळवा एकदम गोजिरा, गुलाबी आणि लोण्यासारखा मऊ होता."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सुमितच्या अॅपचे नाव काय होते?",
+      "answer": "सुमितच्या अॅपचे नाव 'फूटप्रिन्टस' होते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अभिषेकचे बाबा टेक्नॉलॉजीबद्दल काय म्हणाले?",
+      "answer": "ते म्हणाले की सगळ्यात भारी अॅप डोक्याच्या कवटीत आहे, हे विसरू नका."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "रेखामावशी किती अंतरावरून येत होत्या?",
+      "answer": "रेखामावशी ३ किलोमीटर अंतरावरून येत होत्या."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रेखामावशींनी कोणती झाडे लावली होती?",
+      "answer": "रेखामावशींनी त्यांच्या झोपडीपुढे दोन झाडे लावली होती, त्यातील एक लिंबोणीचे होते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अॅपवर रेखामावशींच्या पायांचे वर्णन कसे आले?",
+      "answer": "'सिल्व्हर फूटप्रिन्टस! दि मोस्ट क्लिन फूटप्रिन्टस!!' असे वर्णन आले."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पावडेकाकांचा चेहरा का पडला?",
+      "answer": "कारण अॅपवर त्यांचे पाय 'डर्टीएस्ट' आणि 'ब्लॅक फूटप्रिन्टस' म्हणून आले."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "हे अॅप काय मोजते?",
+      "answer": "हे अॅप आपल्या जीवनशैलीतून वातावरणात किती कार्बन सोडला जातो, हे मोजते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पावडेकाका रोज किती किलोमीटर कारने प्रवास करतात?",
+      "answer": "पावडेकाका रोज ३५-४० किलोमीटर कारने एकटेच प्रवास करतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "स्नेहलने काय ठरवले?",
+      "answer": "स्नेहलने ठरवले की ती कॉलेजला जाताना सायकल वापरणार."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "अभिषेकने काय ठरवले?",
+      "answer": "अभिषेकने ठरवले की तो कॉलेजला जाताना बसनेच प्रवास करणार."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अभिषेकचे बाबा 'पब्लिक ट्रान्सपोर्ट' बद्दल काय म्हणाले?",
+      "answer": "ते म्हणाले की पायांना चिकटलेला कार्बन कमी करण्यासाठी 'पब्लिक ट्रान्सपोर्ट इज अ मस्ट'."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रेखामावशींनी आपले पाय कसे पुसले?",
+      "answer": "रेखामावशींनी आपले पाय ओल्या फडक्याने सहजपणे पुसले."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आपली काळीकुट्ट पावलं उजळ करण्यासाठी काय करावे लागेल?",
+      "answer": "आपली काळीकुट्ट पावलं उजळ करण्यासाठी आपल्याला खूप झाडे लावावी लागतील."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "डॉ. प्रदीप आवटे यांनी कोणती पुस्तके लिहिली आहेत?",
+      "answer": "'माझ्या आभाळाची गोष्ट', 'धम्मधारा', 'जग्गूभैय्या झिंदाबाद', 'जादू की झप्पी' इत्यादी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "या पाठातून लेखकाने कोणता संदेश दिला आहे?",
+      "answer": "ग्लोबल वॉर्मिंग रोखण्यासाठी वृक्षसंवर्धन करा आणि सार्वजनिक वाहतुकीचा वापर करा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "'कार्बन फूटप्रिन्ट' म्हणजे काय?",
+      "answer": "व्यक्तीच्या दैनंदिन कृतींतून वातावरणात सोडल्या जाणाऱ्या कार्बनचे प्रमाण."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "स्नेहलला कसंतरी का वाटले?",
+      "answer": "कारण तिने रेखामावशींच्या मळकट पायांबद्दल रागाने बोलले होते, पण त्यांची चप्पल फाटलेली पाहून तिला वाईट वाटले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पावडेकाकांनी अॅपबद्दल काय प्रतिक्रिया दिली?",
+      "answer": "पावडेकाका म्हणाले की हे व्हर्चुअल गोष्टी आहेत, मला पटत नाही."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सुमितने पावडेकाकांना काय समजावले?",
+      "answer": "सुमितने समजावले की हे शास्त्रीय सत्य आहे आणि कार्बन उत्सर्जनामुळे पायांचा रंग ठरतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "'ग्लोबल वॉर्मिंग' म्हणजे काय?",
+      "answer": "वातावरणातील तापमानात होणारी वाढ."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रेखामावशींचे पाय चंदेरी का होते?",
+      "answer": "कारण त्यांच्या जीवनशैलीत कार्बन उत्सर्जन नगण्य होते (पायी/सायकल प्रवास, झाडे लावणे)."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पावडेकाकांचे पाय काळे का आले?",
+      "answer": "कारण ते कारने प्रवास करून खूप कार्बन डायॉक्साईड सोडत होते आणि त्यांनी झाडे लावली नव्हती."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "स्नेहलने कोणाला 'स्ट्रेट ड्राईव्ह' लगावला असे म्हटले आहे?",
+      "answer": "जेव्हा तिने पावडेकाकांना आठवण करून दिली की ते साधी मातीही आणून देत नाहीत, तेव्हा."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "अभिषेकच्या बाबांनी आधुनिक सवयींबद्दल काय टीका केली?",
+      "answer": "त्यांनी म्हटले की आपण जवळ जायलाही बाईक वापरतो आणि व्यायामासाठी मॉर्निंग वॉकचे नाटक करतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "'निरभ्र तुकड्यासारखा' यात कोणता अलंकार आहे?",
+      "answer": "उपमा अलंकार."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "'झऱ्याच्या स्फटिक स्वच्छ पाण्यासारखे' यात कोणता अलंकार आहे?",
+      "answer": "उपमा अलंकार."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पाठात आलेल्या 'सिंक' या शब्दाचा मराठी अर्थ काय?",
+      "answer": "स्वयंपाकघरातील भांडी धुण्याचे बेसिन."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पाठात आलेल्या 'अॅप' (App) चा फुल फॉर्म काय असू शकतो?",
+      "answer": "अॅप्लिकेशन (Application)."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "सुमित कोणता मोबाईल वापरत होता?",
+      "answer": "सुमित अँड्रॉईड मोबाईल वापरत होता."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "रेखामावशींच्या पायाला भेगा का पडल्या होत्या?",
+      "answer": "पाणी नसल्यामुळे आणि सतत अनवाणी किंवा फाटक्या चपलेने काम केल्यामुळे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "पावडेकाकांनी झाडं लावली होती का?",
+      "answer": "नाही, त्यांनी एकही झाड लावले नव्हते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "सुमित कोणाचा आतेभाऊ होता?",
+      "answer": "सुमित अभिषेकचा आतेभाऊ होता."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रेखामावशींची चप्पल कशी होती?",
+      "answer": "रेखामावशींची चप्पल टाचेला फाटलेली आणि अगदी पातळ झालेली होती."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "या पाठात कोणत्या समस्येवर प्रकाश टाकला आहे?",
+      "answer": "वाढते प्रदूषण आणि ग्लोबल वॉर्मिंग."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कार्बन प्रिन्टस डोळ्यांना दिसतात का?",
+      "answer": "नाही, त्या उघड्या डोळ्यांना दिसत नाहीत."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "२० किमी कारने प्रवास केल्यावर किती पेट्रोल जळते?",
+      "answer": "किमान एक लीटर पेट्रोल जळते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "पाठाच्या शेवटी पावडेकाकांना काय भास झाला?",
+      "answer": "त्यांना त्या निळ्याशार तुकड्यावर चांदणं उमलल्याचा भास झाला."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "'मळलेल्या पायांची माणसं' म्हणजे काय?",
+      "answer": "ज्यांच्या जीवनशैलीमुळे पर्यावरणाची हानी होत आहे अशी माणसं."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "टेक्नोसॅव्ही (Techno-savvy) म्हणजे काय?",
+      "answer": "तंत्रज्ञानाची आवड आणि ज्ञान असणारा (तंत्रस्नेही)."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "व्हर्चुअल रिअॅलिटी म्हणजे काय?",
+      "answer": "आभासी वास्तव."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "पाठात उल्लेख केलेले 'स्ट्रेट ड्राईव्ह' हे पद कोणत्या खेळाशी संबंधित आहे?",
+      "answer": "क्रिकेट."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "रेखामावशींना सायकल कोणी दिली होती?",
+      "answer": "त्यांच्या लेकाने (मुलाने)."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "स्नेहलचा चेहरा का पडला?",
+      "answer": "जेव्हा सुमितने सांगितले की आपण रेखामावशींपासून सुरुवात करू, ज्यांच्याबद्दल तिने आक्षेप घेतला होता."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या पुस्तकातून घेतला आहे?",
+      "answer": "हा पाठ 'जादू की झप्पी' या पुस्तकातून घेतला आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "'फूटप्रिन्टस' या पाठाचा सारांश लिहा.",
+      "answer": "'फूटप्रिन्टस' हा डॉ. प्रदीप आवटे यांनी लिहिलेला एक विज्ञानकथेवर आधारित पाठ आहे. यात सुमित नावाचा मुलगा एका अॅपद्वारे लोकांचे 'कार्बन फूटप्रिन्ट' मोजतो. रेखामावशी, ज्या गरीब आहेत आणि सायकल किंवा पायी प्रवास करतात, त्यांचे पाय जरी मातीने भरलेले असले तरी अॅपवर ते 'चंदेरी' (स्वच्छ) येतात कारण त्यांचे कार्बन उत्सर्जन कमी आहे. याउलट, श्रीमंत पावडेकाका, जे नेहमी कारने फिरतात, त्यांचे पाय प्रत्यक्ष स्वच्छ असूनही अॅपवर 'काळे' येतात. यावरून लेखकाने पर्यावरणाचे महत्त्व पटवून दिले आहे आणि ग्लोबल वॉर्मिंग रोखण्यासाठी जीवनशैलीत बदल करण्याचे आवाहन केले आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "रेखामावशींच्या पायांचे वर्णन करा.",
+      "answer": "रेखामावशींच्या पायाचे वर्णन अत्यंत वास्तववादी आहे. सतत शेनामातीत आणि धुळीत काम केल्यामुळे त्यांचे पाय मळकट आणि काळे पडले होते. पाण्याअभावी आणि स्वच्छतेसाठी वेळ न मिळाल्यामुळे ते घाणेरडे दिसत होते. त्यांच्या पायाला अनेक चिरण्या (भेगा) पडल्या होत्या, ज्यामध्ये धूळ बसून त्या काळ्या पडल्या होत्या. त्यांची चप्पलही खूप जुनी आणि फाटलेली होती. हे वर्णन त्यांच्या कष्टाळू आणि गरीब जीवनाचे दर्शन घडवते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "सुमितच्या 'फूटप्रिन्टस' अॅपची माहिती द्या.",
+      "answer": "सुमितने आय. आय. टी. मध्ये असताना 'फूटप्रिन्टस' नावाचे एक अॅप तयार केले होते. हे अॅप माणसाच्या दिसणाऱ्या पायांच्या स्वच्छतेचे मोजमाप करत नव्हते, तर त्यांच्या जीवनशैलीमुळे होणाऱ्या कार्बन उत्सर्जनाचे (Carbon Footprint) मोजमाप करत होते. यात व्यक्तीची माहिती, प्रवासाची साधने, झाडे लावण्याचे प्रमाण इत्यादी माहिती भरल्यावर, त्या व्यक्तीमुळे पर्यावरणाची किती हानी होते हे ठरवले जात असे. कमी प्रदूषण करणाऱ्यांचे पाय 'सिल्व्हर' आणि जास्त प्रदूषण करणाऱ्यांचे पाय 'ब्लॅक' दाखवले जात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "पावडेकाकांचे पाय 'ब्लॅक फूटप्रिन्टस' का आले?",
+      "answer": "पावडेकाका हे श्रीमंत आणि सुखवस्तू होते. ते कुठेही जाण्यासाठी कारचा वापर करत असत. एकटे असूनही ते कारने प्रवास करत, ज्यामुळे इंधन जळून मोठ्या प्रमाणात कार्बन डायॉक्साईड वातावरणात सोडला जात असे. त्यांनी झाडेही लावली नव्हती. त्यांची जीवनशैली पर्यावरणाला हानी पोहोचवणारी होती. त्यामुळे जरी त्यांचे पाय दिसायला गोजिरे आणि स्वच्छ असले, तरी सुमितच्या अॅपमध्ये त्यांचे 'कार्बन फूटप्रिन्ट' जास्त असल्याने ते 'ब्लॅक फूटप्रिन्टस' (सर्वात घाणेरडे पाय) म्हणून आले."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "रेखामावशींचे पाय 'सिल्व्हर फूटप्रिन्टस' का आले?",
+      "answer": "रेखामावशी या गरीब होत्या आणि साधे जीवन जगत होत्या. त्या कामावर येण्यासाठी पायी किंवा सायकलचा वापर करत असत, ज्यामुळे प्रदूषण होत नव्हते. त्यांनी आपल्या झोपडीबाहेर झाडेही लावली होती. त्यांच्या दैनंदिन जीवनात कार्बन उत्सर्जनाला वावच नव्हता. त्यांनी नकळतपणे पर्यावरण संवर्धनाला हातभार लावला होता. म्हणून अॅपच्या मते त्यांची जीवनशैली पर्यावरणासाठी पूरक होती, म्हणूनच त्यांचे पाय 'सिल्व्हर फूटप्रिन्टस' (सर्वात स्वच्छ पाय) म्हणून आले."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "स्नेहल आणि अभिषेकमध्ये कोणता बदल झाला?",
+      "answer": "सुमितने अॅपद्वारे जेव्हा वास्तव समजावून सांगितले, तेव्हा स्नेहल आणि अभिषेकला आपली चूक आणि जबाबदारी समजली. स्नेहलला जाणीव झाली की आपण ग्लोबल वॉर्मिंगला हातभार लावत आहोत. तिने ठरवले की ती कॉलेजला जाताना आता कार किंवा स्कूटर न वापरता सायकल वापरेल. अभिषेकनेही ठरवले की तो कॉलेजला जाताना बसचा (सार्वजनिक वाहतुकीचा) वापर करेल. दोघांनीही पर्यावरण रक्षणासाठी आपली जीवनशैली बदलण्याचा निश्चय केला."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "'पब्लिक ट्रान्सपोर्ट इज अ मस्ट' असे अभिषेकचे बाबा का म्हणाले?",
+      "answer": "अभिषेकच्या बाबांना सुमितच्या स्पष्टीकरणामुळे पटले की वैयक्तिक वाहनांचा (बाईक, कार) अतिवापर पर्यावरणासाठी घातक आहे. लोक छोट्या कामासाठीही गाड्या काढतात आणि नंतर व्यायामासाठी वेगळा वेळ देतात, हा विरोधाभास त्यांनी ओळखला. वैयक्तिक वाहनांमुळे होणारे प्रदूषण आणि कार्बन उत्सर्जन कमी करण्यासाठी सार्वजनिक वाहतूक (बस, ट्रेन) वापरणे हाच सर्वोत्तम पर्याय आहे. म्हणून त्यांनी 'पब्लिक ट्रान्सपोर्ट इज अ मस्ट' (सार्वजनिक वाहतूक अनिवार्य आहे) असे मत मांडले."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "'आपल्या पायांचे वातावरणावर उमटलेले ठसे आपल्याला सहजतेने पुसता येत नाहीत', या विधानाचा अर्थ स्पष्ट करा.",
+      "answer": "रेखामावशींनी फरशीवर उमटलेले मातीचे ठसे ओल्या फडक्याने लगेच पुसून टाकले, कारण ती भौतिक घाण होती. पण माणसाच्या आधुनिक आणि सुखलोलुप जीवनशैलीमुळे वातावरणात जो कार्बन सोडला जातो (कार्बन फूटप्रिन्ट), त्याचे परिणाम भयंकर आणि दीर्घकालीन असतात. ग्लोबल वॉर्मिंग, हवामान बदल हे त्याचेच परिणाम आहेत. हे प्रदूषण किंवा हे 'ठसे' आपण साध्या फडक्याने पुसू शकत नाही. ते पुसण्यासाठी किंवा कमी करण्यासाठी आपल्याला झाडे लावणे, प्रदूषण कमी करणे अशा दीर्घकालीन आणि कष्टाच्या उपायांची गरज आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "या पाठातून आपल्याला पर्यावरणाबद्दल काय शिकवण मिळते?",
+      "answer": "हा पाठ आपल्याला शिकवतो की खरी स्वच्छता म्हणजे केवळ शारीरिक स्वच्छता नव्हे, तर पर्यावरणाची स्वच्छता आहे. आपण आपल्या सोयीसाठी वाहनांचा अमर्याद वापर करून पृथ्वीला तापाने फणफणायला लावले आहे. जर आपल्याला भविष्य सुरक्षित करायचे असेल, तर आपण वैयक्तिक वाहनांचा वापर कमी केला पाहिजे, सार्वजनिक वाहतूक वापरली पाहिजे आणि जास्तीत जास्त झाडे लावली पाहिजेत. आपली जीवनशैली निसर्गस्नेही बनवणे ही काळाची गरज आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "सुमित आणि स्नेहल यांच्या स्वभावातील फरक सांगा.",
+      "answer": "सुमित हा तंत्रस्नेही (टेक्नोसॅव्ही) आणि समजूतदार मुलगा आहे. त्याला पर्यावरणाचे भान आहे आणि तो विज्ञानाचा वापर चांगल्या गोष्टींसाठी करतो. तो शांतपणे पावडेकाका आणि इतरांना त्यांचे चुकत असलेले वागणे समजावून सांगतो. दुसरीकडे, स्नेहल ही सुरुवातीला स्वच्छतेची भोक्ती आणि थोडी चिडखोर वाटते. ती रेखामावशींना त्यांच्या पायावरून रागावते. पण तिला आपली चूक समजल्यावर ती लगेच सुधारण्यास तयार होते आणि संवेदनशीलतेने निर्णय घेते. ती भावनिक आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "ग्लोबल वॉर्मिंगचे दुष्परिणाम काय आहेत? (पाठाच्या संदर्भाने व सामान्य ज्ञानाने)",
+      "answer": "ग्लोबल वॉर्मिंगमुळे पृथ्वीचे तापमान वाढत आहे ('तापानं फणफणलीय आपली धरती'). याचे अनेक दुष्परिणाम आहेत. ध्रुवीय बर्फ वितळत आहे, ज्यामुळे समुद्राची पातळी वाढत आहे. हवामानात अनपेक्षित बदल होत आहेत, जसे की अवेळी पाऊस, दुष्काळ किंवा अतिवृष्टी. यामुळे शेतीवर परिणाम होतो. अनेक जीवजाती नष्ट होण्याच्या मार्गावर आहेत. मानवी आरोग्यावरही याचा वाईट परिणाम होत आहे. हे सर्व आपल्या कार्बन उत्सर्जनामुळे होत आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "पावडेकाकांचा स्वभाव आणि परिवर्तन यावर टीप लिहा.",
+      "answer": "पावडेकाका हे सुरुवातीला स्वतःच्या स्वच्छतेवर आणि ऐषारामी जीवनावर खूश असणारे गृहस्थ वाटतात. ते 'माझे पाय किती स्वच्छ आहेत' असे अभिमानाने सांगतात. त्यांना झाडे लावण्यात किंवा माती आणून देण्यात रस नसतो. जेव्हा अॅपवर त्यांचे पाय 'काळे' येतात, तेव्हा ते चिडतात आणि त्याला 'नाटक' म्हणतात. पण सुमितने समजावून सांगितल्यावर त्यांना आपली चूक उमजते. ते अंतर्मुख होतात आणि बदलाची गरज स्वीकारतात, हे त्यांच्या शेवटच्या वाक्यावरून ('नाही तर आपण तसेच धावत राहू...') दिसते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "रेखामावशींचे व्यक्तिमत्व चित्र रेखाटा.",
+      "answer": "रेखामावशी या एक कष्टाळू आणि साध्या कामगार महिला आहेत. त्या गरिबीत असूनही स्वाभिमानी आहेत. त्या पर्यावरणाशी जुळवून घेणाऱ्या आहेत, हे त्यांच्या झाडं लावण्याच्या आणि सायकल वापरण्याच्या सवयीवरून दिसते. त्या दुसऱ्यांच्या बोलण्याने वरमतात पण आपले काम चोख करतात. त्या तंत्रज्ञानापासून दूर आहेत ('गडबडून गेल्या'), पण त्यांच्या कृती विज्ञानाच्या दृष्टीने सर्वात योग्य आहेत. त्या खऱ्या अर्थाने 'स्वच्छ' आणि आदर्श व्यक्तिमत्व आहेत."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "विज्ञान आणि तंत्रज्ञान यांचा मानवी जीवनावर होणारा सकारात्मक परिणाम या पाठातून कसा दिसतो?",
+      "answer": "या पाठात सुमितने बनवलेले अॅप हे तंत्रज्ञानाचे सकारात्मक उदाहरण आहे. सहसा आपण तंत्रज्ञानाला प्रदूषणाचे कारण मानतो, पण येथे तंत्रज्ञानाचा वापर करूनच सुमितने लोकांना प्रदूषणाची जाणीव करून दिली. अॅपमुळे डोळ्यांना न दिसणारे 'कार्बन फूटप्रिन्ट' समोर आले आणि लोकांचे डोळे उघडले. विज्ञानामुळे आपण आपल्या चुका सुधारू शकतो आणि पर्यावरणाचे रक्षण करू शकतो, हा सकारात्मक संदेश यातून मिळतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "तुम्ही तुमच्या दैनंदिन जीवनात 'कार्बन फूटप्रिन्ट' कमी करण्यासाठी काय कराल?",
+      "answer": "(हे उत्तर विद्यार्थ्याच्या मतावर आधारित आहे, पण नमुना उत्तर): मी जवळच्या अंतरासाठी पायी जाईन किंवा सायकल वापरेन. शक्य तिथे बस किंवा ट्रेनचा वापर करेन. वीज आणि पाण्याची बचत करेन. प्लॅस्टिकचा वापर टाळून कापडी पिशव्या वापरेन. माझ्या वाढदिवसाला किंवा इतर प्रसंगी झाडे लावेन आणि त्यांचे संवर्धन करेन. कचऱ्याचे योग्य वर्गीकरण करेन. अशा छोट्या कृतींतून मी माझे कार्बन फूटप्रिन्ट कमी करण्याचा प्रयत्न करेन."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "'मळलेल्या पायांची माणसं' या वाक्प्रचाराचा अर्थ पाठाच्या आधारे स्पष्ट करा.",
+      "answer": "'मळलेल्या पायांची माणसं' म्हणजे अशी माणसं ज्यांची बाह्य स्वच्छता जरी चांगली असली, तरी त्यांची जीवनशैली पर्यावरणासाठी घातक आहे. ते भरपूर संसाधने वापरतात, प्रदूषण करतात आणि निसर्गाची हानी करतात. त्यांच्या या कृतींमुळे वातावरणावर 'काळे ठसे' उमटतात. पावडेकाका हे याचे उदाहरण आहेत. शारीरिक अस्वच्छतेपेक्षा ही पर्यावरणीय अस्वच्छता (मळलेपण) जास्त धोकादायक आहे, असे लेखकाला सुचवायचे आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "सुमितच्या अॅपमधील 'सिल्व्हर' आणि 'ब्लॅक' फूटप्रिन्टसचे रूपक स्पष्ट करा.",
+      "answer": "सुमितच्या अॅपमध्ये 'सिल्व्हर' (चंदेरी) आणि 'ब्लॅक' (काळे) हे रंग प्रतिकात्मक आहेत. 'सिल्व्हर' हे शुद्धता, स्वच्छता आणि निसर्गस्नेही वर्तनाचे प्रतीक आहे. ज्यांचे जीवन निसर्गाला हानी पोहोचवत नाही, त्यांचे पाय चंदेरी आहेत. 'ब्लॅक' हे प्रदूषण, घाण आणि विध्वंसक जीवनशैलीचे प्रतीक आहे. कार्बन काळा असतो, म्हणून जास्त कार्बन सोडणाऱ्यांचे पाय काळे दाखवले आहेत. हे रूपक माणसाच्या कृतींचे परिणाम दर्शवते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "स्नेहलने पावडेकाकांना लगावलेला 'स्ट्रेट ड्राईव्ह' म्हणजे काय? त्याचा काय परिणाम झाला?",
+      "answer": "'स्ट्रेट ड्राईव्ह' हा क्रिकेटमधील फटका आहे जो सरळ आणि जोरदार असतो. येथे स्नेहलने पावडेकाकांच्या वागण्यातील विसंगतीवर थेट बोट ठेवले. जेव्हा काकांनी झाडं लावण्याबद्दल विचारले, तेव्हा स्नेहलने आठवण करून दिली की काकूंच्या रोपांसाठी थोडी माती आणणेही काकांना जमत नाही. हे उत्तर पावडेकाकांना चपराक लगावणारे होते. यामुळे त्यांचा दांभिकपणा उघड झाला आणि सुमितच्या अॅपमधील माहितीसाठी सत्य परिस्थिती समोर आली."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "अभिषेकच्या बाबांचा दृष्टिकोन कसा बदलला?",
+      "answer": "सुरुवातीला अभिषेकचे बाबा सुमितच्या अॅपवर आणि टेक्नोसॅव्ही पिढीवर टीका करत होते. त्यांना वाटत होते की डोके वापरणे जास्त महत्त्वाचे आहे. पण जेव्हा सुमितने वैज्ञानिक कारणे देऊन (पेट्रोल जळणे, कार्बन उत्सर्जन) पावडेकाकांचे पाय काळे का आले हे स्पष्ट केले, तेव्हा बाबांना पटले. त्यांनी स्वतःहून मान्य केले की सार्वजनिक वाहतूक वापरणे गरजेचे आहे. त्यांनी समस्येचे गांभीर्य ओळखले आणि मुलांच्या निर्णयाचे स्वागत केले."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "पाठातील संवादाचे महत्त्व स्पष्ट करा.",
+      "answer": "पाठातील संवाद अत्यंत प्रभावी आणि नैसर्गिक आहेत. ते पात्रांचे स्वभाव आणि विचार स्पष्ट करतात. सुमितचे प्रश्न आणि इतरांची उत्तरे यांतून कथा पुढे सरकते. स्नेहलचा टोमणा, पावडेकाकांचा चिडखोरपणा आणि रेखामावशींचा साधेपणा संवादातूनच दिसतो. विशेषतः सुमितने अॅपद्वारे विचारलेले प्रश्न आणि त्याचे निष्कर्ष यांतील संवाद वाचकाला विचार करायला लावतात. संवादामुळेच विज्ञानाचा क्लिष्ट विषय सोपा होऊन समजला आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "रेखामावशींच्या आणि पावडेकाकांच्या पायांच्या वर्णनातील विरोधाभास स्पष्ट करा.",
+      "answer": "रेखामावशींचे पाय प्रत्यक्ष पाहताना मळकट, भेगाळलेले आणि धूळ-मातीने भरलेले होते. पण अॅपमध्ये ते 'सिल्व्हर' (चंदेरी) आणि सर्वात स्वच्छ आले. पावडेकाकांचे पाय प्रत्यक्ष पाहताना गोजिरे, गुलाबी आणि मऊसूत होते. पण अॅपमध्ये ते 'ब्लॅक' (काळीकुट्ट) आणि सर्वात घाणेरडे आले. हा विरोधाभास बाह्य सौंदर्य आणि आंतरिक/पर्यावरणीय शुद्धता यातील फरक दाखवतो. खरी स्वच्छता ही जीवनशैलीत असते, हे यातून दिसते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "सुमितने रेखामावशींना विचारलेल्या प्रश्नांचे महत्त्व काय होते?",
+      "answer": "सुमितने विचारलेले प्रश्न (कुठे राहता, कसे येता, किती झाडे लावली) हे साधे वाटत असले तरी ते कार्बन फूटप्रिन्ट मोजण्यासाठी महत्त्वाचे होते. अंतरावरून आणि वाहनाच्या प्रकारावरून इंधन वापर कळतो. झाडे लावण्यावरून कार्बन शोषण्याची क्षमता कळते. या प्रश्नांच्या उत्तरांवरूनच हे सिद्ध झाले की रेखामावशींचे जीवन निसर्गपूरक आहे. या प्रश्नांनीच अॅपचा निष्कर्ष अचूक काढण्यास मदत केली."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "'हिरव्यागर्द झाडांनी आपली काळीकुट्ट पावलं थोडी तरी उजळ होतील' या वाक्याचा अर्थ स्पष्ट करा.",
+      "answer": "सुमितचे हे वाक्य उपायाकडे निर्देश करते. आपली 'काळीकुट्ट पावलं' म्हणजे आपण केलेले प्रदूषण आणि कार्बन उत्सर्जन. हे पाप किंवा डाग धुण्यासाठी एकच मार्ग आहे - झाडे लावणे. झाडे हवेतील कार्बन डायॉक्साईड शोषून घेतात आणि ऑक्सिजन सोडतात. जास्त झाडे लावली तर आपण केलेले प्रदूषण काही प्रमाणात भरून निघेल आणि आपले 'ब्लॅक फूटप्रिन्टस' स्वच्छ होऊन 'उजळ' होतील. निसर्गाचा समतोल राखला जाईल."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "लेखकाने 'फूटप्रिन्टस' हे शीर्षक का दिले असावे?",
+      "answer": "'फूटप्रिन्टस' या शीर्षकातून कथेचा मुख्य विषय सूचित होतो. वरकरणी हे पावलांचे ठसे वाटतात, पण प्रत्यक्षात हे 'कार्बन फूटप्रिन्टस' बद्दल आहे. माणसाच्या कृतींचे निसर्गावर उमटणारे ठसे, हे या कथेचे केंद्र आहे. रेखामावशींचे आणि पावडेकाकांचे पाय हे रूपक म्हणून वापरले आहेत. शीर्षकामुळे वाचकाची उत्सुकता वाढते आणि शेवटी विज्ञानाचा संदर्भ मिळाल्यावर शीर्षकाचा खरा अर्थ उलगडतो, म्हणून हे शीर्षक अत्यंत समर्पक आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "या पाठातून सामाजिक विषमतेवर कसा प्रकाश टाकला आहे?",
+      "answer": "पाठात एकीकडे गरीब रेखामावशी आहेत, ज्यांना नीट राहायला घर नाही, पाणी नाही, आणि काम करण्यासाठी पायपीट करावी लागते. दुसरीकडे श्रीमंत पावडेकाका आणि अभिषेकचे कुटुंब आहे, ज्यांच्याकडे एसी, कार, लॅपटॉप अशा सुखसुविधा आहेत. गरीब लोक संसाधनांचा कमी वापर करतात पण त्यांनाच जास्त त्रास होतो. श्रीमंत लोक संसाधने उधळतात आणि पर्यावरणाची हानी करतात. ही सामाजिक आणि आर्थिक विषमता पाठात स्पष्टपणे दिसून येते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "सुमितने रेखामावशींचे पाय 'झऱ्याच्या स्फटिक स्वच्छ पाण्यासारखे' का म्हटले?",
+      "answer": "सुमितने हे विधान अॅपच्या निष्कर्षावरून केले. झऱ्याचे पाणी जसे शुद्ध, पारदर्शक आणि नैसर्गिक असते, तसेच रेखामावशींचे जीवन प्रदूषणमुक्त आणि नैसर्गिक आहे. त्यांच्यामुळे पर्यावरणात कोणताही विषारी 'कचरा' (कार्बन) मिसळला जात नाही. म्हणून त्यांचे 'अस्तित्व' हे त्या झऱ्याच्या पाण्यासारखे निर्मळ आहे. हे एक सुंदर उपमा अलंकार आहे जो त्यांच्या चारित्र्याची आणि जीवनशैलीची शुद्धता गौरवतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "तुम्हाला या कथेतील कोणता पात्र सर्वात जास्त आवडले आणि का?",
+      "answer": "(विद्यार्थी कोणतेही पात्र निवडू शकतात, उदा. सुमित). मला सुमितचे पात्र सर्वात जास्त आवडले. कारण तो आजचा तरुण आहे जो तंत्रज्ञानाचा वापर केवळ मनोरंजनासाठी नाही तर समाजप्रबोधनासाठी करतो. तो शांत आणि समंजस आहे. त्याने वडीलधाऱ्यांचा अपमान न करता त्यांना त्यांची चूक वैज्ञानिक दृष्टिकोनातून समजावून दिली. त्याने रेखामावशींसारख्या उपेक्षित व्यक्तीचे महत्त्व सर्वांना पटवून दिले. त्याचा दृष्टिकोन सकारात्मक आणि रचनात्मक आहे."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "शहरीकरणाचा पर्यावरणावर होणारा परिणाम पाठाच्या आधारे लिहा.",
+      "answer": "पाठात शहरीकरणाचे दुष्परिणाम स्पष्ट दिसतात. रस्ते उखडलेले आहेत, धूळ आहे. लोक जवळच्या अंतरासाठीही गाड्या वापरतात, ज्यामुळे ट्राफिक आणि प्रदूषण वाढते. झाडे तोडली जात आहेत. एसीचा वापर वाढल्याने तापमान वाढत आहे. 'तापानं फणफणलीय आपली धरती' हे वाक्य शहरीकरणामुळे होणाऱ्या ग्लोबल वॉर्मिंगचे वर्णन करते. शहरात सुखसोयी आहेत, पण शुद्ध हवा आणि पर्यावरण हरवत चालले आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "स्नेहल आणि अभिषेकच्या निश्चयाचे महत्त्व काय आहे?",
+      "answer": "स्नेहल आणि अभिषेक हे तरुण पिढीचे प्रतिनिधी आहेत. त्यांनी सायकल आणि बस वापरण्याचा केलेला निश्चय खूप महत्त्वाचा आहे, कारण बदल हा तरुणांपासूनच सुरू होतो. त्यांनी केवळ समस्या ऐकली नाही, तर त्यावर कृती करण्याचा निर्णय घेतला. त्यांचा हा निश्चय इतर तरुणांनाही प्रेरणा देऊ शकतो. जर प्रत्येकाने असा छोटा बदल केला, तर सामूहिकरित्या पर्यावरणावर मोठा सकारात्मक परिणाम होऊ शकतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "पावडेकाकांचा 'चेहरा पडला' या वाक्प्रचाराचा संदर्भ देऊन स्पष्टीकरण द्या.",
+      "answer": "'चेहरा पडणे' म्हणजे शर्मिंदे होणे किंवा नाराज होणे. जेव्हा सुमितच्या अॅपवर पावडेकाकांचे पाय 'डर्टीएस्ट' आणि 'ब्लॅक' आले, तेव्हा त्यांचा चेहरा पडला. त्यांना सुरुवातीला वाटत होते की त्यांचे पाय खूप स्वच्छ आहेत. पण तंत्रज्ञानाने त्यांच्या जीवनशैलीचा आरसा दाखवला. आपण इतके प्रदूषण करतो हे समजल्यावर त्यांना स्वतःची लाज वाटली आणि त्यांचा अभिमान गळून पडला. हा प्रसंग त्यांच्यातील परिवर्तनाची सुरुवात होती."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "या कथेचा शेवट कसा झाला आहे?",
+      "answer": "कथेचा शेवट सकारात्मक आणि आशावादी आहे. सर्वांना आपली चूक उमजली आहे. रेखामावशींनी आपले पाय पुसून घेतले, पण सुमितने सांगितले की वातावरणातील ठसे पुसण्यासाठी झाडे लावावी लागतील. पावडेकाका, जे सुरुवातीला चिडले होते, त्यांनीही शेवटी मान्य केले की आपण 'मळलेल्या पायांची माणसं' बनून राहता कामा नये. त्यांना त्या निळ्या तुकड्यावर (अॅपवर किंवा भविष्यातील स्वच्छ वातावरणात) चांदणं उमलल्याचा (आशा) भास झाला. हे परिवर्तन कथेचा उद्देश सफल झाल्याचे दर्शवते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "विज्ञानकथा म्हणून या पाठाचे वैशिष्ट्ये सांगा.",
+      "answer": "या पाठात विज्ञानाचे तत्त्व (कार्बन फूटप्रिन्ट) एका कथेच्या माध्यमातून मांडले आहे. 'फूटप्रिन्टस' हे कल्पित अॅप विज्ञानाचे साधन आहे. कथेतील घटनाक्रम तर्कशुद्ध आहे. यात अतिरंजितपणा नाही, तर विज्ञानाचा दैनंदिन जीवनाशी असलेला संबंध दाखवला आहे. पात्रांच्या भावना आणि वैज्ञानिक माहिती यांचा समतोल साधला आहे. तंत्रज्ञान माणसाला कसे सुधारू शकते, हे या विज्ञानकथेतून प्रभावीपणे मांडले आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "LONG",
+      "question": "रेखामावशींच्या बोलण्यातील भाषेची वैशिष्ट्ये सांगा.",
+      "answer": "रेखामावशींची भाषा ही ग्रामीण किंवा अशिक्षित कामगार वर्गाची बोलीभाषा आहे. त्या 'समदा', 'पायं', 'येळ', 'हाय', 'आन', 'स्नेहाताई' असे शब्द वापरतात. त्यांची वाक्यरचना साधी आणि थेट आहे. उदा. 'मी कुठं एसीत बसूनशान काम करत्ये बाई'. ही भाषा त्यांच्या पात्राला जिवंत आणि वास्तववादी बनवते. त्यातून त्यांचा साधेपणा आणि प्रामाणिकपणा व्यक्त होतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "LONG",
+      "question": "लेखकाने 'सिल्व्हर' आणि 'ब्लॅक' या रंगांची निवड का केली असावी?",
+      "answer": "'सिल्व्हर' (चांदी) हा रंग मौल्यवान, शुद्ध आणि चमकदार गोष्टीसाठी वापरला जातो. रेखामावशींचे पर्यावरणपूरक वागणे हे समाजासाठी मौल्यवान आहे, म्हणून सिल्व्हर. 'ब्लॅक' (काळा) हा रंग डाग, अंधार किंवा वाईट गोष्टीचे प्रतीक आहे. कार्बन हा काळा असतो. पावडेकाकांचे वागणे पर्यावरणाला काळीमा फासणारे आहे, म्हणून ब्लॅक. हे विरोधाभासी रंग कथेचा संदेश अधिक परिणामकारक करतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "LONG",
+      "question": "अभिषेकच्या बाबांच्या 'डोक्याच्या कवटीत' या वाक्यातून काय सूचित होते?",
+      "answer": "अभिषेकचे बाबा जुन्या विचारांचे किंवा तंत्रज्ञानाबद्दल साशंक असणारे वाटतात. 'डोक्याच्या कवटीत सगळ्यात भारी अॅप आहे' म्हणजे मानवी मेंदू हा कोणत्याही मशिनपेक्षा श्रेष्ठ आहे. आपण स्वतःचा बुद्धीचा वापर करून चांगले-वाईट ठरवले पाहिजे, प्रत्येक गोष्टीसाठी गॅझेटवर अवलंबून राहू नये, असा त्यांचा सुरुवातीचा सूर होता. हे वाक्य पिढ्यांमधील विचारांचे अंतर (Generation Gap) देखील सूचित करते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "LONG",
+      "question": "तुम्ही तुमच्या शाळेत 'कार्बन फूटप्रिन्ट' कमी करण्यासाठी कोणते उपक्रम राबवाल?",
+      "answer": "(मुक्तोत्तरी). १. शाळेच्या आवारात वृक्षारोपण आणि त्यांची देखभाल. २. 'नो व्हेईकल डे' साजरा करणे (सर्वांनी सायकलने किंवा पायी येणे). ३. कागदाचा पुनर्वापर आणि कचरा व्यवस्थापन. ४. वीज आणि पाणी बचतीसाठी जनजागृती मोहीम. ५. प्लास्टिकमुक्त शाळा करणे. ६. विद्यार्थ्यांना आणि पालकांना पर्यावरणाचे महत्त्व पटवून देणे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "LONG",
+      "question": "या कथेतील 'तंत्रस्नेही' (Tech-savvy) पिढीची भूमिका कशी आहे?",
+      "answer": "कथेतील सुमित, अभिषेक आणि स्नेहल ही तंत्रस्नेही पिढी आहे. ते स्मार्टफोन्स, लॅपटॉप आणि अॅप्स वापरतात. पण लेखकाने दाखवले आहे की ही पिढी केवळ गेम खेळण्यासाठी तंत्रज्ञान वापरत नाही, तर सामाजिक समस्या समजून घेण्यासाठीही वापरते. सुमितने तंत्रज्ञानाचा वापर करून मोठ्यांना आरसा दाखवला. ही पिढी पर्यावरणाबद्दल जागरूक आहे आणि बदल घडवून आणण्यासाठी तंत्रज्ञानाचा सकारात्मक वापर करू शकते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "LONG",
+      "question": "पावडेकाकांच्या 'लोण्यागत' पायांचे रूपक स्पष्ट करा.",
+      "answer": "'लोण्यागत पाय' हे सुबत्तेचे आणि आरामाचे लक्षण आहे. ज्याला कधीही खडबडीत जमिनीवर चालावे लागत नाही, ज्याला कष्टाची झळ लागत नाही, त्याचे पाय असे मऊ असतात. हे रूपक पावडेकाकांच्या श्रीमंत आणि सुखवस्तु जीवनशैलीचे दर्शन घडवते. पण कथेच्या ओघात हेच 'लोण्यागत' पाय पर्यावरणासाठी कसे 'कठोर' ठरतात, हे दाखवून लेखकाने या सौंदर्याचा फोलपणा उघड केला आहे."
+    },
+    {
+      "question_id": 139,
+      "question_type": "LONG",
+      "question": "रेखामावशींच्या 'लिंबोणीच्या झाडा'चे महत्त्व काय?",
+      "answer": "रेखामावशींनी आपल्या छोट्याशा झोपडीपुढे लिंबोणीचे झाड लावले आहे. हे झाड त्यांच्या निसर्गप्रेमाचे प्रतीक आहे. जागा कमी असूनही त्यांनी झाड लावले, हे महत्त्वाचे आहे. लिंबोणीचे झाड औषधी आहे आणि सावली देते. हे झाड हेच कारण ठरले की ज्यामुळे त्यांचे फूटप्रिन्टस 'सिल्व्हर' आले. हे झाड दाखवते की पर्यावरण रक्षणासाठी श्रीमंत असण्याची गरज नाही, तर इच्छाशक्ती हवी."
+    },
+    {
+      "question_id": 140,
+      "question_type": "LONG",
+      "question": "या पाठाचे संवाद लेखन कसे परिणामकारक ठरले आहे?",
+      "answer": "पाठातील संवाद हे कथेला गती देतात. ते पात्रांच्या तोंडी अगदी चपखल बसले आहेत. रेखामावशींची ग्रामीण भाषा, सुमितची तार्किक भाषा, पावडेकाकांची तुच्छतापूर्ण भाषा आणि स्नेहलची भावूक भाषा संवादातून छान व्यक्त झाली आहे. संवादामुळे वाचक कथेचा एक भाग बनतो. विशेषतः प्रश्नोत्तरांच्या स्वरूपातील संवाद (सुमितचे प्रश्न) कथेतील रहस्य आणि उत्कंठा वाढवतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "LONG",
+      "question": "'पाडवेकाकांचा चेहरा एकदम पडला' - या घटनेनंतर त्यांच्या वागण्यात काय बदल अपेक्षित आहे?",
+      "answer": "या घटनेनंतर पावडेकाकांचा अहंकार कमी होईल अशी अपेक्षा आहे. ते पर्यावरणाबद्दल अधिक जागरूक होतील. ते कमी अंतरासाठी कार वापरणे टाळतील आणि चालणे किंवा सार्वजनिक वाहतूक वापरतील. ते झाडे लावण्यासाठी पुढाकार घेतील किंवा इतरांना मदत करतील. ते रेखामावशींसारख्या गरीब पण निसर्गस्नेही लोकांचा आदर करायला शिकतील. थोडक्यात, ते एक जबाबदार नागरिक बनण्याचा प्रयत्न करतील."
+    },
+    {
+      "question_id": 142,
+      "question_type": "LONG",
+      "question": "पाठातील 'जादूची झप्पी' या पुस्तकाचा संदर्भ काय असावा?",
+      "answer": "हा पाठ 'जादू की झप्पी' या पुस्तकातून घेतला आहे. 'जादूची झप्पी' म्हणजे प्रेमाने मारलेली मिठी. कदाचित या पुस्तकात अशाच कथा असतील ज्या मनाला स्पर्श करतात आणि सकारात्मक बदल घडवतात. 'फूटप्रिन्टस' ही कथा सुद्धा आपल्याला निसर्गाला 'मिठी' मारायला (प्रेम करायला) शिकवते. निसर्गाशी पुन्हा जोडले जाणे हीच खरी जादूची झप्पी आहे, असा संदर्भ असू शकतो."
+    },
+    {
+      "question_id": 143,
+      "question_type": "LONG",
+      "question": "सुमितने अॅप उघडल्यावर वातावरण कसे बदलले?",
+      "answer": "सुमितने अॅप उघडण्यापूर्वी वातावरण थोडे तणावाचे होते (स्नेहल आणि रेखामावशी यांच्यातील प्रसंगामुळे). पण अॅप उघडल्यावर सर्वांची उत्सुकता वाढली. जेव्हा रेखामावशींचे पाय 'सिल्व्हर' आले, तेव्हा वातावरण आश्चर्याने भरले. पावडेकाकांचे पाय 'ब्लॅक' आल्यावर वातावरण गंभीर झाले. सुमितच्या स्पष्टीकरणानंतर वातावरण विचारप्रवण आणि भावूक झाले. शेवटी एका सकारात्मक निश्चयाने वातावरणात बदल झाला."
+    },
+    {
+      "question_id": 144,
+      "question_type": "LONG",
+      "question": "तुमच्या मते 'प्रदूषण मुक्त' जगण्यासाठी काय आवश्यक आहे?",
+      "answer": "(मुक्तोत्तरी). प्रदूषण मुक्त जगण्यासाठी सर्वात आवश्यक आहे 'मानसिकता बदलणे'. आपण गरजा आणि हाव यातील फरक ओळखला पाहिजे. सौर ऊर्जा आणि पवन ऊर्जा यांसारख्या अपारंपरिक ऊर्जा स्रोतांचा वापर वाढवला पाहिजे. 'पुनर्वापर' (Recycle) आणि 'कमी वापर' (Reduce) ही तत्त्वे पाळली पाहिजेत. निसर्गाला आपण मालक नसून मित्र मानले पाहिजे. आणि हे सर्व करण्यासाठी कडक कायदे आणि त्यांची अंमलबजावणी आवश्यक आहे."
+    },
+    {
+      "question_id": 145,
+      "question_type": "LONG",
+      "question": "रेखामावशींच्या 'अडचणी' कोणत्या होत्या?",
+      "answer": "रेखामावशींना अनेक अडचणी होत्या. १. रस्ते कामामुळे खोदलेले होते, त्यामुळे धूळ पायाला लागत होती. २. पाणी टंचाई होती ('पानी तरी कुठं हाय बक्कळ?'), त्यामुळे पाय धुता येत नव्हते. ३. कामाची घाई होती ('येळ बी नाय'), त्यामुळे स्वच्छतेकडे लक्ष देता येत नव्हते. ४. आर्थिक परिस्थितीमुळे त्यांना काम करावेच लागत होते. या अडचणींमुळेच त्यांचे पाय मळकट होते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "LONG",
+      "question": "अभिषेक आणि सुमितच्या मैत्रीचे वर्णन करा.",
+      "answer": "अभिषेक आणि सुमित हे आतेभाऊ-मामेभाऊ असले तरी त्यांच्यात चांगली मैत्री दिसते. सुमित कानपूरहून आल्यावर अभिषेक त्याला भेटायला उत्सुक होता. ते रात्री उशिरापर्यंत गप्पा मारत आणि प्रोजेक्ट पाहत जागे होते. सुमितने जेव्हा अॅप दाखवले तेव्हा अभिषेकने त्याला पाठिंबा दिला. सुमितच्या सांगण्यावरून अभिषेकने स्वतःच्या सवयी बदलण्याचा निर्णय घेतला. त्यांच्यात एकमेकांबद्दल आदर आणि समजूतदारपणा आहे."
+    },
+    {
+      "question_id": 147,
+      "question_type": "LONG",
+      "question": "या कथेतील 'विरोधाभास' (Contrast) स्पष्ट करा.",
+      "answer": "कथेत अनेक स्तरांवर विरोधाभास आहे. १. दिसणारी अस्वच्छता (रेखामावशी) विरुद्ध वास्तविक स्वच्छता (पर्यावरणाची). २. दिसणारी स्वच्छता (पावडेकाका) विरुद्ध वास्तविक प्रदूषण. ३. गरीब (कमी कार्बन फूटप्रिन्ट) विरुद्ध श्रीमंत (जास्त कार्बन फूटप्रिन्ट). ४. अशिक्षितपणा (निसर्गस्नेही) विरुद्ध सुशिक्षितपणा (निसर्गविरोधी). ५. जुनी पिढी (बाबा - शंकाखोर) विरुद्ध नवी पिढी (सुमित - उपाय शोधणारी). हा विरोधाभास कथेचा मुख्य गाभा आहे."
+    },
+    {
+      "question_id": 148,
+      "question_type": "LONG",
+      "question": "लेखक डॉ. प्रदीप आवटे यांच्या लेखनशैलीची वैशिष्ट्ये सांगा.",
+      "answer": "डॉ. प्रदीप आवटे यांची लेखनशैली सोपी, प्रवाही आणि संवादप्रधान आहे. ते वैज्ञानिक विषय दैनंदिन जीवनातील उदाहरणांतून समजावून सांगतात. त्यांच्या लेखनात मानवी भावना आणि सामाजिक जाणीव यांचा मिलाफ असतो. ते पात्रांच्या माध्यमातून वाचकाशी संवाद साधतात. 'फूटप्रिन्टस' मध्ये त्यांनी तंत्रज्ञानाचा वापर करून एक गंभीर विषय रंजक पद्धतीने मांडला आहे. त्यांची भाषा वाचकाला खिळवून ठेवते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "LONG",
+      "question": "तुम्ही 'पावडेकाका' असता तर तुमची प्रतिक्रिया काय असती?",
+      "answer": "(मुक्तोत्तरी). जर मी पावडेकाका असतो, तर सुरुवातीला मला नक्कीच धक्का बसला असता आणि अपमानित झाल्यासारखे वाटले असते. पण सुमितने वैज्ञानिक कारण दिल्यावर मला माझी चूक पटली असती. मी सुमितचे आभार मानले असते की त्याने माझे डोळे उघडले. मी तिथेच सर्वांसमोर कबूल केले असते की मी माझी जीवनशैली बदलेन आणि ताबडतोब काही झाडे लावून त्यांचे संगोपन करण्याची जबाबदारी घेईन."
+    },
+    {
+      "question_id": 150,
+      "question_type": "LONG",
+      "question": "या पाठातून 'झाडांचे महत्त्व' कसे अधोरेखित होते?",
+      "answer": "पाठात झाडांचे महत्त्व वारंवार अधोरेखित होते. रेखामावशींचे फूटप्रिन्टस 'सिल्व्हर' येण्यामागे त्यांनी लावलेली झाडे हे एक मुख्य कारण होते. सुमित शेवटी सांगतो की आपली 'काळीकुट्ट पावलं' पुसण्यासाठी (प्रदूषण कमी करण्यासाठी) झाडे लावणे हाच उपाय आहे. झाडे हेच आपल्याला ग्लोबल वॉर्मिंगपासून वाचवू शकतात. तंत्रज्ञान समस्या दाखवू शकते, पण निसर्ग (झाडे) ती सोडवू शकतो, हे यातून स्पष्ट होते."
+    }
+  ]
+}

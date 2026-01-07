@@ -1,0 +1,401 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Hindi.17",
+    "standard": "10",
+    "subject": "Hindi",
+    "medium": "Hindi",
+    "chapter_name": "हम इस धरती की संतति हैं"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'हम इस धरती की संतति हैं' रचना की विधा क्या है?",
+      "options": [
+        { "option_id": 1, "text": "गीत", "is_correct": false },
+        { "option_id": 2, "text": "गजल", "is_correct": false },
+        { "option_id": 3, "text": "कव्वाली", "is_correct": true },
+        { "option_id": 4, "text": "दोहा", "is_correct": false }
+      ],
+      "answer": "कव्वाली"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "इस कव्वाली के रचनाकार कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "उमाकांत मालवीय", "is_correct": true },
+        { "option_id": 2, "text": "दुष्यंत कुमार", "is_correct": false },
+        { "option_id": 3, "text": "निराला", "is_correct": false },
+        { "option_id": 4, "text": "प्रेमचंद", "is_correct": false }
+      ],
+      "answer": "उमाकांत मालवीय"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कव्वाली में मिट्टी में खेलने वाले किस बच्चे का उल्लेख है?",
+      "options": [
+        { "option_id": 1, "text": "प्रहलाद", "is_correct": false },
+        { "option_id": 2, "text": "भरत", "is_correct": false },
+        { "option_id": 3, "text": "ध्रुव", "is_correct": true },
+        { "option_id": 4, "text": "लव-कुश", "is_correct": false }
+      ],
+      "answer": "ध्रुव"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अपनी लगन के सच्चे कौन थे?",
+      "options": [
+        { "option_id": 1, "text": "जयमल", "is_correct": false },
+        { "option_id": 2, "text": "पत्ता", "is_correct": false },
+        { "option_id": 3, "text": "प्रहलाद", "is_correct": true },
+        { "option_id": 4, "text": "ध्रुव", "is_correct": false }
+      ],
+      "answer": "प्रहलाद"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भरत किसके दाँत गिनते थे?",
+      "options": [
+        { "option_id": 1, "text": "हाथियों के", "is_correct": false },
+        { "option_id": 2, "text": "शेरों के", "is_correct": true },
+        { "option_id": 3, "text": "साँपों के", "is_correct": false },
+        { "option_id": 4, "text": "मगरमच्छ के", "is_correct": false }
+      ],
+      "answer": "शेरों के"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अपने आगे किसी को कुछ न गिनने वाले वीर कौन थे?",
+      "options": [
+        { "option_id": 1, "text": "जयमल-पत्ता", "is_correct": true },
+        { "option_id": 2, "text": "ध्रुव-प्रहलाद", "is_correct": false },
+        { "option_id": 3, "text": "लव-कुश", "is_correct": false },
+        { "option_id": 4, "text": "भीम-अर्जुन", "is_correct": false }
+      ],
+      "answer": "जयमल-पत्ता"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "लड़कियों के अनुसार लड़कों को क्या नहीं है?",
+      "options": [
+        { "option_id": 1, "text": "हिम्मत", "is_correct": false },
+        { "option_id": 2, "text": "ताकत", "is_correct": false },
+        { "option_id": 3, "text": "बातों का शऊर", "is_correct": true },
+        { "option_id": 4, "text": "पैसे", "is_correct": false }
+      ],
+      "answer": "बातों का शऊर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "झाँसी की रानी कौन थीं?",
+      "options": [
+        { "option_id": 1, "text": "रजिया सुलताना", "is_correct": false },
+        { "option_id": 2, "text": "दुर्गावती", "is_correct": false },
+        { "option_id": 3, "text": "लक्ष्मीबाई", "is_correct": true },
+        { "option_id": 4, "text": "चाँद बीबी", "is_correct": false }
+      ],
+      "answer": "लक्ष्मीबाई"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "'जौहर की ज्वाला' किसे कहा गया है?",
+      "options": [
+        { "option_id": 1, "text": "सीता", "is_correct": false },
+        { "option_id": 2, "text": "पद्मिनी", "is_correct": true },
+        { "option_id": 3, "text": "सावित्री", "is_correct": false },
+        { "option_id": 4, "text": "चाँद बीबी", "is_correct": false }
+      ],
+      "answer": "पद्मिनी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "स्त्री और पुरुष भारत माता के रथ के क्या हैं?",
+      "options": [
+        { "option_id": 1, "text": "दो घोड़े", "is_correct": false },
+        { "option_id": 2, "text": "दो सारथी", "is_correct": false },
+        { "option_id": 3, "text": "दो पहिये", "is_correct": true },
+        { "option_id": 4, "text": "दो ध्वज", "is_correct": false }
+      ],
+      "answer": "दो पहिये"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "'दतुली' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "दातुन", "is_correct": false },
+        { "option_id": 2, "text": "नाखून", "is_correct": false },
+        { "option_id": 3, "text": "दाँत", "is_correct": true },
+        { "option_id": 4, "text": "बाल", "is_correct": false }
+      ],
+      "answer": "दाँत"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "'शऊर' शब्द का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "शोर", "is_correct": false },
+        { "option_id": 2, "text": "शहर", "is_correct": false },
+        { "option_id": 3, "text": "काम करने का ढंग/बुद्धि", "is_correct": true },
+        { "option_id": 4, "text": "शौक", "is_correct": false }
+      ],
+      "answer": "काम करने का ढंग/बुद्धि"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हिंदी साहित्य में उमाकांत मालवीय को किसका 'भगीरथ' कहा जाता है?",
+      "options": [
+        { "option_id": 1, "text": "कहानी", "is_correct": false },
+        { "option_id": 2, "text": "नवगीत", "is_correct": true },
+        { "option_id": 3, "text": "उपन्यास", "is_correct": false },
+        { "option_id": 4, "text": "नाटक", "is_correct": false }
+      ],
+      "answer": "नवगीत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "झगड़े से क्या हासिल होगा?",
+      "options": [
+        { "option_id": 1, "text": "जीत", "is_correct": false },
+        { "option_id": 2, "text": "सम्मान", "is_correct": false },
+        { "option_id": 3, "text": "कुछ नहीं", "is_correct": true },
+        { "option_id": 4, "text": "धन", "is_correct": false }
+      ],
+      "answer": "कुछ नहीं"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कव्वाली का इतिहास कितना पुराना है?",
+      "options": [
+        { "option_id": 1, "text": "सौ वर्ष", "is_correct": false },
+        { "option_id": 2, "text": "पाँच सौ वर्ष", "is_correct": false },
+        { "option_id": 3, "text": "सात सौ वर्ष", "is_correct": true },
+        { "option_id": 4, "text": "एक हजार वर्ष", "is_correct": false }
+      ],
+      "answer": "सात सौ वर्ष"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "इनमें से कौन सा पात्र पौराणिक है?",
+      "options": [
+        { "option_id": 1, "text": "रजिया सुलताना", "is_correct": false },
+        { "option_id": 2, "text": "भरत", "is_correct": true },
+        { "option_id": 3, "text": "चाँद बीबी", "is_correct": false },
+        { "option_id": 4, "text": "लक्ष्मीबाई", "is_correct": false }
+      ],
+      "answer": "भरत"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "इनमें से कौन सा पात्र ऐतिहासिक है?",
+      "options": [
+        { "option_id": 1, "text": "ध्रुव", "is_correct": false },
+        { "option_id": 2, "text": "प्रहलाद", "is_correct": false },
+        { "option_id": 3, "text": "सीता", "is_correct": false },
+        { "option_id": 4, "text": "दुर्गावती", "is_correct": true }
+      ],
+      "answer": "दुर्गावती"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "'खफा' शब्द का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "खुश", "is_correct": false },
+        { "option_id": 2, "text": "नाराज", "is_correct": true },
+        { "option_id": 3, "text": "खौफ", "is_correct": false },
+        { "option_id": 4, "text": "माफ", "is_correct": false }
+      ],
+      "answer": "नाराज"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "'शेखी बघारना' मुहावरे का अर्थ है -",
+      "options": [
+        { "option_id": 1, "text": "झगड़ा करना", "is_correct": false },
+        { "option_id": 2, "text": "स्वयं अपनी प्रशंसा करना", "is_correct": true },
+        { "option_id": 3, "text": "चुप रहना", "is_correct": false },
+        { "option_id": 4, "text": "शिकायत करना", "is_correct": false }
+      ],
+      "answer": "स्वयं अपनी प्रशंसा करना"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवि के अनुसार ध्रुव और रजिया दोनों किसके हैं?",
+      "options": [
+        { "option_id": 1, "text": "इतिहास के", "is_correct": false },
+        { "option_id": 2, "text": "भारत माँ के", "is_correct": true },
+        { "option_id": 3, "text": "राजा के", "is_correct": false },
+        { "option_id": 4, "text": "अपनी माँ के", "is_correct": false }
+      ],
+      "answer": "भारत माँ के"
+    },
+    {
+      "question_id": 21,
+      "question_type": "SHORT",
+      "question": "उमाकांत मालवीय जी का जन्म कब और कहाँ हुआ?",
+      "answer": "उमाकांत मालवीय जी का जन्म १९३१ में मुंबई, महाराष्ट्र में हुआ।"
+    },
+    {
+      "question_id": 22,
+      "question_type": "SHORT",
+      "question": "कव्वाली किसे कहते हैं?",
+      "answer": "कव्वाली तारीफ या शान में गाया जाने वाला गीत या कविता है, जिसका इतिहास सात सौ वर्ष पुराना है।"
+    },
+    {
+      "question_id": 23,
+      "question_type": "SHORT",
+      "question": "लड़कों के समूह ने किन-किन वीरों के नाम लिए?",
+      "answer": "लड़कों के समूह ने ध्रुव, प्रहलाद, भरत और जयमल-पत्ता का नाम लिया।"
+    },
+    {
+      "question_id": 24,
+      "question_type": "SHORT",
+      "question": "लड़कियों के समूह ने किन वीरांगनाओं के नाम गिनाए?",
+      "answer": "लड़कियों ने लक्ष्मीबाई, रजिया सुलताना, दुर्गावती, चाँद बीबी, पद्मिनी, सीता और सावित्री के नाम गिनाए।"
+    },
+    {
+      "question_id": 25,
+      "question_type": "SHORT",
+      "question": "भरत के बारे में कव्वाली में क्या कहा गया है?",
+      "answer": "कव्वाली में कहा गया है कि भरत शेरों के जबड़े खुलवाकर उनके दाँत (दतुली) गिनते थे।"
+    },
+    {
+      "question_id": 26,
+      "question_type": "SHORT",
+      "question": "जयमल और पत्ता की क्या विशेषता बताई गई है?",
+      "answer": "जयमल और पत्ता अपने आगे किसी को कुछ नहीं गिनते थे, वे अत्यंत वीर थे।"
+    },
+    {
+      "question_id": 27,
+      "question_type": "SHORT",
+      "question": "लड़कियों ने लड़कों को क्या चेतावनी दी?",
+      "answer": "लड़कियों ने कहा कि अगर लड़के डींग मारेंगे (बड़ी-बड़ी बातें करेंगे), तो उन्हें मजबूरन ताने सहने पड़ेंगे।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "SHORT",
+      "question": "अंत में दोनों समूहों में क्या समझौता हुआ?",
+      "answer": "अंत में दोनों समूह सहमत हुए कि आपस में झगड़ने से कुछ हासिल नहीं होगा, दोनों ही भारत माता के रथ के दो पहिये हैं।"
+    },
+    {
+      "question_id": 29,
+      "question_type": "SHORT",
+      "question": "'टंटा' शब्द का क्या अर्थ है?",
+      "answer": "'टंटा' शब्द का अर्थ है व्यर्थ का झंझट, झगड़ा या लड़ाई।"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "राजस्थान की 'जौहर' प्रथा क्या थी?",
+      "answer": "जौहर राजस्थान की एक प्रथा थी जिसमें स्त्रियाँ विदेशी आक्रमणकारियों से अपने स्वाभिमान की रक्षा के लिए अग्नि में प्रवेश कर प्राण त्याग देती थीं।"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "कवि ने ध्रुव और प्रहलाद की क्या विशेषता बताई है?",
+      "answer": "ध्रुव इस मिट्टी में खेले थे और प्रहलाद अपनी लगन के सच्चे थे।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "लड़कियों ने लड़कों को 'चुप रहने' के लिए क्यों कहा?",
+      "answer": "लड़कियों ने लड़कों को चुप रहने के लिए कहा क्योंकि उन्हें बातों का शऊर (ढंग) नहीं था और वे केवल शेखी बघार रहे थे।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "रजिया सुलताना और दुर्गावती की क्या विशेषता बताई गई है?",
+      "answer": "वे दोनों 'मर्दानी' थीं और युद्ध में खूब लड़ी थीं।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "उमाकांत मालवीय जी की प्रमुख कृतियों के नाम लिखिए।",
+      "answer": "'मेहँदी और महावर', 'देवकी', 'रक्तपथ', 'सुबह रक्तपलाश की' आदि उनकी प्रमुख कृतियाँ हैं।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "कव्वाली के पहले पद में कौन गा रहा है?",
+      "answer": "कव्वाली के पहले पद में लड़कों का समूह गा रहा है।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कव्वाली के दूसरे पद में कौन गा रहा है?",
+      "answer": "कव्वाली के दूसरे पद में लड़कियों का समूह गा रहा है।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "अंतिम पद कौन प्रस्तुत करता है?",
+      "answer": "अंतिम पद लड़के और लड़कियाँ दोनों समूह मिलकर प्रस्तुत करते हैं।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "'डींग मारना' मुहावरे का वाक्य प्रयोग कीजिए।",
+      "answer": "महेश हमेशा अपनी अमीरी की डींग मारता रहता है।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कविता के अनुसार 'मर्दानी' कौन थीं?",
+      "answer": "कविता के अनुसार रजिया सुलताना और दुर्गावती (और लक्ष्मीबाई) मर्दानी थीं।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "भारत माता के रथ के दो पहिये कौन हैं?",
+      "answer": "भारत माता के रथ के दो पहिये 'हम दोनों' अर्थात स्त्री और पुरुष (लड़के और लड़कियाँ) हैं।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "LONG",
+      "question": "'हम इस धरती की संतति हैं' कव्वाली का केंद्रीय भाव स्पष्ट कीजिए।",
+      "answer": "इस कव्वाली में कवि उमाकांत मालवीय ने लड़के और लड़कियों के दो दलों के माध्यम से नोक-झोंक प्रस्तुत की है। लड़के भारत के ऐतिहासिक और पौराणिक पुरुष वीरों (जैसे भरत, ध्रुव) का गुणगान कर खुद को श्रेष्ठ बताते हैं, जबकि लड़कियाँ वीरांगनाओं (जैसे लक्ष्मीबाई, रजिया) की वीरता बताकर खुद को कम नहीं मानतीं। अंत में, दोनों पक्ष इस निष्कर्ष पर पहुँचते हैं कि स्त्री और पुरुष दोनों भारत माता के रथ के दो पहिये हैं और दोनों का समान महत्त्व है। व्यर्थ के झगड़े में कुछ नहीं रखा है। यह कव्वाली लैंगिक समानता और राष्ट्रीय एकता का संदेश देती है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "LONG",
+      "question": "कव्वाली में उल्लिखित ऐतिहासिक और पौराणिक पात्रों का वर्गीकरण कीजिए।",
+      "answer": "कव्वाली में उल्लिखित पात्रों का वर्गीकरण इस प्रकार है:\n\n**ऐतिहासिक पात्र:**\n1. लक्ष्मीबाई (झाँसी की रानी)\n2. रजिया सुलताना (दिल्ली की शासिका)\n3. दुर्गावती (गोंडवाना की रानी)\n4. चाँद बीबी (अहमदनगर की शासिका)\n5. पद्मिनी (चित्तौड़ की रानी)\n6. जयमल (मेवाड़ के वीर)\n7. पत्ता (मेवाड़ के वीर)\n\n**पौराणिक पात्र:**\n1. ध्रुव (भक्त ध्रुव)\n2. प्रहलाद (भक्त प्रहलाद)\n3. भरत (दुष्यंत-शकुंतला के पुत्र)\n4. सीता (रामायण की नायिका)\n5. सावित्री (सत्यवान की पत्नी)"
+    },
+    {
+      "question_id": 43,
+      "question_type": "LONG",
+      "question": "लड़कों ने अपनी श्रेष्ठता सिद्ध करने के लिए क्या तर्क दिए?",
+      "answer": "लड़कों ने अपनी श्रेष्ठता सिद्ध करने के लिए तर्क दिया कि वे उस धरती के लड़के हैं जहाँ ध्रुव जैसे भक्त बच्चे मिट्टी में खेले हैं और प्रहलाद जैसे लगन के सच्चे भक्त हुए हैं। उन्होंने भरत का उदाहरण दिया जो बचपन में ही शेरों के जबड़े खोलकर उनके दाँत गिनते थे। उन्होंने जयमल और पत्ता जैसे शूरवीरों का भी जिक्र किया जो अपने आगे किसी को कुछ नहीं समझते थे। इन महान वीरों का वंशज होने के कारण लड़कों ने दावा किया कि वे लड़कियों से बढ़कर हैं।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "LONG",
+      "question": "लड़कियों ने लड़कों के तर्कों का क्या जवाब दिया?",
+      "answer": "लड़कियों ने लड़कों के तर्कों का करारा जवाब दिया। उन्होंने कहा कि लड़कों को बात करने का ढंग (शऊर) नहीं है और वे केवल शेखी बघारते हैं। लड़कियों ने अपनी धरती की महान नारियों की याद दिलाई। उन्होंने झाँसी की रानी लक्ष्मीबाई, रजिया सुलताना और दुर्गावती की वीरता का वर्णन किया जो मर्दों की तरह लड़ीं। उन्होंने पद्मिनी के जौहर और चाँद बीबी, सीता व सावित्री जैसी महान नारियों का उदाहरण देकर सिद्ध किया कि लड़कियाँ भी किसी से कम नहीं हैं। उन्होंने चेतावनी दी कि यदि लड़के डींग मारेंगे तो उन्हें ताने सहने पड़ेंगे।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "LONG",
+      "question": "'भारत माता के रथ के हैं हम दोनों ही दो-दो पहिये' - इस पंक्ति का आशय समझाइए।",
+      "answer": "इस पंक्ति का आशय यह है कि किसी भी राष्ट्र या समाज की प्रगति के लिए स्त्री और पुरुष दोनों का योगदान अनिवार्य है। जैसे एक रथ को चलने के लिए दो पहियों की आवश्यकता होती है और दोनों का समान और संतुलित होना जरूरी है, वैसे ही भारत माता रूपी रथ को आगे बढ़ाने के लिए लड़के और लड़कियाँ (पुरुष और स्त्री) दोनों समान रूप से महत्वपूर्ण हैं। किसी एक को दूसरे से श्रेष्ठ या कमतर नहीं माना जा सकता। यह पंक्ति लैंगिक समानता और सह-अस्तित्व के महत्त्व को रेखांकित करती है।"
+    }
+  ]
+}

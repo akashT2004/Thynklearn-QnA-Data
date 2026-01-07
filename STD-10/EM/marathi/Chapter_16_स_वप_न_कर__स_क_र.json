@@ -1,0 +1,101 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.16",
+    "standard": "10",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "स्वप्न करू साकार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "'स्वप्न करू साकार' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_id": 1, "text": "किशोर पाठक", "is_correct": true },
+        { "option_id": 2, "text": "विठ्ठल वाघ", "is_correct": false },
+        { "option_id": 3, "text": "ना. धों. महानोर", "is_correct": false },
+        { "option_id": 4, "text": "वसंत बापट", "is_correct": false }
+      ],
+      "answer": "किशोर पाठक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते कोणाच्या स्वप्नांना साकार करायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "नव्या पिढीचे आणि नव्या युगाचे", "is_correct": true },
+        { "option_id": 2, "text": "फक्त स्वतःचे", "is_correct": false },
+        { "option_id": 3, "text": "परकीयांचे", "is_correct": false },
+        { "option_id": 4, "text": "जुन्या पिढीचे", "is_correct": false }
+      ],
+      "answer": "नव्या पिढीचे आणि नव्या युगाचे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "श्रावण कोठून हसतो?",
+      "options": [
+        { "option_id": 1, "text": "डोंगातून", "is_correct": false },
+        { "option_id": 2, "text": "पाण्यातून", "is_correct": false },
+        { "option_id": 3, "text": "फुलामुलांतून", "is_correct": true },
+        { "option_id": 4, "text": "आभाळातून", "is_correct": false }
+      ],
+      "answer": "फुलामुलांतून"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवीने शेतामधून काय पिकवू असे म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "सोने", "is_correct": false },
+        { "option_id": 2, "text": "मोती", "is_correct": true },
+        { "option_id": 3, "text": "हिरे", "is_correct": false },
+        { "option_id": 4, "text": "दौलत", "is_correct": false }
+      ],
+      "answer": "मोती"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आभाळावर कशाचा ललकार घुमवायचा आहे?",
+      "options": [
+        { "option_id": 1, "text": "युद्धाचा", "is_correct": false },
+        { "option_id": 2, "text": "विजयाचा", "is_correct": false },
+        { "option_id": 3, "text": "उत्क्रांतीचा", "is_correct": true },
+        { "option_id": 4, "text": "गाण्याचा", "is_correct": false }
+      ],
+      "answer": "उत्क्रांतीचा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "SHORT",
+      "question": "या देशाच्या मातीवर कोणाचा अधिकार आहे?",
+      "answer": "या देशाच्या मातीवर इथल्या सर्व नागरिकांचा आणि नव्या पिढीचा अधिकार आहे. [cite: 16]"
+    },
+    {
+      "question_id": 7,
+      "question_type": "SHORT",
+      "question": "श्रमशक्तीचा मंत्र काय सांगतो?",
+      "answer": "श्रमशक्तीचा मंत्र उद्योगाचे चक्र चालवून देशाचा विकास करण्याचे सांगतो. [cite: 16]"
+    },
+    {
+      "question_id": 8,
+      "question_type": "SHORT",
+      "question": "कवीला कोणता 'हस्त' (हात) हवा आहे?",
+      "answer": "कवीला शुभ कार्य करणारा 'हस्त शुभंकर' हवा आहे. [cite: 16]"
+    },
+    {
+      "question_id": 9,
+      "question_type": "LONG",
+      "question": "एकजुटीचे सामर्थ्य कवीने कसे वर्णन केले आहे?",
+      "answer": "कवी म्हणतात की आपण हजारो असलो तरी आपली एकी बळकट आहे. सर्वांचे मनगट (शक्ती) एकच आहे, म्हणजेच आपण संघटित आहोत. या एकजुटीच्या जोरावर आपण देशाच्या प्रगतीसाठी कोणताही अडथळा पार करू शकतो आणि विजयाचा डंका (नौबत) वाजवू शकतो. [cite: 16]"
+    },
+    {
+      "question_id": 10,
+      "question_type": "LONG",
+      "question": "'शेतामधुनी पिकवू मोती' या ओळीचा भावार्थ स्पष्ट करा.",
+      "answer": "या ओळीतून कवीला कृषी संस्कृतीचे महत्त्व सांगायचे आहे. शेतात कष्ट करून जे धान्याचे पीक येते, ते कवीला मोत्यांसारखे मौल्यवान वाटते. शेतकऱ्यांच्या श्रमातून येणारे धन हे अपरंपार आहे आणि त्यातूनच देश सुजलाम् सुफलाम् होईल, असा विश्वास कवी व्यक्त करतात. [cite: 16]"
+    }
+  ]
+}
