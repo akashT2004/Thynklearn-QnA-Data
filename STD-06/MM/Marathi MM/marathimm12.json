@@ -1,0 +1,715 @@
+{
+  "chapter_info": {
+    "chapter_number": "१२",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-१",
+    "sub_lesson_name": "मला मोठ्ठं व्हायचंय!"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "multiple_choice",
+      "question": "'मला मोठ्ठं व्हायचंय!' या नाट्यछटेच्या लेखिका कोण आहेत?",
+      "options": [
+        { "option_number": 1, "text": "शांता शेळके", "is_correct": false },
+        { "option_number": 2, "text": "प्रियंवदा करंडे", "is_correct": true },
+        { "option_number": 3, "text": "विठाबाई पाटील", "is_correct": false },
+        { "option_number": 4, "text": "बहिणाबाई चौधरी", "is_correct": false }
+      ],
+      "answer": "प्रियंवदा करंडे"
+    },
+    {
+      "question_number": 2,
+      "question_type": "multiple_choice",
+      "question": "या पाठातील मुलाला काय व्हायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "डॉक्टर", "is_correct": false },
+        { "option_number": 2, "text": "शास्त्रज्ञ", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_number": 4, "text": "खेळाडू", "is_correct": false }
+      ],
+      "answer": "शास्त्रज्ञ"
+    },
+    {
+      "question_number": 3,
+      "question_type": "multiple_choice",
+      "question": "मुलाने वैज्ञानिक शोध लावण्यासाठी घरात काय बनवले आहे?",
+      "options": [
+        { "option_number": 1, "text": "खेळघर", "is_correct": false },
+        { "option_number": 2, "text": "लॅब (प्रयोगशाळा)", "is_correct": true },
+        { "option_number": 3, "text": "वाचनालय", "is_correct": false },
+        { "option_number": 4, "text": "दुकान", "is_correct": false }
+      ],
+      "answer": "लॅब (प्रयोगशाळा)"
+    },
+    {
+      "question_number": 4,
+      "question_type": "multiple_choice",
+      "question": "आई मुलाला सारखी कशासाठी घाई करत आहे?",
+      "options": [
+        { "option_number": 1, "text": "जेवणाची", "is_correct": false },
+        { "option_number": 2, "text": "अंघोळीची", "is_correct": true },
+        { "option_number": 3, "text": "शाळेची", "is_correct": false },
+        { "option_number": 4, "text": "खेळण्याची", "is_correct": false }
+      ],
+      "answer": "अंघोळीची"
+    },
+    {
+      "question_number": 5,
+      "question_type": "multiple_choice",
+      "question": "मुलाने आपल्या लॅबमध्ये कोणते साहित्य आणून ठेवले आहे?",
+      "options": [
+        { "option_number": 1, "text": "मायक्रोस्कोप, टेस्टट्यूब्स", "is_correct": true },
+        { "option_number": 2, "text": "बॅट आणि चेंडू", "is_correct": false },
+        { "option_number": 3, "text": "टीव्ही आणि रेडिओ", "is_correct": false },
+        { "option_number": 4, "text": "भांडी आणि कपडे", "is_correct": false }
+      ],
+      "answer": "मायक्रोस्कोप, टेस्टट्यूब्स"
+    },
+    {
+      "question_number": 6,
+      "question_type": "multiple_choice",
+      "question": "गुरुत्वाकर्षणाचा शोध कोणी लावला?",
+      "options": [
+        { "option_number": 1, "text": "गॅलिलिओ", "is_correct": false },
+        { "option_number": 2, "text": "न्यूटन", "is_correct": true },
+        { "option_number": 3, "text": "राईट बंधू", "is_correct": false },
+        { "option_number": 4, "text": "जेम्स वॅट", "is_correct": false }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_number": 7,
+      "question_type": "multiple_choice",
+      "question": "न्यूटनने काय खाली पडताना पाहिले आणि विचार सुरू केला?",
+      "options": [
+        { "option_number": 1, "text": "आंबा", "is_correct": false },
+        { "option_number": 2, "text": "सफरचंद", "is_correct": true },
+        { "option_number": 3, "text": "दगड", "is_correct": false },
+        { "option_number": 4, "text": "पाने", "is_correct": false }
+      ],
+      "answer": "सफरचंद"
+    },
+    {
+      "question_number": 8,
+      "question_type": "multiple_choice",
+      "question": "मुलाच्या कामात कोण व्यत्यय आणतात?",
+      "options": [
+        { "option_number": 1, "text": "मित्र", "is_correct": false },
+        { "option_number": 2, "text": "घरातील सगळेजण (आई, ताई, आजी)", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षक", "is_correct": false },
+        { "option_number": 4, "text": "कोणीही नाही", "is_correct": false }
+      ],
+      "answer": "घरातील सगळेजण (आई, ताई, आजी)"
+    },
+    {
+      "question_number": 9,
+      "question_type": "multiple_choice",
+      "question": "मुलाने टिपण काढण्यासाठी काय आणले आहे?",
+      "options": [
+        { "option_number": 1, "text": "पेन्सिल", "is_correct": false },
+        { "option_number": 2, "text": "कागदांचे ताव", "is_correct": true },
+        { "option_number": 3, "text": "वही", "is_correct": false },
+        { "option_number": 4, "text": "पाटी", "is_correct": false }
+      ],
+      "answer": "कागदांचे ताव"
+    },
+    {
+      "question_number": 10,
+      "question_type": "multiple_choice",
+      "question": "शेवटी आईने मुलाला कोणता शोध लावायला सांगितला?",
+      "options": [
+        { "option_number": 1, "text": "नव्या ताऱ्याचा", "is_correct": false },
+        { "option_number": 2, "text": "स्वतःच्या निळ्या पँटचा", "is_correct": true },
+        { "option_number": 3, "text": "पाण्याचा", "is_correct": false },
+        { "option_number": 4, "text": "विजेचा", "is_correct": false }
+      ],
+      "answer": "स्वतःच्या निळ्या पँटचा"
+    },
+    {
+      "question_number": 11,
+      "question_type": "multiple_choice",
+      "question": "दुर्बिणीचा शोध कोणी लावला?",
+      "options": [
+        { "option_number": 1, "text": "राईट बंधू", "is_correct": false },
+        { "option_number": 2, "text": "गॅलिलिओ", "is_correct": true },
+        { "option_number": 3, "text": "जेम्स वॅट", "is_correct": false },
+        { "option_number": 4, "text": "एडिसन", "is_correct": false }
+      ],
+      "answer": "गॅलिलिओ"
+    },
+    {
+      "question_number": 12,
+      "question_type": "multiple_choice",
+      "question": "वाफेच्या इंजिनाचा शोध कोणी लावला?",
+      "options": [
+        { "option_number": 1, "text": "न्यूटन", "is_correct": false },
+        { "option_number": 2, "text": "जेम्स वॅट", "is_correct": true },
+        { "option_number": 3, "text": "राईट बंधू", "is_correct": false },
+        { "option_number": 4, "text": "गॅलिलिओ", "is_correct": false }
+      ],
+      "answer": "जेम्स वॅट"
+    },
+    {
+      "question_number": 13,
+      "question_type": "multiple_choice",
+      "question": "विमानाचा शोध कोणी लावला?",
+      "options": [
+        { "option_number": 1, "text": "राईट बंधू", "is_correct": true },
+        { "option_number": 2, "text": "जेम्स वॅट", "is_correct": false },
+        { "option_number": 3, "text": "न्यूटन", "is_correct": false },
+        { "option_number": 4, "text": "गॅलिलिओ", "is_correct": false }
+      ],
+      "answer": "राईट बंधू"
+    },
+    {
+      "question_number": 14,
+      "question_type": "multiple_choice",
+      "question": "'आकाशाला गवसणी घालणे' या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "आकाशात उडणे", "is_correct": false },
+        { "option_number": 2, "text": "अशक्य कोटीतील गोष्ट साध्य करणे", "is_correct": true },
+        { "option_number": 3, "text": "आकाशाकडे पाहणे", "is_correct": false },
+        { "option_number": 4, "text": "ढग पकडणे", "is_correct": false }
+      ],
+      "answer": "अशक्य कोटीतील गोष्ट साध्य करणे"
+    },
+    {
+      "question_number": 15,
+      "question_type": "multiple_choice",
+      "question": "'निश्चय दांडगा असणे' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "खूप भीती वाटणे", "is_correct": false },
+        { "option_number": 2, "text": "पक्का निर्धार असणे", "is_correct": true },
+        { "option_number": 3, "text": "निश्चय मोडणे", "is_correct": false },
+        { "option_number": 4, "text": "रागावणे", "is_correct": false }
+      ],
+      "answer": "पक्का निर्धार असणे"
+    },
+    {
+      "question_number": 16,
+      "question_type": "multiple_choice",
+      "question": "मुलाच्या मते थोर पुरुषांच्या कार्यात काय असतात?",
+      "options": [
+        { "option_number": 1, "text": "मदतनीस", "is_correct": false },
+        { "option_number": 2, "text": "अनंत अडचणी", "is_correct": true },
+        { "option_number": 3, "text": "खूप पैसे", "is_correct": false },
+        { "option_number": 4, "text": "फुले", "is_correct": false }
+      ],
+      "answer": "अनंत अडचणी"
+    },
+    {
+      "question_number": 17,
+      "question_type": "multiple_choice",
+      "question": "शास्त्रज्ञांना शोध लावताना काय सहन करावा लागला?",
+      "options": [
+        { "option_number": 1, "text": "थंड हवा", "is_correct": false },
+        { "option_number": 2, "text": "तास आणि मनस्ताप", "is_correct": true },
+        { "option_number": 3, "text": "मिठाई", "is_correct": false },
+        { "option_number": 4, "text": "केवळ आनंद", "is_correct": false }
+      ],
+      "answer": "तास आणि मनस्ताप"
+    },
+    {
+      "question_number": 18,
+      "question_type": "multiple_choice",
+      "question": "मुलाने कशाचा डोंगर रचला आहे?",
+      "options": [
+        { "option_number": 1, "text": "खेळण्यांचा", "is_correct": false },
+        { "option_number": 2, "text": "पुस्तकांचा", "is_correct": true },
+        { "option_number": 3, "text": "कपड्यांचा", "is_correct": false },
+        { "option_number": 4, "text": "दगडांचा", "is_correct": false }
+      ],
+      "answer": "पुस्तकांचा"
+    },
+    {
+      "question_number": 19,
+      "question_type": "multiple_choice",
+      "question": "मोगऱ्याच्या झाडाच्या संदर्भात कोणत्या पेठेचा उल्लेख आला आहे? (धडा १०-११ संदर्भानुसार पुनरावृत्ती)",
+      "options": [
+        { "option_number": 1, "text": "सदाशिव पेठ", "is_correct": false },
+        { "option_number": 2, "text": "शनिवार पेठ", "is_correct": true },
+        { "option_number": 3, "text": "नारायण पेठ", "is_correct": false },
+        { "option_number": 4, "text": "शुक्रवार पेठ", "is_correct": false }
+      ],
+      "answer": "शनिवार पेठ"
+    },
+    {
+      "question_number": 20,
+      "question_type": "multiple_choice",
+      "question": "नाट्यछटेत मुलगा कोणाशी बोलत आहे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ स्वतःशी (प्रेक्षकांसमोर)", "is_correct": true },
+        { "option_number": 2, "text": "मोठ्या जमावाशी", "is_correct": false },
+        { "option_number": 3, "text": "केवळ प्राण्यांशी", "is_correct": false },
+        { "option_number": 4, "text": "कोणाशीच नाही", "is_correct": false }
+      ],
+      "answer": "केवळ स्वतःशी (प्रेक्षकांसमोर)"
+    },
+    {
+      "question_number": 21,
+      "question_type": "multiple_choice",
+      "question": "प्रियंवदा करंडे यांचा जन्म कोणत्या वर्षी झाला?",
+      "options": [
+        { "option_number": 1, "text": "१९३०", "is_correct": false },
+        { "option_number": 2, "text": "१९४६", "is_correct": true },
+        { "option_number": 3, "text": "१९५०", "is_correct": false },
+        { "option_number": 4, "text": "१९४०", "is_correct": false }
+      ],
+      "answer": "१९४६"
+    },
+    {
+      "question_number": 22,
+      "question_type": "multiple_choice",
+      "question": "'खडकातून पाणी काढणे' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "दगड फोडणे", "is_correct": false },
+        { "option_number": 2, "text": "कठीण काम करून दाखवणे", "is_correct": true },
+        { "option_number": 3, "text": "पाण्यात पोहणे", "is_correct": false },
+        { "option_number": 4, "text": "विहीर खणणे", "is_correct": false }
+      ],
+      "answer": "कठीण काम करून दाखवणे"
+    },
+    {
+      "question_number": 23,
+      "question_type": "multiple_choice",
+      "question": "मुलाला बक्षीस समारंभात कोणाला मिरवायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "मित्रांना", "is_correct": false },
+        { "option_number": 2, "text": "आई आणि ताईला", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षकांना", "is_correct": false },
+        { "option_number": 4, "text": "कोणालाच नाही", "is_correct": false }
+      ],
+      "answer": "आई आणि ताईला"
+    },
+    {
+      "question_number": 24,
+      "question_type": "multiple_choice",
+      "question": "'मनस्ताप सहन करणे' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "आनंद होणे", "is_correct": false },
+        { "option_number": 2, "text": "मानसिक त्रास सोसणे", "is_correct": true },
+        { "option_number": 3, "text": "डोके दुखणे", "is_correct": false },
+        { "option_number": 4, "text": "शांत बसणे", "is_correct": false }
+      ],
+      "answer": "मानसिक त्रास सोसणे"
+    },
+    {
+      "question_number": 25,
+      "question_type": "multiple_choice",
+      "question": "नाट्यछटेत आलेले 'लॅब' हे कोणत्या शब्दाचे संक्षिप्त रूप आहे?",
+      "options": [
+        { "option_number": 1, "text": "लायब्ररी", "is_correct": false },
+        { "option_number": 2, "text": "लॅबोरेटरी (प्रयोगशाळा)", "is_correct": true },
+        { "option_number": 3, "text": "लांबी", "is_correct": false },
+        { "option_number": 4, "text": "लँड", "is_correct": false }
+      ],
+      "answer": "लॅबोरेटरी (प्रयोगशाळा)"
+    },
+    {
+      "question_number": 26,
+      "question_type": "multiple_choice",
+      "question": "मुलगा आईच्या कोणत्या उपकाराची गोष्ट करतो?",
+      "options": [
+        { "option_number": 1, "text": "पैसे देण्याच्या", "is_correct": false },
+        { "option_number": 2, "text": "पँट शोधून देण्याच्या (तिच्यावर उपकार होतील म्हणून)", "is_correct": true },
+        { "option_number": 3, "text": "खाऊ देण्याच्या", "is_correct": false },
+        { "option_number": 4, "text": "बाहेर नेण्याच्या", "is_correct": false }
+      ],
+      "answer": "पँट शोधून देण्याच्या (तिच्यावर उपकार होतील म्हणून)"
+    },
+    {
+      "question_number": 27,
+      "question_type": "multiple_choice",
+      "question": "नाट्यछटा म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "एकाच पात्राने संवाद साधणे", "is_correct": true },
+        { "option_number": 2, "text": "खूप जणांनी गाणे गाणे", "is_correct": false },
+        { "option_number": 3, "text": "मूक अभिनय", "is_correct": false },
+        { "option_number": 4, "text": "केवळ नाच", "is_correct": false }
+      ],
+      "answer": "एकाच पात्राने संवाद साधणे"
+    },
+    {
+      "question_number": 28,
+      "question_type": "multiple_choice",
+      "question": "लेखिकेचे कोणते पुस्तक 'चरित्र' या प्रकारात येते?",
+      "options": [
+        { "option_number": 1, "text": "'स्वामी विवेकानंद'", "is_correct": true },
+        { "option_number": 2, "text": "'मी नाही जा'", "is_correct": false },
+        { "option_number": 3, "text": "'हिरोंच्या शोधात'", "is_correct": false },
+        { "option_number": 4, "text": "'बाई आणि टेलिफोन'", "is_correct": false }
+      ],
+      "answer": "'स्वामी विवेकानंद'"
+    },
+    {
+      "question_number": 29,
+      "question_type": "multiple_choice",
+      "question": "मुलाला अंघोळीला का जायचे नसते?",
+      "options": [
+        { "option_number": 1, "text": "त्याला पाणी आवडत नाही", "is_correct": false },
+        { "option_number": 2, "text": "त्याला शास्त्रज्ञ बनायचे आणि काम करायचे आहे", "is_correct": true },
+        { "option_number": 3, "text": "त्याला झोपायचे आहे", "is_correct": false },
+        { "option_number": 4, "text": "त्याला खेळायला जायचे आहे", "is_correct": false }
+      ],
+      "answer": "त्याला शास्त्रज्ञ बनायचे आणि काम करायचे आहे"
+    },
+    {
+      "question_number": 30,
+      "question_type": "multiple_choice",
+      "question": "मराठीत 'इ-कार' व 'उ-कार' शब्दांच्या शेवटी कसे असतात?",
+      "options": [
+        { "option_number": 1, "text": "ऱ्हस्व", "is_correct": false },
+        { "option_number": 2, "text": "दीर्घ", "is_correct": true },
+        { "option_number": 3, "text": "दोन्ही", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "दीर्घ"
+    },
+    {
+      "question_number": 31,
+      "question_type": "multiple_choice",
+      "question": "खालीलपैकी कोणता एकाक्षरी शब्द 'ऱ्हस्व' लिहितात?",
+      "options": [
+        { "option_number": 1, "text": "मी", "is_correct": false },
+        { "option_number": 2, "text": "नी", "is_correct": true },
+        { "option_number": 3, "text": "ती", "is_correct": false },
+        { "option_number": 4, "text": "तू", "is_correct": false }
+      ],
+      "answer": "नी"
+    },
+    {
+      "question_number": 32,
+      "question_type": "multiple_choice",
+      "question": "सावभानामिक विशेषण ओळखा: 'तुमचा चेहरा लाल झालाय.'",
+      "options": [
+        { "option_number": 1, "text": "चेहरा", "is_correct": false },
+        { "option_number": 2, "text": "लाल", "is_correct": false },
+        { "option_number": 3, "text": "तुमचा", "is_correct": true },
+        { "option_number": 4, "text": "झालाय", "is_correct": false }
+      ],
+      "answer": "तुमचा"
+    },
+    {
+      "question_number": 33,
+      "question_type": "multiple_choice",
+      "question": "आई मुलाला कशाने अंघोळ घालावी लागेल म्हणते?",
+      "options": [
+        { "option_number": 1, "text": "दुधाने", "is_correct": false },
+        { "option_number": 2, "text": "शाईने", "is_correct": true },
+        { "option_number": 3, "text": "तेलाने", "is_correct": false },
+        { "option_number": 4, "text": "पाण्याने", "is_correct": false }
+      ],
+      "answer": "शाईने"
+    },
+    {
+      "question_number": 34,
+      "question_type": "multiple_choice",
+      "question": "मुलाला कशामुळे 'भय' वाटते? (पाणी गेल्यावर...)",
+      "options": [
+        { "option_number": 1, "text": "शाईने अंघोळ करावी लागेल म्हणून", "is_correct": true },
+        { "option_number": 2, "text": "अंधार होईल म्हणून", "is_correct": false },
+        { "option_number": 3, "text": "आई मारेल म्हणून", "is_correct": false },
+        { "option_number": 4, "text": "झोप येणार नाही म्हणून", "is_correct": false }
+      ],
+      "answer": "शाईने अंघोळ करावी लागेल म्हणून"
+    },
+    {
+      "question_number": 35,
+      "question_type": "multiple_choice",
+      "question": "शास्त्रीय भाषेत 'परमाणू' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "मोठा दगड", "is_correct": false },
+        { "option_number": 2, "text": "अतिसूक्ष्म कण", "is_correct": true },
+        { "option_number": 3, "text": "एक प्रकारचा वायू", "is_correct": false },
+        { "option_number": 4, "text": "ग्रह", "is_correct": false }
+      ],
+      "answer": "अतिसूक्ष्म कण"
+    },
+    {
+      "question_number": 36,
+      "question_type": "multiple_choice",
+      "question": "मुलाने वरील शास्त्रज्ञांच्या यादीत कोणाचे नाव घेतले नाही?",
+      "options": [
+        { "option_number": 1, "text": "न्यूटन", "is_correct": false },
+        { "option_number": 2, "text": "गॅलिलिओ", "is_correct": false },
+        { "option_number": 3, "text": "शिवाजी महाराज", "is_correct": true },
+        { "option_number": 4, "text": "जेम्स वॅट", "is_correct": false }
+      ],
+      "answer": "शिवाजी महाराज"
+    },
+    {
+      "question_number": 37,
+      "question_type": "multiple_choice",
+      "question": "'टेस्टट्यूब्स' ला मराठीत काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "पाणी पट्टी", "is_correct": false },
+        { "option_number": 2, "text": "परीक्षा नळी", "is_correct": true },
+        { "option_number": 3, "text": "काचेचा पेला", "is_correct": false },
+        { "option_number": 4, "text": "विजेचा बल्ब", "is_correct": false }
+      ],
+      "answer": "परीक्षा नळी"
+    },
+    {
+      "question_number": 38,
+      "question_type": "multiple_choice",
+      "question": "मुलगा 'लॅब' मध्ये कशाचे डोंगर रचल्याचे म्हणतो?",
+      "options": [
+        { "option_number": 1, "text": "खेळण्यांचा", "is_correct": false },
+        { "option_number": 2, "text": "पुस्तकांचा", "is_correct": true },
+        { "option_number": 3, "text": "मातीचा", "is_correct": false },
+        { "option_number": 4, "text": "शाईचा", "is_correct": false }
+      ],
+      "answer": "पुस्तकांचा"
+    },
+    {
+      "question_number": 39,
+      "question_type": "multiple_choice",
+      "question": "मुलाला शास्त्रज्ञ झाल्यावर कोणत्या समारंभात मिरवायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "लग्नाच्या", "is_correct": false },
+        { "option_number": 2, "text": "बक्षीस समारंभात", "is_correct": true },
+        { "option_number": 3, "text": "वाढदिवसाच्या", "is_correct": false },
+        { "option_number": 4, "text": "शाळेच्या स्नेहसंमेलनात", "is_correct": false }
+      ],
+      "answer": "बक्षीस समारंभात"
+    },
+    {
+      "question_number": 40,
+      "question_type": "multiple_choice",
+      "question": "आई मुलाला 'पँट' कोठे शोधायला सांगते?",
+      "options": [
+        { "option_number": 1, "text": "कपाटात", "is_correct": false },
+        { "option_number": 2, "text": "कपड्यांच्या बोळ्यात", "is_correct": true },
+        { "option_number": 3, "text": "शाळेत", "is_correct": false },
+        { "option_number": 4, "text": "बाहेर अंगणात", "is_correct": false }
+      ],
+      "answer": "कपड्यांच्या बोळ्यात"
+    },
+    {
+      "question_number": 41,
+      "question_type": "multiple_choice",
+      "question": "या नाट्यछटेचा मुख्य विषय काय आहे?",
+    "options": [
+    { "option_number": 1, "text": "मुलाची खोडकर वृत्ती", "is_correct": false },
+    { "option_number": 2, "text": "मुलाची शास्त्रज्ञ होण्याची जिद्द आणि घरातील व्यत्यय", "is_correct": true },
+    { "option_number": 3, "text": "आईचा राग", "is_correct": false },
+    { "option_number": 4, "text": "पाण्याची टंचाई", "is_correct": false }
+    ],
+    "answer": "मुलाची शास्त्रज्ञ होण्याची जिद्द आणि घरातील व्यत्यय"
+    },
+    {
+    "question_number": 42,
+    "question_type": "multiple_choice",
+    "question": "मुलाने 'शाईच्या बाटल्या' कशासाठी तयार ठेवल्या आहेत?",
+    "options": [
+    { "option_number": 1, "text": "अंघोळीसाठी", "is_correct": false },
+    { "option_number": 2, "text": "टिपण (Notes) काढण्यासाठी", "is_correct": true },
+    { "option_number": 3, "text": "भिंती रंगवण्यासाठी", "is_correct": false },
+    { "option_number": 4, "text": "मित्रांना देण्यासाठी", "is_correct": false }
+    ],
+    "answer": "टिपण (Notes) काढण्यासाठी"
+    },
+    {
+    "question_number": 43,
+    "question_type": "multiple_choice",
+    "question": "नाट्यछटेतील मुलगा स्वतःला कोणाच्या रांगेत बसवू इच्छितो?",
+    "options": [
+    { "option_number": 1, "text": "गायकांच्या", "is_correct": false },
+    { "option_number": 2, "text": "थोर शास्त्रज्ञांच्या", "is_correct": true },
+    { "option_number": 3, "text": "राजकारण्यांच्या", "is_correct": false },
+    { "option_number": 4, "text": "नटांच्या", "is_correct": false }
+    ],
+    "answer": "थोर शास्त्रज्ञांच्या"
+    },
+    {
+    "question_number": 44,
+    "question_type": "multiple_choice",
+    "question": "'अनंत अडचणी' म्हणजे काय?",
+    "options": [
+    { "option_number": 1, "text": "थोड्या अडचणी", "is_correct": false },
+    { "option_number": 2, "text": "अगणित किंवा खूप अडचणी", "is_correct": true },
+    { "option_number": 3, "text": "एकही अडचण नाही", "is_correct": false },
+    { "option_number": 4, "text": "सोपी कामे", "is_correct": false }
+    ],
+    "answer": "अगणित किंवा खूप अडचणी"
+    },
+    {
+    "question_number": 45,
+    "question_type": "multiple_choice",
+    "question": "मुलाने 'मायक्रोस्कोप' कोठून आणला असावा? (पाठानूसार)",
+    "options": [
+    { "option_number": 1, "text": "शाळेतून चोरला", "is_correct": false },
+    { "option_number": 2, "text": "स्वतःच्या 'लॅब'साठी जमवून आणला", "is_correct": true },
+    { "option_number": 3, "text": "आईने दिला", "is_correct": false },
+    { "option_number": 4, "text": "मित्राकडून घेतला", "is_correct": false }
+    ],
+    "answer": "स्वतःच्या 'लॅब'साठी जमवून आणला"
+    },
+    {
+    "question_number": 46,
+    "question_type": "multiple_choice",
+    "question": "'दिवाकरांच्या नाट्यछटा' हे पुस्तक कोणाचे आहे?",
+    "options": [
+    { "option_number": 1, "text": "प्रियंवदा करंडे", "is_correct": false },
+    { "option_number": 2, "text": "दिवाकर (विठ्ठल सीताराम गुप्ते)", "is_correct": true },
+    { "option_number": 3, "text": "साने गुरुजी", "is_correct": false },
+    { "option_number": 4, "text": "पु. ल. देशपांडे", "is_correct": false }
+    ],
+    "answer": "दिवाकर (विठ्ठल सीताराम गुप्ते)"
+    },
+    {
+    "question_number": 47,
+    "question_type": "multiple_choice",
+    "question": "मुलाला आईने पँट शोधायला सांगताच तो काय म्हणतो?",
+    "options": [
+    { "option_number": 1, "text": "मी शोधणार नाही", "is_correct": false },
+    { "option_number": 2, "text": "पँट शोधली तर तोच सर्वात मोठा शोध ठरेल", "is_correct": true },
+    { "option_number": 3, "text": "ताई शोधून देईल", "is_correct": false },
+    { "option_number": 4, "text": "मला पँट नकोय", "is_correct": false }
+    ],
+    "answer": "पँट शोधली तर तोच सर्वात मोठा शोध ठरेल"
+    },
+    {
+    "question_number": 48,
+    "question_type": "multiple_choice",
+    "question": "'विद्युतशक्ती' म्हणजे काय?",
+    "options": [
+    { "option_number": 1, "text": "पाण्याची शक्ती", "is_correct": false },
+    { "option_number": 2, "text": "विजेची शक्ती (Electricity)", "is_correct": true },
+    { "option_number": 3, "text": "सूर्याची शक्ती", "is_correct": false },
+    { "option_number": 4, "text": "स्नायूंची शक्ती", "is_correct": false }
+    ],
+    "answer": "विजेची शक्ती (Electricity)"
+    },
+    {
+    "question_number": 49,
+    "question_type": "multiple_choice",
+    "question": "मुलाने लॅबमध्ये टिपण काढण्यासाठी काय आणले आहे?",
+    "options": [
+    { "option_number": 1, "text": "पेन", "is_correct": false },
+    { "option_number": 2, "text": "कागदांचे ताव", "is_correct": true },
+    { "option_number": 3, "text": "वही", "is_correct": false },
+    { "option_number": 4, "text": "पाटी", "is_correct": false }
+    ],
+    "answer": "कागदांचे ताव"
+    },
+    {
+    "question_number": 50,
+    "question_type": "multiple_choice",
+    "question": "मुलाला कोणासारखे व्हायचे आहे?",
+    "options": [
+    { "option_number": 1, "text": "गायक", "is_correct": false },
+    { "option_number": 2, "text": "शास्त्रज्ञ", "is_correct": true },
+    { "option_number": 3, "text": "राजकारणी", "is_correct": false },
+    { "option_number": 4, "text": "शेतकरी", "is_correct": false }
+    ],
+    "answer": "शास्त्रज्ञ"
+    }
+  ],
+  "question_list_one_word": [
+    { "question_number": 51, "question": "नाट्यछटेचे नाव काय?", "answer": "मला मोठ्ठं व्हायचंय!" },
+    { "question_number": 52, "question": "लेखिकेचे नाव काय?", "answer": "प्रियंवदा करंडे" },
+    { "question_number": 53, "question": "मुलाला काय व्हायचे आहे?", "answer": "शास्त्रज्ञ" },
+    { "question_number": 54, "question": "गुरुत्वाकर्षणाचा शोध कोणी लावला?", "answer": "न्यूटन" },
+    { "question_number": 55, "question": "दुर्बिणीचा शोध कोणी लावला?", "answer": "गॅलिलिओ" },
+    { "question_number": 56, "question": "विमानाचा शोध कोणी लावला?", "answer": "राईट बंधू" },
+    { "question_number": 57, "question": "वाफेच्या इंजिनाचा शोध कोणी लावला?", "answer": "जेम्स वॅट" },
+    { "question_number": 58, "question": "मुलाला अंघोळीला का जायचे नव्हते?", "answer": "शोध लावण्यासाठी" },
+    { "question_number": 59, "question": "मुलाने घरात काय बनवली आहे?", "answer": "लॅब" },
+    { "question_number": 60, "question": "लॅबमध्ये कशाचा डोंगर रचला आहे?", "answer": "पुस्तकांचा" },
+    { "question_number": 61, "question": "टिपण काढण्यासाठी काय आणले आहे?", "answer": "कागदांचे ताव" },
+    { "question_number": 62, "question": "आईला कशाची घाई लागली आहे?", "answer": "अंघोळीची" },
+    { "question_number": 63, "question": "न्यूटनने काय खाली पडताना पाहिले?", "answer": "सफरचंद" },
+    { "question_number": 64, "question": "मुलाच्या कामात कोण व्यत्यय आणतात?", "answer": "घरातील लोक" },
+    { "question_number": 65, "question": "मुलाचा निश्चय कसा आहे?", "answer": "दांडगा" },
+    { "question_number": 66, "question": "आई मुलाला कोणती पँट शोधायला सांगते?", "answer": "निळी पँट" },
+    { "question_number": 67, "question": "मुलाला पँट कोठे शोधायला सांगितली?", "answer": "कपड्यांच्या बोळ्यात" },
+    { "question_number": 68, "question": "लॅबमध्ये काचेची काय आणून ठेवली आहेत?", "answer": "पात्रं" },
+    { "question_number": 69, "question": "मुलाला कोणासारखे व्हायचे आहे?", "answer": "शास्त्रज्ञ" },
+    { "question_number": 70, "question": "लेखिकेने कोणाचे चरित्र लिहिले आहे?", "answer": "स्वामी विवेकानंद" },
+    { "question_number": 71, "question": "मुलाला बक्षीस कोठे मिळणार आहे?", "answer": "बक्षीस समारंभात" },
+    { "question_number": 72, "question": "मुलाला कोण चिडवते?", "answer": "ताई" },
+    { "question_number": 73, "question": "थोर पुरुषांच्या कार्यात काय असतात?", "answer": "अडचणी" },
+    { "question_number": 74, "question": "मुलाने लॅबमध्ये काय आणले आहे? (एका उपकरणाचे नाव सांगा)", "answer": "मायक्रोस्कोप" },
+    { "question_number": 75, "question": "मुलाला 'शाईने' काय करावी लागेल असे आई म्हणते?", "answer": "अंघोळ" },
+    { "question_number": 76, "question": "मुलाला कशामुळे मनस्ताप झाला?", "answer": "कामात व्यत्यय आल्यामुळे" },
+    { "question_number": 77, "question": "शास्त्रीय भाषेत 'लॅब' म्हणजे काय?", "answer": "प्रयोगशाळा" },
+    { "question_number": 78, "question": "कोणता शोध लावल्यास आईवर उपकार होतील?", "answer": "निळी पँट शोधल्यास" },
+    { "question_number": 79, "question": "मुलाच्या टिपणासाठी काय तयार आहेत?", "answer": "शाईच्या बाटल्या" },
+    { "question_number": 80, "question": "मुलाचा स्वभाव कसा दिसतो?", "answer": "जिद्दी" },
+    { "question_number": 81, "question": "नाट्यछटेत किती पात्रे बोलतात?", "answer": "एक" },
+    { "question_number": 82, "question": "'गवसनी घालणे' म्हणजे काय?", "answer": "साध्य करणे" },
+    { "question_number": 83, "question": "न्यूटन कोठल्या देशाचे होते? (सामान्य ज्ञान संदर्भानुसार)", "answer": "इंग्लंड" },
+    { "question_number": 84, "question": "मुलाला अंघोळीला न गेल्यास काय होईल असे वाटते?", "answer": "पाणी जाईल" },
+    { "question_number": 85, "question": "मुलाच्या मते पँट शोधणे हा कोणता शोध आहे?", "answer": "सर्वात मोठा" },
+    { "question_number": 86, "question": "शास्त्रज्ञांना शोध लावायला किती वेळ लागतो?", "answer": "तासनतास" },
+    { "question_number": 87, "question": "मुलाला कोणाचे मस्तक व्हायचे आहे? (नाट्यछटा संदर्भात)", "answer": "थोर पुरुषाचे" },
+    { "question_number": 88, "question": "मुलाला कोणाचे भाषण ऐकायचे नाही?", "answer": "आईचे" },
+    { "question_number": 89, "question": "मुलाला कोणाची भीती वाटते?", "answer": "ताईची" },
+    { "question_number": 90, "question": "मुलाला कोणते काम शिल्लक राहिले नाही असे वाटते?", "answer": "शोध लावण्याचे" },
+    { "question_number": 91, "question": "लेखिकेचा जन्म कधी झाला?", "answer": "१९४६" },
+    { "question_number": 92, "question": "मुलाने लॅबमध्ये काय रचला आहे?", "answer": "डोंगर" },
+    { "question_number": 93, "question": "मुलाने कोणाचे उदाहरण दिले?", "answer": "न्यूटन" },
+    { "question_number": 94, "question": "मुलाला काय नकोसे झाले आहे?",
+      "answer": "अंघोळ" },
+    { "question_number": 95, "question": "मुलाच्या मनात काय चालले आहे?", "answer": "विचार" },
+    { "question_number": 96, "question": "मुलाला कोणत्या बाटल्या तयार ठेवायच्या आहेत?", "answer": "शाईच्या" },
+    { "question_number": 97, "question": "मुलाला कोठून पाणी काढायचे आहे?", "answer": "खडकातून" },
+    { "question_number": 98, "question": "मुलाला कशाला गवसणी घालायची आहे?", "answer": "आकाशाला" },
+    { "question_number": 99, "question": "मुलाला 'अणूतून' काय मिळवायचे आहे? (ध्वनी संदर्भात)", "answer": "ऊर्जा" },
+    { "question_number": 100, "question": "मुलाला कोणती नळी लागते?", "answer": "टेस्टट्यूब" },
+    { "question_number": 101, "question": "मुलाला शास्त्रज्ञ होणे सोपे वाटते का?", "answer": "नाही" },
+    { "question_number": 102, "question": "मुलाला काय वाचायचे आहे?", "answer": "पुस्तके" },
+    { "question_number": 103, "question": "मुलाला कोणाचे नाव सांगायचे आहे?", "answer": "शास्त्रज्ञांचे" },
+    { "question_number": 104, "question": "मुलाला कोण त्रास देते?", "answer": "ताई" },
+    { "question_number": 105, "question": "मुलाला कोण रागावते?", "answer": "आई" },
+    { "question_number": 106, "question": "मुलाला कोठे जायचे आहे?", "answer": "लॅबमध्ये" },
+    { "question_number": 107, "question": "मुलाने काय जमवले आहे?", "answer": "साहित्य" },
+    { "question_number": 108, "question": "मुलाला कोणासारखे विचार करायचे आहेत?", "answer": "न्यूटनसारखे" },
+    { "question_number": 109, "question": "मुलाला कोठून शोध लावायचे आहेत?", "answer": "घरातून" },
+    { "question_number": 110, "question": "मुलाला कोणाचे आभार मानायचे आहेत?", "answer": "आईचे" },
+    { "question_number": 111, "question": "मुलाला कोठली पँट पाहिजे?", "answer": "निळी" },
+    { "question_number": 112, "question": "मुलाला पँट कशात शोधायची आहे?", "answer": "बोळ्यात" },
+    { "question_number": 113, "question": "मुलाला कोणाचे काम आवडते?", "answer": "शास्त्रज्ञांचे" },
+    { "question_number": 114, "question": "मुलाला काय वळवायचे आहे?", "answer": "बोट (व्यायामासाठी)" },
+    { "question_number": 115, "question": "मुलाला कोणते यंत्र हवे आहे?", "answer": "मायक्रोस्कोप" },
+    { "question_number": 116, "question": "मुलाला कशाचा त्रास होतो?", "answer": "व्यत्ययाचा" },
+    { "question_number": 117, "question": "मुलाला शास्त्रज्ञ बनायची काय आहे?", "answer": "जिद्द" },
+    { "question_number": 118, "question": "मुलाला कोणाचे कौतुक हवे आहे?", "answer": "आई-ताईचे" },
+    { "question_number": 119, "question": "मुलाला 'अणूत' काय शोधायचे आहे?", "answer": "परमाणू" },
+    { "question_number": 120, "question": "मुलाला 'लॅब' मध्ये काय करायचे आहे?", "answer": "संशोधन" },
+    { "question_number": 121, "question": "मुलाला कोणाचे मर्म समजले आहे?", "answer": "शास्त्रज्ञांचे" },
+    { "question_number": 122, "question": "मुलाला कोठून पाणी काढायचे ध्येय आहे?", "answer": "खडकातून" },
+    { "question_number": 123, "question": "मुलाला काय धरायचे आहे?", "answer": "ध्येय" },
+    { "question_number": 124, "question": "मुलाला कोणाचे सहकार्य हवे आहे?", "answer": "घरातील लोकांचे" },
+    { "question_number": 125, "question": "मुलाला शास्त्रज्ञ बनायला किती वेळ लागेल?", "answer": "खूप" },
+    { "question_number": 126, "question": "मुलाला 'शाई' कोठे टाकायची आहे?", "answer": "कागदावर" },
+    { "question_number": 127, "question": "मुलाला कोणाचे भाषण आवडत नाही?", "answer": "आईचे" },
+    { "question_number": 128, "question": "मुलाला कोठले ताव हवेत?", "answer": "कागदांचे" },
+    { "question_number": 129, "question": "मुलाला शास्त्रज्ञ झाल्यावर काय मिळेल?", "answer": "बक्षीस" },
+    { "question_number": 130, "question": "मुलाला कोणाचे नाव मोठे करायचे आहे?", "answer": "स्वतःचे" },
+    { "question_number": 131, "question": "मुलाला कोणासारखी घाई नको आहे?", "answer": "आईसारखी" },
+    { "question_number": 132, "question": "मुलाला कोठले सफरचंद हवे आहे?", "answer": "न्यूटनचे" },
+    { "question_number": 133, "question": "मुलाला कशामुळे आनंद होतो?", "answer": "शोधांमुळे" },
+    { "question_number": 134, "question": "मुलाला काय वळवायचे आहे?", "answer": "बोटे" },
+    { "question_number": 135, "question": "मुलाला 'लॅब' कोठे बनवायची आहे?", "answer": "घरात" },
+    { "question_number": 136, "question": "मुलाला कोणाचे टिपण काढायचे आहे?", "answer": "शोधांचे" },
+    { "question_number": 137, "question": "मुलाला कोणती नळी लागते?", "answer": "टेस्टट्यूब" },
+    { "question_number": 138, "question": "मुलाला कोणाचे साहित्य हवे आहे?", "answer": "वैज्ञानिकांचे" },
+    { "question_number": 139, "question": "मुलाला कोठले पुस्तक वाचायचे आहे?", "answer": "विज्ञानाचे" },
+    { "question_number": 140, "question": "मुलाला शास्त्रज्ञ बनायची काय आहे?", "answer": "इच्छा" },
+    { "question_number": 141, "question": "मुलाला कोणाचे दुःख समजते?", "answer": "शास्त्रज्ञांचे" },
+    { "question_number": 142, "question": "मुलाला कोठून प्रकाश मिळवायचा आहे?", "answer": "विजेतून" },
+    { "question_number": 143, "question": "मुलाला 'परमाणू' कोठे शोधायचा आहे?", "answer": "अणूत" },
+    { "question_number": 144, "question": "मुलाला कोणाचे उदाहरण प्रेरणा देते?", "answer": "न्यूटनचे" },
+    { "question_number": 145, "question": "मुलाला काय लावायचे आहेत?", "answer": "शोध" },
+    { "question_number": 146, "question": "मुलाला कोणाचे घर लॅब बनवायचे आहे?", "answer": "स्वतःचे" },
+    { "question_number": 147, "question": "मुलाला कोठली बाटली हवी आहे?", "answer": "शाईची" },
+    { "question_number": 148, "question": "मुलाला शास्त्रज्ञ बनायला कोणाची मदत लागेल?", "answer": "कोणाचीच नाही" },
+    { "question_number": 149, "question": "मुलाला काय वाचायला आवडते?", "answer": "पुस्तके" },
+    { "question_number": 150, "question": "नाट्यछटेचा शेवट काय शोधून होतो?", "answer": "निळी पँट" }
+  ]
+}

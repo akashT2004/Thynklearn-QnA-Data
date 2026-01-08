@@ -1,0 +1,107 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.हिंदी.01",
+    "class": "6",
+    "subject": "हिंदी",
+    "medium": "हिंदी",
+    "chapter_name": "उपयोग हमारे (डाकघर और बैंक)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "बहुविकल्पीय",
+      "question": "डाकघर में टिकट खरीदने के लिए किस काउंटर पर जाना पड़ता है?",
+      "options": [
+        { "option_id": 1, "text": "बचत खाता", "is_correct": false },
+        { "option_id": 2, "text": "रजिस्ट्री/टिकट", "is_correct": true },
+        { "option_id": 3, "text": "पूछताछ", "is_correct": false },
+        { "option_id": 4, "text": "मनीऑर्डर", "is_correct": false }
+      ],
+      "answer": "रजिस्ट्री/टिकट"
+    },
+    {
+      "question_id": 2,
+      "question_type": "बहुविकल्पीय",
+      "question": "डाकघर में पैसे भेजने की सुविधा को क्या कहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "पार्सल", "is_correct": false },
+        { "option_id": 2, "text": "टिकट", "is_correct": false },
+        { "option_id": 3, "text": "मनीऑर्डर", "is_correct": true },
+        { "option_id": 4, "text": "बचत", "is_correct": false }
+      ],
+      "answer": "मनीऑर्डर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "बहुविकल्पीय",
+      "question": "बैंक में रुपयों का लेन-देन करने वाले व्यक्ति को क्या कहते हैं?",
+      "options": [
+        { "option_id": 1, "text": "मैनेजर", "is_correct": false },
+        { "option_id": 2, "text": "कैशियर", "is_correct": true },
+        { "option_id": 3, "text": "गार्ड", "is_correct": false },
+        { "option_id": 4, "text": "डाकिया", "is_correct": false }
+      ],
+      "answer": "कैशियर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "बहुविकल्पीय",
+      "question": "बैंक की सुरक्षा के लिए द्वार पर कौन तैनात होता है?",
+      "options": [
+        { "option_id": 1, "text": "मैनेजर", "is_correct": false },
+        { "option_id": 2, "text": "क्लर्क", "is_correct": false },
+        { "option_id": 3, "text": "सुरक्षा रक्षक (गार्ड)", "is_correct": true },
+        { "option_id": 4, "text": "डाकिया", "is_correct": false }
+      ],
+      "answer": "सुरक्षा रक्षक (गार्ड)"
+    },
+    {
+      "question_id": 6,
+      "question_type": "बहुविकल्पीय",
+      "question": "बैंक में खाता खोलने के लिए किस काउंटर पर जाना होता है?",
+      "options": [
+        { "option_id": 1, "text": "बचत खाता", "is_correct": true },
+        { "option_id": 2, "text": "कैशियर", "is_correct": false },
+        { "option_id": 3, "text": "मैनेजर", "is_correct": false },
+        { "option_id": 4, "text": "पूछताछ", "is_correct": false }
+      ],
+      "answer": "बचत खाता"
+    },
+    {
+      "question_id": 7,
+      "question_type": "बहुविकल्पीय",
+      "question": "बैंक में पैसे निकालने के लिए कौन-सी मशीन लगी होती है?",
+      "options": [
+        { "option_id": 1, "text": "कंप्यूटर", "is_correct": false },
+        { "option_id": 2, "text": "ए.टी.एम. (ATM)", "is_correct": true },
+        { "option_id": 3, "text": "फैक्स", "is_correct": false },
+        { "option_id": 4, "text": "प्रिंटर", "is_correct": false }
+      ],
+      "answer": "ए.टी.एम. (ATM)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "लघु",
+      "question": "बैंक में 'मैनेजर' का क्या काम होता है?",
+      "answer": "मैनेजर बैंक का मुख्य अधिकारी होता है जो बैंक के सभी कार्यों की देखरेख और प्रबंधन करता है।"
+    },
+    {
+      "question_id": 28,
+      "question_type": "लघु",
+      "question": "बैंक में 'ए.टी.एम.' (ATM) मशीन का क्या उपयोग है?",
+      "answer": "ए.टी.एम. मशीन से हम किसी भी समय (24 घंटे) अपने खाते से पैसे निकाल सकते हैं।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "लघु",
+      "question": "क्या हम डाकघर में भी पैसे जमा कर सकते हैं?",
+      "answer": "हाँ, डाकघर में भी बैंक की तरह बचत खाता खोलकर पैसे जमा किए जा सकते हैं।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "लघु",
+      "question": "इन सार्वजनिक स्थानों पर हमें कैसा व्यवहार करना चाहिए?",
+      "answer": "हमें इन स्थानों पर शांति बनाए रखनी चाहिए, कतार (लाइन) में खड़ा होना चाहिए और स्वच्छता का ध्यान रखना चाहिए।"
+    }
+  ]
+}

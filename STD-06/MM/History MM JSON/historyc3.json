@@ -1,0 +1,1212 @@
+{
+  "chapter_info": {
+    "chapter_number": "3",
+    "grade": "6",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "हडप्पा संस्कृती"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीचे उत्खनन सर्वप्रथम कोणत्या वर्षी सुरू झाले?",
+      "options": [
+        { "option_number": 1, "text": "इ. स. १९२०", "is_correct": false },
+        { "option_number": 2, "text": "इ. स. १९२१", "is_correct": true },
+        { "option_number": 3, "text": "इ. स. १९२२", "is_correct": false },
+        { "option_number": 4, "text": "इ. स. १९२५", "is_correct": false }
+      ],
+      "answer": "इ. स. १९२१"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा हे ठिकाण सध्या कोणत्या नदीच्या काठी आहे?",
+      "options": [
+        { "option_number": 1, "text": "सिंधू", "is_correct": false },
+        { "option_number": 2, "text": "झेलम", "is_correct": false },
+        { "option_number": 3, "text": "रावी", "is_correct": true },
+        { "option_number": 4, "text": "सतलज", "is_correct": false }
+      ],
+      "answer": "रावी"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीला कोणत्या नावानेही ओळखले जाते?",
+      "options": [
+        { "option_number": 1, "text": "सिंधू संस्कृती", "is_correct": true },
+        { "option_number": 2, "text": "वैदिक संस्कृती", "is_correct": false },
+        { "option_number": 3, "text": "मेसोपोटेमिया संस्कृती", "is_correct": false },
+        { "option_number": 4, "text": "चीनी संस्कृती", "is_correct": false }
+      ],
+      "answer": "सिंधू संस्कृती"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पाच्या दक्षिणेला ६५० किमी अंतरावर कोणते ठिकाण सापडले?",
+      "options": [
+        { "option_number": 1, "text": "लोथल", "is_correct": false },
+        { "option_number": 2, "text": "मोहेंजोदडो", "is_correct": true },
+        { "option_number": 3, "text": "कालीबंगन", "is_correct": false },
+        { "option_number": 4, "text": "दायमाबाद", "is_correct": false }
+      ],
+      "answer": "मोहेंजोदडो"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीच्या लोकांची घरे प्रामुख्याने कोणत्या विटांची होती?",
+      "options": [
+        { "option_number": 1, "text": "कच्च्या विटा", "is_correct": false },
+        { "option_number": 2, "text": "दगडी बांधकाम", "is_correct": false },
+        { "option_number": 3, "text": "भाजक्या विटा", "is_correct": true },
+        { "option_number": 4, "text": "सिमेंटच्या विटा", "is_correct": false }
+      ],
+      "answer": "भाजक्या विटा"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "घरांच्या रचनेत घराच्या मधोमध काय असायचे?",
+      "options": [
+        { "option_number": 1, "text": "विहीर", "is_correct": false },
+        { "option_number": 2, "text": "चौक", "is_correct": true },
+        { "option_number": 3, "text": "शौचालय", "is_correct": false },
+        { "option_number": 4, "text": "स्वयंपाकघर", "is_correct": false }
+      ],
+      "answer": "चौक"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "सांडपाणी वाहून नेण्यासाठी कशाचा उपयोग केला जाई?",
+      "options": [
+        { "option_number": 1, "text": "प्लास्टिक पाईप", "is_correct": false },
+        { "option_number": 2, "text": "मातीच्या भाजक्या पन्हाळी", "is_correct": true },
+        { "option_number": 3, "text": "लोखंडी नळ्या", "is_correct": false },
+        { "option_number": 4, "text": "बोगदे", "is_correct": false }
+      ],
+      "answer": "मातीच्या भाजक्या पन्हाळी"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "रस्त्यावरील गटारे कशाने झाकलेली असत?",
+      "options": [
+        { "option_number": 1, "text": "विटांच्या पाट्यांनी", "is_correct": true },
+        { "option_number": 2, "text": "लाकडाने", "is_correct": false },
+        { "option_number": 3, "text": "काचांनी", "is_correct": false },
+        { "option_number": 4, "text": "कचऱ्याने", "is_correct": false }
+      ],
+      "answer": "विटांनी"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीतील रस्ते एकमेकांना कशात छेदत असत?",
+      "options": [
+        { "option_number": 1, "text": "तिरकस", "is_correct": false },
+        { "option_number": 2, "text": "गोलाकार", "is_correct": false },
+        { "option_number": 3, "text": "काटकोनात", "is_correct": true },
+        { "option_number": 4, "text": "विस्कळीतपणे", "is_correct": false }
+      ],
+      "answer": "काटकोनात"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "नगरांचे दोन किंवा अधिक विभाग करून प्रत्येक विभागाला काय असायचे?",
+      "options": [
+        { "option_number": 1, "text": "स्वतंत्र तटबंदी", "is_correct": true },
+        { "option_number": 2, "text": "मोठा तलाव", "is_correct": false },
+        { "option_number": 3, "text": "वैयक्तिक बाजार", "is_correct": false },
+        { "option_number": 4, "text": "केवळ एक रस्ता", "is_correct": false }
+      ],
+      "answer": "स्वतंत्र तटबंदी"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीच्या मुद्रा प्रामुख्याने कोणत्या आकाराच्या होत्या?",
+      "options": [
+        { "option_number": 1, "text": "गोलाकार", "is_correct": false },
+        { "option_number": 2, "text": "त्रिकोणी", "is_correct": false },
+        { "option_number": 3, "text": "चौरस", "is_correct": true },
+        { "option_number": 4, "text": "लंबगोलाकार", "is_correct": false }
+      ],
+      "answer": "चौरस"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "मुद्रा तयार करण्यासाठी कोणत्या दगडाचा वापर केला जाई?",
+      "options": [
+        { "option_number": 1, "text": "ग्रॅनाइट", "is_correct": false },
+        { "option_number": 2, "text": "स्टिएटाईट", "is_correct": true },
+        { "option_number": 3, "text": "मार्बल", "is_correct": false },
+        { "option_number": 4, "text": "वाळूचा दगड", "is_correct": false }
+      ],
+      "answer": "स्टिएटाईट"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा मुद्रांवर खालीलपैकी कोणता कल्पित प्राणी आढळतो?",
+      "options": [
+        { "option_number": 1, "text": "गेंडा", "is_correct": false },
+        { "option_number": 2, "text": "वाघ", "is_correct": false },
+        { "option_number": 3, "text": "एकशृंग", "is_correct": true },
+        { "option_number": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "एकशृंग"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीतील भांडी प्रामुख्याने कोणत्या रंगाच्या पृष्ठभागाची होती?",
+      "options": [
+        { "option_number": 1, "text": "लाल", "is_correct": true },
+        { "option_number": 2, "text": "काळा", "is_correct": false },
+        { "option_number": 3, "text": "पांढरा", "is_correct": false },
+        { "option_number": 4, "text": "हिरवा", "is_correct": false }
+      ],
+      "answer": "लाल"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "भांड्यांवरील नक्षीमध्ये कोणत्या चिन्हाचा समावेश आहे?",
+      "options": [
+        { "option_number": 1, "text": "माशांचे खवले", "is_correct": true },
+        { "option_number": 2, "text": "त्रिशूळ", "is_correct": false },
+        { "option_number": 3, "text": "कमळ", "is_correct": false },
+        { "option_number": 4, "text": "डोंगर", "is_correct": false }
+      ],
+      "answer": "माशांचे खवले"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "मोहेंजोदडो येथील महास्नानगृहातील स्नानकुंड किती मीटर खोल होते?",
+      "options": [
+        { "option_number": 1, "text": "१.५ मीटर", "is_correct": false },
+        { "option_number": 2, "text": "२.५ मीटर", "is_correct": true },
+        { "option_number": 3, "text": "३.५ मीटर", "is_correct": false },
+        { "option_number": 4, "text": "५ मीटर", "is_correct": false }
+      ],
+      "answer": "२.५ मीटर"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "स्नानकुंडाची लांबी सुमारे किती मीटर होती?",
+      "options": [
+        { "option_number": 1, "text": "७ मीटर", "is_correct": false },
+        { "option_number": 2, "text": "१० मीटर", "is_correct": false },
+        { "option_number": 3, "text": "१२ मीटर", "is_correct": true },
+        { "option_number": 4, "text": "१५ मीटर", "is_correct": false }
+      ],
+      "answer": "१२ मीटर"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीचे लोक मृत व्यक्तीच्या शवाबरोबर काय पुरत असत?",
+      "options": [
+        { "option_number": 1, "text": "सोने", "is_correct": false },
+        { "option_number": 2, "text": "मातीची भांडी", "is_correct": true },
+        { "option_number": 3, "text": "शस्त्रे", "is_correct": false },
+        { "option_number": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "मातीची भांडी"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "नांगरलेल्या शेताचा पुरावा कोठे मिळाला आहे?",
+      "options": [
+        { "option_number": 1, "text": "हडप्पा", "is_correct": false },
+        { "option_number": 2, "text": "कालीबंगन", "is_correct": true },
+        { "option_number": 3, "text": "लोथल", "is_correct": false },
+        { "option_number": 4, "text": "धोलावीरा", "is_correct": false }
+      ],
+      "answer": "कालीबंगन"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीतील मुख्य पिके कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "ज्वारी व बाजरी", "is_correct": false },
+        { "option_number": 2, "text": "गहू व सातू", "is_correct": true },
+        { "option_number": 3, "text": "तांदूळ व मका", "is_correct": false },
+        { "option_number": 4, "text": "ऊस व कापूस", "is_correct": false }
+      ],
+      "answer": "गहू व सातू"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "गुजरातमध्ये कोणत्या पिकाचे उत्पादन मोठ्या प्रमाणावर घेतले जाई?",
+      "options": [
+        { "option_number": 1, "text": "सातू", "is_correct": false },
+        { "option_number": 2, "text": "वाटाणा", "is_correct": false },
+        { "option_number": 3, "text": "नाचणी", "is_correct": true },
+        { "option_number": 4, "text": "मसूर", "is_correct": false }
+      ],
+      "answer": "नाचणी"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीच्या लोकांना कशाचे ज्ञान होते?",
+      "options": [
+        { "option_number": 1, "text": "रेशीम", "is_correct": false },
+        { "option_number": 2, "text": "कापूस", "is_correct": true },
+        { "option_number": 3, "text": "नायलॉन", "is_correct": false },
+        { "option_number": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "कापूस"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "स्त्रिया दंडापर्यंत काय घालत असत?",
+      "options": [
+        { "option_number": 1, "text": "अंगठ्या", "is_correct": false },
+        { "option_number": 2, "text": "बाजूबंद", "is_correct": false },
+        { "option_number": 3, "text": "बांगड्या", "is_correct": true },
+        { "option_number": 4, "text": "कंबरपट्टा", "is_correct": false }
+      ],
+      "answer": "बांगड्या"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पाकालीन कलेचा उत्कृष्ट नमुना म्हणून कशाचा उल्लेख होतो?",
+      "options": [
+        { "option_number": 1, "text": "मातीचे भांडे", "is_correct": false },
+        { "option_number": 2, "text": "वैशिष्ट्यपूर्ण मानवी पुतळा", "is_correct": true },
+        { "option_number": 3, "text": "विहीर", "is_correct": false },
+        { "option_number": 4, "text": "भाजकी वीट", "is_correct": false }
+      ],
+      "answer": "वैशिष्ट्यपूर्ण मानवी पुतळा"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "सिंधूच्या खोऱ्यात कोणत्या दर्जाचा कापूस होत असे?",
+      "options": [
+        { "option_number": 1, "text": "साधारण", "is_correct": false },
+        { "option_number": 2, "text": "कमी दर्जाचा", "is_correct": false },
+        { "option_number": 3, "text": "चांगल्या दर्जाचा", "is_correct": true },
+        { "option_number": 4, "text": "खराब", "is_correct": false }
+      ],
+      "answer": "चांगल्या दर्जाचा"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीचे लोक इजिप्तला कोणते कापड पुरवत असत?",
+      "options": [
+        { "option_number": 1, "text": "रेशमी", "is_correct": false },
+        { "option_number": 2, "text": "मलमलीचे", "is_correct": true },
+        { "option_number": 3, "text": "खदीचे", "is_correct": false },
+        { "option_number": 4, "text": "लोकराचे", "is_correct": false }
+      ],
+      "answer": "मलमलीचे"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "प्रचंड आकाराची गोदी कोठे सापडली आहे?",
+      "options": [
+        { "option_number": 1, "text": "धोलावीरा", "is_correct": false },
+        { "option_number": 2, "text": "लोथल", "is_correct": true },
+        { "option_number": 3, "text": "दायमाबाद", "is_correct": false },
+        { "option_number": 4, "text": "मोहेंजोदडो", "is_correct": false }
+      ],
+      "answer": "लोथल"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीचा व्यापार कोणत्या समुद्राच्या किनाऱ्याने चाले?",
+      "options": [
+        { "option_number": 1, "text": "हिंदी महासागर", "is_correct": false },
+        { "option_number": 2, "text": "अरबी समुद्र", "is_correct": true },
+        { "option_number": 3, "text": "बंगालचा उपसागर", "is_correct": false },
+        { "option_number": 4, "text": "तांबडा समुद्र", "is_correct": false }
+      ],
+      "answer": "अरबी समुद्र"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीचा ऱ्हास होण्यास कोणते कारण कारणीभूत होते?",
+      "options": [
+        { "option_number": 1, "text": "मोठे उद्योग", "is_correct": false },
+        { "option_number": 2, "text": "पुन्हा पुन्हा येणारे महापूर", "is_correct": true },
+        { "option_number": 3, "text": "लोकसंख्या घटणे", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षणाचा अभाव", "is_correct": false }
+      ],
+      "answer": "महापूर"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "पाकिस्तानातील थरच्या वाळवंटाच्या भागाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "सिंध", "is_correct": false },
+        { "option_number": 2, "text": "चोलिस्तान", "is_correct": true },
+        { "option_number": 3, "text": "बलुचिस्तान", "is_correct": false },
+        { "option_number": 4, "text": "पंजाब", "is_correct": false }
+      ],
+      "answer": "चोलिस्तान"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृती ही कोणत्या प्रकारची संस्कृती होती?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामीण", "is_correct": false },
+        { "option_number": 2, "text": "भटकी", "is_correct": false },
+        { "option_number": 3, "text": "नागर", "is_correct": true },
+        { "option_number": 4, "text": "रानटी", "is_correct": false }
+      ],
+      "answer": "नागर"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "उत्खननात मिळालेल्या मुद्रांवर कोणत्या खऱ्या प्राण्यांच्या आकृती आहेत?",
+      "options": [
+        { "option_number": 1, "text": "बैल", "is_correct": true },
+        { "option_number": 2, "text": "सिंह", "is_correct": false },
+        { "option_number": 3, "text": "जिराफ", "is_correct": false },
+        { "option_number": 4, "text": "कांगारू", "is_correct": false }
+      ],
+      "answer": "बैल"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "मृण्मयी भांडी कोणत्या रंगाने नक्षी काढलेली असत?",
+      "options": [
+        { "option_number": 1, "text": "पांढरा", "is_correct": false },
+        { "option_number": 2, "text": "निळा", "is_correct": false },
+        { "option_number": 3, "text": "काळा", "is_correct": true },
+        { "option_number": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "काळा"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "महास्नानगृहातील कुंडात पाणी झिरपू नये म्हणून आतून काय केले होते?",
+      "options": [
+        { "option_number": 1, "text": "तेल लावले होते", "is_correct": false },
+        { "option_number": 2, "text": "पक्क्या विटांनी बांधले होते", "is_correct": true },
+        { "option_number": 3, "text": "प्लास्टिकचा थर दिला होता", "is_correct": false },
+        { "option_number": 4, "text": "दगडी लादी बसवली होती", "is_correct": false }
+      ],
+      "answer": "पक्क्या विटांनी"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पाकालीन लोक कोणत्या देशातून मौल्यवान खडे आणत असत?",
+      "options": [
+        { "option_number": 1, "text": "चीन", "is_correct": false },
+        { "option_number": 2, "text": "इराण व अफगाणिस्तान", "is_correct": true },
+        { "option_number": 3, "text": "अमेरिका", "is_correct": false },
+        { "option_number": 4, "text": "जपान", "is_correct": false }
+      ],
+      "answer": "इराण व अफगाणिस्तान"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीच्या भांड्यांच्या नक्षीमध्ये कोणत्या प्रतीकाचा समावेश आहे?",
+      "options": [
+        { "option_number": 1, "text": "पिंपळपान", "is_correct": true },
+        { "option_number": 2, "text": "तुळशीचे पान", "is_correct": false },
+        { "option_number": 3, "text": "आंब्याचे पान", "is_correct": false },
+        { "option_number": 4, "text": "केळीचे पान", "is_correct": false }
+      ],
+      "answer": "पिंपळपान"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "नगरांची विभागणी साधारणतः किती भागात केलेली असे?",
+      "options": [
+        { "option_number": 1, "text": "एक", "is_correct": false },
+        { "option_number": 2, "text": "दोन किंवा अधिक", "is_correct": true },
+        { "option_number": 3, "text": "पाच", "is_correct": false },
+        { "option_number": 4, "text": "दहा", "is_correct": false }
+      ],
+      "answer": "दोन किंवा अधिक"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीच्या मुद्रांवर कोणाच्या आकृती आढळतात?",
+      "options": [
+        { "option_number": 1, "text": "मनुष्याकृती", "is_correct": true },
+        { "option_number": 2, "text": "केवळ देव", "is_correct": false },
+        { "option_number": 3, "text": "केवळ रस्ते", "is_correct": false },
+        { "option_number": 4, "text": "केवळ घरे", "is_correct": false }
+      ],
+      "answer": "मनुष्याकृती"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "मोहेंजोदडो येथील स्नानकुंडातील पाणी काय करण्याची सोय होती?",
+      "options": [
+        { "option_number": 1, "text": "केवळ साठवण्याची", "is_correct": false },
+        { "option_number": 2, "text": "गरम करण्याची", "is_correct": false },
+        { "option_number": 3, "text": "वेळोवेळी बदलण्याची", "is_correct": true },
+        { "option_number": 4, "text": "केवळ पिण्याची", "is_correct": false }
+      ],
+      "answer": "वेळोवेळी बदलण्याची"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "राजस्थानमध्ये कोणते पीक काढले जात असे?",
+      "options": [
+        { "option_number": 1, "text": "नाचणी", "is_correct": false },
+        { "option_number": 2, "text": "सातू", "is_correct": true },
+        { "option_number": 3, "text": "मका", "is_correct": false },
+        { "option_number": 4, "text": "तांदूळ", "is_correct": false }
+      ],
+      "answer": "सातू"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पाकालीन लोक कोणत्या धातूचे दागिने वापरत?",
+      "options": [
+        { "option_number": 1, "text": "लोखंड", "is_correct": false },
+        { "option_number": 2, "text": "सोने व तांबे", "is_correct": true },
+        { "option_number": 3, "text": "स्टील", "is_correct": false },
+        { "option_number": 4, "text": "अल्युमिनियम", "is_correct": false }
+      ],
+      "answer": "सोने व तांबे"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "पुतळ्याने खांद्यावरून घेतलेल्या शालीवर कोणती नक्षी आहे?",
+      "options": [
+        { "option_number": 1, "text": "फुलांची", "is_correct": false },
+        { "option_number": 2, "text": "त्रिदलाची", "is_correct": true },
+        { "option_number": 3, "text": "रेषांची", "is_correct": false },
+        { "option_number": 4, "text": "प्राण्यांची", "is_correct": false }
+      ],
+      "answer": "त्रिदलाची"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "परदेशांशी चालणारा व्यापार कोणत्या मार्गांनी होत असे?",
+      "options": [
+        { "option_number": 1, "text": "हवाई", "is_correct": false },
+        { "option_number": 2, "text": "रेल्वे", "is_correct": false },
+        { "option_number": 3, "text": "खुश्कीच्या व सागरी", "is_correct": true },
+        { "option_number": 4, "text": "केवळ जंगल", "is_correct": false }
+      ],
+      "answer": "खुश्कीच्या व सागरी"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या मुद्रांवर जहाजांची चित्रे कोरलेली आहेत?",
+      "options": [
+        { "option_number": 1, "text": "हडप्पा संस्कृतीच्या", "is_correct": true },
+        { "option_number": 2, "text": "मराठा साम्राज्याच्या", "is_correct": false },
+        { "option_number": 3, "text": "मुघल काळातील", "is_correct": false },
+        { "option_number": 4, "text": "इंग्रजांच्या", "is_correct": false }
+      ],
+      "answer": "हडप्पा संस्कृतीच्या"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीचा ऱ्हास होण्यास खालीलपैकी कोणते कारण नाही?",
+      "options": [
+        { "option_number": 1, "text": "भूकंप", "is_correct": false },
+        { "option_number": 2, "text": "मोठ्या प्रमाणावर वृक्षारोपण", "is_correct": true },
+        { "option_number": 3, "text": "बाहेरून आलेल्या टोळ्यांची आक्रमणे", "is_correct": false },
+        { "option_number": 4, "text": "नद्यांची पात्रे कोरडी पडणे", "is_correct": false }
+      ],
+      "answer": "मोठ्या प्रमाणावर वृक्षारोपण"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृती ही भारतीय संस्कृतीचा काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "शेवट", "is_correct": false },
+        { "option_number": 2, "text": "पाया", "is_correct": true },
+        { "option_number": 3, "text": "अडथळा", "is_correct": false },
+        { "option_number": 4, "text": "परकीय भाग", "is_correct": false }
+      ],
+      "answer": "पाया"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीच्या लोकांच्या पोशाखात उपरणे व कशाचा समावेश होता?",
+      "options": [
+        { "option_number": 1, "text": "पँट", "is_correct": false },
+        { "option_number": 2, "text": "कोट", "is_correct": false },
+        { "option_number": 3, "text": "गुडघ्यापर्यंतचे वस्त्र", "is_correct": true },
+        { "option_number": 4, "text": "टोपी", "is_correct": false }
+      ],
+      "answer": "गुडघ्यापर्यंतचे वस्त्र"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "गटारे कशाने बांधून काढलेली असत?",
+      "options": [
+        { "option_number": 1, "text": "विटांनी", "is_correct": true },
+        { "option_number": 2, "text": "काच", "is_correct": false },
+        { "option_number": 3, "text": "बांबू", "is_correct": false },
+        { "option_number": 4, "text": "प्लास्टिक", "is_correct": false }
+      ],
+      "answer": "विटांनी"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा संस्कृतीच्या लोकांच्या दागिन्यांमध्ये कशाचा वापर होत नसे?",
+      "options": [
+        { "option_number": 1, "text": "रत्ने", "is_correct": false },
+        { "option_number": 2, "text": "शिंपले", "is_correct": false },
+        { "option_number": 3, "text": "प्लास्टिक मणी", "is_correct": true },
+        { "option_number": 4, "text": "कवड्या", "is_correct": false }
+      ],
+      "answer": "प्लास्टिक मणी"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "व्यापारातील घट हे कोणत्या संस्कृतीच्या ऱ्हासाचे कारण मानले जाते?",
+      "options": [
+        { "option_number": 1, "text": "हडप्पा संस्कृती", "is_correct": true },
+        { "option_number": 2, "text": "वैदिक", "is_correct": false },
+        { "option_number": 3, "text": "चिनी", "is_correct": false },
+        { "option_number": 4, "text": "इजिप्शियन", "is_correct": false }
+      ],
+      "answer": "हडप्पा संस्कृती"
+    }
+  [
+  {
+    "question_number": 51,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचे उत्खनन सर्वप्रथम कोठे झाले?",
+    "answer": "हडप्पा"
+  },
+  {
+    "question_number": 52,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृती कोणत्या वर्षी शोधली गेली?",
+    "answer": "इ. स. १९२१"
+  },
+  {
+    "question_number": 53,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा हे ठिकाण कोणत्या नदीच्या काठी आहे?",
+    "answer": "रावी"
+  },
+  {
+    "question_number": 54,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीला कोणत्या नावाने ओळखले जाते?",
+    "answer": "सिंधू संस्कृती"
+  },
+  {
+    "question_number": 55,
+    "question_type": "एकशब्दी",
+    "question": "मोहेंजोदडो कोठे वसलेले आहे?",
+    "answer": "सिंधू नदीच्या खोऱ्यात"
+  },
+  {
+    "question_number": 56,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील घरांची रचना प्रामुख्याने कशाची होती?",
+    "answer": "भाजक्या विटांची"
+  },
+  {
+    "question_number": 57,
+    "question_type": "एकशब्दी",
+    "question": "नगरातील रस्ते एकमेकांना कशात छेदत असत?",
+    "answer": "काटकोनात"
+  },
+  {
+    "question_number": 58,
+    "question_type": "एकशब्दी",
+    "question": "सांडपाणी वाहून नेण्यासाठी कशाचा वापर केला जाई?",
+    "answer": "भाजक्या पन्हाळी"
+  },
+  {
+    "question_number": 59,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन मुद्रा कोणत्या आकाराच्या होत्या?",
+    "answer": "चौरस"
+  },
+  {
+    "question_number": 60,
+    "question_type": "एकशब्दी",
+    "question": "मुद्रा तयार करण्यासाठी कोणता दगड वापरला जाई?",
+    "answer": "स्टिएटाईट"
+  },
+  {
+    "question_number": 61,
+    "question_type": "एकशब्दी",
+    "question": "मुद्रांवर कोणत्या काल्पनिक प्राण्याचा उल्लेख आढळतो?",
+    "answer": "एकशृंग"
+  },
+  {
+    "question_number": 62,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील भांडी कोणत्या रंगाच्या पृष्ठभागाची होती?",
+    "answer": "लाल"
+  },
+  {
+    "question_number": 63,
+    "question_type": "एकशब्दी",
+    "question": "भांड्यांवरील नक्षी कोणत्या रंगाने काढलेली असे?",
+    "answer": "काळ्या"
+  },
+  {
+    "question_number": 64,
+    "question_type": "एकशब्दी",
+    "question": "मोहेंजोदडो येथे काय सापडले आहे?",
+    "answer": "प्रशस्त महास्नानगृह"
+  },
+  {
+    "question_number": 65,
+    "question_type": "एकशब्दी",
+    "question": "महास्नानगृहातील स्नानकुंडाची खोली किती होती?",
+    "answer": "सुमारे २.५ मीटर"
+  },
+  {
+    "question_number": 66,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील लोकांचा मुख्य व्यवसाय कोणता होता?",
+    "answer": "शेती"
+  },
+  {
+    "question_number": 67,
+    "question_type": "एकशब्दी",
+    "question": "नांगरलेल्या शेताचा पुरावा कोठे मिळाला आहे?",
+    "answer": "कालीबंगन"
+  },
+  {
+    "question_number": 68,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन लोक कोणते प्रमुख पीक घेत असत?",
+    "answer": "गहू आणि सातू"
+  },
+  {
+    "question_number": 69,
+    "question_type": "एकशब्दी",
+    "question": "गुजरातमध्ये कोणते पीक मोठ्या प्रमाणावर घेतले जाई?",
+    "answer": "नाचणी"
+  },
+  {
+    "question_number": 70,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या लोकांना कशाचे ज्ञान होते?",
+    "answer": "कापसाचे"
+  },
+  {
+    "question_number": 71,
+    "question_type": "एकशब्दी",
+    "question": "स्त्री-पुरुषांच्या पोशाखात कशाचा समावेश होता?",
+    "answer": "गुडघ्यापर्यंतचे वस्त्र आणि उपरणे"
+  },
+  {
+    "question_number": 72,
+    "question_type": "एकशब्दी",
+    "question": "स्त्रिया दंडापर्यंत काय घालत असत?",
+    "answer": "बांगड्या"
+  },
+  {
+    "question_number": 73,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन कलेचा उत्कृष्ट नमुना कोणता?",
+    "answer": "वैशिष्ट्यपूर्ण मानवी पुतळा"
+  },
+  {
+    "question_number": 74,
+    "question_type": "एकशब्दी",
+    "question": "पुतळ्याच्या शालीवर कोणती नक्षी आहे?",
+    "answer": "त्रिदलाची"
+  },
+  {
+    "question_number": 75,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचे लोक कोणत्या देशांशी व्यापार करत?",
+    "answer": "पश्चिम आशिया आणि इजिप्त"
+  },
+  {
+    "question_number": 76,
+    "question_type": "एकशब्दी",
+    "question": "इजिप्तला कोणते कापड निर्यात केले जाई?",
+    "answer": "मलमलीचे"
+  },
+  {
+    "question_number": 77,
+    "question_type": "एकशब्दी",
+    "question": "व्यापारासाठी प्रसिद्ध असलेली गोदी कोठे सापडली आहे?",
+    "answer": "लोथल"
+  },
+  {
+    "question_number": 78,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचा व्यापार कोणत्या समुद्राच्या किनाऱ्याने चाले?",
+    "answer": "अरबी समुद्र"
+  },
+  {
+    "question_number": 79,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या ऱ्हासाचे एक प्रमुख नैसर्गिक कारण कोणते?",
+    "answer": "महापूर"
+  },
+  {
+    "question_number": 80,
+    "question_type": "एकशब्दी",
+    "question": "भांड्यांवरील नक्षीमध्ये कोणत्या झाडाच्या पानाचा समावेश आहे?",
+    "answer": "पिंपळपान"
+  },
+  {
+    "question_number": 81,
+    "question_type": "एकशब्दी",
+    "question": "मुद्रांवर कोणत्या खऱ्या प्राण्याचे चित्र आढळते?",
+    "answer": "बैल / हत्ती"
+  },
+  {
+    "question_number": 82,
+    "question_type": "एकशब्दी",
+    "question": "मृताचे दफन करताना शवाबरोबर काय पुरले जाई?",
+    "answer": "मातीची भांडी"
+  },
+  {
+    "question_number": 83,
+    "question_type": "एकशब्दी",
+    "question": "सांडपाण्याची गटारे कशी होती?",
+    "answer": "झाकलेली"
+  },
+  {
+    "question_number": 84,
+    "question_type": "एकशब्दी",
+    "question": "नगरांच्या प्रत्येक विभागाला काय असे?",
+    "answer": "स्वतंत्र तटबंदी"
+  },
+  {
+    "question_number": 85,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीही कोणत्या प्रकारची संस्कृती होती?",
+    "answer": "नागर संस्कृती"
+  },
+  {
+    "question_number": 86,
+    "question_type": "एकशब्दी",
+    "question": "कच्छमधील हडप्पा संस्कृतीचे ठिकाण कोणते?",
+    "answer": "धोलावीरा"
+  },
+  {
+    "question_number": 87,
+    "question_type": "एकशब्दी",
+    "question": "महाराष्ट्रातील हडप्पा संस्कृतीचे ठिकाण सांगा.",
+    "answer": "दायमाबाद"
+  },
+  {
+    "question_number": 88,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या घरांच्या रचनेत मधोमध काय असे?",
+    "answer": "चौक"
+  },
+  {
+    "question_number": 89,
+    "question_type": "एकशब्दी",
+    "question": "महास्नानगृहातील स्नानकुंडाची लांबी सुमारे किती होती?",
+    "answer": "१२ मीटर"
+  },
+  {
+    "question_number": 90,
+    "question_type": "एकशब्दी",
+    "question": "गोदी कोठे सापडली आहे?",
+    "answer": "लोथल (गुजरात)"
+  },
+  {
+    "question_number": 91,
+    "question_type": "एकशब्दी",
+    "question": "सिंधू संस्कृतीचा शोध सर्वप्रथम कोठे लागला?",
+    "answer": "हडप्पा"
+  },
+  {
+    "question_number": 92,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या मुद्रा प्रामुख्याने कशासाठी वापरल्या जात?",
+    "answer": "ठसा उमटवण्यासाठी"
+  },
+  {
+    "question_number": 93,
+    "question_type": "एकशब्दी",
+    "question": "राजस्थानमध्ये कोणते पीक घेतले जाई?",
+    "answer": "सातू (बार्ली)"
+  },
+  {
+    "question_number": 94,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन नगरांची विभागणी कशी होती?",
+    "answer": "दोन किंवा अधिक विभाग"
+  },
+  {
+    "question_number": 95,
+    "question_type": "एकशब्दी",
+    "question": "दागिने कशापासून बनवले जात असत?",
+    "answer": "सोने, तांबे आणि रत्ने"
+  },
+  {
+    "question_number": 96,
+    "question_type": "एकशब्दी",
+    "question": "व्यापारासाठी वापरल्या जाणाऱ्या मुद्रा कशाच्या होत्या?",
+    "answer": "दगडाच्या (स्टिएटाईट)"
+  },
+  {
+    "question_number": 97,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचा ऱ्हास कशामुळे झाला असावा?",
+    "answer": "दुष्काळ / आक्रमण"
+  },
+  {
+    "question_number": 98,
+    "question_type": "एकशब्दी",
+    "question": "मोहेंजोदडो येथील स्नानकुंडात पाणी झिरपू नये म्हणून काय केले होते?",
+    "answer": "आतून पक्क्या विटांचे बांधकाम"
+  },
+  {
+    "question_number": 99,
+    "question_type": "एकशब्दी",
+    "question": "सिंधू संस्कृतीने कशाचा पाया घातला?",
+    "answer": "भारतीय संस्कृतीचा"
+  },
+  {
+    "question_number": 100,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील खेळण्यांमध्ये कशाचा समावेश होता?",
+    "answer": "गाड्या आणि शिट्ट्या"
+  },
+  {
+    "question_number": 101,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा काळखंडाचा व्यापार कशाद्वारे होत असे?",
+    "answer": "सागरी मार्ग"
+  },
+  {
+    "question_number": 102,
+    "question_type": "एकशब्दी",
+    "question": "सांडपाणी व्यवस्थेवरून लोकांच्या कशाबद्दलची जाणीव कळते?",
+    "answer": "सार्वजनिक आरोग्य"
+  },
+  {
+    "question_number": 103,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन विहिरी कोठे असत?",
+    "answer": "घरांच्या आवारात"
+  },
+  {
+    "question_number": 104,
+    "question_type": "एकशब्दी",
+    "question": "माशांच्या खवल्यांची नक्षी कशावर आढळते?",
+    "answer": "मातीच्या भांड्यांवर"
+  },
+  {
+    "question_number": 105,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन नगरांमध्ये घरे कोठे बांधली जात?",
+    "answer": "चौकोनी मोकळ्या जागेत"
+  },
+  {
+    "question_number": 106,
+    "question_type": "एकशब्दी",
+    "question": "कवडी आणि शिंपल्यांचा वापर कशासाठी केला जाई?",
+    "answer": "दागिने बनवण्यासाठी"
+  },
+  {
+    "question_number": 107,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा नगरांचे रस्ते कसे होते?",
+    "answer": "रुंद"
+  },
+  {
+    "question_number": 108,
+    "question_type": "एकशब्दी",
+    "question": "अफगाणिस्तानातून कोणते मौल्यवान खडे आणले जात?",
+    "answer": "माणके / खडे"
+  },
+  {
+    "question_number": 109,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील समाज जीवनाचा आधार काय होता?",
+    "answer": "कृषी / शेती"
+  },
+  {
+    "question_number": 110,
+    "question_type": "एकशब्दी",
+    "question": "सिंधू संस्कृतीतील नगरे उजाड होण्याचे एक कारण काय आहे?",
+    "answer": "नद्यांची पात्रे कोरडी पडणे"
+  },
+  {
+    "question_number": 111,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा उत्खननात कोणती धातू आढळली नाही?",
+    "answer": "लोखंड"
+  },
+  {
+    "question_number": 112,
+    "question_type": "एकशब्दी",
+    "question": "मुद्रांवरील चित्रे काय दर्शवतात?",
+    "answer": "कला आणि प्राणीप्रेम"
+  },
+  {
+    "question_number": 113,
+    "question_type": "एकशब्दी",
+    "question": "मोहेंजोदडो येथील स्नानकुंडाची रुंदी किती होती?",
+    "answer": "सुमारे ७ मीटर"
+  },
+  {
+    "question_number": 114,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या उत्तर काळात लोकांनी काय केले?",
+    "answer": "स्थलांतर"
+  },
+  {
+    "question_number": 115,
+    "question_type": "एकशब्दी",
+    "question": "कालीबंगन कोठे आहे?",
+    "answer": "राजस्थान"
+  },
+  {
+    "question_number": 116,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचे लोक मलमल कोठून मिळवत असत?",
+    "answer": "स्वतः विणत (निर्यात इजिप्तला)"
+  },
+  {
+    "question_number": 117,
+    "question_type": "एकशब्दी",
+    "question": "सिंधू खोऱ्यात कोणत्या प्रकारचा कापूस होत असे?",
+    "answer": "उत्कृष्ट दर्जाचा"
+  },
+  {
+    "question_number": 118,
+    "question_type": "एकशब्दी",
+    "question": "मुद्रांवरील ठसा कशासाठी असे?",
+    "answer": "व्यापारी मालाच्या ओळखीसाठी"
+  },
+  {
+    "question_number": 119,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन खेळांमध्ये कशाचा समावेश होता?",
+    "answer": "विविध प्रकारची मातीची खेळणी"
+  },
+  {
+    "question_number": 120,
+    "question_type": "एकशब्दी",
+    "question": "सांडपाण्यावर प्रक्रिया करण्याची प्राथमिक व्यवस्था कोठे दिसते?",
+    "answer": "हडप्पा संस्कृतीत"
+  },
+  {
+    "question_number": 121,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृती कोणत्या खंडातील प्राचीन संस्कृती आहे?",
+    "answer": "आशिया"
+  },
+  {
+    "question_number": 122,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीची नगररचना कशी होती?",
+    "answer": "सुनियोजित"
+  },
+  {
+    "question_number": 123,
+    "question_type": "एकशब्दी",
+    "question": "उत्खननातील साहित्याची तपासणी कोठे होते?",
+    "answer": "प्रयोगशाळेत"
+  },
+  {
+    "question_number": 124,
+    "question_type": "एकशब्दी",
+    "question": "जळके धान्याचे कण काय दर्शवतात?",
+    "answer": "पिकांचा प्रकार"
+  },
+  {
+    "question_number": 125,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या घरांची दारे कशाकडे उघडत असत?",
+    "answer": "आतल्या गल्लीत / बाजूला"
+  },
+  {
+    "question_number": 126,
+    "question_type": "एकशब्दी",
+    "question": "मोहेंजोदडो येथील कुंडातील पाणी बदलण्याची सोय होती का?",
+    "answer": "हो"
+  },
+  {
+    "question_number": 127,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पाकालीन लोक कोणत्या रंगाचे दागिने आवडत?",
+    "answer": "रंगीबेरंगी रत्नांचे"
+  },
+  {
+    "question_number": 128,
+    "question_type": "एकशब्दी",
+    "question": "सिंधू संस्कृतीतील सर्वात मोठे बंदर कोणते होते?",
+    "answer": "लोथल"
+  },
+  {
+    "question_number": 129,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या पुतळ्याचा चेहरा कसा आहे?",
+    "answer": "सुस्पष्ट"
+  },
+  {
+    "question_number": 130,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचा ऱ्हास एकाच दिवशी झाला का?",
+    "answer": "नाही"
+  },
+  {
+    "question_number": 131,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या अवशेषांमध्ये साम्य कशामुळे आहे?",
+    "answer": "एकाच संस्कृतीचे भाग असल्याने"
+  },
+  {
+    "question_number": 132,
+    "question_type": "एकशब्दी",
+    "question": "विटांचा आकार कसा असे?",
+    "answer": "ठराविक प्रमाणातील"
+  },
+  {
+    "question_number": 133,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या लोकांनी निसर्गातील कोणत्या घटकाचा वापर केला?",
+    "answer": "माती आणि पाणी"
+  },
+  {
+    "question_number": 134,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृती ही मानवी इतिहासाची कोणती अवस्था आहे?",
+    "answer": "प्रगत नागरी अवस्था"
+  },
+  {
+    "question_number": 135,
+    "question_type": "एकशब्दी",
+    "question": "मोहेंजोदडो येथील महास्नानगृह कशासाठी वापरले जात असावे?",
+    "answer": "धार्मिक किंवा सार्वजनिक स्नान"
+  },
+  {
+    "question_number": 136,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचे व्यापारी मालाची वाहतूक कशाने करत?",
+    "answer": "बैलगाड्या आणि जहाजे"
+  },
+  {
+    "question_number": 137,
+    "question_type": "एकशब्दी",
+    "question": "मेसोपोटेमियाशी व्यापार कोणत्या मार्गाने होई?",
+    "answer": "सागरी मार्ग"
+  },
+  {
+    "question_number": 138,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील घरांची संख्या कशी होती?",
+    "answer": "भरपूर"
+  },
+  {
+    "question_number": 139,
+    "question_type": "एकशब्दी",
+    "question": "मृतांच्या अंगावर दागिने आढळले आहेत का?",
+    "answer": "हो (काही उत्खननात)"
+  },
+  {
+    "question_number": 140,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीची मुख्य वैशिष्ट्ये कोठे आढळतात?",
+    "answer": "सर्व उत्खनन स्थळांवर"
+  },
+  {
+    "question_number": 141,
+    "question_type": "एकशब्दी",
+    "question": "नक्षीकाम केलेली भांडी कशाचे प्रतीक आहेत?",
+    "answer": "कलात्मकतेचे"
+  },
+  {
+    "question_number": 142,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचा काळ साधारणतः कोणता मानला जातो?",
+    "answer": "इसवी सन पूर्व २५०० ते १५००"
+  },
+  {
+    "question_number": 143,
+    "question_type": "एकशब्दी",
+    "question": "सिंधू नदी कोठून वाहते?",
+    "answer": "हिमालय ते अरबी समुद्र"
+  },
+  {
+    "question_number": 144,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील लोकांनी कोणत्या धान्याचे पीठ केले?",
+    "answer": "गहू आणि सातू"
+  },
+  {
+    "question_number": 145,
+    "question_type": "एकशब्दी",
+    "question": "पाकिस्तानातील सिंधू नदीच्या खोऱ्यात कोणते शहर आहे?",
+    "answer": "मोहेंजोदडो"
+  },
+  {
+    "question_number": 146,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा नगरांचे रस्ते एकमेकांना कसे छेदतात?",
+    "answer": "काटकोनात"
+  },
+  {
+    "question_number": 147,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीच्या विटा कशा बनवल्या जात?",
+    "answer": "साच्यात घालून भाजून"
+  },
+  {
+    "question_number": 148,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीतील जलव्यवस्थापन कसे होते?",
+    "answer": "उत्कृष्ट"
+  },
+  {
+    "question_number": 149,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीने मानवाला काय शिकवले?",
+    "answer": "नियोजित नागरी जीवन"
+  },
+  {
+    "question_number": 150,
+    "question_type": "एकशब्दी",
+    "question": "हडप्पा संस्कृतीचा शोध कोणी लावला?",
+    "answer": "भारतीय आणि ब्रिटीश पुरातत्वशास्त्रज्ञ"
+  }
+]
+}

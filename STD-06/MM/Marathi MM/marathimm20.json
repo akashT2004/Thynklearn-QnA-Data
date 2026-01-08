@@ -1,0 +1,714 @@
+{
+  "chapter_info": {
+    "chapter_number": "२०",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-२",
+    "sub_lesson_name": "ओळख थोरांची"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "multiple_choice",
+      "question": "खाशाबा जाधव यांचा जन्म कोणत्या गावी झाला?",
+      "options": [
+        { "option_number": 1, "text": "कराड", "is_correct": false },
+        { "option_number": 2, "text": "गोळेश्वर", "is_correct": true },
+        { "option_number": 3, "text": "नांदेड", "is_correct": false },
+        { "option_number": 4, "text": "नागभीड", "is_correct": false }
+      ],
+      "answer": "गोळेश्वर"
+    },
+    {
+      "question_number": 2,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांना कोणत्या टोपणनावाने ओळखले जात असे?",
+      "options": [
+        { "option_number": 1, "text": "अण्णा", "is_correct": true },
+        { "option_number": 2, "text": "बापू", "is_correct": false },
+        { "option_number": 3, "text": "नाना", "is_correct": false },
+        { "option_number": 4, "text": "भाऊ", "is_correct": false }
+      ],
+      "answer": "अण्णा"
+    },
+    {
+      "question_number": 3,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "रामजी", "is_correct": false },
+        { "option_number": 2, "text": "दादासाहेब", "is_correct": true },
+        { "option_number": 3, "text": "भीमराव", "is_correct": false },
+        { "option_number": 4, "text": "संजय", "is_correct": false }
+      ],
+      "answer": "दादासाहेब"
+    },
+    {
+      "question_number": 4,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांनी वयाच्या कितव्या वर्षी पहिल्यांदा जत्रेतील कुस्ती जिंकली?",
+      "options": [
+        { "option_number": 1, "text": "पाचव्या", "is_correct": false },
+        { "option_number": 2, "text": "आठव्या", "is_correct": true },
+        { "option_number": 3, "text": "दहाव्या", "is_correct": false },
+        { "option_number": 4, "text": "बाराव्या", "is_correct": false }
+      ],
+      "answer": "आठव्या"
+    },
+    {
+      "question_number": 5,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांचे हायस्कूल गावापासून किती किलोमीटर दूर होते?",
+      "options": [
+        { "option_number": 1, "text": "दोन", "is_correct": false },
+        { "option_number": 2, "text": "पाच", "is_correct": true },
+        { "option_number": 3, "text": "दहा", "is_correct": false },
+        { "option_number": 4, "text": "आठ", "is_correct": false }
+      ],
+      "answer": "पाच"
+    },
+    {
+      "question_number": 6,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांनी ऑलिंपिकमध्ये कोणते पदक मिळवले?",
+      "options": [
+        { "option_number": 1, "text": "सुवर्ण", "is_correct": false },
+        { "option_number": 2, "text": "रौप्य", "is_correct": false },
+        { "option_number": 3, "text": "कांस्य", "is_correct": true },
+        { "option_number": 4, "text": "लोह", "is_correct": false }
+      ],
+      "answer": "कांस्य"
+    },
+    {
+      "question_number": 7,
+      "question_type": "multiple_choice",
+      "question": "१९५२ सालची ऑलिंपिक स्पर्धा कोठे पार पडली?",
+      "options": [
+        { "option_number": 1, "text": "लंडन", "is_correct": false },
+        { "option_number": 2, "text": "हेलसिंकी", "is_correct": true },
+        { "option_number": 3, "text": "टोकिओ", "is_correct": false },
+        { "option_number": 4, "text": "पॅरिस", "is_correct": false }
+      ],
+      "answer": "हेलसिंकी"
+    },
+    {
+      "question_number": 8,
+      "question_type": "multiple_choice",
+      "question": "तांदळाची 'HMT' ही नवी जात कोणी शोधून काढली?",
+      "options": [
+        { "option_number": 1, "text": "खाशाबा जाधव", "is_correct": false },
+        { "option_number": 2, "text": "दादाजी रामजी खोब्रागडे", "is_correct": true },
+        { "option_number": 3, "text": "भीमराव शिंदे", "is_correct": false },
+        { "option_number": 4, "text": "संजय दुधाणे", "is_correct": false }
+      ],
+      "answer": "दादाजी रामजी खोब्रागडे"
+    },
+    {
+      "question_number": 9,
+      "question_type": "multiple_choice",
+      "question": "दादाजी खोब्रागडे कोणत्या गावचे रहिवासी आहेत?",
+      "options": [
+        { "option_number": 1, "text": "नांदेड (नागभीड तालुका)", "is_correct": true },
+        { "option_number": 2, "text": "गोळेश्वर", "is_correct": false },
+        { "option_number": 3, "text": "कराड", "is_correct": false },
+        { "option_number": 4, "text": "तळोधी", "is_correct": false }
+      ],
+      "answer": "नांदेड (नागभीड तालुका)"
+    },
+    {
+      "question_number": 10,
+      "question_type": "multiple_choice",
+      "question": "दादाजींच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "दादासाहेब", "is_correct": false },
+        { "option_number": 2, "text": "रामजी", "is_correct": true },
+        { "option_number": 3, "text": "विठ्ठल", "is_correct": false },
+        { "option_number": 4, "text": "सखाराम", "is_correct": false }
+      ],
+      "answer": "रामजी"
+    },
+    {
+      "question_number": 11,
+      "question_type": "multiple_choice",
+      "question": "दादाजींनी कोणत्या रंगाच्या भाताच्या ओंब्या हेरून ठेवल्या?",
+      "options": [
+        { "option_number": 1, "text": "हिरव्या", "is_correct": false },
+        { "option_number": 2, "text": "पांढऱ्या", "is_correct": false },
+        { "option_number": 3, "text": "गडद पिवळ्या", "is_correct": true },
+        { "option_number": 4, "text": "लाल", "is_correct": false }
+      ],
+      "answer": "गडद पिवळ्या"
+    },
+    {
+      "question_number": 12,
+      "question_type": "multiple_choice",
+      "question": "तांदळाचे बियाणे पहिल्यांदा कोणी लावले?",
+      "options": [
+        { "option_number": 1, "text": "भीमराव शिंदे", "is_correct": true },
+        { "option_number": 2, "text": "व्यापाऱ्यांनी", "is_correct": false },
+        { "option_number": 3, "text": "सरकारी अधिकाऱ्यांनी", "is_correct": false },
+        { "option_number": 4, "text": "गावकऱ्यांनी", "is_correct": false }
+      ],
+      "answer": "भीमराव शिंदे"
+    },
+    {
+      "question_number": 13,
+      "question_type": "multiple_choice",
+      "question": "चार एकरात किती क्विंटल तांदळाचे उत्पादन झाले?",
+      "options": [
+        { "option_number": 1, "text": "५०", "is_correct": false },
+        { "option_number": 2, "text": "९०", "is_correct": true },
+        { "option_number": 3, "text": "१००", "is_correct": false },
+        { "option_number": 4, "text": "७०", "is_correct": false }
+      ],
+      "answer": "९०"
+    },
+    {
+      "question_number": 14,
+      "question_type": "multiple_choice",
+      "question": "दादाजी खोब्रागडे यांनी तांदळाच्या एकूण किती जाती शोधून काढल्या?",
+      "options": [
+        { "option_number": 1, "text": "पाच", "is_correct": false },
+        { "option_number": 2, "text": "आठ", "is_correct": true },
+        { "option_number": 3, "text": "दहा", "is_correct": false },
+        { "option_number": 4, "text": "बारा", "is_correct": false }
+      ],
+      "answer": "आठ"
+    },
+    {
+      "question_number": 15,
+      "question_type": "multiple_choice",
+      "question": "दादाजींना कोणता महत्त्वाचा पुरस्कार मिळाला आहे?",
+      "options": [
+        { "option_number": 1, "text": "महाराष्ट्र भूषण", "is_correct": false },
+        { "option_number": 2, "text": "कृषिभूषण", "is_correct": true },
+        { "option_number": 3, "text": "पद्मश्री", "is_correct": false },
+        { "option_number": 4, "text": "ज्ञानपीठ", "is_correct": false }
+      ],
+      "answer": "कृषिभूषण"
+    },
+    {
+      "question_number": 16,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांचे पाय काटक कशामुळे बनले?",
+      "options": [
+        { "option_number": 1, "text": "अनवाणी पायाने धावल्यामुळे", "is_correct": true },
+        { "option_number": 2, "text": "चांगले बूट घातल्यामुळे", "is_correct": false },
+        { "option_number": 3, "text": "व्यायाम न केल्यामुळे", "is_correct": false },
+        { "option_number": 4, "text": "सायकल चालवल्यामुळे", "is_correct": false }
+      ],
+      "answer": "अनवाणी पायाने धावल्यामुळे"
+    },
+    {
+      "question_number": 17,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या आईचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "विठाबाई", "is_correct": false },
+        { "option_number": 2, "text": "पुतळाबाई", "is_correct": true },
+        { "option_number": 3, "text": "लक्ष्मीबाई", "is_correct": false },
+        { "option_number": 4, "text": "सावित्रीबाई", "is_correct": false }
+      ],
+      "answer": "पुतळाबाई"
+    },
+    {
+      "question_number": 18,
+      "question_type": "multiple_choice",
+      "question": "तांदळाचे नाव 'HMT' कोठे पडले?",
+      "options": [
+        { "option_number": 1, "text": "नांदेडमध्ये", "is_correct": false },
+        { "option_number": 2, "text": "तळोधी बाळापूरच्या बाजारात", "is_correct": true },
+        { "option_number": 3, "text": "मुंबईच्या बाजारात", "is_correct": false },
+        { "option_number": 4, "text": "शेतात", "is_correct": false }
+      ],
+      "answer": "तळोधी बाळापूरच्या बाजारात"
+    },
+    {
+      "question_number": 19,
+      "question_type": "multiple_choice",
+      "question": "खाशाबा जाधवांनी कोणत्या खेळात नैपुण्य मिळवले?",
+      "options": [
+        { "option_number": 1, "text": "धावणे", "is_correct": false },
+        { "option_number": 2, "text": "कुस्ती", "is_correct": true },
+        { "option_number": 3, "text": "हॉकी", "is_correct": false },
+        { "option_number": 4, "text": "क्रिकेट", "is_correct": false }
+      ],
+      "answer": "कुस्ती"
+    },
+    {
+      "question_number": 20,
+      "question_type": "multiple_choice",
+      "question": "दादाजी खोब्रागडे वर्षभर काय करायचे?",
+      "options": [
+        { "option_number": 1, "text": "मजुरी", "is_correct": true },
+        { "option_number": 2, "text": "व्यापार", "is_correct": false },
+        { "option_number": 3, "text": "नोकरी", "is_correct": false },
+        { "option_number": 4, "text": "अध्यापन", "is_correct": false }
+      ],
+      "answer": "मजुरी"
+    },
+    {
+      "question_number": 21,
+      "question_type": "multiple_choice",
+      "question": "मुलगीच्या किती शेतीमध्ये दादाजींनी प्रयोग केले?",
+      "options": [
+        { "option_number": 1, "text": "पाच एकर", "is_correct": false },
+        { "option_number": 2, "text": "दीड एकर", "is_correct": true },
+        { "option_number": 3, "text": "दोन एकर", "is_correct": false },
+        { "option_number": 4, "text": "दहा एकर", "is_correct": false }
+      ],
+      "answer": "दीड एकर"
+    },
+    {
+      "question_number": 22,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या आजोबांच्या बाबतीत काय विशेष होते?",
+      "options": [
+        { "option_number": 1, "text": "ते उत्तम वक्ते होते", "is_correct": false },
+        { "option_number": 2, "text": "ते उत्तम कुस्तीपटू होते", "is_correct": true },
+        { "option_number": 3, "text": "ते शिक्षक होते", "is_correct": false },
+        { "option_number": 4, "text": "ते गवंडी होते", "is_correct": false }
+      ],
+      "answer": "ते उत्तम कुस्तीपटू होते"
+    },
+    {
+      "question_number": 23,
+      "question_type": "multiple_choice",
+      "question": "कुस्तीतील 'चीत करणे' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "हात मिळवणे", "is_correct": false },
+        { "option_number": 2, "text": "प्रतिस्पर्ध्याला पाठीवर टेकवणे/हरवणे", "is_correct": true },
+        { "option_number": 3, "text": "कुस्ती सोडून पळणे", "is_correct": false },
+        { "option_number": 4, "text": "गप्पा मारणे", "is_correct": false }
+      ],
+      "answer": "प्रतिस्पर्ध्याला पाठीवर टेकवणे/हरवणे"
+    },
+    {
+      "question_number": 24,
+      "question_type": "multiple_choice",
+      "question": "खाशाबा रोज शाळेत पळत का जायचे?",
+      "options": [
+        { "option_number": 1, "text": "त्यांना धावण्याची शर्यत लावायची होती", "is_correct": false },
+        { "option_number": 2, "text": "लवकर पोहोचण्यासाठी व व्यायामासाठी", "is_correct": true },
+        { "option_number": 3, "text": "सायकल खराब होती म्हणून", "is_correct": false },
+        { "option_number": 4, "text": "बस मिळत नव्हती म्हणून", "is_correct": false }
+      ],
+      "answer": "लवकर पोहोचण्यासाठी व व्यायामासाठी"
+    },
+    {
+      "question_number": 25,
+      "question_type": "multiple_choice",
+      "question": "दादाजींनी कोणाला तांदूळ लावण्याची विनंती केली?",
+      "options": [
+        { "option_number": 1, "text": "व्यापाऱ्यांना", "is_correct": false },
+        { "option_number": 2, "text": "गावातील लोकांना", "is_correct": true },
+        { "option_number": 3, "text": "शहरातील लोकांना", "is_correct": false },
+        { "option_number": 4, "text": "शाळेतील शिक्षकांना", "is_correct": false }
+      ],
+      "answer": "गावातील लोकांना"
+    },
+    {
+      "question_number": 26,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या कुस्तीचे धडे कोठे सुरू झाले?",
+      "options": [
+        { "option_number": 1, "text": "आखाड्यात", "is_correct": false },
+        { "option_number": 2, "text": "वडिलांच्या तालमीत", "is_correct": true },
+        { "option_number": 3, "text": "शाळेच्या मैदानात", "is_correct": false },
+        { "option_number": 4, "text": "नदीकाठी", "is_correct": false }
+      ],
+      "answer": "वडिलांच्या तालमीत"
+    },
+    {
+      "question_number": 27,
+      "question_type": "multiple_choice",
+      "question": "भाताच्या एका जातीचे नाव 'HMT' का पडले?",
+      "options": [
+        { "option_number": 1, "text": "त्यावर घड्याळासारखे काटे होते", "is_correct": false },
+        { "option_number": 2, "text": "व्यापाऱ्यांनी ते नाव दिले", "is_correct": true },
+        { "option_number": 3, "text": "दादाजींच्या मुलाचे नाव होते", "is_correct": false },
+        { "option_number": 4, "text": "ते नाव परदेशातून आले", "is_correct": false }
+      ],
+      "answer": "व्यापाऱ्यांनी ते नाव दिले"
+    },
+    {
+      "question_number": 28,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांनी पावसाळ्यात कशाची तमा न बाळगता व्यायाम केला?",
+      "options": [
+        { "option_number": 1, "text": "अंधाराची", "is_correct": false },
+        { "option_number": 2, "text": "पावसाची/चिखलाची", "is_correct": true },
+        { "option_number": 3, "text": "थंडीची", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षकांची", "is_correct": false }
+      ],
+      "answer": "पावसाची/चिखलाची"
+    },
+    {
+      "question_number": 29,
+      "question_type": "multiple_choice",
+      "question": "दादाजींनी बियाणे निवडताना काय केले?",
+      "options": [
+        { "option_number": 1, "text": "खराब दाणे बाजूला काढले", "is_correct": true },
+        { "option_number": 2, "text": "सगळे दाणे एकत्र पेरले", "is_correct": false },
+        { "option_number": 3, "text": "बियाणे विकून टाकले", "is_correct": false },
+        { "option_number": 4, "text": "बियाणे धुवून घेतले", "is_correct": false }
+      ],
+      "answer": "खराब दाणे बाजूला काढले"
+    },
+    {
+      "question_number": 30,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या वडिलांनी तरुणपणात काय केले होते?",
+      "options": [
+        { "option_number": 1, "text": "शेती केली होती", "is_correct": false },
+        { "option_number": 2, "text": "कुस्त्या गाजवल्या होत्या", "is_correct": true },
+        { "option_number": 3, "text": "व्यापार केला होता", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षक होते", "is_correct": false }
+      ],
+      "answer": "कुस्त्या गाजवल्या होत्या"
+    },
+    {
+      "question_number": 31,
+      "question_type": "multiple_choice",
+      "question": "एचएमटी तांदूळ कोणत्या गुणधर्मासाठी प्रसिद्ध झाला?",
+      "options": [
+        { "option_number": 1, "text": "अधिक उत्पादनासाठी", "is_correct": true },
+        { "option_number": 2, "text": "कमी उत्पादनासाठी", "is_correct": false },
+        { "option_number": 3, "text": "लाल रंगासाठी", "is_correct": false },
+        { "option_number": 4, "text": "स्वस्त दरासाठी", "is_correct": false }
+      ],
+      "answer": "अधिक उत्पादनासाठी"
+    },
+    {
+      "question_number": 32,
+      "question_type": "multiple_choice",
+      "question": "खाशाबा जाधवांना कशाची आवड होती?",
+      "options": [
+        { "option_number": 1, "text": "गाणे म्हणण्याची", "is_correct": false },
+        { "option_number": 2, "text": "खेळाची/व्यायामाची", "is_correct": true },
+        { "option_number": 3, "text": "चित्रकलेची", "is_correct": false },
+        { "option_number": 4, "text": "स्वयंपाकाची", "is_correct": false }
+      ],
+      "answer": "खेळाची/व्यायामाची"
+    },
+    {
+      "question_number": 33,
+      "question_type": "multiple_choice",
+      "question": "दादाजींनी तांदळाच्या संशोधनाचे धडे कोणाकडून घेतले?",
+      "options": [
+        { "option_number": 1, "text": "शाळेतून", "is_correct": false },
+        { "option_number": 2, "text": "वडिलांकडून (निरीक्षणातून)", "is_correct": true },
+        { "option_number": 3, "text": "पुस्तकातून", "is_correct": false },
+        { "option_number": 4, "text": "इंटरनेटवरून", "is_correct": false }
+      ],
+      "answer": "वडिलांकडून (निरीक्षणातून)"
+    },
+    {
+      "question_number": 34,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांनी कोणती साधना केली?",
+      "options": [
+        { "option_number": 1, "text": "भजन", "is_correct": false },
+        { "option_number": 2, "text": "शिक्षण व व्यायामाची", "is_correct": true },
+        { "option_number": 3, "text": "संगीताची", "is_correct": false },
+        { "option_number": 4, "text": "व्यापाराची", "is_correct": false }
+      ],
+      "answer": "शिक्षण व व्यायामाची"
+    },
+    {
+      "question_number": 35,
+      "question_type": "multiple_choice",
+      "question": "दादाजींना तांदळाच्या संशोधनासाठी कोठे खात्री पटली?",
+      "options": [
+        { "option_number": 1, "text": "बाजारात", "is_correct": false },
+        { "option_number": 2, "text": "स्वतःच्या प्रयोगातून अनेक वर्षांनी", "is_correct": true },
+        { "option_number": 3, "text": "दुसऱ्याचे शेत पाहून", "is_correct": false },
+        { "option_number": 4, "text": "टीव्हीवर पाहून", "is_correct": false }
+      ],
+      "answer": "स्वतःच्या प्रयोगातून अनेक वर्षांनी"
+    },
+    {
+      "question_number": 36,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या आयुष्यातील ऐतिहासिक क्षण कोणता?",
+      "options": [
+        { "option_number": 1, "text": "हायस्कूलला जाणे", "is_correct": false },
+        { "option_number": 2, "text": "हेलसिंकी ऑलिंपिकमध्ये पदक मिळवणे", "is_correct": true },
+        { "option_number": 3, "text": "जत्रेतील कुस्ती जिंकणे", "is_correct": false },
+        { "option_number": 4, "text": "पळत शाळेला जाणे", "is_correct": false }
+      ],
+      "answer": "हेलसिंकी ऑलिंपिकमध्ये पदक मिळवणे"
+    },
+    {
+      "question_number": 37,
+      "question_type": "multiple_choice",
+      "question": "दादाजी खोब्रागडे यांच्या प्रयोगाचे यश कशामुळे मिळाले?",
+      "options": [
+        { "option_number": 1, "text": "नशिबामुळे", "is_correct": false },
+        { "option_number": 2, "text": "सातत्य आणि सूक्ष्म निरीक्षणाने", "is_correct": true },
+        { "option_number": 3, "text": "पैशामुळे", "is_correct": false },
+        { "option_number": 4, "text": "मोठ्या मशीनमुळे", "is_correct": false }
+      ],
+      "answer": "सातत्य आणि सूक्ष्म निरीक्षणाने"
+    },
+    {
+      "question_number": 38,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांचा स्वभाव कसा होता?",
+      "options": [
+        { "option_number": 1, "text": "आळशी", "is_correct": false },
+        { "option_number": 2, "text": "कष्टकरी आणि जिद्दी", "is_correct": true },
+        { "option_number": 3, "text": "घाबरट", "is_correct": false },
+        { "option_number": 4, "text": "गर्विष्ठ", "is_correct": false }
+      ],
+      "answer": "कष्टकरी आणि जिद्दी"
+    },
+    {
+      "question_number": 39,
+      "question_type": "multiple_choice",
+      "question": "संशोधक शेतकरी दादाजींना किती जातींचे जनक मानले जाते (पाठानूसार)?",
+      "options": [
+        { "option_number": 1, "text": "एक", "is_correct": false },
+        { "option_number": 2, "text": "आठ", "is_correct": true },
+        { "option_number": 3, "text": "दोन", "is_correct": false },
+        { "option_number": 4, "text": "शंभर", "is_correct": false }
+      ],
+      "answer": "आठ"
+    },
+    {
+      "question_number": 40,
+      "question_type": "multiple_choice",
+      "question": "खाशाबा जाधवांना ऑलिंपिकमध्ये कोणते स्थान मिळाले?",
+      "options": [
+        { "option_number": 1, "text": "पहिले", "is_correct": false },
+        { "option_number": 2, "text": "दुसरे", "is_correct": false },
+        { "option_number": 3, "text": "तिसरे (कांस्य पदक)", "is_correct": true },
+        { "option_number": 4, "text": "चौथे", "is_correct": false }
+      ],
+      "answer": "तिसरे (कांस्य पदक)"
+    },
+    {
+      "question_number": 41,
+      "question_type": "multiple_choice",
+      "question": "तांदूळ उत्पादनासाठी कोणता जिल्हा प्रसिद्ध आहे (पाठातील दादाजींच्या गावानुसार)?",
+      "options": [
+        { "option_number": 1, "text": "पुणे", "is_correct": false },
+        { "option_number": 2, "text": "चंद्रपूर", "is_correct": true },
+        { "option_number": 3, "text": "सांगली", "is_correct": false },
+        { "option_number": 4, "text": "बीड", "is_correct": false }
+      ],
+      "answer": "चंद्रपूर"
+    },
+    {
+      "question_number": 42,
+      "question_type": "multiple_choice",
+      "question": "कुस्तीतील 'मान पकडणे, पट काढणे' हे काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "गाण्याचे प्रकार", "is_correct": false },
+        { "option_number": 2, "text": "कुस्तीचे डावपेच", "is_correct": true },
+        { "option_number": 3, "text": "स्वयंपाकाची पद्धत", "is_correct": false },
+        { "option_number": 4, "text": "शेतीचे अवजार", "is_correct": false }
+      ],
+      "answer": "कुस्तीचे डावपेच"
+    },
+    {
+      "question_number": 43,
+      "question_type": "multiple_choice",
+      "question": "दादाजींनी भाताचे बियाणे कोठे पेरले होते (प्रयोगावेळी)?",
+      "options": [
+        { "option_number": 1, "text": "रस्त्यावर", "is_correct": false },
+        { "option_number": 2, "text": "शेताच्या मधोमध", "is_correct": true },
+        { "option_number": 3, "text": "कुंडीत", "is_correct": false },
+        { "option_number": 4, "text": "परदेशात", "is_correct": false }
+      ],
+      "answer": "शेताच्या मधोमध"
+    },
+    {
+      "question_number": 44,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या यशाने कोणाचा गौरव वाढला?",
+      "options": [
+        { "option_number": 1, "text": "केवळ गोळेश्वरचा", "is_correct": false },
+        { "option_number": 2, "text": "भारताचा", "is_correct": true },
+        { "option_number": 3, "text": "फिनलंडचा", "is_correct": false },
+        { "option_number": 4, "text": "केवळ त्यांच्या घराचा", "is_correct": false }
+      ],
+      "answer": "भारताचा"
+    },
+    {
+      "question_number": 45,
+      "question_type": "multiple_choice",
+      "question": "दादाजींनी पेरलेल्या एका पिशवीतील बियाण्यांपासून काय झाले?",
+      "options": [
+        { "option_number": 1, "text": "काहीच उगवले नाही", "is_correct": false },
+        { "option_number": 2, "text": "अधिक दाणे असलेल्या ओंब्या आल्या", "is_correct": true },
+        { "option_number": 3, "text": "लाल तांदूळ तयार झाला", "is_correct": false },
+        { "option_number": 4, "text": "खराब पीक आले", "is_correct": false }
+      ],
+      "answer": "अधिक दाणे असलेल्या ओंब्या आल्या"
+    },
+    {
+      "question_number": 46,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांनी कोणती प्रतिकूल परिस्थिती तुडवली?",
+      "options": [
+        { "option_number": 1, "text": "उन्हाळा", "is_correct": false },
+        { "option_number": 2, "text": "गुडघाभर चिखल आणि पाऊस", "is_correct": true },
+        { "option_number": 3, "text": "पैशांची कमी", "is_correct": false },
+        { "option_number": 4, "text": "मैदानाची कमी", "is_correct": false }
+      ],
+      "answer": "गुडघाभर चिखल आणि पाऊस"
+    },
+    {
+      "question_number": 47,
+      "question_type": "multiple_choice",
+      "question": "दादाजी खोब्रागडे यांच्या तांदळावर कोणाच्या उड्या पडल्या?",
+      "options": [
+        { "option_number": 1, "text": "शेतकऱ्यांच्या", "is_correct": false },
+        { "option_number": 2, "text": "व्यापाऱ्यांच्या", "is_correct": true },
+        { "option_number": 3, "text": "मुलांच्या", "is_correct": false },
+        { "option_number": 4, "text": "पक्ष्यांच्या", "is_correct": false }
+      ],
+      "answer": "व्यापाऱ्यांच्या"
+    },
+    {
+      "question_number": 48,
+      "question_type": "multiple_choice",
+      "question": "खाशाबांच्या विजयाचा श्रीगणेश कोठे झाला?",
+      "options": [
+        { "option_number": 1, "text": "ऑलिंपिकमध्ये", "is_correct": false },
+        { "option_number": 2, "text": "गावच्या जत्रेतील आखाड्यात", "is_correct": true },
+        { "option_number": 3, "text": "शाळेत", "is_correct": false },
+        { "option_number": 4, "text": "परदेशात", "is_correct": false }
+      ],
+      "answer": "गावच्या जत्रेतील आखाड्यात"
+    },
+    {
+      "question_number": 49,
+      "question_type": "multiple_choice",
+      "question": "तांदळाची एचएमटी जात कशी शोधली गेली?",
+      "options": [
+        { "option_number": 1, "text": "प्रयोगशाळेत", "is_correct": false },
+        { "option_number": 2, "text": "निरीक्षण आणि निवडीतून (Selection Method)", "is_correct": true },
+        { "option_number": 3, "text": "विकत घेऊन", "is_correct": false },
+        { "option_number": 4, "text": "परदेशातून आणून", "is_correct": false }
+      ],
+      "answer": "निरीक्षण आणि निवडीतून (Selection Method)"
+    },
+    {
+      "question_number": 50,
+      "question_type": "multiple_choice",
+      "question": "या पाठातून आपल्याला काय संदेश मिळतो?",
+      "options": [
+        { "option_number": 1, "text": "आळशी बनावे", "is_correct": false },
+        { "option_number": 2, "text": "जिद्द आणि चिकाटीने यश मिळवावे", "is_correct": true },
+        { "option_number": 3, "text": "फक्त पैसा कमवावा", "is_correct": false },
+        { "option_number": 4, "text": "काहीच करू नये", "is_correct": false }
+      ],
+      "answer": "जिद्द आणि चिकाटीने यश मिळवावे"
+    }
+  ],
+  "question_list_one_word": [
+    { "question_number": 51, "question": "खाशाबा जाधवांचे जन्मगाव कोणते?", "answer": "गोळेश्वर" },
+    { "question_number": 52, "question": "गोळेश्वर कोणत्या नदीकाठी आहे?", "answer": "कृष्णा" },
+    { "question_number": 53, "question": "खाशाबांचे टोपणनाव काय?", "answer": "अण्णा" },
+    { "question_number": 54, "question": "खाशाबांचे वडील काय करायचे?", "answer": "कुस्ती" },
+    { "question_number": 55, "question": "खाशाबांनी पहिली कुस्ती कधी जिंकली?", "answer": "वयाच्या ८ व्या वर्षी" },
+    { "question_number": 56, "question": "हायस्कूल कोठे होते?", "answer": "सातारा (तिलक हायस्कूल)" },
+    { "question_number": 57, "question": "शाळा गावापासून किती दूर होती?", "answer": "५ किमी" },
+    { "question_number": 58, "question": "खाशाबा शाळेत कसे जायचे?", "answer": "पळत" },
+    { "question_number": 59, "question": "खाशाबांचे पाय कशामुळे काटक बनले?", "answer": "अनवाणी धावण्यामुळे" },
+    { "question_number": 60, "question": "१९५२ चे ऑलिंपिक कोठे झाले?", "answer": "हेलसिंकी" },
+    { "question_number": 61, "question": "खाशाबांना कोणते पदक मिळाले?", "answer": "कांस्य" },
+    { "question_number": 62, "question": "पहिले वैयक्तिक ऑलिंपिक पदक विजेते कोण?", "answer": "खाशाबा जाधव" },
+    { "question_number": 63, "question": "संशोधक शेतकऱ्याचे नाव काय?", "answer": "दादाजी रामजी खोब्रागडे" },
+    { "question_number": 64, "question": "दादाजी कोणत्या जिल्ह्याचे आहेत?", "answer": "चंद्रपूर" },
+    { "question_number": 65, "question": "दादाजींचे गाव कोणते?", "answer": "नांदेड" },
+    { "question_number": 66, "question": "तांदळाच्या लोकप्रिय जातीचे नाव काय?", "answer": "एचएमटी (HMT)" },
+    { "question_number": 67, "question": "दादाजींचे वडील काय करायचे?", "answer": "शेती" },
+    { "question_number": 68, "question": "दादाजींनी कोणत्या रंगाच्या ओंब्या हेरल्या?", "answer": "गडद पिवळ्या" },
+    { "question_number": 69, "question": "एचएमटी बियाणे पहिल्यांदा कोणी लावले?", "answer": "भीमराव शिंदे" },
+    { "question_number": 70, "question": "किती एकरात ९० क्विंटल उत्पादन झाले?", "answer": "चार एकरात" },
+    { "question_number": 71, "question": "तांदळाचे नाव एचएमटी कोठे पडले?", "answer": "बाळापूरच्या बाजारात" },
+    { "question_number": 72, "question": "तांदळावर कोणाच्या उड्या पडल्या?", "answer": "व्यापाऱ्यांच्या" },
+    { "question_number": 73, "question": "दादाजींनी तांदळाच्या एकूण किती जाती शोधल्या?", "answer": "आठ" },
+    { "question_number": 74, "question": "दादाजींना कोणता पुरस्कार मिळाला?", "answer": "कृषिभूषण" },
+    { "question_number": 75, "question": "प्रयोगासाठी किती शेती वापरली?", "answer": "दीड एकर" },
+    { "question_number": 76, "question": "खाशाबांच्या आईचे नाव काय?", "answer": "पुतळाबाई" },
+    { "question_number": 77, "question": "खाशाबांच्या वडिलांचे नाव काय?", "answer": "दादासाहेब" },
+    { "question_number": 78, "question": "कुस्तीतील हरवण्याला काय म्हणतात?", "answer": "चीत करणे" },
+    { "question_number": 79, "question": "गावागावांत काय भरायचे?", "answer": "उरूस" },
+    { "question_number": 80, "question": "खाशाबांनी कशाची साधना केली?", "answer": "शिक्षण व व्यायाम" },
+    { "question_number": 81, "question": "ऑलिंपिकवीर पाठाचे लेखक कोण?", "answer": "संजय दुधाणे" },
+    { "question_number": 82, "question": "खाशाबा कोणत्या चणीचे होते?", "answer": "छोट्या" },
+    { "question_number": 83, "question": "खाशाबांचे नाते कशाशी जुळले?", "answer": "मातीशी" },
+    { "question_number": 84, "question": "तांदळाच्या जाती कोठे शोधल्या गेल्या?", "answer": "शेतात" },
+    { "question_number": 85, "question": "तांदळाच्या संशोधनाला काय म्हणतात?", "answer": "कृषी संशोधन" },
+    { "question_number": 86, "question": "दादाजींनी ओंब्या कोठून काढल्या?", "answer": "वेगळ्या पिशवीत" },
+    { "question_number": 87, "question": "भाताच्या पिकामध्ये काय असते?", "answer": "ओंब्या" },
+    { "question_number": 88, "question": "तांदूळ उत्पादनात वाढ किती झाली?", "answer": "दुप्पट/प्रचंड" },
+    { "question_number": 89, "question": "दादाजींनी कोणाला विनंती केली?", "answer": "लोकांना" },
+    { "question_number": 90, "question": "खाशाबांचे आयुष्य कशाचे उदाहरण आहे?", "answer": "जिद्दीचे" },
+    { "question_number": 91, "question": "कोणता तालुका तांदळासाठी प्रसिद्ध आहे?", "answer": "नागभीड" },
+    { "question_number": 92, "question": "खाशाबांनी हायस्कूलमध्ये कधी प्रवेश घेतला?", "answer": "शालेय शिक्षणानंतर" },
+    { "question_number": 93, "question": "फिनलंडची राजधानी कोणती?", "answer": "हेलसिंकी" },
+    { "question_number": 94, "question": "कुस्ती कोणत्या प्रकारात येते?", "answer": "मैदानी खेळ" },
+    { "question_number": 95, "question": "दादाजींना कशाची सवय लागली?", "answer": "निरीक्षणाची" },
+    { "question_number": 96, "question": "कोणाचे दाणे अधिक होते?", "answer": "नवीन बियाणाचे" },
+    { "question_number": 97, "question": "तांदूळ कोठे गेला?", "answer": "तळोधी बाळापूर" },
+    { "question_number": 98, "question": "मजुरी करून कोणी संशोधन केले?", "answer": "दादाजी खोब्रागडे" },
+    { "question_number": 99, "question": "कृषिभूषण पुरस्कार कोणाला मिळाला?", "answer": "दादाजींना" },
+    { "question_number": 100, "question": "खाशाबांचा कुस्तीतला दम कसा होता?", "answer": "चांगला" },
+    { "question_number": 101, "question": "कुस्तीचे धडे कोणाकडून मिळाले?", "answer": "वडिलांकडून" },
+    { "question_number": 102, "question": "आखाडा कोठे भरतो?", "answer": "जत्रेत" },
+    { "question_number": 103, "question": "खाशाबा कोणत्या नदीच्या काठी राहायचे?", "answer": "कृष्णा" },
+    { "question_number": 104, "question": "तांदळाच्या नवीन जातीचे जनक कोण?", "answer": "दादाजी खोब्रागडे" },
+    { "question_number": 105, "question": "बियाणे निवडण्याचे महत्त्व कोणी सांगितले?", "answer": "रामजींनी" },
+    { "question_number": 106, "question": "भाताच्या ओंब्या कशा होत्या?", "answer": "गडद पिवळ्या" },
+    { "question_number": 107, "question": "शेतीचा हंगाम कधी असतो?", "answer": "पावसाळ्यात" },
+    { "question_number": 108, "question": "खाशाबा ऑलिंपिकवीर कधी झाले?", "answer": "१९५२ मध्ये" },
+    { "question_number": 109, "question": "कुस्तीपटू म्हणजे कोण?", "answer": "मल्ल" },
+    { "question_number": 110, "question": "आखाड्यातील मातीला काय म्हणतात?", "answer": "लाल माती" },
+    { "question_number": 111, "question": "तांदळाचे बियाणे कोठे पेरले?", "answer": "शेतात" },
+    { "question_number": 112, "question": "संशोधक म्हणजे कोण?", "answer": "नवा शोध लावणारा" },
+    { "question_number": 113, "question": "खाशाबांच्या कुस्तीचे कौशल्य कशातून दिसले?", "answer": "डावपेचातून" },
+    { "question_number": 114, "question": "पावसाळ्यात काय तुडवावे लागे?", "answer": "चिखल" },
+    { "question_number": 115, "question": "ऑलिंपिक पदक किती महत्त्वाचे असते?", "answer": "सर्वोच्च" },
+    { "question_number": 116, "question": "तांदळाच्या आठ जाती कोणाचे यश आहे?", "answer": "दादाजींचे" },
+    { "question_number": 117, "question": "शेतीमध्ये प्रयोग करणे काय आहे?", "answer": "संशोधन" },
+    { "question_number": 118, "question": "खाशाबांची साधना कोठे झाली?", "answer": "गोळेश्वरमध्ये" },
+    { "question_number": 119, "question": "कुस्तीतील पट काढणे म्हणजे काय?", "answer": "एक डाव" },
+    { "question_number": 120, "question": "नांदेड कोणत्या तालुक्यात आहे?", "answer": "नागभीड" },
+    { "question_number": 121, "question": "खाशाबांचा चेहरा कसा होता? (वर्णनानुसार)", "answer": "काटक" },
+    { "question_number": 122, "question": "तांदळाचे बियाणे कोणी हेरले?", "answer": "दादाजींनी" },
+    { "question_number": 123, "question": "व्यापाऱ्यांनी तांदळाची काय केली?", "answer": "खरेदी" },
+    { "question_number": 124, "question": "खाशाबा कोणत्या खेळाडूचे प्रेरणास्थान आहेत?", "answer": "कुस्तीपटूंचे" },
+    { "question_number": 125, "question": "तांदळाचे उत्पादन किती क्विंटल होते?", "answer": "९०" },
+    { "question_number": 126, "question": "कुस्ती जिंकणे काय असते?", "answer": "विजय" },
+    { "question_number": 127, "question": "खाशाबांचे हायस्कूल कोठल्या जिल्ह्यात होते?", "answer": "सातारा" },
+    { "question_number": 128, "question": "तांदळाच्या संशोधनात कोणाची साथ मिळाली?", "answer": "भीमराव शिंदे" },
+    { "question_number": 129, "question": "खाशाबांची ओळख काय आहे?", "answer": "ऑलिंपिकवीर" },
+    { "question_number": 130, "question": "तांदळाच्या जाती कोणत्या धान्यात येतात?", "answer": "तृणधान्य" },
+    { "question_number": 131, "question": "खाशाबांचे बालपण कोठे गेले?", "answer": "गोळेश्वर" },
+    { "question_number": 132, "question": "तांदळाचे बियाणे केव्हा निवडायचे?", "answer": "पेरणीपूर्वी" },
+    { "question_number": 133, "question": "कुस्तीतील 'मान पकडणे' काय आहे?", "answer": "डाव" },
+    { "question_number": 134, "question": "खाशाबांनी कशाची तमा बाळगली नाही?", "answer": "पावसाची" },
+    { "question_number": 135, "question": "ऑलिंपिक पदक कोणत्या रंगाचे होते?", "answer": "कांस्य" },
+    { "question_number": 136, "question": "तांदळाचे उत्पादन कोठे विकले गेले?", "answer": "बाजारात" },
+    { "question_number": 137, "question": "दादाजी खोब्रागडे कोण होते?", "answer": "संशोधक शेतकरी" },
+    { "question_number": 138, "question": "खाशाबांनी कोठून शिक्षण घेतले?", "answer": "हायस्कूल" },
+    { "question_number": 139, "question": "कुस्तीपटूंचे आजोबा कोण होते?", "answer": "कुस्तीपटू" },
+    { "question_number": 140, "question": "तांदळाचे बियाणे कोठे ठेवले?", "answer": "पिशवीत" },
+    { "question_number": 141, "question": "खाशाबा जाधवांचा वारसा काय आहे?", "answer": "क्रीडा नैपुण्य" },
+    { "question_number": 142, "question": "तांदळाचे बियाणे कोठून मिळाले?", "answer": "ओंब्यातून" },
+    { "question_number": 143, "question": "खाशाबा जाधवांना कोण काय म्हणत?", "answer": "अण्णा" },
+    { "question_number": 144, "question": "तांदळाच्या संशोधनाचे फळ काय?", "answer": "एचएमटी" },
+    { "question_number": 145, "question": "खाशाबांनी किती किलोमीटर धावले?", "answer": "पाच किमी" },
+    { "question_number": 146, "question": "कुस्ती कोठे खेळली जाते?", "answer": "आखाड्यात" },
+    { "question_number": 147, "question": "तांदूळ उत्पादनासाठी काय हवे?", "answer": "चांगले बी" },
+    { "question_number": 148, "question": "खाशाबांच्या यशाचा काय आहे?", "answer": "अभिमान" },
+    { "question_number": 149, "question": "तांदळाच्या किती जाती आहेत?", "answer": "अनेक" },
+    { "question_number": 150, "question": "पाठाचे नाव काय?", "answer": "ओळख थोरांची" }
+  ]
+}

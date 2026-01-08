@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.01",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "नैसर्गिक संसाधने: हवा, पाणी आणि जमीन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील सजीव सृष्टी टिकवून ठेवण्यासाठी आवश्यक घटकांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित संसाधने", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक संसाधने", "is_correct": true },
+        { "option_id": 3, "text": "औद्योगिक साधने", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक संसाधने"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हवेमध्ये नायट्रोजनचे प्रमाण किती टक्के असते?",
+      "options": [
+        { "option_id": 1, "text": "२१%", "is_correct": false },
+        { "option_id": 2, "text": "०.९%", "is_correct": false },
+        { "option_id": 3, "text": "७८%", "is_correct": true },
+        { "option_id": 4, "text": "०.०३%", "is_correct": false }
+      ],
+      "answer": "७८%"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सजीवांना श्वसनासाठी कोणता वायू आवश्यक असतो?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 4, "text": "अर्गॉन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ओझोन वायूचा थर वातावरणाच्या कोणत्या विभागात आढळतो?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": false },
+        { "option_id": 2, "text": "स्थितांबर", "is_correct": true },
+        { "option_id": 3, "text": "दलांबर", "is_correct": false },
+        { "option_id": 4, "text": "बाह्यांबर", "is_correct": false }
+      ],
+      "answer": "स्थितांबर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा किती टक्के भाग पाण्याने व्यापलेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "२९%", "is_correct": false },
+        { "option_id": 2, "text": "५०%", "is_correct": false },
+        { "option_id": 3, "text": "७१%", "is_correct": true },
+        { "option_id": 4, "text": "८०%", "is_correct": false }
+      ],
+      "answer": "७१%"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वनस्पती अन्नासाठी कोणत्या वायूचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 4, "text": "हेलियम", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील उपलब्ध पाण्यापैकी पिण्यायोग्य पाणी किती टक्के आहे?",
+      "options": [
+        { "option_id": 1, "text": "९७%", "is_correct": false },
+        { "option_id": 2, "text": "२.७%", "is_correct": false },
+        { "option_id": 3, "text": "०.३%", "is_correct": true },
+        { "option_id": 4, "text": "१%", "is_correct": false }
+      ],
+      "answer": "०.३%"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मृदेचा किती सेंटीमीटर जाडीचा थर तयार व्हायला सुमारे १००० वर्षे लागतात?",
+      "options": [
+        { "option_id": 1, "text": "२.५ सेमी", "is_correct": true },
+        { "option_id": 2, "text": "५ सेमी", "is_correct": false },
+        { "option_id": 3, "text": "१० सेमी", "is_correct": false },
+        { "option_id": 4, "text": "१ सेमी", "is_correct": false }
+      ],
+      "answer": "२.५ सेमी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "इलेक्ट्रिक बल्बमध्ये कोणत्या वायूचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "नियॉन", "is_correct": false },
+        { "option_id": 2, "text": "अर्गॉन", "is_correct": true },
+        { "option_id": 3, "text": "क्रिप्टॉन", "is_correct": false },
+        { "option_id": 4, "text": "झेनॉन", "is_correct": false }
+      ],
+      "answer": "अर्गॉन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मृत सजीवांच्या अवशेषांपासून मिळणाऱ्या मातीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रेगुर", "is_correct": false },
+        { "option_id": 2, "text": "ह्युमस (कुथित मृदा)", "is_correct": true },
+        { "option_id": 3, "text": "मुरुम", "is_correct": false },
+        { "option_id": 4, "text": "वाळू", "is_correct": false }
+      ],
+      "answer": "ह्युमस (कुथित मृदा)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जमिनीत सर्वात खालच्या थरात कशाचे प्रमाण अधिक असते?",
+      "options": [
+        { "option_id": 1, "text": "माती", "is_correct": false },
+        { "option_id": 2, "text": "मूळ खडक", "is_correct": true },
+        { "option_id": 3, "text": "ह्युमस", "is_correct": false },
+        { "option_id": 4, "text": "वाळू", "is_correct": false }
+      ],
+      "answer": "मूळ खडक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वातावरणातील कोणत्या थरामुळे हवामानाचा अभ्यास केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": true },
+        { "option_id": 2, "text": "आयनांबर", "is_correct": false },
+        { "option_id": 3, "text": "बाह्यांबर", "is_correct": false },
+        { "option_id": 4, "text": "स्थितांबर", "is_correct": false }
+      ],
+      "answer": "तपांबर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते वायू प्रदूषणाचे मुख्य कारण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी पिणे", "is_correct": false },
+        { "option_id": 2, "text": "वाहने व कारखान्यांचा धूर", "is_correct": true },
+        { "option_id": 3, "text": "शेती करणे", "is_correct": false },
+        { "option_id": 4, "text": "झाडे लावणे", "is_correct": false }
+      ],
+      "answer": "वाहने व कारखान्यांचा धूर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "फ्लुरोसंट पाईपमध्ये कोणत्या वायूचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "नियॉन", "is_correct": true },
+        { "option_id": 2, "text": "हेलियम", "is_correct": false },
+        { "option_id": 3, "text": "अर्गॉन", "is_correct": false },
+        { "option_id": 4, "text": "झेनॉन", "is_correct": false }
+      ],
+      "answer": "नियॉन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाणी म्हणजे काय असे म्हटले जाते?",
+      "options": [
+        { "option_id": 1, "text": "अन्न", "is_correct": false },
+        { "option_id": 2, "text": "जीवन", "is_correct": true },
+        { "option_id": 3, "text": "विष", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "जीवन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचे एकूण किती आवरणे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता अक्रिय वायू आहे?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "अर्गॉन", "is_correct": true },
+        { "option_id": 4, "text": "नायट्रोजन", "is_correct": false }
+      ],
+      "answer": "अर्गॉन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ओझोनचा थर सूर्यापासून येणाऱ्या कोणत्या किरणांना शोषून घेतो?",
+      "options": [
+        { "option_id": 1, "text": "क्ष-किरण", "is_correct": false },
+        { "option_id": 2, "text": "अतिनील किरण (UV rays)", "is_correct": true },
+        { "option_id": 3, "text": "इन्फ्रारेड किरण", "is_correct": false },
+        { "option_id": 4, "text": "गॅमा किरण", "is_correct": false }
+      ],
+      "answer": "अतिनील किरण (UV rays)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मृदेमधील सेंद्रिय पदार्थ कशामुळे वाढतात?",
+      "options": [
+        { "option_id": 1, "text": "खडक फुटल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस पडल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "सूक्ष्मजीवांनी पालापाचोळा कुजवल्यामुळे", "is_correct": true },
+        { "option_id": 4, "text": "वारा वाहिल्यामुळे", "is_correct": false }
+      ],
+      "answer": "सूक्ष्मजीवांनी पालापाचोळा कुजवल्यामुळे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचे जमिनीचे आवरण कशाचे बनलेले आहे?",
+      "options": [
+        { "option_id": 1, "text": "वायू", "is_correct": false },
+        { "option_id": 2, "text": "खडक आणि माती", "is_correct": true },
+        { "option_id": 3, "text": "पाणी", "is_correct": false },
+        { "option_id": 4, "text": "केवळ लोखंड", "is_correct": false }
+      ],
+      "answer": "खडक आणि माती"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कमी तापमानासाठी कोणत्या वायूचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "हेलियम", "is_correct": true },
+        { "option_id": 3, "text": "नियॉन", "is_correct": false },
+        { "option_id": 4, "text": "क्रिप्टॉन", "is_correct": false }
+      ],
+      "answer": "हेलियम"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "समुद्राच्या पाण्याला चव खारट का असते?",
+      "options": [
+        { "option_id": 1, "text": "त्यात साखर असते", "is_correct": false },
+        { "option_id": 2, "text": "त्यात क्षारांचे प्रमाण जास्त असते", "is_correct": true },
+        { "option_id": 3, "text": "त्यात मासे असतात", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "त्यात क्षारांचे प्रमाण जास्त असते"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वायुप्रदूषणामुळे ओझोन थराला धोका निर्माण करणारे घटक कोणते?",
+      "options": [
+        { "option_id": 1, "text": "क्लोरोफ्लुरोकार्बन्स (CFC)", "is_correct": true },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याची वाफ", "is_correct": false },
+        { "option_id": 4, "text": "नायट्रोजन", "is_correct": false }
+      ],
+      "answer": "क्लोरोफ्लुरोकार्बन्स (CFC)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "जमिनीचा वापर मानव कशासाठी करतो?",
+      "options": [
+        { "option_id": 1, "text": "शेती", "is_correct": false },
+        { "option_id": 2, "text": "निवास (घरे)", "is_correct": false },
+        { "option_id": 3, "text": "रस्ते", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "फ्लॅश फोटोग्राफीमध्ये कोणत्या वायूचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "झेनॉन", "is_correct": true },
+        { "option_id": 2, "text": "क्रिप्टॉन", "is_correct": false },
+        { "option_id": 3, "text": "अर्गॉन", "is_correct": false },
+        { "option_id": 4, "text": "हेलियम", "is_correct": false }
+      ],
+      "answer": "झेनॉन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील गोडे पाणी कुठे साठवलेले असते?",
+      "options": [
+        { "option_id": 1, "text": "भूगर्भात", "is_correct": false },
+        { "option_id": 2, "text": "बर्फाच्या रूपात", "is_correct": false },
+        { "option_id": 3, "text": "नद्यांमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "वनस्पतींच्या वाढीसाठी मृदेतील कोणता घटक आवश्यक असतो?",
+      "options": [
+        { "option_id": 1, "text": "खनिज", "is_correct": true },
+        { "option_id": 2, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 3, "text": "काच", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "खनिज"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "जागतिक ओझोन संरक्षण दिन कधी साजरा केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "५ जून", "is_correct": false },
+        { "option_id": 2, "text": "१६ सप्टेंबर", "is_correct": true },
+        { "option_id": 3, "text": "२ ऑक्टोबर", "is_correct": false },
+        { "option_id": 4, "text": "२६ जानेवारी", "is_correct": false }
+      ],
+      "answer": "१६ सप्टेंबर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचे शिलावरण जमिनीच्या किती टक्के भागावर आहे?",
+      "options": [
+        { "option_id": 1, "text": "२९%", "is_correct": true },
+        { "option_id": 2, "text": "७१%", "is_correct": false },
+        { "option_id": 3, "text": "५०%", "is_correct": false },
+        { "option_id": 4, "text": "१००%", "is_correct": false }
+      ],
+      "answer": "२९%"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कोळसा, डिझेल आणि पेट्रोलच्या ज्वलनातून कोणता हानिकारक वायू बाहेर पडतो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन डायऑक्साइड", "is_correct": true },
+        { "option_id": 3, "text": "ओझोन", "is_correct": false },
+        { "option_id": 4, "text": "अर्गॉन", "is_correct": false }
+      ],
+      "answer": "नायट्रोजन डायऑक्साइड"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "जमिनीत पाणी कशाच्या स्वरूपात साठते?",
+      "options": [
+        { "option_id": 1, "text": "वाफ", "is_correct": false },
+        { "option_id": 2, "text": "भूजल", "is_correct": true },
+        { "option_id": 3, "text": "ढग", "is_correct": false },
+        { "option_id": 4, "text": "गारा", "is_correct": false }
+      ],
+      "answer": "भूजल"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "ह्युमसचे थर मातीच्या कोणत्या थरात सर्वात वर असतात?",
+      "options": [
+        { "option_id": 1, "text": "परिपक्व मृदा", "is_correct": true },
+        { "option_id": 2, "text": "मूळ खडक", "is_correct": false },
+        { "option_id": 3, "text": "अपरिपक्व मृदा", "is_correct": false },
+        { "option_id": 4, "text": "मुरुम", "is_correct": false }
+      ],
+      "answer": "परिपक्व मृदा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "वातावरणात कार्बन डायऑक्साइडचे प्रमाण किती आहे?",
+      "options": [
+        { "option_id": 1, "text": "०.०३%", "is_correct": true },
+        { "option_id": 2, "text": "२१%", "is_correct": false },
+        { "option_id": 3, "text": "७८%", "is_correct": false },
+        { "option_id": 4, "text": "०.९%", "is_correct": false }
+      ],
+      "answer": "०.०३%"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते जमिनीच्या धुपेचे कारण आहे?",
+      "options": [
+        { "option_id": 1, "text": " वृक्षारोपण", "is_correct": false },
+        { "option_id": 2, "text": "अतिवृष्टी व वादळ", "is_correct": true },
+        { "option_id": 3, "text": "धरणे बांधणे", "is_correct": false },
+        { "option_id": 4, "text": "सेंद्रिय शेती", "is_correct": false }
+      ],
+      "answer": "अतिवृष्टी व वादळ"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "अग्नीशामक नळकांड्यामध्ये कोणता वायू वापरला जातो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 4, "text": "हेलियम", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "जमिनीतील पाणी शोषून घेण्याचे काम कोण करते?",
+      "options": [
+        { "option_id": 1, "text": "पाने", "is_correct": false },
+        { "option_id": 2, "text": "मुळे", "is_correct": true },
+        { "option_id": 3, "text": "फुले", "is_correct": false },
+        { "option_id": 4, "text": "फळे", "is_correct": false }
+      ],
+      "answer": "मुळे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हवेतील धूलिकण कोणत्या थरात सर्वाधिक असतात?",
+      "options": [
+        { "option_id": 1, "text": "तपांबर", "is_correct": true },
+        { "option_id": 2, "text": "स्थितांबर", "is_correct": false },
+        { "option_id": 3, "text": "दलांबर", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "तपांबर"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "वायुमंडळातील कोणत्या वायूमुळे अमोनिया तयार केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "नायट्रोजन", "is_correct": true },
+        { "option_id": 3, "text": "अर्गॉन", "is_correct": false },
+        { "option_id": 4, "text": "झेनॉन", "is_correct": false }
+      ],
+      "answer": "नायट्रोजन"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कचरा कुजवल्यामुळे जमिनीला काय मिळते?",
+      "options": [
+        { "option_id": 1, "text": "खडक", "is_correct": false },
+        { "option_id": 2, "text": "सेंद्रिय खत (ह्युमस)", "is_correct": true },
+        { "option_id": 3, "text": "वाळू", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "सेंद्रिय खत (ह्युमस)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "पावसाचे पाणी साठवून ठेवण्याच्या पद्धतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जलसंधारण", "is_correct": true },
+        { "option_id": 2, "text": "मृदा संधारण", "is_correct": false },
+        { "option_id": 3, "text": "वायु प्रदूषण", "is_correct": false },
+        { "option_id": 4, "text": "नदी प्रदूषण", "is_correct": false }
+      ],
+      "answer": "जलसंधारण"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते संसाधन नैसर्गिक आहे?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": true },
+        { "option_id": 2, "text": "मोबाईल", "is_correct": false },
+        { "option_id": 3, "text": "रस्ते", "is_correct": false },
+        { "option_id": 4, "text": "प्लास्टिक", "is_correct": false }
+      ],
+      "answer": "हवा"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "पाण्याचे रेणू सूत्र काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "CO2", "is_correct": false },
+        { "option_id": 2, "text": "H2O", "is_correct": true },
+        { "option_id": 3, "text": "O2", "is_correct": false },
+        { "option_id": 4, "text": "N2", "is_correct": false }
+      ],
+      "answer": "H2O"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "मृदेच्या निर्मितीची प्रक्रिया कशी आहे?",
+      "options": [
+        { "option_id": 1, "text": "जलद", "is_correct": false },
+        { "option_id": 2, "text": "मंद आणि निरंतर", "is_correct": true },
+        { "option_id": 3, "text": "एका दिवसात होणारी", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "मंद आणि निरंतर"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "हवेतील पाण्याची वाफ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "धुके", "is_correct": false },
+        { "option_id": 2, "text": "आद्रता", "is_correct": true },
+        { "option_id": 3, "text": "पाऊस", "is_correct": false },
+        { "option_id": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "आद्रता"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मूळ खडकाचा अपक्षय होऊन काय तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "माती", "is_correct": true },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "गॅस", "is_correct": false }
+      ],
+      "answer": "माती"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "वाहनांच्या धुरामुळे कोणत्या थराला छिद्र पडले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाणी", "is_correct": false },
+        { "option_id": 2, "text": "ओझोन थर", "is_correct": true },
+        { "option_id": 3, "text": "मूळ खडक", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "ओझोन थर"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "जमिनीची धूप थांबवण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "झाडे तोडावी", "is_correct": false },
+        { "option_id": 2, "text": "गवत व झाडे लावावीत", "is_correct": true },
+        { "option_id": 3, "text": "रस्ते बांधावेत", "is_correct": false },
+        { "option_id": 4, "text": "घर बांधावे", "is_correct": false }
+      ],
+      "answer": "गवत व झाडे लावावीत"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "पाणी रंगहीन, चवहीन आणि काय असते?",
+      "options": [
+        { "option_id": 1, "text": "गंधहीन", "is_correct": true },
+        { "option_id": 2, "text": "वास येणारे", "is_correct": false },
+        { "option_id": 3, "text": "काळे", "is_correct": false },
+        { "option_id": 4, "text": "गोड", "is_correct": false }
+      ],
+      "answer": "गंधहीन"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हवेतील कोणता वायू ज्वलनास मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 3, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 4, "text": "अर्गॉन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "जमीन आणि माती एकच आहे का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "काही वेळा", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक संसाधने म्हणजे काय?",
+      "answer": "निसर्गातून मिळणारे घटक जे सजीव सृष्टी टिकवून ठेवण्यासाठी आणि मानवाच्या गरजा पूर्ण करण्यासाठी आवश्यक असतात, त्यांना नैसर्गिक संसाधने म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "वातावरण म्हणजे काय?",
+      "answer": "पृथ्वीच्या सभोवताली असलेल्या हवेच्या आवरणाला वातावरण म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "जलावरण कशाचे बनलेले आहे?",
+      "answer": "जलावरण हे पृथ्वीवरील पाणी, बर्फ आणि पाण्याची वाफ यांपासून बनलेले आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "शिलावरण म्हणजे काय?",
+      "answer": "पृथ्वीचा बाहेरील कठीण भाग जो जमीन आणि दगडांनी बनलेला आहे, त्याला शिलावरण म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "जीवावरण म्हणजे काय?",
+      "answer": "शिलावरण, जलावरण आणि वातावरण या तिन्ही थरांमध्ये आढळणाऱ्या सजीव सृष्टीला जीवावरण म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "हवा म्हणजे काय?",
+      "answer": "अनेक वायू, धूलिकण, पाण्याची वाफ आणि सूक्ष्मजीव यांच्या मिश्रणाला हवा म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "नायट्रोजनचा मुख्य उपयोग कोणता?",
+      "answer": "नायट्रोजन सजीवांना प्रथिने मिळवण्यास मदत करतो आणि अमोनिया निर्मितीसाठी वापरला जातो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "ऑक्सिजन सजीवांसाठी का आवश्यक आहे?",
+      "answer": "श्वसनासाठी आणि ज्वलनासाठी ऑक्सिजन अत्यंत आवश्यक आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "कार्बन डायऑक्साइडचा उपयोग कोण करते?",
+      "answer": "वनस्पती स्वतःचे अन्न तयार करण्यासाठी कार्बन डायऑक्साइडचा उपयोग करतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "ओझोन थराला 'पृथ्वीचे संरक्षक कवच' का म्हणतात?",
+      "answer": "कारण ओझोनचा थर सूर्यापासून येणारी घातक अतिनील किरणे शोषून घेतो आणि पृथ्वीवरील सजीवांचे रक्षण करतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "वायुप्रदूषण म्हणजे काय?",
+      "answer": "वाहने, कारखाने आणि इतर कारणांमुळे घातक घटक हवेत मिसळून हवा अशुद्ध होण्याच्या प्रक्रियेला वायुप्रदूषण म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "जमीन कशापासून बनलेली आहे?",
+      "answer": "जमीन ही दगड, माती, मोठमोठे खडक आणि वाळू यांपासून बनलेली आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "मृदा आणि जमीन यात कोणता फरक आहे?",
+      "answer": "जमीन हा एक भौगोलिक विस्तार आहे, तर मृदा म्हणजे जमिनीचा वरचा थर जो जैविक आणि अजैविक घटकांनी बनलेला असतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "ह्युमस किंवा कुथित मृदा कशी तयार होते?",
+      "answer": "जमिनीत पालापाचोळा आणि मृत प्राण्यांचे अवशेष सूक्ष्मजीवांकडून कुजवले गेल्यावर जो सेंद्रिय थर तयार होतो, त्याला ह्युमस म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "मृदेच्या निर्मितीसाठी कोणते घटक कारणीभूत असतात?",
+      "answer": "मूळ खडकाचा अपक्षय, हवामान (ऊष्णता, वारा, पाऊस) आणि सूक्ष्मजीव हे मृदा निर्मितीसाठी कारणीभूत असतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "मृदेची धूप म्हणजे काय?",
+      "answer": "पाऊस, वारा आणि मानवी हस्तक्षेपामुळे जमिनीचा वरचा थर वाहून जाण्याच्या क्रियेला मृदेची धूप म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "जमिनीची धूप थांबवण्याचे मार्ग सांगा.",
+      "answer": "वृक्षारोपण करणे, गवत लावणे आणि उतारावर बांध घालणे हे जमिनीची धूप थांबवण्याचे मार्ग आहेत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "पाण्याला वैश्विक द्रावक का म्हणतात?",
+      "answer": "कारण पाण्यामध्ये अनेक पदार्थ सहज विरघळतात, म्हणून त्याला वैश्विक द्रावक म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "जलचक्र म्हणजे काय?",
+      "answer": "सूर्याच्या उष्णतेमुळे समुद्राच्या पाण्याची वाफ होणे, ढग बनणे आणि पुन्हा पाऊस पडणे या निरंतर प्रक्रियेला जलचक्र म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "समुद्राचे पाणी पिण्यायोग्य का नसते?",
+      "answer": "समुद्राच्या पाण्यात क्षारांचे प्रमाण खूप जास्त असल्याने ते चवीला खारट असते आणि पिण्यायोग्य नसते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "पिण्याच्या पाण्याची टंचाई का निर्माण होते?",
+      "answer": "पाण्याचा अतिवापर, वाढती लोकसंख्या आणि पाण्याचे वाढते प्रदूषण यांमुळे पाण्याची टंचाई निर्माण होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "जलसंधारणाचे दोन फायदे सांगा.",
+      "answer": "१) भूजल पातळी वाढते. २) उन्हाळ्यात पाण्याची कमतरता भासत नाही."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीवर सजीव कोठे आढळतात?",
+      "answer": "पृथ्वीवर सजीव शिलावरण, जलावरण आणि वातावरणाच्या काही भागात आढळतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "तपांबराचे महत्त्व काय?",
+      "answer": "हवेतील जवळजवळ सर्व वायूंचे वजन तपांबरात असते आणि हवामानातील सर्व बदल याच थरात घडतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "अर्गॉन वायूचा उपयोग कोठे केला जातो?",
+      "answer": "विजेच्या बल्बमध्ये अर्गॉन वायूचा उपयोग केला जातो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "हेलियम वायूचा उपयोग काय आहे?",
+      "answer": "कमी तापमान मिळवण्यासाठी आणि विना पंख्याच्या इंजिनावर चालणाऱ्या विमानांमध्ये हेलियम वापरला जातो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "नियॉन वायूचा वापर कोठे होतो?",
+      "answer": "जाहिरातींसाठीच्या आणि रस्त्यांवरील दिव्यांमध्ये नियॉनचा वापर होतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "क्रिप्टॉनचा उपयोग काय?",
+      "answer": "फ्लुरोसंट पाईपमध्ये क्रिप्टॉनचा उपयोग केला जातो."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "झेनॉनचा उपयोग कोठे होतो?",
+      "answer": "फ्लॅश फोटोग्राफीमध्ये झेनॉनचा उपयोग होतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "ओझोन थराचा नाश कशामुळे होतो?",
+      "answer": "एअर कंडिशनर्स आणि फ्रीजमध्ये वापरल्या जाणाऱ्या क्लोरोफ्लुरोकार्बन्स (CFC) मुळे ओझोन थराचा नाश होतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "हवेतील घटकांचे संतुलन कशामुळे बिघडते?",
+      "answer": "वाहतूक, कारखाने आणि जंगलांना लागणारे वणवे यांच्या धुरामुळे हवेतील घटकांचे संतुलन बिघडते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "जमिनीची धूप रोखण्यासाठी सर्वात प्रभावी उपाय कोणता?",
+      "answer": "वृक्षारोपण आणि जमिनीवर गवताचे आच्छादन तयार करणे हा सर्वात प्रभावी उपाय आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "मूळ खडकाचे महत्त्व काय?",
+      "answer": "मूळ खडकापासूनच माती तयार होते आणि मृदेतील खनिजांचे प्रमाण या खडकावर अवलंबून असते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "परिपक्व मृदा म्हणजे काय?",
+      "answer": "ज्या मृदेमध्ये ह्युमस, वाळू, माती आणि खनिजे यांचे प्रमाण योग्य असते आणि ती वनस्पतींच्या वाढीसाठी पोषक असते, तिला परिपक्व मृदा म्हणतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "भूपृष्ठावर पाण्याचे वितरण कसे आहे?",
+      "answer": "भूपृष्ठावर ९७% पाणी समुद्र आणि महासागरात आहे, २.७% बर्फ स्वरूपात आहे आणि केवळ ०.३% पाणी पिण्यायोग्य आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "पाणी वापरताना कोणती खबरदारी घ्यावी?",
+      "answer": "पाणी काटकसरीने वापरावे, पाणी अडवून जमिनीत जिरवावे आणि शक्य तिथे पाण्याचा पुनर्वापर करावा."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "मृदा संवर्धन म्हणजे काय?",
+      "answer": "मृदेची धूप थांबवून तिची सुपीकता टिकवून ठेवण्यासाठी केल्या जाणाऱ्या प्रयत्नांना मृदा संवर्धन म्हणतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "जमिनीच्या थरांचे नाव सांगा (वरकडून खाली).",
+      "answer": "१) ह्युमस २) मृदा ३) अपरिपक्व मृदा ४) मुरुम/लहान खडक ५) मूळ खडक."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "हवेमध्ये पाण्याची वाफ असण्याचे महत्त्व काय?",
+      "answer": "पाण्याच्या वाफेमुळेच ढग तयार होतात आणि पाऊस पडतो, तसेच हवेत ओलावा टिकून राहतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "जमिनीत कोणते सजीव राहतात?",
+      "answer": "जमिनीत उंदीर, घुशी, मुंग्या, गांडूळ आणि अनेक प्रकारचे सूक्ष्मजीव राहतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "Short Answer",
+      "question": "पाणी प्रदूषणाचे एक कारण सांगा.",
+      "answer": "शहरांमधील सांडपाणी आणि कारखान्यातील रासायनिक पाणी नद्यांमध्ये सोडल्यामुळे पाणी प्रदूषण होते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीचे तापमान कशामुळे वाढते?",
+      "answer": "हवेतील कार्बन डायऑक्साइडचे प्रमाण वाढल्यामुळे सूर्याची उष्णता पृथ्वीवर अडकून राहते, यालाच जागतिक तापमान वाढ (Global Warming) म्हणतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "Short Answer",
+      "question": "वायुप्रदूषणामुळे मानवावर काय परिणाम होतात?",
+      "answer": "श्वसनाचे विकार, डोळ्यांची आग होणे आणि फुफ्फुसाचे आजार होऊ शकतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "Short Answer",
+      "question": "अपरिपक्व मृदा म्हणजे काय?",
+      "answer": "मृदा तयार होण्याच्या सुरुवातीच्या टप्प्यात जेव्हा माती आणि लहान खडक यांचे मिश्रण असते, त्याला अपरिपक्व मृदा म्हणतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "Short Answer",
+      "question": "हवा सर्वत्र असते का?",
+      "answer": "हो, हवा पृथ्वीच्या सभोवताली वातावरणाच्या रूपात सर्वत्र असते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "Short Answer",
+      "question": "जमिनीखालील पाण्याचे साठे कसे वाढवता येतील?",
+      "answer": "पाणी अडवून आणि जमिनीत जिरवून (Rainwater Harvesting) भूजलाचे साठे वाढवता येतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "Short Answer",
+      "question": "खडक फुटण्याची कारणे सांगा.",
+      "answer": "उष्णता, थंडी, वारा आणि पाऊस या नैसर्गिक घटकांमुळे खडकांचा अपक्षय होतो आणि ते फुटतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक संसाधनांचे रक्षण का करावे?",
+      "answer": "ही संसाधने मर्यादित आहेत आणि सजीवांच्या अस्तित्वासाठी ती आवश्यक आहेत, म्हणून त्यांचे रक्षण करावे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "Short Answer",
+      "question": "ढग कोठे तयार होतात?",
+      "answer": "ढग वातावरणाच्या तपांबर या थरात तयार होतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "Short Answer",
+      "question": "पाणी शिळे होते का?",
+      "answer": "पाणी कधीही शिळे होत नाही, फक्त ते साठवण्याच्या पद्धतीमुळे अशुद्ध होऊ शकते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "Short Answer",
+      "question": "हवेचा दाबावर उंचीचा काय परिणाम होतो?",
+      "answer": "जसजसे आपण उंच जाऊ, तसतसा हवेचा दाब कमी होतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीवर पाणी कोणत्या तीन अवस्थांमध्ये आढळते?",
+      "answer": "पाणी द्रव (पाणी), स्थायू (बर्फ) आणि वायू (वाफ) या तिन्ही अवस्थांमध्ये आढळते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "Short Answer",
+      "question": "जमिनीच्या कोणत्या थरात सुपीकता सर्वात जास्त असते?",
+      "answer": "जमिनीच्या सर्वात वरच्या ह्युमस (कुथित मृदा) थरात सुपीकता सर्वात जास्त असते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक साधनसंपत्तीचा वापर मानवाने कसा करावा?",
+      "answer": "मानवाने नैसर्गिक साधनसंपत्तीचा वापर अत्यंत काटकसरीने आणि नियोजित पद्धतीने करावा."
+    },
+    {
+      "question_id": 105,
+      "question_type": "Short Answer",
+      "question": "वातावरणातील धूलिकणांचे कार्य काय?",
+      "answer": "धूलिकण सूर्यप्रकाश विखुरण्याचे काम करतात, ज्यामुळे सकाळी आणि संध्याकाळी आकाशात रंग दिसतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "Short Answer",
+      "question": "जलावरणाचे महत्त्व काय?",
+      "answer": "जलावरणामुळे पृथ्वीचे तापमान नियंत्रित राहते आणि सजीवांना जगण्यासाठी पाणी मिळते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीवरील जमिनीचे प्रमाण किती आहे?",
+      "answer": "पृथ्वीवरील जमिनीचे प्रमाण सुमारे २९% आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "Short Answer",
+      "question": "माती तयार होण्यासाठी कोणता मुख्य घटक कारणीभूत आहे?",
+      "answer": "मूळ खडकाचे बारीक तुकडे होणे (अपक्षय) हा माती तयार होण्यासाठीचा मुख्य घटक आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "Short Answer",
+      "question": "जमीन प्रदूषण म्हणजे काय?",
+      "answer": "जमिनीत कचरा, रसायने आणि प्लास्टिक टाकल्यामुळे जमिनीची प्रत खराब होणे म्हणजे जमीन प्रदूषण होय."
+    },
+    {
+      "question_id": 110,
+      "question_type": "Short Answer",
+      "question": "वातावरणाचे थर पृथ्वीपासून किती उंचीपर्यंत आहेत?",
+      "answer": "वातावरणाचे थर पृथ्वीपासून सुमारे ५० किलोमीटर किंवा त्यापेक्षा जास्त उंचीपर्यंत पसरलेले आहेत."
+    },
+    {
+      "question_id": 111,
+      "question_type": "Short Answer",
+      "question": "पाणी आडवा पाणी जिरवा म्हणजे काय?",
+      "answer": "पावसाचे पाणी वाहून जाऊ न देता ते बंधारे घालून अडवणे आणि जमिनीच्या आत झिरपण्यास मदत करणे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "Short Answer",
+      "question": "मृदेत आढळणारे अजैविक घटक कोणते?",
+      "answer": "वाळू, लहान खडक, माती आणि खनिजे हे मृदेतील अजैविक घटक आहेत."
+    },
+    {
+      "question_id": 113,
+      "question_type": "Short Answer",
+      "question": "गांडूळाला शेतकऱ्याचा मित्र का म्हणतात?",
+      "answer": "कारण गांडूळ जमीन भुसभुशीत करतो आणि मृदेची सुपीकता वाढवण्यास मदत करतो."
+    },
+    {
+      "question_id": 114,
+      "question_type": "Short Answer",
+      "question": "हवेतील नायट्रोजनचा वनस्पतींना प्रत्यक्ष वापर करता येतो का?",
+      "answer": "नाही, वनस्पतींना हवेतील नायट्रोजन प्रत्यक्ष घेता येत नाही, ते जमिनीतील नायट्रोजनच्या क्षारांचा वापर करतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "Short Answer",
+      "question": "ओझोन थर कोणत्या किरणांपासून संरक्षण करतो?",
+      "answer": "ओझोन थर सूर्याच्या हानिकारक अतिनील किरणांपासून (Ultraviolet rays) संरक्षण करतो."
+    },
+    {
+      "question_id": 116,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीचे बाह्यांबर म्हणजे काय?",
+      "answer": "वातावरणाच्या सर्वात बाहेरच्या थराला बाह्यांबर म्हणतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "Short Answer",
+      "question": "पावसाची निर्मिती कशी होते?",
+      "answer": "सूर्याच्या उष्णतेने पाण्याची वाफ होते, ती वर जाऊन थंड होते आणि पावसाच्या रूपात जमिनीवर येते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "Short Answer",
+      "question": "मृदा संवर्धनासाठी वनराईचे महत्त्व काय?",
+      "answer": "झाडांची मुळे माती घट्ट धरून ठेवतात, ज्यामुळे पावसाच्या पाण्याने माती वाहून जात नाही."
+    },
+    {
+      "question_id": 119,
+      "question_type": "Short Answer",
+      "question": "हवेतील सर्वात कमी प्रमाणात असणारा वायू कोणता?",
+      "answer": "झेनॉन, क्रिप्टॉन आणि हेलियम यांसारखे अक्रिय वायू हवेत अत्यंत कमी प्रमाणात असतात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीवर सजीवांसाठी जमीन का महत्त्वाची आहे?",
+      "answer": "सजीवांना निवारा, अन्न आणि वाढीसाठी जमीन हा आधार आहे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "Short Answer",
+      "question": "ज्वालामुखीमुळे होणारे वायुप्रदूषण सांगा.",
+      "answer": "ज्वालामुखीचा उद्रेक झाल्यावर मोठ्या प्रमाणात धूळ, राख आणि विषारी वायू हवेत मिसळतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "Short Answer",
+      "question": "पाणी साठवण्यासाठी कोणती साधने वापरतात?",
+      "answer": "धरणे, विहिरी, टाक्या आणि तलाव ही पाणी साठवण्याची साधने आहेत."
+    },
+    {
+      "question_id": 123,
+      "question_type": "Short Answer",
+      "question": "खनिजांचे महत्त्व काय?",
+      "answer": "खनिजे मानवाच्या औद्योगिक आणि आरोग्याच्या गरजा पूर्ण करण्यासाठी आवश्यक असतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "Short Answer",
+      "question": "तपांबराची उंची किती आहे?",
+      "answer": "तपांबराची सरासरी उंची पृथ्वीपासून सुमारे १३ ते १६ किलोमीटर पर्यंत आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "Short Answer",
+      "question": "पाणी स्वच्छ करण्याचे नैसर्गिक मार्ग कोणते?",
+      "answer": "वाळू आणि दगडांच्या थरातून पाणी झिरपणे हा पाणी स्वच्छ करण्याचा नैसर्गिक मार्ग आहे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "Short Answer",
+      "question": "मृदेमध्ये पाणी धरून ठेवण्याची क्षमता कशावर अवलंबून असते?",
+      "answer": "मृदेमधील सेंद्रिय पदार्थांच्या (ह्युमस) प्रमाणावर पाणी धरून ठेवण्याची क्षमता अवलंबून असते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "Short Answer",
+      "question": "इंधनाचा अपूर्ण ज्वलनाने कोणता वायू तयार होतो?",
+      "answer": "इंधनाच्या अपूर्ण ज्वलनामुळे कार्बन मोनोऑक्साइड हा विषारी वायू तयार होतो."
+    },
+    {
+      "question_id": 128,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीवरील एकूण गोड्या पाण्याचे प्रमाण किती?",
+      "answer": "पृथ्वीवरील एकूण पाण्याचे केवळ ३% पाणी गोडे आहे, त्यापैकी खूप कमी पाणी उपलब्ध आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "Short Answer",
+      "question": "सजीव हवा, पाणी आणि जमीन यांचा वापर कशासाठी करतात?",
+      "answer": "सजीव आपली जगण्याची मूलभूत गरज पूर्ण करण्यासाठी या संसाधनांचा वापर करतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "Short Answer",
+      "question": "हवेचा मुख्य घटक कोणता?",
+      "answer": "नायट्रोजन (७८%) हा हवेचा मुख्य घटक आहे."
+    },
+    {
+      "question_id": 131,
+      "question_type": "Short Answer",
+      "question": "जमिनीतील ओलावा कसा टिकवता येईल?",
+      "answer": "जमिनीवर पालापाचोळ्याचे आच्छादन घालून किंवा झाडे लावून ओलावा टिकवता येतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "Short Answer",
+      "question": "पाण्याचा अतिवापर टाळण्याचे एक उदाहरण द्या.",
+      "answer": "नळ चालू न ठेवता बादलीने पाणी वापरणे किंवा ठिबक सिंचन पद्धतीचा वापर करणे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "Short Answer",
+      "question": "वायुप्रदूषण रोखण्याचे उपाय सांगा.",
+      "answer": "वाहनांची नियमित तपासणी करणे आणि सौर उर्जेचा वापर वाढवणे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "Short Answer",
+      "question": "ओझोन थराचे महत्त्व कमी झाल्यास काय होईल?",
+      "answer": "त्वचेचा कॅन्सर, डोळ्यांचे आजार वाढतील आणि सजीव सृष्टी धोक्यात येईल."
+    },
+    {
+      "question_id": 135,
+      "question_type": "Short Answer",
+      "question": "मृदेच्या वरच्या थराला काय म्हणतात?",
+      "answer": "मृदेच्या वरच्या थराला कुथित मृदा किंवा ह्युमस म्हणतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "Short Answer",
+      "question": "भूजल म्हणजे काय?",
+      "answer": "जमिनीच्या आत खडकांच्या भेगांमध्ये साठलेल्या पाण्याला भूजल म्हणतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "Short Answer",
+      "question": "हवेतील आद्रता म्हणजे काय?",
+      "answer": "हवेमध्ये असलेल्या पाण्याच्या वाफेच्या प्रमाणाला आद्रता म्हणतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "Short Answer",
+      "question": "खडकांचा अपक्षय म्हणजे काय?",
+      "answer": "वारा, पाणी आणि उष्णतेमुळे खडकांचे लहान तुकड्यांत रूपांतर होणे म्हणजे अपक्षय होय."
+    },
+    {
+      "question_id": 139,
+      "question_type": "Short Answer",
+      "question": "वनस्पती अन्नासाठी ऊर्जेचा वापर कुठून करतात?",
+      "answer": "वनस्पती अन्नासाठी सूर्यप्रकाशातील ऊर्जेचा वापर करतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "Short Answer",
+      "question": "शिलावरण कशाने व्यापलेले आहे?",
+      "answer": "शिलावरण माती, खडक आणि पर्वतांनी व्यापलेले आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक संसाधनांचे प्रदूषण कशामुळे होते?",
+      "answer": "मानवाच्या हव्यासामुळे आणि निसर्गातील घटकांचा चुकीच्या पद्धतीने वापर केल्यामुळे प्रदूषण होते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीच्या भोवती वातावरणाचे किती थर आहेत?",
+      "answer": "तपांबर, स्थितांबर, मध्यांबर, आयनांबर आणि बाह्यांबर असे पाच मुख्य थर आहेत."
+    },
+    {
+      "question_id": 143,
+      "question_type": "Short Answer",
+      "question": "कार्बन डायऑक्साइडचे हवेतील वाढते प्रमाण कशाचे लक्षण आहे?",
+      "answer": "ते हवेच्या प्रदूषणाचे आणि जागतिक तापमान वाढीचे लक्षण आहे."
+    },
+    {
+      "question_id": 144,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीवरील पाण्याचे मुख्य स्रोत कोणते?",
+      "answer": "महासागर, नद्या, तलाव आणि भूजल हे पाण्याचे मुख्य स्रोत आहेत."
+    },
+    {
+      "question_id": 145,
+      "question_type": "Short Answer",
+      "question": "जमिनीची सुपीकता टिकवून ठेवण्यासाठी काय करावे?",
+      "answer": "रासायनिक खतांचा वापर टाळून सेंद्रिय खतांचा वापर करावा."
+    },
+    {
+      "question_id": 146,
+      "question_type": "Short Answer",
+      "question": "सजीव श्वसनातून कोणता वायू बाहेर सोडतात?",
+      "answer": "सजीव श्वसनातून कार्बन डायऑक्साइड वायू बाहेर सोडतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "Short Answer",
+      "question": "हवामानाचा अंदाज कशामुळे वर्तवता येतो?",
+      "answer": "वातावरणातील बदलांचा अभ्यास केल्यामुळे हवामानाचा अंदाज वर्तवता येतो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "Short Answer",
+      "question": "जमिनीखाली खनिज तेलाचे साठे कसे तयार झाले?",
+      "answer": "लाखो वर्षांपूर्वी जमिनीखाली गाडल्या गेलेल्या सजीवांच्या मृत अवशेषांपासून खनिज तेलाचे साठे तयार झाले."
+    },
+    {
+      "question_id": 149,
+      "question_type": "Short Answer",
+      "question": "पावसाचे पाणी साठवून ठेवणे का गरजेचे आहे?",
+      "answer": "उन्हाळ्यातील पाणीटंचाई दूर करण्यासाठी आणि भूजल पातळी वाढवण्यासाठी ते गरजेचे आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक संसाधनांचे संवर्धन करणे ही कोणाची जबाबदारी आहे?",
+      "answer": "नैसर्गिक संसाधनांचे संवर्धन करणे ही प्रत्येक नागरिकाची जबाबदारी आहे."
+    }
+  ]
+}

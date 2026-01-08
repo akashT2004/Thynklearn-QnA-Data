@@ -1,0 +1,1111 @@
+{
+  "chapter_info": {
+    "chapter_number": "9",
+    "grade": "6",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "दक्षिण भारतातील प्राचीन राज्ये"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य साम्राज्याचे संस्थापक कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "सम्राट अशोक", "is_correct": false },
+        { "option_number": 2, "text": "चंद्रगुप्त मौर्य", "is_correct": true },
+        { "option_number": 3, "text": "बिंदुसार", "is_correct": false },
+        { "option_number": 4, "text": "अजातशत्रू", "is_correct": false }
+      ],
+      "answer": "चंद्रगुप्त मौर्य"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "दक्षिण भारतातील प्राचीन साहित्याला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "वेद साहित्य", "is_correct": false },
+        { "option_number": 2, "text": "संगम साहित्य", "is_correct": true },
+        { "option_number": 3, "text": "जैन साहित्य", "is_correct": false },
+        { "option_number": 4, "text": "बौद्ध साहित्य", "is_correct": false }
+      ],
+      "answer": "संगम साहित्य"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "संगम साहित्यात कोणत्या तीन राजसत्तांचा उल्लेख आढळतो?",
+      "options": [
+        { "option_number": 1, "text": "चोळ, चेर, पांड्य", "is_correct": true },
+        { "option_number": 2, "text": "गुप्त, वर्धन, मौर्य", "is_correct": false },
+        { "option_number": 3, "text": "सातवाहन, वाकाटक, चालुक्य", "is_correct": false },
+        { "option_number": 4, "text": "पल्लव, राष्ट्रकूट, यादव", "is_correct": false }
+      ],
+      "answer": "चोळ, चेर आणि पांड्य"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्रातील सातवाहन घराण्याचा संस्थापक कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "सिमुक", "is_correct": true },
+        { "option_number": 2, "text": "हाल", "is_correct": false },
+        { "option_number": 3, "text": "गौतमीपुत्र सातकर्णी", "is_correct": false },
+        { "option_number": 4, "text": "यज्ञश्री सातकर्णी", "is_correct": false }
+      ],
+      "answer": "सिमुक"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "सातवाहनांची राजधानी कोठे होती?",
+      "options": [
+        { "option_number": 1, "text": "नाशिक", "is_correct": false },
+        { "option_number": 2, "text": "प्रतिष्ठान (पैठण)", "is_correct": true },
+        { "option_number": 3, "text": "कोल्हापूर", "is_correct": false },
+        { "option_number": 4, "text": "जुन्नर", "is_correct": false }
+      ],
+      "answer": "प्रतिष्ठान (पैठण)"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "सातवाहन घराण्यातील सर्वात पराक्रमी राजा कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "राजा हाल", "is_correct": false },
+        { "option_number": 2, "text": "गौतमीपुत्र सातकर्णी", "is_correct": true },
+        { "option_number": 3, "text": "कान्हा", "is_correct": false },
+        { "option_number": 4, "text": "पुळुमावी", "is_correct": false }
+      ],
+      "answer": "गौतमीपुत्र सातकर्णी"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "गौतमीपुत्र सातकर्णीचा उल्लेख कोणत्या नावाने केला जातो?",
+      "options": [
+        { "option_number": 1, "text": "देवपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "त्रि-समुद्र-तोय-पीत-वाहन", "is_correct": true },
+        { "option_number": 3, "text": "विक्रमादित्य", "is_correct": false },
+        { "option_number": 4, "text": "अश्वमेधयाजी", "is_correct": false }
+      ],
+      "answer": "त्रि-समुद्र-तोय-पीत-वाहन"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "सातवाहन राजा 'हाल' याने कोणता प्रसिद्ध ग्रंथ रचला?",
+      "options": [
+        { "option_number": 1, "text": "गाथासप्तशती", "is_correct": true },
+        { "option_number": 2, "text": "बुद्धचरित", "is_correct": false },
+        { "option_number": 3, "text": "हर्षचरित", "is_correct": false },
+        { "option_number": 4, "text": "मेघदूत", "is_correct": false }
+      ],
+      "answer": "गाथासप्तशती"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या सातवाहन राजाच्या नाण्यांवर जहाजाची प्रतिमा आढळते?",
+      "options": [
+        { "option_number": 1, "text": "यज्ञश्री सातकर्णी", "is_correct": true },
+        { "option_number": 2, "text": "सिमुक", "is_correct": false },
+        { "option_number": 3, "text": "कान्हा", "is_correct": false },
+        { "option_number": 4, "text": "गौतमीपुत्र", "is_correct": false }
+      ],
+      "answer": "यज्ञश्री सातकर्णी"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "अजिंठा येथील जगप्रसिद्ध लेण्यांपैकी काही लेण्यांची निर्मिती कोणाच्या काळात झाली?",
+      "options": [
+        { "option_number": 1, "text": "गुप्त", "is_correct": false },
+        { "option_number": 2, "text": "सातवाहन", "is_correct": true },
+        { "option_number": 3, "text": "पल्लव", "is_correct": false },
+        { "option_number": 4, "text": "चोळ", "is_correct": false }
+      ],
+      "answer": "सातवाहन"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "वाकाटक घराण्याचा संस्थापक कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "विंध्यशक्ती", "is_correct": true },
+        { "option_number": 2, "text": "प्रवरसेन", "is_correct": false },
+        { "option_number": 3, "text": "रुद्रसेन", "is_correct": false },
+        { "option_number": 4, "text": "पृथ्वीसेन", "is_correct": false }
+      ],
+      "answer": "विंध्यशक्ती"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "वाकाटकांची महत्त्वाची राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "पैठण", "is_correct": false },
+        { "option_number": 2, "text": "नंदिवर्धन (नागपूरजवळ)", "is_correct": true },
+        { "option_number": 3, "text": "वातापी", "is_correct": false },
+        { "option_number": 4, "text": "कांची", "is_correct": false }
+      ],
+      "answer": "नंदिवर्धन"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "वाकाटक राजा प्रवरसेन (दुसरा) याने कोणता प्राकृत ग्रंथ रचला?",
+      "options": [
+        { "option_number": 1, "text": "सेतुबंध", "is_correct": true },
+        { "option_number": 2, "text": "गाथासप्तशती", "is_correct": false },
+        { "option_number": 3, "text": "लीलाचरित्र", "is_correct": false },
+        { "option_number": 4, "text": "विवेकसिंधू", "is_correct": false }
+      ],
+      "answer": "सेतुबंध"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "चालुक्य घराण्याची राजधानी कोठे होती?",
+      "options": [
+        { "option_number": 1, "text": "कांची", "is_correct": false },
+        { "option_number": 2, "text": "वातापी (बदामी)", "is_correct": true },
+        { "option_number": 3, "text": "पैठण", "is_correct": false },
+        { "option_number": 4, "text": "मान्यखेट", "is_correct": false }
+      ],
+      "answer": "वातापी (बदामी)"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "चालुक्य राजा पुलकेशी (दुसरा) याने कोणत्या उत्तरेकडील सम्राटाचा पराभव केला होता?",
+      "options": [
+        { "option_number": 1, "text": "चंद्रगुप्त मौर्य", "is_correct": false },
+        { "option_number": 2, "text": "सम्राट हर्षवर्धन", "is_correct": true },
+        { "option_number": 3, "text": "समुद्रगुप्त", "is_correct": false },
+        { "option_number": 4, "text": "कनिष्क", "is_correct": false }
+      ],
+      "answer": "सम्राट हर्षवर्धन"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "पल्लव राजघराण्याची राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "कांचीपुरम्", "is_correct": true },
+        { "option_number": 2, "text": "मदुराई", "is_correct": false },
+        { "option_number": 3, "text": "पुहार", "is_correct": false },
+        { "option_number": 4, "text": "तंजावर", "is_correct": false }
+      ],
+      "answer": "कांचीपुरम्"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "महाबलीपुरम् येथील प्रसिद्ध रथ मंदिरे कोणत्या राजघराण्याने कोरली?",
+      "options": [
+        { "option_number": 1, "text": "चालुक्य", "is_correct": false },
+        { "option_number": 2, "text": "पल्लव", "is_correct": true },
+        { "option_number": 3, "text": "राष्ट्रकूट", "is_correct": false },
+        { "option_number": 4, "text": "चोळ", "is_correct": false }
+      ],
+      "answer": "पल्लव"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "राष्ट्रकूट घराण्याचा संस्थापक कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "दंतिदुर्ग", "is_correct": true },
+        { "option_number": 2, "text": "कृष्ण पहिला", "is_correct": false },
+        { "option_number": 3, "text": "ध्रुव", "is_correct": false },
+        { "option_number": 4, "text": "अमोघवर्ष", "is_correct": false }
+      ],
+      "answer": "दंतिदुर्ग"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "वेरूळचे जगप्रसिद्ध कैलास मंदिर कोणाच्या काळात कोरले गेले?",
+      "options": [
+        { "option_number": 1, "text": "चालुक्य", "is_correct": false },
+        { "option_number": 2, "text": "राष्ट्रकूट राजा कृष्ण पहिला", "is_correct": true },
+        { "option_number": 3, "text": "वाकाटक", "is_correct": false },
+        { "option_number": 4, "text": "यादव", "is_correct": false }
+      ],
+      "answer": "राष्ट्रकूट राजा कृष्ण पहिला"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "यादव घराण्याची राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "देवगिरी", "is_correct": true },
+        { "option_number": 2, "text": "पैठण", "is_correct": false },
+        { "option_number": 3, "text": "नाशिक", "is_correct": false },
+        { "option_number": 4, "text": "सातारा", "is_correct": false }
+      ],
+      "answer": "देवगिरी"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "यादवांच्या काळात कोणत्या महान संप्रदायाचा उदय झाला?",
+      "options": [
+        { "option_number": 1, "text": "महानुभाव आणि वारकरी संप्रदाय", "is_correct": true },
+        { "option_number": 2, "text": "जैन संप्रदाय", "is_correct": false },
+        { "option_number": 3, "text": "बौद्ध संप्रदाय", "is_correct": false },
+        { "option_number": 4, "text": "शैव संप्रदाय", "is_correct": false }
+      ],
+      "answer": "महानुभाव आणि वारकरी संप्रदाय"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "चोळ राजांपैकी कोणाचे नौदल शक्तिशाली होते?",
+      "options": [
+        { "option_number": 1, "text": "राजराज चोळ", "is_correct": true },
+        { "option_number": 2, "text": "करिकाल चोळ", "is_correct": false },
+        { "option_number": 3, "text": "कोचेंगान", "is_correct": false },
+        { "option_number": 4, "text": "विजयपाल", "is_correct": false }
+      ],
+      "answer": "राजराज चोळ आणि राजेंद्र चोळ"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "सातवाहनांच्या काळात कोणत्या लिपीचा वापर कोरीव लेखांसाठी केला जाई?",
+      "options": [
+        { "option_number": 1, "text": "देवनागरी", "is_correct": false },
+        { "option_number": 2, "text": "ब्राह्मी", "is_correct": true },
+        { "option_number": 3, "text": "खरोष्टी", "is_correct": false },
+        { "option_number": 4, "text": "मराठी", "is_correct": false }
+      ],
+      "answer": "ब्राह्मी लिपी"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "नाणेघाट कोणत्या दोन शहरांना जोडणाऱ्या मार्गावर आहे?",
+      "options": [
+        { "option_number": 1, "text": "पुणे आणि मुंबई", "is_correct": false },
+        { "option_number": 2, "text": "जुन्नर आणि कोकण", "is_correct": true },
+        { "option_number": 3, "text": "नाशिक आणि पैठण", "is_correct": false },
+        { "option_number": 4, "text": "कोल्हापूर आणि रत्नागिरी", "is_correct": false }
+      ],
+      "answer": "जुन्नर आणि कोकण"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "पल्लव राजा महेंद्रवर्मन हा स्वतः एक उत्तम काय होता?",
+      "options": [
+        { "option_number": 1, "text": "चित्रकार", "is_correct": false },
+        { "option_number": 2, "text": "नाटककार आणि संगीतकार", "is_correct": true },
+        { "option_number": 3, "text": "मूर्तिकार", "is_correct": false },
+        { "option_number": 4, "text": "वैज्ञानिक", "is_correct": false }
+      ],
+      "answer": "नाटककार आणि संगीतकार"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या राजघराण्याने श्रीलंकेवर विजय मिळवला होता?",
+      "options": [
+        { "option_number": 1, "text": "पल्लव", "is_correct": false },
+        { "option_number": 2, "text": "चोळ", "is_correct": true },
+        { "option_number": 3, "text": "चालुक्य", "is_correct": false },
+        { "option_number": 4, "text": "राष्ट्रकूट", "is_correct": false }
+      ],
+      "answer": "चोळ"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "अजिंठा येथील १६ क्रमांकाचे लेणे कोणाच्या मार्गदर्शनाखाली कोरले गेले?",
+      "options": [
+        { "option_number": 1, "text": "वराहदेव (वाकाटक मंत्री)", "is_correct": true },
+        { "option_number": 2, "text": "गौतमीपुत्र", "is_correct": false },
+        { "option_number": 3, "text": "कृष्ण पहिला", "is_correct": false },
+        { "option_number": 4, "text": "पुलकेशी", "is_correct": false }
+      ],
+      "answer": "वराहदेव"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्रातील शिलाहार घराण्याची एकूण किती शाखा होत्या?",
+      "options": [
+        { "option_number": 1, "text": "एक", "is_correct": false },
+        { "option_number": 2, "text": "दोन", "is_correct": false },
+        { "option_number": 3, "text": "तीन", "is_correct": true },
+        { "option_number": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "चालुक्यांची एक शाखा गुजरातमध्ये कोठे स्थापन झाली होती?",
+      "options": [
+        { "option_number": 1, "text": "लाट प्रदेश", "is_correct": true },
+        { "option_number": 2, "text": "सुरत", "is_correct": false },
+        { "option_number": 3, "text": "अहमदाबाद", "is_correct": false },
+        { "option_number": 4, "text": "द्वारका", "is_correct": false }
+      ],
+      "answer": "लाट प्रदेश"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "दक्षिण भारतातील कोणत्या राजाने स्वतःला 'दक्षिणापथपती' ही पदवी लावून घेतली होती?",
+      "options": [
+        { "option_number": 1, "text": "गौतमीपुत्र सातकर्णी", "is_correct": true },
+        { "option_number": 2, "text": "पुलकेशी दुसरा", "is_correct": false },
+        { "option_number": 3, "text": "महेंद्रवर्मन", "is_correct": false },
+        { "option_number": 4, "text": "दंतिदुर्ग", "is_correct": false }
+      ],
+      "answer": "गौतमीपुत्र सातकर्णी"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "कर्नाटकातील 'ऐहोळे' कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_number": 1, "text": "किल्ल्यांसाठी", "is_correct": false },
+        { "option_number": 2, "text": "मंदिरांच्या स्थापत्यकलेसाठी", "is_correct": true },
+        { "option_number": 3, "text": "लेण्यांसाठी", "is_correct": false },
+        { "option_number": 4, "text": "व्यापारासाठी", "is_correct": false }
+      ],
+      "answer": "मंदिरांच्या स्थापत्यकलेसाठी"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "पल्लव राजा नरसिंहवर्मन याने कोणत्या चालुक्य राजाचा पराभव केला होता?",
+      "options": [
+        { "option_number": 1, "text": "पुलकेशी पहिला", "is_correct": false },
+        { "option_number": 2, "text": "पुलकेशी दुसरा", "is_correct": true },
+        { "option_number": 3, "text": "कीर्तिवर्मन", "is_correct": false },
+        { "option_number": 4, "text": "मंगलेश", "is_correct": false }
+      ],
+      "answer": "पुलकेशी दुसरा"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "बदामीच्या चालुक्य घराण्यानंतर कोणाची सत्ता प्रबळ झाली?",
+      "options": [
+        { "option_number": 1, "text": "पल्लव", "is_correct": false },
+        { "option_number": 2, "text": "राष्ट्रकूट", "is_correct": true },
+        { "option_number": 3, "text": "यादव", "is_correct": false },
+        { "option_number": 4, "text": "शिलाहार", "is_correct": false }
+      ],
+      "answer": "राष्ट्रकूट"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "यादव राजा भिल्लम (पाचवा) याने आपली राजधानी कोठे नेली?",
+      "options": [
+        { "option_number": 1, "text": "नाशिक", "is_correct": false },
+        { "option_number": 2, "text": "देवगिरी", "is_correct": true },
+        { "option_number": 3, "text": "पैठण", "is_correct": false },
+        { "option_number": 4, "text": "पुणे", "is_correct": false }
+      ],
+      "answer": "देवगिरी"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या काळात मराठी भाषेला राजश्रय मिळाला?",
+      "options": [
+        { "option_number": 1, "text": "गुप्त काळ", "is_correct": false },
+        { "option_number": 2, "text": "यादव काळ", "is_correct": true },
+        { "option_number": 3, "text": "मौर्य काळ", "is_correct": false },
+        { "option_number": 4, "text": "वर्धमान काळ", "is_correct": false }
+      ],
+      "answer": "यादव काळ"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "सातवाहनांच्या काळात कोणता धर्म अधिक लोकप्रिय होता?",
+      "options": [
+        { "option_number": 1, "text": "बौद्ध आणि वैदिक धर्म", "is_correct": true },
+        { "option_number": 2, "text": "ख्रिश्चन धर्म", "is_correct": false },
+        { "option_number": 3, "text": "इस्लाम धर्म", "is_correct": false },
+        { "option_number": 4, "text": "शीख धर्म", "is_correct": false }
+      ],
+      "answer": "बौद्ध आणि वैदिक धर्म"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "कांचीपुरम् आजच्या कोणत्या राज्यात आहे?",
+      "options": [
+        { "option_number": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_number": 2, "text": "तमिळनाडू", "is_correct": true },
+        { "option_number": 3, "text": "कर्नाटक", "is_correct": false },
+        { "option_number": 4, "text": "केरळ", "is_correct": false }
+      ],
+      "answer": "तमिळनाडू"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "वाकाटकांच्या काळात कोणत्या कवीने 'मेघदूत' हे काव्य रचले?",
+      "options": [
+        { "option_number": 1, "text": "कालिदास", "is_correct": true },
+        { "option_number": 2, "text": "बाणभट्ट", "is_correct": false },
+        { "option_number": 3, "text": "भवभूती", "is_correct": false },
+        { "option_number": 4, "text": "भारवी", "is_correct": false }
+      ],
+      "answer": "कालिदास"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "चोळ राजांनी कोणत्या आग्नेय आशियाई देशांशी व्यापार केला?",
+      "options": [
+        { "option_number": 1, "text": "जपान", "is_correct": false },
+        { "option_number": 2, "text": "मलेशिया आणि इंडोनेशिया", "is_correct": true },
+        { "option_number": 3, "text": "रशिया", "is_correct": false },
+        { "option_number": 4, "text": "इराण", "is_correct": false }
+      ],
+      "answer": "मलेशिया, इंडोनेशिया आणि चीन"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "चालुक्य राजा पुलकेशी (दुसरा) याच्या पराक्रमाचे वर्णन कोणत्या कोरीव लेखात आहे?",
+      "options": [
+        { "option_number": 1, "text": "प्रयाग स्तंभलेख", "is_correct": false },
+        { "option_number": 2, "text": "ऐहोळे शिलालेख", "is_correct": true },
+        { "option_number": 3, "text": "नाशिक शिलालेख", "is_correct": false },
+        { "option_number": 4, "text": "नाणेघाट लेख", "is_correct": false }
+      ],
+      "answer": "ऐहोळे शिलालेख"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "पल्लव राजवटीत कोणता चिनी प्रवासी कांचीला आला होता?",
+      "options": [
+        { "option_number": 1, "text": "फाहियान", "is_correct": false },
+        { "option_number": 2, "text": "युआन श्वांग", "is_correct": true },
+        { "option_number": 3, "text": "इत्सिंग", "is_correct": false },
+        { "option_number": 4, "text": "मार्को पोलो", "is_correct": false }
+      ],
+      "answer": "युआन श्वांग"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "राष्ट्रकूटांच्या काळातील सर्वात मोठे शिल्प कोठे आहे?",
+      "options": [
+        { "option_number": 1, "text": "अजिंठा", "is_correct": false },
+        { "option_number": 2, "text": "वेरूळ (कैलास मंदिर)", "is_correct": true },
+        { "option_number": 3, "text": "कार्ले", "is_correct": false },
+        { "option_number": 4, "text": "घारापुरी", "is_correct": false }
+      ],
+      "answer": "वेरूळ"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "यादव काळात कोणाचे महान संप्रदाय महाराष्ट्रात पसरले?",
+      "options": [
+        { "option_number": 1, "text": "चक्रधर स्वामी आणि संत ज्ञानेश्वर", "is_correct": true },
+        { "option_number": 2, "text": "गौतम बुद्ध", "is_correct": false },
+        { "option_number": 3, "text": "महावीर", "is_correct": false },
+        { "option_number": 4, "text": "समर्थ रामदास", "is_correct": false }
+      ],
+      "answer": "चक्रधर स्वामी (महानुभाव) आणि संत ज्ञानेश्वर (वारकरी)"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळी भारताचा दक्षिण भाग काय म्हणून ओळखला जात असे?",
+      "options": [
+        { "option_number": 1, "text": "उत्तरापथ", "is_correct": false },
+        { "option_number": 2, "text": "दक्षिणापथ", "is_correct": true },
+        { "option_number": 3, "text": "आर्यावर्त", "is_correct": false },
+        { "option_number": 4, "text": "ब्रह्मवर्त", "is_correct": false }
+      ],
+      "answer": "दक्षिणापथ"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या राजाच्या काळात 'पैठण' ही व्यापाराचे मोठे केंद्र होते?",
+      "options": [
+        { "option_number": 1, "text": "सातवाहन", "is_correct": true },
+        { "option_number": 2, "text": "गुप्त", "is_correct": false },
+        { "option_number": 3, "text": "मौर्य", "is_correct": false },
+        { "option_number": 4, "text": "वर्धन", "is_correct": false }
+      ],
+      "answer": "सातवाहन"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "वाकाटक राजांनी स्वतःला काय म्हणून ओळखले?",
+      "options": [
+        { "option_number": 1, "text": "महाराज", "is_correct": false },
+        { "option_number": 2, "text": "सम्राट", "is_correct": true },
+        { "option_number": 3, "text": "अधिराज", "is_correct": false },
+        { "option_number": 4, "text": "क्षत्रप", "is_correct": false }
+      ],
+      "answer": "सम्राट"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "कर्नाटकातील बदामी हे शहर पूर्वी कोणत्या नावाने ओळखले जाई?",
+      "options": [
+        { "option_number": 1, "text": "वातापी", "is_correct": true },
+        { "option_number": 2, "text": "विजयनगर", "is_correct": false },
+        { "option_number": 3, "text": "मैसूर", "is_correct": false },
+        { "option_number": 4, "text": "हंपी", "is_correct": false }
+      ],
+      "answer": "वातापी"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "यादव साम्राज्याचा शेवट कोणामुळे झाला?",
+      "options": [
+        { "option_number": 1, "text": "मुघल", "is_correct": false },
+        { "option_number": 2, "text": "अलाउद्दीन खल्जी", "is_correct": true },
+        { "option_number": 3, "text": "ब्रिटिश", "is_correct": false },
+        { "option_number": 4, "text": "पोर्तुगीज", "is_correct": false }
+      ],
+      "answer": "अलाउद्दीन खल्जी"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "शिलाहार राजांनी कोणत्या देवतेचे मंदिर बांधले होते?",
+      "options": [
+        { "option_number": 1, "text": "अंबरनाथचे शिवमंदिर", "is_correct": true },
+        { "option_number": 2, "text": "कैलास मंदिर", "is_correct": false },
+        { "option_number": 3, "text": "पंढरपूर विठ्ठल मंदिर", "is_correct": false },
+        { "option_number": 4, "text": "कोल्हापूर महालक्ष्मी मंदिर", "is_correct": false }
+      ],
+      "answer": "अंबरनाथ येथील शिवमंदिर"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "पल्लव राजवटीत कोणाला सर्वात मोठे उत्तेजन मिळाले?",
+      "options": [
+        { "option_number": 1, "text": "व्यापार", "is_correct": false },
+        { "option_number": 2, "text": "शिल्प आणि स्थापत्यकला", "is_correct": true },
+        { "option_number": 3, "text": "आरमार", "is_correct": false },
+        { "option_number": 4, "text": "शेती", "is_correct": false }
+      ],
+      "answer": "शिल्प आणि स्थापत्यकला"
+    },
+    {
+    "question_number": 51,
+    "question": "कोणत्या साम्राज्याच्या ऱ्हासानंतर दक्षिण भारतात अनेक छोटी राज्ये स्वतंत्र झाली?",
+    "answer": "मौर्य साम्राज्य"
+  },
+  {
+    "question_number": 52,
+    "question": "दक्षिण भारतातील प्राचीन साहित्याला काय म्हणतात?",
+    "answer": "संगम साहित्य"
+  },
+  {
+    "question_number": 53,
+    "question": "संगम साहित्यात कोणत्या तीन महत्त्वाच्या राजसत्तांचा उल्लेख आहे?",
+    "answer": "चोळ, चेर आणि पांड्य"
+  },
+  {
+    "question_number": 54,
+    "question": "पांड्य राज्याची राजधानी कोणती होती?",
+    "answer": "मदुराई"
+  },
+  {
+    "question_number": 55,
+    "question": "पांड्य राज्य कशाच्या व्यापारासाठी प्रसिद्ध होते?",
+    "answer": "उत्कृष्ट दर्जाचे मोती"
+  },
+  {
+    "question_number": 56,
+    "question": "महाराष्ट्र, आंध्र प्रदेश आणि कर्नाटक येथील स्थानिक राजे कोणाचे मांडलिक होते?",
+    "answer": "मौर्य सम्राटांचे"
+  },
+  {
+    "question_number": 57,
+    "question": "मौर्य साम्राज्याच्या ऱ्हासानंतर महाराष्ट्रात कोणत्या घराण्याने आपली सत्ता स्थापन केली?",
+    "answer": "सातवाहन"
+  },
+  {
+    "question_number": 58,
+    "question": "सातवाहन घराण्याचा संस्थापक कोण होता?",
+    "answer": "सिमुक"
+  },
+  {
+    "question_number": 59,
+    "question": "सातवाहनांची राजधानी कोठे होती?",
+    "answer": "प्रतिष्ठान (आजचे पैठण)"
+  },
+  {
+    "question_number": 60,
+    "question": "पैठण हे शहर आजच्या महाराष्ट्रातील कोणत्या जिल्ह्यात आहे?",
+    "answer": "छत्रपती संभाजीनगर (औरंगाबाद)"
+  },
+  {
+    "question_number": 61,
+    "question": "सातवाहन घराण्यातील सर्वात पराक्रमी राजा कोण होता?",
+    "answer": "गौतमीपुत्र सातकर्णी"
+  },
+  {
+    "question_number": 62,
+    "question": "गौतमीपुत्र सातकर्णीने कोणाचा पराभव केला होता?",
+    "answer": "शक राजा नहपान"
+  },
+  {
+    "question_number": 63,
+    "question": "नाशिकच्या लेण्यांमधील शिलालेखात कोणाचा गौरवपूर्ण उल्लेख आहे?",
+    "answer": "गौतमीपुत्र सातकर्णी"
+  },
+  {
+    "question_number": 64,
+    "question": "कोणत्या राजाचा उल्लेख 'त्रि-समुद्र-तोय-पीत-वाहन' असा केला जातो?",
+    "answer": "गौतमीपुत्र सातकर्णी"
+  },
+  {
+    "question_number": 65,
+    "question": "'त्रि-समुद्र-तोय-पीत-वाहन' या शब्दाचा अर्थ काय?",
+    "answer": "ज्याच्या घोड्यांनी तीन समुद्रांचे पाणी पिले आहे असा राजा"
+  },
+  {
+    "question_number": 66,
+    "question": "सातवाहन राजा 'हाल' याने कोणता प्रसिद्ध ग्रंथ रचला?",
+    "answer": "गाथासप्तशती"
+  },
+  {
+    "question_number": 67,
+    "question": "गाथासप्तशती हा ग्रंथ कोणत्या भाषेत आहे?",
+    "answer": "महाराष्ट्री प्राकृत"
+  },
+  {
+    "question_number": 68,
+    "question": "कोणत्या सातवाहन राजाच्या नाण्यांवर जहाजाची प्रतिमा आढळते?",
+    "answer": "यज्ञश्री सातकर्णी"
+  },
+  {
+    "question_number": 69,
+    "question": "नाण्यांवरील जहाजाच्या प्रतिमेवरून काय सिद्ध होते?",
+    "answer": "सातवाहनांचा समुद्री व्यापार"
+  },
+  {
+    "question_number": 70,
+    "question": "सातवाहनांच्या काळात व्यापाराचे प्रमुख केंद्र कोणते होते?",
+    "answer": "पैठण, तेर, भोकरदन आणि कोल्हापूर"
+  },
+  {
+    "question_number": 71,
+    "question": "अजिंठा, नाशिक आणि कार्ले येथील लेण्यांची निर्मिती कोणाच्या काळात झाली?",
+    "answer": "सातवाहन"
+  },
+  {
+    "question_number": 72,
+    "question": "सातवाहन सत्तेचा ऱ्हास झाल्यानंतर दक्षिणेत कोणती सत्ता प्रबळ झाली?",
+    "answer": "वाकाटक"
+  },
+  {
+    "question_number": 73,
+    "question": "वाकाटक घराण्याचा संस्थापक कोण होता?",
+    "answer": "विंध्यशक्ती"
+  },
+  {
+    "question_number": 74,
+    "question": "विंध्यशक्ती नंतर वाकाटक गादीवर कोण आले?",
+    "answer": "प्रवरसेन पहिला"
+  },
+  {
+    "question_number": 75,
+    "question": "प्रवरसेनाने स्वतःला कोणती पदवी लावून घेतली होती?",
+    "answer": "सम्राट"
+  },
+  {
+    "question_number": 76,
+    "question": "वाकाटकांची राजधानी कोठे होती?",
+    "answer": "नंदिवर्धन (नागपूर जवळ)"
+  },
+  {
+    "question_number": 77,
+    "question": "गुप्त सम्राट दुसरा चंद्रगुप्त याची मुलगी प्रभावती हिचा विवाह कोणाशी झाला होता?",
+    "answer": "वाकाटक राजा रुद्रसेन दुसरा"
+  },
+  {
+    "question_number": 78,
+    "question": "वाकाटक राजा प्रवरसेन दुसरा याने कोणता ग्रंथ रचला?",
+    "answer": "सेतुबंध"
+  },
+  {
+    "question_number": 79,
+    "question": "कालिदासाचे 'मेघदूत' हे काव्य कोणत्या काळात रचले गेले?",
+    "answer": "वाकाटक काळ"
+  },
+  {
+    "question_number": 80,
+    "question": "वाकाटक काळानंतर कर्नाटकात कोणत्या घराण्याची सत्ता आली?",
+    "answer": "चालुक्य"
+  },
+  {
+    "question_number": 81,
+    "question": "चालुक्य घराण्याची राजधानी कोणती होती?",
+    "answer": "वातापी (आजचे बदामी)"
+  },
+  {
+    "question_number": 82,
+    "question": "चालुक्य घराण्यातील सर्वात पराक्रमी राजा कोण?",
+    "answer": "पुलकेशी दुसरा"
+  },
+  {
+    "question_number": 83,
+    "question": "पुलकेशी दुसऱ्याने कोणत्या उत्तरेकडील सम्राटाचा पराभव केला होता?",
+    "answer": "सम्राट हर्षवर्धन"
+  },
+  {
+    "question_number": 84,
+    "question": "चालुक्य काळातील मंदिरे कोठे पाहायला मिळतात?",
+    "answer": "बदामी, ऐहोळे आणि पट्टदकल"
+  },
+  {
+    "question_number": 85,
+    "question": "पल्लव राजघराणे कोणत्या प्रदेशात सत्ता गाजवत होते?",
+    "answer": "कांचिपुरम् (तमिळनाडू)"
+  },
+  {
+    "question_number": 86,
+    "question": "पल्लव राजा महेंद्रवर्मन हा स्वतः काय होता?",
+    "answer": "नाटककार आणि संगीतकार"
+  },
+  {
+    "question_number": 87,
+    "question": "महाबलीपुरम् येथील प्रसिद्ध रथ-मंदिरे कोणी निर्माण केली?",
+    "answer": "पल्लव राजे"
+  },
+  {
+    "question_number": 88,
+    "question": "पल्लवांचे नौदल कसे होते?",
+    "answer": "शक्तिशाली आणि सुसज्ज"
+  },
+  {
+    "question_number": 89,
+    "question": "पल्लव काळात कोणता चिनी प्रवासी भारतात आला होता?",
+    "answer": "युआन श्वांग"
+  },
+  {
+    "question_number": 90,
+    "question": "राष्ट्रकूट घराण्याची सत्ता कोठे होती?",
+    "answer": "महाराष्ट्र आणि कर्नाटकचा काही भाग"
+  },
+  {
+    "question_number": 91,
+    "question": "राष्ट्रकूट घराण्याचा पाया कोणी घातला?",
+    "answer": "दंतिदुर्ग"
+  },
+  {
+    "question_number": 92,
+    "question": "वेरूळचे कैलास मंदिर कोणत्या राष्ट्रकूट राजाच्या काळात बांधले गेले?",
+    "answer": "कृष्ण पहिला"
+  },
+  {
+    "question_number": 93,
+    "question": "शिलाहार घराण्याची सत्ता महाराष्ट्रात कोठे होती?",
+    "answer": "कोकण आणि पश्चिम महाराष्ट्र"
+  },
+  {
+    "question_number": 94,
+    "question": "महाराष्ट्रातील शिलाहार घराण्याच्या किती शाखा होत्या?",
+    "answer": "तीन"
+  },
+  {
+    "question_number": 95,
+    "question": "शिलाहार राजांपैकी कोणाचे शिवमंदिर अंबरनाथ येथे प्रसिद्ध आहे?",
+    "answer": "मुम्मुणीराज (अंबरनाथचे शिवमंदिर)"
+  },
+  {
+    "question_number": 96,
+    "question": "यादव घराण्याची राजधानी कोणती होती?",
+    "answer": "देवगिरी (आजचे दौलताबाद)"
+  },
+  {
+    "question_number": 97,
+    "question": "यादव घराण्यातील पराक्रमी राजा कोण?",
+    "answer": "भिल्लम पाचवा"
+  },
+  {
+    "question_number": 98,
+    "question": "कोणाच्या काळात महाराष्ट्रात मराठी भाषेला राजश्रय मिळाला?",
+    "answer": "यादव काळ"
+  },
+  {
+    "question_number": 99,
+    "question": "महानुभाव पंथाचे प्रवर्तक चक्रधर स्वामी कोणाच्या काळात होऊन गेले?",
+    "answer": "यादव काळ"
+  },
+  {
+    "question_number": 100,
+    "question": "संत ज्ञानेश्वरांनी 'भावार्थदीपिका' कोणाच्या काळात लिहिली?",
+    "answer": "यादव काळ"
+  },
+  {
+    "question_number": 101,
+    "question": "पैठण येथील व्यापार कशामुळे भरभराटीला आला?",
+    "answer": "सातवाहनांच्या काळात अंतर्गत व परकीय व्यापाराला दिलेल्या प्रोत्साहनामुळे"
+  },
+  {
+    "question_number": 102,
+    "question": "नाशिक जवळच्या लेण्यांना काय म्हटले जाते?",
+    "answer": "पांडवलेणी"
+  },
+  {
+    "question_number": 103,
+    "question": "वाकाटक घराण्यातील 'वराहदेव' हा कोणाचा मंत्री होता?",
+    "answer": "हरिषेण"
+  },
+  {
+    "question_number": 104,
+    "question": "अजिंठा येथील १६ क्रमांकाचे लेणे कोणामुळे कोरले गेले?",
+    "answer": "वराहदेव"
+  },
+  {
+    "question_number": 105,
+    "question": "पल्लव राजा नरसिंहवर्मन याने कोणाला पराभूत केले होते?",
+    "answer": "पुलकेशी दुसरा"
+  },
+  {
+    "question_number": 106,
+    "question": "दक्षिणापथपती ही पदवी कोणत्या सातवाहन राजाची होती?",
+    "answer": "गौतमीपुत्र सातकर्णी"
+  },
+  {
+    "question_number": 107,
+    "question": "चोळ राजांपैकी कोणी श्रीलंकेवर विजय मिळवला होता?",
+    "answer": "राजेंद्र चोळ"
+  },
+  {
+    "question_number": 108,
+    "question": "दक्षिण भारतातील राज्यांनी कोणाशी व्यापारी संबंध ठेवले होते?",
+    "answer": "रोम आणि आग्नेय आशिया"
+  },
+  {
+    "question_number": 109,
+    "question": "कोल्हापूरचे प्राचीन नाव काय होते?",
+    "answer": "कुंतल (किंवा करवीर)"
+  },
+  {
+    "question_number": 110,
+    "question": "वाकाटक काळात कोणत्या कलेला राजाश्रय मिळाला?",
+    "answer": "शिल्पकला आणि चित्रकला"
+  },
+  {
+    "question_number": 111,
+    "question": "चेर राज्याचा विस्तार प्रामुख्याने कोणत्या आधुनिक राज्यात होता?",
+    "answer": "केरळ"
+  },
+  {
+    "question_number": 112,
+    "question": "चोळ राजांची सत्ता कोणत्या प्रदेशात होती?",
+    "answer": "तमिळनाडू (कावेरी नदीचे खोरे)"
+  },
+  {
+    "question_number": 113,
+    "question": "सातवाहनांनी आपल्या नावाची सुरुवात कोणाच्या नावाने केली?",
+    "answer": "आईच्या नावाने (उदा. गौतमीपुत्र)"
+  },
+  {
+    "question_number": 114,
+    "question": "महाराष्ट्रातील सर्वात प्राचीन लेणे कोठे आहे?",
+    "answer": "कार्ला (पुणे जिल्हा)"
+  },
+  {
+    "question_number": 115,
+    "question": "पैठणची कोणती वस्त्रे आजही प्रसिद्ध आहेत?",
+    "answer": "पैठणी साड्या"
+  },
+  {
+    "question_number": 116,
+    "question": "पट्टदकल येथील मंदिरे कोणत्या कलेचा नमुना आहेत?",
+    "answer": "नागर आणि द्रविड शैलीचे मिश्रण"
+  },
+  {
+    "question_number": 117,
+    "question": "कांचीपुरम् येथील कैलासनाथ मंदिर कोणी बांधले?",
+    "answer": "पल्लव राजे (दुसरा नरसिंहवर्मन)"
+  },
+  {
+    "question_number": 118,
+    "question": "विद्येचे माहेरघर मानले जाणारे दक्षिण भारतातील केंद्र कोणते होते?",
+    "answer": "कांचीपुरम्"
+  },
+  {
+    "question_number": 119,
+    "question": "राष्ट्रकूट राजा 'अमोघवर्ष' याने कोणता ग्रंथ लिहिला?",
+    "answer": "कविराजमार्ग"
+  },
+  {
+    "question_number": 120,
+    "question": "घारापुरी (एलिफंटा) येथील लेणी कोणाच्या काळात कोरली गेली?",
+    "answer": "राष्ट्रकूट काळ"
+  },
+  {
+    "question_number": 121,
+    "question": "यादव राजा रामदेवराय याच्या काळात कोणता महान संप्रदाय उदयास आला?",
+    "answer": "वारकरी संप्रदाय"
+  },
+  {
+    "question_number": 122,
+    "question": "प्रतिष्ठान (पैठण) हे कोणत्या नदीकाठी वसलेले आहे?",
+    "answer": "गोदावरी"
+  },
+  {
+    "question_number": 123,
+    "question": "सातवाहन काळात मातीची भांडी कोणत्या रंगाची असत?",
+    "answer": "चकाकी असलेली काळ्या रंगाची भांडी"
+  },
+  {
+    "question_number": 124,
+    "question": "पल्लव काळात धर्माचा प्रसार कोठे झाला?",
+    "answer": "दक्षिण पूर्व आशिया"
+  },
+  {
+    "question_number": 125,
+    "question": "बदामीची लेणी कशासाठी प्रसिद्ध आहेत?",
+    "answer": "कोरीव कामासाठी"
+  },
+  {
+    "question_number": 126,
+    "question": "दक्षिण भारतातील राज्यांचा मुख्य आधार कोणता होता?",
+    "answer": "कृषी आणि व्यापार"
+  },
+  {
+    "question_number": 127,
+    "question": "शिलाहार घराण्याने कोठे राज्य केले?",
+    "answer": "कोल्हापूर, ठाणे आणि उत्तर कोकण"
+  },
+  {
+    "question_number": 128,
+    "question": "ऐहोळे येथील मंदिर स्थापत्यकलेला काय म्हणतात?",
+    "answer": "मंदिरांचे पाळणाघर"
+  },
+  {
+    "question_number": 129,
+    "question": "सातवाहन नाण्यांची भाषा कोणती होती?",
+    "answer": "प्राकृत"
+  },
+  {
+    "question_number": 130,
+    "question": "वाकाटक राजा विंध्यशक्ती नंतरचे महत्त्वाचे केंद्र कोणते होते?",
+    "answer": "वरद (विदर्भ)"
+  },
+  {
+    "question_number": 131,
+    "question": "पल्लवांच्या राजमुद्रेवर कोणता प्राणी होता?",
+    "answer": "वृषभ (बैल) किंवा सिंह"
+  },
+  {
+    "question_number": 132,
+    "question": "यादवांच्या सोन्याच्या नाण्यांना काय म्हणत असत?",
+    "answer": "पद्मटंक"
+  },
+  {
+    "question_number": 133,
+    "question": "महाराष्ट्रातील 'नाणेघाट' कोणत्या काळात व्यापारी मार्ग होता?",
+    "answer": "सातवाहन काळ"
+  },
+  {
+    "question_number": 134,
+    "question": "चोळ राजांनी व्यापारासाठी कोणते बंदर विकसित केले होते?",
+    "answer": "पुहार (कावेरीपट्टनम)"
+  },
+  {
+    "question_number": 135,
+    "question": "विंध्य पर्वताच्या दक्षिणेला असलेल्या भागाला काय म्हणतात?",
+    "answer": "दक्षिणापथ"
+  },
+  {
+    "question_number": 136,
+    "question": "सातवाहनांचे आरमारी सामर्थ्य कशावरून दिसून येते?",
+    "answer": "यज्ञश्री सातकर्णीच्या नाण्यांवरील जहाजाच्या चित्रावरून"
+  },
+  {
+    "question_number": 137,
+    "question": "वाकाटक सम्राट प्रवरसेनाने किती अश्वमेध यज्ञ केले होते?",
+    "answer": "चार"
+  },
+  {
+    "question_number": 138,
+    "question": "चालुक्य राजा पुलकेशी याने कोणत्या नदीच्या काठी हर्षवर्धनाचा पराभव केला?",
+    "answer": "नर्मदा"
+  },
+  {
+    "question_number": 139,
+    "question": "महाबलीपुरम् येथील रथ-मंदिरे किती आहेत?",
+    "answer": "पाच (पंचपांडव रथ)"
+  },
+  {
+    "question_number": 140,
+    "question": "राष्ट्रकूट काळात शिक्षणाचे प्रमुख केंद्र कोणते होते?",
+    "answer": "एलोरा (वेरूळ) आणि कोल्हापूर"
+  },
+  {
+    "question_number": 141,
+    "question": "भिल्लम पाचवा याने यादवांची सत्ता कोठपर्यंत विस्तारली?",
+    "answer": "नर्मदा ते तुंगभद्रा"
+  },
+  {
+    "question_number": 142,
+    "question": "प्राचीन काळात महाराष्ट्रात कापूस उत्पादन कोठे होत असे?",
+    "answer": "तापी आणि गोदावरी खोरे"
+  },
+  {
+    "question_number": 143,
+    "question": "शिलाहार राजांना कोणाचे मांडलिक मानले जाते?",
+    "answer": "राष्ट्रकूट"
+  },
+  {
+    "question_number": 144,
+    "question": "पल्लव राजांच्या काळात कोठल्या साहित्याला उत्तेजन मिळाले?",
+    "answer": "संस्कृत आणि तमिळ"
+  },
+  {
+    "question_number": 145,
+    "question": "बदामी हे शहर कोणत्या राज्याच्या काळात वैभवशाली होते?",
+    "answer": "चालुक्य"
+  },
+  {
+    "question_number": 146,
+    "question": "अजिंठा लेण्यांना जागतिक वारसा स्थळ कधी घोषित केले?",
+    "answer": "१९८३"
+  },
+  {
+    "question_number": 147,
+    "question": "पांड्य राजांचे व्यापारी संबंध कोणाशी होते?",
+    "answer": "रोमन सम्राट ऑगस्टस"
+  },
+  {
+    "question_number": 148,
+    "question": "महाराष्ट्रातील लेण्यांमध्ये सर्वात मोठे चैत्यगृह कोठे आहे?",
+    "answer": "कार्ला"
+  },
+  {
+    "question_number": 149,
+    "question": "वाकाटक काळानंतर विदर्भात कोणाची सत्ता आली?",
+    "answer": "कलचुरी"
+  },
+  {
+    "question_number": 150,
+    "question": "प्राचीन दक्षिण भारतातील शेवटची मोठी प्रबळ सत्ता कोणती होती?",
+    "answer": "यादव"
+  }
+]
+}

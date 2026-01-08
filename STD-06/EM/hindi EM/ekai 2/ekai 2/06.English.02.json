@@ -1,0 +1,551 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.हिंदी.02",
+    "class": "6",
+    "subject": "हिंदी",
+    "medium": "हिंदी",
+    "chapter_name": "एक किरन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "बहुविकल्पीय",
+      "question": "कविता 'एक किरन' के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "श्रीप्रसाद", "is_correct": true },
+        { "option_id": 2, "text": "अशोक सिंह सोलंकी", "is_correct": false },
+        { "option_id": 3, "text": "प्रेमचंद", "is_correct": false },
+        { "option_id": 4, "text": "निराला", "is_correct": false }
+      ],
+      "answer": "श्रीप्रसाद"
+    },
+    {
+      "question_id": 2,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन नभ से कैसे आई?",
+      "options": [
+        { "option_id": 1, "text": "गरजते हुए", "is_correct": false },
+        { "option_id": 2, "text": "रेशम जैसी हँसती-खिलती", "is_correct": true },
+        { "option_id": 3, "text": "धीरे-धीरे", "is_correct": false },
+        { "option_id": 4, "text": "काले बादलों से", "is_correct": false }
+      ],
+      "answer": "रेशम जैसी हँसती-खिलती"
+    },
+    {
+      "question_id": 3,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन अपने आँचल में भरकर क्या लाई है?",
+      "options": [
+        { "option_id": 1, "text": "सोना", "is_correct": false },
+        { "option_id": 2, "text": "मीठी-मीठी खुशियाँ", "is_correct": true },
+        { "option_id": 3, "text": "ठंडी हवा", "is_correct": false },
+        { "option_id": 4, "text": "फूल", "is_correct": false }
+      ],
+      "answer": "मीठी-मीठी खुशियाँ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "बहुविकल्पीय",
+      "question": "सूरज किस दिशा में उठकर आया है?",
+      "options": [
+        { "option_id": 1, "text": "पश्चिम", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर", "is_correct": false },
+        { "option_id": 3, "text": "पूरब", "is_correct": true },
+        { "option_id": 4, "text": "दक्षिण", "is_correct": false }
+      ],
+      "answer": "पूरब"
+    },
+    {
+      "question_id": 5,
+      "question_type": "बहुविकल्पीय",
+      "question": "सूरज को किसके जैसा बताया गया है?",
+      "options": [
+        { "option_id": 1, "text": "लाल-लाल थाली जैसा", "is_correct": true },
+        { "option_id": 2, "text": "सफेद गेंद जैसा", "is_correct": false },
+        { "option_id": 3, "text": "तारे जैसा", "is_correct": false },
+        { "option_id": 4, "text": "दीये जैसा", "is_correct": false }
+      ],
+      "answer": "लाल-लाल थाली जैसा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन नभ में किसके जैसी छाई हुई है?",
+      "options": [
+        { "option_id": 1, "text": "रेशम जैसी", "is_correct": false },
+        { "option_id": 2, "text": "सोने के तारों जैसी", "is_correct": true },
+        { "option_id": 3, "text": "चाँदी जैसी", "is_correct": false },
+        { "option_id": 4, "text": "धुएँ जैसी", "is_correct": false }
+      ],
+      "answer": "सोने के तारों जैसी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "बहुविकल्पीय",
+      "question": "ओस की बूंदें कहाँ पड़ी थीं?",
+      "options": [
+        { "option_id": 1, "text": "जमीन पर", "is_correct": false },
+        { "option_id": 2, "text": "पत्तों पर", "is_correct": true },
+        { "option_id": 3, "text": "घर की छत पर", "is_correct": false },
+        { "option_id": 4, "text": "फूलों पर", "is_correct": false }
+      ],
+      "answer": "पत्तों पर"
+    },
+    {
+      "question_id": 8,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन ने ओस की बूंदों में जाकर क्या जलाया?",
+      "options": [
+        { "option_id": 1, "text": "आग", "is_correct": false },
+        { "option_id": 2, "text": "दीया", "is_correct": true },
+        { "option_id": 3, "text": "मशाल", "is_correct": false },
+        { "option_id": 4, "text": "बल्ब", "is_correct": false }
+      ],
+      "answer": "दीया"
+    },
+    {
+      "question_id": 9,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन के आने पर कौन गीत गाने लगीं?",
+      "options": [
+        { "option_id": 1, "text": "लड़कियाँ", "is_correct": false },
+        { "option_id": 2, "text": "चिड़ियाँ", "is_correct": true },
+        { "option_id": 3, "text": "नदियाँ", "is_correct": false },
+        { "option_id": 4, "text": "हवाएँ", "is_correct": false }
+      ],
+      "answer": "चिड़ियाँ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन के आने से क्या बदल गया?",
+      "options": [
+        { "option_id": 1, "text": "दिन", "is_correct": false },
+        { "option_id": 2, "text": "जग (संसार)", "is_correct": true },
+        { "option_id": 3, "text": "समय", "is_correct": false },
+        { "option_id": 4, "text": "मौसम", "is_correct": false }
+      ],
+      "answer": "जग (संसार)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "बहुविकल्पीय",
+      "question": "हवा चलने पर कौन हिल उठे?",
+      "options": [
+        { "option_id": 1, "text": "पेड़", "is_correct": true },
+        { "option_id": 2, "text": "पहाड़", "is_correct": false },
+        { "option_id": 3, "text": "बादल", "is_correct": false },
+        { "option_id": 4, "text": "खंभे", "is_correct": false }
+      ],
+      "answer": "पेड़"
+    },
+    {
+      "question_id": 12,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन सबके लिए क्या लाई है?",
+      "options": [
+        { "option_id": 1, "text": "पुराना जीवन", "is_correct": false },
+        { "option_id": 2, "text": "ताजा जीवन", "is_correct": true },
+        { "option_id": 3, "text": "नींद", "is_correct": false },
+        { "option_id": 4, "text": "अंधेरा", "is_correct": false }
+      ],
+      "answer": "ताजा जीवन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "बहुविकल्पीय",
+      "question": "सूरज के आने पर क्या हुआ?",
+      "options": [
+        { "option_id": 1, "text": "रात हुई", "is_correct": false },
+        { "option_id": 2, "text": "दिन मुसकाया", "is_correct": true },
+        { "option_id": 3, "text": "बारिश हुई", "is_correct": false },
+        { "option_id": 4, "text": "आँधी आई", "is_correct": false }
+      ],
+      "answer": "दिन मुसकाया"
+    },
+    {
+      "question_id": 14,
+      "question_type": "बहुविकल्पीय",
+      "question": "श्रीप्रसाद जी का जन्म कहाँ हुआ?",
+      "options": [
+        { "option_id": 1, "text": "आगरा (उत्तर प्रदेश)", "is_correct": true },
+        { "option_id": 2, "text": "पुणे", "is_correct": false },
+        { "option_id": 3, "text": "दिल्ली", "is_correct": false },
+        { "option_id": 4, "text": "मुंबई", "is_correct": false }
+      ],
+      "answer": "आगरा (उत्तर प्रदेश)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "बहुविकल्पीय",
+      "question": "श्रीप्रसाद जी ने मुख्य रूप से क्या लिखा है?",
+      "options": [
+        { "option_id": 1, "text": "नाटक", "is_correct": false },
+        { "option_id": 2, "text": "बाल साहित्य", "is_correct": true },
+        { "option_id": 3, "text": "उपन्यास", "is_correct": false },
+        { "option_id": 4, "text": "जीवनी", "is_correct": false }
+      ],
+      "answer": "बाल साहित्य"
+    },
+    {
+      "question_id": 16,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन को 'रेशम जैसी' क्यों कहा गया है?",
+      "options": [
+        { "option_id": 1, "text": "मुलायम और चमकीली होने के कारण", "is_correct": true },
+        { "option_id": 2, "text": "भारी होने के कारण", "is_correct": false },
+        { "option_id": 3, "text": "सफेद होने के कारण", "is_correct": false },
+        { "option_id": 4, "text": "महँगी होने के कारण", "is_correct": false }
+      ],
+      "answer": "मुलायम और चमकीली होने के कारण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "बहुविकल्पीय",
+      "question": "सुबह होने पर कौन जागी?",
+      "options": [
+        { "option_id": 1, "text": "दुनिया", "is_correct": true },
+        { "option_id": 2, "text": "मछलियाँ", "is_correct": false },
+        { "option_id": 3, "text": "रात", "is_correct": false },
+        { "option_id": 4, "text": "छाया", "is_correct": false }
+      ],
+      "answer": "दुनिया"
+    },
+    {
+      "question_id": 18,
+      "question_type": "बहुविकल्पीय",
+      "question": "'नभ' शब्द का समानार्थी शब्द क्या है?",
+      "options": [
+        { "option_id": 1, "text": "धरती", "is_correct": false },
+        { "option_id": 2, "text": "आकाश", "is_correct": true },
+        { "option_id": 3, "text": "समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "पाताल", "is_correct": false }
+      ],
+      "answer": "आकाश"
+    },
+    {
+      "question_id": 19,
+      "question_type": "बहुविकल्पीय",
+      "question": "'जग' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "बर्तन", "is_correct": false },
+        { "option_id": 2, "text": "संसार", "is_correct": true },
+        { "option_id": 3, "text": "जागना", "is_correct": false },
+        { "option_id": 4, "text": "पानी", "is_correct": false }
+      ],
+      "answer": "संसार"
+    },
+    {
+      "question_id": 20,
+      "question_type": "बहुविकल्पीय",
+      "question": "सूरज के उगने पर पत्तों पर ओस की बूंदें कैसी लगती हैं?",
+      "options": [
+        { "option_id": 1, "text": "काली", "is_correct": false },
+        { "option_id": 2, "text": "झिलमिल-झिलमिल", "is_correct": true },
+        { "option_id": 3, "text": "सूखी", "is_correct": false },
+        { "option_id": 4, "text": "बड़ी-बड़ी", "is_correct": false }
+      ],
+      "answer": "झिलमिल-झिलमिल"
+    },
+    {
+      "question_id": 21,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन ने किसका मन 'नया' कर दिया?",
+      "options": [
+        { "option_id": 1, "text": "सबका", "is_correct": true },
+        { "option_id": 2, "text": "केवल बच्चों का", "is_correct": false },
+        { "option_id": 3, "text": "केवल पक्षियों का", "is_correct": false },
+        { "option_id": 4, "text": "किसी का नहीं", "is_correct": false }
+      ],
+      "answer": "सबका"
+    },
+    {
+      "question_id": 22,
+      "question_type": "बहुविकल्पीय",
+      "question": "'पूरब' का विरुद्धार्थी शब्द क्या है?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर", "is_correct": false },
+        { "option_id": 2, "text": "पश्चिम", "is_correct": true },
+        { "option_id": 3, "text": "दक्षिण", "is_correct": false },
+        { "option_id": 4, "text": "आकाश", "is_correct": false }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 23,
+      "question_type": "बहुविकल्पीय",
+      "question": "'हँसती-खिलती' में कौन सा चिह्न लगा है?",
+      "options": [
+        { "option_id": 1, "text": "पूर्ण विराम", "is_correct": false },
+        { "option_id": 2, "text": "योजक चिह्न (-)", "is_correct": true },
+        { "option_id": 3, "text": "प्रश्नवाचक", "is_correct": false },
+        { "option_id": 4, "text": "विस्मयादिबोधक", "is_correct": false }
+      ],
+      "answer": "योजक चिह्न (-)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन का रंग कैसा संकेतित है?",
+      "options": [
+        { "option_id": 1, "text": "नीला", "is_correct": false },
+        { "option_id": 2, "text": "सुनहरा (सोने जैसा)", "is_correct": true },
+        { "option_id": 3, "text": "हरा", "is_correct": false },
+        { "option_id": 4, "text": "काला", "is_correct": false }
+      ],
+      "answer": "सुनहरा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "बहुविकल्पीय",
+      "question": "कविता के अनुसार सुबह क्या लाई?",
+      "options": [
+        { "option_id": 1, "text": "काम", "is_correct": false },
+        { "option_id": 2, "text": "ताजा जीवन", "is_correct": true },
+        { "option_id": 3, "text": "थकान", "is_correct": false },
+        { "option_id": 4, "text": "अंधेरा", "is_correct": false }
+      ],
+      "answer": "ताजा जीवन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "बहुविकल्पीय",
+      "question": "'भाई' शब्द का कविता में क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "रिश्तेदार", "is_correct": false },
+        { "option_id": 2, "text": "पसंद आई", "is_correct": true },
+        { "option_id": 3, "text": "पकड़ा", "is_correct": false },
+        { "option_id": 4, "text": "डरना", "is_correct": false }
+      ],
+      "answer": "पसंद आई"
+    },
+    {
+      "question_id": 27,
+      "question_type": "बहुविकल्पीय",
+      "question": "सूरज को 'लाल-लाल थाली' कहना क्या दर्शाता है?",
+      "options": [
+        { "option_id": 1, "text": "उपमा (तुलना)", "is_correct": true },
+        { "option_id": 2, "text": "क्रोध", "is_correct": false },
+        { "option_id": 3, "text": "छोटा आकार", "is_correct": false },
+        { "option_id": 4, "text": "खाना", "is_correct": false }
+      ],
+      "answer": "उपमा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "बहुविकल्पीय",
+      "question": "चिड़ियों का गीत गाना क्या सूचित करता है?",
+      "options": [
+        { "option_id": 1, "text": "रात का होना", "is_correct": false },
+        { "option_id": 2, "text": "प्रसन्नता और सुबह का आगमन", "is_correct": true },
+        { "option_id": 3, "text": "भूख", "is_correct": false },
+        { "option_id": 4, "text": "डर", "is_correct": false }
+      ],
+      "answer": "प्रसन्नता"
+    },
+    {
+      "question_id": 29,
+      "question_type": "बहुविकल्पीय",
+      "question": "पत्तों पर दीया जलाने का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "सच में दीया जलाना", "is_correct": false },
+        { "option_id": 2, "text": "ओस की बूंदों का सूरज की रोशनी में चमकना", "is_correct": true },
+        { "option_id": 3, "text": "आग लगाना", "is_correct": false },
+        { "option_id": 4, "text": "अंधेरा करना", "is_correct": false }
+      ],
+      "answer": "चमकना"
+    },
+    {
+      "question_id": 30,
+      "question_type": "बहुविकल्पीय",
+      "question": "किरन कहाँ से आई है?",
+      "options": [
+        { "option_id": 1, "text": "नभ से", "is_correct": true },
+        { "option_id": 2, "text": "समुद्र से", "is_correct": false },
+        { "option_id": 3, "text": "जंगल से", "is_correct": false },
+        { "option_id": 4, "text": "पाताल से", "is_correct": false }
+      ],
+      "answer": "नभ से"
+    },
+    {
+      "question_id": 31,
+      "question_type": "लघु",
+      "question": "किरन कहाँ से आई है?",
+      "answer": "किरन नभ (आकाश) से आई है।"
+    },
+    {
+      "question_id": 32,
+      "question_type": "लघु",
+      "question": "किरन दिखने में कैसी है?",
+      "answer": "किरन रेशम जैसी हँसती-खिलती और सुनहरी दिखती है।"
+    },
+    {
+      "question_id": 33,
+      "question_type": "लघु",
+      "question": "सूरज सुबह कहाँ से निकलता है?",
+      "answer": "सूरज सुबह पूरब दिशा से निकलता है।"
+    },
+    {
+      "question_id": 34,
+      "question_type": "लघु",
+      "question": "सुबह सूरज का आकार और रंग कैसा दिखता है?",
+      "answer": "सुबह सूरज लाल-लाल थाली जैसा गोल और लाल दिखता है।"
+    },
+    {
+      "question_id": 35,
+      "question_type": "लघु",
+      "question": "किरन अपने साथ क्या लेकर आई है?",
+      "answer": "किरन अपने आँचल में भरकर मीठी-मीठी खुशियाँ लाई है।"
+    },
+    {
+      "question_id": 36,
+      "question_type": "लघु",
+      "question": "ओस की बूंदें पत्तों पर कैसी लगती हैं?",
+      "answer": "ओस की बूंदें पत्तों पर झिलमिल-झिलमिल मोतियों जैसी लगती हैं।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "लघु",
+      "question": "किरन ने पत्तों पर क्या किया?",
+      "answer": "किरन ने ओस की बूंदों पर अपनी चमक बिखेरकर दीया जैसा प्रकाश फैला दिया।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "लघु",
+      "question": "किरन के आने से पक्षियों पर क्या प्रभाव पड़ा?",
+      "answer": "पक्षियों (चिड़ियों) ने चहकना और गीत गाना शुरू कर दिया।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "लघु",
+      "question": "हवा चलने से क्या हुआ?",
+      "answer": "हवा चलने से पेड़ हिलने लगे और वातावरण ताजा हो गया।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "लघु",
+      "question": "किरन ने पूरी दुनिया में क्या परिवर्तन किया?",
+      "answer": "किरन ने अंधकार को मिटाकर पूरी दुनिया को जगा दिया और प्रकाश फैला दिया।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "लघु",
+      "question": "कवि ने सूरज की तुलना किससे की है?",
+      "answer": "कवि ने सूरज की तुलना लाल-लाल थाली से की है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "लघु",
+      "question": "किरन को 'सोने के तारों' जैसा क्यों कहा गया है?",
+      "answer": "क्योंकि सूरज की पहली किरणें सुनहरी और पतली लकीरों जैसी दिखती हैं।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "लघु",
+      "question": "'दिन मुसकाया' का क्या अर्थ है?",
+      "answer": "इसका अर्थ है कि सूरज निकलने से दिन की सुंदर शुरुआत हुई।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "लघु",
+      "question": "ताजा जीवन कौन लाया है?",
+      "answer": "ताजा जीवन सूरज की एक किरन लाई है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "लघु",
+      "question": "'नया-नया मन' से कवि का क्या तात्पर्य है?",
+      "answer": "सुबह होने पर मन में नए उत्साह और नई उमंग का संचार होता है।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "लघु",
+      "question": "किरन ने ओस की बूंदों को कैसे चमकाया?",
+      "answer": "किरन की रोशनी जब ओस पर पड़ी, तो वे दीये की तरह चमक उठीं।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "लघु",
+      "question": "कविता में 'जग' शब्द किसके लिए आया है?",
+      "answer": "जग शब्द संसार और विश्व के लिए आया है।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "लघु",
+      "question": "सुबह होने पर दुनिया का क्या हुआ?",
+      "answer": "सुबह होने पर पूरी दुनिया जाग गई।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "लघु",
+      "question": "श्रीप्रसाद जी की किन्हीं दो रचनाओं के नाम लिखिए।",
+      "answer": "आरी और कोयल।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "लघु",
+      "question": "कवि का जन्म कब हुआ था?",
+      "answer": "कवि का जन्म ५ जनवरी १९३२ को हुआ था।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "लघु",
+      "question": "किरन को सबको 'भाई' क्यों कहा गया है?",
+      "answer": "क्योंकि प्रकाश और सुबह सबको प्रसन्नता देती है।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "लघु",
+      "question": "कविता में 'लाल-लाल' शब्द किस प्रकार का है?",
+      "answer": "यह पुनरुक्त शब्द है जो सूरज के गहरे रंग को दर्शाता है।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "लघु",
+      "question": "सूरज उगने पर पेड़-पौधे क्या करते हैं?",
+      "answer": "वे ताजी हवा में हिलने लगते हैं और खिल उठते हैं।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "लघु",
+      "question": "'नभ' के दो पर्यायवाची शब्द लिखिए।",
+      "answer": "आकाश, गगन।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "लघु",
+      "question": "सूरज पूरब में कब आता है?",
+      "answer": "सूरज पूरब में तड़के यानी सुबह-सुबह आता है।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "लघु",
+      "question": "अंधेरे का विलोम शब्द कविता के आधार पर क्या होगा?",
+      "answer": "अंधेरे का विलोम 'प्रकाश' या 'किरन' (संदर्भ में) होगा।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "लघु",
+      "question": "क्या एक किरन पूरे जग को बदल सकती है?",
+      "answer": "हाँ, एक किरन ही सुबह लाती है जो पूरे संसार का अंधकार मिटा देती है।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "लघु",
+      "question": "किरन के आने पर पत्तों का क्या हुआ?",
+      "answer": "पत्तों पर ओस की बूंदें चमकने लगीं और पेड़ हिलने लगे।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "लघु",
+      "question": "सुबह का वातावरण कैसा होता है?",
+      "answer": "सुबह का वातावरण शांत, सुखद, ताजा और संगीतमय होता है।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "लघु",
+      "question": "कविता का शीर्षक 'एक किरन' क्यों है?",
+      "answer": "क्योंकि एक छोटी सी किरन ही पूरे संसार को प्रकाशित और जाग्रत करने की शक्ति रखती है।"
+    }
+  ]
+}

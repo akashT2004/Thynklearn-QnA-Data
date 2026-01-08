@@ -1,0 +1,382 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.03",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "सजीवांतील विविधता आणि वर्गीकरण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "स्वतःचे अन्न स्वतः तयार करणाऱ्या वनस्पतींना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परपोषी", "is_correct": false },
+        { "option_id": 2, "text": "स्वयंपोषी", "is_correct": true },
+        { "option_id": 3, "text": "कीटकभक्षी", "is_correct": false },
+        { "option_id": 4, "text": "मृतोपजीवी", "is_correct": false }
+      ],
+      "answer": "स्वयंपोषी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अमरवेल ही वनस्पती कोणत्या प्रकारची आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्वयंपोषी", "is_correct": false },
+        { "option_id": 2, "text": "परपोषी", "is_correct": true },
+        { "option_id": 3, "text": "कीटकभक्षी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी पिणारी", "is_correct": false }
+      ],
+      "answer": "परपोषी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वनस्पतीचा कोणता भाग जमिनीखाली असतो आणि तिला आधार देतो?",
+      "options": [
+        { "option_id": 1, "text": "खोड", "is_correct": false },
+        { "option_id": 2, "text": "पान", "is_correct": false },
+        { "option_id": 3, "text": "मूळ", "is_correct": true },
+        { "option_id": 4, "text": "फूल", "is_correct": false }
+      ],
+      "answer": "मूळ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ज्या वनस्पती खूप उंच वाढतात आणि ज्यांना मजबूत खोड असते, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "झुडूप", "is_correct": false },
+        { "option_id": 2, "text": "वृक्ष", "is_correct": true },
+        { "option_id": 3, "text": "रोपटे", "is_correct": false },
+        { "option_id": 4, "text": "वेल", "is_correct": false }
+      ],
+      "answer": "वृक्ष"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "जास्वंद आणि कण्हेर हे कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "वृक्ष", "is_correct": false },
+        { "option_id": 2, "text": "झुडूप", "is_correct": true },
+        { "option_id": 3, "text": "रोपटे", "is_correct": false },
+        { "option_id": 4, "text": "वेल", "is_correct": false }
+      ],
+      "answer": "झुडूप"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मेथी आणि सदाफुली हे कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "रोपटे", "is_correct": true },
+        { "option_id": 2, "text": "झुडूप", "is_correct": false },
+        { "option_id": 3, "text": "वृक्ष", "is_correct": false },
+        { "option_id": 4, "text": "वेल", "is_correct": false }
+      ],
+      "answer": "रोपटे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ज्या वनस्पतींना वाढण्यासाठी आधाराची गरज असते, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वृक्ष", "is_correct": false },
+        { "option_id": 2, "text": "वेली", "is_correct": true },
+        { "option_id": 3, "text": "रोपटी", "is_correct": false },
+        { "option_id": 4, "text": "झुडपे", "is_correct": false }
+      ],
+      "answer": "वेली"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ज्या वनस्पतींचे जीवनचक्र एका वर्षात पूर्ण होते, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वार्षिक वनस्पती", "is_correct": true },
+        { "option_id": 2, "text": "द्विवार्षिक वनस्पती", "is_correct": false },
+        { "option_id": 3, "text": "बहुवार्षिक वनस्पती", "is_correct": false },
+        { "option_id": 4, "text": "अमर वनस्पती", "is_correct": false }
+      ],
+      "answer": "वार्षिक वनस्पती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "गाजर आणि बीट या कोणत्या प्रकारच्या वनस्पती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "वार्षिक", "is_correct": false },
+        { "option_id": 2, "text": "द्विवार्षिक", "is_correct": true },
+        { "option_id": 3, "text": "बहुवार्षिक", "is_correct": false },
+        { "option_id": 4, "text": "त्रैवार्षिक", "is_correct": false }
+      ],
+      "answer": "द्विवार्षिक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ज्या वनस्पतींना फुले येतात, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अपुष्प वनस्पती", "is_correct": false },
+        { "option_id": 2, "text": "सपुष्प वनस्पती", "is_correct": true },
+        { "option_id": 3, "text": "हरित वनस्पती", "is_correct": false },
+        { "option_id": 4, "text": "जलीय वनस्पती", "is_correct": false }
+      ],
+      "answer": "सपुष्प वनस्पती"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जगातील सर्वात मोठे फूल कोणत्या वनस्पतीचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "कमळ", "is_correct": false },
+        { "option_id": 2, "text": "गुलाब", "is_correct": false },
+        { "option_id": 3, "text": "रॅफ्लेशिया", "is_correct": true },
+        { "option_id": 4, "text": "वुल्फिया", "is_correct": false }
+      ],
+      "answer": "रॅफ्लेशिया"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "जगातील सर्वात लहान फूल कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "जास्वंद", "is_correct": false },
+        { "option_id": 2, "text": "वुल्फिया", "is_correct": true },
+        { "option_id": 3, "text": "झेंडू", "is_correct": false },
+        { "option_id": 4, "text": "मोगरा", "is_correct": false }
+      ],
+      "answer": "वुल्फिया"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "निवडुंग ही वनस्पती कोठे आढळते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "वाळवंटात", "is_correct": true },
+        { "option_id": 3, "text": "बर्फाळ प्रदेशात", "is_correct": false },
+        { "option_id": 4, "text": "दलदलीत", "is_correct": false }
+      ],
+      "answer": "वाळवंटात"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या वर्गीकरणाची पहिली पद्धत कोणी विकसित केली?",
+      "options": [
+        { "option_id": 1, "text": "न्यूटन", "is_correct": false },
+        { "option_id": 2, "text": "कार्ल लिनिअस", "is_correct": true },
+        { "option_id": 3, "text": "डार्विन", "is_correct": false },
+        { "option_id": 4, "text": "पाश्चर", "is_correct": false }
+      ],
+      "answer": "कार्ल लिनिअस"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पॅरामेशिअम हा कोणत्या प्रकारचा प्राणी आहे?",
+      "options": [
+        { "option_id": 1, "text": "बहुपेशीय", "is_correct": false },
+        { "option_id": 2, "text": "एकपेशीय", "is_correct": true },
+        { "option_id": 3, "text": "द्विपेशीय", "is_correct": false },
+        { "option_id": 4, "text": "अपेशीय", "is_correct": false }
+      ],
+      "answer": "एकपेशीय"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ज्या प्राण्यांना पाठीचा कणा असतो, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अपृष्ठवंशीय प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "पृष्ठवंशीय प्राणी", "is_correct": true },
+        { "option_id": 3, "text": "उभयचर प्राणी", "is_correct": false },
+        { "option_id": 4, "text": "सरपटणारे प्राणी", "is_correct": false }
+      ],
+      "answer": "पृष्ठवंशीय प्राणी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता प्राणी अपृष्ठवंशीय आहे?",
+      "options": [
+        { "option_id": 1, "text": "साप", "is_correct": false },
+        { "option_id": 2, "text": "मानव", "is_correct": false },
+        { "option_id": 3, "text": "गोगलगाय", "is_correct": true },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "गोगलगाय"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अंडी घालणाऱ्या प्राण्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "जरायुज", "is_correct": false },
+        { "option_id": 2, "text": "अंडज", "is_correct": true },
+        { "option_id": 3, "text": "उभयचर", "is_correct": false },
+        { "option_id": 4, "text": "सस्तन", "is_correct": false }
+      ],
+      "answer": "अंडज"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "थेट पिल्लांना जन्म देणाऱ्या प्राण्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अंडज", "is_correct": false },
+        { "option_id": 2, "text": "जरायुज", "is_correct": true },
+        { "option_id": 3, "text": "भूचर", "is_correct": false },
+        { "option_id": 4, "text": "खेचर", "is_correct": false }
+      ],
+      "answer": "जरायुज"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "बेडूक हा कोणत्या प्रकारचा प्राणी आहे?",
+      "options": [
+        { "option_id": 1, "text": "जलचर", "is_correct": false },
+        { "option_id": 2, "text": "भूचर", "is_correct": false },
+        { "option_id": 3, "text": "उभयचर", "is_correct": true },
+        { "option_id": 4, "text": "खेचर", "is_correct": false }
+      ],
+      "answer": "उभयचर"
+    },
+    { "question_id": 21, "question_type": "MCQ", "question": "पाण्यात आणि जमिनीवर अशा दोन्ही ठिकाणी राहणाऱ्या प्राण्यांना काय म्हणतात?", "options": [{ "option_id": 1, "text": "भूचर", "is_correct": false }, { "option_id": 2, "text": "जलचर", "is_correct": false }, { "option_id": 3, "text": "उभयचर", "is_correct": true }, { "option_id": 4, "text": "खेचर", "is_correct": false }], "answer": "उभयचर" },
+    { "question_id": 22, "question_type": "MCQ", "question": "गरूड हा कोणत्या प्रकारचा प्राणी आहे?", "options": [{ "option_id": 1, "text": "खेचर", "is_correct": true }, { "option_id": 2, "text": "जलचर", "is_correct": false }, { "option_id": 3, "text": "भूचर", "is_correct": false }, { "option_id": 4, "text": "उभयचर", "is_correct": false }], "answer": "खेचर" },
+    { "question_id": 23, "question_type": "MCQ", "question": "वनस्पतीचे अन्न तयार करण्याचे काम कोणता अवयव करतो?", "options": [{ "option_id": 1, "text": "मूळ", "is_correct": false }, { "option_id": 2, "text": "खोड", "is_correct": false }, { "option_id": 3, "text": "पान", "is_correct": true }, { "option_id": 4, "text": "फूल", "is_correct": false }], "answer": "पान" },
+    { "question_id": 24, "question_type": "MCQ", "question": "वनस्पतीचा सर्वात आकर्षक भाग कोणता?", "options": [{ "option_id": 1, "text": "खोड", "is_correct": false }, { "option_id": 2, "text": "पान", "is_correct": false }, { "option_id": 3, "text": "फूल", "is_correct": true }, { "option_id": 4, "text": "मूळ", "is_correct": false }], "answer": "फूल" },
+    { "question_id": 25, "question_type": "MCQ", "question": "वनस्पतींच्या खोडाचा मुख्य उपयोग काय?", "options": [{ "option_id": 1, "text": "अन्न तयार करणे", "is_correct": false }, { "option_id": 2, "text": "पाणी व अन्न वाहून नेणे", "is_correct": true }, { "option_id": 3, "text": "प्रजनन करणे", "is_correct": false }, { "option_id": 4, "text": "जमिनीत घट्ट रुतणे", "is_correct": false }], "answer": "पाणी व अन्न वाहून नेणे" },
+    { "question_id": 26, "question_type": "MCQ", "question": "सूर्यप्रकाश व हरितद्रव्याच्या मदतीने अन्न तयार करण्याच्या क्रियेला काय म्हणतात?", "options": [{ "option_id": 1, "text": "श्वसन", "is_correct": false }, { "option_id": 2, "text": "उत्सर्जन", "is_correct": false }, { "option_id": 3, "text": "प्रकाशसंश्लेषण", "is_correct": true }, { "option_id": 4, "text": "प्रजनन", "is_correct": false }], "answer": "प्रकाशसंश्लेषण" },
+    { "question_id": 27, "question_type": "MCQ", "question": "खालीलपैकी कोणती वनस्पती अपुष्प आहे?", "options": [{ "option_id": 1, "text": "गुलाब", "is_correct": false }, { "option_id": 2, "text": "नेचे (Ferns)", "is_correct": true }, { "option_id": 3, "text": "आंबा", "is_correct": false }, { "option_id": 4, "text": "सूर्यफूल", "is_correct": false }], "answer": "नेचे (Ferns)" },
+    { "question_id": 28, "question_type": "MCQ", "question": "वेलींच्या खोडाचे वैशिष्ट्य काय असते?", "options": [{ "option_id": 1, "text": "अतिशय कडक", "is_correct": false }, { "option_id": 2, "text": "अतिशय लवचिक व मऊ", "is_correct": true }, { "option_id": 3, "text": "खूप जाड", "is_correct": false }, { "option_id": 4, "text": "जमिनीत खोल जाणारे", "is_correct": false }], "answer": "अतिशय लवचिक व मऊ" },
+    { "question_id": 29, "question_type": "MCQ", "question": "ज्या वनस्पती अनेक वर्षे जगतात, त्यांना काय म्हणतात?", "options": [{ "option_id": 1, "text": "वार्षिक", "is_correct": false }, { "option_id": 2, "text": "बहुवार्षिक", "is_correct": true }, { "option_id": 3, "text": "द्विवार्षिक", "is_correct": false }, { "option_id": 4, "text": "अल्पजीवी", "is_correct": false }], "answer": "बहुवार्षिक" },
+    { "question_id": 30, "question_type": "MCQ", "question": "पिंपळ हा कोणत्या प्रकारात मोडतो?", "options": [{ "option_id": 1, "text": "झुडूप", "is_correct": false }, { "option_id": 2, "text": "रोपटे", "is_correct": false }, { "option_id": 3, "text": "वृक्ष", "is_correct": true }, { "option_id": 4, "text": "वेल", "is_correct": false }], "answer": "वृक्ष" },
+    { "question_id": 31, "question_type": "MCQ", "question": "सजीवांमध्ये विविधता कशामुळे निर्माण होते?", "options": [{ "option_id": 1, "text": "भौगोलिक परिस्थितीमुळे", "is_correct": true }, { "option_id": 2, "text": "केवळ अन्नामुळे", "is_correct": false }, { "option_id": 3, "text": "माणसाच्या मर्जीमुळे", "is_correct": false }, { "option_id": 4, "text": "पावसामुळे", "is_correct": false }], "answer": "भौगोलिक परिस्थितीमुळे" },
+    { "question_id": 32, "question_type": "MCQ", "question": "बांडगूळ ही वनस्पती अन्नासाठी कोणावर अवलंबून असते?", "options": [{ "option_id": 1, "text": "जमिनीवर", "is_correct": false }, { "option_id": 2, "text": "इतर झाडांवर", "is_correct": true }, { "option_id": 3, "text": "हवेवर", "is_correct": false }, { "option_id": 4, "text": "पाण्यावर", "is_correct": false }], "answer": "इतर झाडांवर" },
+    { "question_id": 33, "question_type": "MCQ", "question": "खालीलपैकी कोणत्या वनस्पतीला 'फांद्या' नसतात?", "options": [{ "option_id": 1, "text": "आंबा", "is_correct": false }, { "option_id": 2, "text": "वड", "is_correct": false }, { "option_id": 3, "text": "नारळ", "is_correct": true }, { "option_id": 4, "text": "पिंपळ", "is_correct": false }], "answer": "नारळ" },
+    { "question_id": 34, "question_type": "MCQ", "question": "फुलाचे रूपांतर कशात होते?", "options": [{ "option_id": 1, "text": "पानात", "is_correct": false }, { "option_id": 2, "text": "फळात", "is_correct": true }, { "option_id": 3, "text": "मुळात", "is_correct": false }, { "option_id": 4, "text": "फांदीत", "is_correct": false }], "answer": "फळात" },
+    { "question_id": 35, "question_type": "MCQ", "question": "खालीलपैकी कोणता प्राणी बहुपेशीय आहे?", "options": [{ "option_id": 1, "text": "अमीबा", "is_correct": false }, { "option_id": 2, "text": "पॅरामेशिअम", "is_correct": false }, { "option_id": 3, "text": "झेब्रा", "is_correct": true }, { "option_id": 4, "text": "युग्लीना", "is_correct": false }], "answer": "झेब्रा" },
+    { "question_id": 36, "question_type": "MCQ", "question": "सस्तन प्राण्यांचे प्रमुख वैशिष्ट्य काय?", "options": [{ "option_id": 1, "text": "अंडी घालणे", "is_correct": false }, { "option_id": 2, "text": "पाण्याखाली राहणे", "is_correct": false }, { "option_id": 3, "text": "पिल्लांना जन्म देणे व दूध पाजणे", "is_correct": true }, { "option_id": 4, "text": "उडणे", "is_correct": false }], "answer": "पिल्लांना जन्म देणे व दूध पाजणे" },
+    { "question_id": 37, "question_type": "MCQ", "question": "खालीलपैकी कोणता प्राणी सरपटणारा आहे?", "options": [{ "option_id": 1, "text": "बेडूक", "is_correct": false }, { "option_id": 2, "text": "पाल", "is_correct": true }, { "option_id": 3, "text": "मासा", "is_correct": false }, { "option_id": 4, "text": "पोपट", "is_correct": false }], "answer": "पाल" },
+    { "question_id": 38, "question_type": "MCQ", "question": "पाण्यात तरंगणारी वनस्पती कोणती?", "options": [{ "option_id": 1, "text": "निवडुंग", "is_correct": false }, { "option_id": 2, "text": "पिंपळ", "is_correct": false }, { "option_id": 3, "text": "जलपर्णी", "is_correct": true }, { "option_id": 4, "text": "वड", "is_correct": false }], "answer": "जलपर्णी" },
+    { "question_id": 39, "question_type": "MCQ", "question": "वनस्पतींच्या वर्गीकरणाचे निकष कोणते?", "options": [{ "option_id": 1, "text": "उंची आणि खोडाचा आकार", "is_correct": true }, { "option_id": 2, "text": "फक्त फुलांचा रंग", "is_correct": false }, { "option_id": 3, "text": "फक्त फळांची चव", "is_correct": false }, { "option_id": 4, "text": "पानांची लांबी", "is_correct": false }], "answer": "उंची आणि खोडाचा आकार" },
+    { "question_id": 40, "question_type": "MCQ", "question": "प्रजननासाठी बी कशात असते?", "options": [{ "option_id": 1, "text": "मुळात", "is_correct": false }, { "option_id": 2, "text": "पानात", "is_correct": false }, { "option_id": 3, "text": "फळात", "is_correct": true }, { "option_id": 4, "text": "खोडावर", "is_correct": false }], "answer": "फळात" },
+    { "question_id": 41, "question_type": "MCQ", "question": "सजीवांनी परिस्थितीशी जुळवून घेण्याला काय म्हणतात?", "options": [{ "option_id": 1, "text": "अनुकूलन", "is_correct": true }, { "option_id": 2, "text": "श्वसन", "is_correct": false }, { "option_id": 3, "text": "प्रजनन", "is_correct": false }, { "option_id": 4, "text": "हालचाल", "is_correct": false }], "answer": "अनुकूलन" },
+    { "question_id": 42, "question_type": "MCQ", "question": "वनस्पती हवेतील कोणता वायू घेतात?", "options": [{ "option_id": 1, "text": "ऑक्सिजन", "is_correct": false }, { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": true }, { "option_id": 3, "text": "नायट्रोजन", "is_correct": false }, { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }], "answer": "कार्बन डायऑक्साइड" },
+    { "question_id": 43, "question_type": "MCQ", "question": "खालीलपैकी कीटकभक्षी वनस्पती कोणती?", "options": [{ "option_id": 1, "text": "आंबा", "is_correct": false }, { "option_id": 2, "text": "ड्रॉसेरा", "is_correct": true }, { "option_id": 3, "text": "तुळस", "is_correct": false }, { "option_id": 4, "text": "गुलाब", "is_correct": false }], "answer": "ड्रॉसेरा" },
+    { "question_id": 44, "question_type": "MCQ", "question": "मुळांचे प्रमुख दोन प्रकार कोणते?", "options": [{ "option_id": 1, "text": "सोटमूळ व तंतुमय मूळ", "is_correct": true }, { "option_id": 2, "text": "उंच व बुटके मूळ", "is_correct": false }, { "option_id": 3, "text": "जाड व पातळ मूळ", "is_correct": false }, { "option_id": 4, "text": "हिरवे व पांढरे मूळ", "is_correct": false }], "answer": "सोटमूळ व तंतुमय मूळ" },
+    { "question_id": 45, "question_type": "MCQ", "question": "खालीलपैकी कोणता प्राणी जलचर आहे?", "options": [{ "option_id": 1, "text": "उंदीर", "is_correct": false }, { "option_id": 2, "text": "व्हेल मासा", "is_correct": true }, { "option_id": 3, "text": "गाय", "is_correct": false }, { "option_id": 4, "text": "साप", "is_correct": false }], "answer": "व्हेल मासा" },
+    { "question_id": 46, "question_type": "MCQ", "question": "वेलींच्या आधारासाठी असलेल्या धाग्यांसारख्या भागाला काय म्हणतात?", "options": [{ "option_id": 1, "text": "काटे", "is_correct": false }, { "option_id": 2, "text": "तणाव (Tendrils)", "is_correct": true }, { "option_id": 3, "text": "पाने", "is_correct": false }, { "option_id": 4, "text": "फळे", "is_correct": false }], "answer": "तणाव (Tendrils)" },
+    { "question_id": 47, "question_type": "MCQ", "question": "सजीवांच्या शरीररचनेतील सर्वात लहान घटक कोणता?", "options": [{ "option_id": 1, "text": "रक्त", "is_correct": false }, { "option_id": 2, "text": "पेशी", "is_correct": true }, { "option_id": 3, "text": "हाड", "is_correct": false }, { "option_id": 4, "text": "स्नायू", "is_correct": false }], "answer": "पेशी" },
+    { "question_id": 48, "question_type": "MCQ", "question": "पावसाळ्यात भिंतीवर येणारे हिरवे शेवाळ काय आहे?", "options": [{ "option_id": 1, "text": "प्राणी", "is_correct": false }, { "option_id": 2, "text": "अपुष्प वनस्पती", "is_correct": true }, { "option_id": 3, "text": "खडक", "is_correct": false }, { "option_id": 4, "text": "कीटक", "is_correct": false }], "answer": "अपुष्प वनस्पती" },
+    { "question_id": 49, "question_type": "MCQ", "question": "कार्ल लिनिअसने कशाचे वर्गीकरण केले?", "options": [{ "option_id": 1, "text": "ग्रहांचे", "is_correct": false }, { "option_id": 2, "text": "सजीवांचे", "is_correct": true }, { "option_id": 3, "text": "खनिजांचे", "is_correct": false }, { "option_id": 4, "text": "मूलद्रव्यांचे", "is_correct": false }], "answer": "सजीवांचे" },
+    { "question_id": 50, "question_type": "MCQ", "question": "घोड्याचे आयुर्मान साधारण किती असते?", "options": [{ "option_id": 1, "text": "५-१० वर्षे", "is_correct": false }, { "option_id": 2, "text": "३०-४० वर्षे", "is_correct": true }, { "option_id": 3, "text": "१०० वर्षे", "is_correct": false }, { "option_id": 4, "text": "५०० वर्षे", "is_correct": false }], "answer": "३०-४० वर्षे" },
+    
+    { "question_id": 51, "question_type": "Short Answer", "question": "स्वयंपोषी वनस्पती म्हणजे काय?", "answer": "ज्या वनस्पती सूर्यप्रकाशात स्वतःचे अन्न स्वतः तयार करतात, त्यांना स्वयंपोषी वनस्पती म्हणतात. उदा. आंबा, जास्वंद." },
+    { "question_id": 52, "question_type": "Short Answer", "question": "परपोषी वनस्पती कोणास म्हणतात?", "answer": "ज्या वनस्पती अन्नासाठी इतर वनस्पतींवर अवलंबून असतात, त्यांना परपोषी वनस्पती म्हणतात. उदा. अमरवेल, बांडगूळ." },
+    { "question_id": 53, "question_type": "Short Answer", "question": "कीटकभक्षी वनस्पती कशाला म्हणतात?", "answer": "ज्या वनस्पती नायट्रोजनची कमतरता भरून काढण्यासाठी कीटकांचे भक्षण करतात, त्यांना कीटकभक्षी वनस्पती म्हणतात. उदा. घटपर्णी, ड्रॉसेरा." },
+    { "question_id": 54, "question_type": "Short Answer", "question": "वृक्ष कशाला म्हणतात?", "answer": "खूप उंच वाढणाऱ्या, मजबूत खोड आणि अनेक फांद्या असणाऱ्या वनस्पतींना वृक्ष म्हणतात. उदा. वड, आंबा." },
+    { "question_id": 55, "question_type": "Short Answer", "question": "झुडूप म्हणजे काय?", "answer": "जमिनीलगत वाढणाऱ्या, मध्यम उंचीच्या (२ ते ३ मीटर) आणि अनेक फांद्या असणाऱ्या वनस्पतींना झुडूप म्हणतात. उदा. कण्हेर, जास्वंद." },
+    { "question_id": 56, "question_type": "Short Answer", "question": "रोपटे कशाला म्हणतात?", "answer": "अतिशय कमी उंचीच्या (१ ते १.५ मीटर) आणि लवचिक हिरव्या खोडाच्या वनस्पतींना रोपटे म्हणतात. उदा. मेथी, सदाफुली." },
+    { "question_id": 57, "question_type": "Short Answer", "question": "वेलींचे खोड कसे असते?", "answer": "वेलींचे खोड अतिशय लवचिक, मऊ आणि हिरवे असते, त्यामुळे त्या आधाराच्या साहाय्याने वेगाने वाढतात." },
+    { "question_id": 58, "question_type": "Short Answer", "question": "वार्षिक वनस्पती म्हणजे काय?", "answer": "ज्या वनस्पतींचे जीवनचक्र एका वर्षात पूर्ण होते, त्यांना वार्षिक वनस्पती म्हणतात. उदा. ज्वारी, बाजरी." },
+    { "question_id": 59, "question_type": "Short Answer", "question": "द्विवार्षिक वनस्पती म्हणजे काय?", "answer": "ज्या वनस्पतींचे जीवनचक्र पूर्ण होण्यासाठी दोन वर्षे लागतात, त्यांना द्विवार्षिक वनस्पती म्हणतात. उदा. गाजर, बीट." },
+    { "question_id": 60, "question_type": "Short Answer", "question": "बहुवार्षिक वनस्पती म्हणजे काय?", "answer": "ज्या वनस्पती अनेक वर्षे जगतात, त्यांना बहुवार्षिक वनस्पती म्हणतात. उदा. आंबा, गुलमोहर." },
+    { "question_id": 61, "question_type": "Short Answer", "question": "सपुष्प वनस्पती म्हणजे काय?", "answer": "ज्या वनस्पतींना फुले येतात, त्यांना सपुष्प वनस्पती म्हणतात." },
+    { "question_id": 62, "question_type": "Short Answer", "question": "अपुष्प वनस्पती म्हणजे काय?", "answer": "ज्या वनस्पतींना कधीही फुले येत नाहीत, त्यांना अपुष्प वनस्पती म्हणतात. उदा. शेवाळ, नेचे." },
+    { "question_id": 63, "question_type": "Short Answer", "question": "वनस्पतीचे मुख्य अवयव कोणते?", "answer": "मूळ, खोड, पान, फूल आणि फळ हे वनस्पतीचे मुख्य अवयव आहेत." },
+    { "question_id": 64, "question_type": "Short Answer", "question": "मुळांची कार्ये सांगा.", "answer": "मूळ वनस्पतीला आधार देते, जमिनीतील पाणी व पोषक क्षार शोषून घेते आणि काही मुळे अन्नाचा साठा करतात." },
+    { "question_id": 65, "question_type": "Short Answer", "question": "खोडाची कार्ये सांगा.", "answer": "खोड फांद्यांना व पानांना आधार देते, पाणी व अन्न वाहून नेण्याचे काम करते आणि काही वनस्पतींमध्ये अन्नसाठा करते." },
+    { "question_id": 66, "question_type": "Short Answer", "question": "पानाचे मुख्य कार्य काय?", "answer": "प्रकाशसंश्लेषण प्रक्रियेद्वारे वनस्पतीसाठी अन्न तयार करणे हे पानाचे मुख्य कार्य आहे." },
+    { "question_id": 67, "question_type": "Short Answer", "question": "फुलाचे कार्य काय?", "answer": "फूल हे वनस्पतीचे पुनरुत्पादनाचे (प्रजननाचे) अंग आहे." },
+    { "question_id": 68, "question_type": "Short Answer", "question": "फळाचे महत्त्व काय?", "answer": "फळांमध्ये बिया असतात, ज्यांच्यापासून नवीन वनस्पती तयार होतात; तसेच काही फळे अन्न म्हणून वापरली जातात." },
+    { "question_id": 69, "question_type": "Short Answer", "question": "सजीवांच्या वर्गीकरणाची आवश्यकता का आहे?", "answer": "विविध प्रकारच्या सजीवांचा अभ्यास सुलभ आणि पद्धतशीरपणे करण्यासाठी त्यांच्या वर्गीकरणाची आवश्यकता आहे." },
+    { "question_id": 70, "question_type": "Short Answer", "question": "कार्ल लिनिअसचे योगदान काय?", "answer": "कार्ल लिनिअसने सजीवांच्या वर्गीकरणाची पहिली शास्त्रीय पद्धत शोधून काढली." },
+    { "question_id": 71, "question_type": "Short Answer", "question": "एकपेशीय प्राणी म्हणजे काय?", "answer": "ज्या प्राण्यांचे शरीर फक्त एकाच पेशीने बनलेले असते, त्यांना एकपेशीय प्राणी म्हणतात. उदा. अमीबा." },
+    { "question_id": 72, "question_type": "Short Answer", "question": "बहुपेशीय प्राणी म्हणजे काय?", "answer": "ज्या प्राण्यांचे शरीर अनेक पेशींनी मिळून बनलेले असते, त्यांना बहुपेशीय प्राणी म्हणतात. उदा. मानव, हत्ती." },
+    { "question_id": 73, "question_type": "Short Answer", "question": "पृष्ठवंशीय प्राणी म्हणजे काय?", "answer": "ज्या प्राण्यांना पाठीचा कणा असतो, त्यांना पृष्ठवंशीय प्राणी म्हणतात. उदा. मासे, पक्षी, मानव." },
+    { "question_id": 74, "question_type": "Short Answer", "question": "अपृष्ठवंशीय प्राणी म्हणजे काय?", "answer": "ज्या प्राण्यांना पाठीचा कणा नसतो, त्यांना अपृष्ठवंशीय प्राणी म्हणतात. उदा. गांडूळ, झुरळ, गोगलगाय." },
+    { "question_id": 75, "question_type": "Short Answer", "question": "अंडज प्राणी म्हणजे काय?", "answer": "जे प्राणी अंडी घालून पिल्लांना जन्म देतात, त्यांना अंडज प्राणी म्हणतात. उदा. कोंबडी, चिमणी." },
+    { "question_id": 76, "question_type": "Short Answer", "question": "जरायुज प्राणी म्हणजे काय?", "answer": "जे प्राणी थेट पिल्लांना जन्म देतात, त्यांना जरायुज प्राणी म्हणतात. उदा. गाय, मानव, मांजर." },
+    { "question_id": 77, "question_type": "Short Answer", "question": "भूचर प्राणी म्हणजे काय?", "answer": "जमिनीवर राहणाऱ्या प्राण्यांना भूचर प्राणी म्हणतात. उदा. वाघ, हरिण." },
+    { "question_id": 78, "question_type": "Short Answer", "question": "जलचर प्राणी म्हणजे काय?", "answer": "पाण्यात राहणाऱ्या प्राण्यांना जलचर प्राणी म्हणतात. उदा. मासा, देवमासा." },
+    { "question_id": 79, "question_type": "Short Answer", "question": "उभयचर प्राणी म्हणजे काय?", "answer": "जे प्राणी जमीन आणि पाणी अशा दोन्ही ठिकाणी राहू शकतात, त्यांना उभयचर प्राणी म्हणतात. उदा. बेडूक, सालामँडर." },
+    { "question_id": 80, "question_type": "Short Answer", "question": "खेचर म्हणजे काय?", "answer": "जे प्राणी हवेत संचार करतात (उडतात), त्यांना खेचर म्हणतात. उदा. घार, पोपट, वटवाघूळ." },
+    { "question_id": 81, "question_type": "Short Answer", "question": "अनुकूलन म्हणजे काय?", "answer": "परिस्थितीशी जुळवून घेण्यासाठी सजीवांच्या शरीरात आणि वागणुकीत होणाऱ्या बदलाला अनुकूलन म्हणतात." },
+    { "question_id": 82, "question_type": "Short Answer", "question": "वाळवंटातील वनस्पतींची वैशिष्ट्ये सांगा.", "answer": "वाळवंटातील वनस्पतींना पाने नसतात किंवा ती काट्यांच्या स्वरूपात असतात; त्यांचे खोड मांसल असते." },
+    { "question_id": 83, "question_type": "Short Answer", "question": "हिमालयातील वृक्षांचा आकार शंकूंसारखा का असतो?", "answer": "बर्फ पडून तो फांद्यांवर साचून राहू नये म्हणून तिथल्या वृक्षांचा आकार शंकूंसारखा आणि फांद्या उतरत्या असतात." },
+    { "question_id": 84, "question_type": "Short Answer", "question": "जगातील सर्वात मोठ्या फुलाचे नाव आणि व्यास सांगा.", "answer": "जगातील सर्वात मोठे फूल 'रॅफ्लेशिया' असून त्याचा व्यास सुमारे १ मीटर असतो." },
+    { "question_id": 85, "question_type": "Short Answer", "question": "जगातील सर्वात लहान फूल कोणते?", "answer": "जगातील सर्वात लहान फूल 'वुल्फिया' किंवा 'डकवीड' आहे." },
+    { "question_id": 86, "question_type": "Short Answer", "question": "तंतुमय मुळे कोणाची असतात?", "answer": "ज्वारी, कांदा, गवत यांसारख्या वनस्पतींची मुळे धाग्यांसारखी म्हणजे तंतुमय असतात." },
+    { "question_id": 87, "question_type": "Short Answer", "question": "सोटमूळ कोणाचे असते?", "answer": "आंबा, कडुलिंब, जास्वंद यांसारख्या द्विदल वनस्पतींमध्ये जाड मुख्य सोटमूळ असते." },
+    { "question_id": 88, "question_type": "Short Answer", "question": "वेलींना आधाराची गरज का असते?", "answer": "वेलींचे खोड खूप नाजूक आणि मऊ असते, ते स्वतःच्या वजनावर ताठ उभे राहू शकत नाही, म्हणून त्यांना आधाराची गरज असते." },
+    { "question_id": 89, "question_type": "Short Answer", "question": "सजीवांच्या वर्गीकरणासाठी कोणते निकष लावले जातात?", "answer": "सजीवांची रचना, त्यांचे अवयव आणि त्यांची कार्ये यांतील साम्य व फरक हे वर्गीकरणाचे निकष आहेत." },
+    { "question_id": 90, "question_type": "Short Answer", "question": "प्रकाशसंश्लेषणासाठी कशाची गरज असते?", "answer": "प्रकाशसंश्लेषणासाठी सूर्यप्रकाश, पाणी, हरितद्रव्य आणि कार्बन डायऑक्साइडची गरज असते." },
+    { "question_id": 91, "question_type": "Short Answer", "question": "सजीवांची विविधता म्हणजे काय?", "answer": "सजीवांच्या रंग, आकार, उंची आणि राहण्याच्या ठिकाणातील फरकाला सजीवांची विविधता म्हणतात." },
+    { "question_id": 92, "question_type": "Short Answer", "question": "नारळाचा वृक्ष खूप उंच असूनही त्याला झुडूप का म्हणता येणार नाही?", "answer": "नारळाचे खोड मजबूत असते आणि तो अनेक वर्षे जगतो, म्हणून तो वृक्ष आहे; झुडपे आकाराने लहान असतात." },
+    { "question_id": 93, "question_type": "Short Answer", "question": "मृगामध्ये किंवा निवडुंगामध्ये अन्न कोठे तयार होते?", "answer": "निवडुंगाला पाने नसल्यामुळे त्याचे खोड हिरवे असते आणि खोडातच अन्न तयार होते." },
+    { "question_id": 94, "question_type": "Short Answer", "question": "फुलाचे प्रमुख भाग कोणते?", "answer": "देठ, निदलपुंज, दलपुंज, पुंकेसर आणि स्त्रीकेसर हे फुलाचे प्रमुख भाग आहेत." },
+    { "question_id": 95, "question_type": "Short Answer", "question": "प्राण्यांचे वर्गीकरण कशाच्या आधारे करतात?", "answer": "प्राण्यांचे वर्गीकरण त्यांच्या पेशींची संख्या, पाठीचा कणा, प्रजननाची पद्धत आणि राहण्याचे ठिकाण यावरून करतात." },
+    { "question_id": 96, "question_type": "Short Answer", "question": "मासे पाण्यात कसे श्वसन करतात?", "answer": "मासे त्यांच्या कल्ल्यांच्या साहाय्याने पाण्यात विरघळलेला ऑक्सिजन शोषून घेऊन श्वसन करतात." },
+    { "question_id": 97, "question_type": "Short Answer", "question": "सदाफुली हे रोपटे का आहे?", "answer": "सदाफुलीची उंची कमी असते आणि तिचे खोड मऊ व हिरवे असते, म्हणून ते रोपटे आहे." },
+    { "question_id": 98, "question_type": "Short Answer", "question": "वेलींवरील तणावांचे (Tendrils) कार्य काय?", "answer": "तणाव वेलीला आधारावर पकड निर्माण करण्यासाठी आणि वर चढण्यासाठी मदत करतात." },
+    { "question_id": 99, "question_type": "Short Answer", "question": "सजीवांच्या अस्तित्वासाठी काय आवश्यक आहे?", "answer": "अन्न, पाणी, हवा आणि परिस्थितीशी जुळवून घेण्याची क्षमता सजीवांच्या अस्तित्वासाठी आवश्यक आहे." },
+    { "question_id": 100, "question_type": "Short Answer", "question": "निसर्गाचा समतोल राखण्यासाठी वर्गीकरण कसे मदत करते?", "answer": "वर्गीकरणामुळे सजीवांची अचूक ओळख पटते, ज्यामुळे त्यांच्या संवर्धनासाठी आणि पर्यावरणाचा समतोल राखण्यासाठी योजना आखणे सोपे जाते." },
+    { "question_id": 101, "question_type": "Short Answer", "question": "बुरशी ही वनस्पती स्वयंपोषी का नाही?", "answer": "बुरशीमध्ये हरितद्रव्य नसते, त्यामुळे ती स्वतःचे अन्न स्वतः तयार करू शकत नाही." },
+    { "question_id": 102, "question_type": "Short Answer", "question": "प्राणी आणि वनस्पती यांतील हालचालीत कोणता फरक आहे?", "answer": "प्राणी एका ठिकाणाहून दुसऱ्या ठिकाणी जाऊ शकतात (स्थलांतर), पण वनस्पती एकाच जागी स्थिर राहून फक्त आपल्या अवयवांची हालचाल करतात." },
+    { "question_id": 103, "question_type": "Short Answer", "question": "बांबू हा कोणत्या प्रकारात मोडतो?", "answer": "बांबू हा तांत्रिकदृष्ट्या गवताच्या प्रकारात मोडतो, परंतु त्याची वाढ वृक्षासारखी उंच असते." },
+    { "question_id": 104, "question_type": "Short Answer", "question": "अमीबाला आपण डोळ्यांनी का पाहू शकत नाही?", "answer": "अमीबा हा एकपेशीय आणि अत्यंत सूक्ष्म सजीव असल्यामुळे तो सूक्ष्मदर्शकाशिवाय डोळ्यांनी दिसत नाही." },
+    { "question_id": 105, "question_type": "Short Answer", "question": "प्राण्यांच्या शरीराचे संरक्षण कशामुळे होते?", "answer": "काही प्राण्यांच्या अंगावर खवले, केस, पिसे किंवा कातडीचे जाड थर असतात, ज्यामुळे त्यांच्या शरीराचे संरक्षण होते." },
+    { "question_id": 106, "question_type": "Short Answer", "question": "वटवाघूळ पक्षी असूनही त्याला सस्तन प्राणी का म्हणतात?", "answer": "वटवाघूळ अंडी घालत नाही, तर तो थेट पिल्लांना जन्म देतो आणि त्यांना दूध पाजतो, म्हणून तो सस्तन प्राणी आहे." },
+    { "question_id": 107, "question_type": "Short Answer", "question": "मनीप्लांट ही वेल आहे की रोपटे?", "answer": "मनीप्लांट ही एक वेल आहे, कारण तिला वाढण्यासाठी आधाराची गरज लागते." },
+    { "question_id": 108, "question_type": "Short Answer", "question": "द्विदल वनस्पतींची मुळे कशी असतात?", "answer": "द्विदल वनस्पतींची मुळे सोटमूळ या प्रकारची असतात." },
+    { "question_id": 109, "question_type": "Short Answer", "question": "एकदल वनस्पतींची मुळे कशी असतात?", "answer": "एकदल वनस्पतींची (उदा. मका, गवत) मुळे तंतुमय असतात." },
+    { "question_id": 110, "question_type": "Short Answer", "question": "बेडूकाचा जन्म कोठून होतो?", "answer": "बेडूकाचा जन्म पाण्यात घातलेल्या अंड्यांतून होतो (टॅडपोल अवस्था)." },
+    { "question_id": 111, "question_type": "Short Answer", "question": "गोगलगाय ही जलचर आहे का?", "answer": "नाही, गोगलगाय ही प्रामुख्याने जमिनीवर राहणारी (भूचर) आहे, परंतु ती ओलसर जागी आढळते." },
+    { "question_id": 112, "question_type": "Short Answer", "question": "हरभरा ही कोणत्या प्रकारची वनस्पती आहे?", "answer": "हरभरा हे एक वार्षिक रोपटे आहे." },
+    { "question_id": 113, "question_type": "Short Answer", "question": "फुलाच्या कोणत्या भागात परागकण असतात?", "answer": "फुलाच्या पुंकेसर (Anther) या भागात परागकण असतात." },
+    { "question_id": 114, "question_type": "Short Answer", "question": "सजीवांच्या वर्गीकरणाची सर्वात लहान पायरी कोणती?", "answer": "प्रजाती (Species) ही सजीवांच्या वर्गीकरणाची सर्वात लहान पायरी आहे." },
+    { "question_id": 115, "question_type": "Short Answer", "question": "बांडगूळ अन्नासाठी काय करते?", "answer": "बांडगूळ इतर मोठ्या वृक्षांच्या फांद्यांवर वाढते आणि त्या वृक्षाकडून पाणी व अन्न शोषून घेते." },
+    { "question_id": 116, "question_type": "Short Answer", "question": "मक्याचे खोड कसे असते?", "answer": "मक्याचे खोड भरीव आणि लवचिक असते." },
+    { "question_id": 117, "question_type": "Short Answer", "question": "केळी ही वनस्पती कोणत्या प्रकारात येते?", "answer": "केळी ही आकाराने मोठी असली तरी तिचे खोड मऊ असते, त्यामुळे तिला मोठ्या आकाराचे 'रोपटे' मानले जाते." },
+    { "question_id": 118, "question_type": "Short Answer", "question": "पाण्यातील वनस्पतींची मुळे कशी असतात?", "answer": "पाण्यातील वनस्पतींची मुळे अनेकदा तंतुमय असतात आणि ती पाण्यात तरंगण्यासाठी अनुकूलित असतात." },
+    { "question_id": 119, "question_type": "Short Answer", "question": "सापाचा समावेश कोणत्या गटात होतो?", "answer": "सापाचा समावेश पृष्ठवंशीय आणि सरपटणाऱ्या (Reptiles) प्राण्यांच्या गटात होतो." },
+    { "question_id": 120, "question_type": "Short Answer", "question": "सूर्यफुलाचे आयुष्य किती असते?", "answer": "सूर्यफूल ही वार्षिक वनस्पती असून तिचे आयुष्य एका हंगामापुरते (काही महिने) असते." },
+    { "question_id": 121, "question_type": "Short Answer", "question": "अमरवेलला मुळे का नसतात?", "answer": "अमरवेल ही पूर्णपणे परपोषी वनस्पती आहे, ती ज्या झाडावर वाढते त्या झाडाकडून अन्नाचे शोषण करण्यासाठी तिच्याकडे शोषक मुळे असतात, जमिनीतील मुळांची तिला गरज नसते." },
+    { "question_id": 122, "question_type": "Short Answer", "question": "कासव हे किती वर्षे जगू शकते?", "answer": "कासवाचे आयुर्मान साधारणपणे १५० वर्षांपर्यंत असू शकते." },
+    { "question_id": 123, "question_type": "Short Answer", "question": "सजीवांमध्ये हालचाल कशासाठी होते?", "answer": "अन्न शोधण्यासाठी, स्वतःचे रक्षण करण्यासाठी आणि प्रजननासाठी सजीवांमध्ये हालचाल होते." },
+    { "question_id": 124, "question_type": "Short Answer", "question": "फुलाचा सुगंध कशासाठी असतो?", "answer": "कीटकांना आकर्षित करण्यासाठी आणि परागीभवन घडून येण्यासाठी फुलाला सुगंध व आकर्षक रंग असतो." },
+    { "question_id": 125, "question_type": "Short Answer", "question": "मानवाचा समावेश कोणत्या गटात होतो?", "answer": "मानवाचा समावेश बहुपेशीय, पृष्ठवंशीय, जरायुज, सस्तन आणि भूचर प्राण्यांच्या गटात होतो." },
+    { "question_id": 126, "question_type": "Short Answer", "question": "बुरशी कोठे वाढते?", "answer": "बुरशी ओलावा असलेल्या आणि सेंद्रिय पदार्थांवर (उदा. शिळी भाकरी, लाकूड) वाढते." },
+    { "question_id": 127, "question_type": "Short Answer", "question": "वनस्पती कार्बन डायऑक्साइड कोठून मिळवतात?", "answer": "वनस्पती हवेतून पानांवरील पर्णरंध्रांच्या साहाय्याने कार्बन डायऑक्साइड घेतात." },
+    { "question_id": 128, "question_type": "Short Answer", "question": "गांडूळ हा प्राणी शेतीसाठी उपयुक्त का आहे?", "answer": "गांडूळ जमीन भुसभुशीत करतो आणि टाकाऊ पदार्थांचे खतात रूपांतर करतो, म्हणून तो उपयुक्त आहे." },
+    { "question_id": 129, "question_type": "Short Answer", "question": "पिंपळाच्या पानाचा आकार कसा असतो?", "answer": "पिंपळाचे पान हृदयाच्या आकाराचे आणि जाळीदार शिराविन्यास असलेले असते." },
+    { "question_id": 130, "question_type": "Short Answer", "question": "कडुलिंबाचा उपयोग काय?", "answer": "कडुलिंब हा एक औषधी वृक्ष असून तो हवा शुद्ध राखण्यासाठी आणि कीटकनाशक म्हणून वापरला जातो." },
+    { "question_id": 131, "question_type": "Short Answer", "question": "वटवाघळाचे पाय कशासाठी बदललेले असतात?", "answer": "वटवाघळाचे पुढचे पाय पंखांच्या स्वरूपात बदललेले असतात, ज्यामुळे त्याला उडता येते." },
+    { "question_id": 132, "question_type": "Short Answer", "question": "गुलाबाला काटे का असतात?", "answer": "स्वतःचे संरक्षण करण्यासाठी आणि वेलीसारखी वाढ होताना आधाराला पकडण्यासाठी गुलाबाला काटे असतात." },
+    { "question_id": 133, "question_type": "Short Answer", "question": "स्पायरोगायरा काय आहे?", "answer": "स्पायरोगायरा हे पाण्यात आढळणारे एक प्रकारचे शेवाळ (अपुष्प वनस्पती) आहे." },
+    { "question_id": 134, "question_type": "Short Answer", "question": "गव्हाचे झाड किती वर्षे जगते?", "answer": "गहू ही वार्षिक वनस्पती असल्याने ती एकाच हंगामात वाळते." },
+    { "question_id": 135, "question_type": "Short Answer", "question": "सजीवांचे रक्षण करण्याची जबाबदारी कोणाची आहे?", "answer": "पर्यावरणाचे रक्षण आणि सजीवांचे संवर्धन करण्याची मुख्य जबाबदारी मानवाची आहे." },
+    { "question_id": 136, "question_type": "Short Answer", "question": "कमळाचे पान पाण्यावर का तरंगते?", "answer": "कमळाच्या पानात हवेच्या पोकळ्या असतात आणि त्यावर मेचट थर असतो, त्यामुळे ते पाण्यावर तरंगते." },
+    { "question_id": 137, "question_type": "Short Answer", "question": "झुडपाचे खोड वृक्षाच्या खोडापेक्षा कसे वेगळे असते?", "answer": "झुडपाचे खोड कडक असले तरी ते वृक्षाच्या खोडासारखे खूप जाड नसते." },
+    { "question_id": 138, "question_type": "Short Answer", "question": "घटपर्णी कोठे आढळते?", "answer": "घटपर्णी नायट्रोजनची कमतरता असलेल्या जमिनीत आढळते." },
+    { "question_id": 139, "question_type": "Short Answer", "question": "सजीवांमध्ये प्रजनन का होते?", "answer": "आपली प्रजाती पृथ्वीवर टिकवून ठेवण्यासाठी सजीव प्रजनन करतात." },
+    { "question_id": 140, "question_type": "Short Answer", "question": "पॅरामेशिअम हालचाल कशी करतो?", "answer": "पॅरामेशिअम त्याच्या शरीरावरील केसांसारख्या रोमकांच्या साहाय्याने हालचाल करतो." },
+    { "question_id": 141, "question_type": "Short Answer", "question": "वाळवंटातील प्राण्यांची त्वचा कशी असते?", "answer": "पाणी टिकवून ठेवण्यासाठी वाळवंटातील प्राण्यांची त्वचा जाड असते." },
+    { "question_id": 142, "question_type": "Short Answer", "question": "नारळ हा वृक्ष का आहे?", "answer": "नारळ खूप उंच वाढतो, त्याचे खोड काष्ठमय असते आणि तो अनेक वर्षे जगतो, म्हणून तो वृक्ष आहे." },
+    { "question_id": 143, "question_type": "Short Answer", "question": "मुळांमुळे जमिनीची धूप कशी थांबते?", "answer": "मुळांनी मातीचे कण घट्ट धरून ठेवल्यामुळे वाऱ्याने किंवा पाण्याने माती वाहून जात नाही." },
+    { "question_id": 144, "question_type": "Short Answer", "question": "सपुष्प वनस्पतींच्या बिया कोठे तयार होतात?", "answer": "सपुष्प वनस्पतींच्या बिया फळांच्या आत तयार होतात." },
+    { "question_id": 145, "question_type": "Short Answer", "question": "वाघाचे दात कशासाठी अणकुचीदार असतात?", "answer": "वाघ हा मांसाहारी प्राणी असल्याने त्याला शिकार पकडण्यासाठी आणि मांस फाडण्यासाठी अणकुचीदार दात असतात." },
+    { "question_id": 146, "question_type": "Short Answer", "question": "वनस्पतींना भावना असतात का?", "answer": "वनस्पतींना मानवासारख्या भावना नसल्या तरी त्या बाह्य उद्दीपकांना प्रतिसाद देतात (उदा. लाजाळू)." },
+    { "question_id": 147, "question_type": "Short Answer", "question": "मका कोणत्या प्रकारचे पीक आहे?", "answer": "मका हे एक वार्षिक तृणधान्य पीक आहे." },
+    { "question_id": 148, "question_type": "Short Answer", "question": "सजीवांचे वर्गीकरण करताना कोणत्या गोष्टीचा विचार केला जातो?", "answer": "शरीराची ठेवण, अवयवांची रचना आणि जीवन जगण्याची पद्धत यांचा विचार केला जातो." },
+    { "question_id": 149, "question_type": "Short Answer", "question": "आंब्याचे झाड बहुवार्षिक का आहे?", "answer": "कारण आंब्याचे झाड एकदा लावल्यावर अनेक दशके जगते आणि फळे देते." },
+    { "question_id": 150, "question_type": "Short Answer", "question": "सजीवसृष्टीतील विविधतेचा अभ्यास का करावा?", "answer": "निसर्गाची गुंतागुंत समजून घेण्यासाठी आणि सजीवांच्या संरक्षणासाठी त्यांच्या विविधतेचा अभ्यास करणे आवश्यक आहे." }
+  ]
+}

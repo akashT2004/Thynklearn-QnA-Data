@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.05",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "पदार्थ सभोवतालचे – अवस्था आणि गुणधर्म"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पदार्थाची एक अवस्था बदलून जेव्हा तो दुसऱ्या अवस्थेत जातो, त्या क्रियेस काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अवस्थांतर", "is_correct": true },
+        { "option_id": 2, "text": "रूपांतर", "is_correct": false },
+        { "option_id": 3, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 4, "text": "संप्लवन", "is_correct": false }
+      ],
+      "answer": "अवस्थांतर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ उष्णता दिल्यावर स्थायूतून थेट वायू अवस्थेत जातो?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "कापूर", "is_correct": true },
+        { "option_id": 3, "text": "मेण", "is_correct": false },
+        { "option_id": 4, "text": "तूप", "is_correct": false }
+      ],
+      "answer": "कापूर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाण्याचा गोठणबिंदू किती असतो?",
+      "options": [
+        { "option_id": 1, "text": "१०० अंश सेल्सिअस", "is_correct": false },
+        { "option_id": 2, "text": "५० अंश सेल्सिअस", "is_correct": false },
+        { "option_id": 3, "text": "० अंश सेल्सिअस", "is_correct": true },
+        { "option_id": 4, "text": "१० अंश सेल्सिअस", "is_correct": false }
+      ],
+      "answer": "० अंश सेल्सिअस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाण्याचा उत्कलन बिंदू किती असतो?",
+      "options": [
+        { "option_id": 1, "text": "८० अंश सेल्सिअस", "is_correct": false },
+        { "option_id": 2, "text": "१०० अंश सेल्सिअस", "is_correct": true },
+        { "option_id": 3, "text": "१२० अंश सेल्सिअस", "is_correct": false },
+        { "option_id": 4, "text": "२०० अंश सेल्सिअस", "is_correct": false }
+      ],
+      "answer": "१०० अंश सेल्सिअस"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पदार्थाला उष्णता दिल्यास त्याचे तापमान मोजण्यासाठी कशाचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "पट्टी", "is_correct": false },
+        { "option_id": 2, "text": "तापमापी", "is_correct": true },
+        { "option_id": 3, "text": "तराजू", "is_correct": false },
+        { "option_id": 4, "text": "स्टॉपवॉच", "is_correct": false }
+      ],
+      "answer": "तापमापी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या पदार्थाला निश्चित आकार नसतो पण निश्चित आकारमान असते?",
+      "options": [
+        { "option_id": 1, "text": "दगड", "is_correct": false },
+        { "option_id": 2, "text": "दूध", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "दूध"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "स्थायू पदार्थाचे थेट वायू अवस्थेत रूपांतर होण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 2, "text": "गोठण", "is_correct": false },
+        { "option_id": 3, "text": "संप्लवन", "is_correct": true },
+        { "option_id": 4, "text": "विद्राव्यता", "is_correct": false }
+      ],
+      "answer": "संप्लवन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "धातूंची तार काढता येण्याच्या गुणधर्माला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वर्धनीयता", "is_correct": false },
+        { "option_id": 2, "text": "तन्यता", "is_correct": true },
+        { "option_id": 3, "text": "ठिसूळपणा", "is_correct": false },
+        { "option_id": 4, "text": "प्रवाहिता", "is_correct": false }
+      ],
+      "answer": "तन्यता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "काच किंवा खडू यांसारखे पदार्थ दाब दिल्यावर फुटतात, या गुणधर्माला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कठिणपणा", "is_correct": false },
+        { "option_id": 2, "text": "ठिसूळपणा", "is_correct": true },
+        { "option_id": 3, "text": "स्थितिस्थापकता", "is_correct": false },
+        { "option_id": 4, "text": "पारदर्शकता", "is_correct": false }
+      ],
+      "answer": "ठिसूळपणा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "धातूवर आघात केल्यास त्यातून आवाज येतो, याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नादमयता", "is_correct": true },
+        { "option_id": 2, "text": "उष्णता वाहकता", "is_correct": false },
+        { "option_id": 3, "text": "विद्युत वाहकता", "is_correct": false },
+        { "option_id": 4, "text": "चकाकी", "is_correct": false }
+      ],
+      "answer": "नादमयता"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पाणी गरम केल्यावर त्याचे कशात रूपांतर होते?",
+      "options": [
+        { "option_id": 1, "text": "बर्फ", "is_correct": false },
+        { "option_id": 2, "text": "वाफ", "is_correct": true },
+        { "option_id": 3, "text": "स्थायू", "is_correct": false },
+        { "option_id": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "वाफ"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पदार्थाला उष्णता दिल्यावर त्याचे आकारमान वाढते, याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आकुंचन", "is_correct": false },
+        { "option_id": 2, "text": "प्रसरण", "is_correct": true },
+        { "option_id": 3, "text": "विद्राव्यता", "is_correct": false },
+        { "option_id": 4, "text": "घनता", "is_correct": false }
+      ],
+      "answer": "प्रसरण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लोखंडाचा पातळ पत्रा तयार करण्याच्या गुणधर्माला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वर्धनीयता", "is_correct": true },
+        { "option_id": 2, "text": "तन्यता", "is_correct": false },
+        { "option_id": 3, "text": "नादमयता", "is_correct": false },
+        { "option_id": 4, "text": "कठिणपणा", "is_correct": false }
+      ],
+      "answer": "वर्धनीयता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नारळाचे तेल थंडीमध्ये कोणत्या अवस्थेत आढळते?",
+      "options": [
+        { "option_id": 1, "text": "द्रव", "is_correct": false },
+        { "option_id": 2, "text": "स्थायू", "is_correct": true },
+        { "option_id": 3, "text": "वायू", "is_correct": false },
+        { "option_id": 4, "text": "प्लाझ्मा", "is_correct": false }
+      ],
+      "answer": "स्थायू"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ पाण्यात विरघळत नाही?",
+      "options": [
+        { "option_id": 1, "text": "मीठ", "is_correct": false },
+        { "option_id": 2, "text": "साखर", "is_correct": false },
+        { "option_id": 3, "text": "वाळू", "is_correct": true },
+        { "option_id": 4, "text": "मध", "is_correct": false }
+      ],
+      "answer": "वाळू"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कोणता धातू उष्णतेचा सर्वात चांगला वाहक आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्लॅस्टिक", "is_correct": false },
+        { "option_id": 2, "text": "तांबे", "is_correct": true },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "रबर", "is_correct": false }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "रबर बँड ओढल्यावर पुन्हा मूळ आकारात येते, या गुणधर्माला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रवाहिता", "is_correct": false },
+        { "option_id": 2, "text": "स्थितिस्थापकता", "is_correct": true },
+        { "option_id": 3, "text": "कठिणपणा", "is_correct": false },
+        { "option_id": 4, "text": "पारदर्शकता", "is_correct": false }
+      ],
+      "answer": "स्थितिस्थापकता"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "साधारण तापमानाला द्रव स्थितीत असणारा धातू कोणता?",
+      "options": [
+        { "option_id": 1, "text": "सोने", "is_correct": false },
+        { "option_id": 2, "text": "पारा", "is_correct": true },
+        { "option_id": 3, "text": "लोखंड", "is_correct": false },
+        { "option_id": 4, "text": "चांदी", "is_correct": false }
+      ],
+      "answer": "पारा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पाणी कोणत्या तापमानाला गोठते?",
+      "options": [
+        { "option_id": 1, "text": "०°C", "is_correct": true },
+        { "option_id": 2, "text": "१००°C", "is_correct": false },
+        { "option_id": 3, "text": "४°C", "is_correct": false },
+        { "option_id": 4, "text": "३७°C", "is_correct": false }
+      ],
+      "answer": "०°C"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ पारदर्शक आहे?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "काच", "is_correct": true },
+        { "option_id": 3, "text": "लोखंडी पत्रा", "is_correct": false },
+        { "option_id": 4, "text": "भिंत", "is_correct": false }
+      ],
+      "answer": "काच"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "डांबर गोळीचा आकार कालांतराने लहान का होतो?",
+      "options": [
+        { "option_id": 1, "text": "वितळल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "संप्लवनामुळे", "is_correct": true },
+        { "option_id": 3, "text": "गोठल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "कुणीतरी खाल्ल्यामुळे", "is_correct": false }
+      ],
+      "answer": "संप्लवनामुळे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ज्या पदार्थातून वीज वाहते, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रोधक", "is_correct": false },
+        { "option_id": 2, "text": "सुवाहक", "is_correct": true },
+        { "option_id": 3, "text": "पारदर्शक", "is_correct": false },
+        { "option_id": 4, "text": "विद्रव्य", "is_correct": false }
+      ],
+      "answer": "सुवाहक"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "द्रव पदार्थ उतारावरून वाहतात, या गुणधर्माला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "घनता", "is_correct": false },
+        { "option_id": 2, "text": "प्रवाहिता", "is_correct": true },
+        { "option_id": 3, "text": "विद्राव्यता", "is_correct": false },
+        { "option_id": 4, "text": "वर्धनीयता", "is_correct": false }
+      ],
+      "answer": "प्रवाहिता"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "दागिने तयार करण्यासाठी कोणत्या धातूचा वापर प्रामुख्याने होतो?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "सोने", "is_correct": true },
+        { "option_id": 3, "text": "पारा", "is_correct": false },
+        { "option_id": 4, "text": "शिसे", "is_correct": false }
+      ],
+      "answer": "सोने"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "वायुला स्वतःचा काय नसतो?",
+      "options": [
+        { "option_id": 1, "text": "आकार", "is_correct": false },
+        { "option_id": 2, "text": "आकारमान", "is_correct": false },
+        { "option_id": 3, "text": "दोन्ही", "is_correct": true },
+        { "option_id": 4, "text": "वस्तुमान", "is_correct": false }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "तापमानाचे एकक काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "किलोग्रॅम", "is_correct": false },
+        { "option_id": 2, "text": "अंश सेल्सिअस", "is_correct": true },
+        { "option_id": 3, "text": "मीटर", "is_correct": false },
+        { "option_id": 4, "text": "लिटर", "is_correct": false }
+      ],
+      "answer": "अंश सेल्सिअस"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ ठिसूळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोखंडी सळई", "is_correct": false },
+        { "option_id": 2, "text": "कोळसा", "is_correct": true },
+        { "option_id": 3, "text": "तांब्याची तार", "is_correct": false },
+        { "option_id": 4, "text": "रबर", "is_correct": false }
+      ],
+      "answer": "कोळसा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "विजेच्या तारा कशापासून बनवल्या जातात?",
+      "options": [
+        { "option_id": 1, "text": "दोरी", "is_correct": false },
+        { "option_id": 2, "text": "तांबे/ॲल्युमिनियम", "is_correct": true },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "तांबे/ॲल्युमिनियम"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "लोखंडाला गंज चढतो, हा कोणता बदल आहे?",
+      "options": [
+        { "option_id": 1, "text": "भौतिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": true },
+        { "option_id": 3, "text": "अवस्थांतर", "is_correct": false },
+        { "option_id": 4, "text": "संप्लवन", "is_correct": false }
+      ],
+      "answer": "रासायनिक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मेणबत्ती जळताना मेण वितळते, हे कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "अवस्थांतर", "is_correct": true },
+        { "option_id": 2, "text": "गोठण", "is_correct": false },
+        { "option_id": 3, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 4, "text": "प्रसरण", "is_correct": false }
+      ],
+      "answer": "अवस्थांतर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "समुद्राच्या पाण्यापासून मीठ मिळवण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संप्लवन", "is_correct": false },
+        { "option_id": 2, "text": "बाष्पीभवन", "is_correct": true },
+        { "option_id": 3, "text": "गोठण", "is_correct": false },
+        { "option_id": 4, "text": "विद्राव्यता", "is_correct": false }
+      ],
+      "answer": "बाष्पीभवन"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "पदार्थाची घनता कशावर अवलंबून असते?",
+      "options": [
+        { "option_id": 1, "text": "रंगावर", "is_correct": false },
+        { "option_id": 2, "text": "कणांच्या रचनेवर", "is_correct": true },
+        { "option_id": 3, "text": "उंचीवर", "is_correct": false },
+        { "option_id": 4, "text": "किमतीवर", "is_correct": false }
+      ],
+      "answer": "कणांच्या रचनेवर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "लोखंडावर हिऱ्याने ओरखडा काढता येतो, कारण हिरा लोखंडापेक्षा ____ आहे.",
+      "options": [
+        { "option_id": 1, "text": "मऊ", "is_correct": false },
+        { "option_id": 2, "text": "कठिण", "is_correct": true },
+        { "option_id": 3, "text": "पारदर्शक", "is_correct": false },
+        { "option_id": 4, "text": "ठिसूळ", "is_correct": false }
+      ],
+      "answer": "कठिण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता धातू नाही?",
+      "options": [
+        { "option_id": 1, "text": "तांबे", "is_correct": false },
+        { "option_id": 2, "text": "सोने", "is_correct": false },
+        { "option_id": 3, "text": "लोखंड", "is_correct": false },
+        { "option_id": 4, "text": "लाकडे", "is_correct": true }
+      ],
+      "answer": "लाकडे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "स्पंज दाबल्यावर दबतो, हा गुणधर्म कोणता?",
+      "options": [
+        { "option_id": 1, "text": "कठिणपणा", "is_correct": false },
+        { "option_id": 2, "text": "संपीड्यता (Compressibility)", "is_correct": true },
+        { "option_id": 3, "text": "ठिसूळपणा", "is_correct": false },
+        { "option_id": 4, "text": "चकाकी", "is_correct": false }
+      ],
+      "answer": "संपीड्यता (Compressibility)"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पदार्थ सभोवताली किती अवस्थांमध्ये आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "तीन", "is_correct": true },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या पदार्थाला स्वतःची चकाकी असते?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "सोने", "is_correct": true },
+        { "option_id": 4, "text": "कापूस", "is_correct": false }
+      ],
+      "answer": "सोने"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "मेणबत्ती वितळणे हे कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "विद्राव्यता", "is_correct": false },
+        { "option_id": 2, "text": "विलयन (Melting)", "is_correct": true },
+        { "option_id": 3, "text": "गोठण", "is_correct": false },
+        { "option_id": 4, "text": "संप्लवन", "is_correct": false }
+      ],
+      "answer": "विलयन (Melting)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "पाण्याच्या वाफेचे पाण्यात रूपांतर होण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 2, "text": "संघनन (Condensation)", "is_correct": true },
+        { "option_id": 3, "text": "संप्लवन", "is_correct": false },
+        { "option_id": 4, "text": "गोठण", "is_correct": false }
+      ],
+      "answer": "संघनन (Condensation)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कोणता वायू जळण्यास मदत करतो?",
+      "options": [
+        { "option_id": 1, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 3, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पदार्थाच्या लहान कणांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "रेणू/अणू", "is_correct": true },
+        { "option_id": 2, "text": "दगड", "is_correct": false },
+        { "option_id": 3, "text": "वायू", "is_correct": false },
+        { "option_id": 4, "text": "स्थायू", "is_correct": false }
+      ],
+      "answer": "रेणू/अणू"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता विद्रावक (Solvent) म्हणून ओळखला जातो?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": true },
+        { "option_id": 3, "text": "मीठ", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "स्वयंपाकाची भांडी धातूंची का असतात?",
+      "options": [
+        { "option_id": 1, "text": "ते वजनाला जड असतात", "is_correct": false },
+        { "option_id": 2, "text": "ते उष्णतेचे सुवाहक असतात", "is_correct": true },
+        { "option_id": 3, "text": "ते स्वस्त असतात", "is_correct": false },
+        { "option_id": 4, "text": "त्यांचा रंग छान असतो", "is_correct": false }
+      ],
+      "answer": "ते उष्णतेचे सुवाहक असतात"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "लोखंडाचे चुंबकाकडे आकर्षित होणे हा कोणता गुणधर्म आहे?",
+      "options": [
+        { "option_id": 1, "text": "विद्युत वाहकता", "is_correct": false },
+        { "option_id": 2, "text": "चुंबकत्व", "is_correct": true },
+        { "option_id": 3, "text": "प्रवाहिता", "is_correct": false },
+        { "option_id": 4, "text": "नादमयता", "is_correct": false }
+      ],
+      "answer": "चुंबकत्व"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ पाण्यात विरघळतो?",
+      "options": [
+        { "option_id": 1, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 2, "text": "साखर", "is_correct": true },
+        { "option_id": 3, "text": "लाकूड", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "साखर"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "पावसाळ्यामध्ये बिस्किटे मऊ पडतात, हे कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "उन्हामुळे", "is_correct": false },
+        { "option_id": 2, "text": "हवेतील बाष्पामुळे (ओलावा)", "is_correct": true },
+        { "option_id": 3, "text": "वाऱ्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "थंडीमुळे", "is_correct": false }
+      ],
+      "answer": "हवेतील बाष्पामुळे (ओलावा)"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "फुग्यात भरलेली हवा काय व्यापते?",
+      "options": [
+        { "option_id": 1, "text": "फक्त जागा", "is_correct": false },
+        { "option_id": 2, "text": "जागा आणि आकारमान", "is_correct": true },
+        { "option_id": 3, "text": "काहीच नाही", "is_correct": false },
+        { "option_id": 4, "text": "केवळ वजन", "is_correct": false }
+      ],
+      "answer": "जागा आणि आकारमान"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ उष्णतारोधक (Bad Conductor) आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "लाकूड", "is_correct": true },
+        { "option_id": 3, "text": "तांबे", "is_correct": false },
+        { "option_id": 4, "text": "चांदी", "is_correct": false }
+      ],
+      "answer": "लाकूड"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "पाण्याला उष्णता दिल्यावर त्याचे तापमान किती अंशावर स्थिर राहते (उकळताना)?",
+      "options": [
+        { "option_id": 1, "text": "०°C", "is_correct": false },
+        { "option_id": 2, "text": "५०°C", "is_correct": false },
+        { "option_id": 3, "text": "१००°C", "is_correct": true },
+        { "option_id": 4, "text": "८०°C", "is_correct": false }
+      ],
+      "answer": "१००°C"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "स्थायू पदार्थाचा आकार कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "बदलणारा", "is_correct": false },
+        { "option_id": 2, "text": "ठराविक/निश्चित", "is_correct": true },
+        { "option_id": 3, "text": "नसतो", "is_correct": false },
+        { "option_id": 4, "text": "वायू सारखा", "is_correct": false }
+      ],
+      "answer": "ठराविक/निश्चित"
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "पदार्थाचे अवस्थांतर म्हणजे काय?",
+      "answer": "पदार्थाची एक अवस्था बदलून जेव्हा तो दुसऱ्या अवस्थेत जातो, त्या क्रियेस पदार्थाचे अवस्थांतर असे म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "पदार्थाच्या तीन मुख्य अवस्था कोणत्या?",
+      "answer": "स्थायू, द्रव आणि वायू या पदार्थाच्या तीन मुख्य अवस्था आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "पदार्थाचे अवस्थांतर कशामुळे होते?",
+      "answer": "पदार्थास उष्णता दिल्याने किंवा त्यातील उष्णता काढून घेतल्याने पदार्थाचे अवस्थांतर होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "उत्कलन म्हणजे काय?",
+      "answer": "द्रव पदार्थाला उष्णता दिल्यावर त्याचे वाफेत रूपांतर होण्याची क्रिया म्हणजे उत्कलन होय."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "गोठण म्हणजे काय?",
+      "answer": "द्रव पदार्थातील उष्णता काढून घेतल्यास त्याचे स्थायूमध्ये रूपांतर होण्याच्या क्रियेला गोठण म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "विलयन (Melting) म्हणजे काय?",
+      "answer": "स्थायू पदार्थाला उष्णता मिळाल्यावर त्याचे द्रवात रूपांतर होण्याच्या क्रियेला विलयन म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "संघनन म्हणजे काय?",
+      "answer": "वाफेला थंडावा मिळाल्यावर तिचे पुन्हा पाण्यात रूपांतर होण्याच्या क्रियेला संघनन म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "संप्लवन म्हणजे काय?",
+      "answer": "काही स्थायू पदार्थांना उष्णता दिल्यावर त्यांचे द्रवात रूपांतर न होता थेट वायू अवस्थेत रूपांतर होते, याला संप्लवन म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "संप्लवनशील पदार्थांची दोन उदाहरणे लिहा.",
+      "answer": "कापूर, डांबर गोळी, आयोडिन आणि नवसागर ही संप्लवनशील पदार्थांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "तापमान मोजण्यासाठी कोणते साधन वापरतात?",
+      "answer": "तापमान मोजण्यासाठी तापमापी (Thermometer) वापरतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "तापमान मोजण्यासाठी कोणते एकक वापरतात?",
+      "answer": "तापमान मोजण्यासाठी अंश सेल्सिअस (°C) हे एकक वापरतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "पाण्याचा उत्कलन बिंदू किती आहे?",
+      "answer": "पाण्याचा उत्कलन बिंदू १००°C आहे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "पाण्याचा गोठण बिंदू किती आहे?",
+      "answer": "पाण्याचा गोठण बिंदू ०°C आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "स्थायू पदार्थाचे दोन गुणधर्म सांगा.",
+      "answer": "स्थायू पदार्थाला स्वतःचा आकार असतो आणि त्याला निश्चित आकारमान असते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "द्रव पदार्थाचे दोन गुणधर्म सांगा.",
+      "answer": "द्रव पदार्थाला स्वतःचा आकार नसतो (तो भांड्याचा आकार घेतो) आणि त्याला प्रवाहिता असते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "वायू पदार्थाचे दोन गुणधर्म सांगा.",
+      "answer": "वायूला स्वतःचा आकार नसतो आणि तो उपलब्ध असलेली सर्व जागा व्यापतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "ठिसूळपणा म्हणजे काय?",
+      "answer": "काही पदार्थांवर दाब दिल्यास किंवा आघात केल्यास त्यांचे लहान तुकडे होतात, या गुणधर्माला ठिसूळपणा म्हणतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "कठिणपणा म्हणजे काय?",
+      "answer": "एखादा पदार्थ दुसऱ्या पदार्थाला किती विरोध करतो, यावरून त्या पदार्थाचा कठिणपणा ठरतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "स्थितिस्थापकता म्हणजे काय?",
+      "answer": "काही पदार्थांवर ताण किंवा दाब दिल्यास त्यांचा आकार बदलतो आणि ताण काढल्यावर ते पुन्हा मूळ स्थितीत येतात, याला स्थितिस्थापकता म्हणतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "प्रवाहिता म्हणजे काय?",
+      "answer": "द्रव पदार्थ उतारावरून वाहतात, या गुणधर्माला प्रवाहिता म्हणतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "घनता म्हणजे काय?",
+      "answer": "पदार्थाचे वस्तुमान आणि आकारमान यांच्या गुणोत्तराला किंवा कणांच्या रचनेला घनता म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "विद्राव्यता म्हणजे काय?",
+      "answer": "एखादा पदार्थ द्रवात विरघळण्याच्या गुणधर्माला विद्राव्यता म्हणतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "पारदर्शकता म्हणजे काय?",
+      "answer": "ज्या पदार्थातून पाहिले असता पलीकडची वस्तू स्पष्ट दिसते, त्या गुणधर्माला पारदर्शकता म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "धातू म्हणजे काय?",
+      "answer": "खनिजांच्या रूपात जमिनीत आढळणाऱ्या पदार्थांना शुद्ध केल्यावर जे पदार्थ मिळतात, त्यांना धातू म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "धातूंची चार उदाहरणे द्या.",
+      "answer": "तांबे, सोने, लोखंड, चांदी आणि ॲल्युमिनियम ही धातूंची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "तन्यता म्हणजे काय?",
+      "answer": "धातू ओढून त्यांची तार काढता येते, या गुणधर्माला तन्यता म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "वर्धनीयता म्हणजे काय?",
+      "answer": "धातू ठोकून त्यांचा पातळ पत्रा तयार करता येतो, या गुणधर्माला वर्धनीयता म्हणतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "उष्णता वाहकता म्हणजे काय?",
+      "answer": "धातूंतून उष्णता वाहून नेली जाते, या गुणधर्माला उष्णता वाहकता म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "विद्युत वाहकता म्हणजे काय?",
+      "answer": "धातूंतून वीज वाहते, या गुणधर्माला विद्युत वाहकता म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "नादमयता म्हणजे काय?",
+      "answer": "धातूवर आघात केल्यास त्यातून विशिष्ट आवाज निर्माण होतो, त्याला नादमयता म्हणतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "बर्फाचे पाण्यात रूपांतर होण्यासाठी त्याला उष्णता कोठून मिळते?",
+      "answer": "बर्फाचे पाण्यात रूपांतर होण्यासाठी त्याला सभोवतालच्या हवेतून उष्णता मिळते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "पदार्थाचा गोठणबिंदू आणि विलयनबिंदू एकच असतो का?",
+      "answer": "हो, प्रत्येक पदार्थाचा विशिष्ट गोठणबिंदू आणि विलयनबिंदू एकच असतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "धातूंची चकाकी म्हणजे काय?",
+      "answer": "धातूंच्या घासलेल्या किंवा नव्याने कापलेल्या पृष्ठभागावरून प्रकाशाचे परावर्तन होऊन ते चमकतात, याला चकाकी म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "पावसाळ्यात खिडक्यांच्या काचांवर पाणी का साचते?",
+      "answer": "हवेतील बाष्पाचे थंड काचेमुळे संघनन होऊन त्याचे पाण्यात रूपांतर होते, म्हणून काचांवर पाणी साचते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "विजेच्या तारांवरील वेष्टन प्लॅस्टिकचे का असते?",
+      "answer": "कारण प्लॅस्टिक हे विजेचे दुर्वाहक आहे, त्यामुळे विजेचा धक्का बसत नाही."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "पारा हा धातू असूनही तो इतर धातूंपेक्षा वेगळा का आहे?",
+      "answer": "पारा हा एकमेव धातू आहे जो सामान्य तापमानाला द्रव अवस्थेत असतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "लोखंडाचा उपयोग यंत्रे बनवण्यासाठी का करतात?",
+      "answer": "कारण लोखंड हा अत्यंत कठिण आणि मजबूत धातू आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "कापूर उघडा ठेवल्यास काय होते?",
+      "answer": "कापूर उघडा ठेवल्यास त्याचे संप्लवन होऊन तो वायू रूपात हवेत मिसळतो आणि त्याचा आकार लहान होतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "समुद्राच्या पाण्यापासून मीठ कसे मिळवतात?",
+      "answer": "समुद्राचे पाणी वाफ्यांमध्ये साठवून सूर्याच्या उष्णतेने त्याचे बाष्पीभवन केले जाते, ज्यामुळे मीठ शिल्लक राहते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "स्वयंपाकाच्या भांड्यांचे हात लाकडी किंवा प्लॅस्टिकचे का असतात?",
+      "answer": "लाकूड आणि प्लॅस्टिक उष्णतेचे दुर्वाहक असल्याने भांडे गरम असले तरी हाताला चटका बसत नाही."
+    },
+    {
+      "question_id": 91,
+      "question_type": "Short Answer",
+      "question": "पाणी गरम होताना बुडबुडे का येतात?",
+      "answer": "पाण्यातील विरघळलेली हवा बाहेर पडते आणि पाण्याचे वाफेत रूपांतर होऊ लागते, त्यामुळे बुडबुडे येतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "Short Answer",
+      "question": "थंडीमध्ये नारळाचे तेल गोठते, हे अवस्थांतराचे कोणते उदाहरण आहे?",
+      "answer": "हे द्रवाचे स्थायूमध्ये रूपांतर होणे म्हणजेच 'गोठण' क्रियेचे उदाहरण आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "Short Answer",
+      "question": "सोने आणि चांदीचा वापर दागिने बनवण्यासाठी का केला जातो?",
+      "answer": "कारण हे धातू चकाकणारे, तन्य आणि वर्धनीय असतात, तसेच त्यांना लवकर गंज लागत नाही."
+    },
+    {
+      "question_id": 94,
+      "question_type": "Short Answer",
+      "question": "काच ठिसूळ का असते?",
+      "answer": "काचेच्या कणांची रचना विशिष्ट असते, ज्यामुळे ती लवचिक नसते आणि दाब दिल्यावर लगेच फुटते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "Short Answer",
+      "question": "पाणी १००°C वर उकळते, तेव्हा त्याचे तापमान आणखी का वाढत नाही?",
+      "answer": "कारण दिलेली उष्णता पाण्याचे वाफेत (अवस्थांतर) रूपांतर करण्यासाठी वापरली जाते, त्यामुळे तापमान स्थिर राहते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "Short Answer",
+      "question": "दगड पाण्यात बुडतो पण लाकूड तरंगते, याचे कारण काय?",
+      "answer": "दगडाची घनता पाण्यापेक्षा जास्त असते, तर लाकडाची घनता पाण्यापेक्षा कमी असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "Short Answer",
+      "question": "धूप जाळल्यावर सुगंध सर्वत्र का पसरतो?",
+      "answer": "धूप जाळल्यावर त्याचे वायू अवस्थेत रूपांतर होते आणि वायूचे कण हवेत सर्वत्र पसरतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "Short Answer",
+      "question": "ॲल्युमिनियमचे पत्रे छतासाठी का वापरतात?",
+      "answer": "ॲल्युमिनियम वजनाला हलके असते, त्याला गंज लागत नाही आणि ते वर्धनीय असते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "Short Answer",
+      "question": "तापमापीमध्ये पारा का वापरतात?",
+      "answer": "पारा उष्णतेला संवेदनशील असतो आणि तो काचेला चिकटत नाही, तसेच तो चकाकणारा असल्याने त्याचे वाचन सोपे जाते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "Short Answer",
+      "question": "निसर्गात पाणी किती अवस्थांमध्ये आढळते?",
+      "answer": "निसर्गात पाणी बर्फ (स्थायू), पाणी (द्रव) आणि बाष्प (वायू) या तिन्ही अवस्थांमध्ये आढळते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "Short Answer",
+      "question": "रबर हा स्थितिस्थापक पदार्थ का आहे?",
+      "answer": "कारण रबराला ओढल्यावर त्याचा आकार बदलतो आणि सोडून दिल्यावर तो पुन्हा स्वतःच्या मूळ आकारात येतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "Short Answer",
+      "question": "पदार्थाचे गुणधर्म कशावरून ठरतात?",
+      "answer": "पदार्थाचे गुणधर्म त्याच्या रासायनिक आणि भौतिक रचनेवरून ठरतात."
+    },
+    {
+      "question_id": 103,
+      "question_type": "Short Answer",
+      "question": "हवा आपल्याला डोळ्यांनी का दिसत नाही?",
+      "answer": "कारण हवा हा वायूंचा पारदर्शक संच आहे, ज्याला स्वतःचा रंग किंवा आकार नसतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "Short Answer",
+      "question": "विटा किंवा मातीचे भांडे बनवण्यासाठी कोणत्या गुणधर्माचा वापर होतो?",
+      "answer": "विटा किंवा भांडी भाजल्यानंतर त्यातील कणांची पकड घट्ट होते, ज्यामुळे त्या कठिण बनतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "Short Answer",
+      "question": "लोखंडी पत्रा उन्हात ठेवल्यास गरम का होतो?",
+      "answer": "लोखंड हा उष्णतेचा सुवाहक असल्याने तो सूर्याची उष्णता शोषून घेतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "Short Answer",
+      "question": "साखर पाण्यात विरघळल्यावर पाणी गोड का लागते?",
+      "answer": "साखरेचे कण पाण्यात सर्वत्र समान रीतीने पसरतात (विद्राव्यता), म्हणून पाणी गोड लागते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "Short Answer",
+      "question": "धातूंचा 'नाद' कशासाठी उपयोगी पडतो?",
+      "answer": "शाळेची घंटा किंवा वाद्यांच्या तारा बनवण्यासाठी धातूंच्या नादमयतेचा वापर होतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "Short Answer",
+      "question": "मेणबत्तीच्या वातीभोवतीचे मेण का वितळते?",
+      "answer": "ज्योतीच्या उष्णतेमुळे मेणाचा विलयनबिंदू गाठला जातो, त्यामुळे ते वितळते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "Short Answer",
+      "question": "शुद्ध पाण्याचे तापमान किती असते?",
+      "answer": "शुद्ध पाण्याचे तापमान सभोवतालच्या वातावरणावर अवलंबून असते, पण त्याचा उत्कलनबिंदू १००°C असतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "Short Answer",
+      "question": "लोखंडी खिळा पाण्यात बुडतो पण तेल पाण्यावर तरंगते, असे का?",
+      "answer": "लोखंडाची घनता पाण्यापेक्षा जास्त आहे, तर तेलाची घनता पाण्यापेक्षा कमी आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "Short Answer",
+      "question": "स्थायू पदार्थांचे कण एकमेकांच्या किती जवळ असतात?",
+      "answer": "स्थायू पदार्थांचे कण एकमेकांच्या खूप जवळ आणि घट्ट बांधलेले असतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "Short Answer",
+      "question": "पदार्थाच्या अवस्था बदलण्यासाठी काय द्यावे लागते?",
+      "answer": "पदार्थाच्या अवस्था बदलण्यासाठी उष्णता द्यावी लागते किंवा काढून घ्यावी लागते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "Short Answer",
+      "question": "काचेची बाटली फ्रीजरमध्ये का फुटते (पाणी भरलेली)?",
+      "answer": "पाण्याचे बर्फ होताना त्याचे आकारमान वाढते (प्रसरण), त्यामुळे बाटलीवर दाब पडून ती फुटते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "Short Answer",
+      "question": "पेट्रोल उघड्यावर ठेवल्यास काय होते?",
+      "answer": "पेट्रोलचे वेगाने बाष्पीभवन होते आणि ते हवेत निघून जाते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "Short Answer",
+      "question": "पदार्थाचे वस्तुमान म्हणजे काय?",
+      "answer": "पदार्थात असलेल्या द्रव्यसंचयाला त्याचे वस्तुमान म्हणतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "Short Answer",
+      "question": "पाणी कोणत्या तापमानाला सर्वाधिक घन असते?",
+      "answer": "पाणी ४°C तापमानाला सर्वाधिक घन असते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "Short Answer",
+      "question": "लोखंडाची सळई ठोकून लांब करता येते, हा कोणता गुणधर्म आहे?",
+      "answer": "हा वर्धनीयता आणि तन्यता या गुणधर्मांचा परिणाम आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "Short Answer",
+      "question": "चाकूला धार लावताना ठिणग्या का उडतात?",
+      "answer": "घर्षणामुळे उष्णता निर्माण होते आणि धातूचे सूक्ष्म कण पेट घेतात, म्हणून ठिणग्या उडतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "Short Answer",
+      "question": "फुग्यातील हवेला आकार असतो का?",
+      "answer": "हवेला स्वतःचा आकार नसतो, ती फुग्याचा आकार घेते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "Short Answer",
+      "question": "मीठ आणि वाळूचे मिश्रण कसे वेगळे कराल?",
+      "answer": "मिश्रण पाण्यात विरघळून वाळू गाळून घ्यावी आणि नंतर पाण्याचे बाष्पीभवन करून मीठ मिळवावे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "Short Answer",
+      "question": "विद्राव्य आणि विद्रावक म्हणजे काय?",
+      "answer": "जे विरघळते ते विद्राव्य (उदा. साखर) आणि ज्यात विरघळते तो विद्रावक (उदा. पाणी)."
+    },
+    {
+      "question_id": 122,
+      "question_type": "Short Answer",
+      "question": "धातूंची घनता सामान्यतः कशी असते?",
+      "answer": "धातूंची घनता इतर पदार्थांच्या तुलनेत जास्त असते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "Short Answer",
+      "question": "पाणी हे वैश्विक विद्रावक का आहे?",
+      "answer": "कारण पाण्यात बहुतेक सर्व प्रकारचे पदार्थ विरघळू शकतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "Short Answer",
+      "question": "हिरा हा निसर्गातील सर्वात कठिण पदार्थ का मानला जातो?",
+      "answer": "कारण हिऱ्याच्या अणूंची रचना अत्यंत घट्ट असते, ज्यामुळे त्याला ओरखडा काढणे कठीण असते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "Short Answer",
+      "question": "धातू गंजणे म्हणजे काय?",
+      "answer": "हवेतील ऑक्सिजन आणि ओलाव्याशी धातूची अभिक्रिया होऊन त्याचा पृष्ठभाग खराब होणे म्हणजे गंजणे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "Short Answer",
+      "question": "पदार्थाची स्थिती कशावर अवलंबून असते?",
+      "answer": "पदार्थाची स्थिती त्याच्या तापमानावर आणि दाबावर अवलंबून असते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "Short Answer",
+      "question": "लोखंडाचा उपयोग पूल बांधण्यासाठी का करतात?",
+      "answer": "कारण लोखंड मजबूत असते आणि ते मोठ्या प्रमाणात भार सहन करू शकते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "Short Answer",
+      "question": "चांदीचा वापर विद्युत तारांमध्ये का करत नाहीत?",
+      "answer": "चांदी विजेची उत्तम वाहक असली तरी ती खूप महाग आहे, म्हणून तांबे वापरतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "Short Answer",
+      "question": "स्थायू पदार्थाला दाब दिल्यावर त्याचे आकारमान बदलू शकते का?",
+      "answer": "नाही, स्थायू पदार्थाचे आकारमान दाब दिल्यावर सहजासहजी बदलत नाही."
+    },
+    {
+      "question_id": 130,
+      "question_type": "Short Answer",
+      "question": "बाष्पीभवनाचा वेग कशावर अवलंबून असतो?",
+      "answer": "बाष्पीभवनाचा वेग तापमान, वाऱ्याचा वेग आणि पृष्ठभागाचे क्षेत्रफळ यावर अवलंबून असतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "Short Answer",
+      "question": "अंश सेल्सिअस व्यतिरिक्त तापमान मोजण्याचे दुसरे एकक कोणते?",
+      "answer": "फॅरेनहाईट (°F) हे तापमान मोजण्याचे दुसरे एकक आहे."
+    },
+    {
+      "question_id": 132,
+      "question_type": "Short Answer",
+      "question": "बर्फ पाण्यावर का तरंगतो?",
+      "answer": "बर्फाची घनता पाण्यापेक्षा कमी असते, म्हणून तो तरंगतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "Short Answer",
+      "question": "पदार्थाचा रंग हा भौतिक गुणधर्म आहे की रासायनिक?",
+      "answer": "पदार्थाचा रंग हा भौतिक गुणधर्म आहे."
+    },
+    {
+      "question_id": 134,
+      "question_type": "Short Answer",
+      "question": "सोने शुद्ध आहे हे कसे ओळखतात?",
+      "answer": "सोन्याची शुद्धता कॅरेट (Carat) मध्ये मोजली जाते (उदा. २४ कॅरेट)."
+    },
+    {
+      "question_id": 135,
+      "question_type": "Short Answer",
+      "question": "लोखंडाची वस्तू गंजू नये म्हणून काय करतात?",
+      "answer": "लोखंडावर रंग लावतात किंवा झिंकचा थर (Galvanization) चढवतात."
+    },
+    {
+      "question_id": 136,
+      "question_type": "Short Answer",
+      "question": "हायड्रोजन वायूचा उपयोग कशासाठी होतो?",
+      "answer": "हायड्रोजनचा उपयोग प्रामुख्याने इंधन म्हणून आणि खते बनवण्यासाठी होतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "Short Answer",
+      "question": "ॲल्युमिनियमचे भांडे जास्त वेळ का टिकते?",
+      "answer": "ॲल्युमिनियमवर हवेचा परिणाम होऊन एक संरक्षक थर तयार होतो, ज्यामुळे ते गंजत नाही."
+    },
+    {
+      "question_id": 138,
+      "question_type": "Short Answer",
+      "question": "काचेचा शोध कसा लागला असावा?",
+      "answer": "वाळू आणि सोडा एकत्र येऊन आगीत वितळल्यामुळे काचेचा शोध लागला असावा असे मानले जाते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "Short Answer",
+      "question": "पावसात तांब्याची भांडी हिरवट का पडतात?",
+      "answer": "तांब्याची हवेतील कार्बन डायऑक्साइड आणि ओलाव्याशी अभिक्रिया होऊन तांब्याचे कार्बोनेट तयार होते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "Short Answer",
+      "question": "विजेच्या दिव्याचा फिलामेंट (तंतू) कोणत्या धातूचा असतो?",
+      "answer": "विजेच्या दिव्याचा फिलामेंट टंगस्टन (Tungsten) या धातूचा असतो."
+    },
+    {
+      "question_id": 141,
+      "question_type": "Short Answer",
+      "question": "मेणबत्ती जळताना कोणती ऊर्जा मिळते?",
+      "answer": "मेणबत्ती जळताना प्रकाश ऊर्जा आणि उष्णता ऊर्जा मिळते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "Short Answer",
+      "question": "खडूने फळ्यावर का लिहिता येते?",
+      "answer": "खडू ठिसूळ असतो आणि फळ्यावर घासल्यावर त्याचे कण फळ्याला चिकटतात."
+    },
+    {
+      "question_id": 143,
+      "question_type": "Short Answer",
+      "question": "नळातून येणारं पाणी उन्हाळ्यात गरम का लागतं?",
+      "answer": "लोखंडी पाईप उन्हामुळे गरम होतात आणि त्यातील पाणीही उष्णता शोषून गरम होते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "Short Answer",
+      "question": "कापूर जाळल्यावर अवशेष शिल्लक का राहत नाही?",
+      "answer": "कारण कापराचे पूर्णपणे वायू अवस्थेत रूपांतर (संप्लवन) होते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "Short Answer",
+      "question": "दही विरजणे हा भौतिक बदल आहे की रासायनिक?",
+      "answer": "दही विरजणे हा रासायनिक बदल आहे कारण त्यातून नवीन पदार्थ तयार होतो."
+    },
+    {
+      "question_id": 146,
+      "question_type": "Short Answer",
+      "question": "पाणी गरम केल्यावर त्याची चव बदलते का?",
+      "answer": "पाण्यातील विरघळलेले वायू बाहेर पडल्यामुळे चवीत थोडा फरक पडू शकतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "Short Answer",
+      "question": "लोखंडाचे चुंबक कसे बनवतात?",
+      "answer": "लोखंडावर चुंबक विशिष्ट पद्धतीने घासल्यास त्यात चुंबकत्व निर्माण होते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "Short Answer",
+      "question": "स्थायू पदार्थाचा आकार बदलण्यासाठी काय करावे लागते?",
+      "answer": "स्थायू पदार्थाचा आकार बदलण्यासाठी त्यावर पुरेसा दाब किंवा उष्णता द्यावी लागते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "Short Answer",
+      "question": "पदार्थांच्या अभ्यासाला काय म्हणतात?",
+      "answer": "पदार्थांच्या अभ्यासाला प्रामुख्याने रसायनशास्त्र (Chemistry) किंवा भौतिकशास्त्र (Physics) म्हणतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "Short Answer",
+      "question": "आपल्या सभोवतालचे पदार्थ कोणत्या घटकांनी बनलेले असतात?",
+      "answer": "आपल्या सभोवतालचे पदार्थ अत्यंत सूक्ष्म अणू आणि रेणूंनी बनलेले असतात."
+    }
+  ]
+}

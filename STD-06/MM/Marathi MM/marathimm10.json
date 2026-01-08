@@ -1,0 +1,329 @@
+{
+  "chapter_info": {
+    "chapter_number": "१०",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-२",
+    "sub_lesson_name": "सुगंधी सृष्टी"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "'सुगंधी सृष्टी' या पाठाचे लेखक कोण आहेत?",
+      "options": [
+        { "option_number": 1, "text": "ना. ग. गोरे", "is_correct": true },
+        { "option_number": 2, "text": "डॉ. गोविंद गारे", "is_correct": false },
+        { "option_number": 3, "text": "मंगेश पाडगावकर", "is_correct": false },
+        { "option_number": 4, "text": "वि. वा. शिरवाडकर", "is_correct": false }
+      ],
+      "answer": "ना. ग. गोरे"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "लेखक लहान असताना त्यांचे बिऱ्हाड पुण्यातील कोणत्या पेठेत होते?",
+      "options": [
+        { "option_number": 1, "text": "सदाशिव पेठ", "is_correct": false },
+        { "option_number": 2, "text": "शनिवार पेठ", "is_correct": true },
+        { "option_number": 3, "text": "नारायण पेठ", "is_correct": false },
+        { "option_number": 4, "text": "शुक्रवार पेठ", "is_correct": false }
+      ],
+      "answer": "शनिवार पेठ"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "लेखकाने मोगऱ्याचे कलम कशात लावले होते?",
+      "options": [
+        { "option_number": 1, "text": "मातीच्या कुंडीत", "is_correct": false },
+        { "option_number": 2, "text": "सिमेंटच्या कुंडीत", "is_correct": false },
+        { "option_number": 3, "text": "रॉकेलच्या रिकाम्या डब्यात", "is_correct": true },
+        { "option_number": 4, "text": "बागेतल्या जमिनीत", "is_correct": false }
+      ],
+      "answer": "रॉकेलच्या रिकाम्या डब्यात"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "फुलांचे दान म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "रंग, गंध आणि डौल दुसऱ्यावर उधळणे", "is_correct": true },
+        { "option_number": 2, "text": "फुले तोडून देवावर वाहणे", "is_correct": false },
+        { "option_number": 3, "text": "फुले विकणे", "is_correct": false },
+        { "option_number": 4, "text": "फुले सुकवणे", "is_correct": false }
+      ],
+      "answer": "रंग, गंध आणि डौल दुसऱ्यावर उधळणे"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "निशिगंधाचे दुसरे नाव काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "गुलछडी", "is_correct": true },
+        { "option_number": 2, "text": "मोगरा", "is_correct": false },
+        { "option_number": 3, "text": "सायली", "is_correct": false },
+        { "option_number": 4, "text": "जास्वंद", "is_correct": false }
+      ],
+      "answer": "गुलछडी"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "लेखकाच्या मते कोणते फूल स्वभावाने लाजाळू नाही?",
+      "options": [
+        { "option_number": 1, "text": "सायली", "is_correct": false },
+        { "option_number": 2, "text": "निशिगंध", "is_correct": true },
+        { "option_number": 3, "text": "गुलाब", "is_correct": false },
+        { "option_number": 4, "text": "प्राजक्त", "is_correct": false }
+      ],
+      "answer": "निशिगंध"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या फुलाचा वास मादक आणि गोड असतो?",
+      "options": [
+        { "option_number": 1, "text": "निशिगंध", "is_correct": true },
+        { "option_number": 2, "text": "मोगरा", "is_correct": false },
+        { "option_number": 3, "text": "गुलाब", "is_correct": false },
+        { "option_number": 4, "text": "झेंडू", "is_correct": false }
+      ],
+      "answer": "निशिगंध"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "मोगऱ्याच्या फुलाचा रंग कोणता असतो?",
+      "options": [
+        { "option_number": 1, "text": "लाल", "is_correct": false },
+        { "option_number": 2, "text": "पिवळा", "is_correct": false },
+        { "option_number": 3, "text": "पांढराशुभ्र", "is_correct": true },
+        { "option_number": 4, "text": "गुलाबी", "is_correct": false }
+      ],
+      "answer": "पांढराशुभ्र"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राजक्ताचे फूल जमिनीवर कधी पडते?",
+      "options": [
+        { "option_number": 1, "text": "दुपारी", "is_correct": false },
+        { "option_number": 2, "text": "संध्याकाळी", "is_correct": false },
+        { "option_number": 3, "text": "पहाटे", "is_correct": true },
+        { "option_number": 4, "text": "रात्री", "is_correct": false }
+      ],
+      "answer": "पहाटे"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "लेखकाने कोणाला 'फुलांच्या दुनियेतील राजपुत्र' म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "मोगरा", "is_correct": false },
+        { "option_number": 2, "text": "गुलाब", "is_correct": true },
+        { "option_number": 3, "text": "निशिगंध", "is_correct": false },
+        { "option_number": 4, "text": "सायली", "is_correct": false }
+      ],
+      "answer": "गुलाब"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "सायलीची वेल कशी असते?",
+      "options": [
+        { "option_number": 1, "text": "रागीट", "is_correct": false },
+        { "option_number": 2, "text": "नाजूक आणि सुंदर", "is_correct": true },
+        { "option_number": 3, "text": "काटेरी", "is_correct": false },
+        { "option_number": 4, "text": "खूप मोठी", "is_correct": false }
+      ],
+      "answer": "नाजूक आणि सुंदर"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "मोगऱ्याच्या कळ्या कधी उमलतात?",
+      "options": [
+        { "option_number": 1, "text": "सकाळी", "is_correct": false },
+        { "option_number": 2, "text": "दुपारी", "is_correct": false },
+        { "option_number": 3, "text": "संध्याकाळी", "is_correct": true },
+        { "option_number": 4, "text": "कधीही नाही", "is_correct": false }
+      ],
+      "answer": "संध्याकाळी"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणाला सुगंधी सृष्टीचे दर्शन घडवायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "लेखकाला", "is_correct": true },
+        { "option_number": 2, "text": "प्राण्यांना", "is_correct": false },
+        { "option_number": 3, "text": "पक्ष्यांना", "is_correct": false },
+        { "option_number": 4, "text": "शत्रूंना", "is_correct": false }
+      ],
+      "answer": "लेखकाला"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "गुलाबाच्या झाडावर काय असतात?",
+      "options": [
+        { "option_number": 1, "text": "वेल", "is_correct": false },
+        { "option_number": 2, "text": "काटे", "is_correct": true },
+        { "option_number": 3, "text": "फळे", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "काटे"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "लेखकाने कोणाचे कलम मिळवले होते?",
+      "options": [
+        { "option_number": 1, "text": "आंब्याचे", "is_correct": false },
+        { "option_number": 2, "text": "गुलाबाचे", "is_correct": false },
+        { "option_number": 3, "text": "मोगऱ्याचे", "is_correct": true },
+        { "option_number": 4, "text": "संत्र्याचे", "is_correct": false }
+      ],
+      "answer": "मोगऱ्याचे"
+    },
+    { "question_number": 16, "question_type": "बहुपर्यायी", "question": "निशिगंधाचे फूल कोणत्या वेळी जास्त सुवास देते?", "options": [{ "option_number": 1, "text": "दुपारी", "is_correct": false }, { "option_number": 2, "text": "रात्री", "is_correct": true }], "answer": "रात्री" },
+    { "question_number": 17, "question_type": "बहुपर्यायी", "question": "सुगंधी झाडे लावताना कशाची आवश्यकता असते?", "options": [{ "option_number": 1, "text": "जागा आणि मेहनत", "is_correct": true }, { "option_number": 2, "text": "फक्त पैसा", "is_correct": false }], "answer": "जागा आणि मेहनत" },
+    { "question_number": 18, "question_type": "बहुपर्यायी", "question": "ना. ग. गोरे कोणत्या चळवळीत होते?", "options": [{ "option_number": 1, "text": "स्वातंत्र्यलढा", "is_correct": true }, { "option_number": 2, "text": "कामगार चळवळ", "is_correct": false }], "answer": "स्वातंत्र्यलढा" },
+    { "question_number": 19, "question_type": "बहुपर्यायी", "question": "सायलीच्या फुलांचा वास कसा असतो?", "options": [{ "option_number": 1, "text": "उग्र", "is_correct": false }, { "option_number": 2, "text": "मंद आणि मधुर", "is_correct": true }], "answer": "मंद आणि मधुर" },
+    { "question_number": 20, "question_type": "बहुपर्यायी", "question": "प्राजक्ताच्या फुलाचे देठ कोणत्या रंगाचे असते?", "options": [{ "option_number": 1, "text": "लाल", "is_correct": false }, { "option_number": 2, "text": "नारिंगी", "is_correct": true }], "answer": "नारिंगी" },
+    { "question_number": 21, "question_type": "बहुपर्यायी", "question": "गुणवाचक विशेषण ओळखा: 'हिरवागार पोपट'", "options": [{ "option_number": 1, "text": "पोपट", "is_correct": false }, { "option_number": 2, "text": "हिरवागार", "is_correct": true }], "answer": "हिरवागार" },
+    { "question_number": 22, "question_type": "बहुपर्यायी", "question": "संख्यावाचक विशेषण ओळखा: 'दोन फुले'", "options": [{ "option_number": 1, "text": "दोन", "is_correct": true }, { "option_number": 2, "text": "फुले", "is_correct": false }], "answer": "दोन" },
+    { "question_number": 23, "question_type": "बहुपर्यायी", "question": "सार्वनामिक विशेषण ओळखा: 'माझी वही'", "options": [{ "option_number": 1, "text": "माझी", "is_correct": true }, { "option_number": 2, "text": "वही", "is_correct": false }], "answer": "माझी" },
+    { "question_number": 24, "question_type": "बहुपर्यायी", "question": "मोगऱ्याचे फूल कोणत्या ऋतूत जास्त फुलते?", "options": [{ "option_number": 1, "text": "हिवाळा", "is_correct": false }, { "option_number": 2, "text": "उन्हाळा", "is_correct": true }], "answer": "उन्हाळा" },
+    { "question_number": 25, "question_type": "बहुपर्यायी", "question": "कोणते फूल देवाला प्रिय मानले जाते?", "options": [{ "option_number": 1, "text": "धोतऱ्याचे", "is_correct": false }, { "option_number": 2, "text": "प्राजक्ताचे", "is_correct": true }], "answer": "प्राजक्ताचे" },
+    { "question_number": 26, "question_type": "बहुपर्यायी", "question": "लेखकाचे लहानपण कोठे गेले?", "options": [{ "option_number": 1, "text": "मुंबई", "is_correct": false }, { "option_number": 2, "text": "पुणे", "is_correct": true }], "answer": "पुणे" },
+    { "question_number": 27, "question_type": "बहुपर्यायी", "question": "रॉकेलचा डबा कशासाठी वापरला?", "options": [{ "option_number": 1, "text": "स्वयंपाकासाठी", "is_correct": false }, { "option_number": 2, "text": "मोगरा लावण्यासाठी", "is_correct": true }], "answer": "मोगरा लावण्यासाठी" },
+    { "question_number": 28, "question_type": "बहुपर्यायी", "question": "'सीतेचे पोहे' हे पुस्तक कोणी लिहिले?", "options": [{ "option_number": 1, "text": "ना. ग. गोरे", "is_correct": true }, { "option_number": 2, "text": "गोविंद गारे", "is_correct": false }], "answer": "ना. ग. गोरे" },
+    { "question_number": 29, "question_type": "बहुपर्यायी", "question": "फुलांची देण्याची वृत्ती म्हणजे काय?", "options": [{ "option_number": 1, "text": "स्वार्थ", "is_correct": false }, { "option_number": 2, "text": "दान", "is_correct": true }], "answer": "दान" },
+    { "question_number": 30, "question_type": "बहुपर्यायी", "question": "कशाच्या सुगंधाने आपण मोहित होतो?", "options": [{ "option_number": 1, "text": "फुलांच्या", "is_correct": true }, { "option_number": 2, "text": "धूराच्या", "is_correct": false }], "answer": "फुलांच्या" },
+    { "question_number": 31, "question_type": "बहुपर्यायी", "question": "लेखकाने मोगऱ्याला काय म्हटले आहे?", "options": [{ "option_number": 1, "text": "सुगंधी राजा", "is_correct": false }, { "option_number": 2, "text": "पांढरा दूत", "is_correct": true }], "answer": "पांढरा दूत" },
+    { "question_number": 32, "question_type": "बहुपर्यायी", "question": "निशिगंधाची दांडी कशी असते?", "options": [{ "option_number": 1, "text": "हिरवीगार आणि ताठ", "is_correct": true }, { "option_number": 2, "text": "लाल आणि वाकडी", "is_correct": false }], "answer": "हिरवीगार आणि ताठ" },
+    { "question_number": 33, "question_type": "बहुपर्यायी", "question": "मोगऱ्याची कळी उमलताना काय होते?", "options": [{ "option_number": 1, "text": "आवाज होतो", "is_correct": false }, { "option_number": 2, "text": "सुगंध दरवळतो", "is_correct": true }], "answer": "सुगंध दरवळतो" },
+    { "question_number": 34, "question_type": "बहुपर्यायी", "question": "लेखकाच्या मते फुले काय करतात?", "options": [{ "option_number": 1, "text": "आनंद देतात", "is_correct": true }, { "option_number": 2, "text": "त्रास देतात", "is_correct": false }], "answer": "आनंद देतात" },
+    { "question_number": 35, "question_type": "बहुपर्यायी", "question": "'चिनारच्या छायेत' हा काय आहे?", "options": [{ "option_number": 1, "text": "ललित लेख संग्रह", "is_correct": true }, { "option_number": 2, "text": "कविता संग्रह", "is_correct": false }], "answer": "ललित लेख संग्रह" },
+    { "question_number": 36, "question_type": "बहुपर्यायी", "question": "कशाची सुट्टी सुगंधी असते?", "options": [{ "option_number": 1, "text": "पाठाच्या शीर्षकानुसार सुट्टी सुगंधी आहे", "is_correct": true }, { "option_number": 2, "text": "शाळेची", "is_correct": false }], "answer": "पाठाच्या शीर्षकानुसार सुट्टी सुगंधी आहे" },
+    { "question_number": 37, "question_type": "बहुपर्यायी", "question": "गुलाब कोणाचे प्रतीक मानले जाते?", "options": [{ "option_number": 1, "text": "सौंदर्याचे", "is_correct": true }, { "option_number": 2, "text": "भीतीचे", "is_correct": false }], "answer": "सौंदर्याचे" },
+    { "question_number": 38, "question_type": "बहुपर्यायी", "question": "मोगऱ्याचे कलम लावण्यासाठी कोणती पेठ होती?", "options": [{ "option_number": 1, "text": "शनिवार पेठ", "is_correct": true }, { "option_number": 2, "text": "गणेश पेठ", "is_correct": false }], "answer": "शनिवार पेठ" },
+    { "question_number": 39, "question_type": "बहुपर्यायी", "question": "लेखक रोज कुंडीपाशी का जायचे?", "options": [{ "option_number": 1, "text": "कळी फुलेपर्यंत पाहण्यासाठी", "is_correct": true }, { "option_number": 2, "text": "पाणी पिण्यासाठी", "is_correct": false }], "answer": "कळी फुलेपर्यंत पाहण्यासाठी" },
+    { "question_number": 40, "question_type": "बहुपर्यायी", "question": "सुगंधांत काय दरवळते?", "options": [{ "option_number": 1, "text": "आनंद", "is_correct": true }, { "option_number": 2, "text": "धूळ", "is_correct": false }], "answer": "आनंद" },
+    { "question_number": 41, "question_type": "बहुपर्यायी", "question": "ना. ग. गोरे यांचा मृत्यू कधी झाला?", "options": [{ "option_number": 1, "text": "१९९३", "is_correct": true }, { "option_number": 2, "text": "१९९०", "is_correct": false }], "answer": "१९९३" },
+    { "question_number": 42, "question_type": "बहुपर्यायी", "question": "कोणते झाड लावणे मेहनतीचे असते?", "options": [{ "option_number": 1, "text": "गुलाब", "is_correct": true }, { "option_number": 2, "text": "गवत", "is_correct": false }], "answer": "गुलाब" },
+    { "question_number": 43, "question_type": "बहुपर्यायी", "question": "मोगऱ्याचा सुवास कसा असतो?", "options": [{ "option_number": 1, "text": "प्रसन्न करणारा", "is_correct": true }, { "option_number": 2, "text": "अस्वस्थ करणारा", "is_correct": false }], "answer": "प्रसन्न करणारा" },
+    { "question_number": 44, "question_type": "बहुपर्यायी", "question": "जमिनीत कोणते झाड लावतात?", "options": [{ "option_number": 1, "text": "फुलझाडे", "is_correct": true }, { "option_number": 2, "text": "काचेची झाडे", "is_correct": false }], "answer": "फुलझाडे" },
+    { "question_number": 45, "question_type": "बहुपर्यायी", "question": "लेखकाच्या लेखनाची वैशिष्ट्ये काय आहेत?", "options": [{ "option_number": 1, "text": "चिंतनशीलता", "is_correct": true }, { "option_number": 2, "text": "विनोदी", "is_correct": false }], "answer": "चिंतनशीलता" },
+    { "question_number": 46, "question_type": "बहुपर्यायी", "question": "सायलीचे फूल कोणत्या ऋतूत येते?", "options": [{ "option_number": 1, "text": "वसंत", "is_correct": true }, { "option_number": 2, "text": "वर्षा", "is_correct": false }], "answer": "वसंत" },
+    { "question_number": 47, "question_type": "बहुपर्यायी", "question": "फुलांचा रंग कसा असतो?", "options": [{ "option_number": 1, "text": "विविध", "is_correct": true }, { "option_number": 2, "text": "फक्त एकच", "is_correct": false }], "answer": "विविध" },
+    { "question_number": 48, "question_type": "बहुपर्यायी", "question": "लेखकाने बागेत काय केले?", "options": [{ "option_number": 1, "text": "प्रयोग", "is_correct": true }, { "option_number": 2, "text": "कामचोरी", "is_correct": false }], "answer": "प्रयोग" },
+    { "question_number": 49, "question_type": "बहुपर्यायी", "question": "सुट्टी कशी घालवावी?", "options": [{ "option_number": 1, "text": "निसर्गाच्या सानिध्यात", "is_correct": true }, { "option_number": 2, "text": "फक्त झोपून", "is_correct": false }], "answer": "निसर्गाच्या सानिध्यात" },
+    { "question_number": 50, "question_type": "बहुपर्यायी", "question": "पाठाचा मुख्य संदेश काय?", "options": [{ "option_number": 1, "text": "निसर्ग संवर्धन", "is_correct": true }, { "option_number": 2, "text": "केवळ अभ्यास", "is_correct": false }], "answer": "निसर्ग संवर्धन" }
+  ],
+  "one_word_questions (५१-१५०)": [
+    { "question_number": 51, "question": "सुगंधी सृष्टी पाठाचे लेखक कोण?", "answer": "ना. ग. गोरे" },
+    { "question_number": 52, "question": "लेखकाचा जन्म कधी झाला?", "answer": "१९०७" },
+    { "question_number": 53, "question": "लेखकाचा मृत्यू कधी झाला?", "answer": "१९९३" },
+    { "question_number": 54, "question": "मोगरा कशात लावला होता?", "answer": "डब्यात" },
+    { "question_number": 55, "question": "लेखकाचे बिऱ्हाड कोठे होते?", "answer": "पुण्यात" },
+    { "question_number": 56, "question": "कलम कशाचे होते?", "answer": "मोगऱ्याचे" },
+    { "question_number": 57, "question": "पेठ कोणती होती?", "answer": "शनिवार" },
+    { "question_number": 58, "question": "फूल कशावर दरवळते?", "answer": "गंधावर" },
+    { "question_number": 59, "question": "निशिगंधाचे दुसरे नाव काय?", "answer": "गुलछडी" },
+    { "question_number": 60, "question": "नाजूक वेल कोणती?", "answer": "सायली" },
+    { "question_number": 61, "question": "राजपुत्र कोणाला म्हटले आहे?", "answer": "गुलाबाला" },
+    { "question_number": 62, "question": "प्राजक्ताचे फूल कोठे पडते?", "answer": "जमिनीवर" },
+    { "question_number": 63, "question": "पांढरा रंग कोणाचा?", "answer": "मोगऱ्याचा" },
+    { "question_number": 64, "question": "नारिंगी देठ कोणाचे?", "answer": "प्राजक्ताचे" },
+    { "question_number": 65, "question": "मादक वास कोणाचा?", "answer": "निशिगंधाचा" },
+    { "question_number": 66, "question": "लेखक कशाकडे संवेदनशीलतेने बघतात?", "answer": "सृष्टिसौंदर्याकडे" },
+    { "question_number": 67, "question": "मोगरा कधी फुलतो?", "answer": "उन्हाळ्यात" },
+    { "question_number": 68, "question": "कोणते फूल लाजाळू नाही?", "answer": "निशिगंध" },
+    { "question_number": 69, "question": "हिरवी दांडी कोणाची असते?", "answer": "निशिगंधाची" },
+    { "question_number": 70, "question": "पांढरी शुभ्र फुले कोणाची?", "answer": "मोगऱ्याची" },
+    { "question_number": 71, "question": "फुलांचे दान म्हणजे काय?", "answer": "सुगंध" },
+    { "question_number": 72, "question": "लेखकाचे नाव काय?", "answer": "नानासाहेब" },
+    { "question_number": 73, "question": "कशाची सृष्टी सुगंधी आहे?", "answer": "फुलांची" },
+    { "question_number": 74, "question": "कोणते फूल सर्वात आधी फुलले?", "answer": "मोगरा" },
+    { "question_number": 75, "question": "कुंडी कशाची होती?", "answer": "डब्याची" },
+    { "question_number": 76, "question": "लेखक रोज कितीदा कुंडीपाशी जायचे?", "answer": "दहादा" },
+    { "question_number": 77, "question": "सायलीचे फूल कोणत्या ऋतूत येते?", "answer": "वसंत" },
+    { "question_number": 78, "question": "गुलाबाला काय असतात?", "answer": "काटे" },
+    { "question_number": 79, "question": "सुगंधाचा उत्सव म्हणजे काय?", "answer": "बहर" },
+    { "question_number": 80, "question": "लेखकाने कोणाला पत्र लिहिले? (संदर्भानुसार)", "answer": "मित्राला" },
+    { "question_number": 81, "question": "निशिगंध कोणत्या वेळी उमलतो?", "answer": "रात्री" },
+    { "question_number": 82, "question": "मंद वास कोणाचा?", "answer": "सायलीचा" },
+    { "question_number": 83, "question": "देठ कोणत्या रंगाचे असते?", "answer": "नारिंगी" },
+    { "question_number": 84, "question": "प्राजक्त कधी फुलतो?", "answer": "रात्री" },
+    { "question_number": 85, "question": "लेखकाच्या लेखनाचे नाव काय?", "answer": "ललित" },
+    { "question_number": 86, "question": "पेनचे नाव काय? (विशेषण भागात)", "answer": "अविनाश" },
+    { "question_number": 87, "question": "सूर्यकिरण किती असतात?", "answer": "सहस्र" },
+    { "question_number": 88, "question": "आनंद कसा झाला?", "answer": "द्विगुणित" },
+    { "question_number": 89, "question": "चपात्या किती खाल्ल्या?", "answer": "पाच" },
+    { "question_number": 90, "question": "भाषा किती येतात?", "answer": "पाच" },
+    { "question_number": 91, "question": "बेडूक कसे उडाले?", "answer": "एकेक" },
+    { "question_number": 92, "question": "वही कोणाची?", "answer": "माझी" },
+    { "question_number": 93, "question": "रुमाल कोणाचा?", "answer": "त्याचा" },
+    { "question_number": 94, "question": "पेढा कोणता?", "answer": "कोणता" },
+    { "question_number": 95, "question": "मैत्रिणी कोण?", "answer": "आम्ही" },
+    { "question_number": 96, "question": "विशेषण कोणते? 'हुशार कावळा'", "answer": "हुशार" },
+    { "question_number": 97, "question": "नामाला काय लावतात?", "answer": "विशेषण" },
+    { "question_number": 98, "question": "आंबट काय आहे?", "answer": "बोरे" },
+    { "question_number": 99, "question": "इमारत कशी आहे?", "answer": "उंच" },
+    { "question_number": 100, "question": "खडक कोणत्या रंगाचा?", "answer": "काळा" },
+    { "question_number": 101, "question": "मोगरा कोठे लावला?", "answer": "पत्रावर" },
+    { "question_number": 102, "question": "रोपट्याची उंची किती होती?", "answer": "हातभर" },
+    { "question_number": 103, "question": "पहिली काय मोहरली?", "answer": "कळी" },
+    { "question_number": 104, "question": "वास कसा होता?", "answer": "सुगंधी" },
+    { "question_number": 105, "question": "लेखक काय बनले?", "answer": "स्वातंत्र्यसैनिक" },
+    { "question_number": 106, "question": "कोणता डबा होता?", "answer": "रॉकेलचा" },
+    { "question_number": 107, "question": "मोगऱ्याची फुले कशी?", "answer": "लहान" },
+    { "question_number": 108, "question": "निशिगंधाची फुले कशी?", "answer": "ताठ" },
+    { "question_number": 109, "question": "प्राजक्ताची फुले कोठे?", "answer": "अंगणात" },
+    { "question_number": 110, "question": "गंधाचे काय होते?", "answer": "दान" },
+    { "question_number": 111, "question": "कशाची मेहनत घ्यावी लागते?", "answer": "गुलाबाची" },
+    { "question_number": 112, "question": "जागा कोणाला लागते?", "answer": "झाडांना" },
+    { "question_number": 113, "question": "रंग कोणाला असतो?", "answer": "फुलांना" },
+    { "question_number": 114, "question": "डौल कोणाला असतो?", "answer": "मोगऱ्याला" },
+    { "question_number": 115, "question": "लेखकाचे पूर्ण नाव काय?", "answer": "नानासाहेब गोरे" },
+    { "question_number": 116, "question": "फुले काय उधळतात?", "answer": "गंध" },
+    { "question_number": 117, "question": "बिऱ्हाड म्हणजे काय?", "answer": "कुटुंब" },
+    { "question_number": 118, "question": "मोगरा कोठून आणला?", "answer": "कलम" },
+    { "question_number": 119, "question": "शनिवार पेठ कोठे आहे?", "answer": "पुणे" },
+    { "question_number": 120, "question": "पांढरा दूत कोणाला म्हटले?", "answer": "मोगऱ्याला" },
+    { "question_number": 121, "question": "गुलछडी कोणाचे नाव?", "answer": "निशिगंधाचे" },
+    { "question_number": 122, "question": "देठ कोणत्या रंगाचे?", "answer": "नारिंगी" },
+    { "question_number": 123, "question": "गारवा कसा आहे?", "answer": "कोवळा" },
+    { "question_number": 124, "question": "सुगंध कोठे आहे?", "answer": "सृष्टीत" },
+    { "question_number": 125, "question": "वेल कोणाची?", "answer": "सायलीची" },
+    { "question_number": 126, "question": "काटे कोणाला असतात?", "answer": "गुलाबाला" },
+    { "question_number": 127, "question": "राजपुत्र कोण?", "answer": "गुलाब" },
+    { "question_number": 128, "question": "झेंडे कोणाचे?", "answer": "फुलांचे" },
+    { "question_number": 129, "question": "सृष्टी कशी आहे?", "answer": "सुगंधी" },
+    { "question_number": 130, "question": "मेहनत कशासाठी?", "answer": "झाडांसाठी" },
+    { "question_number": 131, "question": "सुट्टी कशी आहे?", "answer": "सुगंधी" },
+    { "question_number": 132, "question": "लेखक कोण होते?", "answer": "वक्ते" },
+    { "question_number": 133, "question": "कोणता लेख संग्रह प्रसिद्ध आहे?", "answer": "डाली" },
+    { "question_number": 134, "question": "सृष्टिसौंदर्य कोणाला आवडते?", "answer": "लेखकाला" },
+    { "question_number": 135, "question": "मोगरा कोठे लावला होता?", "answer": "पत्रावर" },
+    { "question_number": 136, "question": "डबा कशाचा होता?", "answer": "रॉकेलचा" },
+    { "question_number": 137, "question": "कलम म्हणजे काय?", "answer": "फांदी" },
+    { "question_number": 138, "question": "सुगंधाचा पाऊस कोठे पडतो?", "answer": "बागेत" },
+    { "question_number": 139, "question": "फुले कोणासाठी फुलतात?", "answer": "दुसऱ्यासाठी" },
+    { "question_number": 140, "question": "लेखकाने बागेला काय दिले?", "answer": "वेळ" },
+    { "question_number": 141, "question": "विशेषण कोणते? 'मोठी बाग'", "answer": "मोठी" },
+    { "question_number": 142, "question": "नाम कोणते? 'लाल गुलाब'", "answer": "गुलाब" },
+    { "question_number": 143, "question": "सार्वनामिक विशेषण कोणते? 'त्याचे घर'", "answer": "त्याचे" },
+    { "question_number": 144, "question": "गुणवाचक विशेषण कोणते? 'गोड आंबा'", "answer": "गोड" },
+    { "question_number": 145, "question": "संख्यावाचक विशेषण कोणते? 'दहा मुले'", "answer": "दहा" },
+    { "question_number": 146, "question": "निशिगंधाचा रंग कोणता?", "answer": "पांढरा" },
+    { "question_number": 147, "question": "मोगरा कोणत्या वेळी फुलतो?", "answer": "रात्री" },
+    { "question_number": 148, "question": "प्राजक्त कधी गळतो?", "answer": "पहाटे" },
+    { "question_number": 149, "question": "फुलांचे कार्य काय?", "answer": "देणे" },
+    { "question_number": 150, "question": "पाठाचे नाव काय?", "answer": "सुगंधी सृष्टी" }
+  ]
+}

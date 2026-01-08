@@ -1,0 +1,715 @@
+{
+  "chapter_info": {
+    "chapter_number": "१९",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-२",
+    "sub_lesson_name": "मले बाजाराला जायाचं बाई!"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "multiple_choice",
+      "question": "'मले बाजाराला जायाचं बाई!' या पाठाच्या लेखिका कोण आहेत?",
+      "options": [
+        { "option_number": 1, "text": "शांता शेळके", "is_correct": false },
+        { "option_number": 2, "text": "प्रभा र. बैकर", "is_correct": true },
+        { "option_number": 3, "text": "विठाबाई पाटील", "is_correct": false },
+        { "option_number": 4, "text": "बहिणाबाई चौधरी", "is_correct": false }
+      ],
+      "answer": "प्रभा र. बैकर"
+    },
+    {
+      "question_number": 2,
+      "question_type": "multiple_choice",
+      "question": "हा पाठ साहित्याच्या कोणत्या प्रकारात मोडतो?",
+      "options": [
+        { "option_number": 1, "text": "कथा", "is_correct": false },
+        { "option_number": 2, "text": "पथनाट्य", "is_correct": true },
+        { "option_number": 3, "text": "प्रवासवर्णन", "is_correct": false },
+        { "option_number": 4, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "पथनाट्य"
+    },
+    {
+      "question_number": 3,
+      "question_type": "multiple_choice",
+      "question": "लेखिका प्रभा र. बैकर यांचा जन्म कोणत्या वर्षी झाला?",
+      "options": [
+        { "option_number": 1, "text": "१९४०", "is_correct": false },
+        { "option_number": 2, "text": "१९४८", "is_correct": true },
+        { "option_number": 3, "text": "१९५५", "is_correct": false },
+        { "option_number": 4, "text": "१९३८", "is_correct": false }
+      ],
+      "answer": "१९४८"
+    },
+    {
+      "question_number": 4,
+      "question_type": "multiple_choice",
+      "question": "बाई बाजाराला जाण्यास का नकार देत आहे?",
+      "options": [
+        { "option_number": 1, "text": "ती आजारी आहे", "is_correct": false },
+        { "option_number": 2, "text": "तिच्याकडे पैसे नाहीत", "is_correct": false },
+        { "option_number": 3, "text": "प्लॅस्टिकच्या वापरामुळे होणाऱ्या नुकसानामुळे", "is_correct": true },
+        { "option_number": 4, "text": "तिला कंटाळा आला आहे", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिकच्या वापरामुळे होणाऱ्या नुकसानामुळे"
+    },
+    {
+      "question_number": 5,
+      "question_type": "multiple_choice",
+      "question": "संसाराला लागणाऱ्या वस्तूंमध्ये कशाचा उल्लेख नाही?",
+      "options": [
+        { "option_number": 1, "text": "डाळ, तांदूळ", "is_correct": false },
+        { "option_number": 2, "text": "साबण, कपडे", "is_correct": false },
+        { "option_number": 3, "text": "भाजीपाला", "is_correct": false },
+        { "option_number": 4, "text": "विमान", "is_correct": true }
+      ],
+      "answer": "विमान"
+    },
+    {
+      "question_number": 6,
+      "question_type": "multiple_choice",
+      "question": "लोक बाजारात वस्तू कशात घालून आणतात?",
+      "options": [
+        { "option_number": 1, "text": "कापडी पिशवीत", "is_correct": false },
+        { "option_number": 2, "text": "कॅरीबॅगमध्ये (प्लॅस्टिक)", "is_correct": true },
+        { "option_number": 3, "text": "टोपलीत", "is_correct": false },
+        { "option_number": 4, "text": "हातात", "is_correct": false }
+      ],
+      "answer": "कॅरीबॅगमध्ये (प्लॅस्टिक)"
+    },
+    {
+      "question_number": 7,
+      "question_type": "multiple_choice",
+      "question": "टाकून दिलेल्या कॅरीबॅगमुळे काय होते?",
+      "options": [
+        { "option_number": 1, "text": "गटारी आणि नाल्या तुंबतात", "is_correct": true },
+        { "option_number": 2, "text": "रस्ते स्वच्छ होतात", "is_correct": false },
+        { "option_number": 3, "text": "झाडे वाढतात", "is_correct": false },
+        { "option_number": 4, "text": "पाऊस पडतो", "is_correct": false }
+      ],
+      "answer": "गटारी आणि नाल्या तुंबतात"
+    },
+    {
+      "question_number": 8,
+      "question_type": "multiple_choice",
+      "question": "गटारे तुंबल्यामुळे सांडपाणी कोठे येते?",
+      "options": [
+        { "option_number": 1, "text": "बागेत", "is_correct": false },
+        { "option_number": 2, "text": "रस्त्यांवर", "is_correct": true },
+        { "option_number": 3, "text": "नदीत", "is_correct": false },
+        { "option_number": 4, "text": "विहिरीत", "is_correct": false }
+      ],
+      "answer": "रस्त्यांवर"
+    },
+    {
+      "question_number": 9,
+      "question_type": "multiple_choice",
+      "question": "बाईची 'हरणी' कोण होती?",
+      "options": [
+        { "option_number": 1, "text": "ती एक शेळी होती", "is_correct": false },
+        { "option_number": 2, "text": "ती दुधाची म्हैस होती", "is_correct": true },
+        { "option_number": 3, "text": "ती तिची मुलगी होती", "is_correct": false },
+        { "option_number": 4, "text": "ती तिची मैत्रीण होती", "is_correct": false }
+      ],
+      "answer": "ती दुधाची म्हैस होती"
+    },
+    {
+      "question_number": 10,
+      "question_type": "multiple_choice",
+      "question": "हरणीचा मृत्यू कशामुळे झाला?",
+      "options": [
+        { "option_number": 1, "text": "म्हातारपणामुळे", "is_correct": false },
+        { "option_number": 2, "text": "प्लॅस्टिकच्या कॅरीबॅगा खाल्ल्यामुळे", "is_correct": true },
+        { "option_number": 3, "text": "आजारी पडल्यामुळे", "is_correct": false },
+        { "option_number": 4, "text": "विहिरीत पडल्यामुळे", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिकच्या कॅरीबॅगा खाल्ल्यामुळे"
+    },
+    {
+      "question_number": 11,
+      "question_type": "multiple_choice",
+      "question": "हरणी मेल्यावर कोणाचे हाल झाले?",
+      "options": [
+        { "option_number": 1, "text": "शेजाऱ्यांचे", "is_correct": false },
+        { "option_number": 2, "text": "तिच्या लहान रेडकाचे", "is_correct": true },
+        { "option_number": 3, "text": "गावातील मुलांचे", "is_correct": false },
+        { "option_number": 4, "text": "सरकारचे", "is_correct": false }
+      ],
+      "answer": "तिच्या लहान रेडकाचे"
+    },
+    {
+      "question_number": 12,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिक जमिनीत गाडले तर काय होते?",
+      "options": [
+        { "option_number": 1, "text": "जमीन सुपीक होते", "is_correct": false },
+        { "option_number": 2, "text": "जमीन नापीक होते आणि पीक येत नाही", "is_correct": true },
+        { "option_number": 3, "text": "पाणी वाढते", "is_correct": false },
+        { "option_number": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "जमीन नापीक होते आणि पीक येत नाही"
+    },
+    {
+      "question_number": 13,
+      "question_type": "multiple_choice",
+      "question": "समुद्रातील कोणत्या जीवांना प्लॅस्टिकमुळे धोका निर्माण झाला आहे?",
+      "options": [
+        { "option_number": 1, "text": "कासव आणि मासे", "is_correct": true },
+        { "option_number": 2, "text": "पक्षी", "is_correct": false },
+        { "option_number": 3, "text": "बेडूक", "is_correct": false },
+        { "option_number": 4, "text": "उंदीर", "is_correct": false }
+      ],
+      "answer": "कासव आणि मासे"
+    },
+    {
+      "question_number": 14,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिक जाळल्यामुळे कोणता वायू तयार होतो?",
+      "options": [
+        { "option_number": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_number": 2, "text": "विषारी वायू", "is_correct": true },
+        { "option_number": 3, "text": "थंडावा देणारा वायू", "is_correct": false },
+        { "option_number": 4, "text": "सुगंधी वायू", "is_correct": false }
+      ],
+      "answer": "विषारी वायू"
+    },
+    {
+      "question_number": 15,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकच्या अतिवापरामुळे कोणाचा ऱ्हास होत आहे?",
+      "options": [
+        { "option_number": 1, "text": "गावाचा", "is_correct": false },
+        { "option_number": 2, "text": "पर्यावरणाचा", "is_correct": true },
+        { "option_number": 3, "text": "दुकानाचा", "is_correct": false },
+        { "option_number": 4, "text": "पैशांचा", "is_correct": false }
+      ],
+      "answer": "पर्यावरणाचा"
+    },
+    {
+      "question_number": 16,
+      "question_type": "multiple_choice",
+      "question": "लेखिकेने कोणता बहुमोल संदेश दिला आहे?",
+      "options": [
+        { "option_number": 1, "text": "खूप खरेदी करा", "is_correct": false },
+        { "option_number": 2, "text": "प्लॅस्टिक टाळा, पृथ्वी वाचवा!", "is_correct": true },
+        { "option_number": 3, "text": "बाहेर जाऊ नका", "is_correct": false },
+        { "option_number": 4, "text": "प्राणी पाळू नका", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिक टाळा, पृथ्वी वाचवा!"
+    },
+    {
+      "question_number": 17,
+      "question_type": "multiple_choice",
+      "question": "पथनाट्य कोणत्या अंगाने जाणारे आहे?",
+      "options": [
+        { "option_number": 1, "text": "कीर्तनाच्या", "is_correct": false },
+        { "option_number": 2, "text": "भारुडाच्या", "is_correct": true },
+        { "option_number": 3, "text": "पोवाड्याच्या", "is_correct": false },
+        { "option_number": 4, "text": "गवळणीच्या", "is_correct": false }
+      ],
+      "answer": "भारुडाच्या"
+    },
+    {
+      "question_number": 18,
+      "question_type": "multiple_choice",
+      "question": "बाजारात जाताना सोबत काय न्यायला हवे?",
+      "options": [
+        { "option_number": 1, "text": "कापडी पिशवी", "is_correct": true },
+        { "option_number": 2, "text": "प्लॅस्टिक कॅरीबॅग", "is_correct": false },
+        { "option_number": 3, "text": "काहीच नाही", "is_correct": false },
+        { "option_number": 4, "text": "फक्त पैसे", "is_correct": false }
+      ],
+      "answer": "कापडी पिशवी"
+    },
+    {
+      "question_number": 19,
+      "question_type": "multiple_choice",
+      "question": "बाईने शेवटी बाजारात जाण्याचे का मान्य केले?",
+      "options": [
+        { "option_number": 1, "text": "तिला नवीन साडी घ्यायची होती", "is_correct": false },
+        { "option_number": 2, "text": "सर्वानी प्लॅस्टिक न वापरण्याची शपथ घेतली म्हणून", "is_correct": true },
+        { "option_number": 3, "text": "तिला खूप भूक लागली होती", "is_correct": false },
+        { "option_number": 4, "text": "बाजार संपत आला होता", "is_correct": false }
+      ],
+      "answer": "सर्वानी प्लॅस्टिक न वापरण्याची शपथ घेतली म्हणून"
+    },
+    {
+      "question_number": 20,
+      "question_type": "multiple_choice",
+      "question": "'मले' या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "तुला", "is_correct": false },
+        { "option_number": 2, "text": "मला", "is_correct": true },
+        { "option_number": 3, "text": "त्याला", "is_correct": false },
+        { "option_number": 4, "text": "सर्वांना", "is_correct": false }
+      ],
+      "answer": "मला"
+    },
+    {
+      "question_number": 21,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकच्या पिशव्यांचे विघटन होण्यास किती काळ लागतो?",
+      "options": [
+        { "option_number": 1, "text": "दोन दिवस", "is_correct": false },
+        { "option_number": 2, "text": "एक वर्ष", "is_correct": false },
+        { "option_number": 3, "text": "हजारो वर्षे", "is_correct": true },
+        { "option_number": 4, "text": "दहा दिवस", "is_correct": false }
+      ],
+      "answer": "हजारो वर्षे"
+    },
+    {
+      "question_number": 22,
+      "question_type": "multiple_choice",
+      "question": "दुधवाचून तडफडणारे रेडकू कोणाचे होते?",
+      "options": [
+        { "option_number": 1, "text": "गाईचे", "is_correct": false },
+        { "option_number": 2, "text": "म्हशीचे (हरणीचे)", "is_correct": true },
+        { "option_number": 3, "text": "शेळीचे", "is_correct": false },
+        { "option_number": 4, "text": "मेंढीचे", "is_correct": false }
+      ],
+      "answer": "म्हशीचे (हरणीचे)"
+    },
+    {
+      "question_number": 23,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकचा अतिवापर कोणासाठी घातक आहे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ मानवासाठी", "is_correct": false },
+        { "option_number": 2, "text": "केवळ प्राण्यांसाठी", "is_correct": false },
+        { "option_number": 3, "text": "सर्व सजीव सृष्टीसाठी", "is_correct": true },
+        { "option_number": 4, "text": "केवळ माशांसाठी", "is_correct": false }
+      ],
+      "answer": "सर्व सजीव सृष्टीसाठी"
+    },
+    {
+      "question_number": 24,
+      "question_type": "multiple_choice",
+      "question": "बाईला बाजाराला जायचं न्हाईऽऽ' हे वाक्य पाठात काय म्हणून आले आहे?",
+      "options": [
+        { "option_number": 1, "text": "धृपद (मुखडा)", "is_correct": true },
+        { "option_number": 2, "text": "शेवटचे वाक्य", "is_correct": false },
+        { "option_number": 3, "text": "प्रश्न", "is_correct": false },
+        { "option_number": 4, "text": "विनोद", "is_correct": false }
+      ],
+      "answer": "धृपद (मुखडा)"
+    },
+    {
+      "question_number": 25,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिक मुळे जमीन नापीक का होते?",
+      "options": [
+        { "option_number": 1, "text": "प्लॅस्टिक मातीत मिसळत नाही म्हणून", "is_correct": true },
+        { "option_number": 2, "text": "प्लॅस्टिक माती खाऊन टाकते", "is_correct": false },
+        { "option_number": 3, "text": "जमिनीला पाणी मिळत नाही", "is_correct": false },
+        { "option_number": 4, "text": "जमिनीत खडे होतात", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिक मातीत मिसळत नाही म्हणून"
+    },
+    {
+      "question_number": 26,
+      "question_type": "multiple_choice",
+      "question": "जनावरांच्या मृत्यूचे एक मुख्य कारण कोणते दिले आहे?",
+      "options": [
+        { "option_number": 1, "text": "भूक", "is_correct": false },
+        { "option_number": 2, "text": "प्लॅस्टिक खाणे", "is_correct": true },
+        { "option_number": 3, "text": "पाऊस", "is_correct": false },
+        { "option_number": 4, "text": "थंडी", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिक खाणे"
+    },
+    {
+      "question_number": 27,
+      "question_type": "multiple_choice",
+      "question": "'नगं बाई, नगं बाई' यातील 'नगं' शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "नको", "is_correct": true },
+        { "option_number": 2, "text": "नगर", "is_correct": false },
+        { "option_number": 3, "text": "नाही", "is_correct": false },
+        { "option_number": 4, "text": "नवीन", "is_correct": false }
+      ],
+      "answer": "नको"
+    },
+    {
+      "question_number": 28,
+      "question_type": "multiple_choice",
+      "question": "बाईच्या मते सुशिक्षित लोक कसे वागत आहेत?",
+      "options": [
+        { "option_number": 1, "text": "खूप हुशार", "is_correct": false },
+        { "option_number": 2, "text": "अडाण्यासारखे", "is_correct": true },
+        { "option_number": 3, "text": "आदर्श", "is_correct": false },
+        { "option_number": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "अडाण्यासारखे"
+    },
+    {
+      "question_number": 29,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकला पर्याय म्हणून कशाचा वापर पाठात सुचवला आहे?",
+      "options": [
+        { "option_number": 1, "text": "लोखंडाची बादली", "is_correct": false },
+        { "option_number": 2, "text": "कापडी पिशवी", "is_correct": true },
+        { "option_number": 3, "text": "हातात वस्तू नेणे", "is_correct": false },
+        { "option_number": 4, "text": "काचेची पेटी", "is_correct": false }
+      ],
+      "answer": "कापडी पिशवी"
+    },
+    {
+      "question_number": 30,
+      "question_type": "multiple_choice",
+      "question": "पथनाट्यातून कोणत्या गोष्टीवर जागरूकता निर्माण केली आहे?",
+      "options": [
+        { "option_number": 1, "text": "स्वच्छता", "is_correct": false },
+        { "option_number": 2, "text": "प्लॅस्टिक बंदी / निर्मूलन", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षण", "is_correct": false },
+        { "option_number": 4, "text": "पाणी बचत", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिक बंदी / निर्मूलन"
+    },
+    {
+      "question_number": 31,
+      "question_type": "multiple_choice",
+      "question": "बाईने पृथ्वीला काय म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "मायबाप", "is_correct": true },
+        { "option_number": 2, "text": "शत्रू", "is_correct": false },
+        { "option_number": 3, "text": "मोठा दगड", "is_correct": false },
+        { "option_number": 4, "text": "स्वर्ग", "is_correct": false }
+      ],
+      "answer": "मायबाप"
+    },
+    {
+      "question_number": 32,
+      "question_type": "multiple_choice",
+      "question": "सांडपाणी कोठून रस्त्यावर येते?",
+      "options": [
+        { "option_number": 1, "text": "नदीतून", "is_correct": false },
+        { "option_number": 2, "text": "तुंबलेल्या गटारीतून", "is_correct": true },
+        { "option_number": 3, "text": "विहिरीतून", "is_correct": false },
+        { "option_number": 4, "text": "ढगांतून", "is_correct": false }
+      ],
+      "answer": "तुंबलेल्या गटारीतून"
+    },
+    {
+      "question_number": 33,
+      "question_type": "multiple_choice",
+      "question": "लेखिकेचे कोणते पुस्तक विनोदी लेखसंग्रह म्हणून प्रसिद्ध आहे?",
+      "options": [
+        { "option_number": 1, "text": "'तिची गोष्ट'", "is_correct": false },
+        { "option_number": 2, "text": "'बाई मी (विसर) भोळी'", "is_correct": true },
+        { "option_number": 3, "text": "'मनोगत'", "is_correct": false },
+        { "option_number": 4, "text": "'आनंदमेळा'", "is_correct": false }
+      ],
+      "answer": "'बाई मी (विसर) भोळी'"
+    },
+    {
+      "question_number": 34,
+      "question_type": "multiple_choice",
+      "question": "'आनंदमेळा' हा कोणत्या प्रकारचा संग्रह आहे?",
+      "options": [
+        { "option_number": 1, "text": "कथा संग्रह", "is_correct": false },
+        { "option_number": 2, "text": "बालगीत संग्रह", "is_correct": true },
+        { "option_number": 3, "text": "ललित लेख", "is_correct": false },
+        { "option_number": 4, "text": "कादंबरी", "is_correct": false }
+      ],
+      "answer": "बालगीत संग्रह"
+    },
+    {
+      "question_number": 35,
+      "question_type": "multiple_choice",
+      "question": "पाठात आलेल्या 'समदं' शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "थोडे", "is_correct": false },
+        { "question_number": 2, "text": "सर्व / सगळे", "is_correct": true },
+        { "option_number": 3, "text": "काही नाही", "is_correct": false },
+        { "option_number": 4, "text": "समुद्र", "is_correct": false }
+      ],
+      "answer": "सर्व / सगळे"
+    },
+    {
+      "question_number": 36,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकच्या वापरामुळे पृथ्वी काय होत आहे?",
+      "options": [
+        { "option_number": 1, "text": "सुंदर होत आहे", "is_correct": false },
+        { "option_number": 2, "text": "गुदमरत आहे", "is_correct": true },
+        { "option_number": 3, "text": "मोठी होत आहे", "is_correct": false },
+        { "option_number": 4, "text": "स्वच्छ होत आहे", "is_correct": false }
+      ],
+      "answer": "गुदमरत आहे"
+    },
+    {
+      "question_number": 37,
+      "question_type": "multiple_choice",
+      "question": "'आक्रीत घडणे' या वाक्प्रचाराचा अर्थ सांगा.",
+      "options": [
+        { "option_number": 1, "text": "चांगले घडणे", "is_correct": false },
+        { "option_number": 2, "text": "विचित्र किंवा न घडणारे घडणे", "is_correct": true },
+        { "option_number": 3, "text": "विसरून जाणे", "is_correct": false },
+        { "option_number": 4, "text": "आनंद होणे", "is_correct": false }
+      ],
+      "answer": "विचित्र किंवा न घडणारे घडणे"
+    },
+    {
+      "question_number": 38,
+      "question_type": "multiple_choice",
+      "question": "बाईच्या रडण्याचे कारण काय होते?",
+      "options": [
+        { "option_number": 1, "text": "तिला बाजाराला न्यायला कोणी नव्हते", "is_correct": false },
+        { "option_number": 2, "text": "तिची लाडकी म्हैस हरणी मेली होती", "is_correct": true },
+        { "option_number": 3, "text": "तिचे घर पडले होते", "is_correct": false },
+        { "option_number": 4, "text": "तिला भूक लागली होती", "is_correct": false }
+      ],
+      "answer": "तिची लाडकी म्हैस हरणी मेली होती"
+    },
+    {
+      "question_number": 39,
+      "question_type": "multiple_choice",
+      "question": "लोक बाजारात जाण्यासाठी कोणाला विनवणी करत होते?",
+      "options": [
+        { "option_number": 1, "text": "दुकानदाराला", "is_correct": false },
+        { "option_number": 2, "text": "बाईला", "is_correct": true },
+        { "option_number": 3, "text": "पोलिसांना", "is_correct": false },
+        { "option_number": 4, "text": "मुलांना", "is_correct": false }
+      ],
+      "answer": "बाईला"
+    },
+    {
+      "question_number": 40,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकच्या वस्तू फेकल्यामुळे कोणाचे रस्ते भरतात?",
+      "options": [
+        { "option_number": 1, "text": "पाण्याचे", "is_correct": false },
+        { "option_number": 2, "text": "कचऱ्याचे", "is_correct": true },
+        { "option_number": 3, "text": "माणसांचे", "is_correct": false },
+        { "option_number": 4, "text": "फुलांचे", "is_correct": false }
+      ],
+      "answer": "कचऱ्याचे"
+    },
+    {
+      "question_number": 41,
+      "question_type": "multiple_choice",
+      "question": "'ओरडू' नकोस असे कोण म्हणत आहे?",
+      "options": [
+        { "option_number": 1, "text": "बाई", "is_correct": true },
+        { "option_number": 2, "text": "इतर लोक", "is_correct": false },
+        { "option_number": 3, "text": "पक्षी", "is_correct": false },
+        { "option_number": 4, "text": "दुकानदार", "is_correct": false }
+      ],
+      "answer": "बाई"
+    },
+    {
+      "question_number": 42,
+      "question_type": "multiple_choice",
+      "question": "जमिनीचा कस कशामुळे कमी होतो?",
+      "options": [
+        { "option_number": 1, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_number": 2, "text": "जमिनीत साठलेल्या प्लॅस्टिकमुळे", "is_correct": true },
+        { "option_number": 3, "text": "खतांमुळे", "is_correct": false },
+        { "option_number": 4, "text": "वाऱ्यामुळे", "is_correct": false }
+      ],
+      "answer": "जमिनीत साठलेल्या प्लॅस्टिकमुळे"
+    },
+    {
+      "question_number": 43,
+      "question_type": "multiple_choice",
+      "question": "बाईच्या म्हशीला काय म्हणत असत?",
+      "options": [
+        { "option_number": 1, "text": "राणी", "is_correct": false },
+        { "option_number": 2, "text": "हरणी", "is_correct": true },
+        { "option_number": 3, "text": "लक्ष्मी", "is_correct": false },
+        { "option_number": 4, "text": "गंगा", "is_correct": false }
+      ],
+      "answer": "हरणी"
+    },
+    {
+      "question_number": 44,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकच्या विघटनाला हजारो वर्षे लागतात, हे विधान काय दर्शवते?",
+      "options": [
+        { "option_number": 1, "text": "प्लॅस्टिक फायदेशीर आहे", "is_correct": false },
+        { "option_number": 2, "text": "प्लॅस्टिक पर्यावरणासाठी अतिशय घातक आहे", "is_correct": true },
+        { "option_number": 3, "text": "प्लॅस्टिक स्वस्त आहे", "is_correct": false },
+        { "option_number": 4, "text": "प्लॅस्टिक मजबूत आहे", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिक पर्यावरणासाठी अतिशय घातक आहे"
+    },
+    {
+      "question_number": 45,
+      "question_type": "multiple_choice",
+      "question": "बाई कोणासमोर आपली कैफियत मांडत आहे?",
+      "options": [
+        { "option_number": 1, "text": "न्यायाधीशांसमोर", "is_correct": false },
+        { "option_number": 2, "text": "बाजारला जाणाऱ्या इतर लोकांसमोर", "is_correct": true },
+        { "option_number": 3, "text": "शाळेतील मुलांसमोर", "is_correct": false },
+        { "option_number": 4, "text": "टीव्ही रिपोर्टरसमोर", "is_correct": false }
+      ],
+      "answer": "बाजारला जाणाऱ्या इतर लोकांसमोर"
+    },
+    {
+      "question_number": 46,
+      "question_type": "multiple_choice",
+      "question": "पथनाट्याचा शेवट कसा झाला?",
+      "options": [
+        { "option_number": 1, "text": "बाई बाजाराला गेली नाही", "is_correct": false },
+        { "option_number": 2, "text": "सर्वांनी शपथ घेऊन बाई बाजाराला निघाली", "is_correct": true },
+        { "option_number": 3, "text": "भांडण झाले", "is_correct": false },
+        { "option_number": 4, "text": "पाऊस पडला", "is_correct": false }
+      ],
+      "answer": "सर्वांनी शपथ घेऊन बाई बाजाराला निघाली"
+    },
+    {
+      "question_number": 47,
+      "question_type": "multiple_choice",
+      "question": "लेखिकेने कोणाला 'मायबाप' संबोधले आहे?",
+      "options": [
+        { "option_number": 1, "text": "सरकारला", "is_correct": false },
+        { "option_number": 2, "text": "उपस्थित प्रेक्षकांना / पृथ्वीला", "is_correct": true },
+        { "option_number": 3, "text": "मित्रांना", "is_correct": false },
+        { "option_number": 4, "text": "पक्ष्यांना", "is_correct": false }
+      ],
+      "answer": "उपस्थित प्रेक्षकांना / पृथ्वीला"
+    },
+    {
+      "question_number": 48,
+      "question_type": "multiple_choice",
+      "question": "प्लॅस्टिकमुळे गटारे का तुंबतात?",
+      "options": [
+        { "option_number": 1, "text": "प्लॅस्टिक जड असते म्हणून", "is_correct": false },
+        { "option_number": 2, "text": "प्लॅस्टिकच्या कॅरीबॅग अडकतात म्हणून", "is_correct": true },
+        { "option_number": 3, "text": "प्लॅस्टिक वितळते म्हणून", "is_correct": false },
+        { "option_number": 4, "text": "पाणी कमी असते म्हणून", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिकच्या कॅरीबॅग अडकतात म्हणून"
+    },
+    {
+      "question_number": 49,
+      "question_type": "multiple_choice",
+      "question": "'नहाई' या शब्दाचा प्रमाण मराठीतील अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "नाही", "is_correct": true },
+        { "option_number": 2, "text": "नदी", "is_correct": false },
+        { "option_number": 3, "text": "स्नान", "is_correct": false },
+        { "option_number": 4, "text": "नवीन", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_number": 50,
+      "question_type": "multiple_choice",
+      "question": "या पाठाचा मुख्य संदेश काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "खूप खरेदी करणे", "is_correct": false },
+        { "option_number": 2, "text": "प्लॅस्टिक मुक्त जीवन आणि निसर्ग रक्षण", "is_correct": true },
+        { "option_number": 3, "text": "म्हशी पाळणे", "is_correct": false },
+        { "option_number": 4, "text": "गाणी गाणे", "is_correct": false }
+      ],
+      "answer": "प्लॅस्टिक मुक्त जीवन आणि निसर्ग रक्षण"
+    }
+  ],
+  "question_list_one_word": [
+    { "question_number": 51, "question": "पाठाचे नाव काय?", "answer": "मले बाजाराला जायाचं बाई!" },
+    { "question_number": 52, "question": "लेखिकेचे नाव काय?", "answer": "प्रभा र. बैकर" },
+    { "question_number": 53, "question": "बाई बाजाराला जायला काय म्हणते?", "answer": "नाही" },
+    { "question_number": 54, "question": "कोणता कचरा गटारात अडकतो?", "answer": "प्लॅस्टिक" },
+    { "question_number": 55, "question": "बाईच्या म्हशीचे नाव काय?", "answer": "हरणी" },
+    { "question_number": 56, "question": "हरणीचा मृत्यू कशामुळे झाला?", "answer": "कॅरीबॅग खाल्ल्यामुळे" },
+    { "question_number": 57, "question": "म्हस मेल्यावर कोण रडले?", "answer": "रेडकफू" },
+    { "question_number": 58, "question": "जमीन कशामुळे नापीक होते?", "answer": "प्लॅस्टिकमुळे" },
+    { "question_number": 59, "question": "सांडपाणी कोठून येते?", "answer": "गटारीतून" },
+    { "question_number": 60, "question": "बाईने पिशवी कशाची असायला हवी असे म्हटले आहे?", "answer": "कापडी" },
+    { "question_number": 61, "question": "प्लॅस्टिक जाळल्यावर कोणता वायू निघतो?", "answer": "विषारी" },
+    { "question_number": 62, "question": "समुद्रातील कोणते जलचर धोक्यात आहेत?", "answer": "कासव / मासे" },
+    { "question_number": 63, "question": "प्लॅस्टिकचे विघटन होण्यास किती काळ लागतो?", "answer": "हजारो वर्षे" },
+    { "question_number": 64, "question": "बाईला बाजाराला का जायचे नव्हते?", "answer": "प्लॅस्टिकच्या त्रासामुळे" },
+    { "question_number": 65, "question": "कोणता संदेश पाठातून दिला आहे?", "answer": "प्लॅस्टिक टाळा" },
+    { "question_number": 66, "question": "लेखिका प्रभा बैकर यांचा जन्म कोणत्या वर्षी झाला?", "answer": "१९४८" },
+    { "question_number": 67, "question": "लेखिकेचा कोणता विनोदी लेखसंग्रह प्रसिद्ध आहे?", "answer": "बाई मी (विसर) भोळी" },
+    { "question_number": 68, "question": "पथनाट्य कोणाच्या अंगाने जाणारे आहे?", "answer": "भारुडाच्या" },
+    { "question_number": 69, "question": "बाईने प्रेक्षकांना काय संबोधले आहे?", "answer": "मायबाप" },
+    { "question_number": 70, "question": "प्लॅस्टिकमुळे कोण गुदमरली आहे?", "answer": "पृथ्वी" },
+    { "question_number": 71, "question": "कशाच्या अतिवापरामुळे ऱ्हास होत आहे?", "answer": "प्लॅस्टिकच्या" },
+    { "question_number": 72, "question": "बाईची हरणी काय देत असे?", "answer": "दूध" },
+    { "question_number": 73, "question": "सांडपाणी कोठे येते?", "answer": "रस्त्यांत" },
+    { "question_number": 74, "question": "प्लॅस्टिक कशासाठी बनवले होते?", "answer": "सुखसोईंसाठी" },
+    { "question_number": 75, "question": "सुशिक्षित लोक कसे वागत आहेत?", "answer": "अडाण्यासारखे" },
+    { "question_number": 76, "question": "कशाच्या लाटांसोबत प्लॅस्टिक वाहते?", "answer": "समुद्राच्या" },
+    { "question_number": 77, "question": "बाईने शेवटी कोठे जायचे मान्य केले?", "answer": "बाजाराला" },
+    { "question_number": 78, "question": "लोकांनी काय सोडण्याची शपथ घेतली?", "answer": "प्लॅस्टिक वापरणे" },
+    { "question_number": 79, "question": "प्लॅस्टिक ही कोणत्या प्रकारची समस्या आहे?", "answer": "जागतिक" },
+    { "question_number": 80, "question": "बाईचा संवाद कोणाशी सुरू होतो?", "answer": "इतर लोकांशी" },
+    { "question_number": 81, "question": "प्लॅस्टिक जमिनीत काय होते?", "answer": "कुजत नाही" },
+    { "question_number": 82, "question": "कशाशिवाय शेती होणार नाही?", "answer": "सुपीक जमिनीशिवाय" },
+    { "question_number": 83, "question": "कशाच्या विघटनाची समस्या मोठी आहे?", "answer": "कॅरीबॅगच्या" },
+    { "question_number": 84, "question": "बाईचे मन का तडफडले?", "answer": "हरणीच्या मृत्यूमुळे" },
+    { "question_number": 85, "question": "बाजारात कशाची झुंबड उडते?", "answer": "लोकांची / खरेदीची" },
+    { "question_number": 86, "question": "कापडी पिशवी कशाची बनलेली असते?", "answer": "कापसाची / कपड्याची" },
+    { "question_number": 87, "question": "प्लॅस्टिक कशाचे बनलेले असते? (संदर्भ: रासायनिक पदार्थ)", "answer": "पॉलिमर" },
+    { "question_number": 88, "question": "बाईला बाजाराला जाण्याची काय वाटते?", "answer": "भीती / धास्ती" },
+    { "question_number": 89, "question": "सांडपाण्यामुळे कोणते आजार पसरतात?", "answer": "रोगराई" },
+    { "question_number": 90, "question": "प्लॅस्टिकमुक्त पृथ्वी कशी असेल?", "answer": "सुंदर / हरित" },
+    { "question_number": 91, "question": "लेखिकेचा कोणता कथासंग्रह प्रसिद्ध आहे?", "answer": "तिची गोष्ट" },
+    { "question_number": 92, "question": "कशाच्या पिशव्या वापरणे टाळावे?", "answer": "प्लॅस्टिकच्या" },
+    { "question_number": 93, "question": "बाई कोणासमोर रडत होती?", "answer": "लोकांसमोर" },
+    { "question_number": 94, "question": "कोणता वायू ओझोन थराला हानी पोहोचवतो? (पाठ संदर्भात)", "answer": "विषारी वायू" },
+    { "question_number": 95, "question": "जनावरे चाऱ्यासोबत काय चघळतात?", "answer": "प्लॅस्टिक" },
+    { "question_number": 96, "question": "बाईचे रेडकू कशाविना अडले?", "answer": "दुधाविना" },
+    { "question_number": 97, "question": "कोणती संस्कृती प्लॅस्टिकमुळे धोक्यात आहे?", "answer": "पर्यावरण" },
+    { "question_number": 98, "question": "प्लॅस्टिकचा पुनर्वापर (Recycle) करणे शक्य आहे का?", "answer": "होय" },
+    { "question_number": 99, "question": "बाईने सर्वांना काय करायला सांगितले?", "answer": "जागृत" },
+    { "question_number": 100, "question": "पृथ्वी कोणामुळे धोक्यात आहे?", "answer": "प्लॅस्टिकमुळे" },
+    { "question_number": 101, "question": "बाजारात लोक कशासाठी जातात?", "answer": "खरेदीसाठी" },
+    { "question_number": 102, "question": "बाईचा स्वभाव कसा वाटतो?",
+      "answer": "संवेदनशील" },
+    { "question_number": 103, "question": "प्लॅस्टिक ही नैसर्गिक वस्तू आहे का?", "answer": "नाही" },
+    { "question_number": 104, "question": "कॅरीबॅग फेकणे म्हणजे काय?", "answer": "पर्यावरणाची हानी" },
+    { "question_number": 105, "question": "निसर्ग वाचवण्यासाठी काय आवश्यक आहे?", "answer": "प्लॅस्टिक बंदी" },
+    { "question_number": 106, "question": "बाईला काय ओढवले असे ती म्हणते?", "answer": "मरण" },
+    { "question_number": 107, "question": "कोणाचे मन खूप तडफडले?", "answer": "बाईचे" },
+    { "question_number": 108, "question": "पावसाळ्यात काय भरतात?", "answer": "नाले" },
+    { "question_number": 109, "question": "प्लॅस्टिक पिशवीला काय पर्यायी शब्द आहे?", "answer": "कॅरीबॅग" },
+    { "question_number": 110, "question": "कोणती पिशवी पुन्हा वापरता येते?", "answer": "कापडी" },
+    { "question_number": 111, "question": "विषारी धूर कोठून निघतो?", "answer": "प्लॅस्टिक जाळल्याने" },
+    { "question_number": 112, "question": "जमीन कशाविना ओसाड होईल?", "answer": "पिकाविना" },
+    { "question_number": 113, "question": "लोकांनी काय म्हटले?", "answer": "शपथ" },
+    { "question_number": 114, "question": "बाईचा संदेश काय?", "answer": "पृथ्वी वाचवा" },
+    { "question_number": 115, "question": "प्लॅस्टिकचे अस्तित्व कसे आहे?", "answer": "घातक" },
+    { "question_number": 116, "question": "माणसाने स्वतःसाठी काय बनवले?", "answer": "सोयी" },
+    { "question_number": 117, "question": "कशाच्या अतिवापरामुळे मृत्यू होतात?", "answer": "प्लॅस्टिकच्या" },
+    { "question_number": 118, "question": "बाई कोठून आली होती? (संदर्भ: घरातील)", "answer": "दारात" },
+    { "question_number": 119, "question": "कोणता दिवस बाजाराचा असतो?", "answer": "आठवड्याचा" },
+    { "question_number": 120, "question": "बाईला काय कळत न्हाई?", "answer": "धयानात" },
+    { "question_number": 121, "question": "हरणी काय होती?", "answer": "म्हस" },
+    { "question_number": 122, "question": "हरणी कोठे मेली?", "answer": "घरी" },
+    { "question_number": 123, "question": "काय केले नाही म्हणून लोक विचारतात?", "answer": "औषधपाणी" },
+    { "question_number": 124, "question": "प्लॅस्टिक कोठे गेले?", "answer": "पोटात" },
+    { "question_number": 125, "question": "माझं मन खूप काय झालं?", "answer": "तडफडलं" },
+    { "question_number": 126, "question": "प्लॅस्टिक ही कोणती समस्या आहे?", "answer": "जागतिक" },
+    { "question_number": 127, "question": "कोणता वायू घातक आहे?", "answer": "विषारी" },
+    { "question_number": 128, "question": "कोण अडाण्यासारखे वागतात?", "answer": "सुशिक्षित" },
+    { "question_number": 129, "question": "बाईला काय द्यायला लोक तयार आहेत? (संदर्भ: पिशवी)", "answer": "कापडी पिशवी" },
+    { "question_number": 130, "question": "बाई कोठल्या देवाची शपथ घेते? (बोली भाषेत)", "answer": "मले (स्वतःची)" },
+    { "question_number": 131, "question": "प्लॅस्टिक न वापरण्याची शपथ कोणी घेतली?", "answer": "सर्वांनी" },
+    { "question_number": 132, "question": "पाठात कशाची विटंबना थांबवायला सांगितली आहे?", "answer": "पृथ्वीची" },
+    { "question_number": 133, "question": "प्लॅस्टिक बंदीचा संदेश देणारा पाठ कोणता?", "answer": "धडा १९" },
+    { "question_number": 134, "question": "बाई कोठे बसली होती?", "answer": "दारात" },
+    { "question_number": 135, "question": "बाईच्या हातावर काय होते? (मुद्रा)", "answer": "डोकं" },
+    { "question_number": 136, "question": "बाजाराला जाणे काय आहे?", "answer": "गरज" },
+    { "question_number": 137, "question": "प्लॅस्टिक कशाची हानी करते?", "answer": "निसर्गाची" },
+    { "question_number": 138, "question": "कोण गुदमरून मरते?", "answer": "पृथ्वी" },
+    { "question_number": 139, "question": "बाईने काय करायचे ठरवले?", "answer": "बाजार" },
+    { "question_number": 140, "question": "कोणता पिशवीचा प्रकार सुरक्षित आहे?", "answer": "कापडी" },
+    { "question_number": 141, "question": "प्लॅस्टिक कशात अडकते?", "answer": "गटारीत" },
+    { "question_number": 142, "question": "कोणता वायू वातावरणात मिसळतो?", "answer": "विषारी धूर" },
+    { "question_number": 143, "question": "हरणी मेली तेव्हा तिचे बाळ कोण होते?", "answer": "रेडकफू" },
+    { "question_number": 144, "question": "काय कुजत नाही?", "answer": "प्लॅस्टिक" },
+    { "question_number": 145, "question": "काय नापीक होते?", "answer": "जमीन" },
+    { "question_number": 146, "question": "काय वाचावी?", "answer": "पृथ्वी" },
+    { "question_number": 147, "question": "काय टाळावे?", "answer": "प्लॅस्टिक" },
+    { "question_number": 148, "question": "कोणता संवाद पाठात आहे?", "answer": "लोक-बाई" },
+    { "question_number": 149, "question": "प्लॅस्टिक ही मानवनिर्मित वस्तू आहे का?", "answer": "होय" },
+    { "question_number": 150, "question": "पथनाट्याचा मुख्य हेतू काय?", "answer": "प्रबोधन" }
+  ]
+}

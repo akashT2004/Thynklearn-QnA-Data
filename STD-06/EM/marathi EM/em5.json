@@ -1,0 +1,383 @@
+{
+  "chapter_info": {
+    "chapter_number": "5",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-१",
+    "sub_lesson_name": "मला वाटते"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "Multiple Choice",
+      "question": "‘मला वाटते’ या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_number": 1, "text": "सचिन बेंडभर", "is_correct": false },
+        { "option_number": 2, "text": "शुभदा दादरकर", "is_correct": false },
+        { "option_number": 3, "text": "मधुकर बारस्कर", "is_correct": true },
+        { "option_number": 4, "text": "वि. म. कुलकर्णी", "is_correct": false }
+      ],
+      "answer": "मधुकर बारस्कर"
+    },
+    {
+      "question_number": 2,
+      "question_type": "Multiple Choice",
+      "question": "वाटसरूंची तृषा हरण्यासाठी कवीला काय बनावेसे वाटते?",
+      "options": [
+        { "option_number": 1, "text": "ढग", "is_correct": false },
+        { "option_number": 2, "text": "झरा", "is_correct": true },
+        { "option_number": 3, "text": "वृक्ष", "is_correct": false },
+        { "option_number": 4, "text": "दिवा", "is_correct": false }
+      ],
+      "answer": "झरा"
+    },
+    {
+      "question_number": 3,
+      "question_type": "Multiple Choice",
+      "question": "जलधारांची वृष्टी करण्यासाठी कवीला काय बनावेसे वाटते?",
+      "options": [
+        { "option_number": 1, "text": "मेघ (ढग)", "is_correct": true },
+        { "option_number": 2, "text": "समुद्र", "is_correct": false },
+        { "option_number": 3, "text": "नदी", "is_correct": false },
+        { "option_number": 4, "text": "गवत", "is_correct": false }
+      ],
+      "answer": "मेघ (ढग)"
+    },
+    {
+      "question_number": 4,
+      "question_type": "Multiple Choice",
+      "question": "तरुवर होऊन कवीला सगळ्यांना काय द्यायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "काठ्या", "is_correct": false },
+        { "option_number": 2, "text": "फुले", "is_correct": false },
+        { "option_number": 3, "text": "गोड फळे", "is_correct": true },
+        { "option_number": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "गोड फळे"
+    },
+    {
+      "question_number": 5,
+      "question_type": "Multiple Choice",
+      "question": "शीतल छाया धरून कवीला कोणाची सोय करायची आहे?",
+      "options": [
+        { "option_number": 1, "text": "पक्ष्यांची", "is_correct": false },
+        { "option_number": 2, "text": "प्राण्यांची", "is_correct": false },
+        { "option_number": 3, "text": "वाटसरूंची", "is_correct": true },
+        { "option_number": 4, "text": "स्वतःची", "is_correct": false }
+      ],
+      "answer": "वाटसरूंची"
+    },
+    {
+      "question_number": 6,
+      "question_type": "Multiple Choice",
+      "question": "गाईगुरांना पुष्ट करण्यासाठी कवीला काय व्हावेसे वाटते?",
+      "options": [
+        { "option_number": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_number": 2, "text": "गवत", "is_correct": true },
+        { "option_number": 3, "text": "दूध", "is_correct": false },
+        { "option_number": 4, "text": "वारा", "is_correct": false }
+      ],
+      "answer": "गवत"
+    },
+    {
+      "question_number": 7,
+      "question_type": "Multiple Choice",
+      "question": "सकलांना उजेड देण्यासाठी कवीला काय बनावेसे वाटते?",
+      "options": [
+        { "option_number": 1, "text": "चंद्र", "is_correct": false },
+        { "option_number": 2, "text": "तारा", "is_correct": false },
+        { "option_number": 3, "text": "दिवा", "is_correct": true },
+        { "option_number": 4, "text": "वीज", "is_correct": false }
+      ],
+      "answer": "दिवा"
+    },
+    {
+      "question_number": 8,
+      "question_type": "Multiple Choice",
+      "question": "फूल होऊन कवीला कोठे डोलायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "पाण्यावर", "is_correct": false },
+        { "option_number": 2, "text": "जमिनीवर", "is_correct": false },
+        { "option_number": 3, "text": "तरुवेलींवर", "is_correct": true },
+        { "option_number": 4, "text": "घरावर", "is_correct": false }
+      ],
+      "answer": "तरुवेलींवर"
+    },
+    {
+      "question_number": 9,
+      "question_type": "Multiple Choice",
+      "question": "फूल कशा प्रकारे सर्वांचे अंतर सुखावणार आहे?",
+      "options": [
+        { "option_number": 1, "text": "रंग उधळून", "is_correct": false },
+        { "option_number": 2, "text": "सुगंध उधळत", "is_correct": true },
+        { "option_number": 3, "text": "काटे टोचून", "is_correct": false },
+        { "option_number": 4, "text": "पाणी शिंपडून", "is_correct": false }
+      ],
+      "answer": "सुगंध उधळत"
+    },
+    {
+      "question_number": 10,
+      "question_type": "Multiple Choice",
+      "question": "‘तृषा’ या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_number": 1, "text": "भूक", "is_correct": false },
+        { "option_number": 2, "text": "तहान", "is_correct": true },
+        { "option_number": 3, "text": "थकवा", "is_correct": false },
+        { "option_number": 4, "text": "आशा", "is_correct": false }
+      ],
+      "answer": "तहान"
+    },
+    {
+      "question_number": 11,
+      "question_type": "Multiple Choice",
+      "question": "‘मेघ’ या शब्दाचा समानार्थी शब्द खालीलपैकी कोणता?",
+      "options": [
+        { "option_number": 1, "text": "ढग", "is_correct": true },
+        { "option_number": 2, "text": "वारा", "is_correct": false },
+        { "option_number": 3, "text": "पाणी", "is_correct": false },
+        { "option_number": 4, "text": "जमीन", "is_correct": false }
+      ],
+      "answer": "ढग"
+    },
+    {
+      "question_number": 12,
+      "question_type": "Multiple Choice",
+      "question": "खालीलपैकी परोपकारी व्यक्ती कोण?",
+      "options": [
+        { "option_number": 1, "text": "वृक्ष", "is_correct": false },
+        { "option_number": 2, "text": "नदी", "is_correct": false },
+        { "option_number": 3, "text": "समाजसेवक", "is_correct": true },
+        { "option_number": 4, "text": "ढग", "is_correct": false }
+      ],
+      "answer": "समाजसेवक"
+    },
+    {
+      "question_number": 13,
+      "question_type": "Multiple Choice",
+      "question": "‘पुष्ट’ करणे म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "दुबळे करणे", "is_correct": false },
+        { "option_number": 2, "text": "बळकट करणे", "is_correct": true },
+        { "option_number": 3, "text": "मारणे", "is_correct": false },
+        { "option_number": 4, "text": "पळवणे", "is_correct": false }
+      ],
+      "answer": "बळकट करणे"
+    },
+    {
+      "question_number": 14,
+      "question_type": "Multiple Choice",
+      "question": "खालीलपैकी जोडीतील समान अर्थाचा जोडशब्द कोणता?",
+      "options": [
+        { "option_number": 1, "text": "कामधंदा", "is_correct": false },
+        { "option_number": 2, "text": "दागदागिने", "is_correct": true },
+        { "option_number": 3, "text": "चहापाणी", "is_correct": false },
+        { "option_number": 4, "text": "भाजीपाला", "is_correct": false }
+      ],
+      "answer": "दागदागिने"
+    },
+    {
+      "question_number": 15,
+      "question_type": "Multiple Choice",
+      "question": "कवीला ‘तरुवर’ होऊन सदैव काय धरायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "काठी", "is_correct": false },
+        { "option_number": 2, "text": "शीतल छाया", "is_correct": true },
+        { "option_number": 3, "text": "छत्री", "is_correct": false },
+        { "option_number": 4, "text": "दगड", "is_correct": false }
+      ],
+      "answer": "शीतल छाया"
+    },
+    {
+      "question_number": 16,
+      "question_type": "Multiple Choice",
+      "question": "‘अंतर’ या शब्दाचा कवितेतील अर्थ काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "मैल", "is_correct": false },
+        { "option_number": 2, "text": "दुरावा", "is_correct": false },
+        { "option_number": 3, "text": "मन", "is_correct": true },
+        { "option_number": 4, "text": "रस्ता", "is_correct": false }
+      ],
+      "answer": "मन"
+    },
+    {
+      "question_number": 17,
+      "question_type": "Multiple Choice",
+      "question": "परोपकारी गोष्टींमध्ये कशाचा समावेश होतो?",
+      "options": [
+        { "option_number": 1, "text": "डॉक्टर", "is_correct": false },
+        { "option_number": 2, "text": "वृक्ष", "is_correct": true },
+        { "option_number": 3, "text": "सैनिक", "is_correct": false },
+        { "option_number": 4, "text": "क्रांतिकारक", "is_correct": false }
+      ],
+      "answer": "वृक्ष"
+    },
+    {
+      "question_number": 18,
+      "question_type": "Multiple Choice",
+      "question": "कवीला ‘गवत’ होऊन कोणाला चारा द्यायचा आहे?",
+      "options": [
+        { "option_number": 1, "text": "पक्ष्यांना", "is_correct": false },
+        { "option_number": 2, "text": "माणसांना", "is_correct": false },
+        { "option_number": 3, "text": "गाईगुरांना", "is_correct": true },
+        { "option_number": 4, "text": "स्वतःला", "is_correct": false }
+      ],
+      "answer": "गाईगुरांना"
+    },
+    {
+      "question_number": 19,
+      "question_type": "Multiple Choice",
+      "question": "‘वाटसरू’ या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_number": 1, "text": "पथिक", "is_correct": true },
+        { "option_number": 2, "text": "मालक", "is_correct": false },
+        { "option_number": 3, "text": "शत्रू", "is_correct": false },
+        { "option_number": 4, "text": "मित्र", "is_correct": false }
+      ],
+      "answer": "पथिक"
+    },
+    {
+      "question_number": 20,
+      "question_type": "Multiple Choice",
+      "question": "‘वृष्टी’ म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "वारा", "is_correct": false },
+        { "option_number": 2, "text": "पाऊस", "is_correct": true },
+        { "option_number": 3, "text": "माती", "is_correct": false },
+        { "option_number": 4, "text": "आग", "is_correct": false }
+      ],
+      "answer": "पाऊस"
+    },
+    { "question_number": 21, "question_type": "Multiple Choice", "question": "‘उधळत’ या शब्दाचा अर्थ काय?", "options": [{ "option_number": 1, "text": "पसरवत", "is_correct": true }, { "option_number": 2, "text": "साठवत", "is_correct": false }], "answer": "पसरवत" },
+    { "question_number": 22, "question_type": "Multiple Choice", "question": "कवितेत शेवटचे अक्षर सारखे असलेल्या शब्दांची जोडी ओळखा.", "options": [{ "option_number": 1, "text": "वाटसरूंची - जलधारांची", "is_correct": true }, { "option_number": 2, "text": "झरा - मेघ", "is_correct": false }], "answer": "वाटसरूंची - जलधारांची" },
+    { "question_number": 23, "question_type": "Multiple Choice", "question": "‘वृक्ष’ या शब्दाचे दोन समानार्थी शब्द कोणते?", "options": [{ "option_number": 1, "text": "तरू, झाड", "is_correct": true }, { "option_number": 2, "text": "पुष्प, सुमन", "is_correct": false }], "answer": "तरू, झाड" },
+    { "question_number": 24, "question_type": "Multiple Choice", "question": "‘सुमन’ या शब्दाचा अर्थ काय?", "options": [{ "option_number": 1, "text": "फूल", "is_correct": true }, { "option_number": 2, "text": "पान", "is_correct": false }], "answer": "फूल" },
+    { "question_number": 25, "question_type": "Multiple Choice", "question": "खालीलपैकी परोपकारी वस्तू ओळखा.", "options": [{ "option_number": 1, "text": "नदी", "is_correct": true }, { "option_number": 2, "text": "दगड", "is_correct": false }], "answer": "नदी" },
+    { "question_number": 26, "question_type": "Multiple Choice", "question": "‘पांथस्थ’ कोणाला म्हणतात?", "options": [{ "option_number": 1, "text": "वाटसरूला", "is_correct": true }, { "option_number": 2, "text": "शेतकऱ्याला", "is_correct": false }], "answer": "वाटसरूला" },
+    { "question_number": 27, "question_type": "Multiple Choice", "question": "कवीला ‘दिवा’ का बनावेसे वाटते?", "options": [{ "option_number": 1, "text": "प्रकाश देण्यासाठी", "is_correct": true }, { "option_number": 2, "text": "आग लावण्यासाठी", "is_correct": false }], "answer": "प्रकाश देण्यासाठी" },
+    { "question_number": 28, "question_type": "Multiple Choice", "question": "‘ शीतल’ चा विरुद्धार्थी शब्द कोणता?", "options": [{ "option_number": 1, "text": "उष्ण", "is_correct": true }, { "option_number": 2, "text": "थंड", "is_correct": false }], "answer": "उष्ण" },
+    { "question_number": 29, "question_type": "Multiple Choice", "question": "‘गोड’ या शब्दाचा विरुद्धार्थी शब्द ओळखा.", "options": [{ "option_number": 1, "text": "कडू", "is_correct": true }, { "option_number": 2, "text": "मधुर", "is_correct": false }], "answer": "कडू" },
+    { "question_number": 30, "question_type": "Multiple Choice", "question": "कवितेत कोणत्या झाडाचा उल्लेख ‘तरुवर’ म्हणून केला आहे?", "options": [{ "option_number": 1, "text": "मोठा वृक्ष", "is_correct": true }, { "option_number": 2, "text": "वेल", "is_correct": false }], "answer": "मोठा वृक्ष" },
+    { "question_number": 31, "question_type": "Multiple Choice", "question": "‘सकल’ म्हणजे काय?", "options": [{ "option_number": 1, "text": "सगळे", "is_correct": true }, { "option_number": 2, "text": "काही", "is_correct": false }], "answer": "सगळे" },
+    { "question_number": 32, "question_type": "Multiple Choice", "question": "कवीला ‘फूल’ होऊन कोणाचे मन सुखावायचे आहे?", "options": [{ "option_number": 1, "text": "सकलांचे", "is_correct": true }, { "option_number": 2, "text": "फक्त स्वतःचे", "is_correct": false }], "answer": "सकलांचे" },
+    { "question_number": 33, "question_type": "Multiple Choice", "question": "‘मेघ’ कशाची वृष्टी करतो?", "options": [{ "option_number": 1, "text": "जलधारांची", "is_correct": true }, { "option_number": 2, "text": "फळांची", "is_correct": false }], "answer": "जलधारांची" },
+    { "question_number": 34, "question_type": "Multiple Choice", "question": "‘छाया’ म्हणजे काय?", "options": [{ "option_number": 1, "text": "सावली", "is_correct": true }, { "option_number": 2, "text": "उन्हाळा", "is_correct": false }], "answer": "सावली" },
+    { "question_number": 35, "question_type": "Multiple Choice", "question": "‘धनदौलत’ या जोडशब्दातील दोन्ही शब्दांचा अर्थ कसा आहे?", "options": [{ "option_number": 1, "text": "समान", "is_correct": true }, { "option_number": 2, "text": "विरुद्ध", "is_correct": false }], "answer": "समान" },
+    { "question_number": 36, "question_type": "Multiple Choice", "question": "‘मेवामिठाई’ हा कोणत्या प्रकारचा शब्द आहे?", "options": [{ "option_number": 1, "text": "जोडशब्द", "is_correct": true }, { "option_number": 2, "text": "सर्वनाम", "is_correct": false }], "answer": "जोडशब्द" },
+    { "question_number": 37, "question_type": "Multiple Choice", "question": "कवीला ‘झरा’ होऊन काय करायचे आहे?", "options": [{ "option_number": 1, "text": "तहान भागवायची आहे", "is_correct": true }, { "option_number": 2, "text": "पळायचे आहे", "is_correct": false }], "answer": "तहान भागवायची आहे" },
+    { "question_number": 38, "question_type": "Multiple Choice", "question": "‘तरुवेली’ म्हणजे काय?", "options": [{ "option_number": 1, "text": "झाडे आणि वेली", "is_correct": true }, { "option_number": 2, "text": "फक्त गवत", "is_correct": false }], "answer": "झाडे आणि वेली" },
+    { "question_number": 39, "question_type": "Multiple Choice", "question": "कशाच्या कणाकणात प्रकाश स्फुरतो? (मागील पाठाचा संदर्भ किंवा भावार्थ)", "options": [{ "option_number": 1, "text": "सृष्टीच्या", "is_correct": true }, { "option_number": 2, "text": "पाण्याच्या", "is_correct": false }], "answer": "सृष्टीच्या" },
+    { "question_number": 40, "question_type": "Multiple Choice", "question": "कवीला ‘गवत’ का बनावेसे वाटते?", "options": [{ "option_number": 1, "text": "गुरांना बळकट करण्यासाठी", "is_correct": true }, { "option_number": 2, "text": "दिसण्यासाठी", "is_correct": false }], "answer": "गुरांना बळकट करण्यासाठी" },
+    { "question_number": 41, "question_type": "Multiple Choice", "question": "‘सुगंध’ चा विरुद्धार्थी शब्द कोणता?", "options": [{ "option_number": 1, "text": "दुर्गंध", "is_correct": true }, { "option_number": 2, "text": "परिमळ", "is_correct": false }], "answer": "दुर्गंध" },
+    { "question_number": 42, "question_type": "Multiple Choice", "question": "‘उजेड’ चा विरुद्धार्थी शब्द ओळखा.", "options": [{ "option_number": 1, "text": "अंधार", "is_correct": true }, { "option_number": 2, "text": "प्रकाश", "is_correct": false }], "answer": "अंधार" },
+    { "question_number": 43, "question_type": "Multiple Choice", "question": "‘हसत हसत’ हे कोणत्या प्रकारचे शब्दरूप आहे?", "options": [{ "option_number": 1, "text": "पुनरावृत्त शब्द", "is_correct": true }, { "option_number": 2, "text": "नाम", "is_correct": false }], "answer": "पुनरावृत्त शब्द" },
+    { "question_number": 44, "question_type": "Multiple Choice", "question": "‘सदा’ या शब्दाचा अर्थ काय?", "options": [{ "option_number": 1, "text": "नेहमी", "is_correct": true }, { "option_number": 2, "text": "कधीतरी", "is_correct": false }], "answer": "नेहमी" },
+    { "question_number": 45, "question_type": "Multiple Choice", "question": "कवीची वृत्ती कशी आहे?", "options": [{ "option_number": 1, "text": "परोपकारी", "is_correct": true }, { "option_number": 2, "text": "स्वार्थी", "is_correct": false }], "answer": "परोपकारी" },
+    { "question_number": 46, "question_type": "Multiple Choice", "question": "‘घन’ कशाचा समानार्थी शब्द आहे?", "options": [{ "option_number": 1, "text": "मेघ/ढग", "is_correct": true }, { "option_number": 2, "text": "पाणी", "is_correct": false }], "answer": "मेघ/ढग" },
+    { "question_number": 47, "question_type": "Multiple Choice", "question": "‘पुष्प’ कशाचा समानार्थी शब्द आहे?", "options": [{ "option_number": 1, "text": "फूल", "is_correct": true }, { "option_number": 2, "text": "झाड", "is_correct": false }], "answer": "फूल" },
+    { "question_number": 48, "question_type": "Multiple Choice", "question": "‘मैत्री’ या शब्दाचे भाववाचक नाम कोणते? (व्याकरण संदर्भ)", "options": [{ "option_number": 1, "text": "मैत्री", "is_correct": true }, { "option_number": 2, "text": "मित्र", "is_correct": false }], "answer": "मैत्री" },
+    { "question_number": 49, "question_type": "Multiple Choice", "question": "‘बादली’ चे अनेकवचन काय?", "options": [{ "option_number": 1, "text": "बादल्या", "is_correct": true }, { "option_number": 2, "text": "बादली", "is_correct": false }], "answer": "बादल्या" },
+    { "question_number": 50, "question_type": "Multiple Choice", "question": "कवितेचा मुख्य संदेश कोणता?", "options": [{ "option_number": 1, "text": "इतरांना मदत करणे", "is_correct": true }, { "option_number": 2, "text": "शांत बसणे", "is_correct": false }], "answer": "इतरांना मदत करणे" },
+
+    { "question_number": 51, "question_type": "One-Word", "question": "कवितेचे नाव काय?", "answer": "मला वाटते" },
+    { "question_number": 52, "question_type": "One-Word", "question": "कवीचे नाव काय?", "answer": "मधुकर बारस्कर" },
+    { "question_number": 53, "question_type": "One-Word", "question": "तहान भागवण्यासाठी कवी काय बनणार आहे?", "answer": "झरा" },
+    { "question_number": 54, "question_type": "One-Word", "question": "ढगाला कवितेत काय म्हटले आहे?", "answer": "मेघ" },
+    { "question_number": 55, "question_type": "One-Word", "question": "मेघ होऊन कशाची वृष्टी करायची आहे?", "answer": "जलधारांची" },
+    { "question_number": 56, "question_type": "One-Word", "question": "कवीला ‘तरुवर’ होऊन काय द्यायचे आहे?", "answer": "फळे" },
+    { "question_number": 57, "question_type": "One-Word", "question": "फळे कशी असावीत?", "answer": "गोड" },
+    { "question_number": 58, "question_type": "One-Word", "question": "वाटसरूंना काय द्यायची आहे?", "answer": "शीतल छाया" },
+    { "question_number": 59, "question_type": "One-Word", "question": "गाईगुरांना काय खाऊ घालायचे आहे?", "answer": "गवत" },
+    { "question_number": 60, "question_type": "One-Word", "question": "गवत खाऊन गुरे कशी होतील?", "answer": "पुष्ट" },
+    { "question_number": 61, "question_type": "One-Word", "question": "उजेड देण्यासाठी कवी काय होणार आहे?", "answer": "दिवा" },
+    { "question_number": 62, "question_type": "One-Word", "question": "दिवा कोणाला उजेड देईल?", "answer": "सकलांना" },
+    { "question_number": 63, "question_type": "One-Word", "question": "कवीला ‘फूल’ होऊन कोठे डोलायचे आहे?", "answer": "तरुवेलींवर" },
+    { "question_number": 64, "question_type": "One-Word", "question": "फूल काय उधळणार आहे?", "answer": "सुगंध" },
+    { "question_number": 65, "question_type": "One-Word", "question": "काय सुखावायचे आहे?", "answer": "सकलांचे अंतर" },
+    { "question_number": 66, "question_type": "One-Word", "question": "‘तृषा’ म्हणजे काय?", "answer": "तहान" },
+    { "question_number": 67, "question_type": "One-Word", "question": "‘वृष्टी’ म्हणजे काय?", "answer": "पाऊस" },
+    { "question_number": 68, "question_type": "One-Word", "question": "‘पुष्ट’ म्हणजे काय?", "answer": "बळकट" },
+    { "question_number": 69, "question_type": "One-Word", "question": "‘अंतर’ म्हणजे काय?", "answer": "मन" },
+    { "question_number": 70, "question_type": "One-Word", "question": "परोपकारी व्यक्तीचे एक उदाहरण द्या.", "answer": "समाजसेवक" },
+    { "question_number": 71, "question_type": "One-Word", "question": "परोपकारी वस्तूचे एक उदाहरण द्या.", "answer": "वृक्ष" },
+    { "question_number": 72, "question_type": "One-Word", "question": "‘मेघ’ चा समानार्थी शब्द सांगा.", "answer": "ढग" },
+    { "question_number": 73, "question_type": "One-Word", "question": "‘वाटसरू’ चा समानार्थी शब्द सांगा.", "answer": "पथिक" },
+    { "question_number": 74, "question_type": "One-Word", "question": "‘वृक्ष’ चा समानार्थी शब्द सांगा.", "answer": "झाड" },
+    { "question_number": 75, "question_type": "One-Word", "question": "‘पुष्प’ चा समानार्थी शब्द सांगा.", "answer": "फूल" },
+    { "question_number": 76, "question_type": "One-Word", "question": "‘शीतल’ चा समानार्थी शब्द सांगा.", "answer": "थंड" },
+    { "question_number": 77, "question_type": "One-Word", "question": "‘छाया’ चा समानार्थी शब्द सांगा.", "answer": "सावली" },
+    { "question_number": 78, "question_type": "One-Word", "question": "‘उजेड’ चा समानार्थी शब्द सांगा.", "answer": "प्रकाश" },
+    { "question_number": 79, "question_type": "One-Word", "question": "‘मना’ चा समानार्थी शब्द सांगा.", "answer": "चित्त / अंतर" },
+    { "question_number": 80, "question_type": "One-Word", "question": "‘गाईगुरे’ सारखा दुसरा जोडशब्द सांगा.", "answer": "कामकाज" },
+    { "question_number": 81, "question_type": "One-Word", "question": "‘मेवामिठाई’ मध्ये दोन शब्द कोणते?", "answer": "मेवा व मिठाई" },
+    { "question_number": 82, "question_type": "One-Word", "question": "‘धनदौलत’ यातील दोन्ही शब्दांचा अर्थ काय?", "answer": "संपत्ती" },
+    { "question_number": 83, "question_type": "One-Word", "question": "‘कागदपत्र’ यातील दोन्ही शब्दांचा अर्थ काय?", "answer": "कागद" },
+    { "question_number": 84, "question_type": "One-Word", "question": "‘बाजारहाट’ कोठे केला जातो?", "answer": "बाजारात" },
+    { "question_number": 85, "question_type": "One-Word", "question": "‘सकलांना’ म्हणजे कोणाला?", "answer": "सर्वांना" },
+    { "question_number": 86, "question_type": "One-Word", "question": "फूल कसे सुगंध उधळणार आहे?", "answer": "हासत हासत" },
+    { "question_number": 87, "question_type": "One-Word", "question": "कवीने कशाला ‘ शीतल’ म्हटले आहे?", "answer": "छायेला" },
+    { "question_number": 88, "question_type": "One-Word", "question": "गवत कोणाला हवे आहे?", "answer": "गाईगुरांना" },
+    { "question_number": 89, "question_type": "One-Word", "question": "दिवा काय घालवतो?", "answer": "अंधार" },
+    { "question_number": 90, "question_type": "One-Word", "question": "पाऊस कोण पाडतो?", "answer": "मेघ" },
+    { "question_number": 91, "question_type": "One-Word", "question": "‘गोड’ चा विरुद्धार्थी शब्द सांगा.", "answer": "कडू" },
+    { "question_number": 92, "question_type": "One-Word", "question": "‘उजेड’ चा विरुद्धार्थी शब्द सांगा.", "answer": "अंधार" },
+    { "question_number": 93, "question_type": "One-Word", "question": "‘सुगंध’ चा विरुद्धार्थी शब्द सांगा.", "answer": "दुर्गंध" },
+    { "question_number": 94, "question_type": "One-Word", "question": "‘शीतल’ चा विरुद्धार्थी शब्द सांगा.", "answer": "उष्ण" },
+    { "question_number": 95, "question_type": "One-Word", "question": "‘सुख’ चा विरुद्धार्थी शब्द सांगा.", "answer": "दुःख" },
+    { "question_number": 96, "question_type": "One-Word", "question": "‘पुष्ट’ चा विरुद्धार्थी शब्द सांगा.", "answer": "दुबळे" },
+    { "question_number": 97, "question_type": "One-Word", "question": "कवीला काय व्हायला आवडते?", "answer": "परोपकारी" },
+    { "question_number": 98, "question_type": "One-Word", "question": "कवितेत किती कडवी आहेत?", "answer": "चार" },
+    { "question_number": 99, "question_type": "One-Word", "question": "कवितेचा विषय काय?", "answer": "परोपकार" },
+    { "question_number": 100, "question_type": "One-Word", "question": "‘झरा’ कोठे असतो?", "answer": "डोंगरात / जंगलात" },
+    { "question_number": 101, "question_type": "One-Word", "question": "जलधारा म्हणजे काय?", "answer": "पाण्याच्या धारा" },
+    { "question_number": 102, "question_type": "One-Word", "question": "कवीला ‘तरुवर’ कोठे व्हायचे आहे?", "answer": "वाटेवर" },
+    { "question_number": 103, "question_type": "One-Word", "question": "फळे कोणाला द्यायची आहेत?", "answer": "सर्वांना" },
+    { "question_number": 104, "question_type": "One-Word", "question": "गवताचा रंग कोणता असतो?", "answer": "हिरवा" },
+    { "question_number": 105, "question_type": "One-Word", "question": "दिवा कशाने बनतो?", "answer": "तेलाने / वातीने" },
+    { "question_number": 106, "question_type": "One-Word", "question": "वेलीवर काय असते?", "answer": "फूल" },
+    { "question_number": 107, "question_type": "One-Word", "question": "‘हासत हासत’ काय करावे?", "answer": "सुगंध उधळावा" },
+    { "question_number": 108, "question_type": "One-Word", "question": "कवीची इच्छा काय आहे?", "answer": "दुसऱ्याला मदत करणे" },
+    { "question_number": 109, "question_type": "One-Word", "question": "परोपकार म्हणजे काय?", "answer": "दुसऱ्यावर उपकार करणे" },
+    { "question_number": 110, "question_type": "One-Word", "question": "‘पांथस्थ’ चा दुसरा शब्द सांगा.", "answer": "वाटसरू" },
+    { "question_number": 111, "question_type": "One-Word", "question": "‘सुमन’ म्हणजे काय?", "answer": "फूल" },
+    { "question_number": 112, "question_type": "One-Word", "question": "‘घन’ म्हणजे काय?", "answer": "ढग" },
+    { "question_number": 113, "question_type": "One-Word", "question": "‘झाड’ चे अनेकवचन काय?", "answer": "झाडे" },
+    { "question_number": 114, "question_type": "One-Word", "question": "‘वेल’ चे अनेकवचन काय?", "answer": "वेली" },
+    { "question_number": 115, "question_type": "One-Word", "question": "‘दिवा’ चे अनेकवचन काय?", "answer": "दिवे" },
+    { "question_number": 116, "question_type": "One-Word", "question": "‘धारा’ चे एकवचन काय?", "answer": "धार" },
+    { "question_number": 117, "question_type": "One-Word", "question": "कवीला ‘वारा’ व्हायचे असल्यास काय करेल?", "answer": "थंडावा देईल" },
+    { "question_number": 118, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘दाग-....’", "answer": "दागिने" },
+    { "question_number": 119, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘नोकर-....’", "answer": "चाकर" },
+    { "question_number": 120, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘अक्कल-....’", "answer": "हुशारी" },
+    { "question_number": 121, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘बाजार-....’", "answer": "हाट" },
+    { "question_number": 122, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘मेवा-....’", "answer": "मिठाई" },
+    { "question_number": 123, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘थट्टा-....’", "answer": "मस्करी" },
+    { "question_number": 124, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘धन-....’", "answer": "दौलत" },
+    { "question_number": 125, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘काम-....’", "answer": "काज" },
+    { "question_number": 126, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘कपडा-....’", "answer": "लत्ता" },
+    { "question_number": 127, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘बाड-....’", "answer": "बिस्तरा" },
+    { "question_number": 128, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘दंगा-....’", "answer": "मस्ती" },
+    { "question_number": 129, "question_type": "One-Word", "question": "जोडशब्द सांगा: ‘कागद-....’", "answer": "पत्र" },
+    { "question_number": 130, "question_type": "One-Word", "question": "‘मला वाटते’ ही कविता कशावर आधारित आहे?", "answer": "कल्पना" },
+    { "question_number": 131, "question_type": "One-Word", "question": "कवीला ‘तरुवर’ का बनावेसे वाटते?", "answer": "सावली देण्यासाठी" },
+    { "question_number": 132, "question_type": "One-Word", "question": "कवीला ‘फूल’ का बनावेसे वाटते?", "answer": "आनंद देण्यासाठी" },
+    { "question_number": 133, "question_type": "One-Word", "question": "कवीला ‘गवत’ का बनावेसे वाटते?", "answer": "गुरांसाठी" },
+    { "question_number": 134, "question_type": "One-Word", "question": "कवीला ‘दिवा’ का बनावेसे वाटते?", "answer": "उजेडासाठी" },
+    { "question_number": 135, "question_type": "One-Word", "question": "कवीला ‘झरा’ का बनावेसे वाटते?", "answer": "पाण्यासाठी" },
+    { "question_number": 136, "question_type": "One-Word", "question": "कवीला ‘मेघ’ का बनावेसे वाटते?", "answer": "पावसासाठी" },
+    { "question_number": 137, "question_type": "One-Word", "question": "‘परोपकारी’ म्हणजे काय?", "answer": "मदत करणारा" },
+    { "question_number": 138, "question_type": "One-Word", "question": "‘सकल’ म्हणजे काय?", "answer": "सर्व" },
+    { "question_number": 139, "question_type": "One-Word", "question": "‘शीतल’ म्हणजे काय?", "answer": "थंड" },
+    { "question_number": 140, "question_type": "One-Word", "question": "‘छाया’ म्हणजे काय?", "answer": "सावली" },
+    { "question_number": 141, "question_type": "One-Word", "question": "‘वृष्टी’ म्हणजे काय?", "answer": "पाऊस" },
+    { "question_number": 142, "question_type": "One-Word", "question": "‘पुष्ट’ म्हणजे काय?", "answer": "बळकट" },
+    { "question_number": 143, "question_type": "One-Word", "question": "‘अंतर’ म्हणजे काय?", "answer": "मन" },
+    { "question_number": 144, "question_type": "One-Word", "question": "‘तृषा’ म्हणजे काय?", "answer": "तहान" },
+    { "question_number": 145, "question_type": "One-Word", "question": "‘वाटसरू’ म्हणजे काय?", "answer": "प्रवासी" },
+    { "question_number": 146, "question_type": "One-Word", "question": "‘तरुवर’ म्हणजे काय?", "answer": "वृक्ष" },
+    { "question_number": 147, "question_type": "One-Word", "question": "‘मेघ’ म्हणजे काय?", "answer": "ढग" },
+    { "question_number": 148, "question_type": "One-Word", "question": "‘दिवा’ म्हणजे काय?", "answer": "प्रकाशदाता" },
+    { "question_number": 149, "question_type": "One-Word", "question": "‘फूल’ म्हणजे काय?", "answer": "पुष्प" },
+    { "question_number": 150, "question_type": "One-Word", "question": "कवितेचा संदेश काय?", "answer": "परोपकार" }
+  ]
+}

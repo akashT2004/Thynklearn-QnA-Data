@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.15",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "चुंबकाची गंमत"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ज्या पदार्थांकडे लोखंडी वस्तू आकर्षल्या जातात, त्या पदार्थाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "विद्युत", "is_correct": false },
+        { "option_id": 2, "text": "चुंबक", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "चुंबक"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ चुंबकीय आहे?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "कोबाल्ट", "is_correct": true },
+        { "option_id": 3, "text": "कागद", "is_correct": false },
+        { "option_id": 4, "text": "रबर", "is_correct": false }
+      ],
+      "answer": "कोबाल्ट"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे दोन्ही टोकं कोणत्या नावाने ओळखली जातात?",
+      "options": [
+        { "option_id": 1, "text": "ध्रुव", "is_correct": true },
+        { "option_id": 2, "text": "कोन", "is_correct": false },
+        { "option_id": 3, "text": "कडा", "is_correct": false },
+        { "option_id": 4, "text": "बिंदू", "is_correct": false }
+      ],
+      "answer": "ध्रुव"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मुक्तपणे टांगलेला चुंबक कोणत्या दिशेला स्थिरावतो?",
+      "options": [
+        { "option_id": 1, "text": "पूर्व-पश्चिम", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण-उत्तर", "is_correct": true },
+        { "option_id": 3, "text": "कोणत्याही दिशेला", "is_correct": false },
+        { "option_id": 4, "text": "ईशान्य-नैऋत्य", "is_correct": false }
+      ],
+      "answer": "दक्षिण-उत्तर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "चुंबकाच्या सजातीय ध्रुवांमध्ये (उदा. उत्तर-उत्तर) काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आकर्षण", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिकर्षण", "is_correct": true },
+        { "option_id": 3, "text": "काहीही होत नाही", "is_correct": false },
+        { "option_id": 4, "text": "विद्युत निर्मिती", "is_correct": false }
+      ],
+      "answer": "प्रतिकर्षण"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मॅग्नेटाइट हा कोणत्या प्रकारचा चुंबक आहे?",
+      "options": [
+        { "option_id": 1, "text": "कृत्रिम", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक", "is_correct": true },
+        { "option_id": 3, "text": "विद्युत चुंबक", "is_correct": false },
+        { "option_id": 4, "text": "हंगामी", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दिशानिर्देशासाठी कोणत्या साधनाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "होकायंत्र", "is_correct": true },
+        { "option_id": 2, "text": "थर्मामीटर", "is_correct": false },
+        { "option_id": 3, "text": "बॅरोमीटर", "is_correct": false },
+        { "option_id": 4, "text": "विद्युत दिवा", "is_correct": false }
+      ],
+      "answer": "होकायंत्र"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लोखंडाचा कीस चुंबकाच्या कोणत्या भागात सर्वाधिक चिकटतो?",
+      "options": [
+        { "option_id": 1, "text": "मध्यभागी", "is_correct": false },
+        { "option_id": 2, "text": "दोन्ही ध्रुवांकडे", "is_correct": true },
+        { "option_id": 3, "text": "वरच्या बाजूला", "is_correct": false },
+        { "option_id": 4, "text": "फक्त दक्षिण ध्रुवाकडे", "is_correct": false }
+      ],
+      "answer": "दोन्ही ध्रुवांकडे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "विद्युत प्रवाहाच्या साहाय्याने तयार होणाऱ्या चुंबकाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "कायम चुंबक", "is_correct": false },
+        { "option_id": 2, "text": "विद्युत चुंबक", "is_correct": true },
+        { "option_id": 3, "text": "नैसर्गिक चुंबक", "is_correct": false },
+        { "option_id": 4, "text": "पट्टी चुंबक", "is_correct": false }
+      ],
+      "answer": "विद्युत चुंबक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "चुंबकाचा शोध कोठे लागला?",
+      "options": [
+        { "option_id": 1, "text": "भारत", "is_correct": false },
+        { "option_id": 2, "text": "ग्रीस (मॅग्नेशिया)", "is_correct": true },
+        { "option_id": 3, "text": "चीन", "is_correct": false },
+        { "option_id": 4, "text": "अमेरिका", "is_correct": false }
+      ],
+      "answer": "ग्रीस (मॅग्नेशिया)"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता अचुंबकीय पदार्थ आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "ॲल्युमिनियम", "is_correct": true },
+        { "option_id": 3, "text": "निकेल", "is_correct": false },
+        { "option_id": 4, "text": "कोबाल्ट", "is_correct": false }
+      ],
+      "answer": "ॲल्युमिनियम"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे उत्तर आणि दक्षिण ध्रुव एकमेकांपासून वेगळे करता येतात का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "काही वेळा", "is_correct": false },
+        { "option_id": 4, "text": "केवळ मोठ्या चुंबकात", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "जर पट्टी चुंबकाचे दोन तुकडे केले तर किती ध्रुव तयार होतील?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "एक", "is_correct": false },
+        { "option_id": 4, "text": "शून्य", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चुंबकत्वाचा खरा निकष कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "आकर्षण", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिकर्षण", "is_correct": true },
+        { "option_id": 3, "text": "रंग", "is_correct": false },
+        { "option_id": 4, "text": "वजन", "is_correct": false }
+      ],
+      "answer": "प्रतिकर्षण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कचऱ्यातून लोखंडी वस्तू वेगळ्या करण्यासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "विद्युत चुंबक", "is_correct": true },
+        { "option_id": 2, "text": "गाळणी", "is_correct": false },
+        { "option_id": 3, "text": "केमिकल", "is_correct": false },
+        { "option_id": 4, "text": "काठी", "is_correct": false }
+      ],
+      "answer": "विद्युत चुंबक"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "चुंबक कशामुळे नष्ट होऊ शकतो?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात टाकल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "गरम केल्यामुळे किंवा आपटल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "हवेत ठेवल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "तेलात बुडवल्यामुळे", "is_correct": false }
+      ],
+      "answer": "गरम केल्यामुळे किंवा आपटल्यामुळे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "विद्युत चुंबकत्व कोणी शोधले?",
+      "options": [
+        { "option_id": 1, "text": "हॅन्स ख्रिश्चन ओरस्टेड", "is_correct": true },
+        { "option_id": 2, "text": "न्यूटन", "is_correct": false },
+        { "option_id": 3, "text": "एडिसन", "is_correct": false },
+        { "option_id": 4, "text": "आईन्स्टाईन", "is_correct": false }
+      ],
+      "answer": "हॅन्स ख्रिश्चन ओरस्टेड"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लोह, निकेल, कोबाल्ट यांचे मिश्रण असलेल्या धातूला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अचुंबकीय", "is_correct": false },
+        { "option_id": 2, "text": "चुंबकीय संमिश्र", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "लाख", "is_correct": false }
+      ],
+      "answer": "चुंबकीय संमिश्र"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मॅग्लेव्ह ट्रेनमध्ये कोणत्या तत्वाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "गुरुत्वाकर्षण", "is_correct": false },
+        { "option_id": 2, "text": "चुंबकत्व आणि प्रतिकर्षण", "is_correct": true },
+        { "option_id": 3, "text": "वाफ", "is_correct": false },
+        { "option_id": 4, "text": "कोळसा", "is_correct": false }
+      ],
+      "answer": "चुंबकत्व आणि प्रतिकर्षण"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ATM कार्डच्या पाठीमागे असलेली काळी पट्टी काय असते?",
+      "options": [
+        { "option_id": 1, "text": "प्लास्टिक पट्टी", "is_correct": false },
+        { "option_id": 2, "text": "चुंबकीय पट्टी", "is_correct": true },
+        { "option_id": 3, "text": "लोखंडी तार", "is_correct": false },
+        { "option_id": 4, "text": "रंग", "is_correct": false }
+      ],
+      "answer": "चुंबकीय पट्टी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता आकार चुंबकाचा नसतो?",
+      "options": [
+        { "option_id": 1, "text": "पट्टी चुंबक", "is_correct": false },
+        { "option_id": 2, "text": "नालकृती चुंबक", "is_correct": false },
+        { "option_id": 3, "text": "त्रिकोणी चुंबक (सामान्यतः)", "is_correct": true },
+        { "option_id": 4, "text": "चकती चुंबक", "is_correct": false }
+      ],
+      "answer": "त्रिकोणी चुंबक (सामान्यतः)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "चुंबकाचा उत्तर ध्रुव कोणत्या अक्षराने दर्शवतात?",
+      "options": [
+        { "option_id": 1, "text": "S", "is_correct": false },
+        { "option_id": 2, "text": "N", "is_correct": true },
+        { "option_id": 3, "text": "E", "is_correct": false },
+        { "option_id": 4, "text": "W", "is_correct": false }
+      ],
+      "answer": "N"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "नालकृती चुंबकात ध्रुव कोठे असतात?",
+      "options": [
+        { "option_id": 1, "text": "मध्यभागी", "is_correct": false },
+        { "option_id": 2, "text": "टोकांकडे", "is_correct": true },
+        { "option_id": 3, "text": "वक्र भागावर", "is_correct": false },
+        { "option_id": 4, "text": "असतातच नाहीत", "is_correct": false }
+      ],
+      "answer": "टोकांकडे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "एका चुंबकाच्या सानिध्यात दुसरा चुंबकीय पदार्थ नेल्यास त्यात निर्माण होणाऱ्या चुंबकत्वास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रवर्तित चुंबकत्व", "is_correct": true },
+        { "option_id": 2, "text": "कायम चुंबकत्व", "is_correct": false },
+        { "option_id": 3, "text": "विद्युत चुंबकत्व", "is_correct": false },
+        { "option_id": 4, "text": "नैसर्गिक चुंबकत्व", "is_correct": false }
+      ],
+      "answer": "प्रवर्तित चुंबकत्व"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "चुंबकाचा दक्षिण ध्रुव कोणत्या अक्षराने दर्शवतात?",
+      "options": [
+        { "option_id": 1, "text": "N", "is_correct": false },
+        { "option_id": 2, "text": "S", "is_correct": true },
+        { "option_id": 3, "text": "P", "is_correct": false },
+        { "option_id": 4, "text": "M", "is_correct": false }
+      ],
+      "answer": "S"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "चुंबकाच्या विजातीय ध्रुवांमध्ये (उदा. उत्तर-दक्षिण) काय होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रतिकर्षण", "is_correct": false },
+        { "option_id": 2, "text": "आकर्षण", "is_correct": true },
+        { "option_id": 3, "text": "काहीही नाही", "is_correct": false },
+        { "option_id": 4, "text": "स्पोट", "is_correct": false }
+      ],
+      "answer": "आकर्षण"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "विद्युत चुंबकाचा वापर खालीलपैकी कशात केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "इलेक्ट्रिक बेल", "is_correct": true },
+        { "option_id": 2, "text": "पेन्सिल", "is_correct": false },
+        { "option_id": 3, "text": "साधी कपाट", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याची बादली", "is_correct": false }
+      ],
+      "answer": "इलेक्ट्रिक बेल"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "लोहचुंबक कशाला चिकटत नाही?",
+      "options": [
+        { "option_id": 1, "text": "टाचणी", "is_correct": false },
+        { "option_id": 2, "text": "खिळा", "is_correct": false },
+        { "option_id": 3, "text": "सोने", "is_correct": true },
+        { "option_id": 4, "text": "सुरी", "is_correct": false }
+      ],
+      "answer": "सोने"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "टांगलेल्या चुंबकाचा जो टोक दक्षिण दिशेला राहतो त्याला कोणता ध्रुव म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर ध्रुव", "is_correct": false },
+        { "option_id": 2, "text": "दक्षिण ध्रुव", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व ध्रुव", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम ध्रुव", "is_correct": false }
+      ],
+      "answer": "दक्षिण ध्रुव"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "चुंबकाचे रक्षण करण्यासाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "मऊ लोखंडी पट्ट्या (Keepers)", "is_correct": true },
+        { "option_id": 2, "text": "कापूस", "is_correct": false },
+        { "option_id": 3, "text": "प्लास्टिक पिशवी", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "मऊ लोखंडी पट्ट्या (Keepers)"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थाकडे लोखंड, निकेल, कोबाल्ट इत्यादींपासून बनवलेल्या वस्तू आकर्षल्या जातात, त्या पदार्थाला 'चुंबक' म्हणतात."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "चुंबकत्व म्हणजे काय?",
+      "answer": "चुंबकाने चुंबकीय पदार्थांना आपल्याकडे आकर्षित करून घेण्याच्या गुणधर्माला चुंबकत्व म्हणतात."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "चुंबकीय पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ चुंबकाला चिकटतात त्यांना चुंबकीय पदार्थ म्हणतात. उदा. लोखंड, कोबाल्ट, निकेल."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "अचुंबकीय पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ चुंबकाला चिकटत नाहीत त्यांना अचुंबकीय पदार्थ म्हणतात. उदा. लाकूड, काच, प्लास्टिक."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक चुंबकाचे नाव सांगा.",
+      "answer": "मॅग्नेटाइट (Magnetite) हा नैसर्गिक चुंबक आहे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचे प्रमुख आकार कोणते आहेत?",
+      "answer": "पट्टी चुंबक, नालकृती चुंबक, चकती चुंबक, दंडगोलाकार चुंबक आणि सुई चुंबक हे प्रमुख आकार आहेत."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचे दोन ध्रुव कोणते?",
+      "answer": "चुंबकाचे दोन ध्रुव म्हणजे उत्तर ध्रुव (N) आणि दक्षिण ध्रुव (S) होत."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "होकायंत्राचा वापर कशासाठी केला जातो?",
+      "answer": "दिशा ओळखण्यासाठी किंवा समुद्रप्रवासात दिशा निश्चित करण्यासाठी होकायंत्राचा वापर केला जातो."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "चुंबकाची शक्ती कोठे सर्वात जास्त असते?",
+      "answer": "चुंबकाची शक्ती त्याच्या दोन्ही ध्रुवांकडे (टोकांकडे) सर्वात जास्त असते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "विद्युत चुंबक कसा तयार होतो?",
+      "answer": "लोखंडी खिळ्याभोवती तांब्याची तार गुंडाळून त्यातून विद्युत प्रवाह सोडल्यास खिळ्यामध्ये चुंबकत्व निर्माण होते, याला विद्युत चुंबक म्हणतात."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "चुंबकाच्या सजातीय ध्रुवांमध्ये काय होते?",
+      "answer": "चुंबकाच्या सजातीय ध्रुवांमध्ये (उदा. N-N किंवा S-S) प्रतिकर्षण होते, म्हणजेच ते एकमेकांपासून लांब जातात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "चुंबकाच्या विजातीय ध्रुवांमध्ये काय होते?",
+      "answer": "चुंबकाच्या विजातीय ध्रुवांमध्ये (उदा. N-S) आकर्षण होते, म्हणजेच ते एकमेकांकडे खेचले जातात."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "प्रवर्तित चुंबकत्व म्हणजे काय?",
+      "answer": "एखाद्या चुंबकीय पदार्थाच्या जवळ चुंबक नेल्यास त्या पदार्थात तात्पुरते चुंबकत्व निर्माण होते, त्याला प्रवर्तित चुंबकत्व म्हणतात."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "चुंबकत्वाचा शोध कोणावरून लागला असावा?",
+      "answer": "मॅग्नस नावाच्या धनगराच्या नावावरून किंवा मॅग्नेशिया या गावाच्या नावावरून चुंबकाचे (मॅग्नेट) नाव पडले असावे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "लोडस्टोन म्हणजे काय?",
+      "answer": "जहाज प्रवासात दिशा दाखवण्यासाठी वापरल्या जाणाऱ्या मॅग्नेटाइटच्या दगडाला 'लोडस्टोन' (Leading Stone) म्हणतात."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "चुंबकत्व नष्ट होण्याची दोन कारणे लिहा.",
+      "answer": "१. चुंबक गरम केल्यास आणि २. चुंबक उंचावरून खाली आपटल्यास त्याचे चुंबकत्व नष्ट होते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "एका पट्टी चुंबकाचे मधोमध कापून तुकडे केल्यास काय होईल?",
+      "answer": "दोन स्वतंत्र चुंबक तयार होतील आणि प्रत्येक तुकड्याला स्वतःचे उत्तर आणि दक्षिण ध्रुव असतील."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "दैनंदिन जीवनात चुंबक कोठे वापरला जातो?",
+      "answer": "पिन होल्डर, फ्रीजचे दार, कपाटांची दारे, स्पीकर, मोबाईल आणि इलेक्ट्रिक बेलमध्ये चुंबक वापरला जातो."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "चुंबक सुरक्षित ठेवण्यासाठी काय करावे?",
+      "answer": "चुंबकाचे ध्रुव सुरक्षित ठेवण्यासाठी मऊ लोखंडी पट्ट्यांचा (Keepers) वापर करावा."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "मॅग्लेव्ह ट्रेन हवेत कशी तरंगते?",
+      "answer": "रुळ आणि ट्रेन यांच्यातील चुंबकामध्ये होणाऱ्या प्रतिकर्षणामुळे ट्रेन रुळापासून थोडी वर उचलली जाते आणि हवेत तरंगते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "कृत्रिम चुंबक कशापासून बनवले जातात?",
+      "answer": "लोखंड, पोलाद, निकेल आणि कोबाल्ट यांसारख्या पदार्थांपासून कृत्रिम चुंबक बनवले जातात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "अल्निको (Alnico) म्हणजे काय?",
+      "answer": "ॲल्युमिनियम, निकेल आणि कोबाल्ट यांच्या संमिश्रापासून बनवलेल्या चुंबकाला अल्निको म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "विद्युत चुंबक कायमस्वरूपी असतो का?",
+      "answer": "नाही, जोपर्यंत त्यातून विद्युत प्रवाह सुरू असतो तोपर्यंतच त्यात चुंबकत्व असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "पृथ्वी एक प्रचंड मोठा चुंबक आहे, हे कसे सिद्ध होते?",
+      "answer": "मुक्तपणे टांगलेला चुंबक नेहमी दक्षिण-उत्तर दिशेत स्थिरावतो, यावरून सिद्ध होते की पृथ्वी एक चुंबक आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचा मध्यभाग काय दर्शवतो?",
+      "answer": "चुंबकाच्या मध्यभागी चुंबकत्व खूप कमी किंवा शून्य असते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "चुंबकत्वाचा 'प्रतिकर्षण' हाच खरा निकष का आहे?",
+      "answer": "कारण एखादा चुंबक लोखंडालाही आकर्षित करतो आणि दुसऱ्या चुंबकाच्या विजातीय ध्रुवालाही, पण प्रतिकर्षण फक्त दोन चुंबकांच्या सजातीय ध्रुवांमध्येच होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "पट्टी चुंबकाचा आकार कसा असतो?",
+      "answer": "पट्टी चुंबक लांबट आणि आयताकृती आकाराचा असतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "होकायंत्रातील सुई काय असते?",
+      "answer": "होकायंत्रातील सुई हा एक छोटा चुंबक असतो जो मुक्तपणे फिरू शकतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "क्रनमध्ये मोठ्या विद्युत चुंबकाचा काय उपयोग होतो?",
+      "answer": "मोठमोठ्या लोखंडी वस्तू किंवा भंगार उचलण्यासाठी आणि एका ठिकाणाहून दुसऱ्या ठिकाणी नेण्यासाठी होतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "नालकृती चुंबकाचा उपयोग सांगा.",
+      "answer": "नालकृती चुंबकाचे दोन्ही ध्रुव जवळ असल्याने त्याचा वापर शक्तिशाली चुंबकीय क्षेत्र मिळवण्यासाठी केला जातो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "चुंबकाला नेहमी दोनच ध्रुव असतात का?",
+      "answer": "हो, चुंबकाला नेहमी दोनच ध्रुव असतात आणि ते एकमेकांपासून वेगळे करता येत नाहीत."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "चुंबकत्वाचे दोन मुख्य प्रकार सांगा.",
+      "answer": "१. नैसर्गिक चुंबकत्व आणि २. कृत्रिम चुंबकत्व."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचा शोध कोणी लावला असे मानले जाते?",
+      "answer": "मॅग्नस नावाच्या ग्रीक धनगराने चुंबकाचा शोध लावला असे मानले जाते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "चुंबकाच्या साहाय्याने खेळा कसा तयार कराल?",
+      "answer": "लोखंडी खिळ्यावर चुंबकाचे एक टोक एकाच दिशेने वारंवार घासल्यास खिळ्यात चुंबकत्व निर्माण होईल."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "विद्युत चुंबकाची शक्ती कशी वाढवता येते?",
+      "answer": "विद्युत प्रवाह वाढवून किंवा तारेच्या वेढ्यांची (coils) संख्या वाढवून शक्ती वाढवता येते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "जंगलात वाट चुकल्यास तुम्ही काय कराल?",
+      "answer": "मी माझ्याकडे असलेल्या होकायंत्राचा वापर करून उत्तर-दक्षिण दिशा ओळखून योग्य मार्ग शोधेन."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचा उत्तर ध्रुव पृथ्वीच्या कोणत्या ध्रुवाकडे आकर्षित होतो?",
+      "answer": "चुंबकाचा उत्तर ध्रुव पृथ्वीच्या भौगोलिक उत्तर ध्रुवाकडे आकर्षित होतो (कारण तिथे पृथ्वीचा चुंबकीय दक्षिण ध्रुव असतो)."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचा वापर असलेल्या एका खेळण्याचे नाव सांगा.",
+      "answer": "चुंबकाची मासेमारी (Magnetic fishing game) हे चुंबकाचा वापर असलेले एक खेळणे आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "चुंबकीय सुई नेहमी कोणत्या दिशेत राहते?",
+      "answer": "चुंबकीय सुई नेहमी उत्तर-दक्षिण दिशेत स्थिर राहते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "निओडिमियम (Neodymium) चुंबक काय आहे?",
+      "answer": "हा एक अतिशय शक्तिशाली कृत्रिम चुंबक आहे जो आधुनिक उपकरणांमध्ये वापरला जातो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "तुमच्या कंपास पेटीत चुंबक कोठे असू शकतो?",
+      "answer": "कंपास पेटीचे झाकण नीट लागावे यासाठी त्याच्या कडेला चुंबक असू शकतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "एका बशीत वाळू आणि लोखंडी कीस मिसळला आहे, तो कसा वेगळा कराल?",
+      "answer": "मी त्या मिश्रणावरून चुंबक फिरवेन, जेणेकरून लोखंडी कीस चुंबकाला चिकटेल आणि वाळू खाली राहील."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "चुंबक आपटल्यास काय होते?",
+      "answer": "चुंबक आपटल्यास त्यातील रेणूंची मांडणी विस्कळीत होते आणि त्याचे चुंबकत्व नष्ट होते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "नालकृती चुंबकाला ध्रुव कोठे असतात?",
+      "answer": "नालकृती चुंबकाच्या दोन उघड्या टोकांकडे उत्तर आणि दक्षिण ध्रुव असतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "तात्पुरता चुंबक म्हणजे काय?",
+      "answer": "ज्या पदार्थात चुंबकत्व फक्त काही काळासाठीच टिकते, त्याला तात्पुरता चुंबक म्हणतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "मॅग्लेव्ह रेल्वेचा वेग किती असू शकतो?",
+      "answer": "मॅग्लेव्ह रेल्वेचा वेग ताशी ५०० ते ६०० किलोमीटर इतका प्रचंड असू शकतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "पिन होल्डरमध्ये पिन का पडत नाहीत?",
+      "answer": "पिन होल्डरच्या झाकणात बसवलेला चुंबक पिनना धरून ठेवतो, म्हणून त्या पडत नाहीत."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "चुंबक आणि विद्युत यांचा काय संबंध आहे?",
+      "answer": "विद्युत प्रवाहामुळे चुंबकत्व निर्माण करता येते आणि चुंबकामुळे विद्युत निर्मिती करता येते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "विमानामध्ये दिशा ओळखण्यासाठी काय वापरतात?",
+      "answer": "विमानामध्ये आधुनिक चुंबकीय होकायंत्रे आणि उपग्रहावर आधारित यंत्रणा वापरली जाते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "कायम चुंबक कशापासून बनवतात?",
+      "answer": "कायम चुंबक पोलाद (Steel) किंवा लोह-निकेल-कोबाल्ट यांच्या मिश्रणातून बनवतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचा 'S' ध्रुव काय दर्शवतो?",
+      "answer": "तो चुंबकाचा दक्षिण ध्रुव (South pole) दर्शवतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "कायम चुंबकत्वाचे एक उदाहरण द्या.",
+      "answer": "रेडिओ किंवा लाऊडस्पीकरमध्ये वापरला जाणारा चुंबक हा कायम चुंबक असतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "चुंबकामुळे कोणती ऊर्जा मिळते?",
+      "answer": "चुंबकामुळे चुंबकीय ऊर्जा मिळते, जिचे रूपांतर यांत्रिक किंवा विद्युत ऊर्जेत करता येते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "चकती चुंबक कोठे वापरला जातो?",
+      "answer": "खेळण्यांमध्ये, मोबाईलच्या कव्हरमध्ये आणि लहान उपकरणांमध्ये चकती चुंबक वापरला जातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "चुंबक ओल्या हाताने हाताळला तर काय होईल?",
+      "answer": "चुंबक ओल्या हाताने हाताळल्यास लोखंडी चुंबकाला गंज चढू शकतो, ज्यामुळे तो खराब होईल."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीचे चुंबकीय ध्रुव आणि भौगोलिक ध्रुव एकाच ठिकाणी असतात का?",
+      "answer": "नाही, त्यांच्यामध्ये थोडा फरक किंवा अंतर असते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचा 'N' ध्रुव कशाने रंगवलेला असतो?",
+      "answer": "सामान्यतः चुंबकाचा उत्तर ध्रुव लाल रंगाने किंवा पांढऱ्या ठिपक्याने दर्शवलेला असतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "चुंबकत्व हे अदृश्य असते का?",
+      "answer": "हो, चुंबकत्व डोळ्यांनी दिसत नाही पण लोखंडी वस्तूंच्या आकर्षणावरून ते जाणवते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचा मध्यभाग अचुंबकीय का असतो?",
+      "answer": "कारण चुंबकाच्या दोन्ही ध्रुवांकडील शक्ती मध्यभागी एकमेकांना निष्प्रभ करतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "चुंबकाचे रक्षण का करावे?",
+      "answer": "चुंबक सुरक्षित न ठेवल्यास त्याचे चुंबकत्व हळूहळू कमी होऊन तो एक साधा धातूचा तुकडा बनेल."
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "chapter_info": {
+    "chapter_number": "१०",
+    "grade": "६",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "प्राचीन भारत : सांस्कृतिक"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतातील साहित्याची समृद्ध परंपरा कोणत्या भाषेपासून सुरू झाली?",
+      "options": [
+        { "option_number": 1, "text": "पाली", "is_correct": false },
+        { "option_number": 2, "text": "अर्धमागधी", "is_correct": false },
+        { "option_number": 3, "text": "संस्कृत आणि प्राकृत", "is_correct": true },
+        { "option_number": 4, "text": "हिंदी", "is_correct": false }
+      ],
+      "answer": "संस्कृत आणि प्राकृत"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "भगवान महावीरांचे उपदेश कोणत्या भाषेत संकलित केले आहेत?",
+      "options": [
+        { "option_number": 1, "text": "पाली", "is_correct": false },
+        { "option_number": 2, "text": "अर्धमागधी", "is_correct": true },
+        { "option_number": 3, "text": "संस्कृत", "is_correct": false },
+        { "option_number": 4, "text": "अपभ्रंश", "is_correct": false }
+      ],
+      "answer": "अर्धमागधी"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन धर्माच्या आगमग्रंथांचे संकलन कोणत्या ठिकाणी झालेल्या सभेत झाले?",
+      "options": [
+        { "option_number": 1, "text": "पाटलिपुत्र आणि वल्लभी", "is_correct": true },
+        { "option_number": 2, "text": "राजगृह", "is_correct": false },
+        { "option_number": 3, "text": "वैशाली", "is_correct": false },
+        { "option_number": 4, "text": "नालंदा", "is_correct": false }
+      ],
+      "answer": "पाटलिपुत्र आणि वल्लभी"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध धर्माच्या 'त्रिपिटक' या ग्रंथाची भाषा कोणती आहे?",
+      "options": [
+        { "option_number": 1, "text": "अर्धमागधी", "is_correct": false },
+        { "option_number": 2, "text": "संस्कृत", "is_correct": false },
+        { "option_number": 3, "text": "पाली", "is_correct": true },
+        { "option_number": 4, "text": "प्राकृत", "is_correct": false }
+      ],
+      "answer": "पाली"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांच्या वचनांचा संग्रह कोणत्या पिटकात आहे?",
+      "options": [
+        { "option_number": 1, "text": "विनयपिटक", "is_correct": false },
+        { "option_number": 2, "text": "अभिधम्मपिटक", "is_correct": false },
+        { "option_number": 3, "text": "सुत्तपिटक", "is_correct": true },
+        { "option_number": 4, "text": "थेरीगाथा", "is_correct": false }
+      ],
+      "answer": "सुत्तपिटक"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध भिक्खूंनी दैनंदिन जीवनात कसे वागावे, याचे नियम कोणत्या ग्रंथात आहेत?",
+      "options": [
+        { "option_number": 1, "text": "विनयपिटक", "is_correct": true },
+        { "option_number": 2, "text": "सुत्तपिटक", "is_correct": false },
+        { "option_number": 3, "text": "अभिधम्मपिटक", "is_correct": false },
+        { "option_number": 4, "text": "आगम", "is_correct": false }
+      ],
+      "answer": "विनयपिटक"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "भगवद्गीता हा कोणत्या महाकाव्याचा एक भाग आहे?",
+      "options": [
+        { "option_number": 1, "text": "रामायण", "is_correct": false },
+        { "option_number": 2, "text": "महाभारत", "is_correct": true },
+        { "option_number": 3, "text": "बुद्धचरित", "is_correct": false },
+        { "option_number": 4, "text": "हर्षचरित", "is_correct": false }
+      ],
+      "answer": "महाभारत"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "रामायण हे महाकाव्य कोणी रचले?",
+      "options": [
+        { "option_number": 1, "text": "व्यास ऋषी", "is_correct": false },
+        { "option_number": 2, "text": "वाल्मीकी ऋषी", "is_correct": true },
+        { "option_number": 3, "text": "कालिदास", "is_correct": false },
+        { "option_number": 4, "text": "बाणभट्ट", "is_correct": false }
+      ],
+      "answer": "वाल्मीकी ऋषी"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "महाभारत हे महाकाव्य कोणाची रचना आहे?",
+      "options": [
+        { "option_number": 1, "text": "व्यास ऋषी", "is_correct": true },
+        { "option_number": 2, "text": "वाल्मीकी ऋषी", "is_correct": false },
+        { "option_number": 3, "text": "भास", "is_correct": false },
+        { "option_number": 4, "text": "भवभूती", "is_correct": false }
+      ],
+      "answer": "व्यास ऋषी"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "दक्षिण भारतातील प्राचीन साहित्याला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "वेद साहित्य", "is_correct": false },
+        { "option_number": 2, "text": "संगम साहित्य", "is_correct": true },
+        { "option_number": 3, "text": "जैन साहित्य", "is_correct": false },
+        { "option_number": 4, "text": "बौद्ध साहित्य", "is_correct": false }
+      ],
+      "answer": "संगम साहित्य"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "संस्कृत व्याकरणाचा 'अष्टाध्यायी' हा ग्रंथ कोणी लिहिला?",
+      "options": [
+        { "option_number": 1, "text": "पतंजली", "is_correct": false },
+        { "option_number": 2, "text": "कालिदास", "is_correct": false },
+        { "option_number": 3, "text": "पाणिनी", "is_correct": true },
+        { "option_number": 4, "text": "कौटिल्य", "is_correct": false }
+      ],
+      "answer": "पाणिनी"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "कौटिल्याने कोणता प्रसिद्ध ग्रंथ लिहिला?",
+      "options": [
+        { "option_number": 1, "text": "इंडिका", "is_correct": false },
+        { "option_number": 2, "text": "अर्थशास्त्र", "is_correct": true },
+        { "option_number": 3, "text": "मुद्राराक्षस", "is_correct": false },
+        { "option_number": 4, "text": "स्वप्नवासवदत्त", "is_correct": false }
+      ],
+      "answer": "अर्थशास्त्र"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतातील वैद्यकशास्त्राला काय म्हटले जाते?",
+      "options": [
+        { "option_number": 1, "text": "भौतिकशास्त्र", "is_correct": false },
+        { "option_number": 2, "text": "आयुर्वेद", "is_correct": true },
+        { "option_number": 3, "text": "रसायनशास्त्र", "is_correct": false },
+        { "option_number": 4, "text": "खगोलशास्त्र", "is_correct": false }
+      ],
+      "answer": "आयुर्वेद"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "रोगांची लक्षणे आणि निदान यांची माहिती देणारा ग्रंथ कोणता?",
+      "options": [
+        { "option_number": 1, "text": "सुश्रुतसंहिता", "is_correct": false },
+        { "option_number": 2, "text": "चरकसंहिता", "is_correct": true },
+        { "option_number": 3, "text": "अष्टांगहृदय", "is_correct": false },
+        { "option_number": 4, "text": "सिद्धयोग", "is_correct": false }
+      ],
+      "answer": "चरकसंहिता"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "शस्त्रक्रियेचे (Surgery) सविस्तर वर्णन कोणत्या ग्रंथात आहे?",
+      "options": [
+        { "option_number": 1, "text": "चरकसंहिता", "is_correct": false },
+        { "option_number": 2, "text": "सुश्रुतसंहिता", "is_correct": true },
+        { "option_number": 3, "text": "अष्टाध्यायी", "is_correct": false },
+        { "option_number": 4, "text": "महाभाष्य", "is_correct": false }
+      ],
+      "answer": "सुश्रुतसंहिता"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "गणितात शून्याचा शोध आणि स्थानिक किंमत कोणी मांडली?",
+      "options": [
+        { "option_number": 1, "text": "वराहमिहीर", "is_correct": false },
+        { "option_number": 2, "text": "आर्यभट्ट", "is_correct": true },
+        { "option_number": 3, "text": "भास्कराचार्य", "is_correct": false },
+        { "option_number": 4, "text": "ब्रह्मगुप्त", "is_correct": false }
+      ],
+      "answer": "आर्यभट्ट"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "पृथ्वी सूर्याभोवती फिरते, हे सर्वप्रथम कोणी सांगितले?",
+      "options": [
+        { "option_number": 1, "text": "आर्यभट्ट", "is_correct": true },
+        { "option_number": 2, "text": "वराहमिहीर", "is_correct": false },
+        { "option_number": 3, "text": "गॅलिलीओ", "is_correct": false },
+        { "option_number": 4, "text": "कणाद", "is_correct": false }
+      ],
+      "answer": "आर्यभट्ट"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "तक्षशिला विद्यापीठ सध्या कोणत्या देशात आहे?",
+      "options": [
+        { "option_number": 1, "text": "भारत", "is_correct": false },
+        { "option_number": 2, "text": "पाकिस्तान", "is_correct": true },
+        { "option_number": 3, "text": "अफगाणिस्तान", "is_correct": false },
+        { "option_number": 4, "text": "नेपाळ", "is_correct": false }
+      ],
+      "answer": "पाकिस्तान"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "वाराणसी (काशी) हे केंद्र कशासाठी प्रसिद्ध होते?",
+      "options": [
+        { "option_number": 1, "text": "युद्धकला", "is_correct": false },
+        { "option_number": 2, "text": "शिक्षण आणि धार्मिक केंद्र", "is_correct": true },
+        { "option_number": 3, "text": "आरमार", "is_correct": false },
+        { "option_number": 4, "text": "नौकाबांधणी", "is_correct": false }
+      ],
+      "answer": "शिक्षण आणि धार्मिक केंद्र"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "नालंदा विद्यापीठ कोणत्या आजच्या राज्यात होते?",
+      "options": [
+        { "option_number": 1, "text": "बिहार", "is_correct": true },
+        { "option_number": 2, "text": "उत्तर प्रदेश", "is_correct": false },
+        { "option_number": 3, "text": "मध्य प्रदेश", "is_correct": false },
+        { "option_number": 4, "text": "ओडिशा", "is_correct": false }
+      ],
+      "answer": "बिहार"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "नालंदा विद्यापीठात शिक्षण घेतलेला प्रसिद्ध चिनी प्रवासी कोण?",
+      "options": [
+        { "option_number": 1, "text": "फाहियान", "is_correct": false },
+        { "option_number": 2, "text": "युआन श्वांग", "is_correct": true },
+        { "option_number": 3, "text": "मेगॅस्थिनिस", "is_correct": false },
+        { "option_number": 4, "text": "इत्सिंग", "is_correct": false }
+      ],
+      "answer": "युआन श्वांग"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "कांचि विद्यापीठ कोणत्या राजसत्तेच्या काळात शिक्षणाचे मोठे केंद्र होते?",
+      "options": [
+        { "option_number": 1, "text": "गुप्त", "is_correct": false },
+        { "option_number": 2, "text": "पल्लव", "is_correct": true },
+        { "option_number": 3, "text": "चोळ", "is_correct": false },
+        { "option_number": 4, "text": "चालुक्य", "is_correct": false }
+      ],
+      "answer": "पल्लव"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतातील स्थापत्यकलेचा उत्कृष्ट नमुना कोणता?",
+      "options": [
+        { "option_number": 1, "text": "सांचीचा स्तूप", "is_correct": true },
+        { "option_number": 2, "text": "विमान", "is_correct": false },
+        { "option_number": 3, "text": "लोहस्तंभ", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी सर्व", "is_correct": false }
+      ],
+      "answer": "सांचीचा स्तूप"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "अजिंठा आणि वेरूळ येथील लेणी कोणत्या कलेसाठी प्रसिद्ध आहेत?",
+      "options": [
+        { "option_number": 1, "text": "शिल्पकला", "is_correct": false },
+        { "option_number": 2, "text": "चित्रकला", "is_correct": false },
+        { "option_number": 3, "text": "शिल्प आणि चित्रकला", "is_correct": true },
+        { "option_number": 4, "text": "गांधार कला", "is_correct": false }
+      ],
+      "answer": "शिल्प आणि चित्रकला"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळी भारतातून कोणत्या वस्तूंची मोठ्या प्रमाणावर निर्यात होत असे?",
+      "options": [
+        { "option_number": 1, "text": "मलमल आणि सुती कापड", "is_correct": true },
+        { "option_number": 2, "text": "मसाल्याचे पदार्थ", "is_correct": false },
+        { "option_number": 3, "text": "मौल्यवान रत्ने", "is_correct": false },
+        { "option_number": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "दख्खनच्या पठारावरील प्रसिद्ध व्यापारी केंद्र कोणते होते?",
+      "options": [
+        { "option_number": 1, "text": "पैठण (प्रतिष्ठान)", "is_correct": true },
+        { "option_number": 2, "text": "पाटलिपुत्र", "is_correct": false },
+        { "option_number": 3, "text": "थानेसर", "is_correct": false },
+        { "option_number": 4, "text": "प्रयाग", "is_correct": false }
+      ],
+      "answer": "पैठण (प्रतिष्ठान)"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "तमिळ भाषेतील 'शिलप्पधिकरम' हे काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "व्याकरण ग्रंथ", "is_correct": false },
+        { "option_number": 2, "text": "महाकाव्य", "is_correct": true },
+        { "option_number": 3, "text": "वैद्यकीय ग्रंथ", "is_correct": false },
+        { "option_number": 4, "text": "पुराण", "is_correct": false }
+      ],
+      "answer": "महाकाव्य"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळातील 'विहार' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "भोजन कक्ष", "is_correct": false },
+        { "option_number": 2, "text": "भिक्खूंना राहण्याचे ठिकाण", "is_correct": true },
+        { "option_number": 3, "text": "युद्ध मैदान", "is_correct": false },
+        { "option_number": 4, "text": "बाजारपेठ", "is_correct": false }
+      ],
+      "answer": "भिक्खूंना राहण्याचे ठिकाण"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "अणुसिद्धांत मांडणारे प्राचीन भारतीय शास्त्रज्ञ कोण?",
+      "options": [
+        { "option_number": 1, "text": "आर्यभट्ट", "is_correct": false },
+        { "option_number": 2, "text": "कणाद", "is_correct": true },
+        { "option_number": 3, "text": "भास्कराचार्य", "is_correct": false },
+        { "option_number": 4, "text": "वराहमिहीर", "is_correct": false }
+      ],
+      "answer": "कणाद"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतात स्त्रियांच्या शिक्षणाची स्थिती कशी होती?",
+      "options": [
+        { "option_number": 1, "text": "अजिबात शिक्षण नव्हते", "is_correct": false },
+        { "option_number": 2, "text": "विद्वान स्त्रियांचे उल्लेख आढळतात", "is_correct": true },
+        { "option_number": 3, "text": "केवळ पुरुषांना शिक्षण होते", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "विद्वान स्त्रियांचे उल्लेख आढळतात"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "सातवाहनांच्या काळातील प्रसिद्ध प्राकृत काव्यग्रंथ कोणता?",
+      "options": [
+        { "option_number": 1, "text": "गाथासप्तशती", "is_correct": true },
+        { "option_number": 2, "text": "मेघदूत", "is_correct": false },
+        { "option_number": 3, "text": "हर्षचरित", "is_correct": false },
+        { "option_number": 4, "text": "राजतरांगिणी", "is_correct": false }
+      ],
+      "answer": "गाथासप्तशती"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "गुणाढ्याचा 'बृहत्कथा' हा ग्रंथ कोणत्या भाषेत होता?",
+      "options": [
+        { "option_number": 1, "text": "संस्कृत", "is_correct": false },
+        { "option_number": 2, "text": "पैशाची प्राकृत", "is_correct": true },
+        { "option_number": 3, "text": "पाली", "is_correct": false },
+        { "option_number": 4, "text": "मराठी", "is_correct": false }
+      ],
+      "answer": "पैशाची प्राकृत"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतीय वैद्यकशास्त्रात 'बिली' आणि 'वात' यांसारख्या संकल्पना कशाशी संबंधित आहेत?",
+      "options": [
+        { "option_number": 1, "text": "शस्त्रक्रिया", "is_correct": false },
+        { "option_number": 2, "text": "त्रिदोष", "is_correct": true },
+        { "option_number": 3, "text": "खगोलशास्त्र", "is_correct": false },
+        { "option_number": 4, "text": "नक्षत्र", "is_correct": false }
+      ],
+      "answer": "त्रिदोष"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळातील 'चैत्य' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "बौद्ध प्रार्थनास्थळ", "is_correct": true },
+        { "option_number": 2, "text": "भोजनगृह", "is_correct": false },
+        { "option_number": 3, "text": "व्यापारी केंद्र", "is_correct": false },
+        { "option_number": 4, "text": "राजवाडा", "is_correct": false }
+      ],
+      "answer": "बौद्ध प्रार्थनास्थळ"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "नालंदा विद्यापीठाची ग्रंथालये कोठे होती?",
+      "options": [
+        { "option_number": 1, "text": "धर्मगंज", "is_correct": true },
+        { "option_number": 2, "text": "विहार", "is_correct": false },
+        { "option_number": 3, "text": "चैत्य", "is_correct": false },
+        { "option_number": 4, "text": "आश्रम", "is_correct": false }
+      ],
+      "answer": "धर्मगंज"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "तक्षशिला विद्यापीठ कोणत्या शिक्षणासाठी प्रसिद्ध होते?",
+      "options": [
+        { "option_number": 1, "text": "शस्त्रविद्या आणि वैद्यक", "is_correct": true },
+        { "option_number": 2, "text": "केवळ नृत्य", "is_correct": false },
+        { "option_number": 3, "text": "केवळ चित्रकला", "is_correct": false },
+        { "option_number": 4, "text": "आरमार", "is_correct": false }
+      ],
+      "answer": "शस्त्रविद्या आणि वैद्यक"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतातील 'श्रेणी' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "शिक्षण संस्था", "is_correct": false },
+        { "option_number": 2, "text": "व्यापारी व कारागिरांची संघटना", "is_correct": true },
+        { "option_number": 3, "text": "सैन्य तुकडी", "is_correct": false },
+        { "option_number": 4, "text": "धार्मिक उत्सव", "is_correct": false }
+      ],
+      "answer": "व्यापारी व कारागिरांची संघटना"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "कालिदासाचे प्रसिद्ध खंडकाव्य कोणते?",
+      "options": [
+        { "option_number": 1, "text": "मेघदूत", "is_correct": true },
+        { "option_number": 2, "text": "बुद्धचरित", "is_correct": false },
+        { "option_number": 3, "text": "हर्षचरित", "is_correct": false },
+        { "option_number": 4, "text": "विवेकसिंधू", "is_correct": false }
+      ],
+      "answer": "मेघदूत"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळात भारतातील लोकांचा मुख्य आहार कोणता होता?",
+      "options": [
+        { "option_number": 1, "text": "केवळ मांस", "is_correct": false },
+        { "option_number": 2, "text": "धान्य (तांदूळ, गहू, सातू) आणि दूध-दुभते", "is_correct": true },
+        { "option_number": 3, "text": "केवळ फळे", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "धान्य आणि दूध-दुभते"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रीक इतिहासकारांच्या मते भारतीय सैनिक कशासाठी ओळखले जात?",
+      "options": [
+        { "option_number": 1, "text": "शिस्त आणि शौर्य", "is_correct": true },
+        { "option_number": 2, "text": "केवळ संख्येसाठी", "is_correct": false },
+        { "option_number": 3, "text": "भित्रेपणासाठी", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "शिस्त आणि शौर्य"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळी तक्षशिला विद्यापीठात कोणाचे वास्तव्य होते?",
+      "options": [
+        { "option_number": 1, "text": "चाणक्य आणि जीवक", "is_correct": true },
+        { "option_number": 2, "text": "बाणभट्ट", "is_correct": false },
+        { "option_number": 3, "text": "ज्ञानेश्वर", "is_correct": false },
+        { "option_number": 4, "text": "चक्रधर स्वामी", "is_correct": false }
+      ],
+      "answer": "चाणक्य आणि जीवक"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "भारताची राजमुद्रा कोणत्या ठिकाणच्या स्तंभावरून घेतली आहे?",
+      "options": [
+        { "option_number": 1, "text": "दिल्ली", "is_correct": false },
+        { "option_number": 2, "text": "सारनाथ", "is_correct": true },
+        { "option_number": 3, "text": "सांची", "is_correct": false },
+        { "option_number": 4, "text": "लोथल", "is_correct": false }
+      ],
+      "answer": "सारनाथ"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतीयांनी कापड उद्योगात कशाचा वापर मोठ्या प्रमाणावर केला?",
+      "options": [
+        { "option_number": 1, "text": "रेशीम", "is_correct": false },
+        { "option_number": 2, "text": "कापूस", "is_correct": true },
+        { "option_number": 3, "text": "नायलॉन", "is_correct": false },
+        { "option_number": 4, "text": "लोकर", "is_correct": false }
+      ],
+      "answer": "कापूस"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "नालंदा विद्यापीठाचा खर्च भागवण्यासाठी राजाने किती गावे दान दिली होती?",
+      "options": [
+        { "option_number": 1, "text": "५०", "is_correct": false },
+        { "option_number": 2, "text": "१००", "is_correct": true },
+        { "option_number": 3, "text": "२००", "is_correct": false },
+        { "option_number": 4, "text": "५००", "is_correct": false }
+      ],
+      "answer": "१००"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळातील 'नगर' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "मोठे गाव किंवा शहर", "is_correct": true },
+        { "option_number": 2, "text": "केवळ धार्मिक स्थळ", "is_correct": false },
+        { "option_number": 3, "text": "किल्ला", "is_correct": false },
+        { "option_number": 4, "text": "जंगल", "is_correct": false }
+      ],
+      "answer": "मोठे गाव किंवा शहर"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "पल्लव राजांच्या काळात कोणती मंदिरे कोरली गेली?",
+      "options": [
+        { "option_number": 1, "text": "कैलास मंदिर", "is_correct": false },
+        { "option_number": 2, "text": "महाबलीपुरम् येथील रथ मंदिरे", "is_correct": true },
+        { "option_number": 3, "text": "अंबरनाथ मंदिर", "is_correct": false },
+        { "option_number": 4, "text": "देवगिरी किल्ला", "is_correct": false }
+      ],
+      "answer": "महाबलीपुरम् येथील रथ मंदिरे"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "हर्षवर्धनाच्या दरबारातील राजकवी कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "बाणभट्ट", "is_correct": true },
+        { "option_number": 2, "text": "कालिदास", "is_correct": false },
+        { "option_number": 3, "text": "अश्वघोष", "is_correct": false },
+        { "option_number": 4, "text": "भास", "is_correct": false }
+      ],
+      "answer": "बाणभट्ट"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतातील मनोरंजनासाठी कोणते लोकप्रिय साधन होते?",
+      "options": [
+        { "option_number": 1, "text": "नृत्य आणि गायन", "is_correct": true },
+        { "option_number": 2, "text": "चित्रपट", "is_correct": false },
+        { "option_number": 3, "text": "दूरदर्शन", "is_correct": false },
+        { "option_number": 4, "text": "इंटरनेट", "is_correct": false }
+      ],
+      "answer": "नृत्य आणि गायन"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य काळात बुद्धिबळाला काय म्हटले जाई?",
+      "options": [
+        { "option_number": 1, "text": "अष्टपद", "is_correct": true },
+        { "option_number": 2, "text": "शतरंज", "is_correct": false },
+        { "option_number": 3, "text": "द्यूत", "is_correct": false },
+        { "option_number": 4, "text": "ल्युडो", "is_correct": false }
+      ],
+      "answer": "अष्टपद"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारतीय संस्कृतीची मुख्य वैशिष्ट्ये कोणती?",
+      "options": [
+        { "option_number": 1, "text": "अनेकविधता आणि सहिष्णुता", "is_correct": true },
+        { "option_number": 2, "text": "केवळ युद्ध", "is_correct": false },
+        { "option_number": 3, "text": "फक्त व्यापार", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "अनेकविधता आणि सहिष्णुता"
+    },
+    {
+    "question_number": 51,
+    "question": "प्राचीन भारतातील साहित्याची परंपरा कोणत्या भाषांपासून सुरू झाली?",
+    "answer": "संस्कृत, अर्धमागधी, पाली आणि प्राकृत"
+  },
+  {
+    "question_number": 52,
+    "question": "भगवान महावीरांचे उपदेश कोणत्या भाषेत संकलित केले गेले?",
+    "answer": "अर्धमागधी"
+  },
+  {
+    "question_number": 53,
+    "question": "जैन धर्माच्या ग्रंथांना काय म्हटले जाते?",
+    "answer": "आगमग्रंथ"
+  },
+  {
+    "question_number": 54,
+    "question": "जैन आगमग्रंथ कोणत्या प्राकृत भाषेत लिहिले गेले आहेत?",
+    "answer": "अर्धमागधी, महाराष्ट्री आणि शौरसेनी"
+  },
+  {
+    "question_number": 55,
+    "question": "विमलसुरी यांनी अर्धमागधी भाषेत कोणते काव्य रचले?",
+    "answer": "पउमचरिय"
+  },
+  {
+    "question_number": 56,
+    "question": "पउमचरिय हे काव्य कोणाच्या जीवनावर आधारित आहे?",
+    "answer": "राम"
+  },
+  {
+    "question_number": 57,
+    "question": "जैन साहित्यातील 'हरिवंशपुराण' कोणी रचले?",
+    "answer": "जिनसेन"
+  },
+  {
+    "question_number": 58,
+    "question": "बौद्ध धर्माचा मुख्य ग्रंथ कोणता आहे?",
+    "answer": "त्रिपिटक"
+  },
+  {
+    "question_number": 59,
+    "question": "त्रिपिटक हा ग्रंथ कोणत्या भाषेत आहे?",
+    "answer": "पाली"
+  },
+  {
+    "question_number": 60,
+    "question": "बौद्ध भिक्खूंनी दैनंदिन जीवनात कसे वागावे, याचे नियम कशात आहेत?",
+    "answer": "विनयपिटक"
+  },
+  {
+    "question_number": 61,
+    "question": "गौतम बुद्धांच्या उपदेशांचे आणि वचनांचे संकलन कोणत्या पिटकात आहे?",
+    "answer": "सुत्तपिटक"
+  },
+  {
+    "question_number": 62,
+    "question": "बौद्ध तत्त्वज्ञानाचे सविस्तर विवेचन कोणत्या पिटकात दिले आहे?",
+    "answer": "अभिधम्मपिटक"
+  },
+  {
+    "question_number": 63,
+    "question": "स्त्रियांनी स्वतःचे अनुभव कोणत्या काव्यसंग्रहात व्यक्त केले आहेत?",
+    "answer": "थेरीगाथा"
+  },
+  {
+    "question_number": 64,
+    "question": "थेरीगाथा हा कोणत्या भाषेतील काव्यसंग्रह आहे?",
+    "answer": "पाली"
+  },
+  {
+    "question_number": 65,
+    "question": "गौतम बुद्धांच्या पूर्वजन्मीच्या कथांना काय म्हटले जाते?",
+    "answer": "जातककथा"
+  },
+  {
+    "question_number": 66,
+    "question": "संस्कृत भाषेतील प्रसिद्ध महाकाव्ये कोणती आहेत?",
+    "answer": "रामायण आणि महाभारत"
+  },
+  {
+    "question_number": 67,
+    "question": "रामायण हे महाकाव्य कोणी रचले?",
+    "answer": "ऋषी वाल्मीकी"
+  },
+  {
+    "question_number": 68,
+    "question": "महाभारत हे महाकाव्य कोणाची रचना आहे?",
+    "answer": "ऋषी व्यास"
+  },
+  {
+    "question_number": 69,
+    "question": "भगवद्गीता हा कोणत्या महाकाव्याचा एक भाग आहे?",
+    "answer": "महाभारत"
+  },
+  {
+    "question_number": 70,
+    "question": "भगवद्गीतेचा मुख्य संदेश काय आहे?",
+    "answer": "फलाची आशा न धरता कर्तव्य करावे"
+  },
+  {
+    "question_number": 71,
+    "question": "संस्कृत साहित्यातील सुप्रसिद्ध कवी आणि नाटककार कोण आहेत?",
+    "answer": "कालिदास"
+  },
+  {
+    "question_number": 72,
+    "question": "कालिदासाचे कोणते खंडकाव्य जगप्रसिद्ध आहे?",
+    "answer": "मेघदूत"
+  },
+  {
+    "question_number": 73,
+    "question": "कालिदासाचे प्रसिद्ध नाटक कोणते?",
+    "answer": "अभिज्ञानशाकुंतलम्"
+  },
+  {
+    "question_number": 74,
+    "question": "राजा हर्षवर्धनाने कोणती तीन संस्कृत नाटके लिहिली?",
+    "answer": "रत्नावली, प्रियदर्शिका आणि नागानंद"
+  },
+  {
+    "question_number": 75,
+    "question": "दाक्षिणात्य साहित्यातील 'संगम साहित्य' कोणत्या भाषेत आहे?",
+    "answer": "तमिळ"
+  },
+  {
+    "question_number": 76,
+    "question": "तमिळ साहित्यातील 'शिलप्पधिकरम' हे काय आहे?",
+    "answer": "महाकाव्य"
+  },
+  {
+    "question_number": 77,
+    "question": "प्राचीन काळातील व्याकरणशास्त्राचा मुख्य ग्रंथ कोणता?",
+    "answer": "अष्टाध्यायी"
+  },
+  {
+    "question_number": 78,
+    "question": "पाणिनी ऋषींनी कोणता ग्रंथ लिहिला?",
+    "answer": "अष्टाध्यायी"
+  },
+  {
+    "question_number": 79,
+    "question": "कौटिल्याने राज्यशास्त्रावर कोणता ग्रंथ लिहिला?",
+    "answer": "अर्थशास्त्र"
+  },
+  {
+    "question_number": 80,
+    "question": "प्राचीन भारतातील वैद्यकशास्त्राला काय म्हटले जाते?",
+    "answer": "आयुर्वेद"
+  },
+  {
+    "question_number": 81,
+    "question": "रोगांची लक्षणे आणि उपचारांची माहिती देणारा ग्रंथ कोणता?",
+    "answer": "चरकसंहिता"
+  },
+  {
+    "question_number": 82,
+    "question": "शस्त्रक्रियेचे सविस्तर वर्णन कोणत्या ग्रंथात आढळते?",
+    "answer": "सुश्रुतसंहिता"
+  },
+  {
+    "question_number": 83,
+    "question": "अष्टांगहृदय हा वैद्यकशास्त्रातील ग्रंथ कोणी लिहिला?",
+    "answer": "वाग्भट"
+  },
+  {
+    "question_number": 84,
+    "question": "प्राचीन भारतीयांनी गणितात कोणत्या अंकाचा शोध लावला?",
+    "answer": "शून्य"
+  },
+  {
+    "question_number": 85,
+    "question": "स्थानिक किंमत (Place Value) ही संकल्पना कोणाची देणगी आहे?",
+    "answer": "प्राचीन भारतीयांची"
+  },
+  {
+    "question_number": 86,
+    "question": "पृथ्वी सूर्याभोवती फिरते, हे सर्वप्रथम कोणी सांगितले?",
+    "answer": "आर्यभट्ट"
+  },
+  {
+    "question_number": 87,
+    "question": "आर्यभट्टीय हा ग्रंथ कोणी लिहिला?",
+    "answer": "आर्यभट्ट"
+  },
+  {
+    "question_number": 88,
+    "question": "वराहमिहीर यांनी खगोलशास्त्रावर कोणता ग्रंथ रचला?",
+    "answer": "पंचसिद्धान्तिका"
+  },
+  {
+    "question_number": 89,
+    "question": "अणुसिद्धांत मांडणारे प्राचीन भारतीय शास्त्रज्ञ कोण?",
+    "answer": "महर्षी कणाद"
+  },
+  {
+    "question_number": 90,
+    "question": "वस्तूंमधील रासायनिक बदल कोणत्या शास्त्राचा भाग आहे?",
+    "answer": "रसायनशास्त्र"
+  },
+  {
+    "question_number": 91,
+    "question": "तक्षशिला विद्यापीठ सध्या कोणत्या देशात आहे?",
+    "answer": "पाकिस्तान"
+  },
+  {
+    "question_number": 92,
+    "question": "सम्राट चंद्रगुप्त मौर्याचे शिक्षण कोणत्या विद्यापीठात झाले?",
+    "answer": "तक्षशिला"
+  },
+  {
+    "question_number": 93,
+    "question": "तक्षशिला विद्यापीठात कोणत्या विषयांचे शिक्षण दिले जाई?",
+    "answer": "वेद, व्याकरण, धनुर्विद्या आणि वैद्यकशास्त्र"
+  },
+  {
+    "question_number": 94,
+    "question": "वाराणसी (काशी) हे कोणत्या धर्माचे महत्त्वाचे केंद्र होते?",
+    "answer": "जैन, बौद्ध आणि हिंदू"
+  },
+  {
+    "question_number": 95,
+    "question": "नालंदा विद्यापीठ आजच्या कोणत्या राज्यात होते?",
+    "answer": "बिहार"
+  },
+  {
+    "question_number": 96,
+    "question": "नालंदा विद्यापीठात शिक्षण घेण्यासाठी कोणता चिनी प्रवासी आला होता?",
+    "answer": "युआन श्वांग"
+  },
+  {
+    "question_number": 97,
+    "question": "नालंदा विद्यापीठात किती हजार विद्यार्थी होते?",
+    "answer": "सुमारे दहा हजार"
+  },
+  {
+    "question_number": 98,
+    "question": "विक्रमशिला विद्यापीठ कोणत्या ठिकाणी होते?",
+    "answer": "भागलपूर (बिहार)"
+  },
+  {
+    "question_number": 99,
+    "question": "कांचि विद्यापीठ कोणत्या राजसत्तेच्या काळात भरभराटीला आले?",
+    "answer": "पल्लव"
+  },
+  {
+    "question_number": 100,
+    "question": "प्राचीन भारतीय स्थापत्यकलेचा उत्कृष्ट नमुना कोठे पाहायला मिळतो?",
+    "answer": "अजिंठा आणि वेरूळ येथील लेणी"
+  },
+  {
+    "question_number": 101,
+    "question": "गांधार शैलीतील बुद्धाच्या मूर्तींवर कोणत्या कलेचा प्रभाव आहे?",
+    "answer": "ग्रीक"
+  },
+  {
+    "question_number": 102,
+    "question": "प्राचीन काळात व्यापारासाठी कोणती केंद्रे प्रसिद्ध होती?",
+    "answer": "भरूच, सोपारा आणि पैठण"
+  },
+  {
+    "question_number": 103,
+    "question": "कापड उद्योगात प्राचीन भारतीयांनी कोणत्या वस्तूची निर्यात केली?",
+    "answer": "मलमल आणि सुती कापड"
+  },
+  {
+    "question_number": 104,
+    "question": "जहाजबांधणी हा प्राचीन भारतातील कोणता उद्योग होता?",
+    "answer": "मोठ्या प्रमाणावरील उद्योग"
+  },
+  {
+    "question_number": 105,
+    "question": "प्राचीन भारतातील मनोरंजनाची साधने कोणती होती?",
+    "answer": "नृत्य, गायन, नाटक आणि मल्लखांब"
+  },
+  {
+    "question_number": 106,
+    "question": "बुद्धिबळाला प्राचीन काळी काय म्हटले जाई?",
+    "answer": "अष्टपद"
+  },
+  {
+    "question_number": 107,
+    "question": "सांचीचा स्तूप कशाचा उत्तम नमुना आहे?",
+    "answer": "बौद्ध स्थापत्यकला"
+  },
+  {
+    "question_number": 108,
+    "question": "प्राचीन भारतीयांनी लोखंडाच्या बाबतीत कोणती प्रगती केली होती?",
+    "answer": "गंज न लागणारे लोखंड (उदा. दिल्लीचा लोहस्तंभ)"
+  },
+  {
+    "question_number": 109,
+    "question": "बौद्ध साहित्यातील 'वज्रसूचि' हा ग्रंथ कोणी लिहिला?",
+    "answer": "अश्वघोष"
+  },
+  {
+    "question_number": 110,
+    "question": "महाराष्ट्री प्राकृत भाषेतील प्रसिद्ध काव्य कोणते?",
+    "answer": "गाथासप्तशती"
+  },
+  {
+    "question_number": 111,
+    "question": "गाथासप्तशती हा ग्रंथ कोणत्या राजाने संकलित केला?",
+    "answer": "राजा हाल"
+  },
+  {
+    "question_number": 112,
+    "question": "संस्कृत भाषेतील 'अभिज्ञानशाकुंतलम्' चा अर्थ काय?",
+    "answer": "शकुंतलेची ओळख"
+  },
+  {
+    "question_number": 113,
+    "question": "प्राचीन शिक्षण पद्धतीत गुरुंच्या आश्रमाला काय म्हटले जाई?",
+    "answer": "गुरुकुल"
+  },
+  {
+    "question_number": 114,
+    "question": "तमिळ साहित्यातील 'मणीमेखलाई' हे काय आहे?",
+    "answer": "महाकाव्य"
+  },
+  {
+    "question_number": 115,
+    "question": "प्राचीन भारतातील स्त्रियांच्या शिक्षणाचे पुरावे कोठे मिळतात?",
+    "answer": "वेदांच्या ऋचा रचणाऱ्या स्त्रियांच्या उल्लेखात"
+  },
+  {
+    "question_number": 116,
+    "question": "धनुर्विद्या हे कोणत्या प्रकारचे शिक्षण होते?",
+    "answer": "शस्त्रविद्या"
+  },
+  {
+    "question_number": 117,
+    "question": "चरक हे कोणाचे नाव आहे?",
+    "answer": "एक विख्यात वैद्य"
+  },
+  {
+    "question_number": 118,
+    "question": "सुश्रुत हे कोणत्या शाखेशी संबंधित आहेत?",
+    "answer": "शल्यविशारद (Surgeon)"
+  },
+  {
+    "question_number": 119,
+    "question": "दशमान पद्धतीचा (Decimal System) उगम कोठे झाला?",
+    "answer": "प्राचीन भारत"
+  },
+  {
+    "question_number": 120,
+    "question": "बृहत्संहिता हा ग्रंथ कोणी लिहिला?",
+    "answer": "वराहमिहीर"
+  },
+  {
+    "question_number": 121,
+    "question": "भास्कराचार्य यांनी गणितावर कोणता ग्रंथ लिहिला?",
+    "answer": "लीलावती"
+  },
+  {
+    "question_number": 122,
+    "question": "विहार म्हणजे काय?",
+    "answer": "बौद्ध भिक्खूंचे निवासस्थान"
+  },
+  {
+    "question_number": 123,
+    "question": "चैत्य म्हणजे काय?",
+    "answer": "बौद्ध प्रार्थना स्थळ"
+  },
+  {
+    "question_number": 124,
+    "question": "वेरूळ येथील कैलास मंदिर कोणत्या राजघराण्याने बांधले?",
+    "answer": "राष्ट्रकूट"
+  },
+  {
+    "question_number": 125,
+    "question": "प्राचीन भारतीय जहाजांचे चित्र कोणत्या नाण्यांवर आढळते?",
+    "answer": "सातवाहन नाण्यांवर"
+  },
+  {
+    "question_number": 126,
+    "question": "नालंदा विद्यापीठाचे ग्रंथालय कोठे होते?",
+    "answer": "धर्मगंज"
+  },
+  {
+    "question_number": 127,
+    "question": "प्राचीन काळी तक्षशिलेचे रक्षण कोण करत असे?",
+    "answer": "स्थानिक राजे"
+  },
+  {
+    "question_number": 128,
+    "question": "साहित्यात 'कथासरित्सागर' हा ग्रंथ कोणी लिहिला?",
+    "answer": "सोमदेव"
+  },
+  {
+    "question_number": 129,
+    "question": "भास या कवीने कोणते प्रसिद्ध नाटक लिहिले?",
+    "answer": "स्वप्नवासवदत्त"
+  },
+  {
+    "question_number": 130,
+    "question": "पाणिनीच्या अष्टाध्यायीवर महाभाष्य कोणी लिहिले?",
+    "answer": "पतंजली"
+  },
+  {
+    "question_number": 131,
+    "question": "अमरावती येथील स्तूप कोणत्या कलेचा नमुना आहे?",
+    "answer": "शिल्पकला"
+  },
+  {
+    "question_number": 132,
+    "question": "बौद्ध धर्माची शिकवण देणारी 'धम्मपद' कशाचा भाग आहे?",
+    "answer": "सुत्तपिटक"
+  },
+  {
+    "question_number": 133,
+    "question": "प्राचीन काळी भारतातून कोणत्या धातूची निर्यात होत असे?",
+    "answer": "लोखंड आणि पोलाद"
+  },
+  {
+    "question_number": 134,
+    "question": "हस्तिदंतावरील कोरीव काम कोणत्या काळातील वैशिष्ट्य आहे?",
+    "answer": "प्राचीन भारत"
+  },
+  {
+    "question_number": 135,
+    "question": "नगरांचे नियोजन प्राचीन काळी कसे होते?",
+    "answer": "शिस्तबद्ध आणि उत्तम सांडपाण्याची सोय असलेले"
+  },
+  {
+    "question_number": 136,
+    "question": "प्राचीन काळी 'श्रेणी' म्हणजे काय?",
+    "answer": "व्यापारी आणि कारागिरांची संघटना"
+  },
+  {
+    "question_number": 137,
+    "question": "कुस्ती या खेळाला प्राचीन काळी काय म्हटले जाई?",
+    "answer": "मलयुद्ध"
+  },
+  {
+    "question_number": 138,
+    "question": "प्राचीन भारतीय लोक आहारामध्ये कशाचा वापर करत?",
+    "answer": "धान्य, दूध आणि फळे"
+  },
+  {
+    "question_number": 139,
+    "question": "कापूस पिकवण्याची कला भारतीयांना कोणत्या काळापासून अवगत होती?",
+    "answer": "हडप्पा काळापासून"
+  },
+  {
+    "question_number": 140,
+    "question": "प्राचीन भारतातील वस्त्रप्रावरणांची माहिती कशावरून मिळते?",
+    "answer": "शिल्पे आणि चित्रे"
+  },
+  {
+    "question_number": 141,
+    "question": "धर्मशास्त्रामध्ये कोणत्या विषयांचा समावेश होता?",
+    "answer": "आचारसंहिता आणि नियम"
+  },
+  {
+    "question_number": 142,
+    "question": "मथुरा कला शैलीत प्रामुख्याने कोणत्या मूर्ती कोरल्या गेल्या?",
+    "answer": "भारतीय देवतांच्या"
+  },
+  {
+    "question_number": 143,
+    "question": "प्राचीन काळी शिक्षण हे केवळ पाठांतरावर अवलंबून होते का?",
+    "answer": "नाही, त्यात तर्क आणि विज्ञानाचाही समावेश होता"
+  },
+  {
+    "question_number": 144,
+    "question": "नालंदा विद्यापीठात प्रवेशासाठी कोणती अट होती?",
+    "answer": "प्रवेश परीक्षा (द्वार पंडितांकडून परीक्षा)"
+  },
+  {
+    "question_number": 145,
+    "question": "भारतीय अंकलेखन पद्धती जगाला कोणामार्फत पोहोचली?",
+    "answer": "अरब व्यापाऱ्यांमार्फत"
+  },
+  {
+    "question_number": 146,
+    "question": "गणितातील 'पाय' (Pi) ची किंमत कोणी निश्चित केली?",
+    "answer": "आर्यभट्ट"
+  },
+  {
+    "question_number": 147,
+    "question": "प्राचीन काळच्या कोणत्या विद्यापीठाला जागतिक वारसा स्थळाचा दर्जा आहे?",
+    "answer": "नालंदा"
+  },
+  {
+    "question_number": 148,
+    "question": "हर्षवर्धन याने कोणास राजाश्रय दिला?",
+    "answer": "कवी आणि पंडितांना"
+  },
+  {
+    "question_number": 149,
+    "question": "सांस्कृतिक देवाणघेवाण प्राचीन काळी कोणत्या मार्गाने होत असे?",
+    "answer": "रेशीम मार्ग आणि समुद्री मार्ग"
+  },
+  {
+    "question_number": 150,
+    "question": "प्राचीन भारतीय संस्कृतीची मुख्य ओळख कोणती?",
+    "answer": "अनेकविधता आणि समृद्ध कला-साहित्य"
+  }
+]

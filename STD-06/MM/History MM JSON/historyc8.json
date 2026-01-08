@@ -1,0 +1,1111 @@
+{
+  "chapter_info": {
+    "chapter_number": "8",
+    "grade": "6",
+    "subject": "History",
+    "medium": "Marathi",
+    "chapter_name": "मौर्य साम्राज्यानंतरची राज्ये"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "Multiple Choice",
+      "question": "मौर्य साम्राज्याचा शेवटचा राजा कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "चंद्रगुप्त मौर्य", "is_correct": false },
+        { "option_number": 2, "text": "अशोक", "is_correct": false },
+        { "option_number": 3, "text": "बृहद्रथ", "is_correct": true },
+        { "option_number": 4, "text": "पुष्यमित्र", "is_correct": false }
+      ],
+      "answer": "बृहद्रथ"
+    },
+    {
+      "question_number": 2,
+      "question_type": "Multiple Choice",
+      "question": "बृहद्रथ मौर्याच्या सेनापतीचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "अजातशत्रू", "is_correct": false },
+        { "option_number": 2, "text": "पुष्यमित्र शुंग", "is_correct": true },
+        { "option_number": 3, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 4, "text": "कनिष्क", "is_correct": false }
+      ],
+      "answer": "पुष्यमित्र शुंग"
+    },
+    {
+      "question_number": 3,
+      "question_type": "Multiple Choice",
+      "question": "पुष्यमित्र शुंग याने कोणाची हत्या करून स्वतः राजा झाला?",
+      "options": [
+        { "option_number": 1, "text": "बिंदुसार", "is_correct": false },
+        { "option_number": 2, "text": "अशोक", "is_correct": false },
+        { "option_number": 3, "text": "बृहद्रथ", "is_correct": true },
+        { "option_number": 4, "text": "मिलिंद", "is_correct": false }
+      ],
+      "answer": "बृहद्रथ"
+    },
+    {
+      "question_number": 4,
+      "question_type": "Multiple Choice",
+      "question": "भारतीय उपखंडाच्या वायव्य प्रदेशात कोणत्या ग्रीक राजांची छोटी छोटी राज्ये होती?",
+      "options": [
+        { "option_number": 1, "text": "मौर्य राजे", "is_correct": false },
+        { "option_number": 2, "text": "शुंग राजे", "is_correct": false },
+        { "option_number": 3, "text": "इंडो-ग्रीक राजे", "is_correct": true },
+        { "option_number": 4, "text": "कुशाण राजे", "is_correct": false }
+      ],
+      "answer": "इंडो-ग्रीक राजे"
+    },
+    {
+      "question_number": 5,
+      "question_type": "Multiple Choice",
+      "question": "नाण्यांच्या एका बाजूवर राजाचे आणि दुसऱ्या बाजूला देवतेचे चित्र असण्याची परंपरा कोणी सुरू केली?",
+      "options": [
+        { "option_number": 1, "text": "गुप्त राजे", "is_correct": false },
+        { "option_number": 2, "text": "इंडो-ग्रीक राजे", "is_correct": true },
+        { "option_number": 3, "text": "वर्धन राजे", "is_correct": false },
+        { "option_number": 4, "text": "सातवाहन राजे", "is_correct": false }
+      ],
+      "answer": "इंडो-ग्रीक राजे"
+    },
+    {
+      "question_number": 6,
+      "question_type": "Multiple Choice",
+      "question": "इंडो-ग्रीक राजांमध्ये कोणता राजा सर्वात प्रसिद्ध होता?",
+      "options": [
+        { "option_number": 1, "text": "सिकंदर", "is_correct": false },
+        { "option_number": 2, "text": "मिनँडर (मिलिंद)", "is_correct": true },
+        { "option_number": 3, "text": "सेल्युकस", "is_correct": false },
+        { "option_number": 4, "text": "दार्युश", "is_correct": false }
+      ],
+      "answer": "मिनँडर"
+    },
+    {
+      "question_number": 7,
+      "question_type": "Multiple Choice",
+      "question": "मिनँडरने कोणत्या बौद्ध भिक्खूबरोबर बौद्ध तत्त्वज्ञानाची चर्चा केली?",
+      "options": [
+        { "option_number": 1, "text": "अश्वघोष", "is_correct": false },
+        { "option_number": 2, "text": "नागसेन", "is_correct": true },
+        { "option_number": 3, "text": "फाहियान", "is_correct": false },
+        { "option_number": 4, "text": "युआन श्वांग", "is_correct": false }
+      ],
+      "answer": "नागसेन"
+    },
+    {
+      "question_number": 8,
+      "question_type": "Multiple Choice",
+      "question": "मिलिंद आणि नागसेन यांच्यातील चर्चेतून कोणता ग्रंथ निर्माण झाला?",
+      "options": [
+        { "option_number": 1, "text": "बुद्धचरित", "is_correct": false },
+        { "option_number": 2, "text": "हर्षचरित", "is_correct": false },
+        { "option_number": 3, "text": "मिलिंदपञ्ह", "is_correct": true },
+        { "option_number": 4, "text": "इंडिका", "is_correct": false }
+      ],
+      "answer": "मिलिंदपञ्ह"
+    },
+    {
+      "question_number": 9,
+      "question_type": "Multiple Choice",
+      "question": "'पञ्ह' या पाली भाषेतील शब्दाचा अर्थ काय होतो?",
+      "options": [
+        { "option_number": 1, "text": "उत्तर", "is_correct": false },
+        { "option_number": 2, "text": "प्रश्न", "is_correct": true },
+        { "option_number": 3, "text": "संवाद", "is_correct": false },
+        { "option_number": 4, "text": "कथा", "is_correct": false }
+      ],
+      "answer": "प्रश्न"
+    },
+    {
+      "question_number": 10,
+      "question_type": "Multiple Choice",
+      "question": "मध्य आशियातून आलेल्या कोणत्या लोकांच्या टोळ्यांनी वायव्य प्रदेशात राज्य स्थापन केले?",
+      "options": [
+        { "option_number": 1, "text": "शक", "is_correct": false },
+        { "option_number": 2, "text": "हुण", "is_correct": false },
+        { "option_number": 3, "text": "कुशाण", "is_correct": true },
+        { "option_number": 4, "text": "पल्लव", "is_correct": false }
+      ],
+      "answer": "कुशाण"
+    },
+    {
+      "question_number": 11,
+      "question_type": "Multiple Choice",
+      "question": "भारतात सोन्याची नाणी पाडण्याची सुरुवात कोणत्या राजांनी केली?",
+      "options": [
+        { "option_number": 1, "text": "मौर्य राजे", "is_correct": false },
+        { "option_number": 2, "text": "गुप्त राजे", "is_correct": false },
+        { "option_number": 3, "text": "कुशाण राजे", "is_correct": true },
+        { "option_number": 4, "text": "शुंग राजे", "is_correct": false }
+      ],
+      "answer": "कुशाण राजे"
+    },
+    {
+      "question_number": 12,
+      "question_type": "Multiple Choice",
+      "question": "कुशाण नाण्यांवर कोणाच्या प्रतिमा वापरण्याची प्रथा सुरू झाली?",
+      "options": [
+        { "option_number": 1, "text": "केवळ राजाच्या", "is_correct": false },
+        { "option_number": 2, "text": "गौतम बुद्ध आणि भारतीय देवता", "is_correct": true },
+        { "option_number": 3, "text": "निसर्ग आणि प्राणी", "is_correct": false },
+        { "option_number": 4, "text": "केवळ ग्रीक देवता", "is_correct": false }
+      ],
+      "answer": "गौतम बुद्ध आणि विविध भारतीय देवता"
+    },
+    {
+      "question_number": 13,
+      "question_type": "Multiple Choice",
+      "question": "कुशाण साम्राज्याचा विस्तार करणारा प्रसिद्ध राजा कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "श्रीगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "कनिष्क", "is_correct": true },
+        { "option_number": 3, "text": "समुद्रगुप्त", "is_correct": false },
+        { "option_number": 4, "text": "हर्षवर्धन", "is_correct": false }
+      ],
+      "answer": "कनिष्क"
+    },
+    {
+      "question_number": 14,
+      "question_type": "Multiple Choice",
+      "question": "कनिष्काचे साम्राज्य कोठपासून कोठपर्यंत पसरले होते?",
+      "options": [
+        { "option_number": 1, "text": "दिल्ली ते पाटलिपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "काबूल ते वाराणसी", "is_correct": true },
+        { "option_number": 3, "text": "काश्मीर ते नाशिक", "is_correct": false },
+        { "option_number": 4, "text": "सिंध ते आसाम", "is_correct": false }
+      ],
+      "answer": "काबूलपासून वाराणसीपर्यंत"
+    },
+    {
+      "question_number": 15,
+      "question_type": "Multiple Choice",
+      "question": "बौद्ध धर्माची चौथी परिषद कोठे भरवण्यात आली होती?",
+      "options": [
+        { "option_number": 1, "text": "पाटलिपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "राजगृह", "is_correct": false },
+        { "option_number": 3, "text": "काश्मीर", "is_correct": true },
+        { "option_number": 4, "text": "सारनाथ", "is_correct": false }
+      ],
+      "answer": "काश्मीर"
+    },
+    {
+      "question_number": 16,
+      "question_type": "Multiple Choice",
+      "question": "कनिष्काने काश्मीरमध्ये कोणते शहर वसवले होते?",
+      "options": [
+        { "option_number": 1, "text": "श्रीनगर", "is_correct": false },
+        { "option_number": 2, "text": "कनिष्कपूर", "is_correct": true },
+        { "option_number": 3, "text": "पुरूषपूर", "is_correct": false },
+        { "option_number": 4, "text": "थानेसर", "is_correct": false }
+      ],
+      "answer": "कनिष्कपूर"
+    },
+    {
+      "question_number": 17,
+      "question_type": "Multiple Choice",
+      "question": "अश्वघोष हा कवी कोणाच्या काळात होऊन गेला?",
+      "options": [
+        { "option_number": 1, "text": "चंद्रगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "अशोक", "is_correct": false },
+        { "option_number": 3, "text": "कनिष्क", "is_correct": true },
+        { "option_number": 4, "text": "हर्षवर्धन", "is_correct": false }
+      ],
+      "answer": "कनिष्क"
+    },
+    {
+      "question_number": 18,
+      "question_type": "Multiple Choice",
+      "question": "अश्वघोषाने कोणता ग्रंथ लिहिला?",
+      "options": [
+        { "option_number": 1, "text": "हर्षचरित", "is_correct": false },
+        { "option_number": 2, "text": "इंडिका", "is_correct": false },
+        { "option_number": 3, "text": "बुद्धचरित", "is_correct": true },
+        { "option_number": 4, "text": "राजतरांगिणी", "is_correct": false }
+      ],
+      "answer": "बुद्धचरित"
+    },
+    {
+      "question_number": 19,
+      "question_type": "Multiple Choice",
+      "question": "कनिष्काच्या दरबारातील प्रसिद्ध वैद्य कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "सुश्रुत", "is_correct": false },
+        { "option_number": 2, "text": "चरक", "is_correct": true },
+        { "option_number": 3, "text": "वाग्भट", "is_correct": false },
+        { "option_number": 4, "text": "धन्वंतरी", "is_correct": false }
+      ],
+      "answer": "चरक"
+    },
+    {
+      "question_number": 20,
+      "question_type": "Multiple Choice",
+      "question": "कनिष्काच्या सोन्याच्या नाण्यावर मागील बाजूस कोणाची प्रतिमा आहे?",
+      "options": [
+        { "option_number": 1, "text": "शिव", "is_correct": false },
+        { "option_number": 2, "text": "विष्णू", "is_correct": false },
+        { "option_number": 3, "text": "गौतम बुद्ध", "is_correct": true },
+        { "option_number": 4, "text": "सूर्य", "is_correct": false }
+      ],
+      "answer": "गौतम बुद्धाची"
+    },
+    {
+      "question_number": 21,
+      "question_type": "Multiple Choice",
+      "question": "कनिष्काच्या नाण्यावर ग्रीक लिपीत 'बोद्दो' याचा अर्थ काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "राजा", "is_correct": false },
+        { "option_number": 2, "text": "बुद्ध", "is_correct": true },
+        { "option_number": 3, "text": "गुरु", "is_correct": false },
+        { "option_number": 4, "text": "देव", "is_correct": false }
+      ],
+      "answer": "बुद्ध"
+    },
+    {
+      "question_number": 22,
+      "question_type": "Multiple Choice",
+      "question": "उत्तर भारतात गुप्त राजघराण्याच्या सत्तेचा उदय कधी झाला?",
+      "options": [
+        { "option_number": 1, "text": "इ.स. पहिल्या शतकात", "is_correct": false },
+        { "option_number": 2, "text": "इ.स. तिसऱ्या शतकाच्या शेवटी", "is_correct": true },
+        { "option_number": 3, "text": "इ.स. सहाव्या शतकात", "is_correct": false },
+        { "option_number": 4, "text": "इ.स.पू. चौथ्या शतकात", "is_correct": false }
+      ],
+      "answer": "इसवी सनाच्या तिसऱ्या शतकाच्या शेवटी"
+    },
+    {
+      "question_number": 23,
+      "question_type": "Multiple Choice",
+      "question": "गुप्त राजघराण्याच्या संस्थापकाचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "चंद्रगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "समुद्रगुप्त", "is_correct": false },
+        { "option_number": 3, "text": "श्रीगुप्त", "is_correct": true },
+        { "option_number": 4, "text": "कुमारगुप्त", "is_correct": false }
+      ],
+      "answer": "श्रीगुप्त"
+    },
+    {
+      "question_number": 24,
+      "question_type": "Multiple Choice",
+      "question": "गुप्तांच्या राज्यविस्ताराची सुरुवात कोणाच्या कारकिर्दीत झाली?",
+      "options": [
+        { "option_number": 1, "text": "श्रीगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "पहिला चंद्रगुप्त", "is_correct": true },
+        { "option_number": 3, "text": "स्कंदगुप्त", "is_correct": false },
+        { "option_number": 4, "text": "बुधगुप्त", "is_correct": false }
+      ],
+      "answer": "पहिला चंद्रगुप्त"
+    },
+    {
+      "question_number": 25,
+      "question_type": "Multiple Choice",
+      "question": "कोणत्या गुप्त राजाच्या काळात गुप्त सत्ता आसामपासून पंजाबपर्यंत पसरली होती?",
+      "options": [
+        { "option_number": 1, "text": "श्रीगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "समुद्रगुप्त", "is_correct": true },
+        { "option_number": 3, "text": "दुसरा चंद्रगुप्त", "is_correct": false },
+        { "option_number": 4, "text": "हर्षवर्धन", "is_correct": false }
+      ],
+      "answer": "समुद्रगुप्त"
+    },
+    {
+      "question_number": 26,
+      "question_type": "Multiple Choice",
+      "question": "प्रयाग येथील स्तंभलेखात कोणाच्या पराक्रमाचे वर्णन आहे?",
+      "options": [
+        { "option_number": 1, "text": "अशोक", "is_correct": false },
+        { "option_number": 2, "text": "समुद्रगुप्त", "is_correct": true },
+        { "option_number": 3, "text": "कनिष्क", "is_correct": false },
+        { "option_number": 4, "text": "पुष्यमित्र शुंग", "is_correct": false }
+      ],
+      "answer": "समुद्रगुप्त"
+    },
+    {
+      "question_number": 27,
+      "question_type": "Multiple Choice",
+      "question": "प्रयाग येथील स्तंभलेखाला काय म्हटले जाते?",
+      "options": [
+        { "option_number": 1, "text": "प्रयागप्रशस्ति", "is_correct": true },
+        { "option_number": 2, "text": "शिलालेख", "is_correct": false },
+        { "option_number": 3, "text": "ताम्रपट", "is_correct": false },
+        { "option_number": 4, "text": "आज्ञापत्र", "is_correct": false }
+      ],
+      "answer": "प्रयागप्रशस्ति"
+    },
+    {
+      "question_number": 28,
+      "question_type": "Multiple Choice",
+      "question": "समुद्रगुप्त कोणत्या कलेत प्रवीण होता?",
+      "options": [
+        { "option_number": 1, "text": "चित्रकला", "is_correct": false },
+        { "option_number": 2, "text": "नृत्यकला", "is_correct": false },
+        { "option_number": 3, "text": "वीणावादन", "is_correct": true },
+        { "option_number": 4, "text": "मूर्तिकला", "is_correct": false }
+      ],
+      "answer": "वीणावादनात"
+    },
+    {
+      "question_number": 29,
+      "question_type": "Multiple Choice",
+      "question": "दुसरा चंद्रगुप्त हा कोणाचा मुलगा होता?",
+      "options": [
+        { "option_number": 1, "text": "श्रीगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "समुद्रगुप्त", "is_correct": true },
+        { "option_number": 3, "text": "कुमारगुप्त", "is_correct": false },
+        { "option_number": 4, "text": "बिंदुसार", "is_correct": false }
+      ],
+      "answer": "समुद्रगुप्त"
+    },
+    {
+      "question_number": 30,
+      "question_type": "Multiple Choice",
+      "question": "दुसऱ्या चंद्रगुप्ताने कोणाचा पराभव करून 'विक्रमादित्य' ही पदवी धारण केली?",
+      "options": [
+        { "option_number": 1, "text": "शक", "is_correct": true },
+        { "option_number": 2, "text": "कुशाण", "is_correct": false },
+        { "option_number": 3, "text": "हुण", "is_correct": false },
+        { "option_number": 4, "text": "ग्रीक", "is_correct": false }
+      ],
+      "answer": "शक"
+    },
+    {
+      "question_number": 31,
+      "question_type": "Multiple Choice",
+      "question": "दुसऱ्या चंद्रगुप्ताने आपली मुलगी प्रभावती हिचा विवाह कोणाशी करून दिला?",
+      "options": [
+        { "option_number": 1, "text": "हर्षवर्धन", "is_correct": false },
+        { "option_number": 2, "text": "रुद्रसेन दुसरा (वाकाटक)", "is_correct": true },
+        { "option_number": 3, "text": "भास्करवर्मन", "is_correct": false },
+        { "option_number": 4, "text": "पुलकेशी", "is_correct": false }
+      ],
+      "answer": "रुद्रसेन दुसरा"
+    },
+    {
+      "question_number": 32,
+      "question_type": "Multiple Choice",
+      "question": "मेहरौली येथील लोहस्तंभाचे वैशिष्ट्य काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "तो सोन्याचा आहे", "is_correct": false },
+        { "option_number": 2, "text": "तो दीड हजार वर्षांनंतरही गंजलेला नाही", "is_correct": true },
+        { "option_number": 3, "text": "तो लाकडाचा आहे", "is_correct": false },
+        { "option_number": 4, "text": "तो आकाशातून पडला आहे", "is_correct": false }
+      ],
+      "answer": "तो सुमारे दीड हजार वर्षांहूनही अधिक जुना असून गंजलेला नाही"
+    },
+    {
+      "question_number": 33,
+      "question_type": "Multiple Choice",
+      "question": "मेहरौली येथील लोहस्तंभ कोणत्या राजाच्या काळातील मानला जातो?",
+      "options": [
+        { "option_number": 1, "text": "अशोक", "is_correct": false },
+        { "option_number": 2, "text": "दुसरा चंद्रगुप्त", "is_correct": true },
+        { "option_number": 3, "text": "कनिष्क", "is_correct": false },
+        { "option_number": 4, "text": "पुष्यमित्र शुंग", "is_correct": false }
+      ],
+      "answer": "दुसऱ्या चंद्रगुप्ताच्या"
+    },
+    {
+      "question_number": 34,
+      "question_type": "Multiple Choice",
+      "question": "दुसऱ्या चंद्रगुप्ताच्या काळात चीनमधून कोणता बौद्ध भिक्खू भारतात आला होता?",
+      "options": [
+        { "option_number": 1, "text": "युआन श्वांग", "is_correct": false },
+        { "option_number": 2, "text": "फाहियान", "is_correct": true },
+        { "option_number": 3, "text": "इत्सिंग", "is_correct": false },
+        { "option_number": 4, "text": "मेगॅस्थिनिस", "is_correct": false }
+      ],
+      "answer": "फाहियान"
+    },
+    {
+      "question_number": 35,
+      "question_type": "Multiple Choice",
+      "question": "वर्धन राजघराण्याचा पाया कोणी घातला?",
+      "options": [
+        { "option_number": 1, "text": "प्रभाकरवर्धन", "is_correct": true },
+        { "option_number": 2, "text": "हर्षवर्धन", "is_correct": false },
+        { "option_number": 3, "text": "राज्यवर्धन", "is_correct": false },
+        { "option_number": 4, "text": "पुष्यवर्मन", "is_correct": false }
+      ],
+      "answer": "प्रभाकरवर्धन"
+    },
+    {
+      "question_number": 36,
+      "question_type": "Multiple Choice",
+      "question": "वर्धन साम्राज्याचा विस्तार करणारा राजा कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "श्रीगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "हर्षवर्धन", "is_correct": true },
+        { "option_number": 3, "text": "मिनँडर", "is_correct": false },
+        { "option_number": 4, "text": "बृहद्रथ", "is_correct": false }
+      ],
+      "answer": "हर्षवर्धन"
+    },
+    {
+      "question_number": 37,
+      "question_type": "Multiple Choice",
+      "question": "हर्षवर्धनाने आपली राजधानी कोठे प्रस्थापित केली?",
+      "options": [
+        { "option_number": 1, "text": "पाटलिपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "थानेसर", "is_correct": false },
+        { "option_number": 3, "text": "कनौज", "is_correct": true },
+        { "option_number": 4, "text": "वाराणसी", "is_correct": false }
+      ],
+      "answer": "कनौज"
+    },
+    {
+      "question_number": 38,
+      "question_type": "Multiple Choice",
+      "question": "हर्षवर्धनाच्या दरबारातील राजकवी कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "अश्वघोष", "is_correct": false },
+        { "option_number": 2, "text": "बाणभट्ट", "is_correct": true },
+        { "option_number": 3, "text": "कालिदास", "is_correct": false },
+        { "option_number": 4, "text": "विशाखदत्त", "is_correct": false }
+      ],
+      "answer": "बाणभट्ट"
+    },
+    {
+      "question_number": 39,
+      "question_type": "Multiple Choice",
+      "question": "बाणभट्टाने हर्षवर्धनाच्या जीवनावर कोणता ग्रंथ लिहिला?",
+      "options": [
+        { "option_number": 1, "text": "हर्षचरित", "is_correct": true },
+        { "option_number": 2, "text": "बुद्धचरित", "is_correct": false },
+        { "option_number": 3, "text": "रत्नावली", "is_correct": false },
+        { "option_number": 4, "text": "इंडिका", "is_correct": false }
+      ],
+      "answer": "हर्षचरित"
+    },
+    {
+      "question_number": 40,
+      "question_type": "Multiple Choice",
+      "question": "हर्षवर्धनाने स्वतः कोणती संस्कृत नाटके लिहिली?",
+      "options": [
+        { "option_number": 1, "text": "मुद्राराक्षस आणि मेघदूत", "is_correct": false },
+        { "option_number": 2, "text": "रत्नावली, नागानंद आणि प्रियदर्शिका", "is_correct": true },
+        { "option_number": 3, "text": "बुद्धचरित आणि वज्रसूची", "is_correct": false },
+        { "option_number": 4, "text": "अभिज्ञान शाकुंतलम", "is_correct": false }
+      ],
+      "answer": "रत्नावली, नागानंद आणि प्रियदर्शिका"
+    },
+    {
+      "question_number": 41,
+      "question_type": "Multiple Choice",
+      "question": "हर्षवर्धनाच्या काळात चीनमधून आलेला बौद्ध भिक्खू कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "फाहियान", "is_correct": false },
+        { "option_number": 2, "text": "युआन श्वांग", "is_correct": true },
+        { "option_number": 3, "text": "इत्सिंग", "is_correct": false },
+        { "option_number": 4, "text": "मेगॅस्थिनिस", "is_correct": false }
+      ],
+      "answer": "युआन श्वांग"
+    },
+    {
+      "question_number": 42,
+      "question_type": "Multiple Choice",
+      "question": "युआन श्वांग नालंदा विद्यापीठात किती वर्षे राहिला होता?",
+      "options": [
+        { "option_number": 1, "text": "सहा महिने", "is_correct": false },
+        { "option_number": 2, "text": "दोन वर्षे", "is_correct": true },
+        { "option_number": 3, "text": "पाच वर्षे", "is_correct": false },
+        { "option_number": 4, "text": "दहा वर्षे", "is_correct": false }
+      ],
+      "answer": "दोन वर्षे"
+    },
+    {
+      "question_number": 43,
+      "question_type": "Multiple Choice",
+      "question": "'कामरूप' हे प्राचीन राज्य आजच्या कोणत्या राज्यात आहे?",
+      "options": [
+        { "option_number": 1, "text": "बिहार", "is_correct": false },
+        { "option_number": 2, "text": "आसाम", "is_correct": true },
+        { "option_number": 3, "text": "ओडिशा", "is_correct": false },
+        { "option_number": 4, "text": "मणिपूर", "is_correct": false }
+      ],
+      "answer": "आसाम"
+    },
+    {
+      "question_number": 44,
+      "question_type": "Multiple Choice",
+      "question": "कामरूप राज्याचा संस्थापक कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "श्रीगुप्त", "is_correct": false },
+        { "option_number": 2, "text": "पुष्यवर्मन", "is_correct": true },
+        { "option_number": 3, "text": "भास्करवर्मन", "is_correct": false },
+        { "option_number": 4, "text": "प्रभाकरवर्धन", "is_correct": false }
+      ],
+      "answer": "पुष्यवर्मन"
+    },
+    {
+      "question_number": 45,
+      "question_type": "Multiple Choice",
+      "question": "महाभारत आणि रामायण या महाकाव्यांमध्ये कामरूपचा उल्लेख कोणत्या नावाने आला आहे?",
+      "options": [
+        { "option_number": 1, "text": "कामरूप", "is_correct": false },
+        { "option_number": 2, "text": "प्राग्ज्योतिष", "is_correct": true },
+        { "option_number": 3, "text": "कलिंग", "is_correct": false },
+        { "option_number": 4, "text": "थानेसर", "is_correct": false }
+      ],
+      "answer": "प्राग्ज्योतिष"
+    },
+    {
+      "question_number": 46,
+      "question_type": "Multiple Choice",
+      "question": "प्राचीन काळी काश्मीरचे नाव काय होते असे परंपरेनुसार मानले जाते?",
+      "options": [
+        { "option_number": 1, "text": "कश्यपपूर", "is_correct": true },
+        { "option_number": 2, "text": "कनिष्कपूर", "is_correct": false },
+        { "option_number": 3, "text": "श्रीनगर", "is_correct": false },
+        { "option_number": 4, "text": "कॅस्पेरिया", "is_correct": false }
+      ],
+      "answer": "कश्यपपूर"
+    },
+    {
+      "question_number": 47,
+      "question_type": "Multiple Choice",
+      "question": "काश्मीरमधील कर्कोट घराण्याच्या राज्याची माहिती कोणत्या ग्रंथात आढळते?",
+      "options": [
+        { "option_number": 1, "text": "हर्षचरित", "is_correct": false },
+        { "option_number": 2, "text": "राजतरांगिणी", "is_correct": true },
+        { "option_number": 3, "text": "बुद्धचरित", "is_correct": false },
+        { "option_number": 4, "text": "मिलिंदपञ्ह", "is_correct": false }
+      ],
+      "answer": "राजतरांगिणी"
+    },
+    {
+      "question_number": 48,
+      "question_type": "Multiple Choice",
+      "question": "'राजतरांगिणी' हा ग्रंथ कोणी लिहिला?",
+      "options": [
+        { "option_number": 1, "text": "बाणभट्ट", "is_correct": false },
+        { "option_number": 2, "text": "कल्हण", "is_correct": true },
+        { "option_number": 3, "text": "अश्वघोष", "is_correct": false },
+        { "option_number": 4, "text": "नागसेन", "is_correct": false }
+      ],
+      "answer": "कल्हणाने"
+    },
+    {
+      "question_number": 49,
+      "question_type": "Multiple Choice",
+      "question": "भास्करवर्मन हा कोणत्या राज्याचा राजा होता?",
+      "options": [
+        { "option_number": 1, "text": "काश्मीर", "is_correct": false },
+        { "option_number": 2, "text": "कामरूप", "is_correct": true },
+        { "option_number": 3, "text": "गुप्त", "is_correct": false },
+        { "option_number": 4, "text": "वर्धन", "is_correct": false }
+      ],
+      "answer": "कामरूप"
+    },
+    {
+      "question_number": 50,
+      "question_type": "Multiple Choice",
+      "question": "कनिष्काचे सोन्याचे नाणे कोणत्या लिपीतील लेखाने ओळखले जाते?",
+      "options": [
+        { "option_number": 1, "text": "ब्राह्मी", "is_correct": false },
+        { "option_number": 2, "text": "ग्रीक", "is_correct": true },
+        { "option_number": 3, "text": "देवनागरी", "is_correct": false },
+        { "option_number": 4, "text": "खरोष्टी", "is_correct": false }
+      ],
+      "answer": "ग्रीक"
+    },
+    {
+    "question_number": 51,
+    "question": "शेवटच्या मौर्य राजाचे नाव काय होते?",
+    "answer": "बृहद्रथ"
+  },
+  {
+    "question_number": 52,
+    "question": "बृहद्रथाचा सेनापती कोण होता?",
+    "answer": "पुष्यमित्र शुंग"
+  },
+  {
+    "question_number": 53,
+    "question": "शुंग घराण्याची स्थापना कोणी केली?",
+    "answer": "पुष्यमित्र शुंग"
+  },
+  {
+    "question_number": 54,
+    "question": "नाण्यांच्या एका बाजूला राजाचे आणि दुसऱ्या बाजूला देवतेचे चित्र असण्याची परंपरा कोणत्या राजांची होती?",
+    "answer": "इंडो-ग्रीक"
+  },
+  {
+    "question_number": 55,
+    "question": "इंडो-ग्रीक राजांमध्ये कोणता राजा प्रसिद्ध होता?",
+    "answer": "मिनँडर"
+  },
+  {
+    "question_number": 56,
+    "question": "मिनँडरला कोणत्या नावानेही ओळखले जाते?",
+    "answer": "मिलिंद"
+  },
+  {
+    "question_number": 57,
+    "question": "मिनँडरने कोणत्या बौद्ध भिक्खूशी चर्चा केली?",
+    "answer": "नागसेन"
+  },
+  {
+    "question_number": 58,
+    "question": "मिलिंद आणि नागसेन यांच्यातील चर्चेतून कोणता ग्रंथ निर्माण झाला?",
+    "answer": "मिलिंदपञ्ह"
+  },
+  {
+    "question_number": 59,
+    "question": "पाली भाषेतील 'पञ्ह' शब्दाचा अर्थ काय?",
+    "answer": "प्रश्न"
+  },
+  {
+    "question_number": 60,
+    "question": "कुशाण लोक मूळचे कोठले होते?",
+    "answer": "मध्य आशिया"
+  },
+  {
+    "question_number": 61,
+    "question": "भारतात सोन्याची नाणी पाडण्याची सुरुवात कोणत्या राजांनी केली?",
+    "answer": "कुशाण"
+  },
+  {
+    "question_number": 62,
+    "question": "कुशाण नाण्यांवर कोणाच्या प्रतिमा वापरण्याची प्रथा होती?",
+    "answer": "गौतम बुद्ध आणि भारतीय देवता"
+  },
+  {
+    "question_number": 63,
+    "question": "कुशाण राजघराण्यातील प्रसिद्ध राजा कोणता?",
+    "answer": "कनिष्क"
+  },
+  {
+    "question_number": 64,
+    "question": "कनिष्काचे साम्राज्य पूर्वेला कोठपर्यंत पसरले होते?",
+    "answer": "वाराणसी"
+  },
+  {
+    "question_number": 65,
+    "question": "कनिष्काचे साम्राज्य पश्चिमेला कोठपर्यंत होते?",
+    "answer": "काबूल"
+  },
+  {
+    "question_number": 66,
+    "question": "बौद्ध धर्माची चौथी परिषद कोठे भरवण्यात आली होती?",
+    "answer": "काश्मीर"
+  },
+  {
+    "question_number": 67,
+    "question": "कनिष्काने काश्मीरमध्ये कोणते शहर वसवले?",
+    "answer": "कनिष्कपूर"
+  },
+  {
+    "question_number": 68,
+    "question": "श्रीनगरजवळील कोणते गाव म्हणजे कनिष्कपूर असावे?",
+    "answer": "काम्पूर"
+  },
+  {
+    "question_number": 69,
+    "question": "कनिष्काच्या काळात कोणता प्रसिद्ध कवी होऊन गेला?",
+    "answer": "अश्वघोष"
+  },
+  {
+    "question_number": 70,
+    "question": "अश्वघोषाने कोणता ग्रंथ लिहिला?",
+    "answer": "बुद्धचरित (आणि वज्रसूचि)"
+  },
+  {
+    "question_number": 71,
+    "question": "कनिष्काच्या दरबारातील प्रसिद्ध वैद्य कोण होता?",
+    "answer": "चरक"
+  },
+  {
+    "question_number": 72,
+    "question": "कनिष्काच्या नाण्यावर ग्रीक लिपीत काय लिहिले आहे?",
+    "answer": "शाओ नानो शाओ कनेष्की कोशानो"
+  },
+  {
+    "question_number": 73,
+    "question": "कनिष्काच्या नाण्यावरील ग्रीक लेखाचा अर्थ काय?",
+    "answer": "राजाधिराज कनिष्क कुशाण"
+  },
+  {
+    "question_number": 74,
+    "question": "गुप्त राजघराण्याचा संस्थापक कोण होता?",
+    "answer": "श्रीगुप्त"
+  },
+  {
+    "question_number": 75,
+    "question": "गुप्त सत्तेचा उदय कोठे झाला?",
+    "answer": "उत्तर भारत"
+  },
+  {
+    "question_number": 76,
+    "question": "गुप्तांच्या राज्यविस्ताराची सुरुवात कोणाच्या काळात झाली?",
+    "answer": "पहिला चंद्रगुप्त"
+  },
+  {
+    "question_number": 77,
+    "question": "समुद्रगुप्ताच्या विजयांचे वर्णन कोणत्या स्तंभलेखात आहे?",
+    "answer": "प्रयाग"
+  },
+  {
+    "question_number": 78,
+    "question": "प्रयाग येथील स्तंभलेखाला काय म्हणतात?",
+    "answer": "प्रयागप्रशस्ति (अलाहाबाद प्रशस्ती)"
+  },
+  {
+    "question_number": 79,
+    "question": "कोणता गुप्त राजा वीणावादनात प्रवीण होता?",
+    "answer": "समुद्रगुप्त"
+  },
+  {
+    "question_number": 80,
+    "question": "समुद्रगुप्ताचा मुलगा कोण होता?",
+    "answer": "दुसरा चंद्रगुप्त"
+  },
+  {
+    "question_number": 81,
+    "question": "दुसऱ्या चंद्रगुप्ताने कोणती पदवी धारण केली?",
+    "answer": "विक्रमादित्य"
+  },
+  {
+    "question_number": 82,
+    "question": "मेहरौली येथील लोहस्तंभावर कोणत्या राजाचा उल्लेख आहे?",
+    "answer": "चंद्र"
+  },
+  {
+    "question_number": 83,
+    "question": "मेहरौलीचा लोहस्तंभ कोणत्या राजाच्या काळातील मानला जातो?",
+    "answer": "दुसरा चंद्रगुप्त"
+  },
+  {
+    "question_number": 84,
+    "question": "फाहियान हा बौद्ध भिक्खू कोठून आला होता?",
+    "answer": "चीन"
+  },
+  {
+    "question_number": 85,
+    "question": "फाहियान कोणत्या राजाच्या काळात भारतात आला होता?",
+    "answer": "दुसरा चंद्रगुप्त"
+  },
+  {
+    "question_number": 86,
+    "question": "वर्धन राजघराण्याचा पाया कोठे होता?",
+    "answer": "थानेसर"
+  },
+  {
+    "question_number": 87,
+    "question": "वर्धन घराण्यातील कोणत्या राजाच्या काळात हे घराणे प्रभावी बनले?",
+    "answer": "प्रभाकरवर्धन"
+  },
+  {
+    "question_number": 88,
+    "question": "हर्षवर्धन हा कोणाचा मुलगा होता?",
+    "answer": "प्रभाकरवर्धन"
+  },
+  {
+    "question_number": 89,
+    "question": "हर्षवर्धनाने आपली राजधानी कोठे प्रस्थापित केली?",
+    "answer": "कनौज"
+  },
+  {
+    "question_number": 90,
+    "question": "हर्षवर्धनाच्या साम्राज्याचा विस्तार दक्षिणेला कोठपर्यंत होता?",
+    "answer": "नर्मदा नदी"
+  },
+  {
+    "question_number": 91,
+    "question": "कामरूप येथील कोणत्या राजाशी हर्षवर्धनाचे मैत्रीचे संबंध होते?",
+    "answer": "भास्करवर्मन"
+  },
+  {
+    "question_number": 92,
+    "question": "हर्षवर्धनाच्या दरबारातील राजकवी कोण होता?",
+    "answer": "बाणभट्ट"
+  },
+  {
+    "question_number": 93,
+    "question": "बाणभट्टाने कोणता ग्रंथ लिहिला?",
+    "answer": "हर्षचरित"
+  },
+  {
+    "question_number": 94,
+    "question": "हर्षवर्धनाने कोणती संस्कृत नाटके लिहिली?",
+    "answer": "रत्नावली, नागानंद आणि प्रियदर्शिका"
+  },
+  {
+    "question_number": 95,
+    "question": "युआन श्वांग हा बौद्ध भिक्खू कोणत्या देशातून आला होता?",
+    "answer": "चीन"
+  },
+  {
+    "question_number": 96,
+    "question": "युआन श्वांग हर्षवर्धनाच्या काळात कोठे दोन वर्षे राहिला होता?",
+    "answer": "नालंदा विद्यापीठ"
+  },
+  {
+    "question_number": 97,
+    "question": "कोणी महाराष्ट्रातील लोकांबद्दल गौरवपूर्ण उद्गार काढले आहेत?",
+    "answer": "युआन श्वांग"
+  },
+  {
+    "question_number": 98,
+    "question": "कामरूप हे राज्य कोणत्या शतकात उदयाला आले?",
+    "answer": "इसवी सन चौथे शतक"
+  },
+  {
+    "question_number": 99,
+    "question": "कामरूप राज्याचा संस्थापक कोण होता?",
+    "answer": "पुष्यवर्मन"
+  },
+  {
+    "question_number": 100,
+    "question": "कामरूप राज्याची राजधानी कोणती होती?",
+    "answer": "प्राग्ज्योतिषपूर"
+  },
+  {
+    "question_number": 101,
+    "question": "प्राग्ज्योतिषपूर म्हणजे आजचे कोणते शहर?",
+    "answer": "गुवाहाटी (आसाम)"
+  },
+  {
+    "question_number": 102,
+    "question": "प्राचीन काळी काश्मीरचे नाव काय होते?",
+    "answer": "कश्यपपूर"
+  },
+  {
+    "question_number": 103,
+    "question": "काश्मीरमधील कर्कोट घराण्याची माहिती देणारा ग्रंथ कोणता?",
+    "answer": "राजतरांगिणी"
+  },
+  {
+    "question_number": 104,
+    "question": "राजतरांगिणी हा ग्रंथ कोणी लिहिला?",
+    "answer": "कल्हण"
+  },
+  {
+    "question_number": 105,
+    "question": "मेहरौली येथील लोहस्तंभाचे वैशिष्ट्य काय?",
+    "answer": "तो दीड हजार वर्षांनंतरही गंजलेला नाही"
+  },
+  {
+    "question_number": 106,
+    "question": "फाहियानच्या मते गुप्तांच्या काळात गरिबांना वैद्यकीय सेवा कशी मिळत असे?",
+    "answer": "विनामूल्य"
+  },
+  {
+    "question_number": 107,
+    "question": "हर्षवर्धन दर पाच वर्षांनी आपली संपत्ती कोणाला दान करत असे?",
+    "answer": "प्रजेला"
+  },
+  {
+    "question_number": 108,
+    "question": "कुशाण नाण्यांच्या मागील बाजूस कोणाची प्रतिमा होती?",
+    "answer": "गौतम बुद्ध"
+  },
+  {
+    "question_number": 109,
+    "question": "समुद्रगुप्ताच्या नाण्यावर तो काय करताना दिसतो?",
+    "answer": "वीणा वाजवताना"
+  },
+  {
+    "question_number": 110,
+    "question": "दुसऱ्या चंद्रगुप्ताने आपली मुलगी प्रभावती हिचा विवाह कोणाशी करून दिला?",
+    "answer": "दुसरा रुद्रसेन (वाकाटक राजा)"
+  },
+  {
+    "question_number": 111,
+    "question": "शुंग घराण्याचा उदय कोणाच्या पराभवानंतर झाला?",
+    "answer": "मौर्य"
+  },
+  {
+    "question_number": 112,
+    "question": "इंडो-ग्रीक राजांचे मुख्य क्षेत्र कोणते होते?",
+    "answer": "वायव्य भारत"
+  },
+  {
+    "question_number": 113,
+    "question": "कनिष्क कोणत्या धर्माचा पुरस्कर्ता होता?",
+    "answer": "बौद्ध"
+  },
+  {
+    "question_number": 114,
+    "question": "बुद्धचरित हा ग्रंथ कशावर आधारित आहे?",
+    "answer": "गौतम बुद्धांच्या जीवनावर"
+  },
+  {
+    "question_number": 115,
+    "question": "थानेसर हे ठिकाण कोणत्या शहराच्या जवळ आहे?",
+    "answer": "दिल्ली"
+  },
+  {
+    "question_number": 116,
+    "question": "हर्षवर्धनाच्या काळात व्यापाराची स्थिती कशी होती?",
+    "answer": "भरभराट"
+  },
+  {
+    "question_number": 117,
+    "question": "युआन श्वांगने भारतातून परत जाताना काय नेले?",
+    "answer": "बौद्ध ग्रंथ"
+  },
+  {
+    "question_number": 118,
+    "question": "कामरूप साम्राज्याचा विस्तार कोणत्या नदीच्या खोऱ्यात होता?",
+    "answer": "ब्रह्मपुत्रा"
+  },
+  {
+    "question_number": 119,
+    "question": "गुप्त घराणे एकूण किती काळ सत्तेवर होते?",
+    "answer": "साधारणपणे तीन शतके"
+  },
+  {
+    "question_number": 120,
+    "question": "अलाहाबाद स्तंभलेखात कोणाचा उल्लेख 'कामरूपचा राजा' म्हणून आला आहे?",
+    "answer": "पुष्यवर्मन"
+  },
+  {
+    "question_number": 121,
+    "question": "ग्रीक इतिहासकारांनी काश्मीरला काय म्हटले आहे?",
+    "answer": "कॅस्पॅपिरॉस/कॅस्पॅटिरॉक"
+  },
+  {
+    "question_number": 122,
+    "question": "कनिष्कच्या नाण्यावरील 'बोद्दो' म्हणजे काय?",
+    "answer": "बुद्ध"
+  },
+  {
+    "question_number": 123,
+    "question": "प्रयागप्रशस्ति कोणामुळे ओळखली जाते?",
+    "answer": "समुद्रगुप्त"
+  },
+  {
+    "question_number": 124,
+    "question": "चंद्रगुप्त दुसऱ्याने कोणते प्रदेश जिंकले?",
+    "answer": "माळवा, गुजरात आणि सौराष्ट्र"
+  },
+  {
+    "question_number": 125,
+    "question": "कोणत्या कालखंडात भारतात सोन्याची नाणी मोठ्या प्रमाणावर पाडली गेली?",
+    "answer": "कुशाण आणि गुप्त काळ"
+  },
+  {
+    "question_number": 126,
+    "question": "हर्षवर्धनाने चीनमध्ये काय पाठवले होते?",
+    "answer": "राजदूत"
+  },
+  {
+    "question_number": 127,
+    "question": "कनिष्कपूर कोठे आहे?",
+    "answer": "काश्मीर"
+  },
+  {
+    "question_number": 128,
+    "question": "गुप्तांच्या काळात सरकारी अधिकाऱ्यांना पगार कसा दिला जाई?",
+    "answer": "नियमितपणे"
+  },
+  {
+    "question_number": 129,
+    "question": "कॅस्पेरिया हे कोणत्या प्रदेशाचे ग्रीक नाव होते?",
+    "answer": "काश्मीर"
+  },
+  {
+    "question_number": 130,
+    "question": "हर्षवर्धनाचा मृत्यू कोणत्या शतकात झाला?",
+    "answer": "सातवे शतक"
+  },
+  {
+    "question_number": 131,
+    "question": "फाहियानच्या प्रवासवर्णनात कोणत्या साम्राज्याची माहिती मिळते?",
+    "answer": "गुप्त"
+  },
+  {
+    "question_number": 132,
+    "question": "नालंदा विद्यापीठ कशासाठी प्रसिद्ध होते?",
+    "answer": "उच्च शिक्षण"
+  },
+  {
+    "question_number": 133,
+    "question": "समुद्रगुप्ताच्या विजयाचा दबदबा कोठपर्यंत होता?",
+    "answer": "श्रीलंका आणि वायव्येकडील राजे"
+  },
+  {
+    "question_number": 134,
+    "question": "हर्षचरित हा ग्रंथ कोणत्या राजाच्या कारकिर्दीवर प्रकाश टाकतो?",
+    "answer": "हर्षवर्धन"
+  },
+  {
+    "question_number": 135,
+    "question": "कनिष्कच्या काळात शिल्पकलेची कोणती शैली विकसित झाली?",
+    "answer": "गांधार शैली"
+  },
+  {
+    "question_number": 136,
+    "question": "कामरूप राज्यातील लोक कसे होते?",
+    "answer": "किरात लोक"
+  },
+  {
+    "question_number": 137,
+    "question": "हर्षवर्धनाने कोणाबरोबर मैत्रीचे संबंध प्रस्थापित केले?",
+    "answer": "चीनचा सम्राट"
+  },
+  {
+    "question_number": 138,
+    "question": "मेहरौली लोहस्तंभ कोणत्या धातूकाम प्रगतीचे प्रतीक आहे?",
+    "answer": "लोखंड (धातुशास्त्र)"
+  },
+  {
+    "question_number": 139,
+    "question": "कनिष्क राजाच्या राजधानीचे नाव काय होते?",
+    "answer": "पुरुषपूर (पेशावर)"
+  },
+  {
+    "question_number": 140,
+    "question": "समुद्रगुप्ताने कोणत्या प्रकारची नाणी काढली होती?",
+    "answer": "विविध प्रतिमा असलेली सोन्याची नाणी"
+  },
+  {
+    "question_number": 141,
+    "question": "श्रीगुप्त हा कोणाचा पूर्वज होता?",
+    "answer": "समुद्रगुप्ताचा"
+  },
+  {
+    "question_number": 142,
+    "question": "कोणत्या ग्रंथात मिलिंदचे प्रश्न संकलित आहेत?",
+    "answer": "मिलिंदपञ्ह"
+  },
+  {
+    "question_number": 143,
+    "question": "हर्षवर्धन कोणत्या धर्माचा उदार राजा होता?",
+    "answer": "बौद्ध (पण सर्व धर्मांना आश्रय देणारा)"
+  },
+  {
+    "question_number": 144,
+    "question": "काश्मीरमधील प्रसिद्ध प्राचीन घराणे कोणते?",
+    "answer": "कर्कोट"
+  },
+  {
+    "question_number": 145,
+    "question": "गुप्त साम्राज्याची सत्ता किती वर्षे टिकली?",
+    "answer": "सुमारे ३०० वर्षे"
+  },
+  {
+    "question_number": 146,
+    "question": "नागसेन कोण होते?",
+    "answer": "बौद्ध भिक्खू"
+  },
+  {
+    "question_number": 147,
+    "question": "हर्षवर्धनाच्या कनौज राजधानीचे महत्त्व काय होते?",
+    "answer": "ते राजकीय व व्यापारी केंद्र बनले"
+  },
+  {
+    "question_number": 148,
+    "question": "वाकाटक सत्तेशी गुप्तांचे नाते कोणामुळे जोडले गेले?",
+    "answer": "प्रभावती गुप्ता"
+  },
+  {
+    "question_number": 149,
+    "question": "कनिष्कपूर म्हणजे आजचे काश्मीरमधील कोणते गाव?",
+    "answer": "काम्पूर"
+  },
+  {
+    "question_number": 150,
+    "question": "मौर्योत्तर काळात उत्तर भारताची स्थिती कशी होती?",
+    "answer": "विविध राजसत्तांचा उदय आणि कला-व्यापाराची प्रगती"
+  }
+]
+}

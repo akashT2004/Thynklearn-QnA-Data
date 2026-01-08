@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.06",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "पदार्थ आपल्या वापरातील"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वस्तू कशाच्या बनलेल्या असतात?",
+      "options": [
+        { "option_id": 1, "text": "ऊर्जेच्या", "is_correct": false },
+        { "option_id": 2, "text": "पदार्थांच्या", "is_correct": true },
+        { "option_id": 3, "text": "छायाचित्रांच्या", "is_correct": false },
+        { "option_id": 4, "text": "कॅलरीच्या", "is_correct": false }
+      ],
+      "answer": "पदार्थांच्या"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "निसर्गात मिळणाऱ्या पदार्थांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित पदार्थ", "is_correct": false },
+        { "option_id": 2, "text": "कृत्रिम पदार्थ", "is_correct": false },
+        { "option_id": 3, "text": "नैसर्गिक पदार्थ", "is_correct": true },
+        { "option_id": 4, "text": "रासायनिक पदार्थ", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक पदार्थ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ वनस्पतीजन्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "कापूस", "is_correct": true },
+        { "option_id": 2, "text": "लोकर", "is_correct": false },
+        { "option_id": 3, "text": "चामडे", "is_correct": false },
+        { "option_id": 4, "text": "दूध", "is_correct": false }
+      ],
+      "answer": "कापूस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "रबर कडक करण्यासाठी कोणत्या प्रक्रियेचा वापर करतात?",
+      "options": [
+        { "option_id": 1, "text": "बाष्पीभवन", "is_correct": false },
+        { "option_id": 2, "text": "व्हल्कनायझेशन", "is_correct": true },
+        { "option_id": 3, "text": "विलगीकरण", "is_correct": false },
+        { "option_id": 4, "text": "संघनन", "is_correct": false }
+      ],
+      "answer": "व्हल्कनायझेशन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक रबर कोणत्या स्वरूपात मिळते?",
+      "options": [
+        { "option_id": 1, "text": "पावडर", "is_correct": false },
+        { "option_id": 2, "text": "वायू", "is_correct": false },
+        { "option_id": 3, "text": "चिकाच्या स्वरूपात", "is_correct": true },
+        { "option_id": 4, "text": "खड्यांच्या स्वरूपात", "is_correct": false }
+      ],
+      "answer": "चिकाच्या स्वरूपात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कागद तयार करण्यासाठी कोणत्या झाडाचा प्रामुख्याने वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "बाभळीचे", "is_correct": false },
+        { "option_id": 2, "text": "निलगिरी", "is_correct": true },
+        { "option_id": 3, "text": "वड", "is_correct": false },
+        { "option_id": 4, "text": "पिंपळ", "is_correct": false }
+      ],
+      "answer": "निलगिरी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रेयॉनला कोणत्या नावाने ओळखले जाते?",
+      "options": [
+        { "option_id": 1, "text": "कृत्रिम रेशीम", "is_correct": true },
+        { "option_id": 2, "text": "नैसर्गिक कापूस", "is_correct": false },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "कृत्रिम रेशीम"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी मानवनिर्मित धागा कोणता?",
+      "options": [
+        { "option_id": 1, "text": "रेशीम", "is_correct": false },
+        { "option_id": 2, "text": "ताग", "is_correct": false },
+        { "option_id": 3, "text": "नायलॉन", "is_correct": true },
+        { "option_id": 4, "text": "लोकर", "is_correct": false }
+      ],
+      "answer": "नायलॉन"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "व्हल्कनायझेशन प्रक्रियेत रबरासोबत काय मिसळले जाते?",
+      "options": [
+        { "option_id": 1, "text": "मीठ", "is_correct": false },
+        { "option_id": 2, "text": "गंधक", "is_correct": true },
+        { "option_id": 3, "text": "लोखंड", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "गंधक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "काचेचा शोध कोठे लागला असावा असे मानले जाते?",
+      "options": [
+        { "option_id": 1, "text": "फिनिशिया", "is_correct": true },
+        { "option_id": 2, "text": "भारत", "is_correct": false },
+        { "option_id": 3, "text": "चीन", "is_correct": false },
+        { "option_id": 4, "text": "अमेरिका", "is_correct": false }
+      ],
+      "answer": "फिनिशिया"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पदार्थ कशाचे बनलेले असतात?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्या दगडांचे", "is_correct": false },
+        { "option_id": 2, "text": "सूक्ष्मकणांचे", "is_correct": true },
+        { "option_id": 3, "text": "रंगाचे", "is_correct": false },
+        { "option_id": 4, "text": "पाण्याचे", "is_correct": false }
+      ],
+      "answer": "सूक्ष्मकणांचे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता अजैविक नैसर्गिक पदार्थ आहे?",
+      "options": [
+        { "option_id": 1, "text": "चामडे", "is_correct": false },
+        { "option_id": 2, "text": "लाकुड", "is_correct": false },
+        { "option_id": 3, "text": "माती", "is_correct": true },
+        { "option_id": 4, "text": "कापूस", "is_correct": false }
+      ],
+      "answer": "माती"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रबर कोणत्या झाडापासून मिळवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "वड", "is_correct": false },
+        { "option_id": 2, "text": "हिविया ब्राझिलिअन्सिस", "is_correct": true },
+        { "option_id": 3, "text": "नारळ", "is_correct": false },
+        { "option_id": 4, "text": "निलगिरी", "is_correct": false }
+      ],
+      "answer": "हिविया ब्राझिलिअन्सिस"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता धागा पूर्णपणे मानवनिर्मित आहे?",
+      "options": [
+        { "option_id": 1, "text": "सुती धागा", "is_correct": false },
+        { "option_id": 2, "text": "रेशमी धागा", "is_correct": false },
+        { "option_id": 3, "text": "नायलॉन", "is_correct": true },
+        { "option_id": 4, "text": "ताग", "is_correct": false }
+      ],
+      "answer": "नायलॉन"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कागदाचा शोध कोणत्या देशात लागला?",
+      "options": [
+        { "option_id": 1, "text": "भारत", "is_correct": false },
+        { "option_id": 2, "text": "चीन", "is_correct": true },
+        { "option_id": 3, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 4, "text": "रशिया", "is_correct": false }
+      ],
+      "answer": "चीन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कागद निर्मितीसाठी लाकडाचा कोणता भाग वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पाने", "is_correct": false },
+        { "option_id": 2, "text": "फांद्या", "is_correct": false },
+        { "option_id": 3, "text": "ओंडके", "is_correct": true },
+        { "option_id": 4, "text": "मुळे", "is_correct": false }
+      ],
+      "answer": "ओंडके"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता प्राणीजन्य नैसर्गिक पदार्थ आहे?",
+      "options": [
+        { "option_id": 1, "text": "कापूस", "is_correct": false },
+        { "option_id": 2, "text": "फळे", "is_correct": false },
+        { "option_id": 3, "text": "लोकर", "is_correct": true },
+        { "option_id": 4, "text": "लाकुड", "is_correct": false }
+      ],
+      "answer": "लोकर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "नायलॉनचे नाव कोणत्या दोन शहरांच्या नावावरून पडले आहे?",
+      "options": [
+        { "option_id": 1, "text": "न्यूयॉर्क व लंडन", "is_correct": true },
+        { "option_id": 2, "text": "नागपूर व लखनौ", "is_correct": false },
+        { "option_id": 3, "text": "नासा व लंडन", "is_correct": false },
+        { "option_id": 4, "text": "पेरिस व न्यूयॉर्क", "is_correct": false }
+      ],
+      "answer": "न्यूयॉर्क व लंडन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "झाडांच्या चिकाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गम", "is_correct": false },
+        { "option_id": 2, "text": "लॅटेक्स", "is_correct": true },
+        { "option_id": 3, "text": "सिरप", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "लॅटेक्स"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता पदार्थ पाण्यात विरघळत नाही?",
+      "options": [
+        { "option_id": 1, "text": "साखर", "is_correct": false },
+        { "option_id": 2, "text": "मीठ", "is_correct": false },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": true },
+        { "option_id": 4, "text": "मिरची", "is_correct": false }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कागद तयार करताना लाकडाच्या लगद्यामध्ये काय मिसळले जाते?",
+      "options": [
+        { "option_id": 1, "text": "मीठ", "is_correct": false },
+        { "option_id": 2, "text": "रंजकद्रव्ये", "is_correct": true },
+        { "option_id": 3, "text": "रेती", "is_correct": false },
+        { "option_id": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "रंजकद्रव्ये"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "टायरचा शोध कोणी लावला?",
+      "options": [
+        { "option_id": 1, "text": "चार्ल्स गुडइयर", "is_correct": true },
+        { "option_id": 2, "text": "न्यूटन", "is_correct": false },
+        { "option_id": 3, "text": "थॉमस एडिसन", "is_correct": false },
+        { "option_id": 4, "text": "रॉबर्ट हुक", "is_correct": false }
+      ],
+      "answer": "चार्ल्स गुडइयर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कापसापासून काय बनवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रबर", "is_correct": false },
+        { "option_id": 2, "text": "कापड", "is_correct": true },
+        { "option_id": 3, "text": "काच", "is_correct": false },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "कापड"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी टिकाऊ पदार्थ कोणता?",
+      "options": [
+        { "option_id": 1, "text": "फळे", "is_correct": false },
+        { "option_id": 2, "text": "दूध", "is_correct": false },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": true },
+        { "option_id": 4, "text": "भाज्या", "is_correct": false }
+      ],
+      "answer": "प्लास्टिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पदार्थांच्या गुणधर्मांनुसार आपण काय ठरवतो?",
+      "options": [
+        { "option_id": 1, "text": "त्यांचे नाव", "is_correct": false },
+        { "option_id": 2, "text": "त्यांचा उपयोग", "is_correct": true },
+        { "option_id": 3, "text": "त्यांचा रंग", "is_correct": false },
+        { "option_id": 4, "text": "त्यांची किंमत", "is_correct": false }
+      ],
+      "answer": "त्यांचा उपयोग"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कोणता धागा 'सेल्यूलोज' पासून बनवला जातो?",
+      "options": [
+        { "option_id": 1, "text": "नायलॉन", "is_correct": false },
+        { "option_id": 2, "text": "रेयॉन", "is_correct": true },
+        { "option_id": 3, "text": "टेरिलिन", "is_correct": false },
+        { "option_id": 4, "text": "पॉलिस्टर", "is_correct": false }
+      ],
+      "answer": "रेयॉन"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक पदार्थांवर प्रक्रिया करून मिळणाऱ्या पदार्थांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "मूळ पदार्थ", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित पदार्थ", "is_correct": true },
+        { "option_id": 3, "text": "जैविक पदार्थ", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित पदार्थ"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "दांत घासण्यासाठी पूर्वी कशाचा वापर केला जात असे?",
+      "options": [
+        { "option_id": 1, "text": "टूथपेस्ट", "is_correct": false },
+        { "option_id": 2, "text": "साबण", "is_correct": false },
+        { "option_id": 3, "text": "निंबाची काडी / राख", "is_correct": true },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "निंबाची काडी / राख"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "रबर हे कोणत्या प्रकारचे असते?",
+      "options": [
+        { "option_id": 1, "text": "स्थितिस्थापक", "is_correct": true },
+        { "option_id": 2, "text": "ठिसूळ", "is_correct": false },
+        { "option_id": 3, "text": "द्रव", "is_correct": false },
+        { "option_id": 4, "text": "कडक", "is_correct": false }
+      ],
+      "answer": "स्थितिस्थापक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कागद तयार करण्यासाठी वापरल्या जाणाऱ्या वनस्पती कोठे आढळतात?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 2, "text": "जंगलात", "is_correct": true },
+        { "option_id": 3, "text": "समुद्रात", "is_correct": false },
+        { "option_id": 4, "text": "बर्फात", "is_correct": false }
+      ],
+      "answer": "जंगलात"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणता पदार्थ ठिसूळ आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोखंड", "is_correct": false },
+        { "option_id": 2, "text": "काच", "is_correct": true },
+        { "option_id": 3, "text": "रबर", "is_correct": false },
+        { "option_id": 4, "text": "तांबे", "is_correct": false }
+      ],
+      "answer": "काच"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "प्राण्यांपासून मिळणाऱ्या पदार्थांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वनस्पतीजन्य", "is_correct": false },
+        { "option_id": 2, "text": "प्राणीजन्य", "is_correct": true },
+        { "option_id": 3, "text": "अजैविक", "is_correct": false },
+        { "option_id": 4, "text": "कृत्रिम", "is_correct": false }
+      ],
+      "answer": "प्राणीजन्य"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "दगडी कोळसा हा कोणत्या प्रकारचा पदार्थ आहे?",
+      "options": [
+        { "option_id": 1, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "नैसर्गिक", "is_correct": true },
+        { "option_id": 3, "text": "जैविक", "is_correct": false },
+        { "option_id": 4, "text": "प्राणीजन्य", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "सजीवांपासून मिळणाऱ्या पदार्थांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अजैविक", "is_correct": false },
+        { "option_id": 2, "text": "जैविक", "is_correct": true },
+        { "option_id": 3, "text": "मानवनिर्मित", "is_correct": false },
+        { "option_id": 4, "text": "रासायनिक", "is_correct": false }
+      ],
+      "answer": "जैविक"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "प्लास्टिकचा वापर वाढला आहे कारण ते...?",
+      "options": [
+        { "option_id": 1, "text": "स्वस्त आहे", "is_correct": false },
+        { "option_id": 2, "text": "वजनदार आहे", "is_correct": false },
+        { "option_id": 3, "text": "टिकाऊ आणि स्वस्त आहे", "is_correct": true },
+        { "option_id": 4, "text": "नैसर्गिक आहे", "is_correct": false }
+      ],
+      "answer": "टिकाऊ आणि स्वस्त आहे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कागद वाचवणे का गरजेचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "पैसा वाचवण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "झाडे वाचवण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "जागा वाचवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "झाडे वाचवण्यासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "लोकर कशापासून मिळते?",
+      "options": [
+        { "option_id": 1, "text": "झाडांपासून", "is_correct": false },
+        { "option_id": 2, "text": "प्राण्यांच्या केसांपासून", "is_correct": true },
+        { "option_id": 3, "text": "मातीतून", "is_correct": false },
+        { "option_id": 4, "text": "केमिकलपासून", "is_correct": false }
+      ],
+      "answer": "प्राण्यांच्या केसांपासून"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "पॅपिरायस ही वनस्पती कोठे आढळते?",
+      "options": [
+        { "option_id": 1, "text": "भारत", "is_correct": false },
+        { "option_id": 2, "text": "इजिप्त", "is_correct": true },
+        { "option_id": 3, "text": "चीन", "is_correct": false },
+        { "option_id": 4, "text": "जपान", "is_correct": false }
+      ],
+      "answer": "इजिप्त"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "काचेचा मुख्य घटक कोणता?",
+      "options": [
+        { "option_id": 1, "text": "माती", "is_correct": false },
+        { "option_id": 2, "text": "वाळू (Silica)", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "लाकूड", "is_correct": false }
+      ],
+      "answer": "वाळू (Silica)"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "खूप प्राचीन काळी लिहिण्यासाठी कशाचा वापर होत असे?",
+      "options": [
+        { "option_id": 1, "text": "भूर्जपत्रे", "is_correct": true },
+        { "option_id": 2, "text": "कागद", "is_correct": false },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "टॅब्लेट", "is_correct": false }
+      ],
+      "answer": "भूर्जपत्रे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पुढीलपैकी कोणता धागा उन्हाळ्यात वापरण्यासाठी चांगला असतो?",
+      "options": [
+        { "option_id": 1, "text": "नायलॉन", "is_correct": false },
+        { "option_id": 2, "text": "सुती", "is_correct": true },
+        { "option_id": 3, "text": "पॉलिस्टर", "is_correct": false },
+        { "option_id": 4, "text": "लोकरी", "is_correct": false }
+      ],
+      "answer": "सुती"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "धागे मुख्यत्वे किती प्रकारचे असतात?",
+      "options": [
+        { "option_id": 1, "text": "१", "is_correct": false },
+        { "option_id": 2, "text": "२ (नैसर्गिक व मानवनिर्मित)", "is_correct": true },
+        { "option_id": 3, "text": "३", "is_correct": false },
+        { "option_id": 4, "text": "४", "is_correct": false }
+      ],
+      "answer": "२ (नैसर्गिक व मानवनिर्मित)"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "नैसर्गिक रबराचा रंग कसा असतो?",
+      "options": [
+        { "option_id": 1, "text": "काळा", "is_correct": false },
+        { "option_id": 2, "text": "पांढरा", "is_correct": true },
+        { "option_id": 3, "text": "लाल", "is_correct": false },
+        { "option_id": 4, "text": "हिरवा", "is_correct": false }
+      ],
+      "answer": "पांढरा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "कागद तयार करण्यासाठी लाकडामधून कोणता रासायनिक घटक बाहेर काढला जातो?",
+      "options": [
+        { "option_id": 1, "text": "ग्लुकोज", "is_correct": false },
+        { "option_id": 2, "text": "लिग्निन", "is_correct": true },
+        { "option_id": 3, "text": "स्टार्च", "is_correct": false },
+        { "option_id": 4, "text": "तेल", "is_correct": false }
+      ],
+      "answer": "लिग्निन"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मानवाने तयार केलेले नवीन पदार्थ निसर्गात सहजपणे मिसळतात का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "सांगता येत नाही", "is_correct": false },
+        { "option_id": 4, "text": "काही मिसळतात", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कोणता पदार्थ उष्णतेचा सुवाहक आहे?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड", "is_correct": false },
+        { "option_id": 2, "text": "तांबे", "is_correct": true },
+        { "option_id": 3, "text": "प्लास्टिक", "is_correct": false },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कागदाचा पृष्ठभाग गुळगुळीत करण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "रोलर्स", "is_correct": true },
+        { "option_id": 2, "text": "हातोडा", "is_correct": false },
+        { "option_id": 3, "text": "कात्री", "is_correct": false },
+        { "option_id": 4, "text": "मीठ", "is_correct": false }
+      ],
+      "answer": "रोलर्स"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "रबर कशात विरघळते?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "पेट्रोल / बेन्झिन", "is_correct": true },
+        { "option_id": 3, "text": "दुधात", "is_correct": false },
+        { "option_id": 4, "text": "सिरका", "is_correct": false }
+      ],
+      "answer": "पेट्रोल / बेन्झिन"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या कारणाने मानवनिर्मित पदार्थांची गरज वाढली?",
+      "options": [
+        { "option_id": 1, "text": "लोकसंख्या वाढ", "is_correct": false },
+        { "option_id": 2, "text": "सुविधांची गरज", "is_correct": false },
+        { "option_id": 3, "text": "नैसर्गिक संसाधनांची कमतरता", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "वापरलेल्या कागदाचे काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "जाळून टाकावे", "is_correct": false },
+        { "option_id": 2, "text": "फेकून द्यावे", "is_correct": false },
+        { "option_id": 3, "text": "पुनर्चक्रण (Recycling) करावे", "is_correct": true },
+        { "option_id": 4, "text": "नदीत टाकावे", "is_correct": false }
+      ],
+      "answer": "पुनर्चक्रण (Recycling) करावे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "पदार्थ आणि वस्तू यांमधील फरक काय?",
+      "answer": "पदार्थ सूक्ष्मकणांचे बनलेले असतात, तर पदार्थांपासून विशिष्ट आकाराच्या वस्तू बनवल्या जातात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ निसर्गातून मिळतात, त्यांना नैसर्गिक पदार्थ म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "मानवनिर्मित पदार्थ कशास म्हणतात?",
+      "answer": "नैसर्गिक पदार्थांवर प्रक्रिया करून मानवाने तयार केलेल्या नवीन पदार्थांना मानवनिर्मित पदार्थ म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "जैविक पदार्थ म्हणजे काय?",
+      "answer": "सजीवांपासून (वनस्पती किंवा प्राणी) मिळणाऱ्या पदार्थांना जैविक पदार्थ म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "अजैविक पदार्थ म्हणजे काय?",
+      "answer": "जे पदार्थ सजीवांपासून मिळत नाहीत (उदा. हवा, माती, पाणी), त्यांना अजैविक पदार्थ म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "वनस्पतीजन्य पदार्थांची दोन उदाहरणे द्या.",
+      "answer": "कापूस आणि लाकूड."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "प्राणीजन्य पदार्थांची दोन उदाहरणे द्या.",
+      "answer": "चामडे आणि लोकर."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "रबर प्रामुख्याने किती प्रकारचे असते?",
+      "answer": "रबर नैसर्गिक आणि कृत्रिम अशा दोन प्रकारचे असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक रबर कसे मिळवतात?",
+      "answer": "रबराच्या झाडाचा चीक (लॅटेक्स) जमा करून त्यापासून नैसर्गिक रबर मिळवतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "व्हल्कनायझेशन म्हणजे काय?",
+      "answer": "रबर गंधकासोबत (Sulfur) उष्ण देऊन कडक करण्याच्या प्रक्रियेला व्हल्कनायझेशन म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "व्हल्कनायझेशनची प्रक्रिया कोणी शोधली?",
+      "answer": "चार्ल्स गुडइयर यांनी व्हल्कनायझेशनची प्रक्रिया शोधली."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "कागद म्हणजे काय?",
+      "answer": "गवत, लाकूड किंवा चिंध्या यांसारख्या पदार्थांचे तंतू एकमेकांत गुंफून तयार झालेल्या जाळ्यासारख्या थराला कागद म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "कागद निर्मितीसाठी कोणत्या वनस्पती वापरल्या जातात?",
+      "answer": "पाइन, निलगिरी यांसारख्या सुचीपर्णी वृक्षांचा वापर केला जातो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "कागद निर्मितीचा मुख्य टप्पा कोणता?",
+      "answer": "लाकडाचा लगदा तयार करणे हा कागद निर्मितीचा मुख्य टप्पा आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "कृत्रिम धागे म्हणजे काय?",
+      "answer": "प्रयोगशाळेत रसायनांचा वापर करून तयार केलेल्या मानवनिर्मित धाग्यांना कृत्रिम धागे म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "नायलॉन धाग्याचे गुणधर्म सांगा.",
+      "answer": "नायलॉन धागा चमकदार, मजबूत, पारदर्शक आणि जलरोधक असतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "रेयॉन धागा कशापासून बनतो?",
+      "answer": "रेयॉन धागा लाकडाचा लगदा आणि कापसाच्या तंतूंना सोडियम हायड्रॉक्साईडमध्ये विरघळवून बनवला जातो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "कृत्रिम धाग्यांचे दोन तोटे सांगा.",
+      "answer": "१. ते घाम शोषून घेत नाहीत. २. ते लवकर पेट घेतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "कृत्रिम धाग्यांचे दोन फायदे सांगा.",
+      "answer": "१. ते मजबूत आणि टिकाऊ असतात. २. ते लवकर वाळतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "कागद वाचवण्याचे महत्त्व काय?",
+      "answer": "कागद वाचवल्यामुळे झाडांची कत्तल कमी होते आणि पर्यावरणाचे रक्षण होते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "पूर्वी लिहिण्यासाठी वापरली जाणारी भूर्जपत्रे कशापासून बनत असत?",
+      "answer": "भूर्ज वृक्षाच्या सालीपासून भूर्जपत्रे बनत असत."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "काच कशापासून तयार केली जाते?",
+      "answer": "वाळू, सोडा, चुना आणि मॅग्नेशियम ऑक्साईड यांचे मिश्रण तापवून काच तयार केली जाते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "प्लास्टिकचा वापर का वाढला आहे?",
+      "answer": "प्लास्टिक स्वस्त, हलके, टिकाऊ आणि हवे त्या आकारात तयार करता येते म्हणून त्याचा वापर वाढला आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "स्थितिस्थापकता म्हणजे काय?",
+      "answer": "एखाद्या पदार्थावर ताण दिला असता त्याचा आकार बदलतो आणि ताण काढला की तो मूळ आकारात येतो, याला स्थितिस्थापकता म्हणतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक रबराचे जागतिक उत्पादन कोठे होते?",
+      "answer": "नैसर्गिक रबराचे सर्वाधिक उत्पादन ब्राझील आणि आशियाई देशांमध्ये (थायलंड, इंडोनेशिया, भारत) होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "कागदावर लिहिण्यासाठी वापरली जाणारी शाई कशापासून बनवतात?",
+      "answer": "शाई रंजकद्रव्ये आणि विशिष्ट रसायनांपासून बनवली जाते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "कापसाचे धागे कसे मिळवतात?",
+      "answer": "कापसाच्या बोंडांतील कापूस पिंजून आणि कंतून कापसाचे धागे मिळवतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "मानवनिर्मित पदार्थांची उदाहरणे लिहा.",
+      "answer": "प्लास्टिक, नायलॉन, सिमेंट, काच ही मानवनिर्मित पदार्थांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "सजीवांपासून मिळणाऱ्या धाग्यांना काय म्हणतात?",
+      "answer": "सजीवांपासून मिळणाऱ्या धाग्यांना नैसर्गिक धागे (उदा. कापूस, रेशीम) म्हणतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "पेनची निब कशापासून बनवतात?",
+      "answer": "पेनची निब धातूपासून किंवा कडक प्लास्टिकपासून बनवली जाते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "दैनंदिन जीवनात रबराचे उपयोग काय आहेत?",
+      "answer": "खोडरबर, फुगे, टायर, चपला, ग्लोव्हज इत्यादींमध्ये रबराचा वापर होतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "धागे काढण्याची प्रक्रिया कशावर अवलंबून असते?",
+      "answer": "धागे काढण्याची प्रक्रिया पदार्थाच्या तंतुमय गुणधर्मावर अवलंबून असते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "कागद निर्मितीत पाण्याचे महत्त्व काय?",
+      "answer": "लाकडाचा लगदा तयार करण्यासाठी आणि तंतू स्वच्छ करण्यासाठी मोठ्या प्रमाणावर पाण्याचा वापर होतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "टेरिलिन म्हणजे काय?",
+      "answer": "टेरिलिन हा एक कृत्रिम धागा आहे जो खनिज तेलापासून मिळणाऱ्या रसायनांपासून बनवला जातो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक साधनसंपत्तीचा वापर करताना कोणती काळजी घ्यावी?",
+      "answer": "नैसर्गिक साधनसंपत्तीचा वापर काटकसरीने करावा जेणेकरून ती भविष्यातील पिढीलाही उपलब्ध होईल."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "प्लास्टिक प्रदूषणावर उपाय काय?",
+      "answer": "प्लास्टिकचा वापर कमी करणे आणि वापरलेल्या प्लास्टिकचे पुनर्चक्रण करणे हा मुख्य उपाय आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "कागद उद्योगामुळे जंगले का नष्ट होतात?",
+      "answer": "कागद तयार करण्यासाठी झाडांच्या लाकडाची गरज असते, त्यामुळे दरवर्षी लाखो झाडे तोडली जातात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "चामडे मिळवण्यासाठी काय केले जाते?",
+      "answer": "मृत प्राण्यांच्या कातडीवर प्रक्रिया (Tanning) करून चामडे मिळवले जाते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "पावसाळी कपडे कशापासून बनवतात आणि का?",
+      "answer": "पावसाळी कपडे प्लास्टिक किंवा कृत्रिम धाग्यांपासून बनवतात कारण ते जलरोधक असतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "धाग्यांची मजबूती कशी तपासतात?",
+      "answer": "धाग्यावर वजन टाकून तो कोणत्या वजनाला तुटतो, त्यावरून त्याची मजबूती तपासतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "Short Answer",
+      "question": "रबर कशात विरघळते?",
+      "answer": "रबर कार्बन डायसल्फाइड किंवा बेन्झिनसारख्या द्रावकांमध्ये विरघळते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "Short Answer",
+      "question": "मानवनिर्मित पदार्थांचे वर्गीकरण कसे केले जाते?",
+      "answer": "त्यांच्या उपयोगानुसार जसे की बांधकामाचे पदार्थ, कपड्यांचे पदार्थ, घरगुती वापराचे पदार्थ इत्यादी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "Short Answer",
+      "question": "काचेचा भंगार का जमा केला जातो?",
+      "answer": "काचेचे पुनर्चक्रण करून नवीन काच तयार करण्यासाठी काचेचा भंगार जमा केला जातो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "Short Answer",
+      "question": "लाकडाच्या लगद्याला पांढरा रंग कसा येतो?",
+      "answer": "लगद्यावर विरंजन (Bleaching) प्रक्रिया केल्यामुळे त्याला पांढरा रंग येतो."
+    },
+    {
+      "question_id": 95,
+      "question_type": "Short Answer",
+      "question": "कागद निर्मितीचे कारखाने महाराष्ट्रात कोठे आहेत?",
+      "answer": "बल्लारपूर (चंद्रपूर) येथे कागद निर्मितीचे मोठे कारखाने आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "Short Answer",
+      "question": "रेशीम कशापासून मिळते?",
+      "answer": "रेशीम किड्याच्या कोषापासून (Cocoon) मिळते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "Short Answer",
+      "question": "खडे कोळसा हा जैविक पदार्थ का नाही?",
+      "answer": "कारण तो सजीवांच्या अवशेषांपासून जमिनीत गाडल्या गेल्यावर लाखो वर्षांनी तयार होतो, तो अजैविक खनिज मानला जातो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "Short Answer",
+      "question": "पॅराशूट बनवण्यासाठी कोणत्या धाग्याचा वापर होतो?",
+      "answer": "पॅराशूटसाठी नायलॉन धाग्याचा वापर होतो कारण तो अत्यंत मजबूत असतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "Short Answer",
+      "question": "जुना कागद फेकून न देता त्याचे काय करावे?",
+      "answer": "जुना कागद रद्दीवाल्याला द्यावा जेणेकरून त्याचे पुनर्चक्रण होऊ शकेल."
+    },
+    {
+      "question_id": 100,
+      "question_type": "Short Answer",
+      "question": "आपण मानवनिर्मित पदार्थांचा वापर का कमी केला पाहिजे?",
+      "answer": "मानवनिर्मित पदार्थ निसर्गात लवकर नष्ट होत नाहीत, त्यामुळे प्रदूषण वाढते, म्हणून त्यांचा वापर कमी केला पाहिजे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "Short Answer",
+      "question": "शाळेच्या वहीचा कागद आणि वर्तमानपत्राचा कागद यात काय फरक असतो?",
+      "answer": "वहीचा कागद जाड, पांढरा आणि गुळगुळीत असतो, तर वर्तमानपत्राचा कागद पातळ आणि खडबडीत असतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "Short Answer",
+      "question": "गंधकामुळे रबराला काय प्राप्त होते?",
+      "answer": "गंधकामुळे रबराला कडकपणा आणि टिकाऊपणा प्राप्त होतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक धाग्यांची नावे सांगा.",
+      "answer": "कापूस, ताग, लोकर, रेशीम."
+    },
+    {
+      "question_id": 104,
+      "question_type": "Short Answer",
+      "question": "कागदाच्या लगद्यामध्ये रंग का मिसळतात?",
+      "answer": "रंगीत कागद तयार करण्यासाठी लगद्यामध्ये रंग मिसळतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "Short Answer",
+      "question": "धागे काढण्याची यंत्रे कोणती?",
+      "answer": "चरखा, कताई यंत्रे इत्यादी."
+    },
+    {
+      "question_id": 106,
+      "question_type": "Short Answer",
+      "question": "मानवनिर्मित पदार्थांना पर्याय म्हणून काय वापरावे?",
+      "answer": "मानवनिर्मित पदार्थांना पर्याय म्हणून पुन्हा नैसर्गिक पदार्थांचा (उदा. कापडी पिशव्या) वापर वाढवावा."
+    },
+    {
+      "question_id": 107,
+      "question_type": "Short Answer",
+      "question": "रबराचा चीक कसा गोळा करतात?",
+      "answer": "रबराच्या झाडाला खाचा पाडून त्याखाली भांडे लावून चीक गोळा करतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक पदार्थांची कमतरता का भासत आहे?",
+      "answer": "वाढती लोकसंख्या आणि मानवाच्या वाढत्या गरजांमुळे नैसर्गिक पदार्थांची कमतरता भासत आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "Short Answer",
+      "question": "काचेच्या बांगड्या कशा बनवतात?",
+      "answer": "काच वितळवून तिला साच्यात घालून बांगड्या बनवल्या जातात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "Short Answer",
+      "question": "कागदाचा इतिहास काय आहे?",
+      "answer": "कागदाचा शोध लागण्यापूर्वी भूर्जपत्रे, ताडपत्रे किंवा शिलालेखांचा वापर होत असे."
+    },
+    {
+        "question_id": 111,
+        "question_type": "Short Answer",
+        "question": "पदार्थांच्या वापराबाबत कोणती चतुःसूत्री (4R) पाळावी?",
+        "answer": "Refuse (नकार देणे), Reduce (कमी वापर), Reuse (पुन्हा वापर), Recycle (पुनर्चक्रण)."
+    },
+    {
+        "question_id": 112,
+        "question_type": "Short Answer",
+        "question": "धागा म्हणजे काय?",
+        "answer": "एखाद्या पदार्थाचा लांब, बारीक आणि लवचिक तंतू म्हणजे धागा होय."
+    },
+    {
+        "question_id": 113,
+        "question_type": "Short Answer",
+        "question": "कपडे धुण्यासाठी पूर्वी काय वापरत?",
+        "answer": "पूर्वी कपडे धुण्यासाठी रिठा, शिकेकाई किंवा साध्या सोड्याचा वापर करत."
+    },
+    {
+        "question_id": 114,
+        "question_type": "Short Answer",
+        "question": "रबर बँड ताणल्यावर काय होते?",
+        "answer": "रबर बँड ताणल्यावर तो लांब होतो आणि सोडल्यावर पुन्हा मूळ स्थितीत येतो."
+    },
+    {
+        "question_id": 115,
+        "question_type": "Short Answer",
+        "question": "प्लास्टिकचा वापर कोठे कोठे होतो?",
+        "answer": "बादल्या, बाटल्या, डबे, खेळणी, फर्निचर इत्यादी अनेक ठिकाणी प्लास्टिकचा वापर होतो."
+    },
+    {
+        "question_id": 116,
+        "question_type": "Short Answer",
+        "question": "लाकडाच्या ओंडक्याचे काय केले जाते?",
+        "answer": "लाकडाच्या ओंडक्याचे यंत्रांच्या साहाय्याने बारीक तुकडे करून लगदा बनवला जातो."
+    },
+    {
+        "question_id": 117,
+        "question_type": "Short Answer",
+        "question": "सुती कापड आरोग्यदायी का असते?",
+        "answer": "सुती कापड घाम शोषून घेते आणि हवेची हालचाल होऊ देते, म्हणून ते आरोग्यदायी असते."
+    },
+    {
+        "question_id": 118,
+        "question_type": "Short Answer",
+        "question": "काच कापण्यासाठी काय वापरतात?",
+        "answer": "काच कापण्यासाठी हिऱ्याच्या टोकाचे साधन किंवा विशेष काच कापण्याचे कटर वापरतात."
+    },
+    {
+        "question_id": 119,
+        "question_type": "Short Answer",
+        "question": "पॉलिस्टर धागे कशापासून बनतात?",
+        "answer": "पॉलिस्टर धागे पेट्रोकेमिकल्स (खनिज तेलाचे घटक) पासून बनतात."
+    },
+    {
+        "question_id": 120,
+        "question_type": "Short Answer",
+        "question": "पुनर्चक्रण होणारे पदार्थ कोणते?",
+        "answer": "कागद, प्लास्टिक, काच, लोखंड या पदार्थांचे पुनर्चक्रण होऊ शकते."
+    },
+    {
+        "question_id": 121,
+        "question_type": "Short Answer",
+        "question": "पदार्थांच्या गुणधर्माचा अभ्यास का महत्त्वाचा आहे?",
+        "answer": "पदार्थांच्या गुणधर्माचा अभ्यास केल्यामुळे आपल्याला योग्य कामासाठी योग्य पदार्थ निवडता येतो."
+    },
+    {
+        "question_id": 122,
+        "question_type": "Short Answer",
+        "question": "झाडांची साल कागद बनवण्यासाठी वापरता येते का?",
+        "answer": "हो, काही झाडांच्या सालीतील तंतूंचा वापर कागद किंवा पुठ्ठा बनवण्यासाठी होतो."
+    },
+    {
+        "question_id": 123,
+        "question_type": "Short Answer",
+        "question": "रबर काळा का दिसतो?",
+        "answer": "वाहनांचे टायर बनवताना रबरामध्ये कार्बन ब्लॅक मिसळला जातो, म्हणून टायर काळे दिसतात."
+    },
+    {
+        "question_id": 124,
+        "question_type": "Short Answer",
+        "question": "नैसर्गिक संसाधने म्हणजे काय?",
+        "answer": "निसर्गात उपलब्ध असलेल्या संपत्तीला (उदा. पाणी, खनिजे, जंगले) नैसर्गिक संसाधने म्हणतात."
+    },
+    {
+        "question_id": 125,
+        "question_type": "Short Answer",
+        "question": "कागद कारखान्यातून बाहेर पडणाऱ्या सांडपाण्याचे काय करावे?",
+        "answer": "सांडपाण्यावर प्रक्रिया करून ते शुद्ध केल्यावरच निसर्गात सोडावे."
+    },
+    {
+        "question_id": 126,
+        "question_type": "Short Answer",
+        "question": "दोरखंड बनवण्यासाठी कोणता धागा चांगला?",
+        "answer": "दोरखंड बनवण्यासाठी नायलॉन किंवा तागाचा धागा चांगला असतो."
+    },
+    {
+        "question_id": 127,
+        "question_type": "Short Answer",
+        "question": "प्लास्टिक वितळल्यावर काय होते?",
+        "answer": "प्लास्टिक वितळल्यावर ते मऊ होते आणि त्याला हवा तसा आकार देता येतो."
+    },
+    {
+        "question_id": 128,
+        "question_type": "Short Answer",
+        "question": "कापूस आणि रेशीम यांत काय फरक आहे?",
+        "answer": "कापूस वनस्पतीपासून मिळतो तर रेशीम प्राण्यापासून (किड्यापासून) मिळते."
+    },
+    {
+        "question_id": 129,
+        "question_type": "Short Answer",
+        "question": "भूर्ज वृक्ष कोठे आढळतो?",
+        "answer": "भूर्ज वृक्ष प्रामुख्याने काश्मीर किंवा हिमालयाच्या थंड प्रदेशात आढळतो."
+    },
+    {
+        "question_id": 130,
+        "question_type": "Short Answer",
+        "question": "शाईचे डाग काढण्यासाठी काय वापरावे?",
+        "answer": "शाईचे डाग काढण्यासाठी लिंबाचा रस किंवा विशिष्ट रसायने वापरतात."
+    },
+    {
+        "question_id": 131,
+        "question_type": "Short Answer",
+        "question": "वस्तू तयार करताना पदार्थाचा कोणता गुणधर्म पाहिला जातो?",
+        "answer": "वस्तूच्या उपयोगानुसार पदार्थाचा मजबूतपणा, लवचिकता, कडकपणा किंवा पारदर्शकता पाहिली जाते."
+    },
+    {
+        "question_id": 132,
+        "question_type": "Short Answer",
+        "question": "व्हल्कनायझेशनमध्ये उष्णता का दिली जाते?",
+        "answer": "गंधक आणि रबर यांचे रासायनिक अभिक्रिया होऊन ते एकजीव व्हावे म्हणून उष्णता दिली जाते."
+    },
+    {
+        "question_id": 133,
+        "question_type": "Short Answer",
+        "question": "कागद तयार करण्याची यंत्रे कशी असतात?",
+        "answer": "कागद तयार करण्याची यंत्रे खूप मोठी असतात, ज्यात रोलर्स आणि वाळवण्याचे भाग असतात."
+    },
+    {
+        "question_id": 134,
+        "question_type": "Short Answer",
+        "question": "कृत्रिम धागे पर्यावरणास पूरक आहेत का?",
+        "answer": "नाही, कारण ते निसर्गतः विघटित होत नाहीत, त्यामुळे पर्यावरणास ते हानिकारक ठरू शकतात."
+    },
+    {
+        "question_id": 135,
+        "question_type": "Short Answer",
+        "question": "काचेचा शोध अचानक कसा लागला असावा?",
+        "answer": "वाळूमध्ये चुलीची उष्णता मिळाल्याने वाळू वितळून पारदर्शक पदार्थ तयार झाला असावा, असे मानले जाते."
+    },
+    {
+        "question_id": 136,
+        "question_type": "Short Answer",
+        "question": "चामड्याचे उपयोग सांगा.",
+        "answer": "पादत्राणे, पिशव्या, बेल्ट, जॅकेट इत्यादी बनवण्यासाठी चामड्याचा वापर होतो."
+    },
+    {
+        "question_id": 137,
+        "question_type": "Short Answer",
+        "question": "कागदाचा पुनर्वापर म्हणजे काय?",
+        "answer": "वापरलेल्या कागदापासून पुन्हा लगदा तयार करून नवीन कागद किंवा पुठ्ठा बनवणे म्हणजे पुनर्वापर."
+    },
+    {
+        "question_id": 138,
+        "question_type": "Short Answer",
+        "question": "रबर पाण्याला प्रतिरोध करते का?",
+        "answer": "हो, रबर हा जलरोधक पदार्थ आहे."
+    },
+    {
+        "question_id": 139,
+        "question_type": "Short Answer",
+        "question": "मानवनिर्मित पदार्थ स्वस्त का असतात?",
+        "answer": "कारण ते कारखान्यात मोठ्या प्रमाणावर आणि कमी खर्चात तयार करता येतात."
+    },
+    {
+        "question_id": 140,
+        "question_type": "Short Answer",
+        "question": "भविष्यात कागद कसा वाचवता येईल?",
+        "answer": "डिजिटल माध्यमांचा वापर वाढवून आणि कागदाचा दोन्ही बाजूंनी वापर करून कागद वाचवता येईल."
+    },
+    {
+        "question_id": 141,
+        "question_type": "Short Answer",
+        "question": "सजीवांपासून मिळणारे तंतू कोणते?",
+        "answer": "वनस्पतींपासून मिळणारे कापसाचे तंतू आणि प्राण्यांपासून मिळणारे रेशीम किंवा लोकर."
+    },
+    {
+        "question_id": 142,
+        "question_type": "Short Answer",
+        "question": "रबर आणि प्लास्टिक मध्ये काय साम्य आहे?",
+        "answer": "दोन्ही मानवनिर्मित वस्तू बनवण्यासाठी वापरले जातात आणि दोन्हीमध्ये लवचिकता असू शकते."
+    },
+    {
+        "question_id": 143,
+        "question_type": "Short Answer",
+        "question": "शाळेच्या रद्दीचे काय करावे?",
+        "answer": "शाळेची रद्दी पुनर्चक्रणासाठी संकलित करून रद्दी केंद्रात द्यावी."
+    },
+    {
+        "question_id": 144,
+        "question_type": "Short Answer",
+        "question": "नैसर्गिक रेशीम महाग का असते?",
+        "answer": "रेशीम मिळवण्याची प्रक्रिया वेळखाऊ आणि कष्टाची असते, म्हणून ते महाग असते."
+    },
+    {
+        "question_id": 145,
+        "question_type": "Short Answer",
+        "question": "कागदाचा शोध कोणी लावला असे मानले जाते?",
+        "answer": "चीनमधील 'त्साय लुन' याने कागदाचा शोध लावला असे मानले जाते."
+    },
+    {
+        "question_id": 146,
+        "question_type": "Short Answer",
+        "question": "प्लास्टिकचा मानवी आरोग्यावर काय परिणाम होतो?",
+        "answer": "प्लास्टिकमधील रसायने अन्नात गेल्यास कर्करोगासारखे आजार होऊ शकतात."
+    },
+    {
+        "question_id": 147,
+        "question_type": "Short Answer",
+        "question": "रेयॉन धाग्याला चमक का असते?",
+        "answer": "त्याच्या विशिष्ट रासायनिक संरचनेमुळे आणि बनवण्याच्या पद्धतीमुळे त्याला चमक असते."
+    },
+    {
+        "question_id": 148,
+        "question_type": "Short Answer",
+        "question": "कागद उद्योगामुळे होणारे प्रदूषण कसे रोखता येईल?",
+        "answer": "सांडपाणी प्रक्रियेचा वापर करून आणि टाकाऊ पदार्थांचे व्यवस्थापन करून प्रदूषण रोखता येईल."
+    },
+    {
+        "question_id": 149,
+        "question_type": "Short Answer",
+        "question": "नैसर्गिक आणि मानवनिर्मित पदार्थांची निवड कशी करावी?",
+        "answer": "पर्यावरणाचा विचार करून जिथे शक्य आहे तिथे नैसर्गिक पदार्थांना प्राधान्य द्यावे."
+    },
+    {
+        "question_id": 150,
+        "question_type": "Short Answer",
+        "question": "विज्ञानाचा वापर पदार्थांच्या बाबतीत कसा करावा?",
+        "answer": "विज्ञानाचा वापर करून पर्यावरणास अनुकूल आणि कमीत कमी प्रदूषण करणारे पदार्थ शोधण्यासाठी करावा."
+    }
+  ]
+}

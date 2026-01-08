@@ -1,0 +1,1110 @@
+{
+  "chapter_info": {
+    "chapter_number": "३ (१४)",
+    "grade": "६",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "ग्रामीण स्थानिक शासन संस्था"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायत, पंचायत समिती आणि जिल्हा परिषद यांना एकत्रितपणे काय म्हटले जाते?",
+      "options": [
+        { "option_number": 1, "text": "नगरपालिका", "is_correct": false },
+        { "option_number": 2, "text": "पंचायती राज्यव्यवस्था", "is_correct": true },
+        { "option_number": 3, "text": "विधानसभा", "is_correct": false },
+        { "option_number": 4, "text": "लोकसभा", "is_correct": false }
+      ],
+      "answer": "पंचायती राज्यव्यवस्था"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "प्रत्येक गावाचा स्थानिक कारभार कोण पाहते?",
+      "options": [
+        { "option_number": 1, "text": "पंचायत समिती", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा परिषद", "is_correct": false },
+        { "option_number": 3, "text": "ग्रामपंचायत", "is_correct": true },
+        { "option_number": 4, "text": "महानगरपालिका", "is_correct": false }
+      ],
+      "answer": "ग्रामपंचायत"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "पाचशेपेक्षा कमी लोकसंख्या असलेल्या दोन किंवा अधिक गावांसाठी कोणती ग्रामपंचायत असते?",
+      "options": [
+        { "option_number": 1, "text": "नगर पंचायत", "is_correct": false },
+        { "option_number": 2, "text": "गट ग्रामपंचायत", "is_correct": true },
+        { "option_number": 3, "text": "साधी ग्रामपंचायत", "is_correct": false },
+        { "option_number": 4, "text": "तालुका पंचायत", "is_correct": false }
+      ],
+      "answer": "गट ग्रामपंचायत"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीच्या निवडणुका दर किती वर्षांनी होतात?",
+      "options": [
+        { "option_number": 1, "text": "तीन", "is_correct": false },
+        { "option_number": 2, "text": "चार", "is_correct": false },
+        { "option_number": 3, "text": "पाच", "is_correct": true },
+        { "option_number": 4, "text": "सहा", "is_correct": false }
+      ],
+      "answer": "पाच"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीच्या सभा कोणाच्या अध्यक्षतेखाली होतात?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 2, "text": "सरपंच", "is_correct": true },
+        { "option_number": 3, "text": "सभापती", "is_correct": false },
+        { "option_number": 4, "text": "अध्यक्ष", "is_correct": false }
+      ],
+      "answer": "सरपंच"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीचा सचिव कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "सरपंच", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामसेवक", "is_correct": true },
+        { "option_number": 3, "text": "गटविकास अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "तलाठी", "is_correct": false }
+      ],
+      "answer": "ग्रामसेवक"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामसेवकाची नेमणूक कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "सरपंच", "is_correct": false },
+        { "option_number": 2, "text": "मुख्य कार्यकारी अधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "गटविकास अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "तहसीलदार", "is_correct": false }
+      ],
+      "answer": "मुख्य कार्यकारी अधिकारी"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "गावातील मतदारांच्या सभेला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "महासभा", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामसभा", "is_correct": true },
+        { "option_number": 3, "text": "लोकसभा", "is_correct": false },
+        { "option_number": 4, "text": "विधानसभा", "is_correct": false }
+      ],
+      "answer": "ग्रामसभा"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "एका आर्थिक वर्षात ग्रामसभेच्या किमान किती सभा होणे बंधनकारक आहे?",
+      "options": [
+        { "option_number": 1, "text": "दोन", "is_correct": false },
+        { "option_number": 2, "text": "चार", "is_correct": false },
+        { "option_number": 3, "text": "सहा", "is_correct": true },
+        { "option_number": 4, "text": "बारा", "is_correct": false }
+      ],
+      "answer": "सहा"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामसभेचे वार्षिक अहवाल आणि हिशोब कोठे मांडले जातात?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा परिषद", "is_correct": false },
+        { "option_number": 2, "text": "आर्थिक वर्षाच्या पहिल्या ग्रामसभेत", "is_correct": true },
+        { "option_number": 3, "text": "मंत्रालयात", "is_correct": false },
+        { "option_number": 4, "text": "बँकेत", "is_correct": false }
+      ],
+      "answer": "आर्थिक वर्षाच्या पहिल्या ग्रामसभेत"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीच्या उत्पन्नाचे मुख्य साधन कोणते आहे?",
+      "options": [
+        { "option_number": 1, "text": "परदेशातून येणारा निधी", "is_correct": false },
+        { "option_number": 2, "text": "विविध स्थानिक कर (घरपट्टी, पाणीपट्टी)", "is_correct": true },
+        { "option_number": 3, "text": "केवळ बँकांचे कर्ज", "is_correct": false },
+        { "option_number": 4, "text": "कंपन्यांची देणगी", "is_correct": false }
+      ],
+      "answer": "स्थानिक कर"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायत आणि जिल्हा परिषद यांना जोडणारा दुवा कोण आहे?",
+      "options": [
+        { "option_number": 1, "text": "राज्य सरकार", "is_correct": false },
+        { "option_number": 2, "text": "पंचायत समिती", "is_correct": true },
+        { "option_number": 3, "text": "नगरपालिका", "is_correct": false },
+        { "option_number": 4, "text": "विधान परिषद", "is_correct": false }
+      ],
+      "answer": "पंचायत समिती"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "तालुक्यातील सर्व गावांचा एकत्रित असा काय असतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा गट", "is_correct": false },
+        { "option_number": 2, "text": "विकासगट", "is_correct": true },
+        { "option_number": 3, "text": "शहर गट", "is_correct": false },
+        { "option_number": 4, "text": "राज्य गट", "is_correct": false }
+      ],
+      "answer": "विकासगट"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "पंचायत समितीचा प्रमुख पदाधिकारी कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "सरपंच", "is_correct": false },
+        { "option_number": 2, "text": "सभापती", "is_correct": true },
+        { "option_number": 3, "text": "गटविकास अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "अध्यक्ष", "is_correct": false }
+      ],
+      "answer": "सभापती"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "पंचायत समितीच्या सभा बोलवण्याची जबाबदारी कोणाची असते?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 2, "text": "सभापती", "is_correct": true },
+        { "option_number": 3, "text": "आमदार", "is_correct": false },
+        { "option_number": 4, "text": "खासदार", "is_correct": false }
+      ],
+      "answer": "सभापती"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्रात सध्या किती जिल्हा परिषदा आहेत?",
+      "options": [
+        { "option_number": 1, "text": "३६", "is_correct": false },
+        { "option_number": 2, "text": "३४", "is_correct": true },
+        { "option_number": 3, "text": "३०", "is_correct": false },
+        { "option_number": 4, "text": "२८", "is_correct": false }
+      ],
+      "answer": "३४"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "मुंबई शहर आणि मुंबई उपनगर जिल्ह्यांसाठी जिल्हा परिषदा का नाहीत?",
+      "options": [
+        { "option_number": 1, "text": "तेथे लोक कमी आहेत", "is_correct": false },
+        { "option_number": 2, "text": "ते ग्रामीण लोकवस्तीचे भाग नाहीत", "is_correct": true },
+        { "option_number": 3, "text": "तेथे शेती होत नाही", "is_correct": false },
+        { "option_number": 4, "text": "तेथे शासन संस्था नाहीत", "is_correct": false }
+      ],
+      "answer": "ते ग्रामीण लोकवस्तीचे भाग नाहीत"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेचा प्रशासकीय प्रमुख कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हाधिकारी", "is_correct": false },
+        { "option_number": 2, "text": "मुख्य कार्यकारी अधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "गटविकास अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "तहसीलदार", "is_correct": false }
+      ],
+      "answer": "मुख्य कार्यकारी अधिकारी"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेच्या मुख्य कार्यकारी अधिकाऱ्याची नेमणूक कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "केंद्र शासन", "is_correct": false },
+        { "option_number": 2, "text": "राज्यशासन", "is_correct": true },
+        { "option_number": 3, "text": "जिल्हा परिषद अध्यक्ष", "is_correct": false },
+        { "option_number": 4, "text": "निवडणूक आयोग", "is_correct": false }
+      ],
+      "answer": "राज्यशासन"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "निवडणूक लढवण्यासाठी व्यक्तीचे वय किती वर्षे पूर्ण असावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "१८", "is_correct": false },
+        { "option_number": 2, "text": "२१", "is_correct": true },
+        { "option_number": 3, "text": "२५", "is_correct": false },
+        { "option_number": 4, "text": "३०", "is_correct": false }
+      ],
+      "answer": "२१"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या संविधान दुरुस्तीने स्थानिक शासन संस्थांना संविधानात स्थान दिले?",
+      "options": [
+        { "option_number": 1, "text": "४२ व ४४ वी", "is_correct": false },
+        { "option_number": 2, "text": "७३ व ७४ वी", "is_correct": true },
+        { "option_number": 3, "text": "५० व ५१ वी", "is_correct": false },
+        { "option_number": 4, "text": "८६ वी", "is_correct": false }
+      ],
+      "answer": "७३ व ७४ वी"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेत महिला आणि बालकांचे प्रश्न कोणत्या समितीमार्फत सोडवले जातात?",
+      "options": [
+        { "option_number": 1, "text": "शिक्षण समिती", "is_correct": false },
+        { "option_number": 2, "text": "महिला व बालकल्याण समिती", "is_correct": true },
+        { "option_number": 3, "text": "कृषी समिती", "is_correct": false },
+        { "option_number": 4, "text": "वित्त समिती", "is_correct": false }
+      ],
+      "answer": "महिला व बालकल्याण समिती"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीमध्ये सदस्य संख्या किमान किती असते?",
+      "options": [
+        { "option_number": 1, "text": "५", "is_correct": false },
+        { "option_number": 2, "text": "७", "is_correct": true },
+        { "option_number": 3, "text": "१०", "is_correct": false },
+        { "option_number": 4, "text": "१५", "is_correct": false }
+      ],
+      "answer": "७"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेमध्ये सदस्य संख्या कमाल किती असू शकते?",
+      "options": [
+        { "option_number": 1, "text": "५०", "is_correct": false },
+        { "option_number": 2, "text": "७५", "is_correct": true },
+        { "option_number": 3, "text": "१००", "is_correct": false },
+        { "option_number": 4, "text": "१५०", "is_correct": false }
+      ],
+      "answer": "७५"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "संरक्षण, परराष्ट्र व्यवहार व चलन हे विषय कोणाच्या कक्षेत येतात?",
+      "options": [
+        { "option_number": 1, "text": "राज्यशासन", "is_correct": false },
+        { "option_number": 2, "text": "संघशासन", "is_correct": true },
+        { "option_number": 3, "text": "स्थानिक शासन", "is_correct": false },
+        { "option_number": 4, "text": "ग्रामसभा", "is_correct": false }
+      ],
+      "answer": "संघशासन"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्राचे राज्यशासन खालीलपैकी कोणत्या विषयासंबंधी कायदे करते?",
+      "options": [
+        { "option_number": 1, "text": "परराष्ट्र व्यवहार", "is_correct": false },
+        { "option_number": 2, "text": "कायदा व सुव्यवस्था", "is_correct": true },
+        { "option_number": 3, "text": "चलन", "is_correct": false },
+        { "option_number": 4, "text": "सीमा सुरक्षा", "is_correct": false }
+      ],
+      "answer": "कायदा व सुव्यवस्था"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीमध्ये निवडून आलेल्या सदस्यांपैकी कशाची निवड केली जाते?",
+      "options": [
+        { "option_number": 1, "text": "आमदार", "is_correct": false },
+        { "option_number": 2, "text": "सरपंच व उपसरपंच", "is_correct": true },
+        { "option_number": 3, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 4, "text": "खासदार", "is_correct": false }
+      ],
+      "answer": "सरपंच व उपसरपंच"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "अविश्वासाचा ठराव कोणाविरुद्ध मांडता येतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ ग्रामसेवक", "is_correct": false },
+        { "option_number": 2, "text": "काम नीट न करणाऱ्या सरपंचावर", "is_correct": true },
+        { "option_number": 3, "text": "शेतकऱ्यांवर", "is_correct": false },
+        { "option_number": 4, "text": "मतदारांवर", "is_correct": false }
+      ],
+      "answer": "सरपंचावर"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामसभेच्या बैठकीपूर्वी कोणाची सभा होते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ वयोवृद्धांची", "is_correct": false },
+        { "option_number": 2, "text": "गावातील महिलांची", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षण समितीची", "is_correct": false },
+        { "option_number": 4, "text": "आरोग्य समितीची", "is_correct": false }
+      ],
+      "answer": "महिलांची सभा"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामसभेत महिला प्रामुख्याने कोणत्या विषयांवर चर्चा करतात?",
+      "options": [
+        { "option_number": 1, "text": "केवळ मनोरंजन", "is_correct": false },
+        { "option_number": 2, "text": "पिण्याचे पाणी, दारूबंदी व आरोग्य", "is_correct": true },
+        { "option_number": 3, "text": "फक्त राजकारण", "is_correct": false },
+        { "option_number": 4, "text": "क्रिकेट", "is_correct": false }
+      ],
+      "answer": "पाणी, दारूबंदी व आरोग्य"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "विकासगटाचा कारभार पाहणारी ग्रामीण संस्था कोणती?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामपंचायत", "is_correct": false },
+        { "option_number": 2, "text": "पंचायत समिती", "is_correct": true },
+        { "option_number": 3, "text": "महानगरपालिका", "is_correct": false },
+        { "option_number": 4, "text": "नगरपरिषद", "is_correct": false }
+      ],
+      "answer": "पंचायत समिती"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "पंचायत समितीला राज्यशासनाकडून काय मिळते?",
+      "options": [
+        { "option_number": 1, "text": "मोफत वीज", "is_correct": false },
+        { "option_number": 2, "text": "विकास योजनांसाठी अनुदान", "is_correct": true },
+        { "option_number": 3, "text": "केवळ पाणी", "is_correct": false },
+        { "option_number": 4, "text": "मोफत घर", "is_correct": false }
+      ],
+      "answer": "अनुदान"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेच्या सभांचे अध्यक्षपद कोणाकडे असते?",
+      "options": [
+        { "option_number": 1, "text": "मुख्य कार्यकारी अधिकारी", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा परिषद अध्यक्ष", "is_correct": true },
+        { "option_number": 3, "text": "आमदार", "is_correct": false },
+        { "option_number": 4, "text": "पालकमंत्री", "is_correct": false }
+      ],
+      "answer": "अध्यक्ष"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेचा कारभार कोणामार्फत चालवला जातो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ एकाच व्यक्तीमार्फत", "is_correct": false },
+        { "option_number": 2, "text": "विविध समित्यांमार्फत", "is_correct": true },
+        { "option_number": 3, "text": "केवळ पोलिसांमार्फत", "is_correct": false },
+        { "option_number": 4, "text": "बाजारपेठ मार्फत", "is_correct": false }
+      ],
+      "answer": "विविध समित्यांमार्फत"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीचा कारभार सुरळीत चालावा म्हणून काय नेमलेले असतात?",
+      "options": [
+        { "option_number": 1, "text": "केवळ पहारेकरी", "is_correct": false },
+        { "option_number": 2, "text": "पदाधिकारी व अधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "केवळ दुकानदार", "is_correct": false },
+        { "option_number": 4, "text": "केवळ विद्यार्थी", "is_correct": false }
+      ],
+      "answer": "पदाधिकारी व अधिकारी"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "पंचायत समितीच्या कामांचा काय तयार केला जातो?",
+      "options": [
+        { "option_number": 1, "text": "सिनेमाचा नकाशा", "is_correct": false },
+        { "option_number": 2, "text": "विकास कामांचा आराखडा", "is_correct": true },
+        { "option_number": 3, "text": "केवळ रेशन कार्ड", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "आराखडा"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेच्या निधीतून खर्च करण्याचा अधिकार कोणाला असतो?",
+      "options": [
+        { "option_number": 1, "text": "सभापती", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा परिषद अध्यक्ष", "is_correct": true },
+        { "option_number": 3, "text": "केवळ ग्रामसेवक", "is_correct": false },
+        { "option_number": 4, "text": "केवळ चालक", "is_correct": false }
+      ],
+      "answer": "जिल्हा परिषद अध्यक्ष"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीच्या विकास योजनांना कोणाची मान्यता लागते?",
+      "options": [
+        { "option_number": 1, "text": "पोलीस ठाणे", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामसभा", "is_correct": true },
+        { "option_number": 3, "text": "मजूर संघ", "is_correct": false },
+        { "option_number": 4, "text": "केवळ दुकानदार", "is_correct": false }
+      ],
+      "answer": "ग्रामसभा"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "गटविकास अधिकाऱ्याची नेमणूक कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "सरपंच", "is_correct": false },
+        { "option_number": 2, "text": "राज्यशासन", "is_correct": true },
+        { "option_number": 3, "text": "जिल्हा परिषद सदस्य", "is_correct": false },
+        { "option_number": 4, "text": "खासदार", "is_correct": false }
+      ],
+      "answer": "राज्यशासन"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामीण स्थानिक शासन संस्थांच्या रचनेत सर्वात वरच्या पातळीवर कोण असते?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामपंचायत", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा परिषद", "is_correct": true },
+        { "option_number": 3, "text": "पंचायत समिती", "is_correct": false },
+        { "option_number": 4, "text": "नगरपंचायत", "is_correct": false }
+      ],
+      "answer": "जिल्हा परिषद"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "अशुद्ध पाणीपुरवठ्याच्या विरोधात तक्रार दिनेश आणि नयना कोठे करू शकतात?",
+      "options": [
+        { "option_number": 1, "text": "शाळा", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामपंचायत किंवा पंचायत समिती", "is_correct": true },
+        { "option_number": 3, "text": "केवळ चित्रपट गृह", "is_correct": false },
+        { "option_number": 4, "text": "उद्यान", "is_correct": false }
+      ],
+      "answer": "ग्रामपंचायत"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "लसीकरणासाठी कोठे जावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "बँकेत", "is_correct": false },
+        { "option_number": 2, "text": "प्राथमिक आरोग्य केंद्रात", "is_correct": true },
+        { "option_number": 3, "text": "न्यायालय", "is_correct": false },
+        { "option_number": 4, "text": "पोस्ट ऑफिसमध्ये", "is_correct": false }
+      ],
+      "answer": "आरोग्य केंद्र"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "जन्म-मृत्यूची नोंद करण्याचे काम कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "पोलीस", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामपंचायत", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षण विभाग", "is_correct": false },
+        { "option_number": 4, "text": "केवळ शेतकरी", "is_correct": false }
+      ],
+      "answer": "ग्रामपंचायत"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "प्रत्येक महिन्यात कोणाची किमान एक तरी सभा होणे आवश्यक आहे?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामपंचायत", "is_correct": false },
+        { "option_number": 2, "text": "पंचायत समिती", "is_correct": true },
+        { "option_number": 3, "text": "केवळ मुलांची सभा", "is_correct": false },
+        { "option_number": 4, "text": "आरती मंडळ", "is_correct": false }
+      ],
+      "answer": "पंचायत समिती"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "शेतीसाठी बी-बियाणांचा पुरवठा करण्याचे काम कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "विमानतळ", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा परिषद", "is_correct": true },
+        { "option_number": 3, "text": "केवळ दुकानदार", "is_correct": false },
+        { "option_number": 4, "text": "सिनेमा हॉल", "is_correct": false }
+      ],
+      "answer": "जिल्हा परिषद"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्रात एकूण जिल्ह्यांच्या संख्येपेक्षा जिल्हा परिषदांची संख्या कशी आहे?",
+      "options": [
+        { "option_number": 1, "text": "जास्त", "is_correct": false },
+        { "option_number": 2, "text": "कमी", "is_correct": true },
+        { "option_number": 3, "text": "समान", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामपंचायतीने घेतलेल्या निर्णयांची अमलबजावणी कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "सरपंच", "is_correct": true },
+        { "option_number": 2, "text": "शिक्षक", "is_correct": false },
+        { "option_number": 3, "text": "दुकानदार", "is_correct": false },
+        { "option_number": 4, "text": "केवळ पर्यटक", "is_correct": false }
+      ],
+      "answer": "सरपंच"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "पंचायत समितीच्या उपसभापतीची निवड कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "लोक थेट निवडून देतात", "is_correct": false },
+        { "option_number": 2, "text": "निवडून आलेले प्रतिनिधी आपल्यापैकी एकाची", "is_correct": true },
+        { "option_number": 3, "text": "आमदार निवडतात", "is_correct": false },
+        { "option_number": 4, "text": "जिल्हाधिकारी निवडतात", "is_correct": false }
+      ],
+      "answer": "प्रतिनिधी आपल्यापैकी एकाची"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रामीण भागातील लोकांचे स्थानिक पातळीवरील सर्वात महत्त्वाचे संघटन कोणते?",
+      "options": [
+        { "option_number": 1, "text": "भजन मंडळ", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामसभा", "is_correct": true },
+        { "option_number": 3, "text": "व्यापारी महासंघ", "is_correct": false },
+        { "option_number": 4, "text": "केवळ बँका", "is_correct": false }
+      ],
+      "answer": "ग्रामसभा"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "स्थानिक शासन संस्थांचे ढोबळमानाने कोणते दोन प्रकार केले जातात?",
+      "options": [
+        { "option_number": 1, "text": "मोठे व छोटे", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामीण व शहरी", "is_correct": true },
+        { "option_number": 3, "text": "अशोक व गुप्त", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "ग्रामीण व शहरी"
+    },
+  {
+    "question_number": 51,
+    "question": "ग्रामीण स्थानिक शासन संस्थांना एकत्रितपणे काय म्हटले जाते?",
+    "answer": "पंचायती राज्यव्यवस्था"
+  },
+  {
+    "question_number": 52,
+    "question": "प्रत्येक गावाचा कारभार करणारी संस्था कोणती?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 53,
+    "question": "किती लोकसंख्या असलेल्या गावासाठी स्वतंत्र ग्रामपंचायत असते?",
+    "answer": "५०० पेक्षा जास्त"
+  },
+  {
+    "question_number": 54,
+    "question": "पाचशेपेक्षा कमी लोकसंख्या असलेल्या दोन-तीन गावांची मिळून कोणती ग्रामपंचायत असते?",
+    "answer": "गट ग्रामपंचायत"
+  },
+  {
+    "question_number": 55,
+    "question": "ग्रामपंचायतीचा प्रमुख पदाधिकारी कोण असतो?",
+    "answer": "सरपंच"
+  },
+  {
+    "question_number": 56,
+    "question": "सरपंचाच्या अनुपस्थितीत ग्रामपंचायतीचे कामकाज कोण पाहतो?",
+    "answer": "उपसरपंच"
+  },
+  {
+    "question_number": 57,
+    "question": "ग्रामपंचायतीचा सचिव कोण असतो?",
+    "answer": "ग्रामसेवक"
+  },
+  {
+    "question_number": 58,
+    "question": "ग्रामसेवकाची नेमणूक कोण करते?",
+    "answer": "जिल्हा परिषदेचा मुख्य कार्यकारी अधिकारी"
+  },
+  {
+    "question_number": 59,
+    "question": "गावातील मतदारांच्या सभेला काय म्हणतात?",
+    "answer": "ग्रामसभा"
+  },
+  {
+    "question_number": 60,
+    "question": "एका आर्थिक वर्षात ग्रामसभेच्या किमान किती सभा होणे बंधनकारक आहे?",
+    "answer": "सहा"
+  },
+  {
+    "question_number": 61,
+    "question": "ग्रामसभेचे अध्यक्षपद कोण भूषवतो?",
+    "answer": "सरपंच"
+  },
+  {
+    "question_number": 62,
+    "question": "ग्रामसभेच्या बैठकीपूर्वी कोणाची सभा होते?",
+    "answer": "महिलांची"
+  },
+  {
+    "question_number": 63,
+    "question": "ग्रामपंचायतीला उत्पन्नाचे साधन कोणते आहे?",
+    "answer": "विविध कर (घरपट्टी, पाणीपट्टी इत्यादी)"
+  },
+  {
+    "question_number": 64,
+    "question": "तालुक्यातील सर्व गावांचा एकत्रित असा काय असतो?",
+    "answer": "विकासगट"
+  },
+  {
+    "question_number": 65,
+    "question": "विकासगटाचा कारभार पाहणारी संस्था कोणती?",
+    "answer": "पंचायत समिती"
+  },
+  {
+    "question_number": 66,
+    "question": "पंचायत समितीचा प्रमुख पदाधिकारी कोण असतो?",
+    "answer": "सभापती"
+  },
+  {
+    "question_number": 67,
+    "question": "पंचायत समितीचा प्रशासकीय प्रमुख कोण असतो?",
+    "answer": "गटविकास अधिकारी"
+  },
+  {
+    "question_number": 68,
+    "question": "गटविकास अधिकाऱ्याची नेमणूक कोण करते?",
+    "answer": "राज्य शासन"
+  },
+  {
+    "question_number": 69,
+    "question": "जिल्हा पातळीवरील स्थानिक शासन संस्थेला काय म्हणतात?",
+    "answer": "जिल्हा परिषद"
+  },
+  {
+    "question_number": 70,
+    "question": "महाराष्ट्रात सध्या किती जिल्हा परिषदा आहेत?",
+    "answer": "३४"
+  },
+  {
+    "question_number": 71,
+    "question": "मुंबई शहर व मुंबई उपनगर या जिल्ह्यांसाठी जिल्हा परिषदा का नाहीत?",
+    "answer": "तेथे ग्रामीण लोकवस्ती नसल्यामुळे"
+  },
+  {
+    "question_number": 72,
+    "question": "जिल्हा परिषदेचा प्रमुख पदाधिकारी कोण असतो?",
+    "answer": "अध्यक्ष"
+  },
+  {
+    "question_number": 73,
+    "question": "जिल्हा परिषदेचा प्रशासकीय प्रमुख कोण असतो?",
+    "answer": "मुख्य कार्यकारी अधिकारी"
+  },
+  {
+    "question_number": 74,
+    "question": "मुख्य कार्यकारी अधिकाऱ्याची नेमणूक कोण करते?",
+    "answer": "राज्य शासन"
+  },
+  {
+    "question_number": 75,
+    "question": "ग्रामपंचायतीच्या निवडणुका दर किती वर्षांनी होतात?",
+    "answer": "पाच वर्षांनी"
+  },
+  {
+    "question_number": 76,
+    "question": "पंचायत समितीला राज्यशासनाकडून काय मिळते?",
+    "answer": "अनुदान"
+  },
+  {
+    "question_number": 77,
+    "question": "शेती सुधारणेसाठी ग्रामस्थांना मदत कोण करते?",
+    "answer": "पंचायत समिती / जिल्हा परिषद"
+  },
+  {
+    "question_number": 78,
+    "question": "गावातील रस्ते, दिवाबत्ती ही कामे कोणाची आहेत?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 79,
+    "question": "जिल्हा परिषदेचा निधी कोठे वापरला जातो?",
+    "answer": "जिल्ह्याच्या विकासकामांसाठी"
+  },
+  {
+    "question_number": 80,
+    "question": "स्थानिक शासन संस्थांची निवडणूक लढवण्यासाठी किमान वय किती हवे?",
+    "answer": "२१ वर्षे"
+  },
+  {
+    "question_number": 81,
+    "question": "जन्म-मृत्यूची नोंद करणे हे कोणाचे काम आहे?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 82,
+    "question": "पंचायत समितीच्या सभा बोलवण्याचा अधिकार कोणाला असतो?",
+    "answer": "सभापती"
+  },
+  {
+    "question_number": 83,
+    "question": "जिल्हा परिषदेचे सर्व निर्णय कोणाच्या अध्यक्षतेखाली घेतले जातात?",
+    "answer": "अध्यक्ष"
+  },
+  {
+    "question_number": 84,
+    "question": "गावातील सांडपाण्याची विल्हेवाट कोण लावते?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 85,
+    "question": "प्राथमिक शिक्षण ही कोणाची जबाबदारी आहे?",
+    "answer": "जिल्हा परिषद"
+  },
+  {
+    "question_number": 86,
+    "question": "गट ग्रामपंचायतीमध्ये किती गावे असू शकतात?",
+    "answer": "दोन किंवा अधिक"
+  },
+  {
+    "question_number": 87,
+    "question": "ग्रामपंचायतीच्या बैठका महिन्यातून किमान कितीदा होतात?",
+    "answer": "एकदा"
+  },
+  {
+    "question_number": 88,
+    "question": "ग्रामपंचायतीच्या निवडणुका कोण घेते?",
+    "answer": "राज्य निवडणूक आयोग"
+  },
+  {
+    "question_number": 89,
+    "question": "पंचायत समितीचा उपसभापती कोणाकडून निवडला जातो?",
+    "answer": "निवडून आलेल्या सदस्यांतून"
+  },
+  {
+    "question_number": 90,
+    "question": "आरोग्य सेवा पुरवणे हे कोणाचे काम आहे?",
+    "answer": "जिल्हा परिषद / पंचायत समिती"
+  },
+  {
+    "question_number": 91,
+    "question": "पिण्याच्या पाण्याचा पुरवठा करणे कोणाचे काम आहे?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 92,
+    "question": "जिल्हा परिषदेत कोणत्या समित्या असतात?",
+    "answer": "शिक्षण, आरोग्य, कृषी, महिला व बालकल्याण इत्यादी"
+  },
+  {
+    "question_number": 93,
+    "question": "गावाचा विकास आराखडा कोठे मंजूर केला जातो?",
+    "answer": "ग्रामसभा"
+  },
+  {
+    "question_number": 94,
+    "question": "पंचायत समितीला विकासकामांसाठी पैसा कोणाकडून मिळतो?",
+    "answer": "जिल्हा परिषद व राज्य शासन"
+  },
+  {
+    "question_number": 95,
+    "question": "जिल्हा परिषद अध्यक्षांचा कार्यकाळ किती असतो?",
+    "answer": "अडीच वर्षे"
+  },
+  {
+    "question_number": 96,
+    "question": "ग्रामसेवकाला वेतन कोठून मिळते?",
+    "answer": "जिल्हा परिषदेच्या स्वनिधीतून"
+  },
+  {
+    "question_number": 97,
+    "question": "गावातील रस्त्यांवर झाडे लावणे हे कोणाचे काम आहे?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 98,
+    "question": "तालुक्यातील शिक्षणाचा विस्तार कोण पाहते?",
+    "answer": "पंचायत समिती"
+  },
+  {
+    "question_number": 99,
+    "question": "जिल्हा परिषदेची सर्वात महत्त्वाची समिती कोणती?",
+    "answer": "स्थायी समिती"
+  },
+  {
+    "question_number": 100,
+    "question": "ग्रामपंचायतीच्या सभांचे इतिवृत्त कोण लिहितो?",
+    "answer": "ग्रामसेवक"
+  },
+  {
+    "question_number": 101,
+    "question": "सरपंचावर अविश्वासाचा ठराव कोण मांडू शकते?",
+    "answer": "ग्रामपंचायत सदस्य"
+  },
+  {
+    "question_number": 102,
+    "question": "जिल्हा परिषद उपाध्यक्ष कोणास आपला राजीनामा देतो?",
+    "answer": "जिल्हा परिषद अध्यक्ष"
+  },
+  {
+    "question_number": 103,
+    "question": "ग्रामसभेत महिलांसाठी काय राखीव असते?",
+    "answer": "विशेष प्रतिनिधित्व / चर्चा संधी"
+  },
+  {
+    "question_number": 104,
+    "question": "ग्रामीण भागात पशुवैद्यकीय सोयी कोण पुरवते?",
+    "answer": "जिल्हा परिषद"
+  },
+  {
+    "question_number": 105,
+    "question": "ग्रामपंचायतीचा वार्षिक जमा-खर्च कोठे सादर केला जातो?",
+    "answer": "ग्रामसभा"
+  },
+  {
+    "question_number": 106,
+    "question": "पंचायत समिती सदस्य संख्या कशावर अवलंबून असते?",
+    "answer": "लोकसंख्येवर"
+  },
+  {
+    "question_number": 107,
+    "question": "मुख्य कार्यकारी अधिकारी कोणत्या दर्जाचा अधिकारी असतो?",
+    "answer": "भारतीय प्रशासकीय सेवा (IAS)"
+  },
+  {
+    "question_number": 108,
+    "question": "गावातील कर गोळा करण्याचे काम कोणाचे आहे?",
+    "answer": "ग्रामसेवक / ग्रामपंचायत"
+  },
+  {
+    "question_number": 109,
+    "question": "पंचायत समितीच्या बैठका किती दिवसांनी व्हाव्या लागतात?",
+    "answer": "किमान दर महिन्यातून एकदा"
+  },
+  {
+    "question_number": 110,
+    "question": "जिल्हा परिषदेत महिलांसाठी किती टक्के आरक्षण आहे?",
+    "answer": "५० टक्के"
+  },
+  {
+    "question_number": 111,
+    "question": "ग्रामपंचायतीला गावातील जमिनीच्या नोंदी ठेवण्यास कोण मदत करतो?",
+    "answer": "तलाठी (महसूल विभाग)"
+  },
+  {
+    "question_number": 112,
+    "question": "पंचायत समितीचे उपसभापती कोणास राजीनामा देतात?",
+    "answer": "सभापती"
+  },
+  {
+    "question_number": 113,
+    "question": "जिल्हा स्तरावर आरोग्य अधिकारी कोणाच्या नियंत्रणाखाली असतो?",
+    "answer": "मुख्य कार्यकारी अधिकारी"
+  },
+  {
+    "question_number": 114,
+    "question": "गावातील सार्वजनिक विहिरींची निगा कोण राखते?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 115,
+    "question": "तालुक्यातील रस्ते दुरुस्तीचे नियोजन कोण करते?",
+    "answer": "पंचायत समिती"
+  },
+  {
+    "question_number": 116,
+    "question": "जिल्हा परिषद सदस्यांची निवड कशी होते?",
+    "answer": "प्रत्यक्ष मतदानाद्वारे"
+  },
+  {
+    "question_number": 117,
+    "question": "ग्रामसभेत कोणाला मतदान करण्याचा अधिकार असतो?",
+    "answer": "गावातील सर्व प्रौढ मतदारांना"
+  },
+  {
+    "question_number": 118,
+    "question": "विकासकामांचा तालुका आराखडा कोण तयार करते?",
+    "answer": "पंचायत समिती"
+  },
+  {
+    "question_number": 119,
+    "question": "जिल्हा परिषद निधीचा विनियोग करण्याचा अधिकार कोणाला असतो?",
+    "answer": "जिल्हा परिषद अध्यक्ष"
+  },
+  {
+    "question_number": 120,
+    "question": "ग्रामपंचायतीचे सदस्य निवडून देण्याचा अधिकार कोणाला आहे?",
+    "answer": "गावातील लोकांना"
+  },
+  {
+    "question_number": 121,
+    "question": "तालुक्यातील बी-बियाणे वाटप कोण करते?",
+    "answer": "पंचायत समिती"
+  },
+  {
+    "question_number": 122,
+    "question": "जिल्ह्यातील माध्यमिक शाळांवर नियंत्रण कोणाचे असते?",
+    "answer": "जिल्हा परिषद (शिक्षण विभाग)"
+  },
+  {
+    "question_number": 123,
+    "question": "ग्रामपंचायतीला सरकारी अनुदान कोणाकडून मिळते?",
+    "answer": "राज्य शासन व जिल्हा परिषद"
+  },
+  {
+    "question_number": 124,
+    "question": "पंचायत समितीची पहिली सभा कोण बोलावतो?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 125,
+    "question": "जिल्हा परिषदेच्या निवडणुका कोणामार्फत घेतल्या जातात?",
+    "answer": "राज्य निवडणूक आयोग"
+  },
+  {
+    "question_number": 126,
+    "question": "ग्रामपंचायतीचे प्रभाग (वॉर्ड) कोण पाडते?",
+    "answer": "तहसीलदार / जिल्हाधिकारी"
+  },
+  {
+    "question_number": 127,
+    "question": "पंचायत समितीचे सभापती कोणास आपला राजीनामा देतात?",
+    "answer": "जिल्हा परिषद अध्यक्ष"
+  },
+  {
+    "question_number": 128,
+    "question": "जिल्हा परिषद सदस्य होण्यासाठी कोणती पात्रता आवश्यक आहे?",
+    "answer": "मतदार यादीत नाव व २१ वर्षे वय"
+  },
+  {
+    "question_number": 129,
+    "question": "गावातील यात्रा व उत्सवाचे नियोजन कोण करते?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 130,
+    "question": "तालुक्यातील लसीकरण मोहिमेचे नेतृत्व कोण करते?",
+    "answer": "पंचायत समिती (आरोग्य विभाग)"
+  },
+  {
+    "question_number": 131,
+    "question": "महाराष्ट्रात पंचायत राजची सुरुवात कधी झाली?",
+    "answer": "१ मे १९६२"
+  },
+  {
+    "question_number": 132,
+    "question": "ग्रामपंचायत विसर्जित करण्याचा अधिकार कोणाला आहे?",
+    "answer": "राज्य शासन"
+  },
+  {
+    "question_number": 133,
+    "question": "पंचायत समितीच्या सदस्यांना काय म्हणतात?",
+    "answer": "पंचायत समिती सदस्य"
+  },
+  {
+    "question_number": 134,
+    "question": "जिल्हा परिषदेत अनुसूचित जाती-जमातींसाठी काय असते?",
+    "answer": "गावातील स्वच्छता राखणे ही कोणाची जबाबदारी आहे?"
+  },
+  {
+    "question_number": 135,
+    "question": "गावातील स्वच्छता राखणे ही कोणाची जबाबदारी आहे?",
+    "answer": "ग्रामपंचायत"
+  },
+  {
+    "question_number": 136,
+    "question": "तालुक्यातील पाणीपुरवठा योजना कोण पाहते?",
+    "answer": "पंचायत समिती"
+  },
+  {
+    "question_number": 137,
+    "question": "जिल्हा परिषद अध्यक्ष कोणास राजीनामा देतात?",
+    "answer": "विभागीय आयुक्त"
+  },
+  {
+    "question_number": 138,
+    "question": "ग्रामपंचायतीचा कार्यकाळ संपण्यापूर्वी ती कोण बरखास्त करू शकते?",
+    "answer": "राज्य शासन"
+  },
+  {
+    "question_number": 139,
+    "question": "तालुक्यातील महिला व बालकल्याण समितीचा पदसिद्ध सचिव कोण असतो?",
+    "answer": "गटविकास अधिकारी"
+  },
+  {
+    "question_number": 140,
+    "question": "जिल्हा परिषद आणि राज्य शासन यांच्यातील दुवा कोण असतो?",
+    "answer": "मुख्य कार्यकारी अधिकारी"
+  },
+  {
+    "question_number": 141,
+    "question": "ग्रामपंचायतीचा नामनिर्देशित सदस्य कोण असतो?",
+    "answer": "ग्रामसेवक (शासकीय)"
+  },
+  {
+    "question_number": 142,
+    "question": "पंचायत समितीचे उत्पन्न कशावर आधारित असते?",
+    "answer": "स्थानिक उपकर व अनुदान"
+  },
+  {
+    "question_number": 143,
+    "question": "जिल्हा परिषद समितीचे कामकाज कोण पाहते?",
+    "answer": "संबंधित विभागाचे अधिकारी"
+  },
+  {
+    "question_number": 144,
+    "question": "गावातील गुन्ह्यांची नोंद कोण ठेवते?",
+    "answer": "ग्रामसेवक / पोलीस पाटील"
+  },
+  {
+    "question_number": 145,
+    "question": "पंचायत समितीचा सचिव कोण असतो?",
+    "answer": "गटविकास अधिकारी"
+  },
+  {
+    "question_number": 146,
+    "question": "जिल्हा परिषदेत एकूण किती सदस्य असू शकतात?",
+    "answer": "किमान ५० ते कमाल ७५"
+  },
+  {
+    "question_number": 147,
+    "question": "ग्रामपंचायतीची स्थापना कोणत्या कायद्यानुसार होते?",
+    "answer": "महाराष्ट्र ग्रामपंचायत अधिनियम"
+  },
+  {
+    "question_number": 148,
+    "question": "पंचायत समितीच्या निवडणुका कोण लढवू शकतो?",
+    "answer": "त्या मतदारसंघातील मतदार"
+  },
+  {
+    "question_number": 149,
+    "question": "जिल्हा परिषदेचा मुख्य उद्देश काय आहे?",
+    "answer": "जिल्ह्याचा सर्वांगीण विकास"
+  },
+  {
+    "question_number": 150,
+    "question": "ग्रामीण स्थानिक शासन हे लोकशाहीचे काय आहे?",
+    "answer": "विकेंद्रीकृत मॉडेल / पाया"
+  }
+]}

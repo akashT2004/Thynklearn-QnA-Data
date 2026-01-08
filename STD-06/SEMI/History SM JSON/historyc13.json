@@ -1,0 +1,711 @@
+{
+  "chapter_info": {
+    "chapter_number": "२ (१३)",
+    "grade": "६",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "समाजातील विविधता"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतीय समाजातील सांस्कृतिक वैभव कशामुळे आहे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ भाषेमुळे", "is_correct": false },
+        { "option_number": 2, "text": "अनेकविध भाषा, धर्म, संस्कृती आणि परंपरांमधील विविधतेमुळे", "is_correct": true },
+        { "option_number": 3, "text": "केवळ श्रीमंतीमुळे", "is_correct": false },
+        { "option_number": 4, "text": "केवळ ऐतिहासिक वास्तूंमुळे", "is_correct": false }
+      ],
+      "answer": "विविधतेमुळे"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "विविध समूहांच्या बरोबर राहणे म्हणजे काय अनुभवणे होय?",
+      "options": [
+        { "option_number": 1, "text": "अलिप्तता", "is_correct": false },
+        { "option_number": 2, "text": "सहअस्तित्व", "is_correct": true },
+        { "option_number": 3, "text": "दुरावा", "is_correct": false },
+        { "option_number": 4, "text": "संघर्ष", "is_correct": false }
+      ],
+      "answer": "सहअस्तित्व"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "भारत हे जगातील एक महत्त्वाचे कोणते राष्ट्र आहे?",
+      "options": [
+        { "option_number": 1, "text": "हुकूमशाही", "is_correct": false },
+        { "option_number": 2, "text": "धर्मनिरपेक्ष", "is_correct": true },
+        { "option_number": 3, "text": "साम्यवादी", "is_correct": false },
+        { "option_number": 4, "text": "केवळ भाषिक", "is_correct": false }
+      ],
+      "answer": "धर्मनिरपेक्ष"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "धर्मनिरपेक्षतेच्या तत्त्वानुसार आपल्या देशात राज्यसंस्थेने काय केले आहे?",
+      "options": [
+        { "option_number": 1, "text": "एका विशिष्ट धर्माचा पुरस्कार केला आहे", "is_correct": false },
+        { "option_number": 2, "text": "कोणत्याही एका धर्माचा पुरस्कार केलेला नाही", "is_correct": true },
+        { "option_number": 3, "text": "धार्मिक शिक्षणावर बंदी घातली आहे", "is_correct": false },
+        { "option_number": 4, "text": "केवळ बहुसंख्याकांचा विचार केला आहे", "is_correct": false }
+      ],
+      "answer": "पुरस्कार केलेला नाही"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "प्रत्येक व्यक्तीला आपल्या पसंतीच्या धर्माची काय करण्याचे स्वातंत्र्य आहे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ चर्चा", "is_correct": false },
+        { "option_number": 2, "text": "उपासना", "is_correct": true },
+        { "option_number": 3, "text": "केवळ वाचन", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "उपासना"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "धर्माच्या आधारे व्यक्ती-व्यक्तींमध्ये काय करता येत नाही?",
+      "options": [
+        { "option_number": 1, "text": "संवाद", "is_correct": false },
+        { "option_number": 2, "text": "भेदभाव", "is_correct": true },
+        { "option_number": 3, "text": "मैत्री", "is_correct": false },
+        { "option_number": 4, "text": "व्यवहार", "is_correct": false }
+      ],
+      "answer": "भेदभाव"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "संविधानाने अल्पसंख्याकांच्या संरक्षणासाठी काय केले आहे?",
+      "options": [
+        { "option_number": 1, "text": "विशेष तरतुदी", "is_correct": true },
+        { "option_number": 2, "text": "नवे नियम नाकारले आहेत", "is_correct": false },
+        { "option_number": 3, "text": "काहीही केलेले नाही", "is_correct": false },
+        { "option_number": 4, "text": "फक्त आदेश दिले आहेत", "is_correct": false }
+      ],
+      "answer": "विशेष तरतुदी"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "परस्परांच्या अडचणी व प्रश्न सोडवण्यासाठी एकमेकांना मदत करणे म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "संघर्ष", "is_correct": false },
+        { "option_number": 2, "text": "सहकार्य", "is_correct": true },
+        { "option_number": 3, "text": "स्वार्थ", "is_correct": false },
+        { "option_number": 4, "text": "स्पर्धा", "is_correct": false }
+      ],
+      "answer": "सहकार्य"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "सहकार्यामुळे समाजातील कोणते अवलंबन अधिक निकोप होते?",
+      "options": [
+        { "option_number": 1, "text": "आर्थिक", "is_correct": false },
+        { "option_number": 2, "text": "परस्परावलंबन", "is_correct": true },
+        { "option_number": 3, "text": "राजकीय", "is_correct": false },
+        { "option_number": 4, "text": "वैयक्तिक", "is_correct": false }
+      ],
+      "answer": "परस्परावलंबन"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "व्यक्ती-व्यक्तींमधील मते, विचार आणि दृष्टिकोन जुळले नाहीत तर काय निर्माण होते?",
+      "options": [
+        { "option_number": 1, "text": "सहकार्य", "is_correct": false },
+        { "option_number": 2, "text": "वाद किंवा संघर्ष", "is_correct": true },
+        { "option_number": 3, "text": "शांती", "is_correct": false },
+        { "option_number": 4, "text": "आनंद", "is_correct": false }
+      ],
+      "answer": "संघर्ष"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "संघर्षाचे निराकरण करण्यासाठी व्यक्ती काय करायला शिकतात?",
+      "options": [
+        { "option_number": 1, "text": "मारामारी", "is_correct": false },
+        { "option_number": 2, "text": "तडजोड आणि समझोता", "is_correct": true },
+        { "option_number": 3, "text": "घराबाहेर जाणे", "is_correct": false },
+        { "option_number": 4, "text": "शत्रुत्व करणे", "is_correct": false }
+      ],
+      "answer": "तडजोड"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात एकच व्यक्ती किती भूमिका पार पाडत असते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ एक", "is_correct": false },
+        { "option_number": 2, "text": "अनेक", "is_correct": true },
+        { "option_number": 3, "text": "फक्त दोन", "is_correct": false },
+        { "option_number": 4, "text": "कोणीही भूमिका बजावत नाही", "is_correct": false }
+      ],
+      "answer": "अनेक"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "आधुनिक समाजाचे नियमन कशाद्वारे करावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ रुढींनी", "is_correct": false },
+        { "option_number": 2, "text": "रूढी-परंपरेबरोबरच कायद्याने", "is_correct": true },
+        { "option_number": 3, "text": "केवळ भीतीने", "is_correct": false },
+        { "option_number": 4, "text": "फक्त भाषणांनी", "is_correct": false }
+      ],
+      "answer": "कायद्याने"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "स्थानिक पातळीवर समाजनियमनाचे कार्य कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ मित्रमंडळ", "is_correct": false },
+        { "option_number": 2, "text": "स्थानिक शासन संस्था", "is_correct": true },
+        { "option_number": 3, "text": "कुटुंबप्रमुख", "is_correct": false },
+        { "option_number": 4, "text": "शालेय विद्यार्थी", "is_correct": false }
+      ],
+      "answer": "शासन संस्था"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतीय समाजात एकता कशामुळे निर्माण झाली आहे?",
+      "options": [
+        { "option_number": 1, "text": "विविध समूह वर्षानुवर्षे एकत्र राहत असल्यामुळे", "is_correct": true },
+        { "option_number": 2, "text": "युद्धामुळे", "is_correct": false },
+        { "option_number": 3, "text": "केवळ व्यापारामुळे", "is_correct": false },
+        { "option_number": 4, "text": "फक्त संगीतामुळे", "is_correct": false }
+      ],
+      "answer": "एकत्र राहत असल्यामुळे"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "सहिष्णुवृत्तीमुळे समाजात काय वाढतो?",
+      "options": [
+        { "option_number": 1, "text": "राग", "is_correct": false },
+        { "option_number": 2, "text": "एकोपा", "is_correct": true },
+        { "option_number": 3, "text": "दुरावा", "is_correct": false },
+        { "option_number": 4, "text": "कंटाळा", "is_correct": false }
+      ],
+      "answer": "एकोपा"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या तत्त्वामुळे भारतीय समाजात धार्मिक सामंजस्य टिकून राहिले आहे?",
+      "options": [
+        { "option_number": 1, "text": "हुकूमशाही", "is_correct": false },
+        { "option_number": 2, "text": "धर्मनिरपेक्षता", "is_correct": true },
+        { "option_number": 3, "text": "जातीवाद", "is_correct": false },
+        { "option_number": 4, "text": "प्रादेशिकवाद", "is_correct": false }
+      ],
+      "answer": "धर्मनिरपेक्षता"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात संघर्षाचे एक कारण खालीलपैकी कोणते असू शकते?",
+      "options": [
+        { "option_number": 1, "text": "पूर्वग्रह किंवा गैरसमज", "is_correct": true },
+        { "option_number": 2, "text": "सहकार्य", "is_correct": false },
+        { "option_number": 3, "text": "प्रेम", "is_correct": false },
+        { "option_number": 4, "text": "साहाय्य", "is_correct": false }
+      ],
+      "answer": "पूर्वग्रह"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "विद्यार्थी म्हणून आपली कोणती भूमिका असते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ खेळणे", "is_correct": false },
+        { "option_number": 2, "text": "अभ्यास करणे आणि नियमांचे पालन करणे", "is_correct": true },
+        { "option_number": 3, "text": "कामावर जाणे", "is_correct": false },
+        { "option_number": 4, "text": "फक्त विश्रांती", "is_correct": false }
+      ],
+      "answer": "नियमांचे पालन"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "पूर्वी समाजाचे नियमन मुख्यत्वे कशाद्वारे होत असे?",
+      "options": [
+        { "option_number": 1, "text": "इंटरनेट", "is_correct": false },
+        { "option_number": 2, "text": "रूढी-परंपरा", "is_correct": true },
+        { "option_number": 3, "text": "संविधान", "is_correct": false },
+        { "option_number": 4, "text": "न्यायालय", "is_correct": false }
+      ],
+      "answer": "रूढी-परंपरा"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": " आपल्याला दुसऱ्यांच्या जीवनपद्धतीचा काय करायला शिकावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "अनादर", "is_correct": false },
+        { "option_number": 2, "text": "आदर", "is_correct": true },
+        { "option_number": 3, "text": "तिरस्कार", "is_correct": false },
+        { "option_number": 4, "text": "द्वेष", "is_correct": false }
+      ],
+      "answer": "आदर"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "शासनाने दुर्बल घटकांसाठी काय राबवल्या आहेत?",
+      "options": [
+        { "option_number": 1, "text": "योजना", "is_correct": true },
+        { "option_number": 2, "text": "शिक्षा", "is_correct": false },
+        { "option_number": 3, "text": "अडथळे", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "योजना"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "सामंजस्यातून आपण नकळतपणे कोणत्या गोष्टी शिकतो?",
+      "options": [
+        { "option_number": 1, "text": "नव्या गोष्टी आणि नवे विचार", "is_correct": true },
+        { "option_number": 2, "text": "जुनी भांडणे", "is_correct": false },
+        { "option_number": 3, "text": "राग", "is_correct": false },
+        { "option_number": 4, "text": "स्वार्थ", "is_correct": false }
+      ],
+      "answer": "नव्या गोष्टी"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "घरातील व्यक्तींमध्ये सहकार्याची वृत्ती नसेल तर काय होईल?",
+      "options": [
+        { "option_number": 1, "text": "कुटुंब टिकणार नाही", "is_correct": true },
+        { "option_number": 2, "text": "कुटुंब अधिक मोठे होईल", "is_correct": false },
+        { "option_number": 3, "text": "काहीही फरक पडणार नाही", "is_correct": false },
+        { "option_number": 4, "text": "फक्त पैसे वाचतील", "is_correct": false }
+      ],
+      "answer": "कुटुंब टिकणार नाही"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "सामाजिक एकोप्यामुळे आपण कशाचा सामना करू शकतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ जेवणाचा", "is_correct": false },
+        { "option_number": 2, "text": "नैसर्गिक व सामाजिक आपत्तींचा", "is_correct": true },
+        { "option_number": 3, "text": "अभ्यासाचा", "is_correct": false },
+        { "option_number": 4, "text": "कोणाचाही नाही", "is_correct": false }
+      ],
+      "answer": "आपत्तींचा"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "प्रत्येक भूमिकेच्या काय ठरलेल्या असतात?",
+      "options": [
+        { "option_number": 1, "text": "किंमत", "is_correct": false },
+        { "option_number": 2, "text": "जबाबदाऱ्या आणि कर्तव्ये", "is_correct": true },
+        { "option_number": 3, "text": "केवळ नावे", "is_correct": false },
+        { "option_number": 4, "text": "फक्त कपडे", "is_correct": false }
+      ],
+      "answer": "जबाबदाऱ्या"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "अल्पसंख्याकांना आपली कोणती ओळख जोपासण्याचे स्वातंत्र्य आहे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ वैयक्तिक", "is_correct": false },
+        { "option_number": 2, "text": "भाषिक आणि सांस्कृतिक", "is_correct": true },
+        { "option_number": 3, "text": "राजकीय", "is_correct": false },
+        { "option_number": 4, "text": "आर्थिक", "is_correct": false }
+      ],
+      "answer": "भाषिक आणि सांस्कृतिक"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजामुळे आपल्या कशाला समृद्ध बनवण्यासाठी मदत होते?",
+      "options": [
+        { "option_number": 1, "text": "वैयक्तिक तिजोरीला", "is_correct": false },
+        { "option_number": 2, "text": "सामाजिक जीवन समृद्ध बनवण्यासाठी", "is_correct": true },
+        { "option_number": 3, "text": "केवळ रागाला", "is_correct": false },
+        { "option_number": 4, "text": "स्वार्थाला", "is_correct": false }
+      ],
+      "answer": "सामाजिक जीवन"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "तुम्ही शाळेत कोणत्या भूमिकेत असू शकता?",
+      "options": [
+        { "option_number": 1, "text": "केवळ आई-बाबांचा मुलगा", "is_correct": false },
+        { "option_number": 2, "text": "वर्गप्रतिनिधी, खेळाडू किंवा स्वच्छतादूत", "is_correct": true },
+        { "option_number": 3, "text": "केवळ नातू", "is_correct": false },
+        { "option_number": 4, "text": "फक्त ग्राहक", "is_correct": false }
+      ],
+      "answer": "वर्गप्रतिनिधी"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजाचे व्यवहार कसे चालावेत म्हणून नियमांची आवश्यकता असते?",
+      "options": [
+        { "option_number": 1, "text": "सुरळीतपणे", "is_correct": true },
+        { "option_number": 2, "text": "विस्कळीतपणे", "is_correct": false },
+        { "option_number": 3, "text": "वेगाने", "is_correct": false },
+        { "option_number": 4, "text": "हळूवारपणे", "is_correct": false }
+      ],
+      "answer": "सुरळीतपणे"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "सहिष्णुता वाढल्यामुळे समाजात काय निर्माण होते?",
+      "options": [
+        { "option_number": 1, "text": "अशांतता", "is_correct": false },
+        { "option_number": 2, "text": "सामाजिक स्वास्थ्य आणि शांतता", "is_correct": true },
+        { "option_number": 3, "text": "गोंधळ", "is_correct": false },
+        { "option_number": 4, "text": "भय", "is_correct": false }
+      ],
+      "answer": "स्वास्थ्य आणि शांतता"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "अल्पसंख्याकांना शिक्षणाद्वारे कशाचा विकास करण्याचे स्वातंत्र्य आहे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ स्वतःचा", "is_correct": false },
+        { "option_number": 2, "text": "आपल्यापल्या समाजाचा", "is_correct": true },
+        { "option_number": 3, "text": "दुसऱ्यांच्या घराचा", "is_correct": false },
+        { "option_number": 4, "text": "केवळ पैशांचा", "is_correct": false }
+      ],
+      "answer": "समाजाचा"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजातील विविधता काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "कमकुवतपणा", "is_correct": false },
+        { "option_number": 2, "text": "सांस्कृतिक वैभव आणि ताकद", "is_correct": true },
+        { "option_number": 3, "text": "अडथळा", "is_correct": false },
+        { "option_number": 4, "text": "केवळ एक नाव", "is_correct": false }
+      ],
+      "answer": "वैभव आणि ताकद"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "कायद्याचे स्वरूप कशापेक्षा वेगळे असते?",
+      "options": [
+        { "option_number": 1, "text": "रूढी-परंपरा आणि संकेत", "is_correct": true },
+        { "option_number": 2, "text": "पुस्तकांपासून", "is_correct": false },
+        { "option_number": 3, "text": "भाषणांपासून", "is_correct": false },
+        { "option_number": 4, "text": "नकाशापासून", "is_correct": false }
+      ],
+      "answer": "रूढी-परंपरा"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "सहकार्यामुळे आपला काय रखडणार नाही?",
+      "options": [
+        { "option_number": 1, "text": "झोप", "is_correct": false },
+        { "option_number": 2, "text": "विकास", "is_correct": true },
+        { "option_number": 3, "text": "राग", "is_correct": false },
+        { "option_number": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "विकास"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या लोकांच्या पूजा-उपासनेच्या चालीरीती वेगवेगळ्या आहेत?",
+      "options": [
+        { "option_number": 1, "text": "केवळ एका धर्माच्या", "is_correct": false },
+        { "option_number": 2, "text": "विविध धर्मांच्या आणि समूहांच्या", "is_correct": true },
+        { "option_number": 3, "text": "फक्त नेत्यांच्या", "is_correct": false },
+        { "option_number": 4, "text": "कोणाच्याही नाही", "is_correct": false }
+      ],
+      "answer": "विविध धर्मांच्या"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "तडजोड केल्यामुळे काय मिटू शकतात?",
+      "options": [
+        { "option_number": 1, "text": "मैत्री", "is_correct": false },
+        { "option_number": 2, "text": "संघर्ष", "is_correct": true },
+        { "option_number": 3, "text": "आनंद", "is_correct": false },
+        { "option_number": 4, "text": "सहकार्य", "is_correct": false }
+      ],
+      "answer": "संघर्ष"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "सरकारी नोकरीच्या संधी कोणाला उपलब्ध करून दिल्या जातात?",
+      "options": [
+        { "option_number": 1, "text": "केवळ एका विशिष्ट धर्माच्या लोकांना", "is_correct": false },
+        { "option_number": 2, "text": "सर्व नागरिकांना, धर्माच्या आधारे भेदभाव न करता", "is_correct": true },
+        { "option_number": 3, "text": "केवळ पुरुषांना", "is_correct": false },
+        { "option_number": 4, "text": "फक्त श्रीमंतांना", "is_correct": false }
+      ],
+      "answer": "सर्वांना"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "विविधतेच्या देवाणघेवाणीमुळे काय निर्माण होते?",
+      "options": [
+        { "option_number": 1, "text": "दुरावा", "is_correct": false },
+        { "option_number": 2, "text": "एकतेची भावना", "is_correct": true },
+        { "option_number": 3, "text": "शत्रुत्व", "is_correct": false },
+        { "option_number": 4, "text": "कंटाळा", "is_correct": false }
+      ],
+      "answer": "एकतेची भावना"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "दीर्घकाळ काय चालू ठेवणे कोणाच्याच हिताचे नसते?",
+      "options": [
+        { "option_number": 1, "text": "मैत्री", "is_correct": false },
+        { "option_number": 2, "text": "संघर्ष", "is_correct": true },
+        { "option_number": 3, "text": "अभ्यास", "is_correct": false },
+        { "option_number": 4, "text": "काम", "is_correct": false }
+      ],
+      "answer": "संघर्ष"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "आपल्याला परस्परांच्या कशाची ओळख होते?",
+      "options": [
+        { "option_number": 1, "text": "चालीरीतींशी व जीवनपद्धतींशी", "is_correct": true },
+        { "option_number": 2, "text": "केवळ कपड्यांची", "is_correct": false },
+        { "option_number": 3, "text": "फक्त नावांची", "is_correct": false },
+        { "option_number": 4, "text": "कोणाचीही नाही", "is_correct": false }
+      ],
+      "answer": "चालीरीतींशी"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "शाळेतील मित्रमंडळात तुम्ही कोणत्या भूमिकेत असू शकता?",
+      "options": [
+        { "option_number": 1, "text": "केवळ शत्रू", "is_correct": false },
+        { "option_number": 2, "text": "सदस्य", "is_correct": true },
+        { "option_number": 3, "text": "केवळ शिक्षक", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "सदस्य"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतात कोणत्या प्रकारची विविधता मोठ्या प्रमाणावर आहे?",
+      "options": [
+        { "option_number": 1, "text": "भाषिक आणि धार्मिक", "is_correct": true },
+        { "option_number": 2, "text": "केवळ एकाच भाषेची", "is_correct": false },
+        { "option_number": 3, "text": "फक्त डोंगरांची", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "भाषिक आणि धार्मिक"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणताही समाज कशावर आधारलेला असतो?",
+      "options": [
+        { "option_number": 1, "text": "परस्पर सहकार्यावर", "is_correct": true },
+        { "option_number": 2, "text": "केवळ युद्धावर", "is_correct": false },
+        { "option_number": 3, "text": "स्पर्धेवर", "is_correct": false },
+        { "option_number": 4, "text": "द्वेषावर", "is_correct": false }
+      ],
+      "answer": "सहकार्यावर"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "सामंजस्यातून आपले सामाजिक जीवन कसे बनते?",
+      "options": [
+        { "option_number": 1, "text": "गरीब", "is_correct": false },
+        { "option_number": 2, "text": "अधिकाधिक समृद्ध", "is_correct": true },
+        { "option_number": 3, "text": "कंटाळवाणे", "is_correct": false },
+        { "option_number": 4, "text": "विस्कळीत", "is_correct": false }
+      ],
+      "answer": "समृद्ध"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "आपण इतरांच्या काय आत्मसात करतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ चुका", "is_correct": false },
+        { "option_number": 2, "text": "काही प्रथा-परंपरा", "is_correct": true },
+        { "option_number": 3, "text": "फक्त पैसे", "is_correct": false },
+        { "option_number": 4, "text": "रात्रीची झोप", "is_correct": false }
+      ],
+      "answer": "प्रथा-परंपरा"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "संविधानाने कशाची हमी दिली आहे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ अन्नाची", "is_correct": false },
+        { "option_number": 2, "text": "संधीच्या समानतेची", "is_correct": true },
+        { "option_number": 3, "text": "फक्त खेळाची", "is_correct": false },
+        { "option_number": 4, "text": "कोणाचीही नाही", "is_correct": false }
+      ],
+      "answer": "संधीच्या समानतेची"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "निकोप परस्परावलंबनासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_number": 1, "text": "स्वार्थ", "is_correct": false },
+        { "option_number": 2, "text": "सहकार्य", "is_correct": true },
+        { "option_number": 3, "text": "राग", "is_correct": false },
+        { "option_number": 4, "text": "दुर्लक्ष", "is_correct": false }
+      ],
+      "answer": "सहकार्य"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "मुलींना कशासाठी सहकार्य केले पाहिजे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ घरकामासाठी", "is_correct": false },
+        { "option_number": 2, "text": "शिक्षण घेण्यासाठी आणि विकासासाठी", "is_correct": true },
+        { "option_number": 3, "text": "बाहेर न जाण्यासाठी", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "शिक्षण"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजाचे नियमन अनेक काय करतात?",
+      "options": [
+        { "option_number": 1, "text": "केवळ झाडे", "is_correct": false },
+        { "option_number": 2, "text": "संस्था व संघटना", "is_correct": true },
+        { "option_number": 3, "text": "फक्त पर्वत", "is_correct": false },
+        { "option_number": 4, "text": "केवळ नद्या", "is_correct": false }
+      ],
+      "answer": "संस्था व संघटना"
+    },
+  { "question_number": 51, "question": "भारतीय समाजाचे मुख्य वैशिष्ट्य कोणते?", "answer": "विविधता" },
+  { "question_number": 52, "question": "विविध समूहांच्या बरोबर राहणे म्हणजे काय अनुभवणे होय?", "answer": "सहअस्तित्व" },
+  { "question_number": 53, "question": "सहअस्तित्वामुळे आपल्यातील काय वाढते?", "answer": "सामंजस्य" },
+  { "question_number": 54, "question": "भारतीय समाजात कोणत्या प्रकारची विविधता आढळते?", "answer": "भाषिक, धार्मिक आणि सांस्कृतिक" },
+  { "question_number": 55, "question": "विविध समूहांच्या एकत्र राहण्यामुळे कशाची भावना निर्माण होते?", "answer": "एकतेची" },
+  { "question_number": 56, "question": "धर्मनिरपेक्षतेच्या तत्त्वाचा मुख्य उद्देश काय आहे?", "answer": "धार्मिक सामंजस्य टिकवणे" },
+  { "question_number": 57, "question": "आपल्या देशात राज्यसंस्थेने कोणत्या धर्माचा पुरस्कार केला आहे?", "answer": "कोणत्याही नाही" },
+  { "question_number": 58, "question": "प्रत्येक व्यक्तीला आपल्या आवडीच्या धर्माची काय करण्याचे स्वातंत्र्य आहे?", "answer": "उपासना" },
+  { "question_number": 59, "question": "धर्माच्या आधारे व्यक्तींमध्ये काय करण्यास संविधानाने मनाई केली आहे?", "answer": "भेदभाव" },
+  { "question_number": 60, "question": "संविधानाने कोणाच्या शैक्षणिक व सांस्कृतिक हक्कांचे संरक्षण केले आहे?", "answer": "अल्पसंख्याकांच्या" },
+  { "question_number": 61, "question": "विविधतेमुळे आपले कोणते जीवन समृद्ध होते?", "answer": "सामाजिक जीवन" },
+  { "question_number": 62, "question": "परस्परांच्या अडचणी व प्रश्न सोडवण्यासाठी कशाची गरज असते?", "answer": "सहकार्याची" },
+  { "question_number": 63, "question": "सहकार्यामुळे समाजातील कोणते अवलंबन निकोप होते?", "answer": "परस्परावलंबन" },
+  { "question_number": 64, "question": "समाजात व्यक्ती-व्यक्तींमधील विचार न जुळल्यास काय निर्माण होतो?", "answer": "संघर्ष" },
+  { "question_number": 65, "question": "संघर्षाचे निराकरण करण्यासाठी काय आवश्यक असते?", "answer": "तडजोड आणि समझोता" },
+  { "question_number": 66, "question": "एखाद्या व्यक्तीच्या मनात दुसऱ्याबद्दल चुकीची समजूत असणे याला काय म्हणतात?", "answer": "पूर्वग्रह" },
+  { "question_number": 67, "question": "सहिष्णुता म्हणजे काय?", "answer": "दुसऱ्याच्या मतांचा आदर करणे" },
+  { "question_number": 68, "question": "समाजात एकच व्यक्ती किती भूमिका पार पाडत असते?", "answer": "अनेक" },
+  { "question_number": 69, "question": "प्रत्येक भूमिकेसाठी काय ठरलेली असतात?", "answer": "जबाबदाऱ्या आणि कर्तव्ये" },
+  { "question_number": 70, "question": "कुटुंबात तुमची कोणती भूमिका असू शकते?", "answer": "मुलगा/मुलगी" },
+  { "question_number": 71, "question": "शाळेत तुमची कोणती भूमिका असते?", "answer": "विद्यार्थी/विद्यार्थिनी" },
+  { "question_number": 72, "question": "समाजाचे व्यवहार सुरळीत चालण्यासाठी कशाची आवश्यकता असते?", "answer": "नियमांची" },
+  { "question_number": 73, "question": "पूर्वी समाजाचे नियमन मुख्यत्वे कशाद्वारे होत असे?", "answer": "रूढी-परंपरा" },
+  { "question_number": 74, "question": "आधुनिक समाजाचे नियमन रूढींबरोबरच कशाने करावे लागते?", "answer": "कायद्याने" },
+  { "question_number": 75, "question": "स्थानिक पातळीवर समाजनियमनाचे कार्य कोण करते?", "answer": "स्थानिक शासन संस्था" },
+  { "question_number": 76, "question": "विविधतेची देवाणघेवाण कशामुळे होते?", "answer": "सहअस्तित्वामुळे" },
+  { "question_number": 77, "question": "भारतात कोणकोणत्या भाषा बोलणारे लोक आहेत?", "answer": "मराठी, हिंदी, कन्नड, तमिळ इत्यादी" },
+  { "question_number": 78, "question": "धार्मिक स्वातंत्र्य हा आपला कोणता हक्क आहे?", "answer": "मूलभूत" },
+  { "question_number": 79, "question": "शासकीय नोकरीत कोणत्या आधारे भेदभाव करता येत नाही?", "answer": "धर्माच्या" },
+  { "question_number": 80, "question": "तडजोड करण्याच्या वृत्तीमुळे आपण कोणत्या नव्या गोष्टी शिकतो?", "answer": "नवे विचार आणि नवी मूल्ये" },
+  { "question_number": 81, "question": "समाजातील सलोखा कशामुळे वाढतो?", "answer": "सहिष्णुतेमुळे" },
+  { "question_number": 82, "question": "शाळेतील वर्गप्रतिनिधी ही तुमची काय आहे?", "answer": "भूमिका" },
+  { "question_number": 83, "question": "कायद्याचे स्वरूप रूढींपेक्षा कसे असते?", "answer": "वेगळे आणि लेखी" },
+  { "question_number": 84, "question": "भारतीय संविधानाने कशाचा स्वीकार केला आहे?", "answer": "धर्मनिरपेक्षतेचा" },
+  { "question_number": 85, "question": "समाजातील विविधता हे कशाचे लक्षण आहे?", "answer": "सांस्कृतिक वैभवाचे" },
+  { "question_number": 86, "question": "आपण एकमेकांच्या कोणत्या पद्धतींचा आदर करायला शिकतो?", "answer": "जीवनपद्धतींचा" },
+  { "question_number": 87, "question": "सामाजिक एकोप्यामुळे आपण कशाचा सामना करू शकतो?", "answer": "आपत्तींचा" },
+  { "question_number": 88, "question": "वंचित घटकांना विकासाची संधी मिळण्यासाठी काय आवश्यक असते?", "answer": "आरक्षण" },
+  { "question_number": 89, "question": "सहकार्याचा अभाव असल्यास काय रखडते?", "answer": "प्रगती किंवा विकास" },
+  { "question_number": 90, "question": "पूर्वग्रह दूर करण्यासाठी काय करणे गरजेचे आहे?", "answer": "संवाद साधणे" },
+  { "question_number": 91, "question": "तुमच्या जडणघडणीत कोणाचा मोठा वाटा असतो?", "answer": "समाजाचा" },
+  { "question_number": 92, "question": "शाळेतील मित्रमंडळात तुमची कोणती भूमिका असते?", "answer": "सदस्य" },
+  { "question_number": 93, "question": "समाजातील नियमांची अंमलबजावणी कोण करते?", "answer": "शासकीय यंत्रणा" },
+  { "question_number": 94, "question": "अल्पसंख्याकांना स्वतःच्या कोणत्या संस्था स्थापन करण्याचा अधिकार आहे?", "answer": "शिक्षण संस्था" },
+  { "question_number": 95, "question": "धार्मिक विविधता म्हणजे काय?", "answer": "वेगवेगळ्या धर्मांचे लोक एकत्र राहणे" },
+  { "question_number": 96, "question": "सहकार्यामुळे काय शक्य होते?", "answer": "कठीण कामे सोपी होतात" },
+  { "question_number": 97, "question": "वाद मिटवण्यासाठी 'समझोता' म्हणजे काय?", "answer": "दोन्ही बाजूंनी माघार घेणे" },
+  { "question_number": 98, "question": "भाषिक विविधता भारताची काय आहे?", "answer": "संपत्ती किंवा ताकद" },
+  { "question_number": 99, "question": "समाजाचे नियमन करणाऱ्या मुख्य गोष्टी कोणत्या?", "answer": "रूढी आणि कायदे" },
+  { "question_number": 100, "question": "समानतेचे तत्त्व कोणाला लागू होते?", "answer": "सर्व नागरिकांना" },
+  { "question_number": 101, "question": "सहिष्णुवृत्ती म्हणजे काय?", "answer": "दुसऱ्याचे वेगळेपण स्वीकारणे" },
+  { "question_number": 102, "question": "समाजातील शांतता कशावर अवलंबून असते?", "answer": "परस्पर सामंजस्यावर" },
+  { "question_number": 103, "question": "संविधानातील विशेष तरतुदी कोणासाठी आहेत?", "answer": "दुर्बल आणि अल्पसंख्याक घटकांसाठी" },
+  { "question_number": 104, "question": "शिक्षणाने आपल्याला काय मिळते?", "answer": "ज्ञान आणि कौशल्य" },
+  { "question_number": 105, "question": "समाजातील विविधता आपला काय वाढवते?", "answer": "अनुभव" },
+  { "question_number": 106, "question": "अनेक भाषांच्या संपर्कामुळे काय समृद्ध होते?", "answer": "शब्दसंग्रह आणि ज्ञान" },
+  { "question_number": 107, "question": "समूहात राहिल्यामुळे काय मिळते?", "answer": "सुरक्षितता" },
+  { "question_number": 108, "question": "परंपरांचा आदर करणे म्हणजे काय?", "answer": "दुसऱ्याच्या सणांचा आदर करणे" },
+  { "question_number": 109, "question": "नियम पाळल्याने काय होते?", "answer": "शिस्त लागते" },
+  { "question_number": 110, "question": "लोकांमधील भिंती कशामुळे दूर होतात?", "answer": "संवादामुळे" },
+  { "question_number": 111, "question": "लोकशाहीत सर्वांना काय समान असते?", "answer": "संधी" },
+  { "question_number": 112, "question": "सांस्कृतिक देवाणघेवाण कोठे घडते?", "answer": "समाजात" },
+  { "question_number": 113, "question": "कुटुंब हा समाजाचा काय आहे?", "answer": "छोटा घटक" },
+  { "question_number": 114, "question": "समाजातील अनिष्ट प्रथांना कोण रोखते?", "answer": "कायदा" },
+  { "question_number": 115, "question": "गैरसमज कशामुळे वाढतात?", "answer": "संवादाच्या अभावामुळे" },
+  { "question_number": 116, "question": "समाजातील विविधता कशाला पोषक आहे?", "answer": "राष्ट्रीय एकात्मतेला" },
+  { "question_number": 117, "question": "निकोप समाज म्हणजे काय?", "answer": "आरोग्यदायी आणि सलोख्याचा समाज" },
+  { "question_number": 118, "question": "तुमच्या घरातील जबाबदारी कोणती असते?", "answer": "कामात मदत करणे" },
+  { "question_number": 119, "question": "एकतेची भावना केव्हा दृढ होते?", "answer": "जेव्हा लोक एकमेकांना ओळखतात" },
+  { "question_number": 120, "question": "कायद्यासमोर सर्वजण कसे असतात?", "answer": "समान" },
+  { "question_number": 121, "question": "समाज म्हणजे केवळ काय नाही?", "answer": "लोकांची गर्दी" },
+  { "question_number": 122, "question": "समान उद्दिष्टांसाठी लोक काय करतात?", "answer": "सहकार्य" },
+  { "question_number": 123, "question": "धार्मिक सलोखा राखणे हे कोणाचे कर्तव्य आहे?", "answer": "प्रत्येक नागरिकाचे" },
+  { "question_number": 124, "question": "तुमच्या शाळेचे नियम कोणाला लागू होतात?", "answer": "सर्व विद्यार्थ्यांना" },
+  { "question_number": 125, "question": "समाजातील ताकद कशात आहे?", "answer": "विविधतेत" },
+  { "question_number": 126, "question": "सहकार्याचा फायदा कोणाला होतो?", "answer": "सर्व समाजाला" },
+  { "question_number": 127, "question": "लोकशाहीत मतदानाचा हक्क कोणाला आहे?", "answer": "१८ वर्षे पूर्ण झालेल्या नागरिकांना" },
+  { "question_number": 128, "question": "भाषा म्हणजे काय?", "answer": "विचारांच्या देवाणघेवाणीचे माध्यम" },
+  { "question_number": 129, "question": "सांस्कृतिक वारसा म्हणजे काय?", "answer": "पूर्वजांकडून मिळालेली मूल्ये व कला" },
+  { "question_number": 130, "question": "संघर्षाचे मुख्य कारण काय असू शकते?", "answer": "स्वार्थ किंवा अहंभाव" },
+  { "question_number": 131, "question": "तडजोड करणे म्हणजे हार मानणे आहे का?", "answer": "नाही, तो सामंजस्याचा मार्ग आहे" },
+  { "question_number": 132, "question": "संविधान म्हणजे काय?", "answer": "देशाचा मूलभूत कायदा" },
+  { "question_number": 133, "question": "समाजातील एकोपा कशामुळे टिकतो?", "answer": "न्याय आणि समतेमुळे" },
+  { "question_number": 134, "question": "मुलींना शिक्षणाची संधी मिळणे ही काय आहे?", "answer": "समता" },
+  { "question_number": 135, "question": "समाजातील विविधता काय शिकवते?", "answer": "सहिष्णुता" },
+  { "question_number": 136, "question": "परस्परावलंबन म्हणजे काय?", "answer": "एकमेकांवर विसंबून असणे" },
+  { "question_number": 137, "question": "नव्या गोष्टी आत्मसात करणे म्हणजे काय?", "answer": "शिकणे" },
+  { "question_number": 138, "question": "समाजातील व्यवस्थेला काय म्हणतात?", "answer": "समाजसंस्था" },
+  { "question_number": 139, "question": "तुमची शाळेत खेळाडू म्हणून कोणती जबाबदारी असते?", "answer": "संघभावना राखणे" },
+  { "question_number": 140, "question": "सहिष्णुतेमुळे काय कमी होते?", "answer": "सामाजिक तणाव" },
+  { "question_number": 141, "question": "भारतात किती अधिकृत भाषा आहेत?", "answer": "२२ (पुस्तकातील संदर्भाने अनेक)" },
+  { "question_number": 142, "question": "उपासना पद्धतीमधील फरक काय दर्शवतो?", "answer": "धार्मिक विविधता" },
+  { "question_number": 143, "question": "समाजातील घटकांमध्ये समतोल कोण राखते?", "answer": "नियम आणि कायदे" },
+  { "question_number": 144, "question": "अल्पसंख्याक म्हणजे काय?", "answer": "ज्यांची संख्या कमी आहे असा गट" },
+  { "question_number": 145, "question": "सामाजिक सुरक्षितता कोणामुळे मिळते?", "answer": "शासकीय व्यवस्थेमुळे" },
+  { "question_number": 146, "question": "सहकार्यामुळे व्यक्तीचे काय कमी होते?", "answer": "एकटेपण" },
+  { "question_number": 147, "question": "भारताची धर्मनिरपेक्षता जगात कशी आहे?", "answer": "आदर्श" },
+  { "question_number": 148, "question": "समाजाच्या प्रगतीसाठी काय आवश्यक आहे?", "answer": "शांतता" },
+  { "question_number": 149, "question": "समानतेची वागणूक देणे म्हणजे काय?", "answer": "न्याय" },
+  { "question_number": 150, "question": "विविधता आपली काय आहे?", "answer": "ताकद" }
+]
+}

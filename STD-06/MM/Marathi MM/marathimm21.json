@@ -1,0 +1,714 @@
+{
+  "chapter_info": {
+    "chapter_number": "२१",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-२",
+    "sub_lesson_name": "या काळाच्या भाळावरती (कविता)"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "multiple_choice",
+      "question": "'या काळाच्या भाळावरती' या कवितेचे कवी कोण आहेत?",
+      "options": [
+        { "option_number": 1, "text": "विंदा करंदीकर", "is_correct": false },
+        { "option_number": 2, "text": "उत्तम कोळगावकर", "is_correct": true },
+        { "option_number": 3, "text": "मंगेश पाडगावकर", "is_correct": false },
+        { "option_number": 4, "text": "ना. ग. गोरे", "is_correct": false }
+      ],
+      "answer": "उत्तम कोळगावकर"
+    },
+    {
+      "question_number": 2,
+      "question_type": "multiple_choice",
+      "question": "कवीने काळाच्या भाळावर कशाचा टिळा लावायला सांगितले आहे?",
+      "options": [
+        { "option_number": 1, "text": "गंधाचा", "is_correct": false },
+        { "option_number": 2, "text": "तेजाचा", "is_correct": true },
+        { "option_number": 3, "text": "गुलालाचा", "is_correct": false },
+        { "option_number": 4, "text": "भस्माचा", "is_correct": false }
+      ],
+      "answer": "तेजाचा"
+    },
+    {
+      "question_number": 3,
+      "question_type": "multiple_choice",
+      "question": "तुझ्या श्रमातून कशाचा मळा फुलू दे असे कवी म्हणतो?",
+      "options": [
+        { "option_number": 1, "text": "फुलांचा", "is_correct": false },
+        { "option_number": 2, "text": "मानवतेचा", "is_correct": true },
+        { "option_number": 3, "text": "धान्याचा", "is_correct": false },
+        { "option_number": 4, "text": "फळांचा", "is_correct": false }
+      ],
+      "answer": "मानवतेचा"
+    },
+    {
+      "question_number": 4,
+      "question_type": "multiple_choice",
+      "question": "स्वप्ने साकारण्यासाठी काय करायला हवे?",
+      "options": [
+        { "option_number": 1, "text": "केवळ विचार", "is_correct": false },
+        { "option_number": 2, "text": "यत्न (प्रयत्न)", "is_correct": true },
+        { "option_number": 3, "text": "झोप", "is_correct": false },
+        { "option_number": 4, "text": "गप्पा", "is_correct": false }
+      ],
+      "answer": "यत्न (प्रयत्न)"
+    },
+    {
+      "question_number": 5,
+      "question_type": "multiple_choice",
+      "question": "घरोघरी उजेड येण्यासाठी कशाच्या बागा फुलवायला हव्यात?",
+      "options": [
+        { "option_number": 1, "text": "गुलाबाच्या", "is_correct": false },
+        { "option_number": 2, "text": "सूर्यफुलांच्या", "is_correct": true },
+        { "option_number": 3, "text": "मोगऱ्याच्या", "is_correct": false },
+        { "option_number": 4, "text": "कमळाच्या", "is_correct": false }
+      ],
+      "answer": "सूर्यफुलांच्या"
+    },
+    {
+      "question_number": 6,
+      "question_type": "multiple_choice",
+      "question": "कशाच्या नद्या खळाखळा वाहत याव्यात असे कवीला वाटते?",
+      "options": [
+        { "option_number": 1, "text": "पाण्याच्या", "is_correct": false },
+        { "option_number": 2, "text": "समृद्धीच्या", "is_correct": true },
+        { "option_number": 3, "text": "दुधाच्या", "is_correct": false },
+        { "option_number": 4, "text": "रक्ताच्या", "is_correct": false }
+      ],
+      "answer": "समृद्धीच्या"
+    },
+    {
+      "question_number": 7,
+      "question_type": "multiple_choice",
+      "question": "वाटा कोठून जात आहेत?",
+      "options": [
+        { "option_number": 1, "text": "फुलांतून", "is_correct": false },
+        { "option_number": 2, "text": "काट्यांमधल्या", "is_correct": true },
+        { "option_number": 3, "text": "पाण्यातून", "is_correct": false },
+        { "option_number": 4, "text": "रस्त्यावरून", "is_correct": false }
+      ],
+      "answer": "काट्यांमधल्या"
+    },
+    {
+      "question_number": 8,
+      "question_type": "multiple_choice",
+      "question": "काट्यांमधल्या वाटा आपल्याला कोठे नेतील?",
+      "options": [
+        { "option_number": 1, "text": "अंधाराकडे", "is_correct": false },
+        { "option_number": 2, "text": "पाऊस भरल्या नभाकडे", "is_correct": true },
+        { "option_number": 3, "text": "जंगलाकडे", "is_correct": false },
+        { "option_number": 4, "text": "घराकडे", "is_correct": false }
+      ],
+      "answer": "पाऊस भरल्या नभाकडे"
+    },
+    {
+      "question_number": 9,
+      "question_type": "multiple_choice",
+      "question": "उन्हाच्या झळा संपल्यावर काय नाचत येईल?",
+      "options": [
+        { "option_number": 1, "text": "वारा", "is_correct": false },
+        { "option_number": 2, "text": "पाणकळा (पाऊस)", "is_correct": true },
+        { "option_number": 3, "text": "मोर", "is_correct": false },
+        { "option_number": 4, "text": "मुलगा", "is_correct": false }
+      ],
+      "answer": "पाणकळा (पाऊस)"
+    },
+    {
+      "question_number": 10,
+      "question_type": "multiple_choice",
+      "question": "कशाला तुडवत जाऊन नवी पहाट आणायची आहे?",
+      "options": [
+        { "option_number": 1, "text": "चिखलाला", "is_correct": false },
+        { "option_number": 2, "text": "अंधाराला", "is_correct": true },
+        { "option_number": 3, "text": "संकटांना", "is_correct": false },
+        { "option_number": 4, "text": "शत्रूंना", "is_correct": false }
+      ],
+      "answer": "अंधाराला"
+    },
+    {
+      "question_number": 11,
+      "question_type": "multiple_choice",
+      "question": "कवीने कशाला उजेड देण्यास सांगितले आहे?",
+      "options": [
+        { "option_number": 1, "text": "घराला", "is_correct": false },
+        { "option_number": 2, "text": "कणाकणाला", "is_correct": true },
+        { "option_number": 3, "text": "रस्त्याला", "is_correct": false },
+        { "option_number": 4, "text": "दिव्याला", "is_correct": false }
+      ],
+      "answer": "कणाकणाला"
+    },
+    {
+      "question_number": 12,
+      "question_type": "multiple_choice",
+      "question": "धरेचे (पृथ्वीचे) काय उजळायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "पाय", "is_correct": false },
+        { "option_number": 2, "text": "दिव्य ललाट (कपाळ)", "is_correct": true },
+        { "option_number": 3, "text": "केस", "is_correct": false },
+        { "option_number": 4, "text": "हात", "is_correct": false }
+      ],
+      "answer": "दिव्य ललाट (कपाळ)"
+    },
+    {
+      "question_number": 13,
+      "question_type": "multiple_choice",
+      "question": "कोणाला सुवर्णसुंदर कळा देण्यास कवी सांगत आहे?",
+      "options": [
+        { "option_number": 1, "text": "माणसांना", "is_correct": false },
+        { "option_number": 2, "text": "डोंगर, सागर, फत्तर", "is_correct": true },
+        { "option_number": 3, "text": "पक्ष्यांना", "is_correct": false },
+        { "option_number": 4, "text": "झाडांना", "is_correct": false }
+      ],
+      "answer": "डोंगर, सागर, फत्तर"
+    },
+    {
+      "question_number": 14,
+      "question_type": "multiple_choice",
+      "question": "झेपा कोठे घ्यायच्या आहेत?",
+      "options": [
+        { "option_number": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_number": 2, "text": "उंच आभाळी", "is_correct": true },
+        { "option_number": 3, "text": "घरात", "is_correct": false },
+        { "option_number": 4, "text": "मैदानावर", "is_correct": false }
+      ],
+      "answer": "उंच आभाळी"
+    },
+    {
+      "question_number": 15,
+      "question_type": "multiple_choice",
+      "question": "शोधून काय काढायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "खजिना", "is_correct": false },
+        { "option_number": 2, "text": "नव्या दिशा", "is_correct": true },
+        { "option_number": 3, "text": "पाणी", "is_correct": false },
+        { "option_number": 4, "text": "नाव", "is_correct": false }
+      ],
+      "answer": "नव्या दिशा"
+    },
+    {
+      "question_number": 16,
+      "question_type": "multiple_choice",
+      "question": "तुझ्या करणीमधून कोणाला गाऊ दे असे कवी म्हणतो?",
+      "options": [
+        { "option_number": 1, "text": "माणसांना", "is_correct": false },
+        { "option_number": 2, "text": "धरणीवरल्या शिळा शिळा", "is_correct": true },
+        { "option_number": 3, "text": "नदीला", "is_correct": false },
+        { "option_number": 4, "text": "वाऱ्याला", "is_correct": false }
+      ],
+      "answer": "धरणीवरल्या शिळा शिळा"
+    },
+    {
+      "question_number": 17,
+      "question_type": "multiple_choice",
+      "question": "उत्तम कोळगावकर यांचा जन्म कोणत्या वर्षी झाला?",
+      "options": [
+        { "option_number": 1, "text": "१९३९", "is_correct": false },
+        { "option_number": 2, "text": "१९४९", "is_correct": true },
+        { "option_number": 3, "text": "१९५९", "is_correct": false },
+        { "option_number": 4, "text": "१९८२", "is_correct": false }
+      ],
+      "answer": "१९४९"
+    },
+    {
+      "question_number": 18,
+      "question_type": "multiple_choice",
+      "question": "कवीचे अनुभव कोणत्या परिसराशी निगडित आहेत?",
+      "options": [
+        { "option_number": 1, "text": "शहरी", "is_correct": false },
+        { "option_number": 2, "text": "ग्रामीण", "is_correct": true },
+        { "option_number": 3, "text": "विदेशी", "is_correct": false },
+        { "option_number": 4, "text": "अंतराळातील", "is_correct": false }
+      ],
+      "answer": "ग्रामीण"
+    },
+    {
+      "question_number": 19,
+      "question_type": "multiple_choice",
+      "question": "खालीलपैकी कोणता काव्यसंग्रह उत्तम कोळगावकर यांचा आहे?",
+      "options": [
+        { "option_number": 1, "text": "धारानृत्य", "is_correct": false },
+        { "option_number": 2, "text": "जंगलझडी", "is_correct": true },
+        { "option_number": 3, "text": "जिप्सी", "is_correct": false },
+        { "option_number": 4, "text": "करपी", "is_correct": false }
+      ],
+      "answer": "जंगलझडी"
+    },
+    {
+      "question_number": 20,
+      "question_type": "multiple_choice",
+      "question": "कवीने कशाची तयारी ठेवावी असे म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "आळसाची", "is_correct": false },
+        { "option_number": 2, "text": "श्रमाची", "is_correct": true },
+        { "option_number": 3, "text": "पैसे कमवण्याची", "is_correct": false },
+        { "option_number": 4, "text": "फिरण्याची", "is_correct": false }
+      ],
+      "answer": "श्रमाची"
+    },
+    {
+      "question_number": 21,
+      "question_type": "multiple_choice",
+      "question": "'भाळ' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_number": 1, "text": "हात", "is_correct": false },
+        { "option_number": 2, "text": "कपाळ", "is_correct": true },
+        { "option_number": 3, "text": "पाय", "is_correct": false },
+        { "option_number": 4, "text": "डोके", "is_correct": false }
+      ],
+      "answer": "कपाळ"
+    },
+    {
+      "question_number": 22,
+      "question_type": "multiple_choice",
+      "question": "'ललाट' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "नाक", "is_correct": false },
+        { "option_number": 2, "text": "कपाळ", "is_correct": true },
+        { "option_number": 3, "text": "गाल", "is_correct": false },
+        { "option_number": 4, "text": "कान", "is_correct": false }
+      ],
+      "answer": "कपाळ"
+    },
+    {
+      "question_number": 23,
+      "question_type": "multiple_choice",
+      "question": "'यत्न' या शब्दाचा अर्थ सांगा.",
+      "options": [
+        { "option_number": 1, "text": "विश्रांती", "is_correct": false },
+        { "option_number": 2, "text": "प्रयत्न", "is_correct": true },
+        { "option_number": 3, "text": "हार", "is_correct": false },
+        { "option_number": 4, "text": "जय", "is_correct": false }
+      ],
+      "answer": "प्रयत्न"
+    },
+    {
+      "question_number": 24,
+      "question_type": "multiple_choice",
+      "question": "कवितेत कशाला 'दिव्य' म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "अंधाराला", "is_correct": false },
+        { "option_number": 2, "text": "ललाटाला", "is_correct": true },
+        { "option_number": 3, "text": "पाण्याला", "is_correct": false },
+        { "option_number": 4, "text": "वाऱ्याला", "is_correct": false }
+      ],
+      "answer": "ललाटाला"
+    },
+    {
+      "question_number": 25,
+      "question_type": "multiple_choice",
+      "question": "नवीन वारे आणि नव्या ________ घेऊन ये असे कवी म्हणतो.",
+      "options": [
+        { "option_number": 1, "text": "रात्री", "is_correct": false },
+        { "option_number": 2, "text": "उषा (पहाट)", "is_correct": true },
+        { "option_number": 3, "text": "कथा", "is_correct": false },
+        { "option_number": 4, "text": "बागा", "is_correct": false }
+      ],
+      "answer": "उषा (पहाट)"
+    },
+    {
+      "question_number": 26,
+      "question_type": "multiple_choice",
+      "question": "'खळाखळा' हा शब्द कशासाठी वापरला आहे?",
+      "options": [
+        { "option_number": 1, "text": "वाऱ्यासाठी", "is_correct": false },
+        { "option_number": 2, "text": "नद्यांच्या वहाण्यासाठी", "is_correct": true },
+        { "option_number": 3, "text": "पानांसाठी", "is_correct": false },
+        { "option_number": 4, "text": "ढगांसाठी", "is_correct": false }
+      ],
+      "answer": "नद्यांच्या वहाण्यासाठी"
+    },
+    {
+      "question_number": 27,
+      "question_type": "multiple_choice",
+      "question": "कशाच्या झळा सरून जातील?",
+      "options": [
+        { "option_number": 1, "text": "थंडीच्या", "is_correct": false },
+        { "option_number": 2, "text": "उन्हाच्या", "is_correct": true },
+        { "option_number": 3, "text": "वाऱ्याच्या", "is_correct": false },
+        { "option_number": 4, "text": "पावसाच्या", "is_correct": false }
+      ],
+      "answer": "उन्हाच्या"
+    },
+    {
+      "question_number": 28,
+      "question_type": "multiple_choice",
+      "question": "'साधा भूतकाळ' ओळखा.",
+      "options": [
+        { "option_number": 1, "text": "मुलांनी प्रार्थना म्हटली.", "is_correct": true },
+        { "option_number": 2, "text": "मुले प्रार्थना म्हणत होती.", "is_correct": false },
+        { "option_number": 3, "text": "मुलांनी प्रार्थना म्हटली होती.", "is_correct": false },
+        { "option_number": 4, "text": "मुले प्रार्थना म्हणत असत.", "is_correct": false }
+      ],
+      "answer": "मुलांनी प्रार्थना म्हटली."
+    },
+    {
+      "question_number": 29,
+      "question_type": "multiple_choice",
+      "question": "'पूर्ण भूतकाळ' ओळखा.",
+      "options": [
+        { "option_number": 1, "text": "सामना जिंकला.", "is_correct": false },
+        { "option_number": 2, "text": "सामना जिंकला होता.", "is_correct": true },
+        { "option_number": 3, "text": "सामना जिंकत होता.", "is_correct": false },
+        { "option_number": 4, "text": "सामना जिंकत असे.", "is_correct": false }
+      ],
+      "answer": "सामना जिंकला होता."
+    },
+    {
+      "question_number": 30,
+      "question_type": "multiple_choice",
+      "question": "ज्या क्रियेतून रीत समजते त्याला कोणता काळ म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "अपूर्ण काळ", "is_correct": false },
+        { "option_number": 2, "text": "रीती काळ", "is_correct": true },
+        { "option_number": 3, "text": "साधा काळ", "is_correct": false },
+        { "option_number": 4, "text": "पूर्ण काळ", "is_correct": false }
+      ],
+      "answer": "रीती काळ"
+    },
+    {
+      "question_number": 31,
+      "question_type": "multiple_choice",
+      "question": "'नित्य' शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "कधीतरी", "is_correct": false },
+        { "option_number": 2, "text": "सतत / नेहमी", "is_correct": true },
+        { "option_number": 3, "text": "कधीच नाही", "is_correct": false },
+        { "option_number": 4, "text": "एकदाच", "is_correct": false }
+      ],
+      "answer": "सतत / नेहमी"
+    },
+    {
+      "question_number": 32,
+      "question_type": "multiple_choice",
+      "question": "मानवतेचा मळा कोठे फुलवायचा आहे?",
+      "options": [
+        { "option_number": 1, "text": "बागेत", "is_correct": false },
+        { "option_number": 2, "text": "इथे (धरणीवर)", "is_correct": true },
+        { "option_number": 3, "text": "ढगांत", "is_correct": false },
+        { "option_number": 4, "text": "शहरात", "is_correct": false }
+      ],
+      "answer": "इथे (धरणीवर)"
+    },
+    {
+      "question_number": 33,
+      "question_type": "multiple_choice",
+      "question": "कवी उत्तम कोळगावकर यांचा कोणता बालकाव्यसंग्रह प्रसिद्ध आहे?",
+      "options": [
+        { "option_number": 1, "text": "तळपाणी", "is_correct": false },
+        { "option_number": 2, "text": "छप्पापाणी", "is_correct": true },
+        { "option_number": 3, "text": "जंगलझडी", "is_correct": false },
+        { "option_number": 4, "text": "धारानृत्य", "is_correct": false }
+      ],
+      "answer": "छप्पापाणी"
+    },
+    {
+      "question_number": 34,
+      "question_type": "multiple_choice",
+      "question": "'मृदू' या शब्दाचा विरुद्धार्थी शब्द ओळखा.",
+      "options": [
+        { "option_number": 1, "text": "मऊ", "is_correct": false },
+        { "option_number": 2, "text": "कठोर / कडक", "is_correct": true },
+        { "option_number": 3, "text": "नाजूक", "is_correct": false },
+        { "option_number": 4, "text": "थंड", "is_correct": false }
+      ],
+      "answer": "कठोर / कडक"
+    },
+    {
+      "question_number": 35,
+      "question_type": "multiple_choice",
+      "question": "उरी ज्योतिर्मय झरे' यात 'उर' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "पाय", "is_correct": false },
+        { "option_number": 2, "text": "हृदय / मन", "is_correct": true },
+        { "option_number": 3, "text": "डोके", "is_correct": false },
+        { "option_number": 4, "text": "हात", "is_correct": false }
+      ],
+      "answer": "हृदय / मन"
+    },
+    {
+      "question_number": 36,
+      "question_type": "multiple_choice",
+      "question": "कशाच्या कणाकणात उजेड द्यायचा आहे?",
+      "options": [
+        { "option_number": 1, "text": "दिव्याच्या", "is_correct": false },
+        { "option_number": 2, "text": "सृष्टीच्या / धरेच्या", "is_correct": true },
+        { "option_number": 3, "text": "पाण्याच्या", "is_correct": false },
+        { "option_number": 4, "text": "घराच्या", "is_correct": false }
+      ],
+      "answer": "सृष्टीच्या / धरेच्या"
+    },
+    {
+      "question_number": 37,
+      "question_type": "multiple_choice",
+      "question": "'पाणकळा' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "पाण्याचा रंग", "is_correct": false },
+        { "option_number": 2, "text": "पावसाळा", "is_correct": true },
+        { "option_number": 3, "text": "पाण्याचे मडके", "is_correct": false },
+        { "option_number": 4, "text": "नदी", "is_correct": false }
+      ],
+      "answer": "पावसाळा"
+    },
+    {
+      "question_number": 38,
+      "question_type": "multiple_choice",
+      "question": "खरी स्पर्धा कोणाशी असते असे उताऱ्यात म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "मित्रांशी", "is_correct": false },
+        { "option_number": 2, "text": "स्वतःशी", "is_correct": true },
+        { "option_number": 3, "text": "शत्रूंशी", "is_correct": false },
+        { "option_number": 4, "text": "जगाशी", "is_correct": false }
+      ],
+      "answer": "स्वतःशी"
+    },
+    {
+      "question_number": 39,
+      "question_type": "multiple_choice",
+      "question": "प्रगतीतील धोंड म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "मोठा दगड", "is_correct": false },
+        { "option_number": 2, "text": "केलेली चूक पुन्हा पुन्हा करणे", "is_correct": true },
+        { "option_number": 3, "text": "नवे काही शिकणे", "is_correct": false },
+        { "option_number": 4, "text": "पैसे कमावणे", "is_correct": false }
+      ],
+      "answer": "केलेली चूक पुन्हा पुन्हा करणे"
+    },
+    {
+      "question_number": 40,
+      "question_type": "multiple_choice",
+      "question": "यश म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "अफाट पैसा", "is_correct": false },
+        { "option_number": 2, "text": "उद्दिष्ट प्राप्त करणे व कौशल्याची सर्वोत्तम पातळी गाठणे", "is_correct": true },
+        { "option_number": 3, "text": "प्रसिद्धी मिळवणे", "is_correct": false },
+        { "option_number": 4, "text": "मित्रांचा गराडा", "is_correct": false }
+      ],
+      "answer": "उद्दिष्ट प्राप्त करणे व कौशल्याची सर्वोत्तम पातळी गाठणे"
+    },
+    {
+      "question_number": 41,
+      "question_type": "multiple_choice",
+      "question": "'रीती भूतकाळ' ओळखा.",
+      "options": [
+        { "option_number": 1, "text": "तो पेट्रोल भरत असे.", "is_correct": true },
+        { "option_number": 2, "text": "त्याने पेट्रोल भरले.", "is_correct": false },
+        { "option_number": 3, "text": "तो पेट्रोल भरत होता.", "is_correct": false },
+        { "option_number": 4, "text": "त्याने पेट्रोल भरले होते.", "is_correct": false }
+      ],
+      "answer": "तो पेट्रोल भरत असे."
+    },
+    {
+      "question_number": 42,
+      "question_type": "multiple_choice",
+      "question": "'उषा' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_number": 1, "text": "रात्र", "is_correct": false },
+        { "option_number": 2, "text": "पहाट", "is_correct": true },
+        { "option_number": 3, "text": "संध्याकाळ", "is_correct": false },
+        { "option_number": 4, "text": "दुपार", "is_correct": false }
+      ],
+      "answer": "पहाट"
+    },
+    {
+      "question_number": 43,
+      "question_type": "multiple_choice",
+      "question": "कवीने कशाला तुडवत जाण्यास सांगितले आहे?",
+      "options": [
+        { "option_number": 1, "text": "फुलांना", "is_correct": false },
+        { "option_number": 2, "text": "अंधाराला", "is_correct": true },
+        { "option_number": 3, "text": "काट्यांना", "is_correct": false },
+        { "option_number": 4, "text": "जमिनीला", "is_correct": false }
+      ],
+      "answer": "अंधाराला"
+    },
+    {
+      "question_number": 44,
+      "question_type": "multiple_choice",
+      "question": "आभाळी झेपा घेतल्यावर काय शोधायचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "नवे तारे", "is_correct": false },
+        { "option_number": 2, "text": "नव्या दिशा", "is_correct": true },
+        { "option_number": 3, "text": "विमान", "is_correct": false },
+        { "option_number": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "नव्या दिशा"
+    },
+    {
+      "question_number": 45,
+      "question_type": "multiple_choice",
+      "question": "कोणता सूर्य भारतात उगवावा असे कवीला वाटते? (आशयतः)",
+      "options": [
+        { "option_number": 1, "text": "तेजाचा / स्वप्नांचा", "is_correct": true },
+        { "option_number": 2, "text": "अंधाराचा", "is_correct": false },
+        { "option_number": 3, "text": "दुःखाचा", "is_correct": false },
+        { "option_number": 4, "text": "काळा", "is_correct": false }
+      ],
+      "answer": "तेजाचा / स्वप्नांचा"
+    },
+    {
+      "question_number": 46,
+      "question_type": "multiple_choice",
+      "question": "'जंगलझडी' कशाचे नाव आहे?",
+      "options": [
+        { "option_number": 1, "text": "कवीच्या गावाचे", "is_correct": false },
+        { "option_number": 2, "text": "कवीच्या काव्यसंग्रहाचे", "is_correct": true },
+        { "option_number": 3, "text": "एका झाडाचे", "is_correct": false },
+        { "option_number": 4, "text": "एका डोंगराचे", "is_correct": false }
+      ],
+      "answer": "कवीच्या काव्यसंग्रहाचे"
+    },
+    {
+      "question_number": 47,
+      "question_type": "multiple_choice",
+      "question": "या कवितेतून कशाची प्रेरणा मिळते?",
+      "options": [
+        { "option_number": 1, "text": "झोपण्याची", "is_correct": false },
+        { "option_number": 2, "text": "काहीतरी भव्य साध्य करण्याची", "is_correct": true },
+        { "option_number": 3, "text": "केवळ रडण्याची", "is_correct": false },
+        { "option_number": 4, "text": "पळून जाण्याची", "is_correct": false }
+      ],
+      "answer": "काहीतरी भव्य साध्य करण्याची"
+    },
+    {
+      "question_number": 48,
+      "question_type": "multiple_choice",
+      "question": "उजेड कोठे यावा अशी कवीची इच्छा आहे?",
+      "options": [
+        { "option_number": 1, "text": "फक्त बागेत", "is_correct": false },
+        { "option_number": 2, "text": "घरोघरी", "is_correct": true },
+        { "option_number": 3, "text": "फक्त मंदिरात", "is_correct": false },
+        { "option_number": 4, "text": "केवळ स्वतःच्या घरात", "is_correct": false }
+      ],
+      "answer": "घरोघरी"
+    },
+    {
+      "question_number": 49,
+      "question_type": "multiple_choice",
+      "question": "कशाच्या कणाकणाला उजेड द्यायचा आहे?",
+      "options": [
+        { "option_number": 1, "text": "रेतीच्या", "is_correct": false },
+        { "option_number": 2, "text": "सृष्टीच्या / धरेच्या", "is_correct": true },
+        { "option_number": 3, "text": "पाण्याच्या", "is_correct": false },
+        { "option_number": 4, "text": "दगडाच्या", "is_correct": false }
+      ],
+      "answer": "सृष्टीच्या / धरेच्या"
+    },
+    {
+      "question_number": 50,
+      "question_type": "multiple_choice",
+      "question": "या कवितेचा मुख्य सूर कोणता आहे?",
+      "options": [
+        { "option_number": 1, "text": "निराशावादी", "is_correct": false },
+        { "option_number": 2, "text": "आशावादी आणि उत्साहवर्धक", "is_correct": true },
+        { "option_number": 3, "text": "दुःखद", "is_correct": false },
+        { "option_number": 4, "text": "विनोदी", "is_correct": false }
+      ],
+      "answer": "आशावादी आणि उत्साहवर्धक"
+    }
+  ],
+  "प्रश्न_संच_५१_ते_१५०_एकशब्दी": [
+    { "question_number": 51, "question": "कवितेचे नाव काय?", "answer": "या काळाच्या भाळावरती" },
+    { "question_number": 52, "question": "कवितेचे कवी कोण?", "answer": "उत्तम कोळगावकर" },
+    { "question_number": 53, "question": "काळाच्या भाळावर काय लावायचे आहे?", "answer": "तेजाचा टिळा" },
+    { "question_number": 54, "question": "कशातून मानवतेचा मळा फुलणार आहे?", "answer": "श्रमातून" },
+    { "question_number": 55, "question": "कोणाचा मळा फुलू दे असे कवी म्हणतात?", "answer": "मानवतेचा" },
+    { "question_number": 56, "question": "कोणती स्वप्ने पाहायची आहेत?", "answer": "नित्य नवी" },
+    { "question_number": 57, "question": "स्वप्ने काय करण्यासाठी प्रयत्न करायचे आहेत?", "answer": "साकाराया" },
+    { "question_number": 58, "question": "कशाच्या बागा फुलवायच्या आहेत?", "answer": "सूर्यफुलांच्या" },
+    { "question_number": 59, "question": "उजेड कोठे यावा अशी इच्छा आहे?", "answer": "घरोघरी" },
+    { "question_number": 60, "question": "कशाच्या नद्या खळाखळा वाहत याव्यात?", "answer": "समृद्धीच्या" },
+    { "question_number": 61, "question": "वाटा कोठून जात आहेत?", "answer": "काट्यांमधल्या" },
+    { "question_number": 62, "question": "काट्यांच्या वाटा कोठे नेतील?", "answer": "नभाकडे" },
+    { "question_number": 63, "question": "नभ कशाने भरलेले आहे?", "answer": "पावसाने" },
+    { "question_number": 64, "question": "कशाच्या झळा सरून जातील?", "answer": "उन्हाच्या" },
+    { "question_number": 65, "question": "काय नाचत येईल?", "answer": "पाणकळा" },
+    { "question_number": 66, "question": "कोणाला तुडवत जायचे आहे?", "answer": "अंधाराला" },
+    { "question_number": 67, "question": "नवी काय घेऊन यायची आहे?", "answer": "पहाट" },
+    { "question_number": 68, "question": "कशाकशाला उजेड द्यायचा आहे?", "answer": "कणाकणाला" },
+    { "question_number": 69, "question": "धरेचे काय उजळायचे आहे?", "answer": "दिव्य ललाट" },
+    { "question_number": 70, "question": "डोंगर, सागर, फत्तर यांना कोणती कळा द्यायची आहे?", "answer": "सुवर्णसुंदर" },
+    { "question_number": 71, "question": "झेपा कोठे घ्यायच्या आहेत?", "answer": "उंच आभाळी" },
+    { "question_number": 72, "question": "आभाळी झेपा घेऊन काय शोधायचे आहे?", "answer": "नव्या दिशा" },
+    { "question_number": 73, "question": "काय नवीन घेऊन यायचे आहे?", "answer": "वारे" },
+    { "question_number": 74, "question": "नव्या दिशांतून काय घेऊन यायचे आहे?", "answer": "नव्या उषा" },
+    { "question_number": 75, "question": "धरणीवरल्या शिळा शिळा तुझ्या कशातून गाणार आहेत?", "answer": "करणीमधून" },
+    { "question_number": 76, "question": "कवी उत्तम कोळगावकर यांचे जन्मवर्ष कोणते?", "answer": "१९४९" },
+    { "question_number": 77, "question": "कवीचे अनुभव कोणत्या परिसराशी निगडित आहेत?", "answer": "ग्रामीण" },
+    { "question_number": 78, "question": "कवीचा कवितासंग्रह कोणता?", "answer": "जंगलझडी / तळपाणी" },
+    { "question_number": 79, "question": "कवीचा बालकाव्यसंग्रह कोणता?", "answer": "छप्पापाणी" },
+    { "question_number": 80, "question": "कोणतीही गोष्ट साध्य करण्यासाठी काय हवे?", "answer": "श्रम" },
+    { "question_number": 81, "question": "समस्यांना काय करावे?", "answer": "सामोरे जावे" },
+    { "question_number": 82, "question": "'भाळ' म्हणजे काय?", "answer": "कपाळ" },
+    { "question_number": 83, "question": "'फत्तर' म्हणजे काय?", "answer": "दगड" },
+    { "question_number": 84, "question": "'धरा' म्हणजे काय?", "answer": "पृथ्वी" },
+    { "question_number": 85, "question": "'उषा' म्हणजे काय?", "answer": "पहाट" },
+    { "question_number": 86, "question": "'नभ' म्हणजे काय?", "answer": "आकाश" },
+    { "question_number": 87, "question": "'यत्न' म्हणजे काय?", "answer": "प्रयत्न" },
+    { "question_number": 88, "question": "कणाकणाला काय द्यायचा आहे?", "answer": "उजेड" },
+    { "question_number": 89, "question": "कोणत्या नद्या खळाखळा वाहतात?", "answer": "समृद्धीच्या" },
+    { "question_number": 90, "question": "पाणकळा कशी येते?", "answer": "नाचत" },
+    { "question_number": 91, "question": "कवीने कशाला 'दिव्य' म्हटले आहे?", "answer": "ललाटाला" },
+    { "question_number": 92, "question": "ललाट शब्दाचा समानार्थी शब्द काय?", "answer": "भाळ/कपाळ" },
+    { "question_number": 93, "question": "सकाळ शब्दाचा समानार्थी शब्द कवितेत कोणता?", "answer": "उषा/पहाट" },
+    { "question_number": 94, "question": "दगड शब्दाचा समानार्थी शब्द कवितेत कोणता?", "answer": "शिळा/फत्तर" },
+    { "question_number": 95, "question": "पृथ्वी शब्दाचा समानार्थी शब्द कवितेत कोणता?", "answer": "धरा/धरणी" },
+    { "question_number": 96, "question": "प्रयत्न शब्दाचा समानार्थी शब्द कवितेत कोणता?", "answer": "यत्न" },
+    { "question_number": 97, "question": "आकाश शब्दाचा समानार्थी शब्द कवितेत कोणता?", "answer": "आभाळ" },
+    { "question_number": 98, "question": "अंधार शब्दाचा विरुद्धार्थी शब्द काय?", "answer": "उजेड/प्रकाश" },
+    { "question_number": 99, "question": "नवी शब्दाचा विरुद्धार्थी शब्द काय?", "answer": "जुनी" },
+    { "question_number": 100, "question": "पुढे शब्दाचा विरुद्धार्थी शब्द काय?", "answer": "मागे" },
+    { "question_number": 101, "question": "उंच शब्दाचा विरुद्धार्थी शब्द काय?", "answer": "ठेंगणा/बटका" },
+    { "question_number": 102, "question": "यश म्हणजे काय?", "answer": "उद्दिष्ट प्राप्त करणे" },
+    { "question_number": 103, "question": "खरी स्पर्धा कोणाशी असते?", "answer": "स्वतःशी" },
+    { "question_number": 104, "question": "प्रसिद्धी म्हणजे यश आहे का?", "answer": "नाही" },
+    { "question_number": 105, "question": "पैसा म्हणजे यश आहे का?", "answer": "नाही" },
+    { "question_number": 106, "question": "नवे नवे शिकणे कशासाठी आवश्यक आहे?", "answer": "यश टिकवण्यासाठी" },
+    { "question_number": 107, "question": "प्रगतीसाठी काय पेलण्याचे सामर्थ्य हवे?", "answer": "आव्हाने" },
+    { "question_number": 108, "question": "यशासाठी स्वतःला काय करावे लागते?", "answer": "घडवावे" },
+    { "question_number": 109, "question": "तुलना का करावी?", "answer": "क्षमता वाढवण्यासाठी" },
+    { "question_number": 110, "question": "यश म्हणजे जसा विचार तसा काय?", "answer": "दृष्टिकोन" },
+    { "question_number": 111, "question": "साधा भूतकाळ कशातून समजतो?", "answer": "घडलेल्या क्रियेतून" },
+    { "question_number": 112, "question": "अपूर्ण भूतकाळात कोणत्या क्रियापदाचा वापर होतो?", "answer": "संयुक्त" },
+    { "question_number": 113, "question": "रीती भूतकाळ कशासाठी वापरतात?", "answer": "सतत घडणाऱ्या क्रियेसाठी" },
+    { "question_number": 114, "question": "पूर्ण भूतकाळ म्हणजे काय?", "answer": "क्रिया पूर्ण झाली होती" },
+    { "question_number": 115, "question": "भूतकाळाचे किती उपप्रकार आहेत?", "answer": "चार" },
+    { "question_number": 116, "question": "'मुलांनी प्रार्थना म्हटली' हा काळ कोणता?", "answer": "साधा भूतकाळ" },
+    { "question_number": 117, "question": "'तो पेट्रोल भरत असे' हा काळ कोणता?", "answer": "रीती भूतकाळ" },
+    { "question_number": 118, "question": "'मीना पुस्तक वाचत होती' हा काळ कोणता?", "answer": "अपूर्ण भूतकाळ" },
+    { "question_number": 119, "question": "'आमच्या वर्गाने सामना जिंकला होता' हा काळ कोणता?", "answer": "पूर्ण भूतकाळ" },
+    { "question_number": 120, "question": "'जिंकणे' या धातूचे भूतकाळी रूप काय?", "answer": "जिंकले" },
+    { "question_number": 121, "question": "सकाळची प्रार्थना कोठे म्हटली गेली?", "answer": "शाळेत" },
+    { "question_number": 122, "question": "सहलीत काय केली?", "answer": "मजा" },
+    { "question_number": 123, "question": "काल कसा पाऊस पडला?", "answer": "मुसळधार" },
+    { "question_number": 124, "question": "गिर्यारोहकाने काय सर केला?", "answer": "कडा" },
+    { "question_number": 125, "question": "स्वातंत्र्यप्राप्तीसाठी कोणी बलिदान दिले?", "answer": "क्रांतिकारकांनी" },
+    { "question_number": 126, "question": "शंतनू कोणता खेळ खेळत होता?", "answer": "क्रिकेट" },
+    { "question_number": 127, "question": "जॉन काय काढत होता?", "answer": "चित्र" },
+    { "question_number": 128, "question": "मीना कोठे पुस्तक वाचत होती?", "answer": "ग्रंथालयात" },
+    { "question_number": 129, "question": "ऊसतोडणी केव्हा सुरू होत असे?", "answer": "उन्हाळ्यात" },
+    { "question_number": 130, "question": "चंदू काय वाजवत असे?", "answer": "सनई" },
+    { "question_number": 131, "question": "कवितेत कोणाचा जयजयकार आहे?", "answer": "प्रगतीचा" },
+    { "question_number": 132, "question": "मानवतेचा मळा कोठे फुलवायचा आहे?", "answer": "धरणीवर" },
+    { "question_number": 133, "question": "सूर्यफुलांच्या बागा का फुलवायच्या?", "answer": "उजेडासाठी" },
+    { "question_number": 134, "question": "खळाखळा काय वाहणार आहे?", "answer": "नद्या" },
+    { "question_number": 135, "question": "पाऊस कोठे भरलेला आहे?", "answer": "नभात" },
+    { "question_number": 136, "question": "नवी पहाट कोणाला तुडवून येणार आहे?", "answer": "अंधाराला" },
+    { "question_number": 137, "question": "कणाकणाला काय द्यायचे आहे?", "answer": "उजेड" },
+    { "question_number": 138, "question": "धरेचे ललाट कसे आहे?", "answer": "दिव्य" },
+    { "question_number": 139, "question": "फत्तर म्हणजे काय?", "answer": "दगड" },
+    { "question_number": 140, "question": "नव्या उषा कोठे शोधायच्या?", "answer": "नव्या दिशांत" },
+    { "question_number": 141, "question": "कशाच्या वारे घेऊन यायचे आहे?", "answer": "नव्या दिशांचे" },
+    { "question_number": 142, "question": "शिळा शिळा काय करणार आहेत?", "answer": "गाणार" },
+    { "question_number": 143, "question": "कवी उत्तम कोळगावकर यांचा जन्म कधी झाला?", "answer": "१९४९" },
+    { "question_number": 144, "question": "कविता कोणत्या विषयावर आहे?", "answer": "उत्साह/प्रगती" },
+    { "question_number": 145, "question": "कवीच्या बालकवितांचे नाव काय?", "answer": "छप्पापाणी" },
+    { "question_number": 146, "question": "श्रमाची तयारी कशासाठी हवी?", "answer": "साध्यासाठी" },
+    { "question_number": 147, "question": "कवितेत किती कडवी आहेत?", "answer": "चार" },
+    { "question_number": 148, "question": "कवितेचा सूर कसा आहे?", "answer": "आशावादी" },
+    { "question_number": 149, "question": "काळाच्या भाळावर काय लावायचे आहे?", "answer": "तेजाचा टिळा" },
+    { "question_number": 150, "question": "या कवितेचा मुख्य हेतू काय?", "answer": "प्रोत्साहन" }
+  ]
+}

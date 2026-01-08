@@ -1,1262 +1,1211 @@
 {
-  "धडा_माहिती": {
-    "धडा_क्रमांक": "६.भूगोल.०२",
-    "इयत्ता": "६",
-    "विषय": "भूगोल",
-    "माध्यम": "मराठी",
-    "धड्याचे_नाव": "चला, वृत्ते वापरूयात !"
+  "chapter_metadata": {
+    "chapter_id": "6.Geography.02",
+    "standard": "6",
+    "subject": "Geography",
+    "medium": "Marathi",
+    "chapter_name": "चला, वृत्ते वापरूयात !"
   },
-  "प्रश्न": [
+  "questions": [
     {
-      "प्रश्न_क्रमांक": 1,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "एखाद्या ठिकाणाचे अचूक स्थान ठरवण्यासाठी कशाचा वापर केला जातो?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "दिशा", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "अंतर", "योग्य": false },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "अक्षवृत्त व रेखावृत्त", "योग्य": true },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "हवामान", "योग्य": false }
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "एखाद्या ठिकाणाचे अचूक स्थान ठरवण्यासाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "दिशा", "is_correct": false },
+        { "option_id": 2, "text": "अंतर", "is_correct": false },
+        { "option_id": 3, "text": "अक्षवृत्त व रेखावृत्त", "is_correct": true },
+        { "option_id": 4, "text": "हवामान", "is_correct": false }
       ],
-      "उत्तर": "अक्षवृत्त व रेखावृत्त"
+      "answer": "अक्षवृत्त व रेखावृत्त"
     },
     {
-      "प्रश्न_क्रमांक": 2,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "वृत्तजाळी कशामुळे तयार होते?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "नद्या", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "पर्वत", "योग्य": false },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "अक्षवृत्ते व रेखावृत्ते", "योग्य": true },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "समुद्र", "योग्य": false }
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वृत्तजाळी कशामुळे तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "नद्या", "is_correct": false },
+        { "option_id": 2, "text": "पर्वत", "is_correct": false },
+        { "option_id": 3, "text": "अक्षवृत्ते व रेखावृत्ते", "is_correct": true },
+        { "option_id": 4, "text": "समुद्र", "is_correct": false }
       ],
-      "उत्तर": "अक्षवृत्ते व रेखावृत्ते"
+      "answer": "अक्षवृत्ते व रेखावृत्ते"
     },
     {
-      "प्रश्न_क्रमांक": 3,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "वृत्तजाळीचा मुख्य उपयोग काय आहे?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "हवामान ओळखणे", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "लोकसंख्या मोजणे", "योग्य": false },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "स्थान निश्चित करणे", "योग्य": true },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "नकाशा रंगवणे", "योग्य": false }
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "वृत्तजाळीचा मुख्य उपयोग काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "हवामान ओळखणे", "is_correct": false },
+        { "option_id": 2, "text": "लोकसंख्या मोजणे", "is_correct": false },
+        { "option_id": 3, "text": "स्थान निश्चित करणे", "is_correct": true },
+        { "option_id": 4, "text": "नकाशा रंगवणे", "is_correct": false }
       ],
-      "उत्तर": "स्थान निश्चित करणे"
+      "answer": "स्थान निश्चित करणे"
     },
     {
-      "प्रश्न_क्रमांक": 4,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "एखाद्या देशाचा विस्तार सांगताना काय वापरले जाते?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "शहरे", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "राजधानी", "योग्य": false },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "टोकांवरील अक्षवृत्ते व रेखावृत्ते", "योग्य": true },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "नद्या", "योग्य": false }
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "एखाद्या देशाचा विस्तार सांगताना काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "शहरे", "is_correct": false },
+        { "option_id": 2, "text": "राजधानी", "is_correct": false },
+        { "option_id": 3, "text": "टोकांवरील अक्षवृत्ते व रेखावृत्ते", "is_correct": true },
+        { "option_id": 4, "text": "नद्या", "is_correct": false }
       ],
-      "उत्तर": "टोकांवरील अक्षवृत्ते व रेखावृत्ते"
+      "answer": "टोकांवरील अक्षवृत्ते व रेखावृत्ते"
     },
     {
-      "प्रश्न_क्रमांक": 5,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "रेषीय बाबी म्हणजे काय?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "क्षेत्रफळ असलेल्या बाबी", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "बिंदूसारख्या बाबी", "योग्य": false },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "रेषेत दर्शविलेल्या बाबी", "योग्य": true },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "उंची असलेल्या बाबी", "योग्य": false }
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "रेषीय बाबी म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "क्षेत्रफळ असलेल्या बाबी", "is_correct": false },
+        { "option_id": 2, "text": "बिंदूसारख्या बाबी", "is_correct": false },
+        { "option_id": 3, "text": "रेषेत दर्शविलेल्या बाबी", "is_correct": true },
+        { "option_id": 4, "text": "उंची असलेल्या बाबी", "is_correct": false }
       ],
-      "उत्तर": "रेषेत दर्शविलेल्या बाबी"
-    },
-
-    {
-      "प्रश्न_क्रमांक": 6,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "नदी ही कोणत्या प्रकारची बाब आहे?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "बिंदू बाब", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "रेषीय बाब", "योग्य": true },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "क्षेत्रीय बाब", "योग्य": false },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "घन बाब", "योग्य": false }
-      ],
-      "उत्तर": "रेषीय बाब"
+      "answer": "रेषेत दर्शविलेल्या बाबी"
     },
     {
-      "प्रश्न_क्रमांक": 7,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "रेषीय बाबींचा विस्तार कसा सांगितला जातो?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "उंचीच्या आधारे", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "हवामानाच्या आधारे", "योग्य": false },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "सुरुवात व शेवटच्या स्थानावरून", "योग्य": true },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "लोकसंख्येवरून", "योग्य": false }
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "नदी ही कोणत्या प्रकारची बाब आहे?",
+      "options": [
+        { "option_id": 1, "text": "बिंदू बाब", "is_correct": false },
+        { "option_id": 2, "text": "रेषीय बाब", "is_correct": true },
+        { "option_id": 3, "text": "क्षेत्रीय बाब", "is_correct": false },
+        { "option_id": 4, "text": "घन बाब", "is_correct": false }
       ],
-      "उत्तर": "सुरुवात व शेवटच्या स्थानावरून"
+      "answer": "रेषीय बाब"
     },
-
     {
-      "प्रश्न_क्रमांक": 8,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "दिल्लीचे स्थान कसे दर्शवले जाते?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "राज्याच्या नावाने", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "देशाच्या नावाने", "योग्य": false },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "अक्षांश व रेखांशाने", "योग्य": true },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "नदीच्या जवळ असल्याने", "योग्य": false }
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रेषीय बाबींचा विस्तार कसा सांगितला जातो?",
+      "options": [
+        { "option_id": 1, "text": "उंचीच्या आधारे", "is_correct": false },
+        { "option_id": 2, "text": "हवामानाच्या आधारे", "is_correct": false },
+        { "option_id": 3, "text": "सुरुवात व शेवटच्या स्थानावरून", "is_correct": true },
+        { "option_id": 4, "text": "लोकसंख्येवरून", "is_correct": false }
       ],
-      "उत्तर": "अक्षांश व रेखांशाने"
+      "answer": "सुरुवात व शेवटच्या स्थानावरून"
     },
-
     {
-      "प्रश्न_क्रमांक": 9,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "देशाचा पूर्व–पश्चिम विस्तार कशावर आधारित असतो?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "अक्षांश", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "रेखांश", "योग्य": true },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "उंची", "योग्य": false },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "हवामान", "योग्य": false }
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दिल्लीचे स्थान कसे दर्शवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "राज्याच्या नावाने", "is_correct": false },
+        { "option_id": 2, "text": "देशाच्या नावाने", "is_correct": false },
+        { "option_id": 3, "text": "अक्षांश व रेखांशाने", "is_correct": true },
+        { "option_id": 4, "text": "नदीच्या जवळ असल्याने", "is_correct": false }
       ],
-      "उत्तर": "रेखांश"
+      "answer": "अक्षांश व रेखांशाने"
     },
-
     {
-      "प्रश्न_क्रमांक": 10,
-      "प्रश्न_प्रकार": "बहुपर्यायी",
-      "प्रश्न": "देशाचा उत्तर–दक्षिण विस्तार कशावर आधारित असतो?",
-      "पर्याय": [
-        { "पर्याय_क्रमांक": 1, "मजकूर": "रेखांश", "योग्य": false },
-        { "पर्याय_क्रमांक": 2, "मजकूर": "अक्षांश", "योग्य": true },
-        { "पर्याय_क्रमांक": 3, "मजकूर": "समुद्र", "योग्य": false },
-        { "पर्याय_क्रमांक": 4, "मजकूर": "नदी", "योग्य": false }
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "देशाचा पूर्व–पश्चिम विस्तार कशावर आधारित असतो?",
+      "options": [
+        { "option_id": 1, "text": "अक्षांश", "is_correct": false },
+        { "option_id": 2, "text": "रेखांश", "is_correct": true },
+        { "option_id": 3, "text": "उंची", "is_correct": false },
+        { "option_id": 4, "text": "हवामान", "is_correct": false }
       ],
-      "उत्तर": "अक्षांश"
+      "answer": "रेखांश"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "देशाचा उत्तर–दक्षिण विस्तार कशावर आधारित असतो?",
+      "options": [
+        { "option_id": 1, "text": "रेखांश", "is_correct": false },
+        { "option_id": 2, "text": "अक्षांश", "is_correct": true },
+        { "option_id": 3, "text": "समुद्र", "is_correct": false },
+        { "option_id": 4, "text": "नदी", "is_correct": false }
+      ],
+      "answer": "अक्षांश"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "प्रदेशाचा विस्तार सांगताना काय लक्षात घेतले जाते?",
+      "options": [
+        { "option_id": 1, "text": "लोकसंख्या", "is_correct": false },
+        { "option_id": 2, "text": "हवामान", "is_correct": false },
+        { "option_id": 3, "text": "टोकांवरील स्थान", "is_correct": true },
+        { "option_id": 4, "text": "उंची", "is_correct": false }
+      ],
+      "answer": "टोकांवरील स्थान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "एखाद्या प्रदेशाचा विस्तार कोणत्या दिशांनी सांगितला जातो?",
+      "options": [
+        { "option_id": 1, "text": "फक्त उत्तर–दक्षिण", "is_correct": false },
+        { "option_id": 2, "text": "फक्त पूर्व–पश्चिम", "is_correct": false },
+        { "option_id": 3, "text": "उत्तर–दक्षिण व पूर्व–पश्चिम", "is_correct": true },
+        { "option_id": 4, "text": "ईशान्य–नैऋत्य", "is_correct": false }
+      ],
+      "answer": "उत्तर–दक्षिण व पूर्व–पश्चिम"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रेषीय बाबींचा प्रारंभिक बिंदू काय दर्शवतो?",
+      "options": [
+        { "option_id": 1, "text": "मध्यभाग", "is_correct": false },
+        { "option_id": 2, "text": "उगम", "is_correct": true },
+        { "option_id": 3, "text": "समाप्ती", "is_correct": false },
+        { "option_id": 4, "text": "सीमा", "is_correct": false }
+      ],
+      "answer": "उगम"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "नदीचा शेवटचा बिंदू काय दर्शवतो?",
+      "options": [
+        { "option_id": 1, "text": "उगम", "is_correct": false },
+        { "option_id": 2, "text": "मध्यभाग", "is_correct": false },
+        { "option_id": 3, "text": "मुख", "is_correct": true },
+        { "option_id": 4, "text": "उंची", "is_correct": false }
+      ],
+      "answer": "मुख"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रेषीय बाबींचा विस्तार कोणत्या दोन स्थानांदरम्यान असतो?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर–दक्षिण", "is_correct": false },
+        { "option_id": 2, "text": "पूर्व–पश्चिम", "is_correct": false },
+        { "option_id": 3, "text": "उगम व मुख", "is_correct": true },
+        { "option_id": 4, "text": "सीमा व केंद्र", "is_correct": false }
+      ],
+      "answer": "उगम व मुख"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "एखाद्या शहराचे स्थान दर्शवण्यासाठी काय उपयुक्त आहे?",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "अक्षांश व रेखांश", "is_correct": true },
+        { "option_id": 3, "text": "डोंगर", "is_correct": false },
+        { "option_id": 4, "text": "समुद्र", "is_correct": false }
+      ],
+      "answer": "अक्षांश व रेखांश"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "प्रदेशाचा विस्तार मोजताना कोणती माहिती आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "लोकसंख्या", "is_correct": false },
+        { "option_id": 2, "text": "हवामान", "is_correct": false },
+        { "option_id": 3, "text": "अक्षांश व रेखांश", "is_correct": true },
+        { "option_id": 4, "text": "उंची", "is_correct": false }
+      ],
+      "answer": "अक्षांश व रेखांश"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "नकाशावर रेषेत दाखवलेली बाब कोणती?",
+      "options": [
+        { "option_id": 1, "text": "शहर", "is_correct": false },
+        { "option_id": 2, "text": "नदी", "is_correct": true },
+        { "option_id": 3, "text": "राज्य", "is_correct": false },
+        { "option_id": 4, "text": "देश", "is_correct": false }
+      ],
+      "answer": "नदी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रेषीय बाबींच्या मोजमापासाठी काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "क्षेत्रफळ", "is_correct": false },
+        { "option_id": 2, "text": "परिघ", "is_correct": false },
+        { "option_id": 3, "text": "अक्षांश-रेखांश", "is_correct": true },
+        { "option_id": 4, "text": "उंची", "is_correct": false }
+      ],
+      "answer": "अक्षांश-रेखांश"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "एखाद्या देशाचा विस्तार उत्तर-दक्षिण कोणावर अवलंबून असतो?",
+      "options": [
+        { "option_id": 1, "text": "रेखांश", "is_correct": false },
+        { "option_id": 2, "text": "अक्षांश", "is_correct": true },
+        { "option_id": 3, "text": "नदी", "is_correct": false },
+        { "option_id": 4, "text": "समुद्र", "is_correct": false }
+      ],
+      "answer": "अक्षांश"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "देशाचा पूर्व–पश्चिम विस्तार कशामुळे ठरतो?",
+      "options": [
+        { "option_id": 1, "text": "अक्षांश", "is_correct": false },
+        { "option_id": 2, "text": "रेखांश", "is_correct": true },
+        { "option_id": 3, "text": "हवामान", "is_correct": false },
+        { "option_id": 4, "text": "लोकसंख्या", "is_correct": false }
+      ],
+      "answer": "रेखांश"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "नदीचा उगम कोणत्या बाबीत मोडतो?",
+      "options": [
+        { "option_id": 1, "text": "क्षेत्रीय बाब", "is_correct": false },
+        { "option_id": 2, "text": "रेषीय बाब", "is_correct": true },
+        { "option_id": 3, "text": "बिंदू बाब", "is_correct": false },
+        { "option_id": 4, "text": "घन बाब", "is_correct": false }
+      ],
+      "answer": "रेषीय बाब"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "स्थान निश्चितीसाठी सर्वात उपयुक्त साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा", "is_correct": false },
+        { "option_id": 2, "text": "दिशादर्शक", "is_correct": false },
+        { "option_id": 3, "text": "वृत्तजाळी", "is_correct": true },
+        { "option_id": 4, "text": "मोजपट्टी", "is_correct": false }
+      ],
+      "answer": "वृत्तजाळी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "एखाद्या प्रदेशाचा विस्तार मोजताना कोणती दिशा वापरली जात नाही?",
+      "options": [
+        { "option_id": 1, "text": "उत्तर–दक्षिण", "is_correct": false },
+        { "option_id": 2, "text": "पूर्व–पश्चिम", "is_correct": false },
+        { "option_id": 3, "text": "वर–खाली", "is_correct": true },
+        { "option_id": 4, "text": "उत्तर–पश्चिम", "is_correct": false }
+      ],
+      "answer": "वर–खाली"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रेषीय बाबी नकाशावर कशा दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "बिंदूंनी", "is_correct": false },
+        { "option_id": 2, "text": "छायांनी", "is_correct": false },
+        { "option_id": 3, "text": "रेषांनी", "is_correct": true },
+        { "option_id": 4, "text": "चिन्हांनी", "is_correct": false }
+      ],
+      "answer": "रेषांनी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "प्रदेशाचा विस्तार मोजण्यामागील उद्देश काय?",
+      "options": [
+        { "option_id": 1, "text": "सौंदर्य दाखवणे", "is_correct": false },
+        { "option_id": 2, "text": "अचूक माहिती मिळवणे", "is_correct": true },
+        { "option_id": 3, "text": "नकाशा रंगवणे", "is_correct": false },
+        { "option_id": 4, "text": "तुलना टाळणे", "is_correct": false }
+      ],
+      "answer": "अचूक माहिती मिळवणे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "एखाद्या नदीचा विस्तार कोणत्या दोन टोकांवरून सांगितला जातो?",
+      "options": [
+        { "option_id": 1, "text": "उंच व सपाट", "is_correct": false },
+        { "option_id": 2, "text": "डोंगर व मैदान", "is_correct": false },
+        { "option_id": 3, "text": "उगम व मुख", "is_correct": true },
+        { "option_id": 4, "text": "पूर्व व पश्चिम", "is_correct": false }
+      ],
+      "answer": "उगम व मुख"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नकाशावर एखादे शहर कसे दर्शवले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रेषेने", "is_correct": false },
+        { "option_id": 2, "text": "बिंदूने", "is_correct": true },
+        { "option_id": 3, "text": "छायांनी", "is_correct": false },
+        { "option_id": 4, "text": "आकृतीने", "is_correct": false }
+      ],
+      "answer": "बिंदूने"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "क्षेत्रीय बाब कोणती?",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "रस्ता", "is_correct": false },
+        { "option_id": 3, "text": "राज्य", "is_correct": true },
+        { "option_id": 4, "text": "कालवा", "is_correct": false }
+      ],
+      "answer": "राज्य"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "स्थान निश्चितीमध्ये अंश, मिनिट व सेकंद कशासाठी वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "वेळ मोजण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "कोन मोजण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "अंतर मोजण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "उंची मोजण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कोन मोजण्यासाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "नकाशावर क्षेत्रफळ दाखवणारी बाब कोणती?",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "रस्ता", "is_correct": false },
+        { "option_id": 3, "text": "राज्य", "is_correct": true },
+        { "option_id": 4, "text": "सीमा", "is_correct": false }
+      ],
+      "answer": "राज्य"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "स्थान निश्चितीची पद्धत का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सुंदर दिसावा म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "अचूक माहिती मिळण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "वेळ वाचवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "रंग भरण्यासाठी", "is_correct": false }
+      ],
+      "answer": "अचूक माहिती मिळण्यासाठी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "प्रदेशाच्या विस्ताराचे मोजमाप कोणत्या दोन दिशांनी केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "वर–खाली", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर–दक्षिण व पूर्व–पश्चिम", "is_correct": true },
+        { "option_id": 3, "text": "ईशान्य–दक्षिण", "is_correct": false },
+        { "option_id": 4, "text": "फक्त पूर्व", "is_correct": false }
+      ],
+      "answer": "उत्तर–दक्षिण व पूर्व–पश्चिम"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "नकाशावर बिंदूने कोणती बाब दर्शवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "नदी", "is_correct": false },
+        { "option_id": 2, "text": "रस्ता", "is_correct": false },
+        { "option_id": 3, "text": "शहर", "is_correct": true },
+        { "option_id": 4, "text": "राज्य", "is_correct": false }
+      ],
+      "answer": "शहर"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "रेषीय बाबी कोणत्या स्वरूपात दाखवतात?",
+      "options": [
+        { "option_id": 1, "text": "बिंदू", "is_correct": false },
+        { "option_id": 2, "text": "रेषा", "is_correct": true },
+        { "option_id": 3, "text": "छाया", "is_correct": false },
+        { "option_id": 4, "text": "आकृती", "is_correct": false }
+      ],
+      "answer": "रेषा"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "एखाद्या नदीचा विस्तार सांगताना कोणती माहिती दिली जाते?",
+      "options": [
+        { "option_id": 1, "text": "लांबी", "is_correct": false },
+        { "option_id": 2, "text": "उगम व मुखाचे स्थान", "is_correct": true },
+        { "option_id": 3, "text": "पाणीप्रमाण", "is_correct": false },
+        { "option_id": 4, "text": "खोली", "is_correct": false }
+      ],
+      "answer": "उगम व मुखाचे स्थान"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "एखाद्या देशाच्या विस्तारात कोणता घटक येत नाही?",
+      "options": [
+        { "option_id": 1, "text": "अक्षांश", "is_correct": false },
+        { "option_id": 2, "text": "रेखांश", "is_correct": false },
+        { "option_id": 3, "text": "हवामान", "is_correct": true },
+        { "option_id": 4, "text": "दिशा", "is_correct": false }
+      ],
+      "answer": "हवामान"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "नकाशावरील काल्पनिक रेषांचा उपयोग काय?",
+      "options": [
+        { "option_id": 1, "text": "सजावट", "is_correct": false },
+        { "option_id": 2, "text": "स्थान निश्चिती", "is_correct": true },
+        { "option_id": 3, "text": "रंग भरणे", "is_correct": false },
+        { "option_id": 4, "text": "मोजपट्टी", "is_correct": false }
+      ],
+      "answer": "स्थान निश्चिती"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "अक्षवृत्त व रेखावृत्त यांचा एकत्रित वापर कशासाठी होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवामान अभ्यास", "is_correct": false },
+        { "option_id": 2, "text": "लोकसंख्या अभ्यास", "is_correct": false },
+        { "option_id": 3, "text": "स्थान निश्चिती", "is_correct": true },
+        { "option_id": 4, "text": "उंची मोजणी", "is_correct": false }
+      ],
+      "answer": "स्थान निश्चिती"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "प्रदेशाचा विस्तार सांगताना दिशा का महत्त्वाची असते?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा सुंदर दिसतो", "is_correct": false },
+        { "option_id": 2, "text": "अचूक तुलना करता येते", "is_correct": true },
+        { "option_id": 3, "text": "रंग वेगळे करता येतात", "is_correct": false },
+        { "option_id": 4, "text": "वेळ वाचतो", "is_correct": false }
+      ],
+      "answer": "अचूक तुलना करता येते"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "नकाशावर देश दाखवण्यासाठी कोणती बाब वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय", "is_correct": false },
+        { "option_id": 2, "text": "बिंदू", "is_correct": false },
+        { "option_id": 3, "text": "क्षेत्रीय", "is_correct": true },
+        { "option_id": 4, "text": "घन", "is_correct": false }
+      ],
+      "answer": "क्षेत्रीय"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "एखाद्या प्रदेशाचा विस्तार सांगताना ‘उत्तर’ दिशा कोणत्या अक्षांशाशी संबंधित असते?",
+      "options": [
+        { "option_id": 1, "text": "दक्षिण अक्षांश", "is_correct": false },
+        { "option_id": 2, "text": "उत्तर अक्षांश", "is_correct": true },
+        { "option_id": 3, "text": "पूर्व रेखांश", "is_correct": false },
+        { "option_id": 4, "text": "पश्चिम रेखांश", "is_correct": false }
+      ],
+      "answer": "उत्तर अक्षांश"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "प्रदेशाचा विस्तार मोजताना अचूकता कशावर अवलंबून असते?",
+      "options": [
+        { "option_id": 1, "text": "रंगावर", "is_correct": false },
+        { "option_id": 2, "text": "चिन्हांवर", "is_correct": false },
+        { "option_id": 3, "text": "अक्षांश-रेखांशावर", "is_correct": true },
+        { "option_id": 4, "text": "कागदावर", "is_correct": false }
+      ],
+      "answer": "अक्षांश-रेखांशावर"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "नकाशावर नदी दाखवताना कोणती पद्धत वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "बिंदू", "is_correct": false },
+        { "option_id": 2, "text": "रेषा", "is_correct": true },
+        { "option_id": 3, "text": "छाया", "is_correct": false },
+        { "option_id": 4, "text": "आकृती", "is_correct": false }
+      ],
+      "answer": "रेषा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "एखाद्या ठिकाणाचा विस्तार सांगण्यासाठी कोणती पद्धत योग्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "नाव सांगणे", "is_correct": false },
+        { "option_id": 2, "text": "फक्त दिशा सांगणे", "is_correct": false },
+        { "option_id": 3, "text": "अक्षांश-रेखांश वापरणे", "is_correct": true },
+        { "option_id": 4, "text": "रंग वापरणे", "is_correct": false }
+      ],
+      "answer": "अक्षांश-रेखांश वापरणे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "प्रदेशाचा विस्तार सांगताना टोकांवरील स्थान का वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "सोपे असते", "is_correct": false },
+        { "option_id": 2, "text": "अचूक मोजमाप मिळते", "is_correct": true },
+        { "option_id": 3, "text": "वेळ वाचतो", "is_correct": false },
+        { "option_id": 4, "text": "नकाशा सुंदर दिसतो", "is_correct": false }
+      ],
+      "answer": "अचूक मोजमाप मिळते"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "एखाद्या नदीचा विस्तार सांगताना कोणत्या दोन बाबी आवश्यक आहेत?",
+      "options": [
+        { "option_id": 1, "text": "रंग व चिन्ह", "is_correct": false },
+        { "option_id": 2, "text": "नाव व लांबी", "is_correct": false },
+        { "option_id": 3, "text": "उगम व मुख", "is_correct": true },
+        { "option_id": 4, "text": "खोली व रुंदी", "is_correct": false }
+      ],
+      "answer": "उगम व मुख"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "नकाशावरील माहिती अचूक करण्यासाठी काय महत्त्वाचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "रंगसंगती", "is_correct": false },
+        { "option_id": 2, "text": "अक्षांश-रेखांश", "is_correct": true },
+        { "option_id": 3, "text": "चित्रे", "is_correct": false },
+        { "option_id": 4, "text": "शीर्षक", "is_correct": false }
+      ],
+      "answer": "अक्षांश-रेखांश"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "एखाद्या प्रदेशाचा विस्तार समजल्याने काय सोपे होते?",
+      "options": [
+        { "option_id": 1, "text": "चित्र काढणे", "is_correct": false },
+        { "option_id": 2, "text": "भौगोलिक तुलना करणे", "is_correct": true },
+        { "option_id": 3, "text": "रंग भरणे", "is_correct": false },
+        { "option_id": 4, "text": "नाव लक्षात ठेवणे", "is_correct": false }
+      ],
+      "answer": "भौगोलिक तुलना करणे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "‘चला, वृत्ते वापरूयात!’ या धड्यात मुख्यत्वे कशावर भर दिला आहे?",
+      "options": [
+        { "option_id": 1, "text": "नकाशा रंगवणे", "is_correct": false },
+        { "option_id": 2, "text": "स्थान व विस्तार समजून घेणे", "is_correct": true },
+        { "option_id": 3, "text": "हवामान अभ्यास", "is_correct": false },
+        { "option_id": 4, "text": "लोकसंख्या अभ्यास", "is_correct": false }
+      ],
+      "answer": "स्थान व विस्तार समजून घेणे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वृत्तजाळी म्हणजे काय?",
+      "answer": "अक्षवृत्ते व रेखावृत्ते यांच्या साहाय्याने तयार होणाऱ्या काल्पनिक रेषांच्या जाळ्याला वृत्तजाळी म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "स्थान निश्चिती म्हणजे काय?",
+      "answer": "एखाद्या ठिकाणाचे अचूक भौगोलिक स्थान सांगण्याच्या प्रक्रियेला स्थान निश्चिती म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अक्षवृत्तांचा उपयोग काय आहे?",
+      "answer": "उत्तर–दक्षिण दिशेतील स्थान व विस्तार दर्शवण्यासाठी अक्षवृत्तांचा उपयोग होतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रेखावृत्तांचा उपयोग काय आहे?",
+      "answer": "पूर्व–पश्चिम दिशेतील स्थान व विस्तार दर्शवण्यासाठी रेखावृत्तांचा उपयोग होतो."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "एखाद्या देशाचा विस्तार कसा सांगितला जातो?",
+      "answer": "देशाच्या टोकांवरील अक्षवृत्ते व रेखावृत्तांच्या आधारे त्याचा विस्तार सांगितला जातो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "रेषीय बाब म्हणजे काय?",
+      "answer": "नकाशावर रेषेच्या स्वरूपात दर्शविलेल्या बाबींना रेषीय बाब म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "नदी ही रेषीय बाब का आहे?",
+      "answer": "नदी उगमापासून मुखापर्यंत रेषेप्रमाणे दाखवली जाते म्हणून ती रेषीय बाब आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रेषीय बाबींचा विस्तार कसा दर्शवतात?",
+      "answer": "रेषीय बाबींचा विस्तार सुरुवातीच्या व शेवटच्या स्थानावरून दर्शवतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "एखाद्या नदीचा विस्तार सांगताना कोणती ठिकाणे वापरतात?",
+      "answer": "नदीचा उगम व मुख या ठिकाणांचा वापर केला जातो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा विस्तार कोणत्या दिशांनी सांगतात?",
+      "answer": "प्रदेशाचा विस्तार उत्तर–दक्षिण व पूर्व–पश्चिम दिशांनी सांगतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "एखाद्या शहराचे स्थान कसे ठरवले जाते?",
+      "answer": "शहराचे स्थान त्याच्या अक्षांश व रेखांशांच्या आधारे ठरवले जाते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "प्रदेशाच्या विस्तारात दिशा का महत्त्वाची आहे?",
+      "answer": "दिशांमुळे प्रदेशाचा खरा आकार व विस्तार समजण्यास मदत होते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "नकाशावर बिंदू बाब म्हणजे काय?",
+      "answer": "नकाशावर बिंदूच्या स्वरूपात दर्शविलेल्या बाबींना बिंदू बाब म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "शहर ही कोणत्या प्रकारची बाब आहे?",
+      "answer": "शहर ही बिंदू बाब आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "क्षेत्रीय बाब म्हणजे काय?",
+      "answer": "नकाशावर क्षेत्रफळासह दर्शविलेल्या बाबींना क्षेत्रीय बाब म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "राज्य ही क्षेत्रीय बाब का आहे?",
+      "answer": "राज्य नकाशावर निश्चित क्षेत्रफळासह दाखवले जाते म्हणून ते क्षेत्रीय बाब आहे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अंश, मिनिट व सेकंद कशासाठी वापरतात?",
+      "answer": "अक्षांश व रेखांश अधिक अचूक मोजण्यासाठी अंश, मिनिट व सेकंद वापरतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "स्थान निश्चितीची पद्धत का आवश्यक आहे?",
+      "answer": "एखाद्या ठिकाणाची अचूक माहिती मिळवण्यासाठी स्थान निश्चितीची पद्धत आवश्यक आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "वृत्तजाळीशिवाय स्थान निश्चित करता येईल का?",
+      "answer": "नाही, वृत्तजाळीशिवाय अचूक स्थान निश्चित करता येत नाही."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "नकाशावर माहिती अचूक का असावी?",
+      "answer": "अचूक माहितीमुळे योग्य अभ्यास व तुलना करणे सोपे होते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "नकाशावर दिशा कशा दर्शवतात?",
+      "answer": "नकाशावर उत्तर, दक्षिण, पूर्व व पश्चिम या मुख्य दिशांनी दिशा दर्शवतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "उत्तर दिशा ओळखण्यासाठी काय वापरतात?",
+      "answer": "दिशादर्शक किंवा उत्तर बाण वापरून उत्तर दिशा ओळखतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा विस्तार म्हणजे काय?",
+      "answer": "एखाद्या प्रदेशाचा पसरलेला भाग म्हणजे त्या प्रदेशाचा विस्तार होय."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भारताचा उत्तर–दक्षिण विस्तार कसा सांगतात?",
+      "answer": "भारताच्या उत्तरेकडील व दक्षिणेकडील टोकांच्या अक्षांशांच्या आधारे विस्तार सांगतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भारताचा पूर्व–पश्चिम विस्तार कसा सांगतात?",
+      "answer": "भारताच्या पूर्वेकडील व पश्चिमेकडील टोकांच्या रेखांशांच्या आधारे विस्तार सांगतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नकाशावर एखादे शहर कसे दाखवतात?",
+      "answer": "नकाशावर शहर बिंदूच्या स्वरूपात दाखवतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रेल्वेमार्ग कोणत्या प्रकारची बाब आहे?",
+      "answer": "रेल्वेमार्ग ही रेषीय बाब आहे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "समुद्र कोणत्या प्रकारची बाब आहे?",
+      "answer": "समुद्र ही क्षेत्रीय बाब आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "बिंदू बाबींचे उदाहरण सांगा.",
+      "answer": "शहर, गाव, बंदर ही बिंदू बाबींची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "क्षेत्रीय बाबींचे उदाहरण सांगा.",
+      "answer": "राज्य, देश, खंड ही क्षेत्रीय बाबींची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "रेषीय बाबींचे उदाहरण सांगा.",
+      "answer": "नदी, रस्ता, रेल्वेमार्ग ही रेषीय बाबींची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "नकाशावर मोजमाप अचूक का असावी?",
+      "answer": "अचूक मोजमापामुळे अंतर व स्थान योग्यरीत्या समजते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "अक्षवृत्ते व रेखावृत्ते काल्पनिक का म्हणतात?",
+      "answer": "त्या प्रत्यक्ष पृथ्वीवर नसून मोजमापासाठी कल्पनेने काढलेल्या असतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "नकाशावर स्थान निश्चित करताना काय आवश्यक आहे?",
+      "answer": "नकाशावर स्थान निश्चित करताना अक्षांश व रेखांश आवश्यक असतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा आकार समजण्यासाठी काय उपयोगी ठरते?",
+      "answer": "प्रदेशाचा विस्तार व दिशा यामुळे आकार समजतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अक्षांशामुळे काय कळते?",
+      "answer": "एखादे ठिकाण विषुववृत्ताच्या किती उत्तर किंवा दक्षिण आहे हे कळते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": " रेखांशामुळे काय कळते?",
+      "answer": "एखादे ठिकाण मूळ रेखावृत्ताच्या किती पूर्व किंवा पश्चिम आहे हे कळते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "नकाशावर माहिती क्रमबद्ध का असते?",
+      "answer": "माहिती सहज समजण्यासाठी व तुलना करण्यासाठी ती क्रमबद्ध असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा विस्तार मोजण्याचा फायदा काय?",
+      "answer": "प्रदेशाचा खरा आकार व सीमा समजण्यास मदत होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "नकाशावर मोजमाप करताना दिशांचा वापर का करतात?",
+      "answer": "योग्य स्थान व विस्तार ठरवण्यासाठी दिशांचा वापर करतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अक्षांश–रेखांश पद्धत कोणी वापरते?",
+      "answer": "भूगोलतज्ज्ञ, प्रवासी व नकाशाशास्त्रज्ञ ही पद्धत वापरतात."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "शालेय नकाशात वृत्तजाळी का दाखवतात?",
+      "answer": "विद्यार्थ्यांना स्थान निश्चिती समजण्यासाठी वृत्तजाळी दाखवतात."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "नकाशाशिवाय विस्तार सांगता येईल का?",
+      "answer": "नाही, नकाशाशिवाय अचूक विस्तार सांगता येत नाही."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "प्रदेशाची तुलना कशी करतात?",
+      "answer": "प्रदेशाचा विस्तार, दिशा व आकार यांच्या आधारे तुलना करतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "नकाशावर रंगांचा उपयोग का करतात?",
+      "answer": "विविध बाबी ओळखण्यासाठी रंगांचा उपयोग करतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "नकाशावर माहिती का संक्षिप्त असते?",
+      "answer": "नकाशा सोपा व वाचनीय ठेवण्यासाठी माहिती संक्षिप्त असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा अभ्यास करण्यासाठी नकाशा उपयुक्त का आहे?",
+      "answer": "नकाशामुळे प्रदेशाचा आकार, विस्तार व स्थान समजते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "नकाशावर सीमा कशा दाखवतात?",
+      "answer": "सीमा रेषांच्या स्वरूपात दाखवतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "भूगोलाच्या अभ्यासात वृत्ते का महत्त्वाची आहेत?",
+      "answer": "वृत्तांमुळे स्थान, दिशा व विस्तार अचूकपणे समजतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "या धड्याचा मुख्य उपयोग काय आहे?",
+      "answer": "नकाशावर स्थान व विस्तार अचूकपणे ठरवण्याची क्षमता विकसित करणे हा मुख्य उपयोग आहे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "नकाशावर स्थान निश्चितीचे महत्त्व काय आहे?",
+      "answer": "नकाशावर स्थान निश्चितीमुळे एखाद्या ठिकाणाचे अचूक स्थान समजते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "वृत्तजाळीचा वापर कशासाठी केला जातो?",
+      "answer": "वृत्तजाळीचा वापर पृथ्वीवरील स्थान व विस्तार ठरवण्यासाठी केला जातो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "अक्षवृत्ते कोणत्या दिशेला समांतर असतात?",
+      "answer": "अक्षवृत्ते पूर्व–पश्चिम दिशेला समांतर असतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "रेखावृत्ते कोणत्या दिशेला असतात?",
+      "answer": "रेखावृत्ते उत्तर–दक्षिण दिशेला असतात."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा विस्तार मोजताना काय लक्षात घेतले जाते?",
+      "answer": "प्रदेशाच्या टोकांची दिशा व त्यांचे अक्षांश-रेखांश लक्षात घेतले जातात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "नकाशावर माहिती का अचूक असावी?",
+      "answer": "अचूक माहितीमुळे नकाशाचा योग्य वापर करता येतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "रेषीय बाबींचा अभ्यास कशासाठी उपयुक्त आहे?",
+      "answer": "रेषीय बाबींच्या अभ्यासामुळे मार्ग व दिशा समजतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "क्षेत्रीय बाबींचा विस्तार कसा दाखवतात?",
+      "answer": "क्षेत्रीय बाबी निश्चित सीमारेषांनी दाखवतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "बिंदू बाबी का लहान स्वरूपात दाखवतात?",
+      "answer": "बिंदू बाबींचे क्षेत्रफळ कमी असल्यामुळे त्या लहान स्वरूपात दाखवतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "नकाशावर दिशांचा अभ्यास का आवश्यक आहे?",
+      "answer": "दिशांचा अभ्यास केल्याने स्थान व विस्तार समजणे सोपे होते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "नकाशा व पृथ्वीगोल यामध्ये काय साम्य आहे?",
+      "answer": "दोन्हीवर पृथ्वीचे भौगोलिक घटक दर्शविलेले असतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "स्थान ठरवताना अंश का वापरतात?",
+      "answer": "स्थान अधिक अचूकपणे ठरवण्यासाठी अंश वापरतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "नकाशावर अंतर कसे समजते?",
+      "answer": "नकाशावरील प्रमाणाच्या साहाय्याने अंतर समजते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा आकार कशामुळे बदलतो?",
+      "answer": "प्रदेशाच्या सीमारेषा व विस्तारामुळे त्याचा आकार बदलतो."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "नकाशावाचनात वृत्ते का महत्त्वाची आहेत?",
+      "answer": "वृत्तांमुळे नकाशावाचन अचूक व सोपे होते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "रेखावृत्तांच्या मदतीने काय ठरवता येते?",
+      "answer": "रेखावृत्तांच्या मदतीने पूर्व–पश्चिम स्थान ठरवता येते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "अक्षवृत्तांच्या मदतीने काय ठरवता येते?",
+      "answer": "अक्षवृत्तांच्या मदतीने उत्तर–दक्षिण स्थान ठरवता येते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "नकाशावरील माहिती का चिन्हांच्या स्वरूपात असते?",
+      "answer": "माहिती सोपी व समजण्यास सुलभ व्हावी म्हणून चिन्हे वापरतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "भूगोलाच्या अभ्यासात नकाशाचे महत्त्व काय?",
+      "answer": "नकाशामुळे पृथ्वीवरील विविध घटकांचा अभ्यास सोपा होतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "प्रदेशाची तुलना कशाच्या आधारे करतात?",
+      "answer": "प्रदेशाची तुलना विस्तार, आकार व स्थान यांच्या आधारे करतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "नकाशावर सीमा रेषा का दर्शवतात?",
+      "answer": "प्रदेश वेगळा ओळखण्यासाठी सीमा रेषा दर्शवतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "वृत्तांचा अभ्यास केल्याने काय फायदा होतो?",
+      "answer": "वृत्तांचा अभ्यास केल्याने अचूक स्थान निश्चित करता येते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "नकाशावरील माहिती का मर्यादित असते?",
+      "answer": "नकाशा स्पष्ट ठेवण्यासाठी माहिती मर्यादित असते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "नकाशावाचन कौशल्य का आवश्यक आहे?",
+      "answer": "नकाशातील माहिती योग्यरीत्या समजण्यासाठी नकाशावाचन कौशल्य आवश्यक आहे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "स्थान निश्चितीशिवाय अभ्यास अपूर्ण का राहतो?",
+      "answer": "स्थान माहित नसल्यास भौगोलिक माहिती अचूक समजत नाही."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "प्रदेशाचा विस्तार कळल्याने काय समजते?",
+      "answer": "प्रदेश किती मोठा किंवा लहान आहे हे समजते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "नकाशावर माहिती कशी मांडलेली असते?",
+      "answer": "नकाशावर माहिती चिन्हे, रंग व रेषांद्वारे मांडलेली असते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "वृत्ते वापरणे का आवश्यक आहे?",
+      "answer": "अचूक स्थान व विस्तार समजण्यासाठी वृत्ते वापरणे आवश्यक आहे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "नकाशाशास्त्र म्हणजे काय?",
+      "answer": "नकाशा तयार करणे व वाचण्याच्या शास्त्राला नकाशाशास्त्र म्हणतात."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "भूगोल अभ्यासात दिशा का महत्त्वाच्या आहेत?",
+      "answer": "दिशांमुळे प्रदेशाचा विस्तार व स्थान समजते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "नकाशावर प्रमाण का दिलेले असते?",
+      "answer": "खरे अंतर समजण्यासाठी नकाशावर प्रमाण दिलेले असते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "नकाशा अपूर्ण कधी ठरतो?",
+      "answer": "दिशा, प्रमाण किंवा चिन्हे नसल्यास नकाशा अपूर्ण ठरतो."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "अचूक नकाशाचा उपयोग कशासाठी होतो?",
+      "answer": "अचूक नकाशाचा उपयोग अभ्यास, प्रवास व नियोजनासाठी होतो."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "नकाशावर कोणती माहिती दाखवत नाहीत?",
+      "answer": "अनावश्यक व तपशीलवार माहिती नकाशावर दाखवत नाहीत."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "वृत्तांचा उपयोग कोणत्या अभ्यासात होतो?",
+      "answer": "भूगोल व नकाशावाचनाच्या अभ्यासात वृत्तांचा उपयोग होतो."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "नकाशावर माहिती व्यवस्थित कशी ठेवतात?",
+      "answer": "माहिती योग्य चिन्हे व क्रमाने ठेवतात."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "नकाशाचा अभ्यास का सोपा वाटतो?",
+      "answer": "नकाशावरील दृश्य मांडणीमुळे अभ्यास सोपा वाटतो."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "नकाशावर स्थान ओळखण्यासाठी काय गरजेचे आहे?",
+      "answer": "नकाशावर अक्षांश व रेखांश गरजेचे आहेत."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "वृत्तजाळीमुळे कोणती अचूकता मिळते?",
+      "answer": "वृत्तजाळीमुळे स्थानाची अचूकता मिळते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "नकाशावर अभ्यास करताना काय लक्षात ठेवावे?",
+      "answer": "दिशा, प्रमाण व चिन्हे लक्षात ठेवावीत."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "नकाशावर प्रदेश स्पष्ट कसा दिसतो?",
+      "answer": "सीमारेषा व रंगांमुळे प्रदेश स्पष्ट दिसतो."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "नकाशावाचन ही कौशल्य का आहे?",
+      "answer": "नकाशातील माहिती समजून घेण्यासाठी कौशल्य लागते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "भूगोल अभ्यासात नकाशाचा उपयोग कधी होतो?",
+      "answer": "प्रदेशाचा अभ्यास करताना नकाशाचा उपयोग होतो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "वृत्तांशिवाय अभ्यासात कोणती अडचण येते?",
+      "answer": "स्थान अचूकपणे निश्चित करता येत नाही."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "नकाशावर स्थान ओळखणे सोपे कशामुळे होते?",
+      "answer": "वृत्तजाळीमुळे स्थान ओळखणे सोपे होते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "भूगोल अभ्यासात अचूकता का महत्त्वाची आहे?",
+      "answer": "अचूकतेमुळे माहिती विश्वासार्ह ठरते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "नकाशावरील माहितीचे विश्लेषण का करतात?",
+      "answer": "प्रदेशाची वैशिष्ट्ये समजण्यासाठी विश्लेषण करतात."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "वृत्ते वापरण्याचा फायदा काय आहे?",
+      "answer": "वृत्ते वापरल्याने अचूक स्थान व विस्तार समजतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "नकाशावर अभ्यास करताना संयम का आवश्यक आहे?",
+      "answer": "नकाशावरील माहिती नीट समजण्यासाठी संयम आवश्यक आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "‘चला, वृत्ते वापरूयात!’ या धड्याचा मुख्य उद्देश काय आहे?",
+      "answer": "वृत्तांच्या साहाय्याने स्थान व विस्तार अचूकपणे समजावून सांगणे हा मुख्य उद्देश आहे."
     }
-
-  
   ]
-}[
-  {
-    "प्रश्न_क्रमांक": 11,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "प्रदेशाचा विस्तार सांगताना काय लक्षात घेतले जाते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "लोकसंख्या", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "हवामान", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "टोकांवरील स्थान", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "उंची", "योग्य": false }
-    ],
-    "उत्तर": "टोकांवरील स्थान"
-  },
-  {
-    "प्रश्न_क्रमांक": 12,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या प्रदेशाचा विस्तार कोणत्या दिशांनी सांगितला जातो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "फक्त उत्तर–दक्षिण", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "फक्त पूर्व–पश्चिम", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "उत्तर–दक्षिण व पूर्व–पश्चिम", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "ईशान्य–नैऋत्य", "योग्य": false }
-    ],
-    "उत्तर": "उत्तर–दक्षिण व पूर्व–पश्चिम"
-  },
-  {
-    "प्रश्न_क्रमांक": 13,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "रेषीय बाबींचा प्रारंभिक बिंदू काय दर्शवतो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "मध्यभाग", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "उगम", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "समाप्ती", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "सीमा", "योग्य": false }
-    ],
-    "उत्तर": "उगम"
-  },
-  {
-    "प्रश्न_क्रमांक": 14,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नदीचा शेवटचा बिंदू काय दर्शवतो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "उगम", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "मध्यभाग", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "मुख", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "उंची", "योग्य": false }
-    ],
-    "उत्तर": "मुख"
-  },
-  {
-    "प्रश्न_क्रमांक": 15,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "रेषीय बाबींचा विस्तार कोणत्या दोन स्थानांदरम्यान असतो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "उत्तर–दक्षिण", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "पूर्व–पश्चिम", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "उगम व मुख", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "सीमा व केंद्र", "योग्य": false }
-    ],
-    "उत्तर": "उगम व मुख"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 16,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या शहराचे स्थान दर्शवण्यासाठी काय उपयुक्त आहे?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नदी", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "अक्षांश व रेखांश", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "डोंगर", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "समुद्र", "योग्य": false }
-    ],
-    "उत्तर": "अक्षांश व रेखांश"
-  },
-  {
-    "प्रश्न_क्रमांक": 17,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "प्रदेशाचा विस्तार मोजताना कोणती माहिती आवश्यक आहे?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "लोकसंख्या", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "हवामान", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "अक्षांश व रेखांश", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "उंची", "योग्य": false }
-    ],
-    "उत्तर": "अक्षांश व रेखांश"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 18,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावर रेषेत दाखवलेली बाब कोणती?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "शहर", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "नदी", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "राज्य", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "देश", "योग्य": false }
-    ],
-    "उत्तर": "नदी"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 19,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "रेषीय बाबींच्या मोजमापासाठी काय वापरले जाते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "क्षेत्रफळ", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "परिघ", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "अक्षांश-रेखांश", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "उंची", "योग्य": false }
-    ],
-    "उत्तर": "अक्षांश-रेखांश"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 20,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या देशाचा विस्तार उत्तर-दक्षिण कोणावर अवलंबून असतो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "रेखांश", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "अक्षांश", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "नदी", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "समुद्र", "योग्य": false }
-    ],
-    "उत्तर": "अक्षांश"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 21,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "देशाचा पूर्व–पश्चिम विस्तार कशामुळे ठरतो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "अक्षांश", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रेखांश", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "हवामान", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "लोकसंख्या", "योग्य": false }
-    ],
-    "उत्तर": "रेखांश"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 22,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नदीचा उगम कोणत्या बाबीत मोडतो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "क्षेत्रीय बाब", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रेषीय बाब", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "बिंदू बाब", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "घन बाब", "योग्य": false }
-    ],
-    "उत्तर": "रेषीय बाब"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 23,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "स्थान निश्चितीसाठी सर्वात उपयुक्त साधन कोणते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नकाशा", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "दिशादर्शक", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "वृत्तजाळी", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "मोजपट्टी", "योग्य": false }
-    ],
-    "उत्तर": "वृत्तजाळी"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 24,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या प्रदेशाचा विस्तार मोजताना कोणती दिशा वापरली जात नाही?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "उत्तर–दक्षिण", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "पूर्व–पश्चिम", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "वर–खाली", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "उत्तर–पश्चिम", "योग्य": false }
-    ],
-    "उत्तर": "वर–खाली"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 25,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "रेषीय बाबी नकाशावर कशा दाखवतात?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "बिंदूंनी", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "छायांनी", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "रेषांनी", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "चिन्हांनी", "योग्य": false }
-    ],
-    "उत्तर": "रेषांनी"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 26,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "प्रदेशाचा विस्तार मोजण्यामागील उद्देश काय?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "सौंदर्य दाखवणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "अचूक माहिती मिळवणे", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "नकाशा रंगवणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "तुलना टाळणे", "योग्य": false }
-    ],
-    "उत्तर": "अचूक माहिती मिळवणे"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 27,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या नदीचा विस्तार कोणत्या दोन टोकांवरून सांगितला जातो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "उंच व सपाट", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "डोंगर व मैदान", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "उगम व मुख", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "पूर्व व पश्चिम", "योग्य": false }
-    ],
-    "उत्तर": "उगम व मुख"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 28,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावर एखादे शहर कसे दर्शवले जाते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "रेषेने", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "बिंदूने", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "छायांनी", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "आकृतीने", "योग्य": false }
-    ],
-    "उत्तर": "बिंदूने"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 29,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "क्षेत्रीय बाब कोणती?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नदी", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रस्ता", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "राज्य", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "कालवा", "योग्य": false }
-    ],
-    "उत्तर": "राज्य"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 30,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "स्थान निश्चितीमध्ये अंश, मिनिट व सेकंद कशासाठी वापरतात?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "वेळ मोजण्यासाठी", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "कोन मोजण्यासाठी", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "अंतर मोजण्यासाठी", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "उंची मोजण्यासाठी", "योग्य": false }
-    ],
-    "उत्तर": "कोन मोजण्यासाठी"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 31,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावर क्षेत्रफळ दाखवणारी बाब कोणती?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नदी", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रस्ता", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "राज्य", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "सीमा", "योग्य": false }
-    ],
-    "उत्तर": "राज्य"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 32,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "स्थान निश्चितीची पद्धत का आवश्यक आहे?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नकाशा सुंदर दिसावा म्हणून", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "अचूक माहिती मिळण्यासाठी", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "वेळ वाचवण्यासाठी", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "रंग भरण्यासाठी", "योग्य": false }
-    ],
-    "उत्तर": "अचूक माहिती मिळण्यासाठी"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 33,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "प्रदेशाच्या विस्ताराचे मोजमाप कोणत्या दोन दिशांनी केले जाते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "वर–खाली", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "उत्तर–दक्षिण व पूर्व–पश्चिम", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "ईशान्य–दक्षिण", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "फक्त पूर्व", "योग्य": false }
-    ],
-    "उत्तर": "उत्तर–दक्षिण व पूर्व–पश्चिम"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 34,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावर बिंदूने कोणती बाब दर्शवली जाते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नदी", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रस्ता", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "शहर", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "राज्य", "योग्य": false }
-    ],
-    "उत्तर": "शहर"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 35,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "रेषीय बाबी कोणत्या स्वरूपात दाखवतात?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "बिंदू", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रेषा", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "छाया", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "आकृती", "योग्य": false }
-    ],
-    "उत्तर": "रेषा"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 36,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या नदीचा विस्तार सांगताना कोणती माहिती दिली जाते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "लांबी", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "उगम व मुखाचे स्थान", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "पाणीप्रमाण", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "खोली", "योग्य": false }
-    ],
-    "उत्तर": "उगम व मुखाचे स्थान"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 37,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या देशाच्या विस्तारात कोणता घटक येत नाही?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "अक्षांश", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रेखांश", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "हवामान", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "दिशा", "योग्य": false }
-    ],
-    "उत्तर": "हवामान"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 38,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावरील काल्पनिक रेषांचा उपयोग काय?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "सजावट", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "स्थान निश्चिती", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "रंग भरणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "मोजपट्टी", "योग्य": false }
-    ],
-    "उत्तर": "स्थान निश्चिती"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 39,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "अक्षवृत्त व रेखावृत्त यांचा एकत्रित वापर कशासाठी होतो?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "हवामान अभ्यास", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "लोकसंख्या अभ्यास", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "स्थान निश्चिती", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "उंची मोजणी", "योग्य": false }
-    ],
-    "उत्तर": "स्थान निश्चिती"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 40,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "प्रदेशाचा विस्तार सांगताना दिशा का महत्त्वाची असते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नकाशा सुंदर दिसतो", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "अचूक तुलना करता येते", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "रंग वेगळे करता येतात", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "वेळ वाचतो", "योग्य": false }
-    ],
-    "उत्तर": "अचूक तुलना करता येते"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 41,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावर देश दाखवण्यासाठी कोणती बाब वापरतात?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "रेषीय", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "बिंदू", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "क्षेत्रीय", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "घन", "योग्य": false }
-    ],
-    "उत्तर": "क्षेत्रीय"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 42,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या प्रदेशाचा विस्तार सांगताना ‘उत्तर’ दिशा कोणत्या अक्षांशाशी संबंधित असते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "दक्षिण अक्षांश", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "उत्तर अक्षांश", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "पूर्व रेखांश", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "पश्चिम रेखांश", "योग्य": false }
-    ],
-    "उत्तर": "उत्तर अक्षांश"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 43,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "प्रदेशाचा विस्तार मोजताना अचूकता कशावर अवलंबून असते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "रंगावर", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "चिन्हांवर", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "अक्षांश-रेखांशावर", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "कागदावर", "योग्य": false }
-    ],
-    "उत्तर": "अक्षांश-रेखांशावर"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 44,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावर नदी दाखवताना कोणती पद्धत वापरतात?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "बिंदू", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "रेषा", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "छाया", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "आकृती", "योग्य": false }
-    ],
-    "उत्तर": "रेषा"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 45,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या ठिकाणाचा विस्तार सांगण्यासाठी कोणती पद्धत योग्य आहे?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नाव सांगणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "फक्त दिशा सांगणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "अक्षांश-रेखांश वापरणे", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "रंग वापरणे", "योग्य": false }
-    ],
-    "उत्तर": "अक्षांश-रेखांश वापरणे"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 46,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "प्रदेशाचा विस्तार सांगताना टोकांवरील स्थान का वापरले जाते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "सोपे असते", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "अचूक मोजमाप मिळते", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "वेळ वाचतो", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "नकाशा सुंदर दिसतो", "योग्य": false }
-    ],
-    "उत्तर": "अचूक मोजमाप मिळते"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 47,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या नदीचा विस्तार सांगताना कोणत्या दोन बाबी आवश्यक आहेत?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "रंग व चिन्ह", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "नाव व लांबी", "योग्य": false },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "उगम व मुख", "योग्य": true },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "खोली व रुंदी", "योग्य": false }
-    ],
-    "उत्तर": "उगम व मुख"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 48,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "नकाशावरील माहिती अचूक करण्यासाठी काय महत्त्वाचे आहे?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "रंगसंगती", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "अक्षांश-रेखांश", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "चित्रे", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "शीर्षक", "योग्य": false }
-    ],
-    "उत्तर": "अक्षांश-रेखांश"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 49,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "एखाद्या प्रदेशाचा विस्तार समजल्याने काय सोपे होते?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "चित्र काढणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "भौगोलिक तुलना करणे", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "रंग भरणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "नाव लक्षात ठेवणे", "योग्य": false }
-    ],
-    "उत्तर": "भौगोलिक तुलना करणे"
-  },
-
-  {
-    "प्रश्न_क्रमांक": 50,
-    "प्रश्न_प्रकार": "बहुपर्यायी",
-    "प्रश्न": "‘चला, वृत्ते वापरूयात!’ या धड्यात मुख्यत्वे कशावर भर दिला आहे?",
-    "पर्याय": [
-      { "पर्याय_क्रमांक": 1, "मजकूर": "नकाशा रंगवणे", "योग्य": false },
-      { "पर्याय_क्रमांक": 2, "मजकूर": "स्थान व विस्तार समजून घेणे", "योग्य": true },
-      { "पर्याय_क्रमांक": 3, "मजकूर": "हवामान अभ्यास", "योग्य": false },
-      { "पर्याय_क्रमांक": 4, "मजकूर": "लोकसंख्या अभ्यास", "योग्य": false }
-    ],
-    "उत्तर": "स्थान व विस्तार समजून घेणे"
-  }
-]
-[
-  {
-    "प्रश्न_क्रमांक": 51,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्तजाळी म्हणजे काय?",
-    "उत्तर": "अक्षवृत्ते व रेखावृत्ते यांच्या साहाय्याने तयार होणाऱ्या काल्पनिक रेषांच्या जाळ्याला वृत्तजाळी म्हणतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 52,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "स्थान निश्चिती म्हणजे काय?",
-    "उत्तर": "एखाद्या ठिकाणाचे अचूक भौगोलिक स्थान सांगण्याच्या प्रक्रियेला स्थान निश्चिती म्हणतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 53,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अक्षवृत्तांचा उपयोग काय आहे?",
-    "उत्तर": "उत्तर–दक्षिण दिशेतील स्थान व विस्तार दर्शवण्यासाठी अक्षवृत्तांचा उपयोग होतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 54,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेखावृत्तांचा उपयोग काय आहे?",
-    "उत्तर": "पूर्व–पश्चिम दिशेतील स्थान व विस्तार दर्शवण्यासाठी रेखावृत्तांचा उपयोग होतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 55,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "एखाद्या देशाचा विस्तार कसा सांगितला जातो?",
-    "उत्तर": "देशाच्या टोकांवरील अक्षवृत्ते व रेखावृत्तांच्या आधारे त्याचा विस्तार सांगितला जातो."
-  },
-  {
-    "प्रश्न_क्रमांक": 56,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेषीय बाब म्हणजे काय?",
-    "उत्तर": "नकाशावर रेषेच्या स्वरूपात दर्शविलेल्या बाबींना रेषीय बाब म्हणतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 57,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नदी ही रेषीय बाब का आहे?",
-    "उत्तर": "नदी उगमापासून मुखापर्यंत रेषेप्रमाणे दाखवली जाते म्हणून ती रेषीय बाब आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 58,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेषीय बाबींचा विस्तार कसा दर्शवतात?",
-    "उत्तर": "रेषीय बाबींचा विस्तार सुरुवातीच्या व शेवटच्या स्थानावरून दर्शवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 59,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "एखाद्या नदीचा विस्तार सांगताना कोणती ठिकाणे वापरतात?",
-    "उत्तर": "नदीचा उगम व मुख या ठिकाणांचा वापर केला जातो."
-  },
-  {
-    "प्रश्न_क्रमांक": 60,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा विस्तार कोणत्या दिशांनी सांगतात?",
-    "उत्तर": "प्रदेशाचा विस्तार उत्तर–दक्षिण व पूर्व–पश्चिम दिशांनी सांगतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 61,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "एखाद्या शहराचे स्थान कसे ठरवले जाते?",
-    "उत्तर": "शहराचे स्थान त्याच्या अक्षांश व रेखांशांच्या आधारे ठरवले जाते."
-  },
-  {
-    "प्रश्न_क्रमांक": 62,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाच्या विस्तारात दिशा का महत्त्वाची आहे?",
-    "उत्तर": "दिशांमुळे प्रदेशाचा खरा आकार व विस्तार समजण्यास मदत होते."
-  },
-  {
-    "प्रश्न_क्रमांक": 63,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर बिंदू बाब म्हणजे काय?",
-    "उत्तर": "नकाशावर बिंदूच्या स्वरूपात दर्शविलेल्या बाबींना बिंदू बाब म्हणतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 64,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "शहर ही कोणत्या प्रकारची बाब आहे?",
-    "उत्तर": "शहर ही बिंदू बाब आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 65,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "क्षेत्रीय बाब म्हणजे काय?",
-    "उत्तर": "नकाशावर क्षेत्रफळासह दर्शविलेल्या बाबींना क्षेत्रीय बाब म्हणतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 66,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "राज्य ही क्षेत्रीय बाब का आहे?",
-    "उत्तर": "राज्य नकाशावर निश्चित क्षेत्रफळासह दाखवले जाते म्हणून ते क्षेत्रीय बाब आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 67,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अंश, मिनिट व सेकंद कशासाठी वापरतात?",
-    "उत्तर": "अक्षांश व रेखांश अधिक अचूक मोजण्यासाठी अंश, मिनिट व सेकंद वापरतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 68,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "स्थान निश्चितीची पद्धत का आवश्यक आहे?",
-    "उत्तर": "एखाद्या ठिकाणाची अचूक माहिती मिळवण्यासाठी स्थान निश्चितीची पद्धत आवश्यक आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 69,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्तजाळीशिवाय स्थान निश्चित करता येईल का?",
-    "उत्तर": "नाही, वृत्तजाळीशिवाय अचूक स्थान निश्चित करता येत नाही."
-  },
-  {
-    "प्रश्न_क्रमांक": 70,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर माहिती अचूक का असावी?",
-    "उत्तर": "अचूक माहितीमुळे योग्य अभ्यास व तुलना करणे सोपे होते."
-  },
-
-  [
-  {
-    "प्रश्न_क्रमांक": 71,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर दिशा कशा दर्शवतात?",
-    "उत्तर": "नकाशावर उत्तर, दक्षिण, पूर्व व पश्चिम या मुख्य दिशांनी दिशा दर्शवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 72,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "उत्तर दिशा ओळखण्यासाठी काय वापरतात?",
-    "उत्तर": "दिशादर्शक किंवा उत्तर बाण वापरून उत्तर दिशा ओळखतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 73,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा विस्तार म्हणजे काय?",
-    "उत्तर": "एखाद्या प्रदेशाचा पसरलेला भाग म्हणजे त्या प्रदेशाचा विस्तार होय."
-  },
-  {
-    "प्रश्न_क्रमांक": 74,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "भारताचा उत्तर–दक्षिण विस्तार कसा सांगतात?",
-    "उत्तर": "भारताच्या उत्तरेकडील व दक्षिणेकडील टोकांच्या अक्षांशांच्या आधारे विस्तार सांगतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 75,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "भारताचा पूर्व–पश्चिम विस्तार कसा सांगतात?",
-    "उत्तर": "भारताच्या पूर्वेकडील व पश्चिमेकडील टोकांच्या रेखांशांच्या आधारे विस्तार सांगतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 76,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर एखादे शहर कसे दाखवतात?",
-    "उत्तर": "नकाशावर शहर बिंदूच्या स्वरूपात दाखवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 77,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेल्वेमार्ग कोणत्या प्रकारची बाब आहे?",
-    "उत्तर": "रेल्वेमार्ग ही रेषीय बाब आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 78,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "समुद्र कोणत्या प्रकारची बाब आहे?",
-    "उत्तर": "समुद्र ही क्षेत्रीय बाब आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 79,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "बिंदू बाबींचे उदाहरण सांगा.",
-    "उत्तर": "शहर, गाव, बंदर ही बिंदू बाबींची उदाहरणे आहेत."
-  },
-  {
-    "प्रश्न_क्रमांक": 80,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "क्षेत्रीय बाबींचे उदाहरण सांगा.",
-    "उत्तर": "राज्य, देश, खंड ही क्षेत्रीय बाबींची उदाहरणे आहेत."
-  },
-  {
-    "प्रश्न_क्रमांक": 81,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेषीय बाबींचे उदाहरण सांगा.",
-    "उत्तर": "नदी, रस्ता, रेल्वेमार्ग ही रेषीय बाबींची उदाहरणे आहेत."
-  },
-  {
-    "प्रश्न_क्रमांक": 82,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर मोजमाप अचूक का असावे?",
-    "उत्तर": "अचूक मोजमापामुळे अंतर व स्थान योग्यरीत्या समजते."
-  },
-  {
-    "प्रश्न_क्रमांक": 83,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अक्षवृत्ते व रेखावृत्ते काल्पनिक का म्हणतात?",
-    "उत्तर": "त्या प्रत्यक्ष पृथ्वीवर नसून मोजमापासाठी कल्पनेने काढलेल्या असतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 84,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर स्थान निश्चित करताना काय आवश्यक आहे?",
-    "उत्तर": "नकाशावर स्थान निश्चित करताना अक्षांश व रेखांश आवश्यक असतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 85,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा आकार समजण्यासाठी काय उपयोगी ठरते?",
-    "उत्तर": "प्रदेशाचा विस्तार व दिशा यामुळे आकार समजतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 86,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अक्षांशामुळे काय कळते?",
-    "उत्तर": "एखादे ठिकाण विषुववृत्ताच्या किती उत्तर किंवा दक्षिण आहे हे कळते."
-  },
-  {
-    "प्रश्न_क्रमांक": 87,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेखांशामुळे काय कळते?",
-    "उत्तर": "एखादे ठिकाण मूळ रेखावृत्ताच्या किती पूर्व किंवा पश्चिम आहे हे कळते."
-  },
-  {
-    "प्रश्न_क्रमांक": 88,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर माहिती क्रमबद्ध का असते?",
-    "उत्तर": "माहिती सहज समजण्यासाठी व तुलना करण्यासाठी ती क्रमबद्ध असते."
-  },
-  {
-    "प्रश्न_क्रमांक": 89,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा विस्तार मोजण्याचा फायदा काय?",
-    "उत्तर": "प्रदेशाचा खरा आकार व सीमा समजण्यास मदत होते."
-  },
-  {
-    "प्रश्न_क्रमांक": 90,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर मोजमाप करताना दिशांचा वापर का करतात?",
-    "उत्तर": "योग्य स्थान व विस्तार ठरवण्यासाठी दिशांचा वापर करतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 91,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अक्षांश–रेखांश पद्धत कोणी वापरते?",
-    "उत्तर": "भूगोलतज्ज्ञ, प्रवासी व नकाशाशास्त्रज्ञ ही पद्धत वापरतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 92,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "शालेय नकाशात वृत्तजाळी का दाखवतात?",
-    "उत्तर": "विद्यार्थ्यांना स्थान निश्चिती समजण्यासाठी वृत्तजाळी दाखवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 93,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशाशिवाय विस्तार सांगता येईल का?",
-    "उत्तर": "नाही, नकाशाशिवाय अचूक विस्तार सांगता येत नाही."
-  },
-  {
-    "प्रश्न_क्रमांक": 94,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाची तुलना कशी करतात?",
-    "उत्तर": "प्रदेशाचा विस्तार, दिशा व आकार यांच्या आधारे तुलना करतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 95,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर रंगांचा उपयोग का करतात?",
-    "उत्तर": "विविध बाबी ओळखण्यासाठी रंगांचा उपयोग करतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 96,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर माहिती का संक्षिप्त असते?",
-    "उत्तर": "नकाशा सोपा व वाचनीय ठेवण्यासाठी माहिती संक्षिप्त असते."
-  },
-  {
-    "प्रश्न_क्रमांक": 97,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा अभ्यास करण्यासाठी नकाशा उपयुक्त का आहे?",
-    "उत्तर": "नकाशामुळे प्रदेशाचा आकार, विस्तार व स्थान समजते."
-  },
-  {
-    "प्रश्न_क्रमांक": 98,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर सीमा कशा दाखवतात?",
-    "उत्तर": "सीमा रेषांच्या स्वरूपात दाखवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 99,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "भूगोलाच्या अभ्यासात वृत्ते का महत्त्वाची आहेत?",
-    "उत्तर": "वृत्तांमुळे स्थान, दिशा व विस्तार अचूकपणे समजतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 100,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "या धड्याचा मुख्य उपयोग काय आहे?",
-    "उत्तर": "नकाशावर स्थान व विस्तार अचूकपणे ठरवण्याची क्षमता विकसित करणे हा मुख्य उपयोग आहे."
-  },
-
-  [
-  {
-    "प्रश्न_क्रमांक": 101,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर स्थान निश्चितीचे महत्त्व काय आहे?",
-    "उत्तर": "नकाशावर स्थान निश्चितीमुळे एखाद्या ठिकाणाचे अचूक स्थान समजते."
-  },
-  {
-    "प्रश्न_क्रमांक": 102,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्तजाळीचा वापर कशासाठी केला जातो?",
-    "उत्तर": "वृत्तजाळीचा वापर पृथ्वीवरील स्थान व विस्तार ठरवण्यासाठी केला जातो."
-  },
-  {
-    "प्रश्न_क्रमांक": 103,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अक्षवृत्ते कोणत्या दिशेला समांतर असतात?",
-    "उत्तर": "अक्षवृत्ते पूर्व–पश्चिम दिशेला समांतर असतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 104,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेखावृत्ते कोणत्या दिशेला असतात?",
-    "उत्तर": "रेखावृत्ते उत्तर–दक्षिण दिशेला असतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 105,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा विस्तार मोजताना काय लक्षात घेतले जाते?",
-    "उत्तर": "प्रदेशाच्या टोकांची दिशा व त्यांचे अक्षांश-रेखांश लक्षात घेतले जातात."
-  },
-  {
-    "प्रश्न_क्रमांक": 106,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर माहिती का अचूक असावी?",
-    "उत्तर": "अचूक माहितीमुळे नकाशाचा योग्य वापर करता येतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 107,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेषीय बाबींचा अभ्यास कशासाठी उपयुक्त आहे?",
-    "उत्तर": "रेषीय बाबींच्या अभ्यासामुळे मार्ग व दिशा समजतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 108,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "क्षेत्रीय बाबींचा विस्तार कसा दाखवतात?",
-    "उत्तर": "क्षेत्रीय बाबी निश्चित सीमारेषांनी दाखवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 109,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "बिंदू बाबी का लहान स्वरूपात दाखवतात?",
-    "उत्तर": "बिंदू बाबींचे क्षेत्रफळ कमी असल्यामुळे त्या लहान स्वरूपात दाखवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 110,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर दिशांचा अभ्यास का आवश्यक आहे?",
-    "उत्तर": "दिशांचा अभ्यास केल्याने स्थान व विस्तार समजणे सोपे होते."
-  },
-  {
-    "प्रश्न_क्रमांक": 111,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशा व पृथ्वीगोल यामध्ये काय साम्य आहे?",
-    "उत्तर": "दोन्हीवर पृथ्वीचे भौगोलिक घटक दर्शविलेले असतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 112,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "स्थान ठरवताना अंश का वापरतात?",
-    "उत्तर": "स्थान अधिक अचूकपणे ठरवण्यासाठी अंश वापरतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 113,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर अंतर कसे समजते?",
-    "उत्तर": "नकाशावरील प्रमाणाच्या साहाय्याने अंतर समजते."
-  },
-  {
-    "प्रश्न_क्रमांक": 114,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा आकार कशामुळे बदलतो?",
-    "उत्तर": "प्रदेशाच्या सीमारेषा व विस्तारामुळे त्याचा आकार बदलतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 115,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावाचनात वृत्ते का महत्त्वाची आहेत?",
-    "उत्तर": "वृत्तांमुळे नकाशावाचन अचूक व सोपे होते."
-  },
-  {
-    "प्रश्न_क्रमांक": 116,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "रेखावृत्तांच्या मदतीने काय ठरवता येते?",
-    "उत्तर": "रेखावृत्तांच्या मदतीने पूर्व–पश्चिम स्थान ठरवता येते."
-  },
-  {
-    "प्रश्न_क्रमांक": 117,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अक्षवृत्तांच्या मदतीने काय ठरवता येते?",
-    "उत्तर": "अक्षवृत्तांच्या मदतीने उत्तर–दक्षिण स्थान ठरवता येते."
-  },
-  {
-    "प्रश्न_क्रमांक": 118,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावरील माहिती का चिन्हांच्या स्वरूपात असते?",
-    "उत्तर": "माहिती सोपी व समजण्यास सुलभ व्हावी म्हणून चिन्हे वापरतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 119,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "भूगोलाच्या अभ्यासात नकाशाचे महत्त्व काय?",
-    "उत्तर": "नकाशामुळे पृथ्वीवरील विविध घटकांचा अभ्यास सोपा होतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 120,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाची तुलना कशाच्या आधारे करतात?",
-    "उत्तर": "प्रदेशाची तुलना विस्तार, आकार व स्थान यांच्या आधारे करतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 121,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर सीमा रेषा का दर्शवतात?",
-    "उत्तर": "प्रदेश वेगळा ओळखण्यासाठी सीमा रेषा दर्शवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 122,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्तांचा अभ्यास केल्याने काय फायदा होतो?",
-    "उत्तर": "वृत्तांचा अभ्यास केल्याने अचूक स्थान निश्चित करता येते."
-  },
-  {
-    "प्रश्न_क्रमांक": 123,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावरील माहिती का मर्यादित असते?",
-    "उत्तर": "नकाशा स्पष्ट ठेवण्यासाठी माहिती मर्यादित असते."
-  },
-  {
-    "प्रश्न_क्रमांक": 124,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावाचन कौशल्य का आवश्यक आहे?",
-    "उत्तर": "नकाशातील माहिती योग्यरीत्या समजण्यासाठी नकाशावाचन कौशल्य आवश्यक आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 125,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "स्थान निश्चितीशिवाय अभ्यास अपूर्ण का राहतो?",
-    "उत्तर": "स्थान माहित नसल्यास भौगोलिक माहिती अचूक समजत नाही."
-  },
-  {
-    "प्रश्न_क्रमांक": 126,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "प्रदेशाचा विस्तार कळल्याने काय समजते?",
-    "उत्तर": "प्रदेश किती मोठा किंवा लहान आहे हे समजते."
-  },
-  {
-    "प्रश्न_क्रमांक": 127,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर माहिती कशी मांडलेली असते?",
-    "उत्तर": "नकाशावर माहिती चिन्हे, रंग व रेषांद्वारे मांडलेली असते."
-  },
-  {
-    "प्रश्न_क्रमांक": 128,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्ते वापरणे का आवश्यक आहे?",
-    "उत्तर": "अचूक स्थान व विस्तार समजण्यासाठी वृत्ते वापरणे आवश्यक आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 129,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशाशास्त्र म्हणजे काय?",
-    "उत्तर": "नकाशा तयार करणे व वाचण्याच्या शास्त्राला नकाशाशास्त्र म्हणतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 130,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "भूगोल अभ्यासात दिशा का महत्त्वाच्या आहेत?",
-    "उत्तर": "दिशांमुळे प्रदेशाचा विस्तार व स्थान समजते."
-  },
-  {
-    "प्रश्न_क्रमांक": 131,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर प्रमाण का दिलेले असते?",
-    "उत्तर": "खरे अंतर समजण्यासाठी नकाशावर प्रमाण दिलेले असते."
-  },
-  {
-    "प्रश्न_क्रमांक": 132,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशा अपूर्ण कधी ठरतो?",
-    "उत्तर": "दिशा, प्रमाण किंवा चिन्हे नसल्यास नकाशा अपूर्ण ठरतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 133,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "अचूक नकाशाचा उपयोग कशासाठी होतो?",
-    "उत्तर": "अचूक नकाशाचा उपयोग अभ्यास, प्रवास व नियोजनासाठी होतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 134,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर कोणती माहिती दाखवत नाहीत?",
-    "उत्तर": "अनावश्यक व तपशीलवार माहिती नकाशावर दाखवत नाहीत."
-  },
-  {
-    "प्रश्न_क्रमांक": 135,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्तांचा उपयोग कोणत्या अभ्यासात होतो?",
-    "उत्तर": "भूगोल व नकाशावाचनाच्या अभ्यासात वृत्तांचा उपयोग होतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 136,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर माहिती व्यवस्थित कशी ठेवतात?",
-    "उत्तर": "माहिती योग्य चिन्हे व क्रमाने ठेवतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 137,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशाचा अभ्यास का सोपा वाटतो?",
-    "उत्तर": "नकाशावरील दृश्य मांडणीमुळे अभ्यास सोपा वाटतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 138,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर स्थान ओळखण्यासाठी काय गरजेचे आहे?",
-    "उत्तर": "नकाशावर अक्षांश व रेखांश गरजेचे आहेत."
-  },
-  {
-    "प्रश्न_क्रमांक": 139,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्तजाळीमुळे कोणती अचूकता मिळते?",
-    "उत्तर": "वृत्तजाळीमुळे स्थानाची अचूकता मिळते."
-  },
-  {
-    "प्रश्न_क्रमांक": 140,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर अभ्यास करताना काय लक्षात ठेवावे?",
-    "उत्तर": "दिशा, प्रमाण व चिन्हे लक्षात ठेवावीत."
-  },
-  {
-    "प्रश्न_क्रमांक": 141,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर प्रदेश स्पष्ट कसा दिसतो?",
-    "उत्तर": "सीमारेषा व रंगांमुळे प्रदेश स्पष्ट दिसतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 142,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावाचन ही कौशल्य का आहे?",
-    "उत्तर": "नकाशातील माहिती समजून घेण्यासाठी कौशल्य लागते."
-  },
-  {
-    "प्रश्न_क्रमांक": 143,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "भूगोल अभ्यासात नकाशाचा उपयोग कधी होतो?",
-    "उत्तर": "प्रदेशाचा अभ्यास करताना नकाशाचा उपयोग होतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 144,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्तांशिवाय अभ्यासात कोणती अडचण येते?",
-    "उत्तर": "स्थान अचूकपणे निश्चित करता येत नाही."
-  },
-  {
-    "प्रश्न_क्रमांक": 145,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर स्थान ओळखणे सोपे कशामुळे होते?",
-    "उत्तर": "वृत्तजाळीमुळे स्थान ओळखणे सोपे होते."
-  },
-  {
-    "प्रश्न_क्रमांक": 146,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "भूगोल अभ्यासात अचूकता का महत्त्वाची आहे?",
-    "उत्तर": "अचूकतेमुळे माहिती विश्वासार्ह ठरते."
-  },
-  {
-    "प्रश्न_क्रमांक": 147,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावरील माहितीचे विश्लेषण का करतात?",
-    "उत्तर": "प्रदेशाची वैशिष्ट्ये समजण्यासाठी विश्लेषण करतात."
-  },
-  {
-    "प्रश्न_क्रमांक": 148,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "वृत्ते वापरण्याचा फायदा काय आहे?",
-    "उत्तर": "वृत्ते वापरल्याने अचूक स्थान व विस्तार समजतो."
-  },
-  {
-    "प्रश्न_क्रमांक": 149,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "नकाशावर अभ्यास करताना संयम का आवश्यक आहे?",
-    "उत्तर": "नकाशावरील माहिती नीट समजण्यासाठी संयम आवश्यक आहे."
-  },
-  {
-    "प्रश्न_क्रमांक": 150,
-    "प्रश्न_प्रकार": "लघुउत्तरी",
-    "प्रश्न": "‘चला, वृत्ते वापरूयात!’ या धड्याचा मुख्य उद्देश काय आहे?",
-    "उत्तर": "वृत्तांच्या साहाय्याने स्थान व विस्तार अचूकपणे समजावून सांगणे हा मुख्य उद्देश आहे."
-  }
-]
-
-
-]
-
+}

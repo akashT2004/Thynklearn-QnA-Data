@@ -1,0 +1,458 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.हिंदी.04",
+    "class": "6",
+    "subject": "हिंदी",
+    "chapter_name": "(अ) क्या तुम जानते हो? (ब) पहेलियाँ",
+    "author": "संकलित"
+  },
+  "multiple_choice_questions": [
+    {
+      "question_id": 1,
+      "question": "विश्व का प्रथम विश्वविद्यालय कौन-सा है?",
+      "options": [
+        { "text": "नालंदा", "is_correct": false },
+        { "text": "तक्षशिला", "is_correct": true },
+        { "text": "ऑक्सफोर्ड", "is_correct": false },
+        { "text": "कैंब्रिज", "is_correct": false }
+      ],
+      "answer": "तक्षशिला"
+    },
+    {
+      "question_id": 2,
+      "question": "अंतरराष्ट्रीय महिला दिवस कब मनाया जाता है?",
+      "options": [
+        { "text": "५ जून", "is_correct": false },
+        { "text": "२ अक्टूबर", "is_correct": false },
+        { "text": "८ मार्च", "is_correct": true },
+        { "text": "१४ नवंबर", "is_correct": false }
+      ],
+      "answer": "८ मार्च"
+    },
+    {
+      "question_id": 3,
+      "question": "विश्व का सबसे बड़ा जीव कौन-सा है?",
+      "options": [
+        { "text": "हाथी", "is_correct": false },
+        { "text": "ब्लू व्हेल", "is_correct": true },
+        { "text": "जिराफ", "is_correct": false },
+        { "text": "डायनासोर", "is_correct": false }
+      ],
+      "answer": "ब्लू व्हेल"
+    },
+    {
+      "question_id": 4,
+      "question": "किस ग्रह को 'भोर का तारा' कहते हैं?",
+      "options": [
+        { "text": "मंगल", "is_correct": false },
+        { "text": "बुध", "is_correct": false },
+        { "text": "शुक्र", "is_correct": true },
+        { "text": "शनि", "is_correct": false }
+      ],
+      "answer": "शुक्र"
+    },
+    {
+      "question_id": 5,
+      "question": "भारत का राष्ट्रीय मानक समय किस शहर में माना जाता है?",
+      "options": [
+        { "text": "दिल्ली", "is_correct": false },
+        { "text": "मुंबई", "is_correct": false },
+        { "text": "इलाहाबाद (प्रयागराज)", "is_correct": true },
+        { "text": "कोलकाता", "is_correct": false }
+      ],
+      "answer": "इलाहाबाद (प्रयागराज)"
+    },
+    {
+      "question_id": 6,
+      "question": "भूभाग की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+      "options": [
+        { "text": "महाराष्ट्र", "is_correct": false },
+        { "text": "उत्तर प्रदेश", "is_correct": false },
+        { "text": "राजस्थान", "is_correct": true },
+        { "text": "मध्य प्रदेश", "is_correct": false }
+      ],
+      "answer": "राजस्थान"
+    },
+    {
+      "question_id": 7,
+      "question": "भूभाग की दृष्टि से भारत का सबसे छोटा राज्य कौन-सा है?",
+      "options": [
+        { "text": "सिक्किम", "is_correct": false },
+        { "text": "गोवा", "is_correct": true },
+        { "text": "त्रिपुरा", "is_correct": false },
+        { "text": "केरल", "is_correct": false }
+      ],
+      "answer": "गोवा"
+    },
+    {
+      "question_id": 8,
+      "question": "विश्व में सबसे ऊँचाई पर कौन-सी सड़क है?",
+      "options": [
+        { "text": "लेह-मनाली मार्ग", "is_correct": true },
+        { "text": "मुंबई-पुणे एक्सप्रेसवे", "is_correct": false },
+        { "text": "काराकोरम हाईवे", "is_correct": false },
+        { "text": "ग्रैंड ट्रंक रोड", "is_correct": false }
+      ],
+      "answer": "लेह-मनाली मार्ग"
+    },
+    {
+      "question_id": 9,
+      "question": "वर्षा ऋतु का गायक किसे कहा गया है?",
+      "options": [
+        { "text": "कोयल", "is_correct": false },
+        { "text": "मेंढक", "is_correct": true },
+        { "text": "मोर", "is_correct": false },
+        { "text": "चातक", "is_correct": false }
+      ],
+      "answer": "मेंढक"
+    },
+    {
+      "question_id": 10,
+      "question": "मेंढक कैसे आवाज करता है?",
+      "options": [
+        { "text": "चीं-चीं", "is_correct": false },
+        { "text": "टर्र-टर्र", "is_correct": true },
+        { "text": "काँव-काँव", "is_correct": false },
+        { "text": "कुहू-कुहू", "is_correct": false }
+      ],
+      "answer": "टर्र-टर्र"
+    },
+    {
+      "question_id": 11,
+      "question": "कौन जल और थल दोनों में रहता है?",
+      "options": [
+        { "text": "मछली", "is_correct": false },
+        { "text": "मेंढक", "is_correct": true },
+        { "text": "चिड़िया", "is_correct": false },
+        { "text": "शेर", "is_correct": false }
+      ],
+      "answer": "मेंढक"
+    },
+    {
+      "question_id": 12,
+      "question": "मिट्टी, धूप और हवा से भोजन कौन लेता है?",
+      "options": [
+        { "text": "मनुष्य", "is_correct": false },
+        { "text": "पशु", "is_correct": false },
+        { "text": "पेड़", "is_correct": true },
+        { "text": "पत्थर", "is_correct": false }
+      ],
+      "answer": "पेड़"
+    },
+    {
+      "question_id": 13,
+      "question": "पेड़ हमें छाया के साथ और क्या देता है?",
+      "options": [
+        { "text": "भोजन", "is_correct": false },
+        { "text": "प्राणवायु (ऑक्सीजन)", "is_correct": true },
+        { "text": "मिट्टी", "is_correct": false },
+        { "text": "धूप", "is_correct": false }
+      ],
+      "answer": "प्राणवायु (ऑक्सीजन)"
+    },
+    {
+      "question_id": 14,
+      "question": "इंद्रधनुष (अर्धचक्र) कहाँ दिखाई देता है?",
+      "options": [
+        { "text": "जमीन पर", "is_correct": false },
+        { "text": "नभ (आकाश) में", "is_correct": true },
+        { "text": "पानी में", "is_correct": false },
+        { "text": "जंगल में", "is_correct": false }
+      ],
+      "answer": "नभ (आकाश) में"
+    },
+    {
+      "question_id": 15,
+      "question": "इंद्रधनुष में कितने रंग होते हैं?",
+      "options": [
+        { "text": "पाँच", "is_correct": false },
+        { "text": "छह", "is_correct": false },
+        { "text": "सात", "is_correct": true },
+        { "text": "आठ", "is_correct": false }
+      ],
+      "answer": "सात"
+    },
+    {
+      "question_id": 16,
+      "question": "इंद्रधनुष का साथी कौन है?",
+      "options": [
+        { "text": "सूरज", "is_correct": false },
+        { "text": "बादल", "is_correct": true },
+        { "text": "तारा", "is_correct": false },
+        { "text": "पेड़", "is_correct": false }
+      ],
+      "answer": "बादल"
+    },
+    {
+      "question_id": 17,
+      "question": "नारंगी रंग किस फल का होता है?",
+      "options": [
+        { "text": "आम", "is_correct": false },
+        { "text": "संतरा", "is_correct": true },
+        { "text": "केला", "is_correct": false },
+        { "text": "सेब", "is_correct": false }
+      ],
+      "answer": "संतरा"
+    },
+    {
+      "question_id": 18,
+      "question": "पहेली 'टर्र-टर्र करता' का उत्तर क्या है?",
+      "options": [
+        { "text": "मछली", "is_correct": false },
+        { "text": "मेंढक", "is_correct": true },
+        { "text": "कछुआ", "is_correct": false },
+        { "text": "बत्तख", "is_correct": false }
+      ],
+      "answer": "मेंढक"
+    },
+    {
+      "question_id": 19,
+      "question": "विश्व का सबसे बड़ा जीव 'ब्लू व्हेल' कहाँ रहता है?",
+      "options": [
+        { "text": "नदी में", "is_correct": false },
+        { "text": "तालाब में", "is_correct": false },
+        { "text": "महासागर/समुद्र में", "is_correct": true },
+        { "text": "आकाश में", "is_correct": false }
+      ],
+      "answer": "महासागर"
+    },
+    {
+      "question_id": 20,
+      "question": "तक्षशिला विश्वविद्यालय वर्तमान में किस देश में स्थित है?",
+      "options": [
+        { "text": "भारत", "is_correct": false },
+        { "text": "चीन", "is_correct": false },
+        { "text": "पाकिस्तान", "is_correct": true },
+        { "text": "नेपाल", "is_correct": false }
+      ],
+      "answer": "पाकिस्तान"
+    },
+    {
+      "question_id": 21,
+      "question": "पहेली के अनुसार शांत और मनोहर कौन है?",
+      "options": [
+        { "text": "इंद्रधनुष", "is_correct": true },
+        { "text": "पेड़", "is_correct": false },
+        { "text": "मेंढक", "is_correct": false },
+        { "text": "हवा", "is_correct": false }
+      ],
+      "answer": "इंद्रधनुष"
+    },
+    {
+      "question_id": 22,
+      "question": "सतरंगी किसे कहा गया है?",
+      "options": [
+        { "text": "पतंग", "is_correct": false },
+        { "text": "इंद्रधनुष", "is_correct": true },
+        { "text": "बादल", "is_correct": false },
+        { "text": "तारा", "is_correct": false }
+      ],
+      "answer": "इंद्रधनुष"
+    },
+    {
+      "question_id": 23,
+      "question": "पेड़ प्रतिदिन क्या लेता है?",
+      "options": [
+        { "text": "आराम", "is_correct": false },
+        { "text": "भोजन (मिट्टी, धूप, हवा से)", "is_correct": true },
+        { "text": "नींद", "is_correct": false },
+        { "text": "सैर", "is_correct": false }
+      ],
+      "answer": "भोजन"
+    },
+    {
+      "question_id": 24,
+      "question": "शुक्र ग्रह को 'भोर का तारा' क्यों कहते हैं?",
+      "options": [
+        { "text": "क्योंकि यह सुबह चमकता है", "is_correct": true },
+        { "text": "क्योंकि यह लाल है", "is_correct": false },
+        { "text": "क्योंकि यह बहुत दूर है", "is_correct": false },
+        { "text": "क्योंकि इस पर जीवन है", "is_correct": false }
+      ],
+      "answer": "क्योंकि यह सुबह चमकता है"
+    },
+    {
+      "question_id": 25,
+      "question": "सड़क की सबसे अधिक ऊँचाई किस मार्ग पर है?",
+      "options": [
+        { "text": "लेह-लद्दाख", "is_correct": true },
+        { "text": "सिक्किम", "is_correct": false },
+        { "text": "हिमाचल", "is_correct": false },
+        { "text": "उत्तराखंड", "is_correct": false }
+      ],
+      "answer": "लेह-लद्दाख"
+    },
+    {
+      "question_id": 26,
+      "question": "मेंढक किस ऋतु में अधिक दिखाई देते हैं?",
+      "options": [
+        { "text": "ग्रीष्म", "is_correct": false },
+        { "text": "वर्षा", "is_correct": true },
+        { "text": "शरद", "is_correct": false },
+        { "text": "शिशिर", "is_correct": false }
+      ],
+      "answer": "वर्षा"
+    },
+    {
+      "question_id": 27,
+      "question": " 'थल' का अर्थ क्या है?",
+      "options": [
+        { "text": "पानी", "is_correct": false },
+        { "text": "आकाश", "is_correct": false },
+        { "text": "जमीन/भूमि", "is_correct": true },
+        { "text": "बादल", "is_correct": false }
+      ],
+      "answer": "भूमि"
+    },
+    {
+      "question_id": 28,
+      "question": " 'नभ' का पर्यायवाची शब्द क्या है?",
+      "options": [
+        { "text": "धरती", "is_correct": false },
+        { "text": "आकाश", "is_correct": true },
+        { "text": "सागर", "is_correct": false },
+        { "text": "पहाड़", "is_correct": false }
+      ],
+      "answer": "आकाश"
+    },
+    {
+      "question_id": 29,
+      "question": "इनमें से कौन सा जोड़ा सही है?",
+      "options": [
+        { "text": "सबसे बड़ा राज्य - गोवा", "is_correct": false },
+        { "text": "सबसे छोटा राज्य - राजस्थान", "is_correct": false },
+        { "text": "महिला दिवस - ८ मार्च", "is_correct": true },
+        { "text": "भोर का तारा - मंगल", "is_correct": false }
+      ],
+      "answer": "महिला दिवस - ८ मार्च"
+    },
+    {
+      "question_id": 30,
+      "question": "पेड़ हमें कौन-सी गैस देते हैं?",
+      "options": [
+        { "text": "कार्बन डाइऑक्साइड", "is_correct": false },
+        { "text": "नाइट्रोजन", "is_correct": false },
+        { "text": "प्राणवायु (ऑक्सीजन)", "is_correct": true },
+        { "text": "हीलियम", "is_correct": false }
+      ],
+      "answer": "प्राणवायु (ऑक्सीजन)"
+    },
+    {
+      "question_id": 31,
+      "question": "इंद्रधनुष का आकार कैसा होता है?",
+      "options": [
+        { "text": "सीधा", "is_correct": false },
+        { "text": "अर्धचक्र (आधा गोल)", "is_correct": true },
+        { "text": "त्रिकोण", "is_correct": false },
+        { "text": "चौकोर", "is_correct": false }
+      ],
+      "answer": "अर्धचक्र"
+    },
+    {
+      "question_id": 32,
+      "question": "मेंढक कैसे चलता है?",
+      "options": [
+        { "text": "रेंगकर", "is_correct": false },
+        { "text": "उड़कर", "is_correct": false },
+        { "text": "फुदक-फुदक कर", "is_correct": true },
+        { "text": "दौड़कर", "is_correct": false }
+      ],
+      "answer": "फुदक-फुदक कर"
+    },
+    {
+      "question_id": 33,
+      "question": "विश्वविद्यालय का अर्थ क्या है?",
+      "options": [
+        { "text": "प्राइमरी स्कूल", "is_correct": false },
+        { "text": "यूनिवर्सिटी", "is_correct": true },
+        { "text": "कॉलेज", "is_correct": false },
+        { "text": "लाइब्रेरी", "is_correct": false }
+      ],
+      "answer": "यूनिवर्सिटी"
+    },
+    {
+      "question_id": 34,
+      "question": "किस रंग का नाम फल के नाम पर है?",
+      "options": [
+        { "text": "लाल", "is_correct": false },
+        { "text": "नीला", "is_correct": false },
+        { "text": "नारंगी", "is_correct": true },
+        { "text": "काला", "is_correct": false }
+      ],
+      "answer": "नारंगी"
+    },
+    {
+      "question_id": 35,
+      "question": "भारत का राष्ट्रीय मानक समय कहाँ से लिया गया है?",
+      "options": [
+        { "text": "मिर्जापुर (इलाहाबाद के पास)", "is_correct": true },
+        { "text": "अहमदाबाद", "is_correct": false },
+        { "text": "श्रीनगर", "is_correct": false },
+        { "text": "चेन्नई", "is_correct": false }
+      ],
+      "answer": "मिर्जापुर"
+    }
+  ],
+  "short_answer_questions": [
+    { "question_id": 1, "question": "विश्व का प्रथम विश्वविद्यालय कौन-सा है?", "answer": "तक्षशिला विश्वविद्यालय विश्व का प्रथम विश्वविद्यालय है।" },
+    { "question_id": 2, "question": "अंतरराष्ट्रीय महिला दिवस कब मनाते हैं?", "answer": "अंतरराष्ट्रीय महिला दिवस प्रतिवर्ष ८ मार्च को मनाया जाता है।" },
+    { "question_id": 3, "question": "विश्व का सबसे बड़ा जीव कौन-सा है?", "answer": "ब्लू व्हेल विश्व का सबसे बड़ा जीव है।" },
+    { "question_id": 4, "question": "किस ग्रह को भोर का तारा कहा जाता है?", "answer": "शुक्र (Venus) ग्रह को भोर का तारा कहा जाता है।" },
+    { "question_id": 5, "question": "भारत का राष्ट्रीय मानक समय किस शहर से निर्धारित होता है?", "answer": "भारत का राष्ट्रीय मानक समय इलाहाबाद (प्रयागराज) के पास मिर्जापुर शहर से माना जाता है।" },
+    { "question_id": 6, "question": "भारत का सबसे बड़ा राज्य (क्षेत्रफल में) कौन-सा है?", "answer": "राजस्थान भारत का सबसे बड़ा राज्य है।" },
+    { "question_id": 7, "question": "भारत का सबसे छोटा राज्य कौन-सा है?", "answer": "गोवा भारत का सबसे छोटा राज्य है।" },
+    { "question_id": 8, "question": "विश्व की सबसे ऊँची सड़क कहाँ स्थित है?", "answer": "विश्व की सबसे ऊँची सड़क भारत में लेह-मनाली मार्ग पर स्थित है।" },
+    { "question_id": 9, "question": "वर्षा ऋतु का गायक किसे कहा गया है?", "answer": "मेंढक को वर्षा ऋतु का गायक कहा गया है।" },
+    { "question_id": 10, "question": "मेंढक कहाँ-कहाँ रह सकता है?", "answer": "मेंढक जल और थल (पानी और जमीन) दोनों जगहों पर रह सकता है।" },
+    { "question_id": 11, "question": "पेड़ अपना भोजन कैसे बनाते हैं?", "answer": "पेड़ मिट्टी, धूप और हवा की मदद से अपना भोजन बनाते हैं।" },
+    { "question_id": 12, "question": "पेड़ हमें छाया के अलावा और क्या महत्वपूर्ण वस्तु देते हैं?", "answer": "पेड़ हमें छाया के अलावा जीवन रक्षक प्राणवायु (ऑक्सीजन) देते हैं।" },
+    { "question_id": 13, "question": "इंद्रधनुष का आकार कैसा होता है?", "answer": "इंद्रधनुष का आकार अर्धचक्र जैसा होता है।" },
+    { "question_id": 14, "question": "इंद्रधनुष को सतरंगी क्यों कहते हैं?", "answer": "इंद्रधनुष को सतरंगी कहते हैं क्योंकि इसमें सात रंग होते हैं।" },
+    { "question_id": 15, "question": "नभ में बादल का संगी किसे बताया गया है?", "answer": "नभ में बादल का संगी इंद्रधनुष को बताया गया है।" },
+    { "question_id": 16, "question": "मेंढक की आवाज कैसी होती है?", "answer": "मेंढक की आवाज टर्र-टर्र होती है।" },
+    { "question_id": 17, "question": "कौन सा रंग एक फल के नाम पर भी है?", "answer": "नारंगी रंग एक फल (संतरा) के नाम पर भी है।" },
+    { "question_id": 18, "question": "मेंढक कैसे चलता है?", "answer": "मेंढक इधर-उधर फुदक-फुदक कर चलता है।" },
+    { "question_id": 19, "question": "इंद्रधनुष कैसा दिखाई देता है?", "answer": "इंद्रधनुष शांत और मनोहर दिखाई देता है।" },
+    { "question_id": 20, "question": "विश्वविद्यालय का क्या अर्थ है?", "answer": "वह स्थान जहाँ उच्च शिक्षा और शोध के लिए विभिन्न विषयों की शिक्षा दी जाती है।" },
+    { "question_id": 21, "question": "प्राणवायु का वैज्ञानिक नाम क्या है?", "answer": "प्राणवायु का वैज्ञानिक नाम ऑक्सीजन है।" },
+    { "question_id": 22, "question": "विश्व में सबसे अधिक ऊँचाई पर स्थित मार्ग का नाम क्या है?", "answer": "लेह-लद्दाख मार्ग।" },
+    { "question_id": 23, "question": "पहेली में 'थल' शब्द का प्रयोग किसके लिए हुआ है?", "answer": "थल शब्द का प्रयोग जमीन या भूमि के लिए हुआ है।" },
+    { "question_id": 24, "question": "इंद्रधनुष कब दिखाई देता है?", "answer": "इंद्रधनुष अक्सर बारिश के बाद जब धूप निकलती है, तब दिखाई देता है।" },
+    { "question_id": 25, "question": "पेड़ पर्यावरण के लिए क्यों आवश्यक हैं?", "answer": "पेड़ छाया देते हैं और ऑक्सीजन प्रदान कर वातावरण को शुद्ध रखते हैं।" },
+    { "question_id": 26, "question": "तक्षशिला कहाँ स्थित है?", "answer": "तक्षशिला प्राचीन भारत में था, वर्तमान में यह पाकिस्तान में है।" },
+    { "question_id": 27, "question": "मानक समय की क्या उपयोगिता है?", "answer": "मानक समय पूरे देश में समय की एकरूपता बनाए रखने के लिए जरूरी है।" },
+    { "question_id": 28, "question": "शुक्र ग्रह की क्या विशेषता है?", "answer": "यह पृथ्वी के सबसे निकट का ग्रह है और सुबह-शाम सबसे चमकीला दिखता है।" },
+    { "question_id": 29, "question": "मेंढक को 'गायक' क्यों कहा गया है?", "answer": "वर्षा ऋतु में मेंढकों के निरंतर टर्राने के कारण उन्हें प्रतीकात्मक रूप से गायक कहा गया है।" },
+    { "question_id": 30, "question": "सतरंगी शब्द में 'सत' का क्या अर्थ है?", "answer": "सतरंगी में 'सत' का अर्थ 'सात' है।" },
+    { "question_id": 31, "question": "पेड़ अपना भोजन कहाँ से सोखते हैं?", "answer": "पेड़ अपनी जड़ों से मिट्टी के पोषक तत्व सोखते हैं।" },
+    { "question_id": 32, "question": "विश्व का सबसे बड़ा स्तनधारी जीव कौन है?", "answer": "ब्लू व्हेल।" },
+    { "question_id": 33, "question": "नारंगी रंग किस-किस फल में दिखता है?", "answer": "संतरा और माल्टा जैसे फलों में।" },
+    { "question_id": 34, "question": "गोवा की राजधानी क्या है?", "answer": "गोवा की राजधानी पणजी है।" },
+    { "question_id": 35, "question": "राजस्थान की राजधानी क्या है?", "answer": "राजस्थान की राजधानी जयपुर है।" },
+    { "question_id": 36, "question": "क्या हम मेंढक को पालतू जानवर कह सकते हैं?", "answer": "नहीं, मेंढक एक जंगली उभयचर जीव है।" },
+    { "question_id": 37, "question": "छाया देने वाले किन्हीं दो पेड़ों के नाम बताओ।", "answer": "बरगद और नीम।" },
+    { "question_id": 38, "question": "इंद्रधनुष में कौन-कौन से मुख्य रंग होते हैं?", "answer": "बैंगनी, जामुनी, नीला, हरा, पीला, नारंगी और लाल।" },
+    { "question_id": 39, "question": "तक्षशिला के आचार्य कौन थे (प्रसिद्ध)?", "answer": "आचार्य चाणक्य।" },
+    { "question_id": 40, "question": "शुक्र ग्रह को अंग्रेजी में क्या कहते हैं?", "answer": "शुक्र ग्रह को अंग्रेजी में Venus कहते हैं।" },
+    { "question_id": 41, "question": "मेंढक जल में कैसे साँस लेता है?", "answer": "मेंढक अपनी त्वचा (Skin) के माध्यम से जल में साँस लेता है।" },
+    { "question_id": 42, "question": "विश्वविद्यालय शब्द किन दो शब्दों से बना है?", "answer": "विश्व + विद्यालय।" },
+    { "question_id": 43, "question": "अर्धचक्र का क्या अर्थ है?", "answer": "अर्धचक्र का अर्थ है आधा घेरा या आधा वृत्त।" },
+    { "question_id": 44, "question": "पेड़ प्रतिदिन क्या ग्रहण करते हैं?", "answer": "पेड़ प्रतिदिन सूर्य का प्रकाश और कार्बन डाइऑक्साइड ग्रहण करते हैं।" },
+    { "question_id": 45, "question": "महिला दिवस का महत्व क्या है?", "answer": "महिलाओं के सम्मान और उनके अधिकारों के प्रति जागरूकता लाना।" },
+    { "question_id": 46, "question": "भारत का राष्ट्रीय मानक समय (IST) ग्रीनविच समय से कितना आगे है?", "answer": "५ घंटा ३० मिनट।" },
+    { "question_id": 47, "question": "गोवा किस समुद्र के किनारे स्थित है?", "answer": "अरब सागर के किनारे।" },
+    { "question_id": 48, "question": "राजस्थान का अधिकांश भाग कैसा है?", "answer": "रेतीला या मरुस्थलीय।" },
+    { "question_id": 49, "question": "लेह किस केंद्र शासित प्रदेश में है?", "answer": "लद्दाख में।" },
+    { "question_id": 50, "question": "इंद्रधनुष के मध्य में कौन सा रंग होता है?", "answer": "हरा रंग।" },
+    { "question_id": 51, "question": "मेंढक के बच्चों को क्या कहते हैं?", "answer": "टैडपोल (Tadpole)।" },
+    { "question_id": 52, "question": "पेड़ मिट्टी को कैसे बचाते हैं?", "answer": "पेड़ अपनी जड़ों से मिट्टी को जकड़ कर रखते हैं, जिससे मृदा अपरदन रुकता है।" },
+    { "question_id": 53, "question": "प्राणवायु किसे कहते हैं?", "answer": "ऑक्सीजन को, क्योंकि इसके बिना जीवन संभव नहीं है।" },
+    { "question_id": 54, "question": "मनोहर का क्या अर्थ है?", "answer": "मन को हरने वाला या अत्यंत सुंदर।" },
+    { "question_id": 55, "question": "संगी का क्या अर्थ है?", "answer": "साथी या दोस्त।" },
+    { "question_id": 56, "question": "शुक्र को 'सांझ का तारा' भी क्यों कहते हैं?", "answer": "क्योंकि यह शाम को पश्चिम दिशा में सबसे पहले चमकता है।" },
+    { "question_id": 57, "question": "ब्लू व्हेल की औसत लंबाई कितनी होती है?", "answer": "लगभग ३० मीटर तक।" },
+    { "question_id": 58, "question": "पहेली बुझाना क्यों अच्छा है?", "answer": "इससे मानसिक विकास होता है और सोचने की क्षमता बढ़ती है।" },
+    { "question_id": 59, "question": "वर्षाऋतु में वातावरण कैसा होता है?", "answer": "हरा-भरा और शीतल।" },
+    { "question_id": 60, "question": "क्या चंद्रमा एक ग्रह है?", "answer": "नहीं, चंद्रमा पृथ्वी का एक उपग्रह है।" }
+  ]
+}

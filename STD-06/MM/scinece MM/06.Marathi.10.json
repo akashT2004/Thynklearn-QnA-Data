@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.10",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "बल व बलाचे प्रकार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वस्तू हलवण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "वेगाची", "is_correct": false },
+        { "option_id": 2, "text": "बलाची", "is_correct": true },
+        { "option_id": 3, "text": "आकाराची", "is_correct": false },
+        { "option_id": 4, "text": "वजनाची", "is_correct": false }
+      ],
+      "answer": "बलाची"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "स्नायूंच्या साहाय्याने लावलेल्या बलाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "यांत्रिक बल", "is_correct": false },
+        { "option_id": 2, "text": "गुरुत्वीय बल", "is_correct": false },
+        { "option_id": 3, "text": "स्नायू बल", "is_correct": true },
+        { "option_id": 4, "text": "चुंबकीय बल", "is_correct": false }
+      ],
+      "answer": "स्नायू बल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "यंत्रांमार्फत लावल्या जाणाऱ्या बलाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "स्नायू बल", "is_correct": false },
+        { "option_id": 2, "text": "यांत्रिक बल", "is_correct": true },
+        { "option_id": 3, "text": "घर्षण बल", "is_correct": false },
+        { "option_id": 4, "text": "स्थितिक विद्युत बल", "is_correct": false }
+      ],
+      "answer": "यांत्रिक बल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पृथ्वी सर्व वस्तू स्वतःकडे खेचते, याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 2, "text": "गुरुत्वीय बल", "is_correct": true },
+        { "option_id": 3, "text": "यांत्रिक बल", "is_correct": false },
+        { "option_id": 4, "text": "घर्षण बल", "is_correct": false }
+      ],
+      "answer": "गुरुत्वीय बल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लोखंडी वस्तू चुंबकाकडे आकर्षित होणे, हे कोणत्या बलाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "चुंबकीय बल", "is_correct": true },
+        { "option_id": 2, "text": "गुरुत्वीय बल", "is_correct": false },
+        { "option_id": 3, "text": "स्नायू बल", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक बल", "is_correct": false }
+      ],
+      "answer": "चुंबकीय बल"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "दोन पृष्ठभाग एकमेकांवर घासले गेल्यावर कोणते बल निर्माण होते?",
+      "options": [
+        { "option_id": 1, "text": "स्थितिक विद्युत बल", "is_correct": false },
+        { "option_id": 2, "text": "घर्षण बल", "is_correct": true },
+        { "option_id": 3, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 4, "text": "गुरुत्वीय बल", "is_correct": false }
+      ],
+      "answer": "घर्षण बल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "घासलेल्या प्लॅस्टिक पट्टीने कागदाचे कपटे उचलणे, हे कोणत्या बलाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "स्थितिक विद्युत बल", "is_correct": true },
+        { "option_id": 2, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 3, "text": "यांत्रिक बल", "is_correct": false },
+        { "option_id": 4, "text": "गुरुत्वीय बल", "is_correct": false }
+      ],
+      "answer": "स्थितिक विद्युत बल"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वस्तूवर बल लावल्यास काय बदलू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ दिशा", "is_correct": false },
+        { "option_id": 2, "text": "केवळ वेग", "is_correct": false },
+        { "option_id": 3, "text": "आकार आणि गतीची दिशा", "is_correct": true },
+        { "option_id": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "आकार आणि गतीची दिशा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सायकल चालवताना प्रामुख्याने कोणते बल वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "स्नायू बल", "is_correct": true },
+        { "option_id": 2, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 3, "text": "स्थितिक विद्युत बल", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक बल", "is_correct": false }
+      ],
+      "answer": "स्नायू बल"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कॅरम बोर्डवर पावडर टाकल्याने काय कमी होते?",
+      "options": [
+        { "option_id": 1, "text": "गुरुत्वीय बल", "is_correct": false },
+        { "option_id": 2, "text": "घर्षण बल", "is_correct": true },
+        { "option_id": 3, "text": "स्नायू बल", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक बल", "is_correct": false }
+      ],
+      "answer": "घर्षण बल"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आकाशातून पडणारे पावसाचे थेंब खाली का येतात?",
+      "options": [
+        { "option_id": 1, "text": "चुंबकीय बलामुळे", "is_correct": false },
+        { "option_id": 2, "text": "गुरुत्वीय बलामुळे", "is_correct": true },
+        { "option_id": 3, "text": "घर्षण बलामुळे", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक बलामुळे", "is_correct": false }
+      ],
+      "answer": "गुरुत्वीय बलामुळे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मिक्सरमध्ये कोणते बल वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "स्नायू बल", "is_correct": false },
+        { "option_id": 2, "text": "यांत्रिक बल", "is_correct": true },
+        { "option_id": 3, "text": "गुरुत्वीय बल", "is_correct": false },
+        { "option_id": 4, "text": "स्थितिक विद्युत बल", "is_correct": false }
+      ],
+      "answer": "यांत्रिक बल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लोहार हातोड्याने तापलेल्या लोखंडाला मारतो तेव्हा काय होते?",
+      "options": [
+        { "option_id": 1, "text": "वस्तूचा रंग बदलतो", "is_correct": false },
+        { "option_id": 2, "text": "वस्तूचा आकार बदलतो", "is_correct": true },
+        { "option_id": 3, "text": "वस्तू गायब होते", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "वस्तूचा आकार बदलतो"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "विजेवर चालणाऱ्या उपकरणांमध्ये कोणते बल वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "स्नायू बल", "is_correct": false },
+        { "option_id": 2, "text": "यांत्रिक बल", "is_correct": true },
+        { "option_id": 3, "text": "गुरुत्वीय बल", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "यांत्रिक बल"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "बैलगाडी ओढण्यासाठी बैल कोणते बल लावतात?",
+      "options": [
+        { "option_id": 1, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 2, "text": "स्नायू बल", "is_correct": true },
+        { "option_id": 3, "text": "यांत्रिक बल", "is_correct": false },
+        { "option_id": 4, "text": "स्थितिक विद्युत बल", "is_correct": false }
+      ],
+      "answer": "स्नायू बल"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गुरुत्वाकर्षण बलाचा शोध कोणी लावला?",
+      "options": [
+        { "option_id": 1, "text": "आईनस्टाईन", "is_correct": false },
+        { "option_id": 2, "text": "सर आयझॅक न्यूटन", "is_correct": true },
+        { "option_id": 3, "text": "एडिसन", "is_correct": false },
+        { "option_id": 4, "text": "गॅलिलिओ", "is_correct": false }
+      ],
+      "answer": "सर आयझॅक न्यूटन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वस्तूची हालचाल करण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "बल", "is_correct": true },
+        { "option_id": 3, "text": "हवा", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "जर सपाट पृष्ठभाग असेल, तर घर्षण बल कसे असते?",
+      "options": [
+        { "option_id": 1, "text": "जास्त", "is_correct": false },
+        { "option_id": 2, "text": "कमी", "is_correct": true },
+        { "option_id": 3, "text": "शून्य", "is_correct": false },
+        { "option_id": 4, "text": "अनंत", "is_correct": false }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "चुंबक खालीलपैकी कोणत्या धातूला आकर्षित करते?",
+      "options": [
+        { "option_id": 1, "text": "प्लॅस्टिक", "is_correct": false },
+        { "option_id": 2, "text": "लाकूड", "is_correct": false },
+        { "option_id": 3, "text": "लोखंड", "is_correct": true },
+        { "option_id": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "लोखंड"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वर फेकलेली वस्तू खाली का येते?",
+      "options": [
+        { "option_id": 1, "text": "चुंबकीय बलामुळे", "is_correct": false },
+        { "option_id": 2, "text": "गुरुत्वीय बलामुळे", "is_correct": true },
+        { "option_id": 3, "text": "घर्षण बलामुळे", "is_correct": false },
+        { "option_id": 4, "text": "स्नायू बलामुळे", "is_correct": false }
+      ],
+      "answer": "गुरुत्वीय बलामुळे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "एकाच वेळी अनेक बले कार्यरत असण्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "एकल बल", "is_correct": false },
+        { "option_id": 2, "text": "संयुक्त बल", "is_correct": true },
+        { "option_id": 3, "text": "मोठे बल", "is_correct": false },
+        { "option_id": 4, "text": "शून्य बल", "is_correct": false }
+      ],
+      "answer": "संयुक्त बल"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कपडे धुण्याच्या मशीनमध्ये कोणते बल असते?",
+      "options": [
+        { "option_id": 1, "text": "स्नायू बल", "is_correct": false },
+        { "option_id": 2, "text": "यांत्रिक बल", "is_correct": true },
+        { "option_id": 3, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 4, "text": "गुरुत्वीय बल", "is_correct": false }
+      ],
+      "answer": "यांत्रिक बल"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "जर घर्षण बल नसेल, तर काय होईल?",
+      "options": [
+        { "option_id": 1, "text": "वस्तू कायमची थांबेल", "is_correct": false },
+        { "option_id": 2, "text": "आपण चालू शकणार नाही", "is_correct": true },
+        { "option_id": 3, "text": "वस्तू जड होईल", "is_correct": false },
+        { "option_id": 4, "text": "काहीच फरक पडणार नाही", "is_correct": false }
+      ],
+      "answer": "आपण चालू शकणार नाही"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वजन काट्यात कोणत्या बलाचा उपयोग होतो?",
+      "options": [
+        { "option_id": 1, "text": "गुरुत्वीय बल", "is_correct": true },
+        { "option_id": 2, "text": "घर्षण बल", "is_correct": false },
+        { "option_id": 3, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक बल", "is_correct": false }
+      ],
+      "answer": "गुरुत्वीय बल"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "केसांवर घासलेला कंगवा कागदाचे तुकडे का उचलतो?",
+      "options": [
+        { "option_id": 1, "text": "चुंबकीय बलामुळे", "is_correct": false },
+        { "option_id": 2, "text": "स्थितिक विद्युत बलामुळे", "is_correct": true },
+        { "option_id": 3, "text": "गुरुत्वीय बलामुळे", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक बलामुळे", "is_correct": false }
+      ],
+      "answer": "स्थितिक विद्युत बलामुळे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "यंत्रांना तेल का दिले जाते?",
+      "options": [
+        { "option_id": 1, "text": "ते सुंदर दिसावेत म्हणून", "is_correct": false },
+        { "option_id": 2, "text": "घर्षण कमी करण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "गुरुत्वीय बल वाढवण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "वजन वाढवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "घर्षण कमी करण्यासाठी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणत्या क्रियेत बल लावले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पिशवी उचलणे", "is_correct": false },
+        { "option_id": 2, "text": "सायकल चालवणे", "is_correct": false },
+        { "option_id": 3, "text": "चेंडू फेकणे", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "वस्तूची गती वाढवण्यासाठी काय करावे लागेल?",
+      "options": [
+        { "option_id": 1, "text": "बल काढावे लागेल", "is_correct": false },
+        { "option_id": 2, "text": "अधिक बल लावावे लागेल", "is_correct": true },
+        { "option_id": 3, "text": "काहीच करण्याची गरज नाही", "is_correct": false },
+        { "option_id": 4, "text": "वजन कमी करावे लागेल", "is_correct": false }
+      ],
+      "answer": "अधिक बल लावावे लागेल"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचे गुरुत्वीय बल चंद्रापेक्षा कसे आहे?",
+      "options": [
+        { "option_id": 1, "text": "कमी", "is_correct": false },
+        { "option_id": 2, "text": "जास्त", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "शून्य", "is_correct": false }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "बंद पडलेली स्कूटर ढकलणे हे कोणत्या बलाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "यांत्रिक बल", "is_correct": false },
+        { "option_id": 2, "text": "स्नायू बल", "is_correct": true },
+        { "option_id": 3, "text": "चुंबकीय बल", "is_correct": false },
+        { "option_id": 4, "text": "घर्षण बल", "is_correct": false }
+      ],
+      "answer": "स्नायू बल"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "बल म्हणजे काय?",
+      "answer": "वस्तूवर कोणत्याही प्रकारे ओढणे किंवा ढकलण्यासाठी लावलेल्या जोरास बल म्हणतात."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "बलाचे मुख्य प्रकार कोणते?",
+      "answer": "स्नायू बल, यांत्रिक बल, गुरुत्वीय बल, चुंबकीय बल, घर्षण बल आणि स्थितिक विद्युत बल हे बलाचे प्रकार आहेत."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "स्नायू बल म्हणजे काय?",
+      "answer": "स्नायूंच्या साहाय्याने लावलेल्या बलाला स्नायू बल म्हणतात."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "यांत्रिक बलाचे एक उदाहरण द्या.",
+      "answer": "मिक्सर, वॉशिंग मशीन किंवा शिलाई मशीन ही यांत्रिक बलाची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "गुरुत्वीय बल म्हणजे काय?",
+      "answer": "पृथ्वी ज्या बलाने वस्तूंना स्वतःकडे खेचते, त्याला गुरुत्वीय बल म्हणतात."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "चुंबकीय बल कोठे वापरले जाते?",
+      "answer": "क्रेनमध्ये जड लोखंडी वस्तू उचलण्यासाठी किंवा फ्रीजच्या दरवाजाच्या पट्टीमध्ये चुंबकीय बल वापरले जाते."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "घर्षण बल म्हणजे काय?",
+      "answer": "जेव्हा दोन पृष्ठभाग एकमेकांवर घासले जातात, तेव्हा त्यांमध्ये जे बल कार्य करते, त्याला घर्षण बल म्हणतात."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "स्थितिक विद्युत बल कसे निर्माण होते?",
+      "answer": "घर्षणामुळे रबर, प्लॅस्टिक, एबोनाईट यांसारख्या पदार्थांवर विद्युतभार निर्माण होतो, अशा विद्युतभारित पदार्थांमधील बलाला स्थितिक विद्युत बल म्हणतात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "संयुक्त बल म्हणजे काय?",
+      "answer": "एखादी क्रिया घडताना जेव्हा एकाच वेळी अनेक प्रकारची बले वस्तूवर कार्य करतात, तेव्हा त्याला संयुक्त बल म्हणतात."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "बलामुळे वस्तूचा आकार बदलतो याचे एक उदाहरण द्या.",
+      "answer": "लोहाराने गरम लोखंडावर हातोडा मारला की त्याचा आकार बदलतो."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "वस्तूची हालचाल करण्यासाठी बलाची गरज का असते?",
+      "answer": "कोणतीही वस्तू स्वतःहून आपली जागा बदलत नाही, तिची स्थिती बदलण्यासाठी किंवा तिला गतिमान करण्यासाठी बलाची गरज असते."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "कॅरम बोर्डवर पावडर का टाकतात?",
+      "answer": "सोबटी आणि बोर्ड यांच्यातील घर्षण बल कमी करण्यासाठी आणि सोबटी सहज सराकावी म्हणून पावडर टाकतात."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "यंत्रांना वेळोवेळी तेल का दिले जाते?",
+      "answer": "यंत्रांचे सुटे भाग एकमेकांवर घासले गेल्याने घर्षण वाढते आणि झीज होते, हे घर्षण कमी करण्यासाठी त्यांना तेल दिले जाते."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "वर फेकलेला चेंडू उंचावर जाऊन परत खाली का येतो?",
+      "answer": "पृथ्वीच्या गुरुत्वीय बलामुळे वर फेकलेली प्रत्येक वस्तू पृथ्वी स्वतःकडे खेचते, म्हणून ती खाली येते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "विमान उडताना कोणकोणती बले कार्य करत असावीत?",
+      "answer": "विमान उडताना यांत्रिक बल, गुरुत्वीय बल आणि हवेचे घर्षण बल अशी संयुक्त बले कार्य करतात."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "सायकलला ब्रेक लावल्यावर ती का थांबते?",
+      "answer": "ब्रेक लावल्यावर चाक आणि ब्रेकचे रबर यांच्यात घर्षण बल निर्माण होते, ज्यामुळे चाकाची गती कमी होऊन सायकल थांबते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "गुरुत्वाकर्षण बलाचा शोध कोणी लावला?",
+      "answer": "गुरुत्वाकर्षण बलाचा शोध सर आयझॅक न्यूटन यांनी लावला."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "चुंबक कोणाला आकर्षित करते?",
+      "answer": "चुंबक लोखंड, कोबाल्ट आणि निकेल यांसारख्या चुंबकीय धातूंना आकर्षित करते."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "खडबडीत पृष्ठभागावर घर्षण बल कसे असते?",
+      "answer": "खडबडीत पृष्ठभागावर घर्षण बल जास्त असते."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "सायकल चालवताना कोणते बल वापरले जाते?",
+      "answer": "सायकल चालवताना प्रामुख्याने स्नायू बल वापरले जाते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "विजेचा पंखा फिरण्यासाठी कोणते बल लागते?",
+      "answer": "विजेचा पंखा फिरण्यासाठी यांत्रिक बलाचा उपयोग होतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "वजन करणे म्हणजे काय?",
+      "answer": "वजन करणे म्हणजे त्या वस्तूवर कार्य करणारे पृथ्वीचे गुरुत्वीय बल मोजणे होय."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "दैनंदिन जीवनात आपण बलाचा वापर कोठे करतो?",
+      "answer": "उचलणे, ओढणे, वाकवणे, सायकल चालवणे, गाडी थांबवणे यांसारख्या अनेक क्रियांमध्ये आपण बलाचा वापर करतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "गुळगुळीत पृष्ठभागावर घर्षण बल कमी का असते?",
+      "answer": "गुळगुळीत पृष्ठभागावर अनियमितता कमी असते, त्यामुळे दोन पृष्ठभाग एकमेकांत अडकत नाहीत आणि घर्षण कमी होते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "स्थितिक विद्युत बलाचे एक नैसर्गिक उदाहरण द्या.",
+      "answer": "आकाशात वीज चमकणे हे स्थितिक विद्युत बलाचे एक मोठे रूप आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "बलामुळे गतिमान वस्तूची दिशा बदलता येते का?",
+      "answer": "हो, फुटबॉल खेळताना किंवा क्रिकेट खेळताना बॅटने मारल्यावर चेंडूची दिशा बलामुळे बदलता येते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "गुरुत्वीय बल कोणत्या दिशेला कार्य करते?",
+      "answer": "गुरुत्वीय बल नेहमी खालच्या दिशेला (पृथ्वीच्या केंद्राच्या दिशेला) कार्य करते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "जड वस्तू उचलण्यासाठी कोणते बल अधिक लागते?",
+      "answer": "जड वस्तू उचलण्यासाठी स्नायू बल किंवा यांत्रिक बल अधिक प्रमाणात लागते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "घर्षण बल गतीच्या कोणत्या दिशेला असते?",
+      "answer": "घर्षण बल नेहमी गतीच्या विरुद्ध दिशेला कार्य करते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "रेल्वे स्थानकावरील जिन्यांचा पृष्ठभाग खडबडीत का ठेवतात?",
+      "answer": "पृष्ठभाग खडबडीत असल्यास घर्षण बल वाढते आणि पाय घसरून पडण्याची भीती कमी होते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "बलाची व्याख्या सांगा.",
+      "answer": "वस्तूची स्थिती बदलण्यासाठी किंवा तिला गतिमान करण्यासाठी लावलेल्या जोरास बल म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "चुंबकीय बल म्हणजे काय?",
+      "answer": "चुंबकाने लावलेल्या बलाला चुंबकीय बल म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "स्वयंचलित यंत्रे म्हणजे काय?",
+      "answer": "जी यंत्रे चालवण्यासाठी मानवी स्नायू बलाची गरज नसते आणि ती वीज किंवा इंधनावर चालतात, त्यांना स्वयंचलित यंत्रे म्हणतात."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "ओझे ओढण्यासाठी चाकांचा वापर का करतात?",
+      "answer": "चाकांमुळे जमिनीशी होणारे घर्षण बल कमी होते, ज्यामुळे ओझे सहजपणे ओढता येते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "विद्युत चुंबक म्हणजे काय?",
+      "answer": "विद्युत प्रवाहाच्या मदतीने तयार होणाऱ्या चुंबकाला विद्युत चुंबक म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "बलामुळे वस्तू स्थिर होऊ शकते का?",
+      "answer": "हो, गतिमान वस्तूवर बल लावून तिला थांबवता येते, जसे सायकलला ब्रेक लावणे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "घर्षणामुळे काय निर्माण होते?",
+      "answer": "घर्षणामुळे उष्णता निर्माण होते, जसे दोन्ही तळहात एकमेकांवर घासल्यावर ते उबदार होतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "टाकाऊ लोखंड वेगळे करण्यासाठी कोणत्या बलाचा वापर होतो?",
+      "answer": "टाकाऊ लोखंडाच्या ढिगाऱ्यातून लोखंडी वस्तू वेगळ्या करण्यासाठी चुंबकीय बलाचा वापर होतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "स्प्रिंग ताणल्यावर काय होते?",
+      "answer": "स्प्रिंगवर बल लावल्यास तिचा आकार आणि लांबी बदलते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "जर गुरुत्वीय बल नसते तर काय झाले असते?",
+      "answer": "गुरुत्वीय बल नसते तर पृथ्वीवरील सर्व वस्तू आणि आपण स्वतः अधांतरी तरंगत राहिलो असतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "पावसाचे पाणी जमिनीवरच का पडते?",
+      "answer": "पृथ्वीच्या गुरुत्वीय बलामुळे पावसाचे थेंब जमिनीकडे आकर्षित होतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "गाडीचे टायर खडबडीत का असतात?",
+      "answer": "रस्त्याशी पुरेसे घर्षण बल मिळावे आणि गाडी घसरू नये म्हणून टायर खडबडीत असतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "कंगवा कोरड्या केसांत घासल्यावर काय होते?",
+      "answer": "कंगवा आणि केस यांच्यातील घर्षणामुळे कंगव्यावर स्थितिक विद्युत भार निर्माण होतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "धान्य पाखडताना कोणती बले वापरली जातात?",
+      "answer": "धान्य पाखडताना स्नायू बल आणि गुरुत्वीय बल ही संयुक्त बले वापरली जातात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "नारळ झाडावरून खाली पडणे हे कशाचे उदाहरण आहे?",
+      "answer": "हे गुरुत्वीय बलाचे उदाहरण आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "शिलाई मशीनमध्ये कोणते बल वापरले जाते?",
+      "answer": "शिलाई मशीनमध्ये मानवी स्नायू बल किंवा वीज वापरल्यास यांत्रिक बल वापरले जाते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "बलाचे एकक काय आहे?",
+      "answer": "बलाचे मोजमाप करण्यासाठी 'न्यूटन' (Newton) हे एकक वापरले जाते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "घर्षण बल कमी करण्याचे उपाय काय आहेत?",
+      "answer": "तेल देणे, वंगण लावणे किंवा पावडर टाकणे हे घर्षण बल कमी करण्याचे उपाय आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "विहीर ओढताना कपिचा (Pulley) वापर का करतात?",
+      "answer": "कपिच्या वापरामुळे बलाची दिशा सोयीची होते आणि घर्षण कमी होऊन पाणी उपसणे सोपे होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "एखादी वस्तू ढकलण्यासाठी जास्त बल का लागते?",
+      "answer": "वस्तूचे वजन आणि जमिनीसोबत असणारे घर्षण बल यामुळे वस्तू ढकलण्यासाठी जास्त बल लागते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "बलामुळे वस्तूचा वेग वाढवता येतो का?",
+      "answer": "हो, गतिमान वस्तूच्या दिशेने अधिक बल लावल्यास वस्तूचा वेग वाढतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "चुंबक काचेला का आकर्षित करत नाही?",
+      "answer": "काच हा अचुंबकीय पदार्थ असल्यामुळे चुंबक काचेला आकर्षित करत नाही."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "बलाचा वापर करून काय काय करता येते?",
+      "answer": "बलाचा वापर करून वस्तूची जागा बदलता येते, दिशा बदलता येते, वेग बदलता येतो आणि आकार बदलता येतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "स्थितिक विद्युत बलाचा अनुभव कुठे येतो?",
+      "answer": "हिवाळ्यात स्वेटर काढताना होणारा चटचट आवाज हा स्थितिक विद्युत बलाचा अनुभव आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "संयुक्त बलाचे एक उदाहरण स्पष्ट करा.",
+      "answer": "सायकल चालवताना स्नायू बल (पॅडल मारणे), यांत्रिक बल (साखळी आणि गीयर) आणि घर्षण बल (चाक आणि रस्ता) अशी अनेक बले एकत्र काम करतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "बल लावल्याशिवाय वस्तू हलू शकते का?",
+      "answer": "नाही, बाह्य बल लावल्याशिवाय कोणतीही वस्तू स्वतःहून आपली जागा बदलू शकत नाही."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "गुरुत्वीय बल वस्तूच्या वस्तुमानावर अवलंबून असते का?",
+      "answer": "हो, ज्या वस्तूचे वस्तुमान जास्त असते, तिच्यावर गुरुत्वीय बल अधिक कार्य करते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "घर्षण बल नसेल तर आपण चालू शकू का?",
+      "answer": "नाही, घर्षण बल नसेल तर आपला पाय जमिनीवर टिकणार नाही आणि आपण घसरून पडू."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "मॅग्लेव्ह ट्रेनमध्ये कोणते बल वापरतात?",
+      "answer": "मॅग्लेव्ह ट्रेनमध्ये चुंबकीय बलाचा (Magnetic Levitation) वापर केला जातो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "दैनंदिन जीवनात बलाचे महत्त्व काय?",
+      "answer": "सकाळी उठल्यापासून रात्री झोपेपर्यंतच्या प्रत्येक हालचालीसाठी आणि कामासाठी बलाची आवश्यकता असते."
+    }
+  ]
+}

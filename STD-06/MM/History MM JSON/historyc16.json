@@ -1,0 +1,1110 @@
+{
+  "chapter_info": {
+    "chapter_number": "५ (१६)",
+    "grade": "६",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "जिल्हा प्रशासन"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा प्रशासनाचा प्रमुख कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "पोलीस अधीक्षक", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "तहसीलदार", "is_correct": false },
+        { "option_number": 4, "text": "आमदार", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हाधिकाऱ्याची नेमणूक कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "केंद्र शासन", "is_correct": false },
+        { "option_number": 2, "text": "राज्य शासन", "is_correct": true },
+        { "option_number": 3, "text": "जिल्हा परिषद", "is_correct": false },
+        { "option_number": 4, "text": "उच्च न्यायालय", "is_correct": false }
+      ],
+      "answer": "राज्य शासन"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "शेतीचा सारा (Tax) गोळा करण्याची जबाबदारी कोणाची असते?",
+      "options": [
+        { "option_number": 1, "text": "पोलीस", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "आरोग्य अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षण अधिकारी", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यात शांतता आणि सुव्यवस्था राखणे हे कोणाचे काम आहे?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_number": 2, "text": "कृषी अधिकारी", "is_correct": false },
+        { "option_number": 3, "text": "मुख्याधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "तलाठी", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यात निवडणूक योग्य रीतीने पार पाडण्याची जबाबदारी कोणाची असते?",
+      "options": [
+        { "option_number": 1, "text": "पोलीस निरीक्षक", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "गटविकास अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षण अधिकारी", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "आपत्तीच्या काळात त्वरित निर्णय घेऊन मदत कार्य कोणाला करावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "न्यायाधीशांना", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हाधिकाऱ्यांना", "is_correct": true },
+        { "option_number": 3, "text": "बँक मॅनेजरला", "is_correct": false },
+        { "option_number": 4, "text": "दुकानदाराला", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "तालुक्याचा प्रशासकीय प्रमुख कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हाधिकारी", "is_correct": false },
+        { "option_number": 2, "text": "तहसीलदार", "is_correct": true },
+        { "option_number": 3, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 4, "text": "पोलीस उपनिरीक्षक", "is_correct": false }
+      ],
+      "answer": "तहसीलदार"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "तालुका दंडाधिकारी म्हणून कोणाला काम करावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "सरपंच", "is_correct": false },
+        { "option_number": 2, "text": "तहसीलदार", "is_correct": true },
+        { "option_number": 3, "text": "आमदार", "is_correct": false },
+        { "option_number": 4, "text": "पोलीस पाटील", "is_correct": false }
+      ],
+      "answer": "तहसीलदार"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्रात प्रत्येक जिल्ह्यासाठी कोण असतो जो शांतता व सुव्यवस्था राखण्यास मदत करतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा आरोग्य अधिकारी", "is_correct": false },
+        { "option_number": 2, "text": "पोलीस अधीक्षक", "is_correct": true },
+        { "option_number": 3, "text": "कृषी विस्तार अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "कनिष्ठ अभियंता", "is_correct": false }
+      ],
+      "answer": "पोलीस अधीक्षक"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "शहरात शांतता व सुव्यवस्था राखण्याची जबाबदारी कोणाची असते?",
+      "options": [
+        { "option_number": 1, "text": "तहसीलदार", "is_correct": false },
+        { "option_number": 2, "text": "पोलीस आयुक्त", "is_correct": true },
+        { "option_number": 3, "text": "गटविकास अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षण अधिकारी", "is_correct": false }
+      ],
+      "answer": "पोलीस आयुक्त"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "गावामध्ये शांतता राखण्याचे काम कोण करतो?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 2, "text": "पोलीस पाटील", "is_correct": true },
+        { "option_number": 3, "text": "सरपंच", "is_correct": false },
+        { "option_number": 4, "text": "तलाठी", "is_correct": false }
+      ],
+      "answer": "पोलीस पाटील"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा पातळीवर न्याय देण्याचे काम कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा न्यायालय", "is_correct": true },
+        { "option_number": 2, "text": "पोलीस ठाणे", "is_correct": false },
+        { "option_number": 3, "text": "नगरपरिषद", "is_correct": false },
+        { "option_number": 4, "text": "पंचायत समिती", "is_correct": false }
+      ],
+      "answer": "जिल्हा न्यायालय"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतीय संविधानाने कशाची निर्मिती केली आहे ज्यामुळे न्याय मिळण्यास मदत होते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ पोलिसांची", "is_correct": false },
+        { "option_number": 2, "text": "स्वतंत्र न्यायव्यवस्थेची", "is_correct": true },
+        { "option_number": 3, "text": "केवळ बँकांची", "is_correct": false },
+        { "option_number": 4, "text": "केवळ हॉटेलची", "is_correct": false }
+      ],
+      "answer": "स्वतंत्र न्यायव्यवस्थेची"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "दिवाणी न्यायालयाचा प्रमुख कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हाधिकारी", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा न्यायाधीश", "is_correct": true },
+        { "option_number": 3, "text": "पोलीस अधीक्षक", "is_correct": false },
+        { "option_number": 4, "text": "मॅजिस्ट्रेट", "is_correct": false }
+      ],
+      "answer": "जिल्हा न्यायाधीश"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "फौजदारी खटल्यांसाठी कोणत्या न्यायाधीशाची नेमणूक असते?",
+      "options": [
+        { "option_number": 1, "text": "सत्र न्यायाधीश", "is_correct": true },
+        { "option_number": 2, "text": "दिवाणी न्यायाधीश", "is_correct": false },
+        { "option_number": 3, "text": "तहसीलदार", "is_correct": false },
+        { "option_number": 4, "text": "तलाठी", "is_correct": false }
+      ],
+      "answer": "सत्र न्यायाधीश"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "निसर्गाची कृपा झाल्यावर कशाचे पीक येते?",
+      "options": [
+        { "option_number": 1, "text": "उत्तम पीक", "is_correct": true },
+        { "option_number": 2, "text": "काहीच नाही", "is_correct": false },
+        { "option_number": 3, "text": "दुष्काळ", "is_correct": false },
+        { "option_number": 4, "text": "रोगराई", "is_correct": false }
+      ],
+      "answer": "उत्तम पीक"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "अतिवृष्टीमुळे नद्यांना काय येतो?",
+      "options": [
+        { "option_number": 1, "text": "दुष्काळ", "is_correct": false },
+        { "option_number": 2, "text": "पूर", "is_correct": true },
+        { "option_number": 3, "text": "काहीच नाही", "is_correct": false },
+        { "option_number": 4, "text": "अँक्सीडेंट", "is_correct": false }
+      ],
+      "answer": "पूर"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "अचानक उद्भवणाऱ्या संकटांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "सण", "is_correct": false },
+        { "option_number": 2, "text": "आपत्ती", "is_correct": true },
+        { "option_number": 3, "text": "उत्सव", "is_correct": false },
+        { "option_number": 4, "text": "सुट्टी", "is_correct": false }
+      ],
+      "answer": "आपत्ती"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "आपत्ती निवारणात जिल्हा प्रशासनाचे प्रमुख काम कोणते?",
+      "options": [
+        { "option_number": 1, "text": "फोटोग्राफी करणे", "is_correct": false },
+        { "option_number": 2, "text": "आपत्ती व्यवस्थापन करणे", "is_correct": true },
+        { "option_number": 3, "text": "केवळ टीव्ही पाहणे", "is_correct": false },
+        { "option_number": 4, "text": "काहीही न करणे", "is_correct": false }
+      ],
+      "answer": "आपत्ती व्यवस्थापन"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यातील आरोग्य सेवेचा प्रमुख कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा आरोग्य अधिकारी", "is_correct": true },
+        { "option_number": 2, "text": "पोलीस अधीक्षक", "is_correct": false },
+        { "option_number": 3, "text": "शाळा शिक्षक", "is_correct": false },
+        { "option_number": 4, "text": "बँक अधिकारी", "is_correct": false }
+      ],
+      "answer": "जिल्हा आरोग्य अधिकारी"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यातील माध्यमिक शिक्षणाचे प्रमुख कोण असतात?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा आरोग्य अधिकारी", "is_correct": false },
+        { "option_number": 2, "text": "शिक्षणाधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "कृषी अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "तहसीलदार", "is_correct": false }
+      ],
+      "answer": "शिक्षणाधिकारी"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा दंडाधिकारी म्हणून शांतता राखण्याची जबाबदारी कोणाची असते?",
+      "options": [
+        { "option_number": 1, "text": "शिक्षकाची", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हाधिकाऱ्याची", "is_correct": true },
+        { "option_number": 3, "text": "मजूर संघाची", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "नैसर्गिक आपत्तीचे उदाहरण खालीलपैकी कोणते?",
+      "options": [
+        { "option_number": 1, "text": "मोबाईलचा स्फोट", "is_correct": false },
+        { "option_number": 2, "text": "पूर आणि दुष्काळ", "is_correct": true },
+        { "option_number": 3, "text": "शाळा सुटणे", "is_correct": false },
+        { "option_number": 4, "text": "सायकल चालवणे", "is_correct": false }
+      ],
+      "answer": "पूर आणि दुष्काळ"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यातील कृषी विभागाचा प्रमुख कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा कृषी अधिकारी", "is_correct": true },
+        { "option_number": 2, "text": "जिल्हा पोलीस अधिकारी", "is_correct": false },
+        { "option_number": 3, "text": "जिल्हा आरोग्य अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "जिल्हा कृषी अधिकारी"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "आपत्ती व्यवस्थापनात कोणाचा सहभाग महत्त्वाचा असतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ एका व्यक्तीचा", "is_correct": false },
+        { "option_number": 2, "text": "विविध यंत्रणा आणि नागरिकांचा", "is_correct": true },
+        { "option_number": 3, "text": "केवळ बाहेरील देशांचा", "is_correct": false },
+        { "option_number": 4, "text": "फक्त मुलांचा", "is_correct": false }
+      ],
+      "answer": "विविध यंत्रणा व नागरिक"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "न्यायालयामुळे व्यक्तीला काय मिळते?",
+      "options": [
+        { "option_number": 1, "text": "शिक्षा", "is_correct": false },
+        { "option_number": 2, "text": "न्याय आणि हक्कांचे संरक्षण", "is_correct": true },
+        { "option_number": 3, "text": "केवळ पैसे", "is_correct": false },
+        { "option_number": 4, "text": "नोकरी", "is_correct": false }
+      ],
+      "answer": "न्याय"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "सत्र न्यायालयाचे काम प्रामुख्याने कोणत्या गुन्ह्यांशी संबंधित असते?",
+      "options": [
+        { "option_number": 1, "text": "घर दुरुस्ती", "is_correct": false },
+        { "option_number": 2, "text": "फौजदारी (गुन्हेगारी)", "is_correct": true },
+        { "option_number": 3, "text": "शेती खरेदी", "is_correct": false },
+        { "option_number": 4, "text": "लग्न ठरवणे", "is_correct": false }
+      ],
+      "answer": "फौजदारी"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा प्रशासनातील महत्त्वाचा घटक कोण आहे?",
+      "options": [
+        { "option_number": 1, "text": "दुकानदार", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "कलाकार", "is_correct": false },
+        { "option_number": 4, "text": "खेळाडू", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "तलाठ्याचे काम कोणत्या स्तरावर असते?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा", "is_correct": false },
+        { "option_number": 2, "text": "गाव", "is_correct": true },
+        { "option_number": 3, "text": "राज्य", "is_correct": false },
+        { "option_number": 4, "text": "राष्ट्र", "is_correct": false }
+      ],
+      "answer": "गाव"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "तहसीलदाराच्या निधड्याखाली कोणते अधिकारी काम करतात?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हाधिकारी", "is_correct": false },
+        { "option_number": 2, "text": "तलाठी आणि मंडळ अधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "पोलीस आयुक्त", "is_correct": false },
+        { "option_number": 4, "text": "मुख्य कार्यकारी अधिकारी", "is_correct": false }
+      ],
+      "answer": "तलाठी व मंडळ अधिकारी"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हाधिकाऱ्याचे काम खालीलपैकी कोणते नाही?",
+      "options": [
+        { "option_number": 1, "text": "कायदा व सुव्यवस्था राखणे", "is_correct": false },
+        { "option_number": 2, "text": "शेतीचा सारा गोळा करणे", "is_correct": false },
+        { "option_number": 3, "text": "स्वतः न्यायालयात वकिली करणे", "is_correct": true },
+        { "option_number": 4, "text": "मतदारयाद्या अद्ययावत करणे", "is_correct": false }
+      ],
+      "answer": "वकिली करणे"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "पोलीस अधीक्षकाचा मुख्य दर्जा कोणता असतो?",
+      "options": [
+        { "option_number": 1, "text": "आय.पी.एस (IPS)", "is_correct": true },
+        { "option_number": 2, "text": "आय.ए.एस (IAS)", "is_correct": false },
+        { "option_number": 3, "text": "आय.एफ.एस (IFS)", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "IPS"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हाधिकाऱ्याला कायदेशीर सल्ला देणारा अधिकारी कोण?",
+      "options": [
+        { "option_number": 1, "text": "शासकीय अभियोक्ता", "is_correct": true },
+        { "option_number": 2, "text": "पोलीस हवालदार", "is_correct": false },
+        { "option_number": 3, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 4, "text": "शाळा प्राचार्य", "is_correct": false }
+      ],
+      "answer": "शासकीय अभियोक्ता"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा परिषदेचा मुख्य कार्यकारी अधिकारी कोणाच्या मार्गदर्शनाखाली काम करतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ सरपंचाच्या", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा परिषद अध्यक्षाच्या", "is_correct": true },
+        { "option_number": 3, "text": "पोलीस पाटलाच्या", "is_correct": false },
+        { "option_number": 4, "text": "दुकानदाराच्या", "is_correct": false }
+      ],
+      "answer": "जिल्हा परिषद अध्यक्ष"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "तहसीलदार हा कोणाचा प्रतिनिधी असतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ गावाचा", "is_correct": false },
+        { "option_number": 2, "text": "राज्य शासननाचा", "is_correct": true },
+        { "option_number": 3, "text": "केवळ स्वतःचा", "is_correct": false },
+        { "option_number": 4, "text": "पडकी घराचा", "is_correct": false }
+      ],
+      "answer": "राज्य शासन"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "आपत्तीच्या वेळी कोणाला नुकसान भरपाई देण्याचे काम करावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा प्रशासनाला", "is_correct": true },
+        { "option_number": 2, "text": "केवळ नातेवाईकांना", "is_correct": false },
+        { "option_number": 3, "text": "बँकेला", "is_correct": false },
+        { "option_number": 4, "text": "फक्त मित्रांना", "is_correct": false }
+      ],
+      "answer": "जिल्हा प्रशासन"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "पोलीस पाटील कोणाची नेमणूक करतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_number": 2, "text": "सरपंच", "is_correct": false },
+        { "option_number": 3, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षण अधिकारी", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा प्रशासनामुळे नागरिकांना कशाची सुविधा मिळते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ जेवणाची", "is_correct": false },
+        { "option_number": 2, "text": "विविध शासकीय सेवांची", "is_correct": true },
+        { "option_number": 3, "text": "केवळ सहलीची", "is_correct": false },
+        { "option_number": 4, "text": "फक्त खेळाची", "is_correct": false }
+      ],
+      "answer": "शासकीय सेवा"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यात आपत्ती व्यवस्थापन समितीचा अध्यक्ष कोण असतो?",
+      "options": [
+        { "option_number": 1, "text": "पोलीस अधीक्षक", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हाधिकारी", "is_correct": true },
+        { "option_number": 3, "text": "आरोग्य अधिकारी", "is_correct": false },
+        { "option_number": 4, "text": "मुख्याधिकारी", "is_correct": false }
+      ],
+      "answer": "जिल्हाधिकारी"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "अन्याय झाल्यास माणूस कोणाकडे दाद मागतो?",
+      "options": [
+        { "option_number": 1, "text": "दुकानदाराकडे", "is_correct": false },
+        { "option_number": 2, "text": "न्यायालयाकडे", "is_correct": true },
+        { "option_number": 3, "text": "विमानतळावर", "is_correct": false },
+        { "option_number": 4, "text": "चित्रपटगृहात", "is_correct": false }
+      ],
+      "answer": "न्यायालय"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हाधिकाऱ्याचे काम कोणत्या कायद्याने चालते?",
+      "options": [
+        { "option_number": 1, "text": "भारतीय संविधानाने दिलेल्या", "is_correct": true },
+        { "option_number": 2, "text": "केवळ स्वतःच्या", "is_correct": false },
+        { "option_number": 3, "text": "इतर देशांच्या", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "संविधान"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यातील पाणीपुरवठ्याची सोय कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "पोलीस अधीक्षक", "is_correct": false },
+        { "option_number": 2, "text": "जिल्हा प्रशासन", "is_correct": true },
+        { "option_number": 3, "text": "केवळ दुकानदार", "is_correct": false },
+        { "option_number": 4, "text": "विदेशी पर्यटक", "is_correct": false }
+      ],
+      "answer": "जिल्हा प्रशासन"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "पोलीस निरीक्षकाची नेमणूक कोण करते?",
+      "options": [
+        { "option_number": 1, "text": "सरपंच", "is_correct": false },
+        { "option_number": 2, "text": "राज्य शासन (पोलीस विभाग)", "is_correct": true },
+        { "option_number": 3, "text": "ग्रामसेवक", "is_correct": false },
+        { "option_number": 4, "text": "तलाठी", "is_correct": false }
+      ],
+      "answer": "राज्य शासन"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "न्यायालयामुळे समाजातील काय सुरक्षित राहते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ पैसा", "is_correct": false },
+        { "option_number": 2, "text": "नागरिकांचे हक्क", "is_correct": true },
+        { "option_number": 3, "text": "केवळ रस्ते", "is_correct": false },
+        { "option_number": 4, "text": "फक्त वाहने", "is_correct": false }
+      ],
+      "answer": "नागरिकांचे हक्क"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हाधिकारी निवडणूक काळात काय म्हणून काम करतो?",
+      "options": [
+        { "option_number": 1, "text": "निवडणूक अधिकारी", "is_correct": true },
+        { "option_number": 2, "text": "केवळ मतदार", "is_correct": false },
+        { "option_number": 3, "text": "उमेदवार", "is_correct": false },
+        { "option_number": 4, "text": "पोलीस हवालदार", "is_correct": false }
+      ],
+      "answer": "निवडणूक अधिकारी"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्ह्यातील रस्ते दुरुस्तीचे काम कोणाचे आहे?",
+      "options": [
+        { "option_number": 1, "text": "जिल्हा प्रशासन", "is_correct": true },
+        { "option_number": 2, "text": "केवळ विद्यार्थ्यांचे", "is_correct": false },
+        { "option_number": 3, "text": "फक्त शेतकऱ्यांचे", "is_correct": false },
+        { "option_number": 4, "text": "चित्रपट सृष्टीचे", "is_correct": false }
+      ],
+      "answer": "जिल्हा प्रशासन"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "तहसीलदार कोठला प्रमुख असतो?",
+      "options": [
+        { "option_number": 1, "text": "जिल्ह्याचा", "is_correct": false },
+        { "option_number": 2, "text": "तालुक्याचा", "is_correct": true },
+        { "option_number": 3, "text": "राष्ट्राचा", "is_correct": false },
+        { "option_number": 4, "text": "राज्याचा", "is_correct": false }
+      ],
+      "answer": "तालुका"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "आपत्तीच्या वेळी कोणाला स्थलांतरित करावे लागते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ प्राण्यांना", "is_correct": false },
+        { "option_number": 2, "text": "नागरिकांना सुरक्षित स्थळी", "is_correct": true },
+        { "option_number": 3, "text": "केवळ नेत्यांना", "is_correct": false },
+        { "option_number": 4, "text": "फक्त दुकानांना", "is_correct": false }
+      ],
+      "answer": "नागरिक"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "न्यायालयातील वाद कशाच्या आधारे सोडवले जातात?",
+      "options": [
+        { "option_number": 1, "text": "केवळ पैशाच्या", "is_correct": false },
+        { "option_number": 2, "text": "कायद्याच्या", "is_correct": true },
+        { "option_number": 3, "text": "बलाच्या", "is_correct": false },
+        { "option_number": 4, "text": "गप्पांच्या", "is_correct": false }
+      ],
+      "answer": "कायदा"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "जिल्हा प्रशासन कोणासाठी कार्यरत असते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ श्रीमंतांसाठी", "is_correct": false },
+        { "option_number": 2, "text": "सर्व नागरिकांच्या हितासाठी", "is_correct": true },
+        { "option_number": 3, "text": "केवळ परदेशी पर्यटकांसाठी", "is_correct": false },
+        { "option_number": 4, "text": "कोणासाठीही नाही", "is_correct": false }
+      ],
+      "answer": "नागरिकांच्या हितासाठी"
+    },
+    {
+    "question_number": 51,
+    "question": "जिल्हा प्रशासनाचा प्रमुख कोण असतो?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 52,
+    "question": "जिल्हाधिकाऱ्याची नेमणूक कोण करते?",
+    "answer": "राज्य शासन"
+  },
+  {
+    "question_number": 53,
+    "question": "जिल्ह्यात शांतता व सुव्यवस्था राखण्याची जबाबदारी कोणाची असते?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 54,
+    "question": "शेतीचा सारा गोळा करणे हे कोणाचे काम आहे?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 55,
+    "question": "जिल्ह्यात निवडणुका योग्य रीतीने पार पाडणे ही कोणाची जबाबदारी आहे?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 56,
+    "question": "आपत्ती व्यवस्थापनात जिल्ह्याचा प्रमुख कोण असतो?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 57,
+    "question": "तलाठ्याच्या कामावर नियंत्रण कोण ठेवते?",
+    "answer": "तहसीलदार"
+  },
+  {
+    "question_number": 58,
+    "question": "तालुक्याचा प्रशासकीय प्रमुख कोण असतो?",
+    "answer": "तहसीलदार"
+  },
+  {
+    "question_number": 59,
+    "question": "जिल्ह्यातील पोलीस दलाचा प्रमुख कोण असतो?",
+    "answer": "पोलीस अधीक्षक"
+  },
+  {
+    "question_number": 60,
+    "question": "शहरात शांतता राखण्यासाठी कोणाची नेमणूक केली जाते?",
+    "answer": "पोलीस आयुक्त"
+  },
+  {
+    "question_number": 61,
+    "question": "गावात शांतता राखण्याचे काम कोण करतो?",
+    "answer": "पोलीस पाटील"
+  },
+  {
+    "question_number": 62,
+    "question": "पोलीस पाटलाची नेमणूक कोण करते?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 63,
+    "question": "जिल्हा स्तरावर न्याय देण्याचे काम कोण करते?",
+    "answer": "जिल्हा न्यायालय"
+  },
+  {
+    "question_number": 64,
+    "question": "दिवानी खटल्यांसाठी कोणते न्यायालय असते?",
+    "answer": "जिल्हा न्यायालय"
+  },
+  {
+    "question_number": 65,
+    "question": "फौजदारी खटल्यांसाठी कोणते न्यायालय असते?",
+    "answer": "सत्र न्यायालय"
+  },
+  {
+    "question_number": 66,
+    "question": "जिल्हा न्यायाधीशाची नेमणूक कोण करते?",
+    "answer": "राज्यपाल"
+  },
+  {
+    "question_number": 67,
+    "question": "गुन्हा घडल्यास प्रथम कोठे तक्रार करावी लागते?",
+    "answer": "पोलीस ठाणे"
+  },
+  {
+    "question_number": 68,
+    "question": "जिल्हा प्रशासनाचा महत्त्वाचा घटक कोणता आहे?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 69,
+    "question": "जिल्हा परिषदेचा प्रशासकीय प्रमुख कोण असतो?",
+    "answer": "मुख्य कार्यकारी अधिकारी"
+  },
+  {
+    "question_number": 70,
+    "question": "जिल्ह्यातील आरोग्य सेवेचा प्रमुख कोण असतो?",
+    "answer": "जिल्हा आरोग्य अधिकारी"
+  },
+  {
+    "question_number": 71,
+    "question": "जिल्ह्यातील माध्यमिक शिक्षणाचा प्रमुख कोण असतो?",
+    "answer": "शिक्षणाधिकारी"
+  },
+  {
+    "question_number": 72,
+    "question": "शेती सुधारण्यासाठी जिल्ह्याच्या पातळीवर कोण काम करतो?",
+    "answer": "जिल्हा कृषी अधिकारी"
+  },
+  {
+    "question_number": 73,
+    "question": "जिल्ह्यात पाणीपुरवठ्याची सोय कोण करते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 74,
+    "question": "नैसर्गिक आपत्तीच्या वेळी मदत कार्य कोण करते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 75,
+    "question": "मतदारयाद्या अद्ययावत करण्याचे काम कोणाचे आहे?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 76,
+    "question": "जिल्हाधिकाऱ्याला कायद्याचा सल्ला कोण देतो?",
+    "answer": "शासकीय अभियोक्ता"
+  },
+  {
+    "question_number": 77,
+    "question": "तहसीलदाराच्या कार्यालयाला काय म्हणतात?",
+    "answer": "तहसील कार्यालय"
+  },
+  {
+    "question_number": 78,
+    "question": "जिल्ह्यातील रस्ते दुरुस्तीचे काम कोण पाहते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 79,
+    "question": "गुन्ह्यांची उकल करणे हे कोणाचे काम आहे?",
+    "answer": "पोलीस विभाग"
+  },
+  {
+    "question_number": 80,
+    "question": "फौजदारी खटल्यात शिक्षा देण्याचा अधिकार कोणाला असतो?",
+    "answer": "सत्र न्यायाधीश"
+  },
+  {
+    "question_number": 81,
+    "question": "जिल्ह्यात संचारबंदी लागू करण्याचा अधिकार कोणाला आहे?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 82,
+    "question": "अन्याय झाल्यास व्यक्ती कोणाकडे दाद मागते?",
+    "answer": "न्यायालय"
+  },
+  {
+    "question_number": 83,
+    "question": "जिल्ह्यातील पशुधनाची गणना कोण करते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 84,
+    "question": "लोकशाहीत सत्तेचे काय केले जाते?",
+    "answer": "विकेंद्रीकरण"
+  },
+  {
+    "question_number": 85,
+    "question": "जिल्हाधिकारी हा कोणत्या परीक्षेमार्फत निवडला जातो?",
+    "answer": "भारतीय प्रशासकीय सेवा (IAS)"
+  },
+  {
+    "question_number": 86,
+    "question": "पोलीस अधीक्षक हा कोणत्या पदाचा अधिकारी असतो?",
+    "answer": "IPS"
+  },
+  {
+    "question_number": 87,
+    "question": "गावातील गुन्ह्यांची माहिती पोलिसांना कोण देतो?",
+    "answer": "पोलीस पाटील"
+  },
+  {
+    "question_number": 88,
+    "question": "जिल्हा स्तरावरील सर्वात मोठे न्यायालय कोणते?",
+    "answer": "जिल्हा व सत्र न्यायालय"
+  },
+  {
+    "question_number": 89,
+    "question": "जिल्हाधिकाऱ्याचे निवासस्थान कोठे असते?",
+    "answer": "जिल्ह्याच्या मुख्य ठिकाणी"
+  },
+  {
+    "question_number": 90,
+    "question": "जिल्हा स्तरावर कृषी उत्पन्न बाजार समितीवर कोण नियंत्रण ठेवते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 91,
+    "question": "तालुका दंडाधिकारी म्हणून कोणास ओळखले जाते?",
+    "answer": "तहसीलदार"
+  },
+  {
+    "question_number": 92,
+    "question": "जिल्हाधिकाऱ्याचे महसुली काम कोणते?",
+    "answer": "जमीन महसूल गोळा करणे"
+  },
+  {
+    "question_number": 93,
+    "question": "आपत्तीच्या काळात पुनर्वसनाचे काम कोण पाहते?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 94,
+    "question": "जिल्ह्यातील ग्रामपंचायतींवर देखरेख कोण ठेवते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 95,
+    "question": "न्यायालयामुळे नागरिकांच्या कशाचे संरक्षण होते?",
+    "answer": "मूलभूत हक्क"
+  },
+  {
+    "question_number": 96,
+    "question": "जिल्ह्यातील महिला व बालकल्याण विभाग कोणाच्या अखत्यारीत येतो?",
+    "answer": "जिल्हा परिषद"
+  },
+  {
+    "question_number": 97,
+    "question": "जिल्हा पोलीस दलात पोलीस अधीक्षकांच्या खाली कोण असतात?",
+    "answer": "पोलीस उपअधीक्षक"
+  },
+  {
+    "question_number": 98,
+    "question": "जिल्ह्यातील लसीकरण मोहिमेचे नियोजन कोण करते?",
+    "answer": "जिल्हा आरोग्य अधिकारी"
+  },
+  {
+    "question_number": 99,
+    "question": "जिल्हा न्यायाधीशांना सल्ल्यासाठी कोण मदत करते?",
+    "answer": "सरकारी वकील"
+  },
+  {
+    "question_number": 100,
+    "question": "जिल्हा प्रशासनाचा गाडा कोणामुळे चालतो?",
+    "answer": "अधिकारी व कर्मचारी"
+  },
+  {
+    "question_number": 101,
+    "question": "सात-बाराचा उतारा देण्याचे काम कोणाचे आहे?",
+    "answer": "तलाठी"
+  },
+  {
+    "question_number": 102,
+    "question": "जिल्हाधिकारी कार्यालयाला काय म्हणतात?",
+    "answer": "जिल्हाधिकारी कचेरी (Collector Office)"
+  },
+  {
+    "question_number": 103,
+    "question": "पोलीस पाटील हा कोणाचा दुवा असतो?",
+    "answer": "गाव आणि पोलीस ठाणे"
+  },
+  {
+    "question_number": 104,
+    "question": "जिल्ह्यात आपत्ती व्यवस्थापन प्राधिकरण कोणाकडे असते?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 105,
+    "question": "जिल्हा न्यायालयात अपील कोठे करता येते?",
+    "answer": "उच्च न्यायालयात"
+  },
+  {
+    "question_number": 106,
+    "question": "तालुक्यातील रेशन कार्ड देण्याचे काम कोणाचे आहे?",
+    "answer": "तहसीलदार"
+  },
+  {
+    "question_number": 107,
+    "question": "जिल्ह्यातील वाळू उपसा व खनिजांवर नियंत्रण कोणाचे असते?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 108,
+    "question": "पोलीस निरीक्षकाची नेमणूक कोण करते?",
+    "answer": "राज्य शासन (गृह विभाग)"
+  },
+  {
+    "question_number": 109,
+    "question": "जिल्ह्यातील बालविवाह रोखण्याचे काम कोणाचे आहे?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 110,
+    "question": "जिल्हाधिकाऱ्याचे निवडणूक विषयक काम कोणते?",
+    "answer": "निवडणूक निकाल घोषित करणे"
+  },
+  {
+    "question_number": 111,
+    "question": "जिल्ह्यातील पाणीपट्टी व घरपट्टी वसुलीवर कोण लक्ष देते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 112,
+    "question": "जिल्ह्यातील क्रीडा स्पर्धांचे आयोजन कोण करते?",
+    "answer": "जिल्हा क्रीडा अधिकारी"
+  },
+  {
+    "question_number": 113,
+    "question": "न्यायालयातील कामकाजाची भाषा कोणती असते?",
+    "answer": "मराठी व इंग्रजी"
+  },
+  {
+    "question_number": 114,
+    "question": "जिल्हाधिकाऱ्याच्या अनुपस्थितीत कार्यभार कोण पाहतो?",
+    "answer": "अपर जिल्हाधिकारी"
+  },
+  {
+    "question_number": 115,
+    "question": "पोलीस स्टेशनचा प्रमुख कोण असतो?",
+    "answer": "पोलीस निरीक्षक"
+  },
+  {
+    "question_number": 116,
+    "question": "जिल्हा स्तरावर जन्म-मृत्यूची नोंद कोण ठेवते?",
+    "answer": "आरोग्य विभाग"
+  },
+  {
+    "question_number": 117,
+    "question": "तहसीलदाराच्या निवडीसाठी कोणती परीक्षा असते?",
+    "answer": "MPSC"
+  },
+  {
+    "question_number": 118,
+    "question": "जिल्हा न्यायाधीशाच्या पदासाठी कोणाकडे अर्ज करावा लागतो?",
+    "answer": "उच्च न्यायालय"
+  },
+  {
+    "question_number": 119,
+    "question": "जिल्ह्यातील समाजकल्याण अधिकारी कोणासाठी काम करतात?",
+    "answer": "दुर्बल घटक व मागासवर्गीय"
+  },
+  {
+    "question_number": 120,
+    "question": "जिल्हा प्रशासनाची सर्व माहिती कोठे मिळते?",
+    "answer": "जिल्ह्याच्या संकेतस्थळावर (Website)"
+  },
+  {
+    "question_number": 121,
+    "question": "जिल्हा स्तरावर पर्यावरणाचे रक्षण कोण करते?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 122,
+    "question": "जिल्ह्यातील अवैध बांधकामांवर कारवाई कोण करते?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 123,
+    "question": "न्यायदानाचे काम निःपक्षपातीपणे व्हावे म्हणून काय आवश्यक आहे?",
+    "answer": "स्वातंत्र्य"
+  },
+  {
+    "question_number": 124,
+    "question": "जिल्ह्यातील सरकारी जमिनीचे रक्षण कोण करतो?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 125,
+    "question": "जिल्हा पोलीस दलात हवालदाराच्या वरील पद कोणते?",
+    "answer": "पोलीस उपनिरीक्षक"
+  },
+  {
+    "question_number": 126,
+    "question": "जिल्ह्यातील साक्षरता मोहिमेचे नेतृत्व कोण करतो?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 127,
+    "question": "तालुक्यातील पाणी टंचाईवर उपाययोजना कोण करते?",
+    "answer": "तहसीलदार"
+  },
+  {
+    "question_number": 128,
+    "question": "जिल्हा न्यायाधीशांचे वेतन कोठून दिले जाते?",
+    "answer": "संचित निधीतून"
+  },
+  {
+    "question_number": 129,
+    "question": "जिल्ह्यातील उद्योग व व्यापारावर नियंत्रण कोणाचे असते?",
+    "answer": "जिल्हा उद्योग केंद्र"
+  },
+  {
+    "question_number": 130,
+    "question": "जिल्हा प्रशासनाचा कणा कोणास म्हणतात?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 131,
+    "question": "गावातील भांडणे सामोपचाराने सोडवण्याचे काम कोण करतो?",
+    "answer": "पोलीस पाटील"
+  },
+  {
+    "question_number": 132,
+    "question": "जिल्हाधिकारी हा कोणत्या खात्याचा अधिकारी असतो?",
+    "answer": "महसूल खाते"
+  },
+  {
+    "question_number": 133,
+    "question": "जिल्ह्यातील पर्यटन स्थळांच्या विकासाची जबाबदारी कोणाची आहे?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 134,
+    "question": "जिल्हा स्तरावर लोकदालतींचे आयोजन कोण करते?",
+    "answer": "जिल्हा न्यायालय"
+  },
+  {
+    "question_number": 135,
+    "question": "तहसीलदार हा कोणत्या श्रेणीचा अधिकारी असतो?",
+    "answer": "राजपत्रित वर्ग-१"
+  },
+  {
+    "question_number": 136,
+    "question": "जिल्हा पोलीस दलात वायरमन कशासाठी असतात?",
+    "answer": "बिनतारी संदेशवहनासाठी"
+  },
+  {
+    "question_number": 137,
+    "question": "जिल्ह्यातील खतांचा पुरवठा कोण पाहतो?",
+    "answer": "जिल्हा कृषी अधिकारी"
+  },
+  {
+    "question_number": 138,
+    "question": "जिल्हा स्तरावर बाल गुन्हेगारांसाठी कोणते केंद्र असते?",
+    "answer": "निरीक्षण गृह"
+  },
+  {
+    "question_number": 139,
+    "question": "जिल्हा प्रशासनातील भ्रष्टाचारावर नियंत्रण कोण ठेवते?",
+    "answer": "लाचलुचपत प्रतिबंधक विभाग"
+  },
+  {
+    "question_number": 140,
+    "question": "जिल्हाधिकारी हा कोणाला उत्तरदायी असतो?",
+    "answer": "विभागीय आयुक्त"
+  },
+  {
+    "question_number": 141,
+    "question": "गावातील मृत्यूची नोंद तलाठ्याला कोण कळवतो?",
+    "answer": "पोलीस पाटील"
+  },
+  {
+    "question_number": 142,
+    "question": "जिल्ह्यातील वीज वितरणाची सोय कोण पाहते?",
+    "answer": "जिल्हा प्रशासन (MSEB सहकार्य)"
+  },
+  {
+    "question_number": 143,
+    "question": "न्यायालयातील पुराव्यांची तपासणी कोण करते?",
+    "answer": "न्यायाधीश"
+  },
+  {
+    "question_number": 144,
+    "question": "जिल्हा स्तरावर आपत्ती व्यवस्थापन आराखडा कोण तयार करते?",
+    "answer": "जिल्हाधिकारी"
+  },
+  {
+    "question_number": 145,
+    "question": "पोलीस भरती प्रक्रियेवर नियंत्रण कोणाचे असते?",
+    "answer": "पोलीस अधीक्षक"
+  },
+  {
+    "question_number": 146,
+    "question": "जिल्ह्यातील ग्रंथालयांना मंजुरी कोण देतो?",
+    "answer": "जिल्हा प्रशासन"
+  },
+  {
+    "question_number": 147,
+    "question": "तहसीलदार हा उपविभागीय अधिकाऱ्याच्या खाली असतो का?",
+    "answer": "हो"
+  },
+  {
+    "question_number": 148,
+    "question": "जिल्हा न्यायाधीशांचा दर्जा कोणासमान असतो?",
+    "answer": "सत्र न्यायाधीश"
+  },
+  {
+    "question_number": 149,
+    "question": "जिल्हा प्रशासनाचे मुख्य उद्दिष्ट काय आहे?",
+    "answer": "जनहित व विकास"
+  },
+  {
+    "question_number": 150,
+    "question": "जिल्हा हा राज्याचा काय असतो?",
+    "answer": "प्रशासकीय घटक"
+  }
+]}

@@ -1,0 +1,712 @@
+{
+  "chapter_info": {
+    "chapter_number": "06.Marathi.04",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-१",
+    "sub_lesson_name": "गवतफुला रे गवतफुला"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "Multiple Choice",
+      "question": "‘गवतफुला रे गवतफुला’ या कवितेच्या कवयित्री कोण आहेत?",
+      "options": [
+        { "option_number": 1, "text": "बहिणाबाई चौधरी", "is_correct": false },
+        { "option_number": 2, "text": "इंदिरा संत", "is_correct": true },
+        { "option_number": 3, "text": "शांता शेळके", "is_correct": false },
+        { "option_number": 4, "text": "पद्मा गोळे", "is_correct": false }
+      ],
+      "answer": "इंदिरा संत"
+    },
+    {
+      "question_number": 2,
+      "question_type": "Multiple Choice",
+      "question": "मुलगा माळावर काय उडवत होता?",
+      "options": [
+        { "option_number": 1, "text": "विमान", "is_correct": false },
+        { "option_number": 2, "text": "पतंग", "is_correct": true },
+        { "option_number": 3, "text": "फुगा", "is_correct": false },
+        { "option_number": 4, "text": "भिंगरी", "is_correct": false }
+      ],
+      "answer": "पतंग"
+    },
+    {
+      "question_number": 3,
+      "question_type": "Multiple Choice",
+      "question": "मुलगा कोणासोबत माळावर फिरत होता?",
+      "options": [
+        { "option_number": 1, "text": "आईसोबत", "is_correct": false },
+        { "option_number": 2, "text": "वडिलांसोबत", "is_correct": false },
+        { "option_number": 3, "text": "मित्रांसंगे", "is_correct": true },
+        { "option_number": 4, "text": "एकटाच", "is_correct": false }
+      ],
+      "answer": "मित्रांसंगे"
+    },
+    {
+      "question_number": 4,
+      "question_type": "Multiple Choice",
+      "question": "मुलाने माळावर काय पाहिले?",
+      "options": [
+        { "option_number": 1, "text": "गवतफूल", "is_correct": true },
+        { "option_number": 2, "text": "पाखरू", "is_correct": false },
+        { "option_number": 3, "text": "दगड", "is_correct": false },
+        { "option_number": 4, "text": "झरा", "is_correct": false }
+      ],
+      "answer": "गवतफूल"
+    },
+    {
+      "question_number": 5,
+      "question_type": "Multiple Choice",
+      "question": "गवतफूल माळावर काय करत होते?",
+      "options": [
+        { "option_number": 1, "text": "झुलत होते", "is_correct": true },
+        { "option_number": 2, "text": "रडत होते", "is_correct": false },
+        { "option_number": 3, "text": "पळत होते", "is_correct": false },
+        { "option_number": 4, "text": "झोपले होते", "is_correct": false }
+      ],
+      "answer": "झुलत होते"
+    },
+    {
+      "question_number": 6,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाला पाहून मुलगा कोणाला विसरला?",
+      "options": [
+        { "option_number": 1, "text": "घराला", "is_correct": false },
+        { "option_number": 2, "text": "शाळेला", "is_correct": false },
+        { "option_number": 3, "text": "नभिचा पतंग", "is_correct": true },
+        { "option_number": 4, "text": "पाण्याला", "is_correct": false }
+      ],
+      "answer": "नभिचा पतंग"
+    },
+    {
+      "question_number": 7,
+      "question_type": "Multiple Choice",
+      "question": "मुलाने कोणाला विसरून गवतफुलाकडे पाहिले?",
+      "options": [
+        { "option_number": 1, "text": "पक्ष्यांना", "is_correct": false },
+        { "option_number": 2, "text": "मित्रांना", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षकांना", "is_correct": false },
+        { "option_number": 4, "text": "भावाला", "is_correct": false }
+      ],
+      "answer": "मित्रांना"
+    },
+    {
+      "question_number": 8,
+      "question_type": "Multiple Choice",
+      "question": "कवयित्रीने गवतफुलाला काय म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "रंगरंगुल्या", "is_correct": true },
+        { "option_number": 2, "text": "रागीट", "is_correct": false },
+        { "option_number": 3, "text": "काळाकुट्ट", "is_correct": false },
+        { "option_number": 4, "text": "उंचच उंच", "is_correct": false }
+      ],
+      "answer": "रंगरंगुल्या"
+    },
+    {
+      "question_number": 9,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाच्या दोन्ही बाजूंना काय सळसळते?",
+      "options": [
+        { "option_number": 1, "text": "काटे", "is_correct": false },
+        { "option_number": 2, "text": "रेशिम-पाती", "is_correct": true },
+        { "option_number": 3, "text": "फुले", "is_correct": false },
+        { "option_number": 4, "text": "वेली", "is_correct": false }
+      ],
+      "answer": "रेशिम-पाती"
+    },
+    {
+      "question_number": 10,
+      "question_type": "Multiple Choice",
+      "question": "रेशिम-पाती कोणत्या रंगाची आहेत?",
+      "options": [
+        { "option_number": 1, "text": "लाल", "is_correct": false },
+        { "option_number": 2, "text": "पिवळी", "is_correct": false },
+        { "option_number": 3, "text": "हिरवी", "is_correct": true },
+        { "option_number": 4, "text": "पांढरी", "is_correct": false }
+      ],
+      "answer": "हिरवी"
+    },
+    {
+      "question_number": 11,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाची पाकळी कोणत्या रंगाची आहे?",
+      "options": [
+        { "option_number": 1, "text": "नीळनिळूली", "is_correct": true },
+        { "option_number": 2, "text": "काली", "is_correct": false },
+        { "option_number": 3, "text": "गुलाबी", "is_correct": false },
+        { "option_number": 4, "text": "शेंदरी", "is_correct": false }
+      ],
+      "answer": "नीळनिळूली"
+    },
+    {
+      "question_number": 12,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाचे पराग कसे आहेत?",
+      "options": [
+        { "option_number": 1, "text": "फिकट", "is_correct": false },
+        { "option_number": 2, "text": "पिवळे झगमगते", "is_correct": true },
+        { "option_number": 3, "text": "लालभडक", "is_correct": false },
+        { "option_number": 4, "text": "हिरवेगार", "is_correct": false }
+      ],
+      "answer": "पिवळे झगमगते"
+    },
+    {
+      "question_number": 13,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाच्या तळाला कोणती गोजिरवाणी पाकळी खुलते?",
+      "options": [
+        { "option_number": 1, "text": "पांढरी", "is_correct": false },
+        { "option_number": 2, "text": "लाल", "is_correct": true },
+        { "option_number": 3, "text": "काळा", "is_correct": false },
+        { "option_number": 4, "text": "तपकिरी", "is_correct": false }
+      ],
+      "answer": "लाल"
+    },
+    {
+      "question_number": 14,
+      "question_type": "Multiple Choice",
+      "question": "उन्हामध्ये गवतफुलाचे रंग पाहून काय हरपून गेले?",
+      "options": [
+        { "option_number": 1, "text": "भान", "is_correct": true },
+        { "option_number": 2, "text": "पैसे", "is_correct": false },
+        { "option_number": 3, "text": "वाट", "is_correct": false },
+        { "option_number": 4, "text": "काम", "is_correct": false }
+      ],
+      "answer": "भान"
+    },
+    {
+      "question_number": 15,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाशी लहान होऊन कोण खेळते?",
+      "options": [
+        { "option_number": 1, "text": "वारा", "is_correct": true },
+        { "option_number": 2, "text": "पाऊस", "is_correct": false },
+        { "option_number": 3, "text": "डोंगर", "is_correct": false },
+        { "option_number": 4, "text": "नदी", "is_correct": false }
+      ],
+      "answer": "वारा"
+    },
+    {
+      "question_number": 16,
+      "question_type": "Multiple Choice",
+      "question": "वारा गवतफुलाशी कशाप्रमाणे खेळतो?",
+      "options": [
+        { "option_number": 1, "text": "सापशीडी", "is_correct": false },
+        { "option_number": 2, "text": "लहान मुलाप्रमाणे", "is_correct": true },
+        { "option_number": 3, "text": "क्रिकेट", "is_correct": false },
+        { "option_number": 4, "text": "खो-खो", "is_correct": false }
+      ],
+      "answer": "लहान मुलाप्रमाणे"
+    },
+    {
+      "question_number": 17,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलासाठी अंगाई गीत कोण गाते?",
+      "options": [
+        { "option_id": 1, "text": "आई", "is_correct": false },
+        { "option_id": 2, "text": "रात्र", "is_correct": true },
+        { "option_id": 3, "text": "वारा", "is_correct": false },
+        { "option_id": 4, "text": "पाखरू", "is_correct": false }
+      ],
+      "answer": "रात्र"
+    },
+    {
+      "question_number": 18,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला गवतफुलापेक्षाही काय व्हावेसे वाटते?",
+      "options": [
+        { "option_id": 1, "text": "मोठा", "is_correct": false },
+        { "option_id": 2, "text": "उंच", "is_correct": false },
+        { "option_id": 3, "text": "लहान", "is_correct": true },
+        { "option_id": 4, "text": "जाड", "is_correct": false }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_number": 19,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला गवतफुलाची कोणती भाषा शिकायची आहे?",
+      "options": [
+        { "option_id": 1, "text": "कठीण", "is_correct": false },
+        { "option_id": 2, "text": "गोजिरी", "is_correct": true },
+        { "option_id": 3, "text": "परदेशी", "is_correct": false },
+        { "option_id": 4, "text": "प्रादेशिक", "is_correct": false }
+      ],
+      "answer": "गोजिरी"
+    },
+    {
+      "question_number": 20,
+      "question_type": "Multiple Choice",
+      "question": "भाषा शिकून मुलाला गवतफुलाला काय सांगायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "गोष्टी", "is_correct": true },
+        { "option_id": 2, "text": "गाणी", "is_correct": false },
+        { "option_id": 3, "text": "भांडण", "is_correct": false },
+        { "option_id": 4, "text": "बातम्या", "is_correct": false }
+      ],
+      "answer": "गोष्टी"
+    },
+    {
+      "question_number": 21,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला कोणाला फसवायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "मित्रांना", "is_correct": false },
+        { "option_id": 2, "text": "फुलपाखरांना", "is_correct": true },
+        { "option_id": 3, "text": "पक्ष्यांना", "is_correct": false },
+        { "option_id": 4, "text": "प्राण्यांना", "is_correct": false }
+      ],
+      "answer": "फुलपाखरांना"
+    },
+    {
+      "question_number": 22,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला कोणासारखे रंगरूप घ्यायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाघासारखे", "is_correct": false },
+        { "option_id": 2, "text": "गवतफुलासारखे", "is_correct": true },
+        { "option_id": 3, "text": "झाडासारखे", "is_correct": false },
+        { "option_id": 4, "text": "तारासारखे", "is_correct": false }
+      ],
+      "answer": "गवतफुलासारखे"
+    },
+    {
+      "question_number": 23,
+      "question_type": "Multiple Choice",
+      "question": "‘सानसानुल्या’ या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "खूप मोठा", "is_correct": false },
+        { "option_id": 2, "text": "लहानगा", "is_correct": true },
+        { "option_id": 3, "text": "रागीट", "is_correct": false },
+        { "option_id": 4, "text": "वेडा", "is_correct": false }
+      ],
+      "answer": "लहानगा"
+    },
+    {
+      "question_number": 24,
+      "question_type": "Multiple Choice",
+      "question": "गवतफूल पाहून मुलगा कसा झाला?",
+      "options": [
+        { "option_id": 1, "text": "रडत होता", "is_correct": false },
+        { "option_id": 2, "text": "हरखून गेला", "is_correct": true },
+        { "option_id": 3, "text": "रागावला", "is_correct": false },
+        { "option_id": 4, "text": "घाबरला", "is_correct": false }
+      ],
+      "answer": "हरखून गेला"
+    },
+    {
+      "question_number": 25,
+      "question_type": "Multiple Choice",
+      "question": "नभिचा या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "जमिनीचा", "is_correct": false },
+        { "option_id": 2, "text": "आकाशाचा", "is_correct": true },
+        { "option_id": 3, "text": "समुद्राचा", "is_correct": false },
+        { "option_id": 4, "text": "पाताळाचा", "is_correct": false }
+      ],
+      "answer": "आकाशाचा"
+    },
+    {
+      "question_number": 26,
+      "question_type": "Multiple Choice",
+      "question": "पाती या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "दोरी", "is_correct": false },
+        { "option_id": 2, "text": "पाने/गवताची पाने", "is_correct": true },
+        { "option_id": 3, "text": "दगड", "is_correct": false },
+        { "option_id": 4, "text": "काठी", "is_correct": false }
+      ],
+      "answer": "पाने/गवताची पाने"
+    },
+    {
+      "question_number": 27,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाचा लळा कोणाला लागला?",
+      "options": [
+        { "option_id": 1, "text": "पशूंना", "is_correct": false },
+        { "option_id": 2, "text": "मुलाला", "is_correct": true },
+        { "option_id": 3, "text": "झाडांना", "is_correct": false },
+        { "option_id": 4, "text": "वेलींना", "is_correct": false }
+      ],
+      "answer": "मुलाला"
+    },
+    {
+      "question_number": 28,
+      "question_type": "Multiple Choice",
+      "question": "गवतफूल कोठे डोलत होते?",
+      "options": [
+        { "option_id": 1, "text": "गवतावरती", "is_correct": true },
+        { "option_id": 2, "text": "झाडावरती", "is_correct": false },
+        { "option_id": 3, "text": "छतावरती", "is_correct": false },
+        { "option_id": 4, "text": "पाण्यावरती", "is_correct": false }
+      ],
+      "answer": "गवतावरती"
+    },
+    {
+      "question_number": 29,
+      "question_type": "Multiple Choice",
+      "question": "झुलता झुलता गवतफूल काय करत होते?",
+      "options": [
+        { "option_id": 1, "text": "हसत होते", "is_correct": true },
+        { "option_id": 2, "text": "गाऊ लागले", "is_correct": false },
+        { "option_id": 3, "text": "रडू लागले", "is_correct": false },
+        { "option_id": 4, "text": "पळू लागले", "is_correct": false }
+      ],
+      "answer": "हसत होते"
+    },
+    {
+      "question_number": 30,
+      "question_type": "Multiple Choice",
+      "question": "रेशिम-पाती कशी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "कडक", "is_correct": false },
+        { "option_id": 2, "text": "नाजुक", "is_correct": true },
+        { "option_id": 3, "text": "जड", "is_correct": false },
+        { "option_id": 4, "text": "काळे", "is_correct": false }
+      ],
+      "answer": "नाजुक"
+    },
+    {
+      "question_number": 31,
+      "question_type": "Multiple Choice",
+      "question": "पाकळीचा रंग ‘नीळनिळूली’ म्हणजे कोणता?",
+      "options": [
+        { "option_id": 1, "text": "गडद निळा", "is_correct": false },
+        { "option_id": 2, "text": "निळसर", "is_correct": true },
+        { "option_id": 3, "text": "काळा", "is_correct": false },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "निळसर"
+    },
+    {
+      "question_number": 32,
+      "question_type": "Multiple Choice",
+      "question": "‘झगमगती’ या शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "अंधार", "is_correct": false },
+        { "option_id": 2, "text": "चमकणारे", "is_correct": true },
+        { "option_id": 3, "text": "मळलेले", "is_correct": false },
+        { "option_id": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "चमकणारे"
+    },
+    {
+      "question_number": 33,
+      "question_type": "Multiple Choice",
+      "question": "लाल पाकळी कोठे खुलली आहे?",
+      "options": [
+        { "option_id": 1, "text": "वरती", "is_correct": false },
+        { "option_id": 2, "text": "मध्ये", "is_correct": false },
+        { "option_id": 3, "text": "तळी (खाली)", "is_correct": true },
+        { "option_id": 4, "text": "बाजूला", "is_correct": false }
+      ],
+      "answer": "तळी (खाली)"
+    },
+    {
+      "question_number": 34,
+      "question_type": "Multiple Choice",
+      "question": "वारा स्वतःला काय विसरून गवतफुलाशी खेळतो?",
+      "options": [
+        { "option_id": 1, "text": "घर", "is_correct": false },
+        { "option_id": 2, "text": "रूप", "is_correct": false },
+        { "option_id": 3, "text": "मोठेपण", "is_correct": true },
+        { "option_id": 4, "text": "भान", "is_correct": false }
+      ],
+      "answer": "मोठेपण"
+    },
+    {
+      "question_number": 35,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला गवतफुलासोबत कोठे राहायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "माळावर", "is_correct": true },
+        { "option_id": 2, "text": "घरात", "is_correct": false },
+        { "option_id": 3, "text": "शाळेत", "is_correct": false },
+        { "option_id": 4, "text": "बाजारात", "is_correct": false }
+      ],
+      "answer": "माळावर"
+    },
+    {
+      "question_number": 36,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला कोणाचे खाऊ खायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "गवतफुलाचे", "is_correct": true },
+        { "option_id": 2, "text": "मित्राचे", "is_correct": false },
+        { "option_id": 3, "text": "आईचे", "is_correct": false },
+        { "option_id": 4, "text": "पक्ष्याचे", "is_correct": false }
+      ],
+      "answer": "गवतफुलाचे"
+    },
+    {
+      "question_number": 37,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला काय विसरून माळावर राहायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "घर आणि शाळा", "is_correct": true },
+        { "option_id": 2, "text": "खेळ", "is_correct": false },
+        { "option_id": 3, "text": "झोप", "is_correct": false },
+        { "option_id": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "घर आणि शाळा"
+    },
+    {
+      "question_number": 38,
+      "question_type": "Multiple Choice",
+      "question": "‘लळा लागणे’ या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        { "option_id": 1, "text": "राग येणे", "is_correct": false },
+        { "option_id": 2, "text": "माया/प्रेम वाटणे", "is_correct": true },
+        { "option_id": 3, "text": "भय वाटणे", "is_correct": false },
+        { "option_id": 4, "text": "विसरणे", "is_correct": false }
+      ],
+      "answer": "माया/प्रेम वाटणे"
+    },
+    {
+      "question_number": 39,
+      "question_type": "Multiple Choice",
+      "question": "‘भान हरपणे’ म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "भान येणे", "is_correct": false },
+        { "option_id": 2, "text": "तल्लीन होणे", "is_correct": true },
+        { "option_id": 3, "text": "घाबरणे", "is_correct": false },
+        { "option_id": 4, "text": "पळून जाणे", "is_correct": false }
+      ],
+      "answer": "तल्लीन होणे"
+    },
+    {
+      "question_number": 40,
+      "question_type": "Multiple Choice",
+      "question": "कवितेत गवतफुलाला काय म्हटले आहे?",
+      "options": [
+        { "option_id": 1, "text": "वेडे", "is_correct": false },
+        { "option_id": 2, "text": "गोजिरवाणी", "is_correct": true },
+        { "option_id": 3, "text": "दुष्ट", "is_correct": false },
+        { "option_id": 4, "text": "कुरूप", "is_correct": false }
+      ],
+      "answer": "गोजिरवाणी"
+    },
+    {
+      "question_number": 41,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाचे केस कसे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "खरखरीत", "is_correct": false },
+        { "option_id": 2, "text": "रेशमी", "is_correct": true },
+        { "option_id": 3, "text": "पांढरे", "is_correct": false },
+        { "option_id": 4, "text": "कुरळे", "is_correct": false }
+      ],
+      "answer": "रेशमी"
+    },
+    {
+      "question_number": 42,
+      "question_type": "Multiple Choice",
+      "question": "‘अंगाई’ हे गाणे कोणासाठी गायले जाते?",
+      "options": [
+        { "option_id": 1, "text": "झोपवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "जागे करण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "खेळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "भांडण्यासाठी", "is_correct": false }
+      ],
+      "answer": "झोपवण्यासाठी"
+    },
+    {
+      "question_number": 43,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाच्या पाकळ्यांची संख्या कवितेत कशी दर्शवली आहे?",
+      "options": [
+        { "option_id": 1, "text": "एक पाकळी आणि दोन पाती", "is_correct": true },
+        { "option_id": 2, "text": "दहा पाकळ्या", "is_correct": false },
+        { "option_id": 3, "text": "शंभर पाकळ्या", "is_correct": false },
+        { "option_id": 4, "text": "पाकळ्या नाहीत", "is_correct": false }
+      ],
+      "answer": "एक पाकळी आणि दोन पाती"
+    },
+    {
+      "question_number": 44,
+      "question_type": "Multiple Choice",
+      "question": "मुलाचा पतंग कोठे उडत होता?",
+      "options": [
+        { "option_id": 1, "text": "पाण्यात", "is_correct": false },
+        { "option_id": 2, "text": "नभात (आकाशात)", "is_correct": true },
+        { "option_id": 3, "text": "जमिनीत", "is_correct": false },
+        { "option_id": 4, "text": "घरात", "is_correct": false }
+      ],
+      "answer": "नभात (आकाशात)"
+    },
+    {
+      "question_number": 45,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाचे रंग कसे आहेत?",
+      "options": [
+        { "option_id": 1, "text": "एकच रंग", "is_correct": false },
+        { "option_id": 2, "text": "रंगीत/रंगबेरंगी", "is_correct": true },
+        { "option_id": 3, "text": "केवळ काळा", "is_correct": false },
+        { "option_id": 4, "text": "रंगहीन", "is_correct": false }
+      ],
+      "answer": "रंगीत/रंगबेरंगी"
+    },
+    {
+      "question_number": 46,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला कोणाच्या गोष्टी ऐकायच्या आहेत?",
+      "options": [
+        { "option_id": 1, "text": "गवतफुलाच्या", "is_correct": true },
+        { "option_id": 2, "text": "राजाच्या", "is_correct": false },
+        { "option_id": 3, "text": "परिवाराच्या", "is_correct": false },
+        { "option_id": 4, "text": "शिकाऱ्याच्या", "is_correct": false }
+      ],
+      "answer": "गवतफुलाच्या"
+    },
+    {
+      "question_number": 47,
+      "question_type": "Multiple Choice",
+      "question": "मुलाला गवतफुलासारखे काय करायचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "फुलपाखरांना फसवायचे", "is_correct": true },
+        { "option_id": 2, "text": "मित्रांना मारायचे", "is_correct": false },
+        { "option_id": 3, "text": "पळायचे", "is_correct": false },
+        { "option_id": 4, "text": "झोपायचे", "is_correct": false }
+      ],
+      "answer": "फुलपाखरांना फसवायचे"
+    },
+    {
+      "question_number": 48,
+      "question_type": "Multiple Choice",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "निसर्ग सौंदर्य", "is_correct": true },
+        { "option_id": 2, "text": "शहरी जीवन", "is_correct": false },
+        { "option_id": 3, "text": "अभ्यास", "is_correct": false },
+        { "option_id": 4, "text": "वाहतूक", "is_correct": false }
+      ],
+      "answer": "निसर्ग सौंदर्य"
+    },
+    {
+      "question_number": 49,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाचे स्मित कसे आहे?",
+      "options": [
+        { "option_id": 1, "text": "रडवे", "is_correct": false },
+        { "option_id": 2, "text": "हसरे", "is_correct": true },
+        { "option_id": 3, "text": "रागीट", "is_correct": false },
+        { "option_id": 4, "text": "भयानक", "is_correct": false }
+      ],
+      "answer": "हसरे"
+    },
+    {
+      "question_number": 50,
+      "question_type": "Multiple Choice",
+      "question": "गवतफुलाचा लळा कोणाला लागला असे विचारले आहे?",
+      "options": [
+        { "option_id": 1, "text": "कवयित्रीला", "is_correct": false },
+        { "option_id": 2, "text": "मुलाला", "is_correct": true },
+        { "option_id": 3, "text": "वाऱ्याला", "is_correct": false },
+        { "option_id": 4, "text": "मित्रांना", "is_correct": false }
+      ],
+      "answer": "मुलाला"
+    },
+    { "question_number": 51, "question_type": "एकशब्दी", "question": "गवतफुलाची फुले कोणत्या रंगाची आहेत?", "answer": "पिवळी" },
+    { "question_number": 52, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्या कशा आहेत?", "answer": "नाजूक" },
+    { "question_number": 53, "question_type": "एकशब्दी", "question": "वारा गवतफुलाशी काय खेळतो?", "answer": "झोपाळा" },
+    { "question_number": 54, "question_type": "एकशब्दी", "question": "गवतफुलाच्या मधे कोणत्या रंगाचे पराग आहेत?", "answer": "पिवळ्या" },
+    { "question_number": 55, "question_type": "एकशब्दी", "question": "गवतफुलाच्या तळाला कोणती छोटी गोष्ट आहे?", "answer": "हिरवी पाने" },
+    { "question_number": 56, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाला पाहून काय विसर पडला?", "answer": "स्वतःचा" },
+    { "question_number": 57, "question_type": "एकशब्दी", "question": "रात्री गवतफुलाला काय म्हणून येते?", "answer": "अंगाई गीत" },
+    { "question_number": 58, "question_type": "एकशब्दी", "question": "गवतफूल कशावर डोलते?", "answer": "वाऱ्यावर" },
+    { "question_number": 59, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाची कोणती भाषा शिकायची आहे?", "answer": "गोड गोष्टींची" },
+    { "question_number": 60, "question_type": "एकशब्दी", "question": "गवतफुलाचे हसणे कशासारखे आहे?", "answer": "मोहक" },
+    { "question_number": 61, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळीचा दुसरा रंग कोणता?", "answer": "निळा" },
+    { "question_number": 62, "question_type": "एकशब्दी", "question": "वारा काय म्हणून गवतफुलाला झुलवतो?", "answer": "लहान होऊन" },
+    { "question_number": 63, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाठीमागे कोणती पाने आहेत?", "answer": "हिरवी" },
+    { "question_number": 64, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाचे काय व्हायचे आहे?", "answer": "मित्र" },
+    { "question_number": 65, "question_type": "एकशब्दी", "question": "गवतफुलाच्या देठाजवळ काय आहे?", "answer": "पाने" },
+    { "question_number": 66, "question_type": "एकशब्दी", "question": "पिवळी फुले कशावर उमलली आहेत?", "answer": "देठावर" },
+    { "question_number": 67, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाचा काय घ्यायचा आहे?", "answer": "सुगंध" },
+    { "question_number": 68, "question_type": "एकशब्दी", "question": "आकाशातून गवतफुलाला भेटायला कोण येते?", "answer": "तारा" },
+    { "question_number": 69, "question_type": "एकशब्दी", "question": "गवतफुलाची कांती कशी आहे?", "answer": "उजळ" },
+    { "question_number": 70, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्यांचा आकार कसा आहे?", "answer": "लहान" },
+    { "question_number": 71, "question_type": "एकशब्दी", "question": "गवतफुलाच्या परागांचा रंग कोणता?", "answer": "पिवळा" },
+    { "question_number": 72, "question_type": "एकशब्दी", "question": "गवतफूल कशामुळे लाजते?", "answer": "कौतुकामुळे" },
+    { "question_number": 73, "question_type": "एकशब्दी", "question": "मुलाला कोणासोबत खेळायला जायचे होते?", "answer": "मित्रांसोबत" },
+    { "question_number": 74, "question_type": "एकशब्दी", "question": "गवतफुलाला पाहून मुलाने काय विसरले?", "answer": "शाळा" },
+    { "question_number": 75, "question_type": "एकशब्दी", "question": "गवतफुलाचे डोळे कशासारखे आहेत?", "answer": "चकाकणारे" },
+    { "question_number": 76, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलासारखे काय व्हायचे आहे?", "answer": "लहान" },
+    { "question_number": 77, "question_type": "एकशब्दी", "question": "गवतफुलाच्या अंगी किती रंग आहेत?", "answer": "अनेक" },
+    { "question_number": 78, "question_type": "एकशब्दी", "question": "वारा लहान होऊन काय करतो?", "answer": "झुलवतो" },
+    { "question_number": 79, "question_type": "एकशब्दी", "question": "गवतफुलाची अंगाई कोण गाते?", "answer": "रात्र" },
+    { "question_number": 80, "question_type": "एकशब्दी", "question": "गवतफुलाचा झोपाळा कोण होतो?", "answer": "वारा" },
+    { "question_number": 81, "question_type": "एकशब्दी", "question": "पिवळी फुले कोठे आहेत?", "answer": "देठावर" },
+    { "question_number": 82, "question_type": "एकशब्दी", "question": "गवतफुलाचा सुगंध कसा आहे?", "answer": "मधुर" },
+    { "question_number": 83, "question_type": "एकशब्दी", "question": "पाकळ्या कशा डुलतात?", "answer": "वाऱ्याने" },
+    { "question_number": 84, "question_type": "एकशब्दी", "question": "मुलाला कशाचा विसर पडला?", "answer": "घराचा" },
+    { "question_number": 85, "question_type": "एकशब्दी", "question": "गवतफूल कशावर डोलत आहे?", "answer": "तृणावर्ती" },
+    { "question_number": 86, "question_type": "एकशब्दी", "question": "गवतफुलाचे पराग कसे आहेत?", "answer": "झगमगणारे" },
+    { "question_number": 87, "question_type": "एकशब्दी", "question": "गवतफुलाचा झुलणारा काय आहे?", "answer": "झोपाळा" },
+    { "question_number": 88, "question_type": "एकशब्दी", "question": "गवतफुलाच्या तळाला किती पाने आहेत?", "answer": "दोन" },
+    { "question_number": 89, "question_type": "एकशब्दी", "question": "गवतफुलाचा देठ कसा आहे?", "answer": "नाजूक" },
+    { "question_number": 90, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाचे काय शिकायचे आहे?", "answer": "गाणी" },
+    { "question_number": 91, "question_type": "एकशब्दी", "question": "गवतफूल कशामुळे आनंदित होते?", "answer": "निसर्गामुळे" },
+    { "question_number": 92, "question_type": "एकशब्दी", "question": "गवतफुलाच्या अवतीभवती काय आहे?", "answer": "गवत" },
+    { "question_number": 93, "question_type": "एकशब्दी", "question": "गवतफुलाची कांती कशी आहे?", "answer": "तेजस्वी" },
+    { "question_number": 94, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्यांचा रंग कोणता?", "answer": "निळा" },
+    { "question_number": 95, "question_type": "एकशब्दी", "question": "वारा काय म्हणून येतो?", "answer": "वारा" },
+    { "question_number": 96, "question_type": "एकशब्दी", "question": "गवतफुलाचे हसणे कशासारखे?", "answer": "निष्पाप" },
+    { "question_number": 97, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाच्या काय सांगायच्या आहेत?", "answer": "गोष्टी" },
+    { "question_number": 98, "question_type": "एकशब्दी", "question": "गवतफुलाला पाहून मुलाला काय वाटते?", "answer": "मौज" },
+    { "question_number": 99, "question_type": "एकशब्दी", "question": "गवतफुलाची झुलणारी काय आहे?", "answer": "मान" },
+    { "question_number": 100, "question_type": "एकशब्दी", "question": "गवतफुलाचा झुलणारा कोण?", "answer": "वारा" },
+    { "question_number": 101, "question_type": "एकशब्दी", "question": "पिवळी फुले कोठे उमलली आहेत?", "answer": "देठावर" },
+    { "question_number": 102, "question_type": "एकशब्दी", "question": "गवतफुलाचा सुगंध कसा आहे?", "answer": "गोड" },
+    { "question_number": 103, "question_type": "एकशब्दी", "question": "पाकळ्या कशा आहेत?", "answer": "लहान" },
+    { "question_number": 104, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाला काय म्हणायचे आहे?", "answer": "मित्र" },
+    { "question_number": 105, "question_type": "एकशब्दी", "question": "गवतफूल कोठे डुलते?", "answer": "माळावर" },
+    { "question_number": 106, "question_type": "एकशब्दी", "question": "गवतफुलाची कांती कशी?", "answer": "उजळ" },
+    { "question_number": 107, "question_type": "एकशब्दी", "question": "गवतफुलाची पाने कशी?", "answer": "हिरवी" },
+    { "question_number": 108, "question_type": "एकशब्दी", "question": "मुलाला कशाचा विसर पडला?", "answer": "खेळाचा" },
+    { "question_number": 109, "question_type": "एकशब्दी", "question": "गवतफुलाचे डोळे कसे?", "answer": "चकाकणारे" },
+    { "question_number": 110, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्या नाजूक आहेत का?", "answer": "हो" },
+    { "question_number": 111, "question_type": "एकशब्दी", "question": "गवतफुलाच्या मधे काय आहे?", "answer": "पराग" },
+    { "question_number": 112, "question_type": "एकशब्दी", "question": "गवतफुलाचा झोपाळा वारा आहे का?", "answer": "हो" },
+    { "question_number": 113, "question_type": "एकशब्दी", "question": "गवतफुलाची अंगाई रात्र गाते का?", "answer": "हो" },
+    { "question_number": 114, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाचे गाणे शिकायचे आहे का?", "answer": "हो" },
+    { "question_number": 115, "question_type": "एकशब्दी", "question": "गवतफुलाचे हसणे मोहक आहे का?", "answer": "हो" },
+    { "question_number": 116, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळीचा रंग निळा आहे का?", "answer": "हो" },
+    { "question_number": 117, "question_type": "एकशब्दी", "question": "गवतफूल माळावर डुलते का?", "answer": "हो" },
+    { "question_number": 118, "question_type": "एकशब्दी", "question": "गवतफुलाची कांती तेजस्वी आहे का?", "answer": "हो" },
+    { "question_number": 119, "question_type": "एकशब्दी", "question": "गवतफुलाची पाने हिरवी आहेत का?", "answer": "हो" },
+    { "question_number": 120, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाला मित्र म्हणायचे आहे का?", "answer": "हो" },
+    { "question_number": 121, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्या लहान आहेत का?", "answer": "हो" },
+    { "question_number": 122, "question_type": "एकशब्दी", "question": "गवतफुलाचे पराग पिवळे आहेत का?", "answer": "हो" },
+    { "question_number": 123, "question_type": "एकशब्दी", "question": "गवतफुलाचा झोपाळा मोहक आहे का?", "answer": "हो" },
+    { "question_number": 124, "question_type": "एकशब्दी", "question": "गवतफुलाची अंगाई सुंदर आहे का?", "answer": "हो" },
+    { "question_number": 125, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाची भाषा शिकायची आहे का?", "answer": "हो" },
+    { "question_number": 126, "question_type": "एकशब्दी", "question": "गवतफुलाचे हसणे निष्पाप आहे का?", "answer": "हो" },
+    { "question_number": 127, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्या नाजूक आहेत?", "answer": "हो" },
+    { "question_number": 128, "question_type": "एकशब्दी", "question": "गवतफूल वाऱ्यावर डुलते?", "answer": "हो" },
+    { "question_number": 129, "question_type": "एकशब्दी", "question": "गवतफुलाची कांती उजळ आहे?", "answer": "हो" },
+    { "question_number": 130, "question_type": "एकशब्दी", "question": "गवतफुलाची पाने हिरवी आहेत?", "answer": "हो" },
+    { "question_number": 131, "question_type": "एकशब्दी", "question": "गवतफुलाचे डोळे चकाकणारे आहेत?", "answer": "हो" },
+    { "question_number": 132, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्या लहान आहेत?", "answer": "हो" },
+    { "question_number": 133, "question_type": "एकशब्दी", "question": "गवतफुलाचे पराग पिवळे आहेत?", "answer": "हो" },
+    { "question_number": 134, "question_type": "एकशब्दी", "question": "गवतफुलाचा झोपाळा वारा आहे?", "answer": "हो" },
+    { "question_number": 135, "question_type": "एकशब्दी", "question": "गवतफुलाची अंगाई रात्र गाते?", "answer": "हो" },
+    { "question_number": 136, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाचे गाणे शिकायचे आहे?", "answer": "हो" },
+    { "question_number": 137, "question_type": "एकशब्दी", "question": "गवतफुलाचे हसणे मोहक आहे?", "answer": "हो" },
+    { "question_number": 138, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळीचा रंग निळा आहे?", "answer": "हो" },
+    { "question_number": 139, "question_type": "एकशब्दी", "question": "गवतफूल माळावर डुलते?", "answer": "हो" },
+    { "question_number": 140, "question_type": "एकशब्दी", "question": "गवतफुलाची कांती तेजस्वी आहे?", "answer": "हो" },
+    { "question_number": 141, "question_type": "एकशब्दी", "question": "गवतफुलाची पाने हिरवी आहेत?", "answer": "हो" },
+    { "question_number": 142, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाला मित्र म्हणायचे आहे?", "answer": "हो" },
+    { "question_number": 143, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्या लहान आहेत?", "answer": "हो" },
+    { "question_number": 144, "question_type": "एकशब्दी", "question": "गवतफुलाचे पराग पिवळे आहेत?", "answer": "हो" },
+    { "question_number": 145, "question_type": "एकशब्दी", "question": "गवतफुलाचा झोपाळा मोहक आहे?", "answer": "हो" },
+    { "question_number": 146, "question_type": "एकशब्दी", "question": "गवतफुलाची अंगाई सुंदर आहे?", "answer": "हो" },
+    { "question_number": 147, "question_type": "एकशब्दी", "question": "मुलाला गवतफुलाची भाषा शिकायची आहे?", "answer": "हो" },
+    { "question_number": 148, "question_type": "एकशब्दी", "question": "गवतफुलाचे हसणे निष्पाप आहे?", "answer": "हो" },
+    { "question_number": 149, "question_type": "एकशब्दी", "question": "गवतफुलाच्या पाकळ्या नाजूक आहेत?", "answer": "हो" },
+    { "question_number": 150, "question_type": "एकशब्दी", "question": "गवतफुलाचा कवी कोण आहे?", "answer": "इंदिरा संत" }
+  ]
+}

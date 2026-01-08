@@ -1,0 +1,1132 @@
+{
+  "chapter_info": {
+    "chapter_number": "9",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी (EM)",
+    "part": "भाग-१",
+    "sub_lesson_name": "चला पुढे ! चला पुढे !"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "Multiple Choice",
+      "question": "‘चला पुढे ! चला पुढे !’ या पाठाच्या लेखिका कोण आहेत?",
+      "options": [
+        { "option_number": 1, "text": "शुभदा दादरकर", "is_correct": false },
+        { "option_number": 2, "text": "डॉ. इंदुमती अरकडी", "is_correct": true },
+        { "option_number": 3, "text": "हेमलता परदेशी", "is_correct": false },
+        { "option_number": 4, "text": "माया धुप्पड", "is_correct": false }
+      ],
+      "answer": "डॉ. इंदुमती अरकडी"
+    },
+    {
+      "question_number": 2,
+      "question_type": "Multiple Choice",
+      "question": "प्रतीक किती वाजता उठला?",
+      "options": [
+        { "option_number": 1, "text": "पाच", "is_correct": false },
+        { "option_number": 2, "text": "सहा", "is_correct": false },
+        { "option_number": 3, "text": "सात", "is_correct": true },
+        { "option_number": 4, "text": "आठ", "is_correct": false }
+      ],
+      "answer": "सात"
+    },
+    {
+      "question_number": 3,
+      "question_type": "Multiple Choice",
+      "question": "नदीने आपला प्राण कशाला म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "पाण्याला", "is_correct": false },
+        { "option_number": 2, "text": "धावण्याला", "is_correct": true },
+        { "option_number": 3, "text": "माशांना", "is_correct": false },
+        { "option_number": 4, "text": "समुद्राला", "is_correct": false }
+      ],
+      "answer": "धावण्याला"
+    },
+    {
+      "question_number": 4,
+      "question_type": "Multiple Choice",
+      "question": "नदीला कशाचा छंद आहे असे तिने सांगितले?",
+      "options": [
+        { "option_number": 1, "text": "गाणी गाण्याचा", "is_correct": false },
+        { "option_number": 2, "text": "निर्मलता मिळवण्याचा", "is_correct": true },
+        { "option_number": 3, "text": "खेळण्याचा", "is_correct": false },
+        { "option_number": 4, "text": "झोपण्याचा", "is_correct": false }
+      ],
+      "answer": "निर्मलता मिळवण्याचा"
+    },
+    {
+      "question_number": 5,
+      "question_type": "Multiple Choice",
+      "question": "झुळूक कोणाशी खेळत होती?",
+      "options": [
+        { "option_number": 1, "text": "प्रतीकशी", "is_correct": false },
+        { "option_number": 2, "text": "झाडाखालच्या पानांशी", "is_correct": true },
+        { "option_number": 3, "text": "ढगांशी", "is_correct": false },
+        { "option_number": 4, "text": "पक्ष्यांशी", "is_correct": false }
+      ],
+      "answer": "झाडाखालच्या पानांशी"
+    },
+    {
+      "question_number": 6,
+      "question_type": "Multiple Choice",
+      "question": "मुंग्यांच्या मनात नेहमी काय असतो?",
+      "options": [
+        { "option_number": 1, "text": "थकवा", "is_correct": false },
+        { "option_number": 2, "text": "उत्साह", "is_correct": true },
+        { "option_number": 3, "text": "अळस", "is_correct": false },
+        { "option_number": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "उत्साह"
+    },
+    {
+      "question_number": 7,
+      "question_type": "Multiple Choice",
+      "question": "सूर्य, नदी, झुळूक आणि मुंग्यांनी प्रतीकला कोणता एकत्रित संदेश दिला?",
+      "options": [
+        { "option_number": 1, "text": "घरी जा", "is_correct": false },
+        { "option_number": 2, "text": "चला पुढे ! चला पुढे !", "is_correct": true },
+        { "option_number": 3, "text": "विश्रांती घ्या", "is_correct": false },
+        { "option_number": 4, "text": "गाणी गा", "is_correct": false }
+      ],
+      "answer": "चला पुढे ! चला पुढे !"
+    },
+    {
+      "question_number": 8,
+      "question_type": "Multiple Choice",
+      "question": "‘अति तेथे माती’ या म्हणीचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "खूप माती असणे", "is_correct": false },
+        { "option_number": 2, "text": "कोणत्याही गोष्टीचा अतिरेक नुकसानकारक असतो", "is_correct": true },
+        { "option_number": 3, "text": "मातीत खेळणे", "is_correct": false },
+        { "option_number": 4, "text": "मातीमोल होणे", "is_correct": false }
+      ],
+      "answer": "कोणत्याही गोष्टीचा अतिरेक नुकसानकारक असतो"
+    },
+    {
+      "question_number": 9,
+      "question_type": "Multiple Choice",
+      "question": "‘नदी’ या शब्दावर अनुस्वार दिला की कोणता नवीन अर्थपूर्ण शब्द तयार होतो?",
+      "options": [
+        { "option_number": 1, "text": "नंदी", "is_correct": true },
+        { "option_number": 2, "text": "नादी", "is_correct": false },
+        { "option_number": 3, "text": "नंदा", "is_correct": false },
+        { "option_number": 4, "text": "निंदा", "is_correct": false }
+      ],
+      "answer": "नंदी"
+    },
+    {
+      "question_number": 10,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठा लेणी कोणत्या जिल्ह्याच्या उत्तरेला आहेत?",
+      "options": [
+        { "option_number": 1, "text": "पुणे", "is_correct": false },
+        { "option_number": 2, "text": "औरंगाबाद (छत्रपती संभाजीनगर)", "is_correct": true },
+        { "option_number": 3, "text": "मुंबई", "is_correct": false },
+        { "option_number": 4, "text": "नाशिक", "is_correct": false }
+      ],
+      "answer": "औरंगाबाद (छत्रपती संभाजीनगर)"
+    },
+    {
+      "question_number": 11,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठ्याच्या लेण्यांचा शोध कोणी लावला?",
+      "options": [
+        { "option_number": 1, "text": "स्मिथ नावाचा इंग्रज अधिकारी", "is_correct": true },
+        { "option_number": 2, "text": "प्रतीक", "is_correct": false }
+      ],
+      "answer": "स्मिथ नावाचा इंग्रज अधिकारी"
+    },
+    {
+      "question_number": 12,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठ्यात एकूण किती लेणी आहेत?",
+      "options": [
+        { "option_number": 1, "text": "तीस", "is_correct": true },
+        { "option_number": 2, "text": "दहा", "is_correct": false }
+      ],
+      "answer": "तीस"
+    },
+    {
+      "question_number": 13,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठा लेणी मुख्यतः कशासाठी प्रसिद्ध आहेत?",
+      "options": [
+        { "option_number": 1, "text": "चित्रकलेसाठी", "is_correct": true },
+        { "option_number": 2, "text": "शेतीसाठी", "is_correct": false }
+      ],
+      "answer": "चित्रकलेसाठी"
+    },
+    {
+      "question_number": 14,
+      "question_type": "Multiple Choice",
+      "question": "कलिंगडाचा आकार कसा असतो?",
+      "options": [
+        { "option_number": 1, "text": "गोल", "is_correct": true },
+        { "option_number": 2, "text": "चौकोनी", "is_correct": false }
+      ],
+      "answer": "गोल"
+    },
+    {
+      "question_number": 15,
+      "question_type": "Multiple Choice",
+      "question": "नामाबद्दल विशेष माहिती सांगणाऱ्या शब्दाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "विशेषण", "is_correct": true },
+        { "option_number": 2, "text": "सर्वनाम", "is_correct": false }
+      ],
+      "answer": "विशेषण"
+    },
+    {
+      "question_number": 16,
+      "question_type": "Multiple Choice",
+      "question": "‘केल्याने होत आहे रे, आधी केलेचि पाहिजे’ हा काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "सुविचार", "is_correct": true },
+        { "option_number": 2, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "सुविचार"
+    },
+    {
+      "question_number": 17,
+      "question_type": "Multiple Choice",
+      "question": "कवीला कशाची आवड आयुष्यभर जोपासली?",
+      "options": [
+        { "option_number": 1, "text": "कवितेची", "is_correct": true },
+        { "option_number": 2, "text": "मिठाईची", "is_correct": false }
+      ],
+      "answer": "कवितेची"
+    },
+    {
+      "question_number": 18,
+      "question_type": "Multiple Choice",
+      "question": "‘इच्छा नसताना’ या शब्दासाठी पाठात कोणता शब्द आला आहे?",
+      "options": [
+        { "option_number": 1, "text": "अनिच्छेने", "is_correct": true },
+        { "option_number": 2, "text": "आनंदाने", "is_correct": false }
+      ],
+      "answer": "अनिच्छेने"
+    },
+    {
+      "question_number": 19,
+      "question_type": "Multiple Choice",
+      "question": "‘शिस्तीने’ चालणाऱ्या कोण होत्या?",
+      "options": [
+        { "option_number": 1, "text": "मुंग्या", "is_correct": true },
+        { "option_number": 2, "text": "नदी", "is_correct": false }
+      ],
+      "answer": "मुंग्या"
+    },
+    {
+      "question_number": 20,
+      "question_type": "Multiple Choice",
+      "question": "‘उत्साहाचे पंख फुटणे’ म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "खूप उत्साह येणे", "is_correct": true },
+        { "option_number": 2, "text": "पक्षी होणे", "is_correct": false }
+      ],
+      "answer": "खूप उत्साह येणे"
+    },
+    {
+      "question_number": 21,
+      "question_type": "Multiple Choice",
+      "question": "‘कंटाळा’ या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        { "option_number": 1, "text": "वीट", "is_correct": true },
+        { "option_number": 2, "text": "उत्साह", "is_correct": false }
+      ],
+      "answer": "वीट"
+    },
+    {
+      "question_number": 22,
+      "question_type": "Multiple Choice",
+      "question": "‘दिवस’ या शब्दाचा विरुद्धार्थी शब्द काय?",
+      "options": [
+        { "option_number": 1, "text": "रात्र", "is_correct": true },
+        { "option_number": 2, "text": "सकाळ", "is_correct": false }
+      ],
+      "answer": "रात्र"
+    },
+    {
+      "question_number": 23,
+      "question_type": "Multiple Choice",
+      "question": "‘पळ’ या शब्दाचा एक अर्थ ‘क्षण’ आहे, तर दुसरा काय?",
+      "options": [
+        { "option_number": 1, "text": "पळणे", "is_correct": true },
+        { "option_number": 2, "text": "बसणे", "is_correct": false }
+      ],
+      "answer": "पळणे"
+    },
+    {
+      "question_number": 24,
+      "question_type": "Multiple Choice",
+      "question": "‘मान’ या शब्दाचे दोन अर्थ कोणते?",
+      "options": [
+        { "option_number": 1, "text": "आदर आणि शरीराचा अवयव", "is_correct": true },
+        { "option_number": 2, "text": "हात आणि पाय", "is_correct": false }
+      ],
+      "answer": "आदर आणि शरीराचा अवयव"
+    },
+    {
+      "question_number": 25,
+      "question_type": "Multiple Choice",
+      "question": "‘चिता’ शब्दावर अनुस्वार दिल्यास कोणता शब्द तयार होईल?",
+      "options": [
+        { "option_number": 1, "text": "चिंता", "is_correct": true },
+        { "option_number": 2, "text": "चित्रा", "is_correct": false }
+      ],
+      "answer": "चिंता"
+    },
+    {
+      "question_number": 26,
+      "question_type": "Multiple Choice",
+      "question": "‘लवकर निजे, लवकर उठे’ त्याला काय लाभते?",
+      "options": [
+        { "option_number": 1, "text": "आरोग्य, धनसंपदा", "is_correct": true },
+        { "option_number": 2, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "आरोग्य, धनसंपदा"
+    },
+    {
+      "question_number": 27,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठ्याच्या चित्रकारांनी कोणते रंग वापरले?",
+      "options": [
+        { "option_number": 1, "text": "नैसर्गिक", "is_correct": true },
+        { "option_number": 2, "text": "रासायनिक", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_number": 28,
+      "question_type": "Multiple Choice",
+      "question": "‘पिशवी’ या शब्दाचे अनेकवचन काय?",
+      "options": [
+        { "option_number": 1, "text": "पिशव्या", "is_correct": true },
+        { "option_number": 2, "text": "पिशवी", "is_correct": false }
+      ],
+      "answer": "पिशव्या"
+    },
+    {
+      "question_number": 29,
+      "question_type": "Multiple Choice",
+      "question": "प्रतीकच्या आईचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "सुधाताई", "is_correct": true },
+        { "option_number": 2, "text": "मीना", "is_correct": false }
+      ],
+      "answer": "सुधाताई"
+    },
+    {
+      "question_number": 30,
+      "question_type": "Multiple Choice",
+      "question": "‘नदीताई’ने प्रतीकला काय करू नको असे सांगितले?",
+      "options": [
+        { "option_number": 1, "text": "कवतिक", "is_correct": true },
+        { "option_number": 2, "text": "अभ्यास", "is_correct": false }
+      ],
+      "answer": "कवतिक"
+    },
+    {
+      "question_number": 31,
+      "question_type": "Multiple Choice",
+      "question": "‘चला पुढे ! चला पुढे !’ हा संदेश कोणाला मिळाला?",
+      "options": [
+        { "option_number": 1, "text": "प्रतीकला", "is_correct": true },
+        { "option_number": 2, "text": "आईला", "is_correct": false }
+      ],
+      "answer": "प्रतीकला"
+    },
+    {
+      "question_number": 32,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठा लेणी कोणत्या पर्वतरांगेत आहेत?",
+      "options": [
+        { "option_number": 1, "text": "सातमाळ", "is_correct": true },
+        { "option_number": 2, "text": "हिमालय", "is_correct": false }
+      ],
+      "answer": "सातमाळ"
+    },
+    {
+      "question_number": 33,
+      "question_type": "Multiple Choice",
+      "question": "‘लांब’ या शब्दाचा विरुद्धार्थी शब्द काय?",
+      "options": [
+        { "option_number": 1, "text": "जवळ", "is_correct": true },
+        { "option_number": 2, "text": "खूप लांब", "is_correct": false }
+      ],
+      "answer": "जवळ"
+    },
+    {
+      "question_number": 34,
+      "question_type": "Multiple Choice",
+      "question": "‘कवीने आपली आवड आयुष्यभर जोपासली’ यात नाम कोणते?",
+      "options": [
+        { "option_number": 1, "text": "कवी", "is_correct": true },
+        { "option_number": 2, "text": "जोपासली", "is_correct": false }
+      ],
+      "answer": "कवी"
+    },
+    {
+      "question_number": 35,
+      "question_type": "Multiple Choice",
+      "question": "‘कर नाही त्याला डर कशाला’ या म्हणीचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "ज्याने चूक केली नाही त्याला भीती कशाला", "is_correct": true },
+        { "option_number": 2, "text": "डरपोक माणूस", "is_correct": false }
+      ],
+      "answer": "ज्याने चूक केली नाही त्याला भीती कशाला"
+    },
+    {
+      "question_number": 36,
+      "question_type": "Multiple Choice",
+      "question": "प्रतीकला काय फुटले असे म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "उत्साहाचे पंख", "is_correct": true },
+        { "option_number": 2, "text": "हात", "is_correct": false }
+      ],
+      "answer": "उत्साहाचे पंख"
+    },
+    {
+      "question_number": 37,
+      "question_type": "Multiple Choice",
+      "question": "नदीला विश्रांती घेण्यास कोणी सांगितले?",
+      "options": [
+        { "option_number": 1, "text": "प्रतीकने", "is_correct": true },
+        { "option_number": 2, "text": "आईने", "is_correct": false }
+      ],
+      "answer": "प्रतीकने"
+    },
+    {
+      "question_number": 38,
+      "question_type": "Multiple Choice",
+      "question": "‘हपापाचा माल गपापा’ या म्हणीचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "लोभी माणसाचा माल नष्ट होतो", "is_correct": true },
+        { "option_number": 2, "text": "माल खाणे", "is_correct": false }
+      ],
+      "answer": "लोभी माणसाचा माल नष्ट होतो"
+    },
+    {
+      "question_number": 39,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठ्याच्या भिंतीवर कशाचा गिलावा दिला जात असे?",
+      "options": [
+        { "option_number": 1, "text": "माती, शेण, भाताचा भुसा", "is_correct": true },
+        { "option_number": 2, "text": "सिमेंट", "is_correct": false }
+      ],
+      "answer": "माती, शेण, भाताचा भुसा"
+    },
+    {
+      "question_number": 40,
+      "question_type": "Multiple Choice",
+      "question": "‘आभा’ शब्दावर अनुस्वार दिल्यास काय होईल?",
+      "options": [
+        { "option_number": 1, "text": "आंबा", "is_correct": true },
+        { "option_number": 2, "text": "आबा", "is_correct": false }
+      ],
+      "answer": "आंबा"
+    },
+    {
+      "question_number": 41,
+      "question_type": "Multiple Choice",
+      "question": "प्रतीकची झोप कधी पूर्ण झाली?",
+      "options": [
+        { "option_number": 1, "text": "सात वाजेपर्यंत", "is_correct": true },
+        { "option_number": 2, "text": "सहा वाजेपर्यंत", "is_correct": false }
+      ],
+      "answer": "सात वाजेपर्यंत"
+    },
+    {
+      "question_number": 42,
+      "question_type": "Multiple Choice",
+      "question": "नदीला कोठे जाण्यात आनंद मिळतो?",
+      "options": [
+        { "option_number": 1, "text": "पुढं", "is_correct": true },
+        { "option_number": 2, "text": "मागे", "is_correct": false }
+      ],
+      "answer": "पुढं"
+    },
+    {
+      "question_number": 43,
+      "question_type": "Multiple Choice",
+      "question": "‘गरवाचे घर खाली’ ही म्हण काय शिकवते?",
+      "options": [
+        { "option_number": 1, "text": "अहंकार माणसाचा घात करतो", "is_correct": true },
+        { "option_number": 2, "text": "घर साफ करा", "is_correct": false }
+      ],
+      "answer": "अहंकार माणसाचा घात करतो"
+    },
+    {
+      "question_number": 44,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठ्याच्या लेण्यांची निर्मिती कधी झाली?",
+      "options": [
+        { "option_number": 1, "text": "दीड-दोन हजार वर्षांपूर्वी", "is_correct": true },
+        { "option_number": 2, "text": "शंभर वर्षांपूर्वी", "is_correct": false }
+      ],
+      "answer": "दीड-दोन हजार वर्षांपूर्वी"
+    },
+    {
+      "question_number": 45,
+      "question_type": "Multiple Choice",
+      "question": "प्रतीक कोणाशी हळुवार संवाद साधत होता?",
+      "options": [
+        { "option_number": 1, "text": "पक्ष्यांशी", "is_correct": true },
+        { "option_number": 2, "text": "आईशी", "is_correct": false }
+      ],
+      "answer": "पक्ष्यांशी"
+    },
+    {
+      "question_number": 46,
+      "question_type": "Multiple Choice",
+      "question": "‘मुंग्या सदा कोठे असतात?’",
+      "options": [
+        { "option_number": 1, "text": "अंतरी उत्साहात", "is_correct": true },
+        { "option_number": 2, "text": "बिळात", "is_correct": false }
+      ],
+      "answer": "अंतरी उत्साहात"
+    },
+    {
+      "question_number": 47,
+      "question_type": "Multiple Choice",
+      "question": "‘अति तेथे माती’ म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "कोणत्याही गोष्टीचा अतिरेक टाळावा", "is_correct": true },
+        { "option_number": 2, "text": "जास्त माती", "is_correct": false }
+      ],
+      "answer": "कोणत्याही गोष्टीचा अतिरेक टाळावा"
+    },
+    {
+      "question_number": 48,
+      "question_type": "Multiple Choice",
+      "question": "अजिंठ्याच्या मूर्तींच्या चेहऱ्यावर काय आहेत?",
+      "options": [
+        { "option_number": 1, "text": "भाव", "is_correct": true },
+        { "option_number": 2, "text": "डाग", "is_correct": false }
+      ],
+      "answer": "भाव"
+    },
+    {
+      "question_number": 49,
+      "question_type": "Multiple Choice",
+      "question": "‘बाप तसा बेटा’ म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "मुलाचे गुण वडिलांसारखे असतात", "is_correct": true },
+        { "option_number": 2, "text": "वडील रागीट असतात", "is_correct": false }
+      ],
+      "answer": "मुलाचे गुण वडिलांसारखे असतात"
+    },
+    {
+      "question_number": 50,
+      "question_type": "Multiple Choice",
+      "question": "प्रतीकने मनाशी काय ठरवले?",
+      "options": [
+        { "option_number": 1, "text": "आता थांबायचं नाही", "is_correct": true },
+        { "option_number": 2, "text": "झोपून राहायचं", "is_correct": false }
+      ],
+      "answer": "आता थांबायचं नाही"
+    },
+    {
+      "question_number": 51,
+      "question_type": "One-Word",
+      "question": "पाठाचे नाव काय?",
+      "answer": "चला पुढे ! चला पुढे !"
+    },
+    {
+      "question_number": 52,
+      "question_type": "One-Word",
+      "question": "मुख्य पात्र कोण आहे?",
+      "answer": "प्रतीक"
+    },
+    {
+      "question_number": 53,
+      "question_type": "One-Word",
+      "question": "प्रतीकची आई कोण?",
+      "answer": "सुधाताई"
+    },
+    {
+      "question_number": 54,
+      "question_type": "One-Word",
+      "question": "प्रतीक किती वाजता उठला?",
+      "answer": "सात"
+    },
+    {
+      "question_number": 55,
+      "question_type": "One-Word",
+      "question": "बाहेरचे वातावरण कसे होते?",
+      "answer": "प्रसन्न"
+    },
+    {
+      "question_number": 56,
+      "question_type": "One-Word",
+      "question": "प्रतीकला कशाचे पंख फुटले?",
+      "answer": "उत्साहाचे"
+    },
+    {
+      "question_number": 57,
+      "question_type": "One-Word",
+      "question": "प्रतीकने पिण्यासाठी काय घेतले?",
+      "answer": "दूध"
+    },
+    {
+      "question_number": 58,
+      "question_type": "One-Word",
+      "question": "प्रतीक काय घालत निघाला?",
+      "answer": "शीळ"
+    },
+    {
+      "question_number": 59,
+      "question_type": "One-Word",
+      "question": "प्रतीक कोणाशी संवाद साधत होता?",
+      "answer": "पक्ष्यांशी"
+    },
+    {
+      "question_number": 60,
+      "question_type": "One-Word",
+      "question": "जवळच काय वाहत होती?",
+      "answer": "नदी"
+    },
+    {
+      "question_number": 61,
+      "question_type": "One-Word",
+      "question": "नदीकाठची काय पाहून मनावर ताण येतो?",
+      "answer": "घाण"
+    },
+    {
+      "question_number": 62,
+      "question_type": "One-Word",
+      "question": "नदीचा छंद काय आहे?",
+      "answer": "निर्मलता"
+    },
+    {
+      "question_number": 63,
+      "question_type": "One-Word",
+      "question": "कोणाची झुळूक नाचत आली?",
+      "answer": "वाऱ्याची"
+    },
+    {
+      "question_number": 64,
+      "question_type": "One-Word",
+      "question": "झुळूक कशाशी खेळत होती?",
+      "answer": "पानांशी"
+    },
+    {
+      "question_number": 65,
+      "question_type": "One-Word",
+      "question": "झुळुकीला कशाचा कंटाळा येत नाही?",
+      "answer": "धावण्याचा"
+    },
+    {
+      "question_number": 66,
+      "question_type": "One-Word",
+      "question": "प्रतीकला जमिनीवर काय दिसली?",
+      "answer": "मुंग्यांची रांग"
+    },
+    {
+      "question_number": 67,
+      "question_type": "One-Word",
+      "question": "मुंग्या कशा चालल्या होत्या?",
+      "answer": "शिस्तीत"
+    },
+    {
+      "question_number": 68,
+      "question_type": "One-Word",
+      "question": "मुंग्यांचा स्वभाव काय आहे?",
+      "answer": "चालणं"
+    },
+    {
+      "question_number": 69,
+      "question_type": "One-Word",
+      "question": "सर्वांनी प्रतीकला काय सांगितले?",
+      "answer": "चला पुढे !"
+    },
+    {
+      "question_number": 70,
+      "question_type": "One-Word",
+      "question": "प्रतीकला काय मिळेल?",
+      "answer": "सुयश"
+    },
+    {
+      "question_number": 71,
+      "question_type": "One-Word",
+      "question": "पाठाचे लेखिका कोण?",
+      "answer": "डॉ. इंदुमती अरकडी"
+    },
+    {
+      "question_number": 72,
+      "question_type": "One-Word",
+      "question": "‘अनिच्छेने’ म्हणजे काय?",
+      "answer": "इच्छा नसताना"
+    },
+    {
+      "question_number": 73,
+      "question_type": "One-Word",
+      "question": "‘पळ’ म्हणजे काय?",
+      "answer": "क्षण"
+    },
+    {
+      "question_number": 74,
+      "question_type": "One-Word",
+      "question": "नदी काय करते?",
+      "answer": "धावपळ"
+    },
+    {
+      "question_number": 75,
+      "question_type": "One-Word",
+      "question": "मुंग्या दिसायला कशा आहेत?",
+      "answer": "चिमुकल्या"
+    },
+    {
+      "question_number": 76,
+      "question_type": "One-Word",
+      "question": "‘उत्साही’ चा समानार्थी शब्द सांगा.",
+      "answer": "उल्लसित"
+    },
+    {
+      "question_number": 77,
+      "question_type": "One-Word",
+      "question": "‘आनंद’ चा समानार्थी शब्द सांगा.",
+      "answer": "हर्ष"
+    },
+    {
+      "question_number": 78,
+      "question_type": "One-Word",
+      "question": "‘दिवस’ चा विरुद्धार्थी शब्द सांगा.",
+      "answer": "रात्र"
+    },
+    {
+      "question_number": 79,
+      "question_type": "One-Word",
+      "question": "‘लांब’ चा विरुद्धार्थी शब्द सांगा.",
+      "answer": "जवळ"
+    },
+    {
+      "question_number": 80,
+      "question_type": "One-Word",
+      "question": "‘मान’ शब्दाचा अवयव अर्थ सांगा.",
+      "answer": "गळा"
+    },
+    {
+      "question_number": 81,
+      "question_type": "One-Word",
+      "question": "‘चिता’ पासून अनुस्वार असलेला शब्द कोणता?",
+      "answer": "चिंता"
+    },
+    {
+      "question_number": 82,
+      "question_type": "One-Word",
+      "question": "अजिंठा लेणी कोठे आहेत?",
+      "answer": "औरंगाबाद"
+    },
+    {
+      "question_number": 83,
+      "question_type": "One-Word",
+      "question": "अजिंठ्यात किती गुंफा आहेत?",
+      "answer": "तीस"
+    },
+    {
+      "question_number": 84,
+      "question_type": "One-Word",
+      "question": "अजिंठा लेणी कशासाठी प्रसिद्ध?",
+      "answer": "चित्रकला"
+    },
+    {
+      "question_number": 85,
+      "question_type": "One-Word",
+      "question": "चित्रांचे रंग कसे वाटतात?",
+      "answer": "ताजे"
+    },
+    {
+      "question_number": 86,
+      "question_type": "One-Word",
+      "question": "रंग कोणत्या पदार्थांपासून केले?",
+      "answer": "नैसर्गिक"
+    },
+    {
+      "question_number": 87,
+      "question_type": "One-Word",
+      "question": "कलिंगडाची चव कशी असते?",
+      "answer": "गोड"
+    },
+    {
+      "question_number": 88,
+      "question_type": "One-Word",
+      "question": "नाम बद्दल माहिती देणारा शब्द?",
+      "answer": "विशेषण"
+    },
+    {
+      "question_number": 89,
+      "question_type": "One-Word",
+      "question": "‘अति तेथे....’ म्हण पूर्ण करा.",
+      "answer": "माती"
+    },
+    {
+      "question_number": 90,
+      "question_type": "One-Word",
+      "question": "‘बाप तसा....’ म्हण पूर्ण करा.",
+      "answer": "बेटा"
+    },
+    {
+      "question_number": 91,
+      "question_type": "One-Word",
+      "question": "‘कवी’ कोठे राहायचा?",
+      "answer": "खेडेगावात"
+    },
+    {
+      "question_number": 92,
+      "question_type": "One-Word",
+      "question": "कवीने कशावर कविता लिहिली?",
+      "answer": "मिठाईवर"
+    },
+    {
+      "question_number": 93,
+      "question_type": "One-Word",
+      "question": "लाडू कशात गुंडाळून दिला?",
+      "answer": "कवितेच्या कागदात"
+    },
+    {
+      "question_number": 94,
+      "question_type": "One-Word",
+      "question": "भांडी कशी होती?",
+      "answer": "चकचकीत"
+    },
+    {
+      "question_number": 95,
+      "question_type": "One-Word",
+      "question": "विक्रेत्याचा आवाज कशाचा होता?",
+      "answer": "भांडी ठोकण्याचा"
+    },
+    {
+      "question_number": 96,
+      "question_type": "One-Word",
+      "question": "कवी उन्हाळ्यात काय आणायला गेला?",
+      "answer": "माठ"
+    },
+    {
+      "question_number": 97,
+      "question_type": "One-Word",
+      "question": "विक्रेत्याने कशावर कविता करायला सांगितली?",
+      "answer": "माठावर"
+    },
+    {
+      "question_number": 98,
+      "question_type": "One-Word",
+      "question": "कवीने आपली काय जोपासली?",
+      "answer": "आवड"
+    },
+    {
+      "question_number": 99,
+      "question_type": "One-Word",
+      "question": "पाठात किती म्हणींची यादी आहे?",
+      "answer": "बारा"
+    },
+    {
+      "question_number": 100,
+      "question_type": "One-Word",
+      "question": "प्रतीकच्या मनावर कशाचा ताण येतो?",
+      "answer": "घाणीचा"
+    },
+    {
+      "question_number": 101,
+      "question_type": "One-Word",
+      "question": "अजिंठ्याच्या भिंतीवर काय लावले होते?",
+      "answer": "गिलावा"
+    },
+    {
+      "question_number": 102,
+      "question_type": "One-Word",
+      "question": "रंग नैसर्गिक होते का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 103,
+      "question_type": "One-Word",
+      "question": "‘चला पुढे’ यातून काय सुचवले आहे?",
+      "answer": "प्रगती"
+    },
+    {
+      "question_number": 104,
+      "question_type": "One-Word",
+      "question": "प्रतीक कोठे बसला होता?",
+      "answer": "गॅलरीत"
+    },
+    {
+      "question_number": 105,
+      "question_type": "One-Word",
+      "question": "मुंग्या कशा आहेत?",
+      "answer": "जिद्दी"
+    },
+    {
+      "question_number": 106,
+      "question_type": "One-Word",
+      "question": "नदी कशी हसली?",
+      "answer": "खळखळून"
+    },
+    {
+      "question_number": 107,
+      "question_type": "One-Word",
+      "question": "झुळूक कशी आली?",
+      "answer": "नाचत"
+    },
+    {
+      "question_number": 108,
+      "question_type": "One-Word",
+      "question": "पाठाचा विषय काय?",
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_number": 109,
+      "question_type": "One-Word",
+      "question": "सूर्य कोठे आला?",
+      "answer": "वर"
+    },
+    {
+      "question_number": 110,
+      "question_type": "One-Word",
+      "question": "प्रतीक काय चोळत होता?",
+      "answer": "डोळे"
+    },
+    {
+      "question_number": 111,
+      "question_type": "One-Word",
+      "question": "‘शीळ’ म्हणजे काय?",
+      "answer": "शिट्टी"
+    },
+    {
+      "question_number": 112,
+      "question_type": "One-Word",
+      "question": "नदीचा श्वास काय?",
+      "answer": "धावणं"
+    },
+    {
+      "question_number": 113,
+      "question_type": "One-Word",
+      "question": "झुळूक कोठून आली?",
+      "answer": "वाऱ्याची"
+    },
+    {
+      "question_number": 114,
+      "question_type": "One-Word",
+      "question": "मुंग्या कोठे चालल्या होत्या?",
+      "answer": "वाटेने"
+    },
+    {
+      "question_number": 115,
+      "question_type": "One-Word",
+      "question": "मुंग्यांना काय द्यायची गरज नाही?",
+      "answer": "विश्रांती"
+    },
+    {
+      "question_number": 116,
+      "question_type": "One-Word",
+      "question": "‘मिठाई’ नाम आहे का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 117,
+      "question_type": "One-Word",
+      "question": "लाडू कशाचा होता?",
+      "answer": "मिठाईचा"
+    },
+    {
+      "question_number": 118,
+      "question_type": "One-Word",
+      "question": "भांडी विक्रेत्याला काय आवडले नाही?",
+      "answer": "कविता"
+    },
+    {
+      "question_number": 119,
+      "question_type": "One-Word",
+      "question": "शीघ्र कविता कोणी केली?",
+      "answer": "कवीने"
+    },
+    {
+      "question_number": 120,
+      "question_type": "One-Word",
+      "question": "कवीची काय जोपासली गेली?",
+      "answer": "आवड"
+    },
+    {
+      "question_number": 121,
+      "question_type": "One-Word",
+      "question": "औरंगाबाद जिल्ह्याचे अंतर किती?",
+      "answer": "१०८ किमी"
+    },
+    {
+      "question_number": 122,
+      "question_type": "One-Word",
+      "question": "सातमाळ काय आहे?",
+      "answer": "पर्वतरांग"
+    },
+    {
+      "question_number": 123,
+      "question_type": "One-Word",
+      "question": "लेणी कधी सापडली?",
+      "answer": "१८१८"
+    },
+    {
+      "question_number": 124,
+      "question_type": "One-Word",
+      "question": "गिलावा कशाचा?",
+      "answer": "शेण, माती"
+    },
+    {
+      "question_number": 125,
+      "question_type": "One-Word",
+      "question": "रंग ताजे आहेत का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 126,
+      "question_type": "One-Word",
+      "question": "कलिंगड गोड असते का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 127,
+      "question_type": "One-Word",
+      "question": "‘चला पुढे’ कोण म्हणालं?",
+      "answer": "सर्वजण"
+    },
+    {
+      "question_number": 128,
+      "question_type": "One-Word",
+      "question": "प्रतीक काय प्यायला?",
+      "answer": "दूध"
+    },
+    {
+      "question_number": 129,
+      "question_type": "One-Word",
+      "question": "नदी कशी आहे?",
+      "answer": "सुंदर"
+    },
+    {
+      "question_number": 130,
+      "question_type": "One-Word",
+      "question": "नदीला काय येत नाही?",
+      "answer": "थकवा"
+    },
+    {
+      "question_number": 131,
+      "question_type": "One-Word",
+      "question": "झुळूक काय उडवते?",
+      "answer": "पानं"
+    },
+    {
+      "question_number": 132,
+      "question_type": "One-Word",
+      "question": "मुंग्या चिमुकल्या आहेत का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 133,
+      "question_type": "One-Word",
+      "question": "सुयश कोणाला मिळेल?",
+      "answer": "सर्वांना"
+    },
+    {
+      "question_number": 134,
+      "question_type": "One-Word",
+      "question": "‘भान’ म्हणजे काय?",
+      "answer": "जाणीव"
+    },
+    {
+      "question_number": 135,
+      "question_type": "One-Word",
+      "question": "‘पळ’ म्हणजे धावणे का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 136,
+      "question_type": "One-Word",
+      "question": "‘वर’ चे दोन अर्थ सांगा.",
+      "answer": "आशीर्वाद/वरची दिशा"
+    },
+    {
+      "question_number": 137,
+      "question_type": "One-Word",
+      "question": "‘मान’ चे दोन अर्थ सांगा.",
+      "answer": "आदर/अवयव"
+    },
+    {
+      "question_number": 138,
+      "question_type": "One-Word",
+      "question": "‘नाव’ चे दोन अर्थ सांगा.",
+      "answer": "नाव (Name)/होडी"
+    },
+    {
+      "question_number": 139,
+      "question_type": "One-Word",
+      "question": "‘नदी’ पासून अनुस्वार असलेला शब्द?",
+      "answer": "नंदी"
+    },
+    {
+      "question_number": 140,
+      "question_type": "One-Word",
+      "question": "‘भिती’ पासून अनुस्वार असलेला शब्द?",
+      "answer": "भिंती"
+    },
+    {
+      "question_number": 141,
+      "question_type": "One-Word",
+      "question": "‘माडी’ पासून अनुस्वार असलेला शब्द?",
+      "answer": "मांडी"
+    },
+    {
+      "question_number": 142,
+      "question_type": "One-Word",
+      "question": "‘लवकर निजे’ कोणाविषयी आहे?",
+      "answer": "आरोग्यासाठी"
+    },
+    {
+      "question_number": 143,
+      "question_type": "One-Word",
+      "question": "अजिंठ्यात फुले आहेत का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 144,
+      "question_type": "One-Word",
+      "question": "रंग नैसर्गिक आहेत का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 145,
+      "question_type": "One-Word",
+      "question": "अजिंठा लेणी जगात प्रसिद्ध आहेत का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 146,
+      "question_type": "One-Word",
+      "question": "‘करायला तसे भरावे’ काय आहे?",
+      "answer": "म्हण"
+    },
+    {
+      "question_number": 147,
+      "question_type": "One-Word",
+      "question": "‘कवी’ काय करायचा?",
+      "answer": "कविता"
+    },
+    {
+      "question_number": 148,
+      "question_type": "One-Word",
+      "question": "माठ सुबक होते का?",
+      "answer": "हो"
+    },
+    {
+      "question_number": 149,
+      "question_type": "One-Word",
+      "question": "कवीने कोणाचा विचार केला नाही?",
+      "answer": "लोकांचा"
+    },
+    {
+      "question_number": 150,
+      "question_type": "One-Word",
+      "question": "पाठाचा शेवट आशेने होतो का?",
+      "answer": "हो"
+    }
+  ]
+}

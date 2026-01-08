@@ -1,0 +1,1211 @@
+{
+  "chapter_info": {
+    "chapter_number": "५",
+    "grade": "६",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "प्राचीन भारतातील धार्मिक प्रवाह"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन धर्मात धर्माचा प्रसार करणाऱ्यांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "भिक्खू", "is_correct": false },
+        { "option_number": 2, "text": "तीर्थंकर", "is_correct": true },
+        { "option_number": 3, "text": "पैगंबर", "is_correct": false },
+        { "option_number": 4, "text": "ऋषी", "is_correct": false }
+      ],
+      "answer": "तीर्थंकर"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन धर्मात एकूण किती तीर्थंकर झाले आहेत?",
+      "options": [
+        { "option_number": 1, "text": "१०", "is_correct": false },
+        { "option_number": 2, "text": "१२", "is_correct": false },
+        { "option_number": 3, "text": "२४", "is_correct": true },
+        { "option_number": 4, "text": "५०", "is_correct": false }
+      ],
+      "answer": "२४"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "वर्धमान महावीर हे जैन धर्माचे कितवे तीर्थंकर होते?",
+      "options": [
+        { "option_number": 1, "text": "पहिले", "is_correct": false },
+        { "option_number": 2, "text": "दहावे", "is_correct": false },
+        { "option_number": 3, "text": "२३ वे", "is_correct": false },
+        { "option_number": 4, "text": "२४ वे", "is_correct": true }
+      ],
+      "answer": "२४ वे"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "वर्धमान महावीरांचा जन्म कोठे झाला?",
+      "options": [
+        { "option_number": 1, "text": "लुंबिनी", "is_correct": false },
+        { "option_number": 2, "text": "कुंडग्राम", "is_correct": true },
+        { "option_number": 3, "text": "पावापुरी", "is_correct": false },
+        { "option_number": 4, "text": "सारनाथ", "is_correct": false }
+      ],
+      "answer": "कुंडग्राम"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "महावीरांना ज्ञानप्राप्तीसाठी किती वर्षे तपश्चर्या करावी लागली?",
+      "options": [
+        { "option_number": 1, "text": "५ वर्षे", "is_correct": false },
+        { "option_number": 2, "text": "१० वर्षे", "is_correct": false },
+        { "option_number": 3, "text": "१२ वर्षे", "is_correct": true },
+        { "option_number": 4, "text": "२० वर्षे", "is_correct": false }
+      ],
+      "answer": "१२ वर्षे"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "महावीरांना प्राप्त झालेल्या सर्वोच्च ज्ञानाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "ब्रह्मज्ञान", "is_correct": false },
+        { "option_number": 2, "text": "केवलज्ञान", "is_correct": true },
+        { "option_number": 3, "text": "विशालज्ञान", "is_correct": false },
+        { "option_number": 4, "text": "आत्मज्ञान", "is_correct": false }
+      ],
+      "answer": "केवलज्ञान"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "'जिन' या शब्दाचा अर्थ काय होतो?",
+      "options": [
+        { "option_number": 1, "text": "तपस्वी", "is_correct": false },
+        { "option_number": 2, "text": "जिंकणारा", "is_correct": true },
+        { "option_number": 3, "text": "पवित्र", "is_correct": false },
+        { "option_number": 4, "text": "शांत", "is_correct": false }
+      ],
+      "answer": "जिंकणारा"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "महावीरांनी लोकांना उपदेश करण्यासाठी कोणत्या लोकभाषेचा वापर केला?",
+      "options": [
+        { "option_number": 1, "text": "संस्कृत", "is_correct": false },
+        { "option_number": 2, "text": "पाली", "is_correct": false },
+        { "option_number": 3, "text": "अर्धमागधी", "is_correct": true },
+        { "option_number": 4, "text": "मराठी", "is_correct": false }
+      ],
+      "answer": "अर्धमागधी"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन धर्मातील पाच मुख्य व्रतांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "पंचशील", "is_correct": false },
+        { "option_number": 2, "text": "पंचमहाव्रते", "is_correct": true },
+        { "option_number": 3, "text": "अष्टांगिक मार्ग", "is_correct": false },
+        { "option_number": 4, "text": "त्रिरत्ने", "is_correct": false }
+      ],
+      "answer": "पंचमहाव्रते"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "चोरी न करणे या व्रताला जैन धर्मात काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "अस्तेय", "is_correct": true },
+        { "option_number": 2, "text": "अहिंसा", "is_correct": false },
+        { "option_number": 3, "text": "अपरिग्रह", "is_correct": false },
+        { "option_number": 4, "text": "सत्य", "is_correct": false }
+      ],
+      "answer": "अस्तेय"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "मालमत्तेचा साठा न करणे म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "ब्रह्मचर्य", "is_correct": false },
+        { "option_number": 2, "text": "अपरिग्रह", "is_correct": true },
+        { "option_number": 3, "text": "सत्य", "is_correct": false },
+        { "option_number": 4, "text": "अस्तेय", "is_correct": false }
+      ],
+      "answer": "अपरिग्रह"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "तीर्थंकरांच्या उपदेशातील सत्याचा सखोल अभ्यास करणे म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "सम्यक दर्शन", "is_correct": false },
+        { "option_number": 2, "text": "सम्यक ज्ञान", "is_correct": true },
+        { "option_number": 3, "text": "सम्यक चारित्र्य", "is_correct": false },
+        { "option_number": 4, "text": "सम्यक दृष्टी", "is_correct": false }
+      ],
+      "answer": "सम्यक ज्ञान"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "गौतम बुद्धांचे मूळ नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "वर्धमान", "is_correct": false },
+        { "option_number": 2, "text": "सिद्धार्थ", "is_correct": true },
+        { "option_number": 3, "text": "शुद्धोदन", "is_correct": false },
+        { "option_number": 4, "text": "राहुल", "is_correct": false }
+      ],
+      "answer": "सिद्धार्थ"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "गौतम बुद्धांचा जन्म कोठे झाला?",
+      "options": [
+        { "option_number": 1, "text": "लुंबिनी", "is_correct": true },
+        { "option_number": 2, "text": "गया", "is_correct": false },
+        { "option_number": 3, "text": "कुशीनगर", "is_correct": false },
+        { "option_number": 4, "text": "सारनाथ", "is_correct": false }
+      ],
+      "answer": "लुंबिनी"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांना कोणत्या ठिकाणी ज्ञानप्राप्ती झाली?",
+      "options": [
+        { "option_number": 1, "text": "कपिलवस्तू", "is_correct": false },
+        { "option_number": 2, "text": "बोधगया", "is_correct": true },
+        { "option_number": 3, "text": "पाटलीपुत्र", "is_correct": false },
+        { "option_number": 4, "text": "वैशाली", "is_correct": false }
+      ],
+      "answer": "बोधगया"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांनी आपले पहिले प्रवचन कोठे दिले?",
+      "options": [
+        { "option_number": 1, "text": "बोधगया", "is_correct": false },
+        { "option_number": 2, "text": "सारनाथ", "is_correct": true },
+        { "option_number": 3, "text": "श्रावस्ती", "is_correct": false },
+        { "option_number": 4, "text": "लुंबिनी", "is_correct": false }
+      ],
+      "answer": "सारनाथ"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांच्या पहिल्या प्रवचनाला काय म्हटले जाते?",
+      "options": [
+        { "option_number": 1, "text": "महाभिनिष्क्रमण", "is_correct": false },
+        { "option_number": 2, "text": "धम्मचक्कपवत्तन", "is_correct": true },
+        { "option_number": 3, "text": "निर्वाण", "is_correct": false },
+        { "option_number": 4, "text": "केवलज्ञान", "is_correct": false }
+      ],
+      "answer": "धम्मचक्कपवत्तन"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांनी सांगितलेल्या चार आर्य सत्यांपैकी 'दुःखाचे मूळ कारण' काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "गरीबी", "is_correct": false },
+        { "option_number": 2, "text": "तृष्णा (इच्छा)", "is_correct": true },
+        { "option_number": 3, "text": "अज्ञान", "is_correct": false },
+        { "option_number": 4, "text": "रोग", "is_correct": false }
+      ],
+      "answer": "तृष्णा (इच्छा)"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध धर्मातील प्रमुख ग्रंथाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "आगम", "is_correct": false },
+        { "option_number": 2, "text": "बायबल", "is_correct": false },
+        { "option_number": 3, "text": "त्रिपिटक", "is_correct": true },
+        { "option_number": 4, "text": "अवेस्ता", "is_correct": false }
+      ],
+      "answer": "त्रिपिटक"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "त्रिपिटक कोणत्या भाषेत लिहिले आहे?",
+      "options": [
+        { "option_number": 1, "text": "संस्कृत", "is_correct": false },
+        { "option_number": 2, "text": "पाली", "is_correct": true },
+        { "option_number": 3, "text": "मराठी", "is_correct": false },
+        { "option_number": 4, "text": "हिंदी", "is_correct": false }
+      ],
+      "answer": "पाली"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांच्या वचनांचा संग्रह कोणत्या पिटकात आहे?",
+      "options": [
+        { "option_number": 1, "text": "विनयपिटक", "is_correct": false },
+        { "option_number": 2, "text": "सुत्तपिटक", "is_correct": true },
+        { "option_number": 3, "text": "अभिधम्मपिटक", "is_correct": false },
+        { "option_number": 4, "text": "आगम", "is_correct": false }
+      ],
+      "answer": "सुत्तपिटक"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध भिक्खूंसाठीचे नियम कोणत्या ग्रंथात दिले आहेत?",
+      "options": [
+        { "option_number": 1, "text": "विनयपिटक", "is_correct": true },
+        { "option_number": 2, "text": "सुत्तपिटक", "is_correct": false },
+        { "option_number": 3, "text": "अभिधम्मपिटक", "is_correct": false },
+        { "option_number": 4, "text": "पुराण", "is_correct": false }
+      ],
+      "answer": "विनयपिटक"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "ख्रिश्चन धर्माचे संस्थापक कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "अल्लाह", "is_correct": false },
+        { "option_number": 2, "text": "येशू ख्रिस्त", "is_correct": true },
+        { "option_number": 3, "text": "झरतुष्ट्र", "is_correct": false },
+        { "option_number": 4, "text": "मुहम्मद पैगंबर", "is_correct": false }
+      ],
+      "answer": "येशू ख्रिस्त"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "ख्रिश्चन धर्माचा पवित्र ग्रंथ कोणता?",
+      "options": [
+        { "option_number": 1, "text": "कुराण", "is_correct": false },
+        { "option_number": 2, "text": "बायबल", "is_correct": true },
+        { "option_number": 3, "text": "अवेस्ता", "is_correct": false },
+        { "option_number": 4, "text": "त्रिपिटक", "is_correct": false }
+      ],
+      "answer": "बायबल"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "इस्लाम धर्माचा पवित्र ग्रंथ कोणता?",
+      "options": [
+        { "option_number": 1, "text": "बायबल", "is_correct": false },
+        { "option_number": 2, "text": "कुराण", "is_correct": true },
+        { "option_number": 3, "text": "अवेस्ता", "is_correct": false },
+        { "option_number": 4, "text": "तोराह", "is_correct": false }
+      ],
+      "answer": "कुराण"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "इस्लाम धर्माचे संस्थापक कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "मुहम्मद पैगंबर", "is_correct": true },
+        { "option_number": 2, "text": "येशू ख्रिस्त", "is_correct": false },
+        { "option_number": 3, "text": "झरतुष्ट्र", "is_correct": false },
+        { "option_number": 4, "text": "सिद्धार्थ", "is_correct": false }
+      ],
+      "answer": "मुहम्मद पैगंबर"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "पारशी धर्माचा पवित्र ग्रंथ कोणता?",
+      "options": [
+        { "option_number": 1, "text": "कुराण", "is_correct": false },
+        { "option_number": 2, "text": "अवेस्ता", "is_correct": true },
+        { "option_number": 3, "text": "बायबल", "is_correct": false },
+        { "option_number": 4, "text": "त्रिपिटक", "is_correct": false }
+      ],
+      "answer": "अवेस्ता"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "पारशी धर्माच्या प्रार्थनेच्या ठिकाणाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "चर्च", "is_correct": false },
+        { "option_number": 2, "text": "मशीद", "is_correct": false },
+        { "option_number": 3, "text": "अग्यारी", "is_correct": true },
+        { "option_number": 4, "text": "सिनेगॉग", "is_correct": false }
+      ],
+      "answer": "अग्यारी"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "यहुदी लोकांच्या प्रार्थनेच्या ठिकाणाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "चर्च", "is_correct": false },
+        { "option_number": 2, "text": "सिनेगॉग", "is_correct": true },
+        { "option_number": 3, "text": "मशीद", "is_correct": false },
+        { "option_number": 4, "text": "मठ", "is_correct": false }
+      ],
+      "answer": "सिनेगॉग"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन धर्मातील 'अनेकांतवाद' या सिद्धांताला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "स्यादवाद", "is_correct": true },
+        { "option_number": 2, "text": "निर्वाण", "is_correct": false },
+        { "option_number": 3, "text": "मध्यम मार्ग", "is_correct": false },
+        { "option_number": 4, "text": "अहिंसा", "is_correct": false }
+      ],
+      "answer": "स्यादवाद"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांनी सुचवलेल्या मध्यम मार्गाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "अष्टांगिक मार्ग", "is_correct": false },
+        { "option_number": 2, "text": "मज्झिम पटिपदा", "is_correct": true },
+        { "option_number": 3, "text": "केवलज्ञान", "is_correct": false },
+        { "option_number": 4, "text": "स्यादवाद", "is_correct": false }
+      ],
+      "answer": "मज्झिम पटिपदा"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध धर्मात 'निर्वाण' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "पुनर्जन्म", "is_correct": false },
+        { "option_number": 2, "text": "मोक्ष किंवा सर्वोच्च शांती", "is_correct": true },
+        { "option_number": 3, "text": "युद्ध", "is_correct": false },
+        { "option_number": 4, "text": "तपश्चर्या", "is_correct": false }
+      ],
+      "answer": "मोक्ष किंवा सर्वोच्च शांती"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "महावीरांच्या मते मानवाचे मोठेपण कशावर अवलंबून असते?",
+      "options": [
+        { "option_number": 1, "text": "वर्णावर", "is_correct": false },
+        { "option_number": 2, "text": "चारित्र्यावर", "is_correct": true },
+        { "option_number": 3, "text": "पैशावर", "is_correct": false },
+        { "option_number": 4, "text": "कुळावर", "is_correct": false }
+      ],
+      "answer": "चारित्र्यावर"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "पारशी धर्माच्या शिकवणीचे मुख्य सूत्र कोणते?",
+      "options": [
+        { "option_number": 1, "text": "हुमत, हुक्त, हुवर्श्त", "is_correct": true },
+        { "option_number": 2, "text": "सत्यमेव जयते", "is_correct": false },
+        { "option_number": 3, "text": "अहिंसा परमो धर्म:", "is_correct": false },
+        { "option_number": 4, "text": "शरणं गच्छामि", "is_correct": false }
+      ],
+      "answer": "हुमत, हुक्त, हुवर्श्त"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "गौतम बुद्धांनी घराचा त्याग केला, त्या घटनेला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "धम्मचक्कपवत्तन", "is_correct": false },
+        { "option_number": 2, "text": "महाभिनिष्क्रमण", "is_correct": true },
+        { "option_number": 3, "text": "केवलज्ञान", "is_correct": false },
+        { "option_number": 4, "text": "निर्वाण", "is_correct": false }
+      ],
+      "answer": "महाभिनिष्क्रमण"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध धर्मात स्त्रियांनी रचलेल्या गाथांच्या संग्रहाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "जातक कथा", "is_correct": false },
+        { "option_number": 2, "text": "थेरीगाथा", "is_correct": true },
+        { "option_number": 3, "text": "सुत्तपिटक", "is_correct": false },
+        { "option_number": 4, "text": "आरण्यके", "is_correct": false }
+      ],
+      "answer": "थेरीगाथा"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "वर्धमान महावीरांच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "शुद्धोदन", "is_correct": false },
+        { "option_number": 2, "text": "सिद्धार्थ", "is_correct": true },
+        { "option_number": 3, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 4, "text": "अजातशत्रू", "is_correct": false }
+      ],
+      "answer": "सिद्धार्थ"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "गौतम बुद्धांना कोणत्या वृक्षाखाली ज्ञानप्राप्ती झाली?",
+      "options": [
+        { "option_number": 1, "text": "पिंपळ (बोधिवृक्ष)", "is_correct": true },
+        { "option_number": 2, "text": "वड", "is_correct": false },
+        { "option_number": 3, "text": "आंबा", "is_correct": false },
+        { "option_number": 4, "text": "साग", "is_correct": false }
+      ],
+      "answer": "पिंपळ (बोधिवृक्ष)"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "पारशी लोकांच्या ईश्वराला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "अल्लाह", "is_correct": false },
+        { "option_number": 2, "text": "अहुर मज्द", "is_correct": true },
+        { "option_number": 3, "text": "येशू", "is_correct": false },
+        { "option_number": 4, "text": "जीन", "is_correct": false }
+      ],
+      "answer": "अहुर मज्द"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "इस्लाम धर्मात देवाचा संदेश वाहून आणणाऱ्याला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "ऋषी", "is_correct": false },
+        { "option_number": 2, "text": "पैगंबर", "is_correct": true },
+        { "option_number": 3, "text": "तीर्थंकर", "is_correct": false },
+        { "option_number": 4, "text": "भिक्खू", "is_correct": false }
+      ],
+      "answer": "पैगंबर"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांनी 'सम्यक दृष्टी' म्हणजे काय सांगितले?",
+      "options": [
+        { "option_number": 1, "text": "केवळ डोळ्यांनी पाहणे", "is_correct": false },
+        { "option_number": 2, "text": "निसर्ग व सत्य यांचे ज्ञान होणे", "is_correct": true },
+        { "option_number": 3, "text": "भविष्य पाहणे", "is_correct": false },
+        { "option_number": 4, "text": "स्वप्न पाहणे", "is_correct": false }
+      ],
+      "answer": "निसर्ग व सत्य यांचे ज्ञान होणे"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन धर्मातील पहिल्या तीर्थंकरांचे नाव काय?",
+      "options": [
+        { "option_number": 1, "text": "ऋषभदेव", "is_correct": true },
+        { "option_number": 2, "text": "वर्धमान", "is_correct": false },
+        { "option_number": 3, "text": "पार्श्वनाथ", "is_correct": false },
+        { "option_number": 4, "text": "नेमिनाथ", "is_correct": false }
+      ],
+      "answer": "ऋषभदेव"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "येशू ख्रिस्तांच्या १२ शिष्यांना काय म्हटले जाते?",
+      "options": [
+        { "option_number": 1, "text": "पैगंबर", "is_correct": false },
+        { "option_number": 2, "text": "अपोस्टल्स", "is_correct": true },
+        { "option_number": 3, "text": "तीर्थंकर", "is_correct": false },
+        { "option_number": 4, "text": "पुरोहित", "is_correct": false }
+      ],
+      "answer": "अपोस्टल्स"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांच्या मते जगातील सर्व गोष्टी कशा आहेत?",
+      "options": [
+        { "option_number": 1, "text": "स्थायी", "is_correct": false },
+        { "option_number": 2, "text": "अस्थायी (बदलणाऱ्या)", "is_correct": true },
+        { "option_number": 3, "text": "केवळ काल्पनिक", "is_correct": false },
+        { "option_number": 4, "text": "अमर", "is_correct": false }
+      ],
+      "answer": "अस्थायी"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "पारशी धर्माच्या लोकांच्या पवित्र अग्निस्थळाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "अग्यारी", "is_correct": true },
+        { "option_number": 2, "text": "मठ", "is_correct": false },
+        { "option_number": 3, "text": "विहार", "is_correct": false },
+        { "option_number": 4, "text": "चर्च", "is_correct": false }
+      ],
+      "answer": "अग्यारी"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांनी कोणत्या गोष्टीला विरोध केला?",
+      "options": [
+        { "option_number": 1, "text": "जातिभेद व यज्ञातील पशुहत्या", "is_correct": true },
+        { "option_number": 2, "text": "शिक्षणाला", "is_correct": false },
+        { "option_number": 3, "text": "शांतीला", "is_correct": false },
+        { "option_number": 4, "text": "व्यापाराला", "is_correct": false }
+      ],
+      "answer": "जातिभेद व यज्ञातील पशुहत्या"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "ख्रिश्चन धर्माचे सर्वोच्च धर्मगुरू कोण असतात?",
+      "options": [
+        { "option_number": 1, "text": "राजा", "is_correct": false },
+        { "option_number": 2, "text": "पोप", "is_correct": true },
+        { "option_number": 3, "text": "पाद्री", "is_correct": false },
+        { "option_number": 4, "text": "भिक्खू", "is_correct": false }
+      ],
+      "answer": "पोप"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "महावीरांनी सांगितलेला 'अनेकांतवाद' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "केवळ एकच सत्य असणे", "is_correct": false },
+        { "option_number": 2, "text": "सत्याचे अनेक पैलू असणे", "is_correct": true },
+        { "option_number": 3, "text": "सत्य नसणे", "is_correct": false },
+        { "option_number": 4, "text": "खोटे बोलणे", "is_correct": false }
+      ],
+      "answer": "सत्याचे अनेक पैलू असणे"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "बुद्धांच्या मते मानवाचे श्रेष्ठत्व कशावरून ठरते?",
+      "options": [
+        { "option_number": 1, "text": "उच्च जन्मावरून", "is_correct": false },
+        { "option_number": 2, "text": "शुद्ध आचरणावरून", "is_correct": true },
+        { "option_number": 3, "text": "श्रीमंतीवरून", "is_correct": false },
+        { "option_number": 4, "text": "भाषेवरून", "is_correct": false }
+      ],
+      "answer": "शुद्ध आचरणावरून"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन धार्मिक प्रवाहांचे मुख्य उद्दिष्ट काय होते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ युद्ध करणे", "is_correct": false },
+        { "option_number": 2, "text": "मानवतेचा आणि कल्याणाचा मार्ग दाखवणे", "is_correct": true },
+        { "option_number": 3, "text": "केवळ साठा करणे", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "मानवतेचा आणि कल्याणाचा मार्ग दाखवणे"
+    },
+    {
+    "question_number": 51,
+    "question_type": "one_word",
+    "question": "जैन धर्मात एकूण किती तीर्थंकर झाले?",
+    "answer": "२४"
+  },
+  {
+    "question_number": 52,
+    "question_type": "one_word",
+    "question": "जैन धर्माचे २४ वे तीर्थंकर कोण होते?",
+    "answer": "वर्धमान महावीर"
+  },
+  {
+    "question_number": 53,
+    "question_type": "one_word",
+    "question": "वर्धमान महावीरांचा जन्म कोठे झाला?",
+    "answer": "कुंडग्राम"
+  },
+  {
+    "question_number": 54,
+    "question_type": "one_word",
+    "question": "वर्धमान महावीरांच्या वडिलांचे नाव काय होते?",
+    "answer": "सिद्धार्थ"
+  },
+  {
+    "question_number": 55,
+    "question_type": "one_word",
+    "question": "वर्धमान महावीरांच्या मातेचे नाव काय होते?",
+    "answer": "त्रिशला"
+  },
+  {
+    "question_number": 56,
+    "question_type": "one_word",
+    "question": "महावीरांनी ज्ञानप्राप्तीसाठी किती वर्षे तपश्चर्या केली?",
+    "answer": "१२ वर्षे"
+  },
+  {
+    "question_number": 57,
+    "question_type": "one_word",
+    "question": "महावीरांना प्राप्त झालेल्या सर्वोच्च ज्ञानाला काय म्हणतात?",
+    "answer": "केवलज्ञान"
+  },
+  {
+    "question_number": 58,
+    "question_type": "one_word",
+    "question": "सर्वोच्च ज्ञान प्राप्त झाल्यामुळे महावीरांना काय म्हटले जाते?",
+    "answer": "केवली"
+  },
+  {
+    "question_number": 59,
+    "question_type": "one_word",
+    "question": "जैन धर्मात 'जिंकणारा' या अर्थाने कोणता शब्द वापरला जातो?",
+    "answer": "जिन"
+  },
+  {
+    "question_number": 60,
+    "question_type": "one_word",
+    "question": "जैन धर्मातील पाच मुख्य व्रतांना काय म्हणतात?",
+    "answer": "पंचमहाव्रते"
+  },
+  {
+    "question_number": 61,
+    "question_type": "one_word",
+    "question": "कोणत्याही सजीवाची हिंसा न करणे म्हणजे काय?",
+    "answer": "अहिंसा"
+  },
+  {
+    "question_number": 62,
+    "question_type": "one_word",
+    "question": "नेहमी खरे बोलणे या व्रताला काय म्हणतात?",
+    "answer": "सत्य"
+  },
+  {
+    "question_number": 63,
+    "question_type": "one_word",
+    "question": "चोरी न करणे याला जैन धर्मात काय म्हटले जाते?",
+    "answer": "अस्तेय"
+  },
+  {
+    "question_number": 64,
+    "question_type": "one_word",
+    "question": "मालमत्तेचा साठा न करणे याला काय म्हणतात?",
+    "answer": "अपरिग्रह"
+  },
+  {
+    "question_number": 65,
+    "question_type": "one_word",
+    "question": "शरीराला सुखा वाटणाऱ्या गोष्टींचा त्याग करणे म्हणजे काय?",
+    "answer": "ब्रह्मचर्य"
+  },
+  {
+    "question_number": 66,
+    "question_type": "one_word",
+    "question": "जैन धर्मातील तीन रत्नांना काय म्हणतात?",
+    "answer": "त्रिरत्ने"
+  },
+  {
+    "question_number": 67,
+    "question_type": "one_word",
+    "question": "तीर्थंकरांच्या उपदेशावर पूर्ण श्रद्धा ठेवणे म्हणजे काय?",
+    "answer": "सम्यक दर्शन"
+  },
+  {
+    "question_number": 68,
+    "question_type": "one_word",
+    "question": "तीर्थंकरांच्या उपदेशाचा सखोल अभ्यास करणे म्हणजे काय?",
+    "answer": "सम्यक ज्ञान"
+  },
+  {
+    "question_number": 69,
+    "question_type": "one_word",
+    "question": "पंचमहाव्रतांचे काटेकोर आचरण करणे म्हणजे काय?",
+    "answer": "सम्यक चारित्र्य"
+  },
+  {
+    "question_number": 70,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांचे पाळण्यातील नाव काय होते?",
+    "answer": "सिद्धार्थ"
+  },
+  {
+    "question_number": 71,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांचा जन्म कोठे झाला?",
+    "answer": "लुंबिनी"
+  },
+  {
+    "question_number": 72,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांच्या वडिलांचे नाव काय होते?",
+    "answer": "शुद्धोदन"
+  },
+  {
+    "question_number": 73,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांच्या मातेचे नाव काय होते?",
+    "answer": "मायादेवी"
+  },
+  {
+    "question_number": 74,
+    "question_type": "one_word",
+    "question": "सिद्धार्थाने सत्याच्या शोधासाठी घराचा त्याग केला, त्या घटनेला काय म्हणतात?",
+    "answer": "महाभिनिष्क्रमण"
+  },
+  {
+    "question_number": 75,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांना कोणत्या ठिकाणी ज्ञानप्राप्ती झाली?",
+    "answer": "बोधगया"
+  },
+  {
+    "question_number": 76,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांना ज्या वृक्षाखाली ज्ञान मिळाले, त्या वृक्षाला काय म्हणतात?",
+    "answer": "बोधिवृक्ष"
+  },
+  {
+    "question_number": 77,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांनी आपले पहिले प्रवचन कोठे दिले?",
+    "answer": "सारनाथ"
+  },
+  {
+    "question_number": 78,
+    "question_type": "one_word",
+    "question": "बुद्धांच्या पहिल्या प्रवचनाच्या घटनेला काय म्हणतात?",
+    "answer": "धम्मचक्कपवत्तन"
+  },
+  {
+    "question_number": 79,
+    "question_type": "one_word",
+    "question": "बौद्ध धर्मातील चार महत्त्वाच्या सत्यांना काय म्हणतात?",
+    "answer": "चार आर्यसत्ये"
+  },
+  {
+    "question_number": 80,
+    "question_type": "one_word",
+    "question": "माणसाचे जीवन दुःखाने भरलेले आहे, या सत्याला काय म्हणतात?",
+    "answer": "दुःख"
+  },
+  {
+    "question_number": 81,
+    "question_type": "one_word",
+    "question": "दुःखाचे मूळ कारण काय आहे?",
+    "answer": "तृष्णा (इच्छा)"
+  },
+  {
+    "question_number": 82,
+    "question_type": "one_word",
+    "question": "दुःख दूर करण्याच्या मार्गाला काय म्हणतात?",
+    "answer": "प्रतिपद"
+  },
+  {
+    "question_number": 83,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांनी सांगितलेल्या आठ मार्गांना काय म्हणतात?",
+    "answer": "अष्टांगिक मार्ग"
+  },
+  {
+    "question_number": 84,
+    "question_type": "one_word",
+    "question": "निसर्ग आणि सत्य यांचे ज्ञान होणे म्हणजे काय?",
+    "answer": "सम्यक दृष्टी"
+  },
+  {
+    "question_number": 85,
+    "question_type": "one_word",
+    "question": "नेहमी चांगले बोलणे म्हणजे काय?",
+    "answer": "सम्यक वाचा"
+  },
+  {
+    "question_number": 86,
+    "question_type": "one_word",
+    "question": "नेहमी चांगली कृती करणे म्हणजे काय?",
+    "answer": "सम्यक कर्मांत"
+  },
+  {
+    "question_number": 87,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांच्या शिकवणुकीचा संग्रह कोणत्या ग्रंथात आहे?",
+    "answer": "त्रिपिटक"
+  },
+  {
+    "question_number": 88,
+    "question_type": "one_word",
+    "question": "त्रिपिटकाची भाषा कोणती आहे?",
+    "answer": "पाली"
+  },
+  {
+    "question_number": 89,
+    "question_type": "one_word",
+    "question": "बुद्धांच्या वचनांच्या संग्रहाला काय म्हणतात?",
+    "answer": "सुत्तपिटक"
+  },
+  {
+    "question_number": 90,
+    "question_type": "one_word",
+    "question": "बौद्ध भिक्खूंच्या नियमांच्या संग्रहाला काय म्हणतात?",
+    "answer": "विनयपिटक"
+  },
+  {
+    "question_number": 91,
+    "question_type": "one_word",
+    "question": "बौद्ध धर्माच्या तत्वज्ञानाच्या संग्रहाला काय म्हणतात?",
+    "answer": "अभिधम्मपिटक"
+  },
+  {
+    "question_number": 92,
+    "question_type": "one_word",
+    "question": "स्त्रियांनी रचलेल्या गाथांच्या संग्रहाला काय म्हणतात?",
+    "answer": "थेरीगाथा"
+  },
+  {
+    "question_number": 93,
+    "question_type": "one_word",
+    "question": "यहुदी धर्माच्या प्रार्थनेच्या ठिकाणाला काय म्हणतात?",
+    "answer": "सिनेगॉग"
+  },
+  {
+    "question_number": 94,
+    "question_type": "one_word",
+    "question": "यहुदी धर्माचा धर्मग्रंथ कोणता?",
+    "answer": "तोराह"
+  },
+  {
+    "question_number": 95,
+    "question_type": "one_word",
+    "question": "ख्रिश्चन धर्माचे संस्थापक कोण होते?",
+    "answer": "येशू ख्रिस्त"
+  },
+  {
+    "question_number": 96,
+    "question_type": "one_word",
+    "question": "ख्रिश्चन धर्माचा पवित्र ग्रंथ कोणता?",
+    "answer": "बायबल"
+  },
+  {
+    "question_number": 97,
+    "question_type": "one_word",
+    "question": "इस्लाम धर्माचा पवित्र ग्रंथ कोणता?",
+    "answer": "कुराण"
+  },
+  {
+    "question_number": 98,
+    "question_type": "one_word",
+    "question": "इस्लाम धर्माचे संस्थापक कोण होते?",
+    "answer": "मुहम्मद पैगंबर"
+  },
+  {
+    "question_number": 99,
+    "question_type": "one_word",
+    "question": "पारशी धर्माचा पवित्र ग्रंथ कोणता?",
+    "answer": "अवेस्ता"
+  },
+  {
+    "question_number": 100,
+    "question_type": "one_word",
+    "question": "पारशी धर्माच्या प्रार्थनेच्या ठिकाणाला काय म्हणतात?",
+    "answer": "अग्यारी"
+  },
+  {
+    "question_number": 101,
+    "question_type": "one_word",
+    "question": "महावीरांनी आपल्या उपदेशासाठी कोणती भाषा वापरली?",
+    "answer": "अर्धमागधी"
+  },
+  {
+    "question_number": 102,
+    "question_type": "one_word",
+    "question": "जैन धर्मात 'अनेकांतवाद' या सिद्धांताला काय म्हणतात?",
+    "answer": "स्यादवाद"
+  },
+  {
+    "question_number": 103,
+    "question_type": "one_word",
+    "question": "वर्धमान महावीरांनी कशावर भर दिला?",
+    "answer": "आचारशुद्धीवर"
+  },
+  {
+    "question_number": 104,
+    "question_type": "one_word",
+    "question": "बुद्धांनी मध्यम मार्गाला काय म्हटले आहे?",
+    "answer": "मज्झिम पटिपदा"
+  },
+  {
+    "question_number": 105,
+    "question_type": "one_word",
+    "question": "बुद्धांच्या मते जगातील सर्व गोष्टी कशा आहेत?",
+    "answer": "अस्थायी (अध्रुव)"
+  },
+  {
+    "question_number": 106,
+    "question_type": "one_word",
+    "question": "बौद्ध धर्मात भिक्खूंच्या निवासाला काय म्हणतात?",
+    "answer": "विहार"
+  },
+  {
+    "question_number": 107,
+    "question_type": "one_word",
+    "question": "भगवान महावीरांच्या मते सर्वश्रेष्ठ धर्म कोणता?",
+    "answer": "अहिंसा"
+  },
+  {
+    "question_number": 108,
+    "question_type": "one_word",
+    "question": "वर्धमान महावीरांच्या निर्वाणाचे ठिकाण कोणते?",
+    "answer": "पावापुरी"
+  },
+  {
+    "question_number": 109,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांच्या निर्वाणाच्या घटनेला काय म्हणतात?",
+    "answer": "महापरिनिर्वाण"
+  },
+  {
+    "question_number": 110,
+    "question_type": "one_word",
+    "question": "बुद्धांचे महापरिनिर्वाण कोठे झाले?",
+    "answer": "कुशीनगर"
+  },
+  {
+    "question_number": 111,
+    "question_type": "one_word",
+    "question": "ख्रिश्चन धर्माच्या प्रार्थनेच्या ठिकाणाला काय म्हणतात?",
+    "answer": "चर्च"
+  },
+  {
+    "question_number": 112,
+    "question_type": "one_word",
+    "question": "इस्लाम धर्माच्या प्रार्थनेच्या ठिकाणाला काय म्हणतात?",
+    "answer": "मशीद"
+  },
+  {
+    "question_number": 113,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांनी कशाचा निषेध केला?",
+    "answer": "यज्ञ आणि जातिभेद"
+  },
+  {
+    "question_number": 114,
+    "question_type": "one_word",
+    "question": "बौद्ध धम्मात संघात प्रवेश करण्याच्या विधीला काय म्हणतात?",
+    "answer": "पब्बज्जा"
+  },
+  {
+    "question_number": 115,
+    "question_type": "one_word",
+    "question": "वर्धमान महावीर कोणत्या राजघराण्यातील होते?",
+    "answer": "ज्ञातृक"
+  },
+  {
+    "question_number": 116,
+    "question_type": "one_word",
+    "question": "गौतम बुद्ध कोणत्या गणराज्यातील होते?",
+    "answer": "शाक्य"
+  },
+  {
+    "question_number": 117,
+    "question_type": "one_word",
+    "question": "स्यादवाद म्हणजे काय?",
+    "answer": "सत्याचे अनेक पैलू असणे"
+  },
+  {
+    "question_number": 118,
+    "question_type": "one_word",
+    "question": "बुद्धांच्या मते मानवाचे श्रेष्ठत्व कशावर अवलंबून असते?",
+    "answer": "चरित्रावर (वर्तणुकीवर)"
+  },
+  {
+    "question_number": 119,
+    "question_type": "one_word",
+    "question": "ख्रिश्चन धर्माचे सर्वोच्च धर्मगुरू कोण असतात?",
+    "answer": "पोप"
+  },
+  {
+    "question_number": 120,
+    "question_type": "one_word",
+    "question": "येशू ख्रिस्तांच्या १२ शिष्यांना काय म्हणतात?",
+    "answer": "अपोस्टल्स"
+  },
+  {
+    "question_number": 121,
+    "question_type": "one_word",
+    "question": "इस्लाम धर्मातील ईश्वराला काय म्हणतात?",
+    "answer": "अल्लाह"
+  },
+  {
+    "question_number": 122,
+    "question_type": "one_word",
+    "question": "पैगंबर म्हणजे काय?",
+    "answer": "ईश्वराचा संदेशवाहक"
+  },
+  {
+    "question_number": 123,
+    "question_type": "one_word",
+    "question": "पारशी लोकांच्या ईश्वराला काय म्हणतात?",
+    "answer": "अहुर मज्द"
+  },
+  {
+    "question_number": 124,
+    "question_type": "one_word",
+    "question": "झरतुष्ट्र हे कोणत्या धर्माचे संस्थापक होते?",
+    "answer": "पारशी"
+  },
+  {
+    "question_number": 125,
+    "question_type": "one_word",
+    "question": "लोकधर्मी परंपरेने कशाला महत्त्व दिले?",
+    "answer": "भक्तीला"
+  },
+  {
+    "question_number": 126,
+    "question_type": "one_word",
+    "question": "वर्धमान महावीरांनी स्त्रियांना कोणता अधिकार दिला?",
+    "answer": "संन्यास घेण्याचा"
+  },
+  {
+    "question_number": 127,
+    "question_type": "one_word",
+    "question": "बुद्धांनी कोणत्या गोष्टीचा त्याग करायला सांगितला?",
+    "answer": "अतिरेकाचा"
+  },
+  {
+    "question_number": 128,
+    "question_type": "one_word",
+    "question": " त्रिपिटक शब्दाचा अर्थ काय?",
+    "answer": "तीन पेट्या (विभाग)"
+  },
+  {
+    "question_number": 129,
+    "question_type": "one_word",
+    "question": "अजिंठा येथील लेण्या कशाशी संबंधित आहेत?",
+    "answer": "बौद्ध धर्म"
+  },
+  {
+    "question_number": 130,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांना ज्ञानप्राप्ती कोणत्या नदीकाठी झाली?",
+    "answer": "निरंजना"
+  },
+  {
+    "question_number": 131,
+    "question_type": "one_word",
+    "question": "जैन धर्मातील पाचवे व्रत 'ब्रह्मचर्य' कोणी जोडले?",
+    "answer": "वर्धमान महावीर"
+  },
+  {
+    "question_number": 132,
+    "question_type": "one_word",
+    "question": "बौद्ध धर्मातील तीन शरणला काय म्हणतात?",
+    "answer": "त्रिशरण"
+  },
+  {
+    "question_number": 133,
+    "question_type": "one_word",
+    "question": "बुद्ध, धम्म आणि... हे त्रिशरण आहेत.",
+    "answer": "संघ"
+  },
+  {
+    "question_number": 134,
+    "question_type": "one_word",
+    "question": "महावीरांना 'जिन' का म्हटले जाते?",
+    "answer": "विकारांवर विजय मिळवल्यामुळे"
+  },
+  {
+    "question_number": 135,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांच्या मते मानवी दुःखाचे कारण कशात आहे?",
+    "answer": "अविद्येत"
+  },
+  {
+    "question_number": 136,
+    "question_type": "one_word",
+    "question": "बुद्धांच्या उपदेशाला काय म्हणतात?",
+    "answer": "धम्म"
+  },
+  {
+    "question_number": 137,
+    "question_type": "one_word",
+    "question": "प्राचीन काळी भारतात कोणकोणत्या धार्मिक विचारांचे प्रवाह होते?",
+    "answer": "अनेक"
+  },
+  {
+    "question_number": 138,
+    "question_type": "one_word",
+    "question": "बौद्ध भिक्खूंच्या संघाला काय म्हणतात?",
+    "answer": "भिक्खू संघ"
+  },
+  {
+    "question_number": 139,
+    "question_type": "one_word",
+    "question": "इस्लाम धर्मात दिवसातून किती वेळा नमाज पढणे आवश्यक आहे?",
+    "answer": "पाच"
+  },
+  {
+    "question_number": 140,
+    "question_type": "one_word",
+    "question": "येशू ख्रिस्तांचा जन्म कोठे झाला?",
+    "answer": "बेथलेहेम"
+  },
+  {
+    "question_number": 141,
+    "question_type": "one_word",
+    "question": "पारशी धर्माचा उगम कोठे झाला?",
+    "answer": "इराण"
+  },
+  {
+    "question_number": 142,
+    "question_type": "one_word",
+    "question": "यहुदी धर्माला कोणत्या नावानेही ओळखले जाते?",
+    "answer": "ज्यू"
+  },
+  {
+    "question_number": 143,
+    "question_type": "one_word",
+    "question": "धम्मपद हा कोणत्या ग्रंथाचा भाग आहे?",
+    "answer": "सुत्तपिटक"
+  },
+  {
+    "question_number": 144,
+    "question_type": "one_word",
+    "question": "जैन धर्मातील पहिल्या तीर्थंकरांचे नाव काय?",
+    "answer": "ऋषभदेव"
+  },
+  {
+    "question_number": 145,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांच्या पत्नीचे नाव काय होते?",
+    "answer": "यशोदरा"
+  },
+  {
+    "question_number": 146,
+    "question_type": "one_word",
+    "question": "सिद्धार्थाच्या मुलाचे नाव काय होते?",
+    "answer": "राहुल"
+  },
+  {
+    "question_number": 147,
+    "question_type": "one_word",
+    "question": "महावीरांच्या मुलीचे नाव काय होते?",
+    "answer": "प्रियदर्शना"
+  },
+  {
+    "question_number": 148,
+    "question_type": "one_word",
+    "question": "गौतम बुद्धांनी आपल्या विचारांचा प्रचार करण्यासाठी कशाची स्थापना केली?",
+    "answer": "संघाची"
+  },
+  {
+    "question_number": 149,
+    "question_type": "one_word",
+    "question": "पारशी धर्माचा मुख्य मंत्र कोणता?",
+    "answer": "हुमत, हुक्त, हुवर्श्त"
+  },
+  {
+    "question_number": 150,
+    "question_type": "one_word",
+    "question": "प्राचीन धार्मिक प्रवाहांचे मुख्य उद्दिष्ट काय होते?",
+    "answer": "मानवतावाद"
+  }
+]
+}

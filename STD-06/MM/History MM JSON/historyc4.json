@@ -1,0 +1,711 @@
+{
+  "chapter_info": {
+    "chapter_number": "४",
+    "grade": "६",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "वैदिक संस्कृती"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या वाङ्मयावर आधारलेली संस्कृती म्हणजे वैदिक संस्कृती होय?",
+      "options": [
+        { "option_number": 1, "text": "जैन वाङ्मय", "is_correct": false },
+        { "option_number": 2, "text": "बौद्ध वाङ्मय", "is_correct": false },
+        { "option_number": 3, "text": "वेद वाङ्मय", "is_correct": true },
+        { "option_number": 4, "text": "पुराण वाङ्मय", "is_correct": false }
+      ],
+      "answer": "वेद वाङ्मय"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक वाङ्मयाची भाषा कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "पाली", "is_correct": false },
+        { "option_number": 2, "text": "संस्कृत", "is_correct": true },
+        { "option_number": 3, "text": "प्राकृत", "is_correct": false },
+        { "option_number": 4, "text": "अर्धमागधी", "is_correct": false }
+      ],
+      "answer": "संस्कृत"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक वाङ्मयातील मूळ ग्रंथ कोणता मानला जातो?",
+      "options": [
+        { "option_number": 1, "text": "यजुर्वेद", "is_correct": false },
+        { "option_number": 2, "text": "सामवेद", "is_correct": false },
+        { "option_number": 3, "text": "ऋग्वेद", "is_correct": true },
+        { "option_number": 4, "text": "अथर्ववेद", "is_correct": false }
+      ],
+      "answer": "ऋग्वेद"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "चार वेदांच्या ग्रंथांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "संहिता", "is_correct": true },
+        { "option_number": 2, "text": "पुराणे", "is_correct": false },
+        { "option_number": 3, "text": "उपनिषदे", "is_correct": false },
+        { "option_number": 4, "text": "ब्राह्मणग्रंथ", "is_correct": false }
+      ],
+      "answer": "संहिता"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "'विद्' या शब्दाचा अर्थ काय होतो?",
+      "options": [
+        { "option_number": 1, "text": "बोलणे", "is_correct": false },
+        { "option_number": 2, "text": "जाणणे", "is_correct": true },
+        { "option_number": 3, "text": "लिहिणे", "is_correct": false },
+        { "option_number": 4, "text": "ऐकणे", "is_correct": false }
+      ],
+      "answer": "जाणणे"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "'वेद' या संज्ञेचा अर्थ काय होतो?",
+      "options": [
+        { "option_number": 1, "text": "भक्ती", "is_correct": false },
+        { "option_number": 2, "text": "शक्ती", "is_correct": false },
+        { "option_number": 3, "text": "ज्ञान", "is_correct": true },
+        { "option_number": 4, "text": "मुक्ती", "is_correct": false }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदांना दुसरे काय नाव आहे?",
+      "options": [
+        { "option_number": 1, "text": "श्रुति", "is_correct": true },
+        { "option_number": 2, "text": "स्मृती", "is_correct": false },
+        { "option_number": 3, "text": "अरण्य", "is_correct": false },
+        { "option_number": 4, "text": "पुराण", "is_correct": false }
+      ],
+      "answer": "श्रुति"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "स्तुती करण्यासाठी रचलेल्या पद्याला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "मंत्र", "is_correct": false },
+        { "option_number": 2, "text": "ऋचा", "is_correct": true },
+        { "option_number": 3, "text": "सूक्त", "is_correct": false },
+        { "option_number": 4, "text": "श्लोक", "is_correct": false }
+      ],
+      "answer": "ऋचा"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "अनेक ऋचा एकत्र गुंफून एखाद्या देवतेची स्तुती करण्यासाठी तयार केलेल्या काव्याला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "सूक्त", "is_correct": true },
+        { "option_number": 2, "text": "संहिता", "is_correct": false },
+        { "option_number": 3, "text": "आरण्यक", "is_correct": false },
+        { "option_number": 4, "text": "ब्राह्मण", "is_correct": false }
+      ],
+      "answer": "सूक्त"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "यज्ञात म्हटल्या जाणाऱ्या मंत्रांचा समावेश कोणत्या संहितेत आहे?",
+      "options": [
+        { "option_number": 1, "text": "ऋग्वेद संहिता", "is_correct": false },
+        { "option_number": 2, "text": "यजुर्वेद संहिता", "is_correct": true },
+        { "option_number": 3, "text": "सामवेद संहिता", "is_correct": false },
+        { "option_number": 4, "text": "अथर्ववेद संहिता", "is_correct": false }
+      ],
+      "answer": "यजुर्वेद संहिता"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतीय संगीताच्या निर्मितीमध्ये कोणत्या वेदाचा मोठा वाटा आहे?",
+      "options": [
+        { "option_number": 1, "text": "सामवेद", "is_correct": true },
+        { "option_number": 2, "text": "यजुर्वेद", "is_correct": false },
+        { "option_number": 3, "text": "ऋग्वेद", "is_correct": false },
+        { "option_number": 4, "text": "अथर्ववेद", "is_correct": false }
+      ],
+      "answer": "सामवेद"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "औषधी वनस्पतींची माहिती देणारा वेद कोणता?",
+      "options": [
+        { "option_number": 1, "text": "सामवेद", "is_correct": false },
+        { "option_number": 2, "text": "अथर्ववेद", "is_correct": true },
+        { "option_number": 3, "text": "ऋग्वेद", "is_correct": false },
+        { "option_number": 4, "text": "यजुर्वेद", "is_correct": false }
+      ],
+      "answer": "अथर्ववेद"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "यज्ञविधींमध्ये वेदांचा वापर कसा करावा, हे सांगणाऱ्या ग्रंथांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "आरण्यके", "is_correct": false },
+        { "option_number": 2, "text": "उपनिषदे", "is_correct": false },
+        { "option_number": 3, "text": "ब्राह्मणग्रंथ", "is_correct": true },
+        { "option_number": 4, "text": "पुराणे", "is_correct": false }
+      ],
+      "answer": "ब्राह्मणग्रंथ"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "अरण्यात जाऊन एकाग्र चित्ताने केलेले चिंतन कोणत्या ग्रंथांत मांडलेले आहे?",
+      "options": [
+        { "option_number": 1, "text": "आरण्यके", "is_correct": true },
+        { "option_number": 2, "text": "उपनिषदे", "is_correct": false },
+        { "option_number": 3, "text": "ब्राह्मणग्रंथ", "is_correct": false },
+        { "option_number": 4, "text": "संहिता", "is_correct": false }
+      ],
+      "answer": "आरण्यके"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "गुरूजवळ बसून मिळवलेले ज्ञान म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "आरण्यक", "is_correct": false },
+        { "option_number": 2, "text": "उपनिषद्", "is_correct": true },
+        { "option_number": 3, "text": "पुराण", "is_correct": false },
+        { "option_number": 4, "text": "स्मृती", "is_correct": false }
+      ],
+      "answer": "उपनिषद्"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदकाळात एकत्र कुटुंबपद्धतीतील घराच्या प्रमुखाला काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "ग्रामणी", "is_correct": false },
+        { "option_number": 2, "text": "गृहपती", "is_correct": true },
+        { "option_number": 3, "text": "नृप", "is_correct": false },
+        { "option_number": 4, "text": " सेनानी", "is_correct": false }
+      ],
+      "answer": "गृहपती"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "गवत किंवा वेलींचे तट्टे विणून त्याच्यावर शेण-माती लिंपून तयार केलेली भिंत म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "कुड", "is_correct": true },
+        { "option_number": 2, "text": "सिमेंट", "is_correct": false },
+        { "option_number": 3, "text": "दगड", "is_correct": false },
+        { "option_number": 4, "text": "विटा", "is_correct": false }
+      ],
+      "answer": "कूड"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक वाङ्मयानुसार 'गोधूम' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "सातू", "is_correct": false },
+        { "option_number": 2, "text": "गहू", "is_correct": true },
+        { "option_number": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_number": 4, "text": "तीळ", "is_correct": false }
+      ],
+      "answer": "गहू"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक वाङ्मयात तांदळासाठी कोणता शब्द वापरला आहे?",
+      "options": [
+        { "option_number": 1, "text": "यव", "is_correct": false },
+        { "option_number": 2, "text": "गोधूम", "is_correct": false },
+        { "option_number": 3, "text": "व्रीहि", "is_correct": true },
+        { "option_number": 4, "text": "तीळ", "is_correct": false }
+      ],
+      "answer": "व्रीही"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "झाडांच्या सालींपासून तयार केलेल्या वस्त्रांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "लोकरी वस्त्र", "is_correct": false },
+        { "option_number": 2, "text": "वल्कले", "is_correct": true },
+        { "option_number": 3, "text": "सुती वस्त्र", "is_correct": false },
+        { "option_number": 4, "text": "रेशमी वस्त्र", "is_correct": false }
+      ],
+      "answer": "वल्कले"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदकाळात गळ्यातील कोणता सोन्याचा दागिना वस्तूंच्या खरेदी-विक्रीसाठी वापरला जाई?",
+      "options": [
+        { "option_number": 1, "text": "हार", "is_correct": false },
+        { "option_number": 2, "text": "अंगठी", "is_correct": false },
+        { "option_number": 3, "text": "निष्क", "is_correct": true },
+        { "option_number": 4, "text": "बांगडी", "is_correct": false }
+      ],
+      "answer": "निष्क"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदकालीन रथाची चाके कशी होती?",
+      "options": [
+        { "option_number": 1, "text": "भरीव", "is_correct": false },
+        { "option_number": 2, "text": "आऱ्यांची", "is_correct": true },
+        { "option_number": 3, "text": "दगडी", "is_correct": false },
+        { "option_number": 4, "text": "रबरी", "is_correct": false }
+      ],
+      "answer": "आऱ्यांची"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक काळात कारागिरांच्या स्वतंत्र संघांना काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "श्रेणी", "is_correct": true },
+        { "option_number": 2, "text": "मंडळ", "is_correct": false },
+        { "option_number": 3, "text": "समिती", "is_correct": false },
+        { "option_number": 4, "text": "परिषद", "is_correct": false }
+      ],
+      "answer": "श्रेणी"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "श्रेणींच्या प्रमुखाला काय म्हणत असत?",
+      "options": [
+        { "option_number": 1, "text": "राजन", "is_correct": false },
+        { "option_number": 2, "text": "श्रेष्ठी", "is_correct": true },
+        { "option_number": 3, "text": "ग्रामणी", "is_correct": false },
+        { "option_number": 4, "text": "विषपती", "is_correct": false }
+      ],
+      "answer": "श्रेष्ठी"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक काळात किती वर्ण होते?",
+      "options": [
+        { "option_number": 1, "text": "दोन", "is_correct": false },
+        { "option_number": 2, "text": "तीन", "is_correct": false },
+        { "option_number": 3, "text": "चार", "is_correct": true },
+        { "option_number": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "सुरुवातीच्या काळात वर्ण कशावरून ठरत असत?",
+      "options": [
+        { "option_number": 1, "text": "जन्मावरून", "is_correct": false },
+        { "option_number": 2, "text": "व्यवसायावरून", "is_correct": true },
+        { "option_number": 3, "text": "सशक्तीवरून", "is_correct": false },
+        { "option_number": 4, "text": "रंगावरून", "is_correct": false }
+      ],
+      "answer": "व्यवसायावरून"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "विद्या प्राप्त करण्याचा काळ कोणता आश्रम मानला जाई?",
+      "options": [
+        { "option_number": 1, "text": "ब्रह्मचर्याश्रम", "is_correct": true },
+        { "option_number": 2, "text": "गृहस्थाश्रम", "is_correct": false },
+        { "option_number": 3, "text": "वानप्रस्थाश्रम", "is_correct": false },
+        { "option_number": 4, "text": "संन्यासाश्रम", "is_correct": false }
+      ],
+      "answer": "ब्रह्मचर्याश्रम"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "अग्नीमध्ये विविध पदार्थ अर्पण करण्याच्या विधीला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "हवी", "is_correct": false },
+        { "option_number": 2, "text": "पूजा", "is_correct": false },
+        { "option_number": 3, "text": "यज्ञ", "is_correct": true },
+        { "option_number": 4, "text": "आरती", "is_correct": false }
+      ],
+      "answer": "यज्ञ"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "सृष्टिचक्र आणि त्याच्या गतीने फिरणारे जीवनचक्र याला वैदिक लोकांनी काय नाव दिले?",
+      "options": [
+        { "option_number": 1, "text": "ऋत", "is_correct": true },
+        { "option_number": 2, "text": "धर्म", "is_correct": false },
+        { "option_number": 3, "text": "कर्म", "is_correct": false },
+        { "option_number": 4, "text": "नियम", "is_correct": false }
+      ],
+      "answer": "ऋत"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदकाळात प्रत्येक ग्रामवसाहतीचा प्रमुखाला काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "विश्पति", "is_correct": false },
+        { "option_number": 2, "text": "नृप", "is_correct": false },
+        { "option_number": 3, "text": "ग्रामणी", "is_correct": true },
+        { "option_number": 4, "text": "सेनापती", "is_correct": false }
+      ],
+      "answer": "ग्रामणी"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "अनेक ग्रामवसाहतींचा समूह म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "जन", "is_correct": false },
+        { "option_number": 2, "text": "विश", "is_correct": true },
+        { "option_number": 3, "text": "देश", "is_correct": false },
+        { "option_number": 4, "text": "तालुका", "is_correct": false }
+      ],
+      "answer": "विश"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "अनेक विश मिळून काय तयार होत असे?",
+      "options": [
+        { "option_number": 1, "text": "जन", "is_correct": true },
+        { "option_number": 2, "text": "राज्य", "is_correct": false },
+        { "option_number": 3, "text": "विशपती", "is_correct": false },
+        { "option_number": 4, "text": "गाव", "is_correct": false }
+      ],
+      "answer": "जन"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "जन जेव्हा एखाद्या विशिष्ट प्रदेशात स्थिरावले, तेव्हा त्याला काय म्हटले गेले?",
+      "options": [
+        { "option_number": 1, "text": "गाव", "is_correct": false },
+        { "option_number": 2, "text": "शहर", "is_correct": false },
+        { "option_number": 3, "text": "जनपद", "is_correct": true },
+        { "option_number": 4, "text": "साम्राज्य", "is_correct": false }
+      ],
+      "answer": "जनपद"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "जनच्या प्रमुखाला काय म्हटले जाई?",
+      "options": [
+        { "option_number": 1, "text": "राजा", "is_correct": true },
+        { "option_number": 2, "text": "ग्रामणी", "is_correct": false },
+        { "option_number": 3, "text": "भागदुघ", "is_correct": false },
+        { "option_number": 4, "text": "श्रेष्ठी", "is_correct": false }
+      ],
+      "answer": "राजा"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "कर गोळा करण्यासाठी नेमलेल्या अधिकाऱ्याला काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "सेनानी", "is_correct": false },
+        { "option_number": 2, "text": "भागदुघ", "is_correct": true },
+        { "option_number": 3, "text": "पुरोहित", "is_correct": false },
+        { "option_number": 4, "text": "ग्रामणी", "is_correct": false }
+      ],
+      "answer": "भागदुघ"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "राज्यातील ज्येष्ठ व्यक्तींच्या मंडळास काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "समिती", "is_correct": false },
+        { "option_number": 2, "text": "सभा", "is_correct": true },
+        { "option_number": 3, "text": "विदथ", "is_correct": false },
+        { "option_number": 4, "text": "श्रेणी", "is_correct": false }
+      ],
+      "answer": "सभा"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "लोकांच्या सर्वसाधारण बैठकीस काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "समिती", "is_correct": true },
+        { "option_number": 2, "text": "सभा", "is_correct": false },
+        { "option_number": 3, "text": "विदथ", "is_correct": false },
+        { "option_number": 4, "text": "श्रेणी", "is_correct": false }
+      ],
+      "answer": "समिती"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या संस्थांच्या कामकाजात स्त्रियांचाही सहभाग असे?",
+      "options": [
+        { "option_number": 1, "text": "सभा आणि समिती", "is_correct": false },
+        { "option_number": 2, "text": "सभा आणि विदथ", "is_correct": true },
+        { "option_number": 3, "text": "समिती आणि जन", "is_correct": false },
+        { "option_number": 4, "text": "विश आणि जनपद", "is_correct": false }
+      ],
+      "answer": "सभा आणि विदथ"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "घराला वैदिक काळात दुसरा कोणता शब्द होता?",
+      "options": [
+        { "option_number": 1, "text": "वाडा", "is_correct": false },
+        { "option_number": 2, "text": "बंगाला", "is_correct": false },
+        { "option_number": 3, "text": "शाला", "is_correct": true },
+        { "option_number": 4, "text": "मठ", "is_correct": false }
+      ],
+      "answer": "शाला"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक वाङ्मयानुसार 'यव' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "सातू", "is_correct": true },
+        { "option_number": 2, "text": "गहू", "is_correct": false },
+        { "option_number": 3, "text": "तांदूळ", "is_correct": false },
+        { "option_number": 4, "text": "बाजरी", "is_correct": false }
+      ],
+      "answer": "सातू"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "यज्ञविधीमध्ये अर्पण केलेल्या पदार्थांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "प्रसाद", "is_correct": false },
+        { "option_number": 2, "text": "हवी", "is_correct": true },
+        { "option_number": 3, "text": "भोजन", "is_correct": false },
+        { "option_number": 4, "text": "दान", "is_correct": false }
+      ],
+      "answer": "हवी"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "वानप्रस्थाश्रम हा कितवा टप्पा आहे?",
+      "options": [
+        { "option_number": 1, "text": "पहिला", "is_correct": false },
+        { "option_number": 2, "text": "दुसरा", "is_correct": false },
+        { "option_number": 3, "text": "तिसरा", "is_correct": true },
+        { "option_number": 4, "text": "चौथा", "is_correct": false }
+      ],
+      "answer": "तिसरा"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदांना मुखोद्गत करून जतन करण्याच्या पद्धतीमुळे त्यांना काय म्हटले जाते?",
+      "options": [
+        { "option_number": 1, "text": "लिखित", "is_correct": false },
+        { "option_number": 2, "text": "श्रुति", "is_correct": true },
+        { "option_number": 3, "text": "स्मृती", "is_correct": false },
+        { "option_number": 4, "text": "ग्रंथ", "is_correct": false }
+      ],
+      "answer": "श्रुति"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक काळात गाईंचा उपयोग कशासाठी केला जाई?",
+      "options": [
+        { "option_number": 1, "text": "केवळ दुधासाठी", "is_correct": false },
+        { "option_number": 2, "text": "विनिमयासाठी", "is_correct": true },
+        { "option_number": 3, "text": "युद्धात", "is_correct": false },
+        { "option_number": 4, "text": "शर्यतीसाठी", "is_correct": false }
+      ],
+      "answer": "विनिमयासाठी"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणता प्राणी रथाला जोडण्यात वेदकालीन लोक निष्णात होते?",
+      "options": [
+        { "option_number": 1, "text": "बैल", "is_correct": false },
+        { "option_number": 2, "text": "उंट", "is_correct": false },
+        { "option_number": 3, "text": "घोडा", "is_correct": true },
+        { "option_number": 4, "text": "हत्ती", "is_correct": false }
+      ],
+      "answer": "घोडा"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदांच्या निर्मितीनंतर सुमारे किती वर्षांचा कालावधी वैदिक वाङ्मय रचण्यास लागला?",
+      "options": [
+        { "option_number": 1, "text": "५०० वर्षे", "is_correct": false },
+        { "option_number": 2, "text": "१००० वर्षे", "is_correct": false },
+        { "option_number": 3, "text": "१५०० वर्षे", "is_correct": true },
+        { "option_number": 4, "text": "२००० वर्षे", "is_correct": false }
+      ],
+      "answer": "पंधराशे वर्षे"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक काळातील समाजव्यवस्था कशी होती?",
+      "options": [
+        { "option_number": 1, "text": "स्त्रीप्रधान", "is_correct": false },
+        { "option_number": 2, "text": "पुरुषप्रधान", "is_correct": true },
+        { "option_number": 3, "text": "मुख्याध्यापकप्रधान", "is_correct": false },
+        { "option_number": 4, "text": "राज्यप्रधान", "is_correct": false }
+      ],
+      "answer": "पुरुषप्रधान"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "निसर्गातील शक्तींना काय रूप दिलेले होते?",
+      "options": [
+        { "option_number": 1, "text": "राक्षस", "is_correct": false },
+        { "option_number": 2, "text": "मानव", "is_correct": false },
+        { "option_number": 3, "text": "देवतारूप", "is_correct": true },
+        { "option_number": 4, "text": "प्राणी", "is_correct": false }
+      ],
+      "answer": "देवतारूप"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "अश्वशक्ती (हॉर्स पॉवर) हे कशाचे एकक आहे?",
+      "options": [
+        { "option_number": 1, "text": "वजन", "is_correct": false },
+        { "option_number": 2, "text": "उंची", "is_correct": false },
+        { "option_number": 3, "text": "वेग (शक्ती)", "is_correct": true },
+        { "option_number": 4, "text": "तापमान", "is_correct": false }
+      ],
+      "answer": "वेग (शक्ती)"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "वैदिक विचारप्रवाहात पुढे कोणते वाङ्मय निर्माण झाले?",
+      "options": [
+        { "option_number": 1, "text": "स्मृति व पुराण", "is_correct": true },
+        { "option_number": 2, "text": "कथा व कादंबरी", "is_correct": false },
+        { "option_number": 3, "text": "नाटक व काव्य", "is_correct": false },
+        { "option_number": 4, "text": "बातम्या", "is_correct": false }
+      ],
+      "answer": "स्मृति व पुराण"
+    },
+    { "question_number": 51, "question_type": "एकशब्दी", "question": "वैदिक संस्कृती कोणत्या वाङ्मयावर आधारलेली आहे?", "answer": "वेद" },
+    { "question_number": 52, "question_type": "एकशब्दी", "question": "वेद या शब्दाचा अर्थ काय होतो?", "answer": "ज्ञान" },
+    { "question_number": 53, "question_type": "एकशब्दी", "question": "सर्वात प्राचीन वेद कोणता मानला जातो?", "answer": "ऋग्वेद" },
+    { "question_number": 54, "question_type": "एकशब्दी", "question": "वेदांची भाषा कोणती होती?", "answer": "संस्कृत" },
+    { "question_number": 55, "question_type": "एकशब्दी", "question": "ऋग्वेदातील ऋचांच्या समूहाला काय म्हणतात?", "answer": "सूक्त" },
+    { "question_number": 56, "question_type": "एकशब्दी", "question": "यज्ञात म्हटल्या जाणाऱ्या मंत्रांचे संकलन कोणत्या वेदात आहे?", "answer": "यजुर्वेद" },
+    { "question_number": 57, "question_type": "एकशब्दी", "question": "भारतीय संगीताचा पाया कोणत्या वेदात मानला जातो?", "answer": "सामवेद" },
+    { "question_number": 58, "question_type": "एकशब्दी", "question": "औषधी वनस्पतींची माहिती देणारा वेद कोणता?", "answer": "अथर्ववेद" },
+    { "question_number": 59, "question_type": "एकशब्दी", "question": "वैदिक काळात कुटुंबाच्या प्रमुखाला काय म्हटले जाई?", "answer": "गृहपती" },
+    { "question_number": 60, "question_type": "एकशब्दी", "question": "ग्रामणी कोणास म्हटले जाई?", "answer": "गावचा प्रमुख" },
+    { "question_number": 61, "question_type": "एकशब्दी", "question": "अनेक गावांचा समूह मिळून काय तयार होत असे?", "answer": "विश" },
+    { "question_number": 62, "question_type": "एकशब्दी", "question": "विशच्या प्रमुखाला काय नाव होते?", "answer": "विशपती" },
+    { "question_number": 63, "question_type": "एकशब्दी", "question": "अनेक विश मिळून काय तयार होई?", "answer": "जन" },
+    { "question_number": 64, "question_type": "एकशब्दी", "question": "जनच्या प्रमुखाला काय म्हटले जाई?", "answer": "नृप किंवा राजा" },
+    { "question_number": 65, "question_type": "एकशब्दी", "question": "राजाला सल्ला देणाऱ्या ज्येष्ठ व्यक्तींच्या मंडळाला काय म्हणत?", "answer": "सभा" },
+    { "question_number": 66, "question_type": "एकशब्दी", "question": "लोकांच्या सहभागातून बनलेल्या लोकसभेला काय म्हणत?", "answer": "समिती" },
+    { "question_number": 67, "question_type": "एकशब्दी", "question": "कर गोळा करणाऱ्या अधिकाऱ्याला काय म्हटले जाई?", "answer": "भागदुघ" },
+    { "question_number": 68, "question_type": "एकशब्दी", "question": "निसर्गाच्या नियमित चक्राला काय म्हटले जाई?", "answer": "ऋत (Rita)" },
+    { "question_number": 69, "question_type": "एकशब्दी", "question": "वैदिक काळात आहारातील मुख्य धान्य कोणते होते?", "answer": "सातू (बार्ली) आणि गहू" },
+    { "question_number": 70, "question_type": "एकशब्दी", "question": "वैदिक काळात वस्त्रांसाठी कशाचा वापर केला जाई?", "answer": "कापूस आणि लोकर" },
+    { "question_number": 71, "question_type": "एकशब्दी", "question": "झाडाच्या सालीपासून बनवलेल्या वस्त्राला काय म्हणतात?", "answer": "वल्कल" },
+    { "question_number": 72, "question_type": "एकशब्दी", "question": "लोकप्रिय दागिना 'निष्क' कोणत्या धातूचा असावा?", "answer": "सोने" },
+    { "question_number": 73, "question_type": "एकशब्दी", "question": "वैदिक काळात करमणुकीसाठी कोणते साधन लोकप्रिय होते?", "answer": "गायन आणि वादन" },
+    { "question_number": 74, "question_type": "एकशब्दी", "question": "वीणा आणि बासरी यांसारखी वाद्ये कोणत्या काळात होती?", "answer": "वैदिक काळ" },
+    { "question_number": 75, "question_type": "एकशब्दी", "question": "समाजातील चार वर्ण कोणते होते?", "answer": "ब्राह्मण, क्षत्रिय, वैश्य, शूद्र" },
+    { "question_number": 76, "question_type": "एकशब्दी", "question": "वर्णांची ठरवण्याची पद्धत सुरुवातीला कशावर आधारित होती?", "answer": "व्यवसायावर" },
+    { "question_number": 77, "question_type": "एकशब्दी", "question": "वैदिक काळातील विद्वान महिला कोण होत्या?", "answer": "लोपामुद्रा, गार्गी, मैत्रेयी" },
+    { "question_number": 78, "question_type": "एकशब्दी", "question": "मानवी आयुष्याचे चार विभाग कोणत्या नावाने ओळखले जातात?", "answer": "आश्रम" },
+    { "question_number": 79, "question_type": "एकशब्दी", "question": "पहिला आश्रम कोणता होता?", "answer": "ब्रह्मचर्याश्रम" },
+    { "question_number": 80, "question_type": "एकशब्दी", "question": "गृहस्थाश्रम म्हणजे काय?", "answer": "कुटुंब आणि समाजाप्रती कर्तव्ये पार पाडणे" },
+    { "question_number": 81, "question_type": "एकशब्दी", "question": "तिसरा आश्रम कोणता होता?", "answer": "वानप्रस्थाश्रम" },
+    { "question_number": 82, "question_type": "एकशब्दी", "question": "चौथ्या आश्रमात कशाची अपेक्षा होती?", "answer": "संन्यास (सर्व त्याग)" },
+    { "question_number": 83, "question_type": "एकशब्दी", "question": "यज्ञविधी म्हणजे काय?", "answer": "अग्नीमध्ये अर्पण केलेली आहुती" },
+    { "question_number": 84, "question_type": "एकशब्दी", "question": "यज्ञात अर्पण केलेल्या पदार्थांना काय म्हणतात?", "answer": "हवी" },
+    { "question_number": 85, "question_type": "एकशब्दी", "question": "वैदिक काळात संपत्तीचा मुख्य स्रोत कोणता प्राणी होता?", "answer": "गाय" },
+    { "question_number": 86, "question_type": "एकशब्दी", "question": "खेती करण्यासाठी कोणाचा वापर केला जाई?", "answer": "बैल" },
+    { "question_number": 87, "question_type": "एकशब्दी", "question": "वेगासाठी कोणता प्राणी रथाला जोडला जाई?", "answer": "घोडा" },
+    { "question_number": 88, "question_type": "एकशब्दी", "question": "निसर्गातील सूर्य, वारा, पाऊस यांना काय मानले जाई?", "answer": "देवता" },
+    { "question_number": 89, "question_type": "एकशब्दी", "question": "वेदांना 'श्रुती' का म्हणतात?", "answer": "ऐकून जतन केल्यामुळे" },
+    { "question_number": 90, "question_type": "एकशब्दी", "question": "ऋग्वेदातील रचनेला काय म्हणतात?", "answer": "ऋचा" },
+    { "question_number": 91, "question_type": "एकशब्दी", "question": "ऋग्वेदातील देवतांच्या स्तुतीला काय म्हणतात?", "answer": "सूक्त" },
+    { "question_number": 92, "question_type": "एकशब्दी", "question": "वैदिक काळातील घरबांधणी कशाची होती?", "answer": "माती किंवा कुडाची" },
+    { "question_number": 93, "question_type": "एकशब्दी", "question": "दुधापासून बनवलेले कोणते पदार्थ आहारात होते?", "answer": "दही, तूप, लोणी" },
+    { "question_number": 94, "question_type": "एकशब्दी", "question": "वैदिक लोकांचा मुख्य व्यवसाय कोणता होता?", "answer": "शेती आणि पशुपालन" },
+    { "question_number": 95, "question_type": "एकशब्दी", "question": "पाच नद्यांच्या प्रदेशाला काय म्हणतात?", "answer": "सप्तसिंधू" },
+    { "question_number": 96, "question_type": "एकशब्दी", "question": "वेदांच्या नंतर लिहिलेल्या ग्रंथांना काय म्हणतात?", "answer": "ब्राह्मणग्रंथ" },
+    { "question_number": 97, "question_type": "एकशब्दी", "question": "अरण्यात जाऊन चिंतनाद्वारे लिहिलेल्या साहित्याला काय म्हणतात?", "answer": "आरण्यके" },
+    { "question_number": 98, "question_type": "एकशब्दी", "question": "गुरुंजवळ बसून मिळवलेल्या ज्ञानाला काय म्हणतात?", "answer": "उपनिषदे" },
+    { "question_number": 99, "question_type": "एकशब्दी", "question": "समाजाचे नियमन करण्यासाठी काय तयार झाले?", "answer": "स्मृतिग्रंथ" },
+    { "question_number": 100, "question_type": "एकशब्दी", "question": "रामायण आणि महाभारत ही काय आहेत?", "answer": "महाकाव्ये" },
+    { "question_number": 101, "question_type": "एकशब्दी", "question": "यजुर्वेदाचे किती भाग आहेत?", "answer": "दोन (शुक्ल आणि कृष्ण)" },
+    { "question_number": 102, "question_type": "एकशब्दी", "question": "जनपदे म्हणजे काय?", "answer": "टोळ्यांच्या वसाहती" },
+    { "question_number": 103, "question_type": "एकशब्दी", "question": "विशपतीचे मुख्य काम काय होते?", "answer": "विशचे रक्षण करणे" },
+    { "question_number": 104, "question_type": "एकशब्दी", "question": "राजाची निवड कशी होत असे?", "answer": "टोळीच्या प्रमुखांमधून" },
+    { "question_number": 105, "question_type": "एकशब्दी", "question": "यज्ञसंस्थेला कोणत्या धर्मात महत्त्व होते?", "answer": "वैदिक धर्म" },
+    { "question_number": 106, "question_type": "एकशब्दी", "question": "वैदिक काळातील रथाला किती चाके असत?", "answer": "दोन" },
+    { "question_number": 107, "question_type": "एकशब्दी", "question": "नशिबापेक्षा कर्माला महत्त्व कोणी दिले?", "answer": "वैदिक साहित्याने" },
+    { "question_number": 108, "question_type": "एकशब्दी", "question": "ऋग्वेदात एकूण किती मंडले आहेत?", "answer": "दहा" },
+    { "question_number": 109, "question_type": "एकशब्दी", "question": "अथर्ववेदाचे ऋषी कोण होते?", "answer": "अथर्वा ऋषी" },
+    { "question_number": 110, "question_type": "एकशब्दी", "question": "वैदिक काळात गुन्ह्यांसाठी काय शिक्षा दिली जाई?", "answer": "दंड किंवा हद्दपारी" },
+    { "question_number": 111, "question_type": "एकशब्दी", "question": "वेदांच्या अभ्यासाला काय म्हणतात?", "answer": "स्वाध्याय" },
+    { "question_number": 112, "question_type": "एकशब्दी", "question": "सत्यमेव जयते हे घोषवाक्य कोणत्या उपनिषदातून घेतले आहे?", "answer": "मुंडक उपनिषद" },
+    { "question_number": 113, "question_type": "एकशब्दी", "question": "वैदिक काळातील युद्धाला काय म्हटले जाई?", "answer": "गविष्टी" },
+    { "question_number": 114, "question_type": "एकशब्दी", "question": "यज्ञात पुरोहिताला काय म्हटले जाई?", "answer": "ऋत्विज" },
+    { "question_number": 115, "question_type": "एकशब्दी", "question": "वैदिक संस्कृती कोठे विकसित झाली?", "answer": "नदीकाठी" },
+    { "question_number": 116, "question_type": "एकशब्दी", "question": "यज्ञात सोमरस कशापासून बनवला जाई?", "answer": "विशिष्ट वनस्पतीपासून" },
+    { "question_number": 117, "question_type": "एकशब्दी", "question": "आर्यांचा मुख्य व्यवसाय शेती होता का?", "answer": "हो" },
+    { "question_number": 118, "question_type": "एकशब्दी", "question": "शूद्र वर्णाचे कार्य काय होते?", "answer": "इतर तीन वर्णांची सेवा करणे" },
+    { "question_number": 119, "question_type": "एकशब्दी", "question": "राजाचा मुख्य सेनापती कोण असे?", "answer": "सेनानी" },
+    { "question_number": 120, "question_type": "एकशब्दी", "question": "वैदिक काळात शिक्षणाचे माध्यम काय होते?", "answer": "गुरु-शिष्य परंपरा (तोंडी)" },
+    { "question_number": 121, "question_type": "एकशब्दी", "question": "उपनिषदांची संख्या सुमारे किती आहे?", "answer": "१०८" },
+    { "question_number": 122, "question_type": "एकशब्दी", "question": "यजुर्वेदातील गद्य भागाला काय म्हणतात?", "answer": "यजुस" },
+    { "question_number": 123, "question_type": "एकशब्दी", "question": "वैदिक काळात कोणत्या देवतेची स्तुती जास्त आहे?", "answer": "इंद्र" },
+    { "question_number": 124, "question_type": "एकशब्दी", "question": "वल्कल म्हणजे काय?", "answer": "झाडाच्या सालीचे वस्त्र" },
+    { "question_number": 125, "question_type": "एकशब्दी", "question": "वैदिक काळ कोणत्या कालावधीचा मानला जातो?", "answer": "इसवी सन पूर्व १५०० ते ६००" },
+    { "question_number": 126, "question_type": "एकशब्दी", "question": "विशपती कोणत्या स्तरावर काम करायचा?", "answer": "विश (गावांच्या गटावर)" },
+    { "question_number": 127, "question_type": "एकशब्दी", "question": "लोकांनी राजाला दिलेल्या भेटीला काय म्हणत?", "answer": "बली" },
+    { "question_number": 128, "question_type": "एकशब्दी", "question": "टोळ्यांच्या प्रमुखाला 'गोपती' का म्हणत?", "answer": "गायींचे रक्षण करणारा म्हणून" },
+    { "question_number": 129, "question_type": "एकशब्दी", "question": "वेदांच्या सहा अंगांना काय म्हणतात?", "answer": "वेदांगे" },
+    { "question_number": 130, "question_type": "एकशब्दी", "question": "वैदिक काळात मृतांना जाळण्याची प्रथा होती का?", "answer": "हो" },
+    { "question_number": 131, "question_type": "एकशब्दी", "question": "सामवेदात किती ऋचा आहेत?", "answer": "१८७५" },
+    { "question_number": 132, "question_type": "एकशब्दी", "question": "पुरोहित म्हणजे काय?", "answer": "धार्मिक विधी करणारा" },
+    { "question_number": 133, "question_type": "एकशब्दी", "question": "वैदिक संस्कृतीत कोणाला 'अघन्या' (मारता न येणारी) मानले जाई?", "answer": "गाय" },
+    { "question_number": 134, "question_type": "एकशब्दी", "question": "वैदिक काळात सोन्याला काय म्हणत?", "answer": "हिरण्य" },
+    { "question_number": 135, "question_type": "एकशब्दी", "question": "वस्त्र विणण्याच्या कलेला काय म्हणत?", "answer": "वयन" },
+    { "question_number": 136, "question_type": "एकशब्दी", "question": "वैदिक काळात घरांना काय म्हणत?", "answer": "शाला" },
+    { "question_number": 137, "question_type": "एकशब्दी", "question": "वेदांचे संकलन कोणी केले असे मानले जाते?", "answer": "व्यास ऋषींनी" },
+    { "question_number": 138, "question_type": "एकशब्दी", "question": "पितृप्रधान कुटुंब व्यवस्था कोणत्या काळात होती?", "answer": "वैदिक काळात" },
+    { "question_number": 139, "question_type": "एकशब्दी", "question": "यज्ञात अग्नीला कोणाचा दूत मानले जाई?", "answer": "देवांचा" },
+    { "question_number": 140, "question_type": "एकशब्दी", "question": "वैदिक काळात तांब्याला काय म्हणत?", "answer": "अयस" },
+    { "question_number": 141, "question_type": "एकशब्दी", "question": "राजाची सभा कोणत्या ठिकाणी भरत असे?", "answer": "सभागृहात" },
+    { "question_number": 142, "question_type": "एकशब्दी", "question": "वैदिक काळात व्यापाराला काय म्हणत?", "answer": "वाणिज्य" },
+    { "question_number": 143, "question_type": "एकशब्दी", "question": "वैदिक काळात विहीर खोदण्याच्या कलेला काय म्हणत?", "answer": "खनित्र" },
+    { "question_number": 144, "question_type": "एकशब्दी", "question": "वेदातील सर्वात मोठी संहिता कोणती?", "answer": "ऋग्वेद संहिता" },
+    { "question_number": 145, "question_type": "एकशब्दी", "question": "ब्राह्मण वर्गाचे मुख्य कार्य काय होते?", "answer": "अध्ययन आणि अध्यापन" },
+    { "question_number": 146, "question_type": "एकशब्दी", "question": "शूद्र वर्णाचे कार्य काय होते?", "answer": "सेवा करणे" },
+    { "question_number": 147, "question_type": "एकशब्दी", "question": "वैदिक काळात स्त्रियांना पतीसोबत यज्ञात बसण्याचा अधिकार होता का?", "answer": "हो" },
+    { "question_number": 148, "question_type": "एकशब्दी", "question": "ऋग्वेदात गंगा आणि यमुना या नद्यांचा उल्लेख आहे का?", "answer": "हो" },
+    { "question_number": 149, "question_type": "एकशब्दी", "question": "वैदिक लोक जमिनीला काय मानत असत?", "answer": "पृथ्वी माता" },
+    { "question_number": 150, "question_type": "एकशब्दी", "question": "वैदिक संस्कृती ही कोणत्या महान संस्कृतीचा भाग आहे?", "answer": "भारतीय संस्कृती" }
+  ]
+}

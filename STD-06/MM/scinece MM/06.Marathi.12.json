@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.12",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "साधी यंत्रे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कमी वेळेत आणि कमी श्रमात कामे करण्यासाठी वापरल्या जाणाऱ्या साधनांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "खेळणी", "is_correct": false },
+        { "option_id": 2, "text": "यंत्रे", "is_correct": true },
+        { "option_id": 3, "text": "अवजारे", "is_correct": false },
+        { "option_id": 4, "text": "भांडी", "is_correct": false }
+      ],
+      "answer": "यंत्रे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ज्या यंत्रांमध्ये एक-दोन भाग असतात आणि रचना सोपी असते, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गुंतागुंतीची यंत्रे", "is_correct": false },
+        { "option_id": 2, "text": "मोठी यंत्रे", "is_correct": false },
+        { "option_id": 3, "text": "साधी यंत्रे", "is_correct": true },
+        { "option_id": 4, "text": "विद्युत यंत्रे", "is_correct": false }
+      ],
+      "answer": "साधी यंत्रे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी साध्या यंत्राचे उदाहरण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मिक्सर", "is_correct": false },
+        { "option_id": 2, "text": "कात्री", "is_correct": true },
+        { "option_id": 3, "text": "स्कूटर", "is_correct": false },
+        { "option_id": 4, "text": "शिवणयंत्र", "is_correct": false }
+      ],
+      "answer": "कात्री"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ज्या यंत्रांमध्ये अनेक भाग एकमेकांशी जोडलेले असतात, त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "साधी यंत्रे", "is_correct": false },
+        { "option_id": 2, "text": "गुंतागुंतीची यंत्रे", "is_correct": true },
+        { "option_id": 3, "text": "मजबूत यंत्रे", "is_correct": false },
+        { "option_id": 4, "text": "छोटा यंत्र", "is_correct": false }
+      ],
+      "answer": "गुंतागुंतीची यंत्रे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "उतरण (Inclined Plane) कशासाठी वापरली जाते?",
+      "options": [
+        { "option_id": 1, "text": "वस्तू कापण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "वस्तू उचलण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "जड वस्तू वर चढवण्यासाठी", "is_correct": true },
+        { "option_id": 4, "text": "पाणी काढण्यासाठी", "is_correct": false }
+      ],
+      "answer": "जड वस्तू वर चढवण्यासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उतरणीची लांबी जितकी जास्त असेल, तितका तिचा चढ कसा होतो?",
+      "options": [
+        { "option_id": 1, "text": "उभा", "is_correct": false },
+        { "option_id": 2, "text": "कमी", "is_correct": true },
+        { "option_id": 3, "text": "खूप जास्त", "is_correct": false },
+        { "option_id": 4, "text": "बदलत नाही", "is_correct": false }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दोन उतरणी एकमेकींना जोडल्यास कोणते यंत्र तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "पाचर (Wedge)", "is_correct": true },
+        { "option_id": 2, "text": "तर्फ", "is_correct": false },
+        { "option_id": 3, "text": "कप्पी", "is_correct": false },
+        { "option_id": 4, "text": "चाक", "is_correct": false }
+      ],
+      "answer": "पाचर (Wedge)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कुऱ्हाडीचा उपयोग कशासाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "लाकूड फोडण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "दोरी ओढण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "पाणी गरम करण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "अन्न शिजवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "लाकूड फोडण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "एका उतरणीभोवती गुंडाळलेली उतरण म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "तर्फ", "is_correct": false },
+        { "option_id": 2, "text": "पाचर", "is_correct": false },
+        { "option_id": 3, "text": "स्क्रू (Screw)", "is_correct": true },
+        { "option_id": 4, "text": "कप्पी", "is_correct": false }
+      ],
+      "answer": "स्क्रू (Screw)"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "डोंगरावरील घाट रस्ता हे कोणत्या साध्या यंत्राचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "तर्फ", "is_correct": false },
+        { "option_id": 2, "text": "उतरण", "is_correct": true },
+        { "option_id": 3, "text": "पाचर", "is_correct": false },
+        { "option_id": 4, "text": "कप्पी", "is_correct": false }
+      ],
+      "answer": "उतरण"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "एका मजबूत दांड्याचा उपयोग करून वस्तू उचलण्यासाठी वापरले जाणारे यंत्र म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "तर्फ (Lever)", "is_correct": true },
+        { "option_id": 2, "text": "चाक", "is_correct": false },
+        { "option_id": 3, "text": "स्क्रू", "is_correct": false },
+        { "option_id": 4, "text": "उतरण", "is_correct": false }
+      ],
+      "answer": "तर्फ (Lever)"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "तर्फेचा दांडा ज्या आधारावर टेकवलेला असतो, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भार", "is_correct": false },
+        { "option_id": 2, "text": "बल", "is_correct": false },
+        { "option_id": 3, "text": "टेकू (Fulcrum)", "is_correct": true },
+        { "option_id": 4, "text": "तणाव", "is_correct": false }
+      ],
+      "answer": "टेकू (Fulcrum)"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "तर्फेच्या ज्या भागावर वस्तू उचलली जाते, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "बल", "is_correct": false },
+        { "option_id": 2, "text": "भार (Load)", "is_correct": true },
+        { "option_id": 3, "text": "टेकू", "is_correct": false },
+        { "option_id": 4, "text": "दांडा", "is_correct": false }
+      ],
+      "answer": "भार (Load)"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वस्तू उचलण्यासाठी तर्फेच्या दुसऱ्या टोकावर जे लावतो, त्याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भार", "is_correct": false },
+        { "option_id": 2, "text": "टेकू", "is_correct": false },
+        { "option_id": 3, "text": "बल (Effort)", "is_correct": true },
+        { "option_id": 4, "text": "पाचर", "is_correct": false }
+      ],
+      "answer": "बल (Effort)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "जेव्हा टेकू मध्यभागी असतो, तेव्हा तो तर्फेचा कितवा प्रकार असतो?",
+      "options": [
+        { "option_id": 1, "text": "पहिला प्रकार", "is_correct": true },
+        { "option_id": 2, "text": "दुसरा प्रकार", "is_correct": false },
+        { "option_id": 3, "text": "तिसरा प्रकार", "is_correct": false },
+        { "option_id": 4, "text": "चौथा प्रकार", "is_correct": false }
+      ],
+      "answer": "पहिला प्रकार"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सी-सॉ (See-saw) हे तर्फेच्या कोणत्या प्रकाराचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "दुसरा प्रकार", "is_correct": false },
+        { "option_id": 2, "text": "तिसरा प्रकार", "is_correct": false },
+        { "option_id": 3, "text": "पहिला प्रकार", "is_correct": true },
+        { "option_id": 4, "text": "पाचर", "is_correct": false }
+      ],
+      "answer": "पहिला प्रकार"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "जेव्हा भार (Load) मध्यभागी असतो, तेव्हा तो तर्फेचा कितवा प्रकार असतो?",
+      "options": [
+        { "option_id": 1, "text": "पहिला प्रकार", "is_correct": false },
+        { "option_id": 2, "text": "तिसरा प्रकार", "is_correct": false },
+        { "option_id": 3, "text": "दुसरा प्रकार", "is_correct": true },
+        { "option_id": 4, "text": "गुंतागुंतीचे यंत्र", "is_correct": false }
+      ],
+      "answer": "दुसरा प्रकार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बाटलीचे झाकण उघडण्याचे यंत्र (Opener) हे तर्फेच्या कोणत्या प्रकाराचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पहिला प्रकार", "is_correct": false },
+        { "option_id": 2, "text": "दुसरा प्रकार", "is_correct": true },
+        { "option_id": 3, "text": "तिसरा प्रकार", "is_correct": false },
+        { "option_id": 4, "text": "कप्पी", "is_correct": false }
+      ],
+      "answer": "दुसरा प्रकार"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जेव्हा बल (Effort) मध्यभागी असते, तेव्हा तो तर्फेचा कितवा प्रकार असतो?",
+      "options": [
+        { "option_id": 1, "text": "तिसरा प्रकार", "is_correct": true },
+        { "option_id": 2, "text": "दुसरा प्रकार", "is_correct": false },
+        { "option_id": 3, "text": "पहिला प्रकार", "is_correct": false },
+        { "option_id": 4, "text": "चाक", "is_correct": false }
+      ],
+      "answer": "तिसरा प्रकार"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "चिमटा (Tongs) हे तर्फेच्या कोणत्या प्रकाराचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पहिला प्रकार", "is_correct": false },
+        { "option_id": 2, "text": "दुसरा प्रकार", "is_correct": false },
+        { "option_id": 3, "text": "तिसरा प्रकार", "is_correct": true },
+        { "option_id": 4, "text": "पाचर", "is_correct": false }
+      ],
+      "answer": "तिसरा प्रकार"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खाच असलेले चाक आणि दोरी यांचा वापर करून बनवलेल्या यंत्राला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तर्फ", "is_correct": false },
+        { "option_id": 2, "text": "कप्पी (Pulley)", "is_correct": true },
+        { "option_id": 3, "text": "पाचर", "is_correct": false },
+        { "option_id": 4, "text": "स्क्रू", "is_correct": false }
+      ],
+      "answer": "कप्पी (Pulley)"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "विहिरीतून पाणी काढण्यासाठी कोणत्या यंत्राचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "कप्पी", "is_correct": true },
+        { "option_id": 2, "text": "पाचर", "is_correct": false },
+        { "option_id": 3, "text": "स्क्रू", "is_correct": false },
+        { "option_id": 4, "text": "कात्री", "is_correct": false }
+      ],
+      "answer": "कप्पी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सायकलचे पायडल फिरवल्यावर काय फिरते?",
+      "options": [
+        { "option_id": 1, "text": "तर्फ", "is_correct": false },
+        { "option_id": 2, "text": "चाक आणि आस", "is_correct": true },
+        { "option_id": 3, "text": "पाचर", "is_correct": false },
+        { "option_id": 4, "text": "कप्पी", "is_correct": false }
+      ],
+      "answer": "चाक आणि आस"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "यंत्रे चांगली चालण्यासाठी त्यांची काय राखणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "पैल", "is_correct": false },
+        { "option_id": 2, "text": "निगा (Maintenance)", "is_correct": true },
+        { "option_id": 3, "text": "धुळ", "is_correct": false },
+        { "option_id": 4, "text": "किंमत", "is_correct": false }
+      ],
+      "answer": "निगा (Maintenance)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "यंत्राचे भाग एकमेकांवर घासल्यामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "ते चमकतात", "is_correct": false },
+        { "option_id": 2, "text": "झीज होते", "is_correct": true },
+        { "option_id": 3, "text": "ते नवीन होतात", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "झीज होते"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते गुंतागुंतीचे यंत्र आहे?",
+      "options": [
+        { "option_id": 1, "text": "सुरी", "is_correct": false },
+        { "option_id": 2, "text": "पक्कड", "is_correct": false },
+        { "option_id": 3, "text": "सायकल", "is_correct": true },
+        { "option_id": 4, "text": "उतरण", "is_correct": false }
+      ],
+      "answer": "सायकल"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "आर्किमिडीजचा स्क्रू कशासाठी वापरला जात असे?",
+      "options": [
+        { "option_id": 1, "text": "हवा भरण्यासाठी", "is_correct": false },
+        { "option_id": 2, "text": "पाणी काढण्यासाठी", "is_correct": true },
+        { "option_id": 3, "text": "अन्न कापण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "लाकूड फोडण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पाणी काढण्यासाठी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "यंत्राच्या भागांवर तेल लावल्यामुळे काय कमी होते?",
+      "options": [
+        { "option_id": 1, "text": "वजन", "is_correct": false },
+        { "option_id": 2, "text": "वेग", "is_correct": false },
+        { "option_id": 3, "text": "घर्षण (Friction)", "is_correct": true },
+        { "option_id": 4, "text": "आकार", "is_correct": false }
+      ],
+      "answer": "घर्षण (Friction)"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सुई हे कोणत्या साध्या यंत्राचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पाचर", "is_correct": true },
+        { "option_id": 2, "text": "तर्फ", "is_correct": false },
+        { "option_id": 3, "text": "चाक", "is_correct": false },
+        { "option_id": 4, "text": "कप्पी", "is_correct": false }
+      ],
+      "answer": "पाचर"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "अडकित्ता (Nutcracker) हे तर्फेच्या कोणत्या प्रकाराचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पहिला प्रकार", "is_correct": false },
+        { "option_id": 2, "text": "दुसरा प्रकार", "is_correct": true },
+        { "option_id": 3, "text": "तिसरा प्रकार", "is_correct": false },
+        { "option_id": 4, "text": "पाचर", "is_correct": false }
+      ],
+      "answer": "दुसरा प्रकार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "यंत्र म्हणजे काय?",
+      "answer": "दैनंदिन जीवनात कमी वेळात, कमी श्रमात व अधिक कामे व्हावीत यासाठी जी साधने वापरली जातात, त्यांना यंत्रे म्हणतात."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "साधी यंत्रे म्हणजे काय?",
+      "answer": "ज्या यंत्रांमध्ये फक्त एक-दोन भाग असतात आणि ज्यांची रचना साधी व सोपी असते, त्यांना साधी यंत्रे म्हणतात."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "गुंतागुंतीची यंत्रे म्हणजे काय?",
+      "answer": "ज्या यंत्रांमध्ये अनेक भाग एकमेकांशी जोडलेले असतात आणि एका कामासाठी अनेक प्रक्रिया होतात, त्यांना गुंतागुंतीची यंत्रे म्हणतात."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "साध्या यंत्रांची दोन उदाहरणे लिहा.",
+      "answer": "कात्री, अडकित्ता, सुरी, उतरण ही साध्या यंत्रांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "गुंतागुंतीच्या यंत्रांची दोन उदाहरणे लिहा.",
+      "answer": "सायकल, शिवणयंत्र, मिक्सर ही गुंतागुंतीच्या यंत्रांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "उतरण म्हणजे काय?",
+      "answer": "एखाद्या जड वस्तूला वर चढवण्यासाठी किंवा खाली उतरवण्यासाठी वापरलेल्या तिरप्या फळीला उतरण म्हणतात."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "पाचर (Wedge) म्हणजे काय?",
+      "answer": "दोन उतरणी एकमेकींना जोडल्यास तयार होणाऱ्या धारदार साधनाला पाचर म्हणतात."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "पाचराचा उपयोग काय होतो?",
+      "answer": "पाचराचा उपयोग वस्तू कापण्यासाठी किंवा लाकडासारख्या जड वस्तूचे दोन तुकडे करण्यासाठी होतो."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "स्क्रू (Screw) म्हणजे काय?",
+      "answer": "एका धातूच्या दांड्यावर किंवा उतरणीभोवती गुंडाळलेली उतरण म्हणजे स्क्रू होय."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "तर्फ म्हणजे काय?",
+      "answer": "एखादी वस्तू उचलण्यासाठी किंवा हलवण्यासाठी वापरलेला एक मजबूत दांडा म्हणजे तर्फ होय."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "तर्फेचे तीन मुख्य भाग कोणते?",
+      "answer": "तर्फेचे तीन मुख्य भाग म्हणजे टेकू (Fulcrum), भार (Load) आणि बल (Effort) हे होत."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "टेकू (Fulcrum) म्हणजे काय?",
+      "answer": "तर्फेचा दांडा ज्या आधारावर टेकलेला असतो, त्याला टेकू म्हणतात."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "भार (Load) म्हणजे काय?",
+      "answer": "तर्फेच्या साहाय्याने जी वस्तू उचलली जाते किंवा ज्या बलाच्या विरुद्ध कार्य केले जाते, त्याला भार म्हणतात."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "बल (Effort) म्हणजे काय?",
+      "answer": "वस्तू उचलण्यासाठी तर्फेच्या दुसऱ्या टोकावर जे कार्य लावले जाते, त्याला बल म्हणतात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "तर्फेचा पहिला प्रकार कोणता?",
+      "answer": "ज्या तर्फेमध्ये टेकू हा भार आणि बल यांच्या दरम्यान (मध्यभागी) असतो, तो तर्फेचा पहिला प्रकार होय."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "तर्फेचा दुसरा प्रकार कोणता?",
+      "answer": "ज्या तर्फेमध्ये भार हा टेकू आणि बल यांच्या दरम्यान असतो, तो तर्फेचा दुसरा प्रकार होय."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "तर्फेचा तिसरा प्रकार कोणता?",
+      "answer": "ज्या तर्फेमध्ये बल हे टेकू आणि भार यांच्या दरम्यान असते, तो तर्फेचा तिसरा प्रकार होय."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "कप्पी (Pulley) म्हणजे काय?",
+      "answer": "खाच असलेले चाक आणि त्यावरची दोरी यांच्या साहाय्याने भार उचलण्याच्या साधनाला कप्पी म्हणतात."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "विहिरीतून पाणी काढताना कप्पीचा फायदा काय?",
+      "answer": "कप्पीमुळे बल लावण्याची दिशा बदलता येते (खालील दिशेने ओढणे सोपे जाते), ज्यामुळे काम सोपे होते."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "चाक आणि आस (Wheel and Axle) म्हणजे काय?",
+      "answer": "एका मोठ्या चाकाच्या मध्यभागी बसवलेला दांडा म्हणजे आस होय; हे फिरवल्यास मोठे चाक फिरते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "यंत्रांची निगा राखणे म्हणजे काय?",
+      "answer": "यंत्रे व्यवस्थित चालण्यासाठी त्यांचे भाग स्वच्छ करणे, त्यांना तेल लावणे आणि त्यांची दुरुस्ती करणे याला निगा राखणे म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "यंत्राची निगा न राखल्यास काय होईल?",
+      "answer": "यंत्राची निगा न राखल्यास त्याचे भाग घासले जाऊन खराब होतील, यंत्र गंजेल आणि ते निकामी होईल."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "डोंगरावरील घाट रस्ता कशाचे उदाहरण आहे?",
+      "answer": "डोंगरावरील घाट रस्ता हा डोंगराभोवती गुंडाळलेल्या 'उतरणी'चे उदाहरण आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "सुरी हे कोणते यंत्र आहे?",
+      "answer": "सुरी हे 'पाचर' या प्रकारातील साधे यंत्र आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "शिवणयंत्र हे गुंतागुंतीचे यंत्र का आहे?",
+      "answer": "शिवणयंत्रात सुई, चाक, दाभण असे अनेक भाग एकमेकांशी जोडलेले असतात, म्हणून ते गुंतागुंतीचे यंत्र आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "खिडकीचे पडदे सरकवण्यासाठी कशाचा वापर करतात?",
+      "answer": "खिडकीचे पडदे सरकवण्यासाठी लहान कप्पीचा वापर करतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "बर्फ फोडण्यासाठी काय वापरतात?",
+      "answer": "बर्फ फोडण्यासाठी 'सुया' (Ice pick) वापरतात, जे पाचराचे उदाहरण आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "सायकलमध्ये कोणती साधी यंत्रे असतात?",
+      "answer": "सायकलमध्ये चाक-आस, तर्फ (ब्रेक) आणि कप्पी (चेन-गरारी) ही साधी यंत्रे एकत्रित असतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "आर्किमिडीज हे कोण होते?",
+      "answer": "आर्किमिडीज हे ग्रीक शास्त्रज्ञ होते, ज्यांनी स्क्रू आणि तर्फेच्या तत्त्वांचा शोध लावला."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "यंत्रांचे आयुष्य कसे वाढवता येते?",
+      "answer": "यंत्रांची वेळोवेळी स्वच्छता, ऑइलिंग आणि निगा राखून त्यांचे आयुष्य वाढवता येते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "तरफेचा प्रकार कशावरून ठरतो?",
+      "answer": "टेकू, भार आणि बल यांचे स्थान कोठे आहे, यावरून तर्फेचा प्रकार ठरतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "उतरणीची लांबी वाढवल्यास काय होते?",
+      "answer": "उतरणीची लांबी वाढवल्यास तिचा चढ कमी होतो आणि वजन चढवण्यासाठी कमी बल लागते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "स्क्रू आणि खिळा यांत काय फरक आहे?",
+      "answer": "खिळा ठोकून बसवावा लागतो, तर स्क्रू फिरवून बसवल्यामुळे तो जास्त मजबुतीने बसतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "पायऱ्या हे कोणत्या यंत्राचे उदाहरण आहे?",
+      "answer": "पायऱ्या हे 'उतरणी'चे एक उदाहरण आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "यंत्राचे भाग गंजू नयेत म्हणून काय करावे?",
+      "answer": "यंत्राचे भाग गंजू नयेत म्हणून त्यांना रंग दिला जातो किंवा ते कोरड्या जागी ठेवले जातात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "चाक आणि आस वापरल्याचे एक उदाहरण द्या.",
+      "answer": "सायकलचे पायडल किंवा दाराची मूठ (Doorknob) ही चाक आणि आसाची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "भाजी चिरण्यासाठी वापरली जाणारी सुरी कोणत्या प्रकारात येते?",
+      "answer": "सुरी हे पाचर (Wedge) या प्रकारातील साधे यंत्र आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "यंत्राचे घर्षण कमी करण्यासाठी काय वापरतात?",
+      "answer": "यंत्राचे घर्षण कमी करण्यासाठी तेल (Oil) किंवा ग्रीस (Grease) वापरतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "जास्त लांबीचा खिळा की स्क्रू जास्त मजबूत असतो?",
+      "answer": "स्क्रू हा खिळ्यापेक्षा जास्त मजबुतीने वस्तू पकडून ठेवतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "क्रॅंक (Crank) कशासाठी वापरतात?",
+      "answer": "मोठे चाक फिरवण्यासाठी आसाला जोडलेला दांडा म्हणजे क्रॅंक होय, जो चाक-आसाचे काम सोपे करतो."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "अडकित्ता हा तर्फेचा दुसरा प्रकार का आहे?",
+      "answer": "कारण अडकित्त्यात भार (सुपारी) हा टेकू आणि बल यांच्या मध्यभागी असतो."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "चिमटा हा तर्फेचा तिसरा प्रकार का आहे?",
+      "answer": "कारण चिमट्यात आपण बल (बोटांचा दाब) मध्यभागी लावतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "यंत्र वापरण्याचे दोन फायदे सांगा.",
+      "answer": "यंत्रामुळे वेळेची बचत होते आणि मानवी श्रम कमी लागतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "कात्रीत टेकू कोठे असतो?",
+      "answer": "कात्रीत टेकू (जॉइंट) हा मध्यभागी असतो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "दगड फोडण्यासाठी लोखंडी पहार वापरणे हा तर्फेचा कोणता प्रकार आहे?",
+      "answer": "हा तर्फेचा पहिला प्रकार आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "यंत्राचे भाग कशामुळे झिजतात?",
+      "answer": "यंत्राचे भाग एकमेकांवर घासल्यामुळे किंवा घर्षणामुळे झिजतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "कप्पीमुळे वस्तू उचलणे सोपे का जाते?",
+      "answer": "कारण कप्पीमुळे आपल्याला वजन वर उचलण्याऐवजी खालच्या दिशेने ओढता येते, जे सोपे असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "प्रवासी बॅगांना चाके का असतात?",
+      "answer": "चाकांमुळे घर्षण कमी होते आणि जड बॅग ओढण्यासाठी कमी बल लागते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "पक्कड (Pliers) हे तर्फेच्या कोणत्या प्रकारात येते?",
+      "answer": "पक्कड हे तर्फेच्या पहिल्या प्रकारात येते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "यंत्रांची मांडणी कशी असावी?",
+      "answer": "यंत्रांची मांडणी हवेशीर जागी असावी जेणेकरून त्यांना गंज चढणार नाही."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "स्कूटर हे साधे यंत्र आहे की गुंतागुंतीचे?",
+      "answer": "स्कूटर हे गुंतागुंतीचे यंत्र आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "एखाद्या झाडाचे खोड फोडण्यासाठी काय वापराल?",
+      "answer": "झाडाचे खोड फोडण्यासाठी कुऱ्हाड किंवा पाचराचा वापर केला जातो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "कप्पीमध्ये कोणत्या दोन गोष्टींचा समावेश असतो?",
+      "answer": "कप्पीमध्ये एक खाच असलेले चाक आणि एक दोरी किंवा साखळी असते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "स्क्रू जॅब (Screw jack) चा वापर कशासाठी होतो?",
+      "answer": "जड वाहने (उदा. कार) वर उचलण्यासाठी स्क्रू जॅबचा वापर होतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "यंत्राला वेळोवेळी वंगण का द्यावे लागते?",
+      "answer": "यंत्राचे भाग सुरळीत चालावेत आणि घर्षणामुळे त्यांची झीज कमी व्हावी म्हणून वंगण द्यावे लागते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "साध्या यंत्रात किती प्रक्रिया होतात?",
+      "answer": "साध्या यंत्रात साधारणपणे एका वेळेस एकच प्रक्रिया पूर्ण होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "शिवणयंत्रातील सुई हे कशाचे उदाहरण आहे?",
+      "answer": "शिवणयंत्रातील सुई हे पाचराचे (Wedge) उदाहरण आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "जेवण करताना वापरला जाणारा चमचा हा तर्फेचा कितवा प्रकार असू शकतो?",
+      "answer": "चमचा हा तर्फेचा तिसरा प्रकार असू शकतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "खिडकीला तेल का लावले जाते?",
+      "answer": "खिडकीचे बिजागरी (Hinges) घर्षणामुळे आवाज करू नयेत आणि सहज उघड-झाप व्हावी म्हणून तेल लावले जाते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "यंत्राच्या स्वच्छतेसाठी काय वापरावे?",
+      "answer": "यंत्राच्या स्वच्छतेसाठी मऊ कापड किंवा ब्रशचा वापर करावा."
+    }
+  ]
+}

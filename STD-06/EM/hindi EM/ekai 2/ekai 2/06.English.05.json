@@ -1,0 +1,458 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.हिंदी.05",
+    "class": "6",
+    "subject": "हिंदी",
+    "chapter_name": "जोकर",
+    "author": "संकलित"
+  },
+  "multiple_choice_questions": [
+    {
+      "question_id": 1,
+      "question": "जोकर अपनी जान पर खेलकर क्या दिखाता है?",
+      "options": [
+        { "text": "जादू", "is_correct": false },
+        { "text": "कलाबाजियाँ", "is_correct": true },
+        { "text": "नृत्य", "is_correct": false },
+        { "text": "गाना", "is_correct": false }
+      ],
+      "answer": "कलाबाजियाँ"
+    },
+    {
+      "question_id": 2,
+      "question": "जोकर लोगों को हँसाने के लिए क्या लगाता है?",
+      "options": [
+        { "text": "नारा", "is_correct": false },
+        { "text": "ठहाका", "is_correct": true },
+        { "text": "आवाज", "is_correct": false },
+        { "text": "ताली", "is_correct": false }
+      ],
+      "answer": "ठहाका"
+    },
+    {
+      "question_id": 3,
+      "question": "'जान पर खेलना' मुहावरे का सही अर्थ क्या है?",
+      "options": [
+        { "text": "खेल खेलना", "is_correct": false },
+        { "text": "प्राणों की परवाह न करना", "is_correct": true },
+        { "text": "डर जाना", "is_correct": false },
+        { "text": "भाग जाना", "is_correct": false }
+      ],
+      "answer": "प्राणों की परवाह न करना"
+    },
+    {
+      "question_id": 4,
+      "question": "उचित प्रतिसाद न मिलने पर जोकर कैसे रह गया?",
+      "options": [
+        { "text": "मन मसोसकर", "is_correct": true },
+        { "text": "खुश होकर", "is_correct": false },
+        { "text": "सोकर", "is_correct": false },
+        { "text": "रोकर", "is_correct": false }
+      ],
+      "answer": "मन मसोसकर"
+    },
+    {
+      "question_id": 5,
+      "question": "बच्चों द्वारा धन्यवाद देने पर जोकर क्या हुआ?",
+      "options": [
+        { "text": "नाराज हुआ", "is_correct": false },
+        { "text": "फूला न समाया", "is_correct": true },
+        { "text": "दंग रह गया", "is_correct": false },
+        { "text": "सो गया", "is_correct": false }
+      ],
+      "answer": "फूला न समाया"
+    },
+    {
+      "question_id": 6,
+      "question": "बच्चे को नकल करते देख जोकर कैसा रह गया?",
+      "options": [
+        { "text": "हैरान", "is_correct": false },
+        { "text": "दंग", "is_correct": true },
+        { "text": "क्रोधित", "is_correct": false },
+        { "text": "उदास", "is_correct": false }
+      ],
+      "answer": "दंग"
+    },
+    {
+      "question_id": 7,
+      "question": "शोर मचाने वाले बच्चों को जोकर क्या दिखा रहा था?",
+      "options": [
+        { "text": "आईना", "is_correct": false },
+        { "text": "आँखें", "is_correct": true },
+        { "text": "खिलौने", "is_correct": false },
+        { "text": "तमाशा", "is_correct": false }
+      ],
+      "answer": "आँखें"
+    },
+    {
+      "question_id": 8,
+      "question": "'गंगा गए गंगादास, जमना गए जमनादास' का अर्थ क्या है?",
+      "options": [
+        { "text": "तीर्थ यात्रा करना", "is_correct": false },
+        { "text": "अवसरवादी होना", "is_correct": true },
+        { "text": "नदी में नहाना", "is_correct": false },
+        { "text": "भक्ति करना", "is_correct": false }
+      ],
+      "answer": "अवसरवादी होना"
+    },
+    {
+      "question_id": 9,
+      "question": "अपना दोष छिपाने के लिए दूसरों में कमी बताने को क्या कहते हैं?",
+      "options": [
+        { "text": "नाच न जाने आँगन टेढ़ा", "is_correct": true },
+        { "text": "आँखें दिखाना", "is_correct": false },
+        { "text": "दंग रहना", "is_correct": false },
+        { "text": "ठहाका लगाना", "is_correct": false }
+      ],
+      "answer": "नाच न जाने आँगन टेढ़ा"
+    },
+    {
+      "question_id": 10,
+      "question": "जोकर का गला खराब होने पर उसने क्या कहा?",
+      "options": [
+        { "text": "मैं बीमार हूँ", "is_correct": false },
+        { "text": "नाच न जाने आँगन टेढ़ा", "is_correct": true },
+        { "text": "गंगा गए गंगादास", "is_correct": false },
+        { "text": "दंग रह गया", "is_correct": false }
+      ],
+      "answer": "नाच न जाने आँगन टेढ़ा"
+    },
+    {
+      "question_id": 11,
+      "question": "'फूला न समाना' का अर्थ क्या है?",
+      "options": [
+        { "text": "मोटा होना", "is_correct": false },
+        { "text": "अत्यधिक खुश होना", "is_correct": true },
+        { "text": "फूल तोड़ना", "is_correct": false },
+        { "text": "गुस्सा होना", "is_correct": false }
+      ],
+      "answer": "अत्यधिक खुश होना"
+    },
+    {
+      "question_id": 12,
+      "question": "'दंग रहना' मुहावरे का अर्थ है:",
+      "options": [
+        { "text": "आश्चर्यचकित होना", "is_correct": true },
+        { "text": "परेशान होना", "is_correct": false },
+        { "text": "भाग जाना", "is_correct": false },
+        { "text": "चुप रहना", "is_correct": false }
+      ],
+      "answer": "आश्चर्यचकित होना"
+    },
+    {
+      "question_id": 13,
+      "question": "जोकर कलाकारों के करतबों का श्रेय स्वयं लेने के लिए क्या कहता है?",
+      "options": [
+        { "text": "९+२=११", "is_correct": false },
+        { "text": "गंगा गए गंगादास, जमना गए जमनादास", "is_correct": true },
+        { "text": "घर की मुर्गी दाल बराबर", "is_correct": false },
+        { "text": "आँखें दिखाना", "is_correct": false }
+      ],
+      "answer": "गंगा गए गंगादास, जमना गए जमनादास"
+    },
+    {
+      "question_id": 14,
+      "question": "'आँखें दिखाना' का अर्थ क्या है?",
+      "options": [
+        { "text": "देखना", "is_correct": false },
+        { "text": "गुस्सा होना", "is_correct": true },
+        { "text": "आँख की जाँच", "is_correct": false },
+        { "text": "नींद आना", "is_correct": false }
+      ],
+      "answer": "गुस्सा होना"
+    },
+    {
+      "question_id": 15,
+      "question": "९+२=११ होना का क्या अर्थ है?",
+      "options": [
+        { "text": "जोड़ना", "is_correct": false },
+        { "text": "गणित करना", "is_correct": false },
+        { "text": "भाग जाना", "is_correct": true },
+        { "text": "वापस आना", "is_correct": false }
+      ],
+      "answer": "भाग जाना"
+    },
+    {
+      "question_id": 16,
+      "question": "'मन मसोसकर रह जाना' का अर्थ है:",
+      "options": [
+        { "text": "कुछ न कर पाना", "is_correct": true },
+        { "text": "मन साफ़ करना", "is_correct": false },
+        { "text": "मालिश करना", "is_correct": false },
+        { "text": "हँसना", "is_correct": false }
+      ],
+      "answer": "कुछ न कर पाना"
+    },
+    {
+      "question_id": 17,
+      "question": "जोकर की वेशभूषा कैसी होती है?",
+      "options": [
+        { "text": "साधारण", "is_correct": false },
+        { "text": "अजीब और मनोरंजक", "is_correct": true },
+        { "text": "औपचारिक", "is_correct": false },
+        { "text": "वर्दी जैसी", "is_correct": false }
+      ],
+      "answer": "अजीब और मनोरंजक"
+    },
+    {
+      "question_id": 18,
+      "question": "जोकर पाठ का मुख्य उद्देश्य क्या है?",
+      "options": [
+        { "text": "केवल हँसाना", "is_correct": false },
+        { "text": "मुहावरे और कहावतें सिखाना", "is_correct": true },
+        { "text": "सर्कस की जानकारी", "is_correct": false },
+        { "text": "गणित पढ़ाना", "is_correct": false }
+      ],
+      "answer": "मुहावरे और कहावतें सिखाना"
+    },
+    {
+      "question_id": 19,
+      "question": "'घर की मुर्गी दाल बराबर' का अर्थ क्या है?",
+      "options": [
+        { "text": "मुर्गी पालना", "is_correct": false },
+        { "text": "पास की वस्तु का कम महत्व होना", "is_correct": true },
+        { "text": "दाल खाना", "is_correct": false },
+        { "text": "गरीबी होना", "is_correct": false }
+      ],
+      "answer": "पास की वस्तु का कम महत्व होना"
+    },
+    {
+      "question_id": 20,
+      "question": "सदा प्रसन्न रहने के लिए जीवन में क्या आवश्यक है?",
+      "options": [
+        { "text": "धन", "is_correct": false },
+        { "text": "हास्य", "is_correct": true },
+        { "text": "गुस्सा", "is_correct": false },
+        { "text": "चिंता", "is_correct": false }
+      ],
+      "answer": "हास्य"
+    },
+    {
+      "question_id": 21,
+      "question": "जोकर कलाकारों के करतबों का क्या लेता है?",
+      "options": [
+        { "text": "पैसा", "is_correct": false },
+        { "text": "श्रेय", "is_correct": true },
+        { "text": "टिकट", "is_correct": false },
+        { "text": "सामान", "is_correct": false }
+      ],
+      "answer": "श्रेय"
+    },
+    {
+      "question_id": 22,
+      "question": "'ठहाका लगाना' क्रिया का परिणाम क्या होता है?",
+      "options": [
+        { "text": "रोना", "is_correct": false },
+        { "text": "हँसना", "is_correct": true },
+        { "text": "डरना", "is_correct": false },
+        { "text": "सोना", "is_correct": false }
+      ],
+      "answer": "हँसना"
+    },
+    {
+      "question_id": 23,
+      "question": "जोकर क्या कहकर अपनी कमी छिपाता है?",
+      "options": [
+        { "text": "गला खराब है", "is_correct": true },
+        { "text": "नींद आ रही है", "is_correct": false },
+        { "text": "पैर में दर्द है", "is_correct": false },
+        { "text": "भूख लगी है", "is_correct": false }
+      ],
+      "answer": "गला खराब है"
+    },
+    {
+      "question_id": 24,
+      "question": "जोकर की नकल किसने की?",
+      "options": [
+        { "text": "जानवर ने", "is_correct": false },
+        { "text": "बच्चे ने", "is_correct": true },
+        { "text": "जादूगर ने", "is_correct": false },
+        { "text": "मालिक ने", "is_correct": false }
+      ],
+      "answer": "बच्चे ने"
+    },
+    {
+      "question_id": 25,
+      "question": "'अवसरवादी' व्यक्ति के लिए कौन सी कहावत सही है?",
+      "options": [
+        { "text": "नाच न जाने आँगन टेढ़ा", "is_correct": false },
+        { "text": "गंगा गए गंगादास, जमना गए जमनादास", "is_correct": true },
+        { "text": "हाथ कंगन को आरसी क्या", "is_correct": false },
+        { "text": "अंत भला तो सब भला", "is_correct": false }
+      ],
+      "answer": "गंगा गए गंगादास, जमना गए जमनादास"
+    },
+    {
+      "question_id": 26,
+      "question": "जोकर को धन्यवाद किसने कहा?",
+      "options": [
+        { "text": "अध्यापक ने", "is_correct": false },
+        { "text": "बच्चों ने", "is_correct": true },
+        { "text": "माता-पिता ने", "is_correct": false },
+        { "text": "दर्शकों ने", "is_correct": false }
+      ],
+      "answer": "बच्चों ने"
+    },
+    {
+      "question_id": 27,
+      "question": "जोकर झूठ-मूठ का क्या लगाता है?",
+      "options": [
+        { "text": "थप्पड़", "is_correct": false },
+        { "text": "ठहाका", "is_correct": true },
+        { "text": "नारा", "is_correct": false },
+        { "text": "रोग", "is_correct": false }
+      ],
+      "answer": "ठहाका"
+    },
+    {
+      "question_id": 28,
+      "question": "जोकर पाठ में किस पर चर्चा करने को कहा गया है?",
+      "options": [
+        { "text": "इतिहास पर", "is_correct": false },
+        { "text": "मुहावरों और कहावतों पर", "is_correct": true },
+        { "text": "खेल के मैदान पर", "is_correct": false },
+        { "text": "विज्ञान पर", "is_correct": false }
+      ],
+      "answer": "मुहावरों और कहावतों पर"
+    },
+    {
+      "question_id": 29,
+      "question": "किस स्थिति में जोकर 'आँखें दिखाता' है?",
+      "options": [
+        { "text": "बच्चे जब ताली बजाते हैं", "is_correct": false },
+        { "text": "बच्चे जब शोर मचाते हैं", "is_correct": true },
+        { "text": "बच्चे जब हँसते हैं", "is_correct": false },
+        { "text": "बच्चे जब सो जाते हैं", "is_correct": false }
+      ],
+      "answer": "बच्चे जब शोर मचाते हैं"
+    },
+    {
+      "question_id": 30,
+      "question": "जोकर क्या करके लोगों को हँसाता है?",
+      "options": [
+        { "text": "डराकर", "is_correct": false },
+        { "text": "स्वयं हँसकर (ठहाका लगाकर)", "is_correct": true },
+        { "text": "गाली देकर", "is_correct": false },
+        { "text": "रोकर", "is_correct": false }
+      ],
+      "answer": "स्वयं हँसकर (ठहाका लगाकर)"
+    },
+    {
+      "question_id": 31,
+      "question": "पाठ के अनुसार स्वास्थ्य के लिए क्या आवश्यक है?",
+      "options": [
+        { "text": "कसरत", "is_correct": false },
+        { "text": "हास्य (हँसना)", "is_correct": true },
+        { "text": "दौड़ना", "is_correct": false },
+        { "text": "चुप रहना", "is_correct": false }
+      ],
+      "answer": "हास्य (हँसना)"
+    },
+    {
+      "question_id": 32,
+      "question": "जोकर क्या दिखाने के लिए जान पर खेलता है?",
+      "options": [
+        { "text": "ताकत", "is_correct": false },
+        { "text": "कलाबाजियाँ", "is_correct": true },
+        { "text": "साहस", "is_correct": false },
+        { "text": "चालाकी", "is_correct": false }
+      ],
+      "answer": "कलाबाजियाँ"
+    },
+    {
+      "question_id": 33,
+      "question": "'प्रतिसाद' शब्द का अर्थ है:",
+      "options": [
+        { "text": "प्रतिक्रिया/जवाब", "is_correct": true },
+        { "text": "सवाल", "is_correct": false },
+        { "text": "प्रार्थना", "is_correct": false },
+        { "text": "इनाम", "is_correct": false }
+      ],
+      "answer": "प्रतिक्रिया/जवाब"
+    },
+    {
+      "question_id": 34,
+      "question": "हाथ को लेकर कितने मुहावरे लिखने को कहा गया है?",
+      "options": [
+        { "text": "दो", "is_correct": false },
+        { "text": "तीन", "is_correct": false },
+        { "text": "चार", "is_correct": true },
+        { "text": "पाँच", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 35,
+      "question": "'नाच न जाने आँगन टेढ़ा' एक _________ है।",
+      "options": [
+        { "text": "मुहावरा", "is_correct": false },
+        { "text": "कहावत", "is_correct": true },
+        { "text": "कविता", "is_correct": false },
+        { "text": "कहानी", "is_correct": false }
+      ],
+      "answer": "कहावत"
+    }
+  ],
+  "short_answer_questions": [
+    { "question_id": 1, "question": "जोकर क्या खेलकर कलाबाजियाँ दिखाता है?", "answer": "जोकर अपनी जान पर खेलकर कलाबाजियाँ दिखाता है।" },
+    { "question_id": 2, "question": "जोकर झूठ-मूठ क्या लगाता है?", "answer": "जोकर झूठ-मूठ ठहाका लगाता है।" },
+    { "question_id": 3, "question": "प्रतिसाद न मिलने पर जोकर की क्या स्थिति हुई?", "answer": "प्रतिसाद न मिलने पर जोकर मन मसोसकर रह गया।" },
+    { "question_id": 4, "question": "जोकर कब फूला नहीं समाया?", "answer": "खेल समाप्त होने पर बच्चों द्वारा धन्यवाद कहने पर वह फूला नहीं समाया।" },
+    { "question_id": 5, "question": "जोकर दंग क्यों रह गया?", "answer": "एक बच्चे को अपनी नकल करते देखकर जोकर दंग रह गया।" },
+    { "question_id": 6, "question": "जोकर शोर मचाने वाले बच्चों को क्या दिखा रहा था?", "answer": "जोकर शोर मचाने वाले बच्चों को आँखें दिखा रहा था।" },
+    { "question_id": 7, "question": "जोकर कलाकारों के करतबों का श्रेय स्वयं कैसे लेता है?", "answer": "वह गंगा गए गंगादास, जमना गए जमनादास कहकर श्रेय लेता है।" },
+    { "question_id": 8, "question": "जोकर ने अपना गला खराब होने की बात क्यों कही?", "answer": "गाना न आने के कारण अपना दोष छिपाने के लिए उसने ऐसा कहा।" },
+    { "question_id": 9, "question": "'जान पर खेलना' मुहावरे का अर्थ लिखिए।", "answer": "प्राणों की परवाह न करना।" },
+    { "question_id": 10, "question": "'ठहाका लगाना' का क्या अर्थ है?", "answer": "जोर से हँसना।" },
+    { "question_id": 11, "question": "'मन मसोसकर रह जाना' का अर्थ स्पष्ट करें।", "answer": "विवशता के कारण कुछ न कर पाना।" },
+    { "question_id": 12, "question": "'फूला न समाना' का अर्थ क्या है?", "answer": "अत्यधिक खुश होना।" },
+    { "question_id": 13, "question": "'दंग रहना' का अर्थ लिखिए।", "answer": "आश्चर्यचकित होना।" },
+    { "question_id": 14, "question": "'आँखें दिखाना' का क्या अर्थ है?", "answer": "गुस्सा होना या डराना।" },
+    { "question_id": 15, "question": "'गंगा गए गंगादास, जमना गए जमनादास' का अर्थ क्या है?", "answer": "इसका अर्थ है अवसरवादी होना।" },
+    { "question_id": 16, "question": "'नाच न जाने आँगन टेढ़ा' का अर्थ लिखिए।", "answer": "अपना दोष छिपाने के लिए दूसरों में कमी बताना।" },
+    { "question_id": 17, "question": "इस पाठ का मुख्य उद्देश्य क्या है?", "answer": "मुहावरों और कहावतों के प्रयोग द्वारा भाषा को प्रभावी बनाना।" },
+    { "question_id": 18, "question": "स्वार्थ की दृष्टि से हास्य क्यों आवश्यक है?", "answer": "प्रसन्न रहने और अच्छे स्वास्थ्य के लिए हास्य आवश्यक है।" },
+    { "question_id": 19, "question": "जोकर अपनी बातों को कैसे व्यक्त करता है?", "answer": "जोकर मुहावरों और कहावतों के माध्यम से अपनी बात व्यक्त करता है।" },
+    { "question_id": 20, "question": "चित्रों के माध्यम से कौन से मुहावरे दिखाए गए हैं?", "answer": "घर की मुर्गी दाल बराबर और नौ दो ग्यारह होना।" },
+    { "question_id": 21, "question": "'९+२=११' मुहावरे का अर्थ क्या है?", "answer": "भाग जाना।" },
+    { "question_id": 22, "question": "'घर की मुर्गी दाल बराबर' का क्या अर्थ है?", "answer": "अपनी वस्तु का महत्व न समझना।" },
+    { "question_id": 23, "question": "अध्ययन कौशल में क्या करने को कहा गया है?", "answer": "पाँच मुहावरों या कहावतों के सांकेतिक चित्र बनाने को कहा गया है।" },
+    { "question_id": 24, "question": "जोकर का अभिनय बच्चों के लिए क्यों उपयोगी है?", "answer": "इससे बच्चों का मनोरंजन होता है और वे भाषा के नए रूप सीखते हैं।" },
+    { "question_id": 25, "question": "जोकर लोगों को क्या प्रेरणा देता है?", "answer": "जोकर सदा प्रसन्न रहने की प्रेरणा देता है।" },
+    { "question_id": 26, "question": "पाठ में 'श्रेय' शब्द का प्रयोग किस संदर्भ में हुआ है?", "answer": "दूसरों के काम की वाहवाही लूटने के संदर्भ में।" },
+    { "question_id": 27, "question": "'अवसरवादी' का क्या अर्थ है?", "answer": "समय और परिस्थिति देखकर अपने फायदे के लिए बदलने वाला।" },
+    { "question_id": 28, "question": "जोकर को धन्यवाद देने से उस पर क्या प्रभाव पड़ा?", "answer": "वह बहुत खुश हुआ और फूला नहीं समाया।" },
+    { "question_id": 29, "question": "शोर मचाने वाले बच्चों को जोकर ने कैसे शांत किया?", "answer": "आँखें दिखाकर यानी गुस्सा दिखाकर शांत किया।" },
+    { "question_id": 30, "question": "जोकर कलाबाजियाँ कहाँ दिखाता है?", "answer": "आमतौर पर सर्कस या खेल के मैदान में।" },
+    { "question_id": 31, "question": "हाथ शब्द से जुड़े दो मुहावरे बताइये।", "answer": "हाथ मलना, हाथ बटाना।" },
+    { "question_id": 32, "question": "जोकर की नकल करना क्या दर्शाता है?", "answer": "यह दर्शाता है कि बच्चे जोकर के काम को पसंद कर रहे हैं।" },
+    { "question_id": 33, "question": "क्या जोकर वास्तव में उदास था जब उसे प्रतिसाद नहीं मिला?", "answer": "हाँ, वह मन मसोसकर रह गया था।" },
+    { "question_id": 34, "question": "'ठहाका' शब्द किस रस से संबंधित है?", "answer": "हास्य रस से।" },
+    { "question_id": 35, "question": "कहावत और मुहावरे में क्या अंतर है?", "answer": "मुहावरा वाक्याँश होता है, जबकि कहावत पूर्ण वाक्य होती है।" },
+    { "question_id": 36, "question": "जोकर का वेश कैसा होता है?", "answer": "उसका वेश रंग-बिरंगा और अजीब होता है।" },
+    { "question_id": 37, "question": "जोकर पाठ में 'विचार मंथन' का क्या विषय है?", "answer": "हाथ शब्द पर मुहावरे लिखना।" },
+    { "question_id": 38, "question": "क्या जोकर का काम आसान है?", "answer": "नहीं, वह अपनी जान पर खेलकर मनोरंजन करता है।" },
+    { "question_id": 39, "question": "सर्कस में जोकर की क्या भूमिका होती है?", "answer": "लोगों का मनोरंजन करना और उन्हें हँसाना।" },
+    { "question_id": 40, "question": "मुहावरे भाषा को कैसा बनाते हैं?", "answer": "मुहावरे भाषा को रोचक और प्रभावशाली बनाते हैं।" },
+    { "question_id": 41, "question": "जोकर गला खराब होने का बहाना क्यों बनाता है?", "answer": "क्योंकि उसे गाना नहीं आता था।" },
+    { "question_id": 42, "question": "बच्चे जोकर से क्या सीखते हैं?", "answer": "बच्चे जोकर से हँसना और खुश रहना सीखते हैं।" },
+    { "question_id": 43, "question": "जोकर का व्यवहार कैसा है?", "answer": "जोकर का व्यवहार मिलनसार और मनोरंजक है।" },
+    { "question_id": 44, "question": "पाठ में आए मुहावरों की संख्या कितनी है?", "answer": "पाठ में लगभग 6 मुख्य मुहावरे दिए गए हैं।" },
+    { "question_id": 45, "question": "कहावतों का प्रयोग क्यों किया जाता है?", "answer": "किसी अनुभव या सच्चाई को संक्षेप में बताने के लिए।" },
+    { "question_id": 46, "question": "जोकर को गुस्सा कब आता है?", "answer": "जब बच्चे बहुत ज्यादा शोर मचाते हैं।" },
+    { "question_id": 47, "question": "क्या जोकर वास्तव में जादूगर है?", "answer": "नहीं, वह एक कलाकार है जो मनोरंजन करता है।" },
+    { "question_id": 48, "question": "हास्य का स्वास्थ्य पर क्या प्रभाव पड़ता है?", "answer": "हास्य तनाव कम करता है और मन को प्रसन्न रखता है।" },
+    { "question_id": 49, "question": "'प्रतिसाद' का विलोम क्या हो सकता है?", "answer": "अप्रतिसाद या उपेक्षा।" },
+    { "question_id": 50, "question": "जोकर पाठ में दी गई कहावतों के नाम लिखें।", "answer": "१. गंगा गए गंगादास... २. नाच न जाने आँगन टेढ़ा।" },
+    { "question_id": 51, "question": "मुहावरे का वाक्य प्रयोग क्यों किया जाता है?", "answer": "मुहावरे का अर्थ और संदर्भ स्पष्ट करने के लिए।" },
+    { "question_id": 52, "question": "जोकर अपनी बात कम शब्दों में कैसे कहता है?", "answer": "मुहावरों का उपयोग करके।" },
+    { "question_id": 53, "question": "क्या जोकर पाठ में कोई चित्र दिया गया है?", "answer": "हाँ, मुहावरों को समझाने के लिए सांकेतिक चित्र दिए गए हैं।" },
+    { "question_id": 54, "question": "जोकर के पास कौन सी विशेष कला है?", "answer": "कलाबाजियाँ दिखाने और हँसाने की कला।" },
+    { "question_id": 55, "question": "बच्चों का धन्यवाद जोकर के लिए क्या था?", "answer": "उसके काम की सराहना और पुरस्कार।" },
+    { "question_id": 56, "question": "जोकर पाठ किस विधा में है?", "answer": "यह एक प्रेरक और भाषा-ज्ञान बढ़ाने वाला पाठ है।" },
+    { "question_id": 57, "question": "जोकर पाठ से हमें क्या सीख मिलती है?", "answer": "मुश्किलों में भी मुस्कुराने और भाषा को सुंदर बनाने की सीख।" },
+    { "question_id": 58, "question": "'दंग' शब्द का पर्यायवाची क्या है?", "answer": "हैरान या विस्मित।" },
+    { "question_id": 59, "question": "जोकर को 'अवसरवादी' क्यों कहा गया?", "answer": "जब वह दूसरों के काम का श्रेय खुद ले लेता है।" },
+    { "question_id": 60, "question": "जोकर पाठ का अंत किस संदेश के साथ होता है?", "answer": "सदा प्रसन्न रहने के संदेश के साथ।" }
+  ]
+}

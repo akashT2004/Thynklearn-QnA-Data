@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.09",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "गती व गतीचे प्रकार"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "वस्तूचे ठराविक वेळेत एका ठिकाणापासून दुसऱ्या ठिकाणी होणारे विस्थापन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "बल", "is_correct": false },
+        { "option_id": 2, "text": "गती", "is_correct": true },
+        { "option_id": 3, "text": "अंतर", "is_correct": false },
+        { "option_id": 4, "text": "त्वरण", "is_correct": false }
+      ],
+      "answer": "गती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सरळ रेषेत येणाऱ्या वाहनाची गती कोणत्या प्रकारची असते?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय गती", "is_correct": true },
+        { "option_id": 2, "text": "वर्तुळाकार गती", "is_correct": false },
+        { "option_id": 3, "text": "आंदोलित गती", "is_correct": false },
+        { "option_id": 4, "text": "यादृच्छिक गती", "is_correct": false }
+      ],
+      "answer": "रेषीय गती"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "परेड करणाऱ्या सैनिकांची गती कोणत्या प्रकारची असते?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय असमान गती", "is_correct": false },
+        { "option_id": 2, "text": "रेषीय समान गती", "is_correct": true },
+        { "option_id": 3, "text": "आंदोलित गती", "is_correct": false },
+        { "option_id": 4, "text": "वर्तुळाकार गती", "is_correct": false }
+      ],
+      "answer": "रेषीय समान गती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "घड्याळाच्या काट्यांची गती ही कोणत्या प्रकारची गती आहे?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय गती", "is_correct": false },
+        { "option_id": 2, "text": "वर्तुळाकार गती", "is_correct": true },
+        { "option_id": 3, "text": "यादृच्छिक गती", "is_correct": false },
+        { "option_id": 4, "text": "आंदोलित गती", "is_correct": false }
+      ],
+      "answer": "वर्तुळाकार गती"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "झोपाळ्यावर बसलेल्या मुलाची गती कोणत्या प्रकारची असते?",
+      "options": [
+        { "option_id": 1, "text": "आंदोलित गती", "is_correct": true },
+        { "option_id": 2, "text": "रेषीय गती", "is_correct": false },
+        { "option_id": 3, "text": "वर्तुळाकार गती", "is_correct": false },
+        { "option_id": 4, "text": "यादृच्छिक गती", "is_correct": false }
+      ],
+      "answer": "आंदोलित गती"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "एखादी वस्तू एका निश्चित बिंदूतून पुन्हा पुन्हा जात असेल, तर त्या गतीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "नियतकालिक गती", "is_correct": true },
+        { "option_id": 2, "text": "यादृच्छिक गती", "is_correct": false },
+        { "option_id": 3, "text": "रेषीय गती", "is_correct": false },
+        { "option_id": 4, "text": "असमान गती", "is_correct": false }
+      ],
+      "answer": "नियतकालिक गती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "फुलपाखराची गती कोणत्या प्रकारची असते?",
+      "options": [
+        { "option_id": 1, "text": "वर्तुळाकार", "is_correct": false },
+        { "option_id": 2, "text": "रेषीय", "is_correct": false },
+        { "option_id": 3, "text": "यादृच्छिक गती", "is_correct": true },
+        { "option_id": 4, "text": "नियतकालिक", "is_correct": false }
+      ],
+      "answer": "यादृच्छिक गती"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "एकक वेळेत वस्तूने कापलेल्या अंतरास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "गती", "is_correct": false },
+        { "option_id": 2, "text": "चाल (Speed)", "is_correct": true },
+        { "option_id": 3, "text": "विस्थापन", "is_correct": false },
+        { "option_id": 4, "text": "काळ", "is_correct": false }
+      ],
+      "answer": "चाल (Speed)"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चालीचे सूत्र कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "चाल = वेळ / अंतर", "is_correct": false },
+        { "option_id": 2, "text": "चाल = अंतर / वेळ", "is_correct": true },
+        { "option_id": 3, "text": "चाल = अंतर × वेळ", "is_correct": false },
+        { "option_id": 4, "text": "चाल = वजन / अंतर", "is_correct": false }
+      ],
+      "answer": "चाल = अंतर / वेळ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचे स्वतःभोवती फिरणे ही कोणती गती आहे?",
+      "options": [
+        { "option_id": 1, "text": "वर्तुळाकार गती", "is_correct": true },
+        { "option_id": 2, "text": "रेषीय गती", "is_correct": false },
+        { "option_id": 3, "text": "यादृच्छिक गती", "is_correct": false },
+        { "option_id": 4, "text": "आंदोलित गती", "is_correct": false }
+      ],
+      "answer": "वर्तुळाकार गती"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "विमानाची धावपट्टीवरून धावतानाची गती कोणती?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय", "is_correct": true },
+        { "option_id": 2, "text": "आंदोलित", "is_correct": false },
+        { "option_id": 3, "text": "वर्तुळाकार", "is_correct": false },
+        { "option_id": 4, "text": "यादृच्छिक", "is_correct": false }
+      ],
+      "answer": "रेषीय"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "फुटबॉलच्या खेळात खेळाडूंची गती कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय समान", "is_correct": false },
+        { "option_id": 2, "text": "यादृच्छिक", "is_correct": true },
+        { "option_id": 3, "text": "नियतकालिक", "is_correct": false },
+        { "option_id": 4, "text": "वर्तुळाकार", "is_correct": false }
+      ],
+      "answer": "यादृच्छिक"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सतारीची छेडलेली तार कोणत्या प्रकारची गती दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "वर्तुळाकार", "is_correct": false },
+        { "option_id": 2, "text": "आंदोलित", "is_correct": true },
+        { "option_id": 3, "text": "रेषीय", "is_correct": false },
+        { "option_id": 4, "text": "यादृच्छिक", "is_correct": false }
+      ],
+      "answer": "आंदोलित"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आकाशपाळण्यातील मुलांची गती कोणती असते?",
+      "options": [
+        { "option_id": 1, "text": "समान वर्तुळाकार", "is_correct": true },
+        { "option_id": 2, "text": "रेषीय", "is_correct": false },
+        { "option_id": 3, "text": "यादृच्छिक", "is_correct": false },
+        { "option_id": 4, "text": "आंदोलित", "is_correct": false }
+      ],
+      "answer": "समान वर्तुळाकार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चालीचे एकक कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "किमी / तास", "is_correct": true },
+        { "option_id": 2, "text": "ग्रॅम / मीटर", "is_correct": false },
+        { "option_id": 3, "text": "तास / किमी", "is_correct": false },
+        { "option_id": 4, "text": "किलोग्रॅम", "is_correct": false }
+      ],
+      "answer": "किमी / तास"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "घड्याळाचा लंबक कोणत्या प्रकारची गती दर्शवतो?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय गती", "is_correct": false },
+        { "option_id": 2, "text": "आंदोलित गती", "is_correct": true },
+        { "option_id": 3, "text": "वर्तुळाकार गती", "is_correct": false },
+        { "option_id": 4, "text": "यादृच्छिक गती", "is_correct": false }
+      ],
+      "answer": "आंदोलित गती"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सायकलच्या चाकाची गती कोणती असते?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय", "is_correct": false },
+        { "option_id": 2, "text": "वर्तुळाकार", "is_correct": true },
+        { "option_id": 3, "text": "आंदोलित", "is_correct": false },
+        { "option_id": 4, "text": "यादृच्छिक", "is_correct": false }
+      ],
+      "answer": "वर्तुळाकार"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "विस्थापन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "गती वाढणे", "is_correct": false },
+        { "option_id": 2, "text": "स्थान बदलणे", "is_correct": true },
+        { "option_id": 3, "text": "आकार बदलणे", "is_correct": false },
+        { "option_id": 4, "text": "अन्न खाणे", "is_correct": false }
+      ],
+      "answer": "स्थान बदलणे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गच्चीवरून चेंडू खाली सोडल्यास तो कोणत्या गतीने खाली येतो?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय", "is_correct": true },
+        { "option_id": 2, "text": "वर्तुळाकार", "is_correct": false },
+        { "option_id": 3, "text": "यादृच्छिक", "is_correct": false },
+        { "option_id": 4, "text": "नियतकालिक", "is_correct": false }
+      ],
+      "answer": "रेषीय"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "एखादी वस्तू एका ठिकाणाहून दुसऱ्या ठिकाणी जाण्यास जास्त वेळ घेत असेल, तर तिची चाल कशी असेल?",
+      "options": [
+        { "option_id": 1, "text": "जास्त", "is_correct": false },
+        { "option_id": 2, "text": "कमी", "is_correct": true },
+        { "option_id": 3, "text": "शून्य", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "मेरी गो राऊंडमधील मुलांची गती कोणती?",
+      "options": [
+        { "option_id": 1, "text": "वर्तुळाकार", "is_correct": true },
+        { "option_id": 2, "text": "रेषीय", "is_correct": false },
+        { "option_id": 3, "text": "यादृच्छिक", "is_correct": false },
+        { "option_id": 4, "text": "आंदोलित", "is_correct": false }
+      ],
+      "answer": "वर्तुळाकार"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "सरकता सांधा असणाऱ्या मनगटाची हालचाल ही एक प्रकारची काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "गती", "is_correct": true },
+        { "option_id": 2, "text": "बल", "is_correct": false },
+        { "option_id": 3, "text": "स्थिरता", "is_correct": false },
+        { "option_id": 4, "text": "दबाव", "is_correct": false }
+      ],
+      "answer": "गती"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रेल्वेतून प्रवास करताना स्थिर झाडे कशी वाटतात?",
+      "options": [
+        { "option_id": 1, "text": "स्थिर", "is_correct": false },
+        { "option_id": 2, "text": "मागे पळताना", "is_correct": true },
+        { "option_id": 3, "text": "पुढे येताना", "is_correct": false },
+        { "option_id": 4, "text": "वर्तुळाकार फिरताना", "is_correct": false }
+      ],
+      "answer": "मागे पळताना"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पंख्याच्या पात्यांची गती कोणत्या प्रकारची असते?",
+      "options": [
+        { "option_id": 1, "text": "वर्तुळाकार", "is_correct": true },
+        { "option_id": 2, "text": "आंदोलित", "is_correct": false },
+        { "option_id": 3, "text": "रेषीय", "is_correct": false },
+        { "option_id": 4, "text": "यादृच्छिक", "is_correct": false }
+      ],
+      "answer": "वर्तुळाकार"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भक्ष्याचा शोध घेणारी घार कोणत्या गतीने उडते?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय", "is_correct": false },
+        { "option_id": 2, "text": "यादृच्छिक", "is_correct": true },
+        { "option_id": 3, "text": "नियतकालिक", "is_correct": false },
+        { "option_id": 4, "text": "समान वर्तुळाकार", "is_correct": false }
+      ],
+      "answer": "यादृच्छिक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रेषीय गतीचे किती प्रकार आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": true },
+        { "option_id": 2, "text": "तीन", "is_correct": false },
+        { "option_id": 3, "text": "चार", "is_correct": false },
+        { "option_id": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "गतीमधील बदलाची दिशा सतत बदलत असेल तर ती कोणती गती असते?",
+      "options": [
+        { "option_id": 1, "text": "रेषीय", "is_correct": false },
+        { "option_id": 2, "text": "यादृच्छिक", "is_correct": true },
+        { "option_id": 3, "text": "समान", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर", "is_correct": false }
+      ],
+      "answer": "यादृच्छिक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "वेळ मोजण्यासाठी कशाचा वापर होतो?",
+      "options": [
+        { "option_id": 1, "text": "पट्ट्या", "is_correct": false },
+        { "option_id": 2, "text": "घड्याळ", "is_correct": true },
+        { "option_id": 3, "text": "वजनकाटा", "is_correct": false },
+        { "option_id": 4, "text": "तापमापी", "is_correct": false }
+      ],
+      "answer": "घड्याळ"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "विस्थापन होण्यासाठी वस्तू कशात असणे आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "गती", "is_correct": true },
+        { "option_id": 2, "text": "विसावा", "is_correct": false },
+        { "option_id": 3, "text": "अंधार", "is_correct": false },
+        { "option_id": 4, "text": "झोप", "is_correct": false }
+      ],
+      "answer": "गती"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी नैकरेषीय गतीचे उदाहरण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "धावणारे सैनिक", "is_correct": false },
+        { "option_id": 2, "text": "फिरणारा पंखा", "is_correct": true },
+        { "option_id": 3, "text": "खाली पडणारा चेंडू", "is_correct": false },
+        { "option_id": 4, "text": "सरळ रेषेतील कार", "is_correct": false }
+      ],
+      "answer": "फिरणारा पंखा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "गती म्हणजे काय?",
+      "answer": "वस्तूचे ठराविक वेळेत एका ठिकाणापासून दुसऱ्या ठिकाणी होत असलेले विस्थापन म्हणजे गती होय."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "विस्थापन म्हणजे काय?",
+      "answer": "एखाद्या वस्तूचे एका स्थानावरून दुसऱ्या स्थानावर जाणे म्हणजे विस्थापन होय."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "रेषीय गती म्हणजे काय?",
+      "answer": "जेव्हा एखादी वस्तू एकाच सरळ रेषेत किंवा एकाच दिशेने विस्थापित होत असते, तेव्हा त्या गतीला रेषीय गती म्हणतात."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "रेषीय समान गतीचे उदाहरण द्या.",
+      "answer": "संचलन (परेड) करणाऱ्या सैनिकांची गती हे रेषीय समान गतीचे उदाहरण आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "रेषीय असमान गती म्हणजे काय?",
+      "answer": "एकक काळात कापलेले अंतर जेव्हा सतत बदलते, तेव्हा त्या गतीला रेषीय असमान गती म्हणतात."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "नैकरेषीय गती म्हणजे काय?",
+      "answer": "जी वस्तू सरळ रेषेत जात नाही, त्या वस्तूच्या गतीला नैकरेषीय गती म्हणतात."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "आंदोलित गती म्हणजे काय?",
+      "answer": "आंदोलनामुळे प्राप्त होणाऱ्या गतीला आंदोलित गती म्हणतात. उदा. झोपाळ्याची गती."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "वर्तुळाकार गतीची दोन उदाहरणे द्या.",
+      "answer": "१) फिरणारा पंखा, २) आकाशपाळणा."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "नियतकालिक गती म्हणजे काय?",
+      "answer": "ज्या गतीमध्ये वस्तू ठराविक वेळेनंतर एका विशिष्ट बिंदूतून पुन्हा पुन्हा जाते, तिला नियतकालिक गती म्हणतात."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "यादृच्छिक गती म्हणजे काय?",
+      "answer": "ज्या गतीची दिशा आणि चाल सतत बदलत असते, त्या गतीला यादृच्छिक गती म्हणतात."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "चाल म्हणजे काय?",
+      "answer": "एका तासात किंवा एकक वेळेत वस्तूने कापलेल्या अंतरास त्या वस्तूची चाल म्हणतात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "चालीचे सूत्र लिहा.",
+      "answer": "चाल = कापलेले एकूण अंतर / लागलेला एकूण वेळ."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "चालीची एकके कोणती आहेत?",
+      "answer": "मीटर / सेकंद किंवा किलोमीटर / तास ही चालीची एकके आहेत."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "घड्याळाच्या लंबकाची गती कोणती असते?",
+      "answer": "घड्याळाच्या लंबकाची गती आंदोलित गती असते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "फुलपाखराची गती यादृच्छिक का असते?",
+      "answer": "कारण फुलपाखरू उडताना त्याची दिशा आणि चाल सतत बदलत असते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीचे सूर्याभोवती फिरणे ही कोणती गती आहे?",
+      "answer": "ही वर्तुळाकार आणि नियतकालिक गती आहे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "गतीचे मुख्य प्रकार किती आहेत?",
+      "answer": "गतीचे रेषीय गती आणि नैकरेषीय गती असे दोन मुख्य प्रकार आहेत."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "धावपट्टीवरून धावणाऱ्या विमानाची गती कोणती असते?",
+      "answer": "धावपट्टीवरून धावणाऱ्या विमानाची गती रेषीय गती असते."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "मेरी गो राऊंडमध्ये बसलेल्या मुलांची गती कोणती असते?",
+      "answer": "त्यांची गती वर्तुळाकार गती असते."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "समान रेषीय गती आणि असमान रेषीय गतीमधील फरक काय?",
+      "answer": "समान रेषीय गतीत वेग स्थिर असतो, तर असमान रेषीय गतीत वेग सतत बदलतो."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "एखादी वस्तू गतिमान आहे हे कसे ठरवतात?",
+      "answer": "जर एखादी वस्तू निरीक्षकानुसार सतत तिची जागा बदलत असेल, तर ती गतिमान आहे असे म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "शिवणयंत्राच्या सुईची गती कोणती असते?",
+      "answer": "शिवणयंत्राच्या सुईची गती आंदोलित गती असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "बागेत खेळणाऱ्या मुलांची गती कोणती असते?",
+      "answer": "बागेत खेळणाऱ्या मुलांची गती यादृच्छिक गती असते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "सायकल चालवताना चाकाची आणि सायकलची गती कशी असते?",
+      "answer": "चाकाची गती वर्तुळाकार असते, तर सायकलची गती रेषीय असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "चेंडू भिंतीवर मारून परत येणे ही कोणती क्रिया आहे?",
+      "answer": "हे विस्थापन आणि गतीचे उदाहरण आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "गती कशावर अवलंबून असते?",
+      "answer": "गती ही वस्तूचे कापलेले अंतर आणि त्यासाठी लागणारा वेळ यावर अवलंबून असते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "विमानाचा हवेतील प्रवास कोणत्या गतीचे उदाहरण आहे?",
+      "answer": "विमानाचा हवेतील प्रवास रेषीय किंवा नैकरेषीय गतीचे उदाहरण असू शकतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "पाण्यात पोहणाऱ्या माशाची गती कोणती?",
+      "answer": "पाण्यात पोहणाऱ्या माशाची गती यादृच्छिक गती असते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "नियतकालिक गतीचे एक उदाहरण द्या.",
+      "answer": "घड्याळाचा मिनिट काटा ६० मिनिटांत एक फेरी पूर्ण करतो, ही नियतकालिक गती आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "एखादी वस्तू स्थिर आहे म्हणजे काय?",
+      "answer": "जर वस्तू काळाप्रमाणे तिची जागा बदलत नसेल, तर ती वस्तू स्थिर आहे असे म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "आंदोलित गतीची दोन उदाहरणे लिहा.",
+      "answer": "१) पक्षांच्या पंखांची हालचाल, २) तबल्याचा थरथरणारा पडदा."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "फुटबॉलला लाथ मारल्यावर त्याची गती कशी बदलते?",
+      "answer": "फुटबॉलला लाथ मारल्यावर त्याची स्थिर अवस्था संपून तो यादृच्छिक किंवा रेषीय गतीने पुढे जातो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "रेल्वेतून बाहेर पाहताना झाडे मागे जाताना का दिसतात?",
+      "answer": "आपण गतिमान असल्यामुळे स्थिर वस्तू आपल्याला विरुद्ध दिशेने गतिमान असल्याचा भास होतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "गतीचे मापन करण्यासाठी कोणती दोन परिमाणे आवश्यक आहेत?",
+      "answer": "अंतर आणि वेळ ही दोन परिमाणे आवश्यक आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "गच्चीवरून पडणाऱ्या चेंडूची गती का वाढते?",
+      "answer": "गुरुत्वाकर्षण बलामुळे खाली पडणाऱ्या चेंडूची गती वाढत जाते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "वर्तुळाकार गती आणि नियतकालिक गतीमध्ये काय साम्य असू शकते?",
+      "answer": "अनेक वर्तुळाकार गती ठराविक वेळेत पूर्ण होत असल्याने त्या नियतकालिकही असू शकतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "सरकता सांधा कोणत्या गतीसाठी मदत करतो?",
+      "answer": "सरकता सांधा अवयवांच्या मर्यादित रेषीय किंवा वर्तुळाकार हालचालीसाठी मदत करतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "सायकलस्वाराची गती रेषीय असमान कधी असते?",
+      "answer": "जेव्हा सायकलस्वार गर्दीच्या रस्त्यावरून सायकल चालवतो, तेव्हा त्याची गती रेषीय असमान असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "विस्थापन आणि अंतर यांतील फरक काय?",
+      "answer": "अंतर म्हणजे प्रत्यक्ष कापलेला मार्ग, तर विस्थापन म्हणजे दोन बिंदूंमधील सर्वात कमी अंतर."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "गती ही सापेक्ष का असते?",
+      "answer": "कारण एखादी वस्तू एकासाठी स्थिर तर दुसऱ्यासाठी गतिमान असू शकते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "वाहन वळण घेताना त्याची गती कोणती असते?",
+      "answer": "वाहन वळण घेताना त्याची गती वर्तुळाकार किंवा वक्राकार असते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "गती बदलण्यासाठी कशाची आवश्यकता असते?",
+      "answer": "गती बदलण्यासाठी किंवा वस्तू गतिमान करण्यासाठी बलाची आवश्यकता असते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "लहान मुलांच्या खेळण्यातील भोवऱ्याची गती कोणती?",
+      "answer": "भोवऱ्याची स्वतःभोवती फिरण्याची गती वर्तुळाकार गती असते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "एका तासात १०० किमी जाणाऱ्या कारची चाल किती?",
+      "answer": "त्या कारची चाल १०० किमी/तास इतकी आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "गतीचा आपल्या दैनंदिन जीवनात काय उपयोग होतो?",
+      "answer": "गतीमुळे आपण प्रवास करू शकतो, कामे करू शकतो आणि वस्तूंचे वहन करू शकतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "भूकंप होताना जमिनीची गती कोणती असते?",
+      "answer": "भूकंप होताना जमिनीची गती आंदोलित किंवा थरथरणारी असते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "धावपटूची धावपट्टीवरील गती कोणती असते?",
+      "answer": "धावपटूची गती रेषीय असमान गती असू शकते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "आकाशपाळण्यात बसल्यावर आपल्याला मळमळते, याचे गतीशी काय नाते आहे?",
+      "answer": "गतीची दिशा सतत बदलल्यामुळे शरीरातील संतुलन बिघडते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "विज्ञानाच्या दृष्टीने हालचाल म्हणजे काय?",
+      "answer": "विज्ञानाच्या दृष्टीने हालचाल म्हणजे वस्तूचे होणारे विस्थापन होय."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "गतीचे प्रकार कशावरून ठरवले जातात?",
+      "answer": "गतीचा मार्ग आणि वेळेनुसार होणारे विस्थापन यावरून गतीचे प्रकार ठरवले जातात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "नियतकालिक गती आणि आंदोलित गतीमधील एक साम्य सांगा.",
+      "answer": "दोन्ही गती ठराविक मार्गावरून पुन्हा पुन्हा होतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "गतीमुळे ऊर्जेची निर्मिती होते का?",
+      "answer": "हो, गतिज ऊर्जेच्या स्वरूपात गतीमध्ये ऊर्जा असते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "मंद गती म्हणजे काय?",
+      "answer": "जर एखादी वस्तू ठराविक अंतर कापण्यासाठी खूप जास्त वेळ घेत असेल, तर तिला मंद गती म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "वेगवान गती म्हणजे काय?",
+      "answer": "कमी वेळात जास्त अंतर कापणाऱ्या वस्तूच्या गतीला वेगवान गती म्हणतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "गतीचा अभ्यास कोणत्या शास्त्रज्ञांनी मोठ्या प्रमाणावर केला?",
+      "answer": "सर आयझॅक न्यूटन यांनी गतीचा सखोल अभ्यास केला."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "चाक हे मानवाचा सर्वात मोठा शोध का मानला जातो?",
+      "answer": "चाकामुळे गती प्राप्त करणे सोपे झाले आणि वाहतुकीत क्रांती झाली."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "गतीची दिशा बदलण्यासाठी काय करावे लागते?",
+      "answer": "गतीची दिशा बदलण्यासाठी बाह्य बल लावावे लागते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "विस्थापन शून्य कधी असू शकते?",
+      "answer": "जेव्हा वस्तू फिरून पुन्हा आपल्या मूळ जागेवर येते, तेव्हा विस्थापन शून्य असते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "वाऱ्याची गती कोणत्या प्रकारची असते?",
+      "answer": "वाऱ्याची गती प्रामुख्याने यादृच्छिक गती असते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाची गती कशी असते?",
+      "answer": "प्रकाश नेहमी सरळ रेषेत प्रवास करतो, म्हणून त्याची गती रेषीय असते."
+    }
+  ]
+}

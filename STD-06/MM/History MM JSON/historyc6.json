@@ -1,0 +1,1211 @@
+{
+  "chapter_info": {
+    "chapter_number": "६",
+    "grade": "६",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "जनपदे आणि महाजनपदे"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "multiple_choice",
+      "question": "भारतीय उपखंडात जनपदांचा काळ साधारणपणे कोणता मानला जातो?",
+      "options": [
+        { "option_number": 1, "text": "इ.स.पू. १००० ते इ.स.पू. ६००", "is_correct": true },
+        { "option_number": 2, "text": "इ.स.पू. १५०० ते इ.स.पू. १०००", "is_correct": false },
+        { "option_number": 3, "text": "इ.स. ५०० ते इ.स. १०००", "is_correct": false },
+        { "option_number": 4, "text": "इ.स.पू. ३००० ते इ.स.पू. १५००", "is_correct": false }
+      ],
+      "answer": "इ.स.पू. १००० ते इ.स.पू. ६००"
+    },
+    {
+      "question_number": 2,
+      "question_type": "multiple_choice",
+      "question": "'जनपद' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "मोठे साम्राज्य", "is_correct": false },
+        { "option_number": 2, "text": "टोळ्यांच्या वसाहती किंवा छोटी राज्ये", "is_correct": true },
+        { "option_number": 3, "text": "धार्मिक संस्था", "is_correct": false },
+        { "option_number": 4, "text": "व्यापाऱ्यांची संघटना", "is_correct": false }
+      ],
+      "answer": "टोळ्यांच्या वसाहती किंवा छोटी राज्ये"
+    },
+    {
+      "question_number": 3,
+      "question_type": "multiple_choice",
+      "question": "प्राचीन साहित्यानुसार भारतात एकूण किती महाजनपदे प्रसिद्ध होती?",
+      "options": [
+        { "option_number": 1, "text": "दहा", "is_correct": false },
+        { "option_number": 2, "text": "बारा", "is_correct": false },
+        { "option_number": 3, "text": "सोळा", "is_correct": true },
+        { "option_number": 4, "text": "वीस", "is_correct": false }
+      ],
+      "answer": "सोळा"
+    },
+    {
+      "question_number": 4,
+      "question_type": "multiple_choice",
+      "question": "कोसल महाजनपदाची राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "श्रावस्ती", "is_correct": true },
+        { "option_number": 2, "text": "पाटलीपुत्र", "is_correct": false },
+        { "option_number": 3, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 4, "text": "कौशाम्बी", "is_correct": false }
+      ],
+      "answer": "श्रावस्ती"
+    },
+    {
+      "question_number": 5,
+      "question_type": "multiple_choice",
+      "question": "कोसलचा राजा प्रसेनजित हा कोणाचा समकालीन होता?",
+      "options": [
+        { "option_number": 1, "text": "चंद्रगुप्त मौर्य", "is_correct": false },
+        { "option_number": 2, "text": "गौतम बुद्ध", "is_correct": true },
+        { "option_number": 3, "text": "अशोक", "is_correct": false },
+        { "option_number": 4, "text": "सिकंदर", "is_correct": false }
+      ],
+      "answer": "गौतम बुद्ध"
+    },
+    {
+      "question_number": 6,
+      "question_type": "multiple_choice",
+      "question": "वत्स महाजनपदाची राजधानी कोठे होती?",
+      "options": [
+        { "option_number": 1, "text": "मथुरा", "is_correct": false },
+        { "option_number": 2, "text": "कौशाम्बी", "is_correct": true },
+        { "option_number": 3, "text": "राजगृह", "is_correct": false },
+        { "option_number": 4, "text": "चंपा", "is_correct": false }
+      ],
+      "answer": "कौशाम्बी"
+    },
+    {
+      "question_number": 7,
+      "question_type": "multiple_choice",
+      "question": "उदयन हा कोणत्या महाजनपदाचा राजा होता?",
+      "options": [
+        { "option_number": 1, "text": "वत्स", "is_correct": true },
+        { "option_number": 2, "text": "मगध", "is_correct": false },
+        { "option_number": 3, "text": "अवंती", "is_correct": false },
+        { "option_number": 4, "text": "कोसल", "is_correct": false }
+      ],
+      "answer": "वत्स"
+    },
+    {
+      "question_number": 8,
+      "question_type": "multiple_choice",
+      "question": "अवंती महाजनपद भारताच्या कोणत्या भागात वसलेले होते?",
+      "options": [
+        { "option_number": 1, "text": "दक्षिण भारत", "is_correct": false },
+        { "option_number": 2, "text": "वायव्य भारत", "is_correct": false },
+        { "option_number": 3, "text": "मध्य प्रदेशातील माळवा प्रदेश", "is_correct": true },
+        { "option_number": 4, "text": "ईशान्य भारत", "is_correct": false }
+      ],
+      "answer": "मध्य प्रदेशातील माळवा प्रदेश"
+    },
+    {
+      "question_number": 9,
+      "question_type": "multiple_choice",
+      "question": "अवंती महाजनपदाची राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "उज्जयिनी", "is_correct": true },
+        { "option_number": 2, "text": "वाराणसी", "is_correct": false },
+        { "option_number": 3, "text": "विशालगड", "is_correct": false },
+        { "option_number": 4, "text": "वैशाली", "is_correct": false }
+      ],
+      "answer": "उज्जयिनी"
+    },
+    {
+      "question_number": 10,
+      "question_type": "multiple_choice",
+      "question": "मगध महाजनपदाची पहिली राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "पाटलीपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "राजगृह (गिरिव्रज)", "is_correct": true },
+        { "option_number": 3, "text": "चंपा", "is_correct": false },
+        { "option_number": 4, "text": "मथुरा", "is_correct": false }
+      ],
+      "answer": "राजगृह (गिरिव्रज)"
+    },
+    {
+      "question_number": 11,
+      "question_type": "multiple_choice",
+      "question": "मगध साम्राज्याचा विस्तार कोणाच्या काळात खऱ्या अर्थाने सुरू झाला?",
+      "options": [
+        { "option_number": 1, "text": "बिंबिसार", "is_correct": true },
+        { "option_number": 2, "text": "चंद्रगुप्त", "is_correct": false },
+        { "option_number": 3, "text": "महापद्मनंद", "is_correct": false },
+        { "option_number": 4, "text": "धनानंद", "is_correct": false }
+      ],
+      "answer": "बिंबिसार"
+    },
+    {
+      "question_number": 12,
+      "question_type": "multiple_choice",
+      "question": "बिंबिसाराच्या दरबारातील प्रसिद्ध राजवैद्य कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "चरक", "is_correct": false },
+        { "option_number": 2, "text": "जीवक", "is_correct": true },
+        { "option_number": 3, "text": "सुश्रुत", "is_correct": false },
+        { "option_number": 4, "text": "धन्वंतरी", "is_correct": false }
+      ],
+      "answer": "जीवक"
+    },
+    {
+      "question_number": 13,
+      "question_type": "multiple_choice",
+      "question": "अजातशत्रू कोणाचा मुलगा होता?",
+      "options": [
+        { "option_number": 1, "text": "उदयन", "is_correct": false },
+        { "option_number": 2, "text": "प्रसेनजित", "is_correct": false },
+        { "option_number": 3, "text": "बिंबिसार", "is_correct": true },
+        { "option_number": 4, "text": "महापद्मनंद", "is_correct": false }
+      ],
+      "answer": "बिंबिसार"
+    },
+    {
+      "question_number": 14,
+      "question_type": "multiple_choice",
+      "question": "बौद्ध धर्माची पहिली संगीती (परिषद) कोठे पार पडली?",
+      "options": [
+        { "option_number": 1, "text": "वैशाली", "is_correct": false },
+        { "option_number": 2, "text": "सारनाथ", "is_correct": false },
+        { "option_number": 3, "text": "राजगृह", "is_correct": true },
+        { "option_number": 4, "text": "पाटलीपुत्र", "is_correct": false }
+      ],
+      "answer": "राजगृह"
+    },
+    {
+      "question_number": 15,
+      "question_type": "multiple_choice",
+      "question": "पाटलीपुत्र (पाटलीग्राम) शहराचा पाया कोणी घातला?",
+      "options": [
+        { "option_number": 1, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 2, "text": "अजातशत्रू", "is_correct": true },
+        { "option_number": 3, "text": "चंद्रगुप्त मौर्य", "is_correct": false },
+        { "option_number": 4, "text": "अशोक", "is_correct": false }
+      ],
+      "answer": "अजातशत्रू"
+    },
+    {
+      "question_number": 16,
+      "question_type": "multiple_choice",
+      "question": "मगध साम्राज्यावर सत्ता स्थापन करणारे नंद घराण्याचे संस्थापक कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "धनानंद", "is_correct": false },
+        { "option_number": 2, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 3, "text": "महापद्मनंद", "is_correct": true },
+        { "option_number": 4, "text": "चंद्रगुप्त मौर्य", "is_correct": false }
+      ],
+      "answer": "महापद्मनंद"
+    },
+    {
+      "question_number": 17,
+      "question_type": "multiple_choice",
+      "question": "नंद घराण्याचा शेवटचा राजा कोण होता?",
+      "options": [
+        { "option_number": 1, "text": "महापद्मनंद", "is_correct": false },
+        { "option_number": 2, "text": "धनानंद", "is_correct": true },
+        { "option_number": 3, "text": "अजातशत्रू", "is_correct": false },
+        { "option_number": 4, "text": "बिंबिसार", "is_correct": false }
+      ],
+      "answer": "धनानंद"
+    },
+    {
+      "question_number": 18,
+      "question_type": "multiple_choice",
+      "question": "नंद राजांनी व्यापारासाठी कोणत्या महत्त्वाच्या गोष्टीची सुरुवात केली?",
+      "options": [
+        { "option_number": 1, "text": "कागदी चलन", "is_correct": false },
+        { "option_number": 2, "text": "वजन-मापांची प्रमाणित पद्धत", "is_correct": true },
+        { "option_number": 3, "text": "सागरी व्यापार", "is_correct": false },
+        { "option_number": 4, "text": "घोड्यांचा व्यापार", "is_correct": false }
+      ],
+      "answer": "वजन-मापांची प्रमाणित पद्धत"
+    },
+    {
+      "question_number": 19,
+      "question_type": "multiple_choice",
+      "question": "चंद्रगुप्त मौर्य यांनी धनानंदाचा पराभव करून मौर्य साम्राज्याची स्थापना कोणत्या वर्षी केली?",
+      "options": [
+        { "option_number": 1, "text": "इ.स.पू. ३२४", "is_correct": true },
+        { "option_number": 2, "text": "इ.स.पू. ६००", "is_correct": false },
+        { "option_number": 3, "text": "इ.स. १५०", "is_correct": false },
+        { "option_number": 4, "text": "इ.स.पू. ५००", "is_correct": false }
+      ],
+      "answer": "इ.स.पू. ३२४"
+    },
+    {
+      "question_number": 20,
+      "question_type": "multiple_choice",
+      "question": "जनपदे आणि महाजनपदांच्या काळामध्ये राज्यकारभारासाठी ज्येष्ठ व्यक्तींचे जे मंडळ असे, त्याला काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "मंत्रिमंडळ", "is_correct": false },
+        { "option_number": 2, "text": "गणपरिषद", "is_correct": true },
+        { "option_number": 3, "text": "लोकसभा", "is_correct": false },
+        { "option_number": 4, "text": "ग्रामपंचायत", "is_correct": false }
+      ],
+      "answer": "गणपरिषद"
+    },
+    {
+      "question_number": 21,
+      "question_type": "multiple_choice",
+      "question": "गणपरिषदेमध्ये राज्यकारभाराच्या विषयावर चर्चा करण्यासाठी जे सभागृह असे, त्याला काय म्हणत?",
+      "options": [
+        { "option_number": 1, "text": "संथागार", "is_correct": true },
+        { "option_number": 2, "text": "दरबार", "is_correct": false },
+        { "option_number": 3, "text": "किल्ला", "is_correct": false },
+        { "option_number": 4, "text": "मंदिर", "is_correct": false }
+      ],
+      "answer": "संथागार"
+    },
+    {
+      "question_number": 22,
+      "question_type": "multiple_choice",
+      "question": "गौतम बुद्ध खालीलपैकी कोणत्या गणराज्यातील होते?",
+      "options": [
+        { "option_number": 1, "text": "शाक्य", "is_correct": true },
+        { "option_number": 2, "text": "वृज्जी", "is_correct": false },
+        { "option_number": 3, "text": "मल्ल", "is_correct": false },
+        { "option_number": 4, "text": "लिच्छवी", "is_correct": false }
+      ],
+      "answer": "शाक्य"
+    },
+    {
+      "question_number": 23,
+      "question_type": "multiple_choice",
+      "question": "सोळा महाजनपदांची नावे कोणत्या बौद्ध ग्रंथात आढळतात?",
+      "options": [
+        { "option_number": 1, "text": "त्रिपिटक", "is_correct": false },
+        { "option_number": 2, "text": "अंगुत्तर निकाय", "is_correct": true },
+        { "option_number": 3, "text": "जातक कथा", "is_correct": false },
+        { "option_number": 4, "text": "भगवद्गीता", "is_correct": false }
+      ],
+      "answer": "अंगुत्तर निकाय"
+    },
+    {
+      "question_number": 24,
+      "question_type": "multiple_choice",
+      "question": "अजातशत्रूने मगधच्या विस्तारासाठी कोणत्या महासंघाचा पराभव केला?",
+      "options": [
+        { "option_number": 1, "text": "कौशल", "is_correct": false },
+        { "option_number": 2, "text": "गांधार", "is_correct": false },
+        { "option_number": 3, "text": "वृज्जी", "is_correct": true },
+        { "option_number": 4, "text": "अश्मक", "is_correct": false }
+      ],
+      "answer": "वृज्जी"
+    },
+    {
+      "question_number": 25,
+      "question_type": "multiple_choice",
+      "question": "नंद राजांनी कोणत्या गोष्टीचे प्रमाणित मोजमाप सुरू केले?",
+      "options": [
+        { "option_number": 1, "text": "जमिनीचे", "is_correct": false },
+        { "option_number": 2, "text": "वेळेचे", "is_correct": false },
+        { "option_number": 3, "text": "वजन-मापांचे", "is_correct": true },
+        { "option_number": 4, "text": "धान्याचे", "is_correct": false }
+      ],
+      "answer": "वजन-मापांचे"
+    },
+    {
+      "question_number": 26,
+      "question_type": "multiple_choice",
+      "question": "मगध साम्राज्याची राजधानी पाटलीपुत्र सध्या कोणत्या नावाने ओळखली जाते?",
+      "options": [
+        { "option_number": 1, "text": "पाटणा", "is_correct": true },
+        { "option_number": 2, "text": "लखनौ", "is_correct": false },
+        { "option_number": 3, "text": "वाराणसी", "is_correct": false },
+        { "option_number": 4, "text": "गया", "is_correct": false }
+      ],
+      "answer": "पाटणा"
+    },
+    {
+      "question_number": 27,
+      "question_type": "multiple_choice",
+      "question": "बिंबिसाराच्या काळात मगधची राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "पाटलीपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "राजगृह", "is_correct": true },
+        { "option_number": 3, "text": "वैशाली", "is_correct": false },
+        { "option_number": 4, "text": "श्रावस्ती", "is_correct": false }
+      ],
+      "answer": "राजगृह"
+    },
+    {
+      "question_number": 28,
+      "question_type": "multiple_choice",
+      "question": "अजातशत्रूने कोणत्या धर्माला राजाश्रय दिला होता?",
+      "options": [
+        { "option_number": 1, "text": "जैन धर्म", "is_correct": false },
+        { "option_number": 2, "text": "बौद्ध धर्म", "is_correct": true },
+        { "option_number": 3, "text": "हिंदू धर्म", "is_correct": false },
+        { "option_number": 4, "text": "पारशी धर्म", "is_correct": false }
+      ],
+      "answer": "बौद्ध धर्म"
+    },
+    {
+      "question_number": 29,
+      "question_type": "multiple_choice",
+      "question": "प्राचीन काळी तक्षशिला हे कोणत्या महाजनपदाची राजधानी होती?",
+      "options": [
+        { "option_number": 1, "text": "गांधार", "is_correct": true },
+        { "option_number": 2, "text": "कुरु", "is_correct": false },
+        { "option_number": 3, "text": "शूरसेन", "is_correct": false },
+        { "option_number": 4, "text": "मत्स्य", "is_correct": false }
+      ],
+      "answer": "गांधार"
+    },
+    {
+      "question_number": 30,
+      "question_type": "multiple_choice",
+      "question": "महाराष्ट्रात कोणत्या महाजनपदाचे स्थान होते?",
+      "options": [
+        { "option_number": 1, "text": "अश्मक", "is_correct": true },
+        { "option_number": 2, "text": "अवंती", "is_correct": false },
+        { "option_number": 3, "text": "चेदी", "is_correct": false },
+        { "option_number": 4, "text": "वत्स", "is_correct": false }
+      ],
+      "answer": "अश्मक"
+    },
+    {
+      "question_number": 31,
+      "question_type": "multiple_choice",
+      "question": "अश्मक महाजनपद कोणत्या नदीच्या खोऱ्यात होते?",
+      "options": [
+        { "option_number": 1, "text": "नर्मदा", "is_correct": false },
+        { "option_number": 2, "text": "कृष्णा", "is_correct": false },
+        { "option_number": 3, "text": "गोदावरी", "is_correct": true },
+        { "option_number": 4, "text": "तापी", "is_correct": false }
+      ],
+      "answer": "गोदावरी"
+    },
+    {
+      "question_number": 32,
+      "question_type": "multiple_choice",
+      "question": "महाजनपदांमध्ये कोणती शासन व्यवस्था प्रामुख्याने होती?",
+      "options": [
+        { "option_number": 1, "text": "लोकशाही", "is_correct": false },
+        { "option_number": 2, "text": "राजेशाही आणि काही गणराज्ये", "is_correct": true },
+        { "option_number": 3, "text": "हुकूमशाही", "is_correct": false },
+        { "option_number": 4, "text": "सैनिक राजवट", "is_correct": false }
+      ],
+      "answer": "राजेशाही आणि काही गणराज्ये"
+    },
+    {
+      "question_number": 33,
+      "question_type": "multiple_choice",
+      "question": "अजातशत्रूने स्वतःला बौद्ध धर्माचा काय मानले होते?",
+      "options": [
+        { "option_number": 1, "text": "विरोधक", "is_correct": false },
+        { "option_number": 2, "text": "अनुयायी", "is_correct": true },
+        { "option_number": 3, "text": "संस्थापक", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "अनुयायी"
+    },
+    {
+      "question_number": 34,
+      "question_type": "multiple_choice",
+      "question": "नंद घराण्याच्या राजांकडे लष्करामध्ये कशाची मोठी संख्या होती?",
+      "options": [
+        { "option_number": 1, "text": "केवळ पायदळ", "is_correct": false },
+        { "option_number": 2, "text": "केवळ अश्वदळ", "is_correct": false },
+        { "option_number": 3, "text": "चतुरंग सैन्य (पायदळ, अश्वदळ, रथदळ, हत्तीदळ)", "is_correct": true },
+        { "option_number": 4, "text": "केवळ आरमार", "is_correct": false }
+      ],
+      "answer": "चतुरंग सैन्य"
+    },
+    {
+      "question_number": 35,
+      "question_type": "multiple_choice",
+      "question": "ग्रीक इतिहासकारांनी कोणत्या भारतीय राजाचा उल्लेख 'अॅग्रामिस' असा केला आहे?",
+      "options": [
+        { "option_number": 1, "text": "धनानंद", "is_correct": true },
+        { "option_number": 2, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 3, "text": "चंद्रगुप्त मौर्य", "is_correct": false },
+        { "option_number": 4, "text": "अजातशत्रू", "is_correct": false }
+      ],
+      "answer": "धनानंद"
+    },
+    {
+      "question_number": 36,
+      "question_type": "multiple_choice",
+      "question": "जनपदे म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "मानवी वसाहत किंवा छोटी राज्ये", "is_correct": true },
+        { "option_number": 2, "text": "व्यापारी केंद्र", "is_correct": false },
+        { "option_number": 3, "text": "धार्मिक मठ", "is_correct": false },
+        { "option_number": 4, "text": "केवळ डोंगराळ भाग", "is_correct": false }
+      ],
+      "answer": "मानवी वसाहत किंवा छोटी राज्ये"
+    },
+    {
+      "question_number": 37,
+      "question_type": "multiple_choice",
+      "question": "मगध साम्राज्याचा पाया कोणत्या घराण्याने मजबूत केला?",
+      "options": [
+        { "option_number": 1, "text": "नंद घराणे", "is_correct": false },
+        { "option_number": 2, "text": "हर्यंक घराणे (बिंबिसार)", "is_correct": true },
+        { "option_number": 3, "text": "गुप्त घराणे", "is_correct": false },
+        { "option_number": 4, "text": "सातवाहन घराणे", "is_correct": false }
+      ],
+      "answer": "हर्यंक घराणे (बिंबिसार)"
+    },
+    {
+      "question_number": 38,
+      "question_type": "multiple_choice",
+      "question": "प्राचीन काळी कोणत्या ठिकाणी शिक्षणाचे मोठे केंद्र होते?",
+      "options": [
+        { "option_number": 1, "text": "तक्षशिला", "is_correct": true },
+        { "option_number": 2, "text": "श्रावस्ती", "is_correct": false },
+        { "option_number": 3, "text": "चंपा", "is_correct": false },
+        { "option_number": 4, "text": "राजगृह", "is_correct": false }
+      ],
+      "answer": "तक्षशिला"
+    },
+    {
+      "question_number": 39,
+      "question_type": "multiple_choice",
+      "question": "जनपद काळात कोणत्या प्रकारच्या नाण्यांची सुरुवात झाली?",
+      "options": [
+        { "option_number": 1, "text": "सोन्याची नाणी", "is_correct": false },
+        { "option_number": 2, "text": "आहत नाणी (Punch marked coins)", "is_correct": true },
+        { "option_number": 3, "text": "कागदी नोटा", "is_correct": false },
+        { "option_number": 4, "text": "काचेची नाणी", "is_correct": false }
+      ],
+      "answer": "आहत नाणी"
+    },
+    {
+      "question_number": 40,
+      "question_type": "multiple_choice",
+      "question": "अजातशत्रूने मगधची नवीन राजधानी कोठे स्थापन करण्याचे ठरवले होते?",
+      "options": [
+        { "option_number": 1, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 2, "text": "पाटलीपुत्र", "is_correct": true },
+        { "option_number": 3, "text": "कौशाम्बी", "is_correct": false },
+        { "option_number": 4, "text": "मथुरा", "is_correct": false }
+      ],
+      "answer": "पाटलीपुत्र"
+    },
+    {
+      "question_number": 41,
+      "question_type": "multiple_choice",
+      "question": "नंद राजांनी कोणाची पिळवणूक केली असे मानले जाते?",
+      "options": [
+        { "option_number": 1, "text": "प्रजेची", "is_correct": true },
+        { "option_number": 2, "text": "दुसऱ्या राजांची", "is_correct": false },
+        { "option_number": 3, "text": "व्यापाऱ्यांची", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "प्रजेची"
+    },
+    {
+      "question_number": 42,
+      "question_type": "multiple_choice",
+      "question": "गणराज्यांमध्ये मतदानाच्या प्रक्रियेला काय महत्त्व होते?",
+      "options": [
+        { "option_number": 1, "text": "मतभेद झाल्यास चर्चा करून निर्णय घेणे", "is_correct": true },
+        { "option_number": 2, "text": "राजाची निवड कायमस्वरूपी करणे", "is_correct": false },
+        { "option_number": 3, "text": "कोणतेही महत्त्व नव्हते", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "मतभेद झाल्यास चर्चा करून निर्णय घेणे"
+    },
+    {
+      "question_number": 43,
+      "question_type": "multiple_choice",
+      "question": "मगध साम्राज्याचा विस्तार विंध्य पर्वताच्या कोणत्या दिशेला झाला होता?",
+      "options": [
+        { "option_number": 1, "text": "उत्तर", "is_correct": false },
+        { "option_number": 2, "text": "दक्षिण", "is_correct": true },
+        { "option_number": 3, "text": "पूर्व", "is_correct": false },
+        { "option_number": 4, "text": "पश्चिम", "is_correct": false }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_number": 44,
+      "question_type": "multiple_choice",
+      "question": "नंद साम्राज्यात कोणता हत्ती विभाग अत्यंत प्रभावी होता?",
+      "options": [
+        { "option_number": 1, "text": "हत्तीदल", "is_correct": true },
+        { "option_number": 2, "text": "उंटदल", "is_correct": false },
+        { "option_number": 3, "text": "आरमार", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "हत्तीदल"
+    },
+    {
+      "question_number": 45,
+      "question_type": "multiple_choice",
+      "question": "शेती हे मुख्य कशाचे साधन होते?",
+      "options": [
+        { "option_number": 1, "text": "करमणुकीचे", "is_correct": false },
+        { "option_number": 2, "text": "निर्वाहाचे आणि महसुलाचे", "is_correct": true },
+        { "option_number": 3, "text": "शिक्षणाचे", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "निर्वाहाचे आणि महसुलाचे"
+    },
+    {
+      "question_number": 46,
+      "question_type": "multiple_choice",
+      "question": "गणराज्यांची चर्चा कोठे पार पडत असे?",
+      "options": [
+        { "option_number": 1, "text": "राजवाड्यात", "is_correct": false },
+        { "option_number": 2, "text": "संथागार मध्ये", "is_correct": true },
+        { "option_number": 3, "text": "मंदिरात", "is_correct": false },
+        { "option_number": 4, "text": "मैदानात", "is_correct": false }
+      ],
+      "answer": "संथागार मध्ये"
+    },
+    {
+      "question_number": 47,
+      "question_type": "multiple_choice",
+      "question": "चंद्रगुप्त मौर्य यांनी कोणाला सत्तेवरून खाली खेचले?",
+      "options": [
+        { "option_number": 1, "text": "धनानंद", "is_correct": true },
+        { "option_number": 2, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 3, "text": "अजातशत्रू", "is_correct": false },
+        { "option_number": 4, "text": "प्रसेनजित", "is_correct": false }
+      ],
+      "answer": "धनानंद"
+    },
+    {
+      "question_number": 48,
+      "question_type": "multiple_choice",
+      "question": "जनपद काळातील प्रसिद्ध व्याकरणकार कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "पाणिनी", "is_correct": true },
+        { "option_number": 2, "text": "कालिदास", "is_correct": false },
+        { "option_number": 3, "text": "कौटिल्य", "is_correct": false },
+        { "option_number": 4, "text": "भास", "is_correct": false }
+      ],
+      "answer": "पाणिनी"
+    },
+    {
+      "question_number": 49,
+      "question_type": "multiple_choice",
+      "question": "सोळा महाजनपदांपैकी कोणती चार महाजनपदे अधिक सामर्थ्यवान बनली होती?",
+      "options": [
+        { "option_number": 1, "text": "कोसल, वत्स, अवंती आणि मगध", "is_correct": true },
+        { "option_number": 2, "text": "काशी, अंग, चेदी आणि मल्ल", "is_correct": false },
+        { "option_number": 3, "text": "कुरु, पांचाल, मत्स्य आणि शूरसेन", "is_correct": false },
+        { "option_number": 4, "text": "गांधार, कंबोज, अश्मक आणि वृज्जी", "is_correct": false }
+      ],
+      "answer": "कोसल, वत्स, अवंती आणि मगध"
+    },
+    {
+      "question_number": 50,
+      "question_type": "multiple_choice",
+      "question": "मगध साम्राज्याने कालांतराने कोणाला विलीन करून घेतले?",
+      "options": [
+        { "option_number": 1, "text": "कोसल, वत्स आणि अवंती", "is_correct": true },
+        { "option_number": 2, "text": "केवळ गांधार", "is_correct": false },
+        { "option_number": 3, "text": "केवळ श्रीलंकेला", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "कोसल, वत्स आणि अवंती"
+    },
+  {
+    "question_number": 51,
+    "question_type": "one_word",
+    "question": "जनपदे म्हणजे काय?",
+    "answer": "छोटी राज्ये"
+  },
+  {
+    "question_number": 52,
+    "question_type": "one_word",
+    "question": "जनपदांचा कालखंड कोणता मानला जातो?",
+    "answer": "इ.स.पू. १००० ते ६००"
+  },
+  {
+    "question_number": 53,
+    "question_type": "one_word",
+    "question": "भारतात महाजनपदे एकूण किती होती?",
+    "answer": "सोळा"
+  },
+  {
+    "question_number": 54,
+    "question_type": "one_word",
+    "question": "कौशल महाजनपदाची राजधानी कोणती होती?",
+    "answer": "श्रावस्ती"
+  },
+  {
+    "question_number": 55,
+    "question_type": "one_word",
+    "question": "वत्स महाजनपदाची राजधानी कोणती होती?",
+    "answer": "कौशाम्बी"
+  },
+  {
+    "question_number": 56,
+    "question_type": "one_word",
+    "question": "अवंती महाजनपदाची राजधानी कोणती होती?",
+    "answer": "उज्जयिनी"
+  },
+  {
+    "question_number": 57,
+    "question_type": "one_word",
+    "question": "मगध महाजनपदाची पहिली राजधानी कोणती होती?",
+    "answer": "राजगृह (गिरिव्रज)"
+  },
+  {
+    "question_number": 58,
+    "question_type": "one_word",
+    "question": "कोसळचा राजा प्रसेनजित हा कोणाचा समकालीन होता?",
+    "answer": "गौतम बुद्ध"
+  },
+  {
+    "question_number": 59,
+    "question_type": "one_word",
+    "question": "वत्सचा राजा उदयन हा कोणत्या विचारसरणीचा होता?",
+    "answer": "बौद्ध"
+  },
+  {
+    "question_number": 60,
+    "question_type": "one_word",
+    "question": "उज्जयिनी हे शहर कोणत्या महाजनपदाचा भाग होते?",
+    "answer": "अवंती"
+  },
+  {
+    "question_number": 61,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्याचा पाया कोणी घातला?",
+    "answer": "बिंबिसार"
+  },
+  {
+    "question_number": 62,
+    "question_type": "one_word",
+    "question": "बिंबिसाराच्या मुलाचे नाव काय होते?",
+    "answer": "अजातशत्रू"
+  },
+  {
+    "question_number": 63,
+    "question_type": "one_word",
+    "question": "अजातशत्रूच्या काळात बौद्ध धर्माची पहिली परिषद कोठे झाली?",
+    "answer": "राजगृह"
+  },
+  {
+    "question_number": 64,
+    "question_type": "one_word",
+    "question": "पाटलीपुत्र शहराचा पाया कोणी घातला?",
+    "answer": "अजातशत्रू"
+  },
+  {
+    "question_number": 65,
+    "question_type": "one_word",
+    "question": "नंद घराण्याचे संस्थापक कोण होते?",
+    "answer": "महापद्मनंद"
+  },
+  {
+    "question_number": 66,
+    "question_type": "one_word",
+    "question": "नंद घराण्याचा शेवटचा राजा कोण होता?",
+    "answer": "धनानंद"
+  },
+  {
+    "question_number": 67,
+    "question_type": "one_word",
+    "question": "मौर्य साम्राज्याची स्थापना कोणी केली?",
+    "answer": "चंद्रगुप्त मौर्य"
+  },
+  {
+    "question_number": 68,
+    "question_type": "one_word",
+    "question": "गणराज्य म्हणजे काय?",
+    "answer": "लोकांचे राज्य"
+  },
+  {
+    "question_number": 69,
+    "question_type": "one_word",
+    "question": "जनपदांमध्ये ज्येष्ठ व्यक्तींच्या मंडळाला काय म्हणत?",
+    "answer": "गणपरिषद"
+  },
+  {
+    "question_number": 70,
+    "question_type": "one_word",
+    "question": "गणपरिषदेच्या चर्चेच्या सभागृहाला काय म्हणत?",
+    "answer": "संथागार"
+  },
+  {
+    "question_number": 71,
+    "question_type": "one_word",
+    "question": "गौतम बुद्ध कोणत्या गणराज्यातील होते?",
+    "answer": "शाक्य"
+  },
+  {
+    "question_number": 72,
+    "question_type": "one_word",
+    "question": "सोळा महाजनपदांची यादी कोणत्या ग्रंथात आढळते?",
+    "answer": "अंगुत्तर निकाय (बौद्ध ग्रंथ)"
+  },
+  {
+    "question_number": 73,
+    "question_type": "one_word",
+    "question": "व्यापारासाठी प्रसिद्ध असलेले चंपा हे शहर कोणत्या महाजनपदात होते?",
+    "answer": "अंग"
+  },
+  {
+    "question_number": 74,
+    "question_type": "one_word",
+    "question": "वैशाली हे कोणत्या महासंघाची राजधानी होती?",
+    "answer": "वृज्जी"
+  },
+  {
+    "question_number": 75,
+    "question_type": "one_word",
+    "question": "कुशीनगर ही कोणत्या महाजनपदाची राजधानी होती?",
+    "answer": "मल्ल"
+  },
+  {
+    "question_number": 76,
+    "question_type": "one_word",
+    "question": "वाराणसी हे शहर कोणत्या महाजनपदाचे केंद्र होते?",
+    "answer": "काशी"
+  },
+  {
+    "question_number": 77,
+    "question_type": "one_word",
+    "question": "इंद्रप्रस्थ ही कोणत्या महाजनपदाची राजधानी होती?",
+    "answer": "कुरु"
+  },
+  {
+    "question_number": 78,
+    "question_type": "one_word",
+    "question": "मथुरा ही कोणत्या महाजनपदाची राजधानी होती?",
+    "answer": "शूरसेन"
+  },
+  {
+    "question_number": 79,
+    "question_type": "one_word",
+    "question": "विराट नगर ही कोणत्या महाजनपदाची राजधानी होती?",
+    "answer": "मत्स्य"
+  },
+  {
+    "question_number": 80,
+    "question_type": "one_word",
+    "question": "तक्षशिला कोणत्या महाजनपदाची राजधानी होती?",
+    "answer": "गांधार"
+  },
+  {
+    "question_number": 81,
+    "question_type": "one_word",
+    "question": "महाराष्ट्रात कोणते महाजनपद होते?",
+    "answer": "अश्मक"
+  },
+  {
+    "question_number": 82,
+    "question_type": "one_word",
+    "question": "अश्मक महाजनपद कोणत्या नदीच्या खोऱ्यात होते?",
+    "answer": "गोदावरी"
+  },
+  {
+    "question_number": 83,
+    "question_type": "one_word",
+    "question": "महाजनपदांमध्ये कोणती राज्यपद्धती प्रामुख्याने होती?",
+    "answer": "राजेशाही"
+  },
+  {
+    "question_number": 84,
+    "question_type": "one_word",
+    "question": "बिंबिसाराच्या राजवैद्याचे नाव काय होते?",
+    "answer": "जीवक"
+  },
+  {
+    "question_number": 85,
+    "question_type": "one_word",
+    "question": "अजातशत्रूने कोणत्या नवीन शस्त्राचा वापर केला होता?",
+    "answer": "रथमूसळ / महाशिलाकंटक"
+  },
+  {
+    "question_number": 86,
+    "question_type": "one_word",
+    "question": "पाटलीपुत्र नंतर कोणत्या साम्राज्याची राजधानी बनले?",
+    "answer": "मौर्य"
+  },
+  {
+    "question_number": 87,
+    "question_type": "one_word",
+    "question": "नंद राजांनी कशाचे मोजमाप करण्याची पद्धत सुरू केली?",
+    "answer": "वजन-मापे"
+  },
+  {
+    "question_number": 88,
+    "question_type": "one_word",
+    "question": "कोणत्या राजाच्या काळात मगधचा विस्तार सर्वात जास्त झाला?",
+    "answer": "महापद्मनंद"
+  },
+  {
+    "question_number": 89,
+    "question_type": "one_word",
+    "question": "सिकंदराच्या आक्रमणावेळी मगधवर कोणाची सत्ता होती?",
+    "answer": "धनानंद"
+  },
+  {
+    "question_number": 90,
+    "question_type": "one_word",
+    "question": "ग्रीक इतिहासकारांनी कोणत्या भारतीय राजाचा उल्लेख 'अॅग्रामिस' असा केला आहे?",
+    "answer": "धनानंद"
+  },
+  {
+    "question_number": 91,
+    "question_type": "one_word",
+    "question": "जनपदे आणि महाजनपदे ही संकल्पना कोणत्या साहित्यातून समजते?",
+    "answer": "वैदिक व जैन-बौद्ध"
+  },
+  {
+    "question_number": 92,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्याने कोणत्या महाजनपदाला सर्वात आधी जिंकले?",
+    "answer": "अंग"
+  },
+  {
+    "question_number": 93,
+    "question_type": "one_word",
+    "question": "बिंबिसाराने कोणाशी वैवाहिक संबंध जोडून राज्य विस्तारले?",
+    "answer": "कौशल व वैशाली"
+  },
+  {
+    "question_number": 94,
+    "question_type": "one_word",
+    "question": "महाजनपदांमध्ये युद्धाचे मुख्य कारण काय असे?",
+    "answer": "प्रदेश विस्तार"
+  },
+  {
+    "question_number": 95,
+    "question_type": "one_word",
+    "question": "गौतम बुद्ध कोणत्या शहरात महापरिनिर्वाण पावले?",
+    "answer": "कुशीनगर"
+  },
+  {
+    "question_number": 96,
+    "question_type": "one_word",
+    "question": "जैन धर्माचे २४ वे तीर्थंकर वर्धमान महावीर कोणत्या गणराज्यातील होते?",
+    "answer": "वृज्जी"
+  },
+  {
+    "question_number": 97,
+    "question_type": "one_word",
+    "question": "प्राचीन काळी भारताचा वायव्य भाग कशासाठी प्रसिद्ध होता?",
+    "answer": "शिक्षणासाठी (तक्षशिला)"
+  },
+  {
+    "question_number": 98,
+    "question_type": "one_word",
+    "question": "पणीनी हे थोर व्याकरणकार कोणत्या महाजनपदाचे होते?",
+    "answer": "गांधार"
+  },
+  {
+    "question_number": 99,
+    "question_type": "one_word",
+    "question": "नंद साम्राज्याची राजधानी कोणती होती?",
+    "answer": "पाटलीपुत्र"
+  },
+  {
+    "question_number": 100,
+    "question_type": "one_word",
+    "question": "जनपदांच्या नाण्यांना काय म्हटले जाई?",
+    "answer": "आहत नाणी"
+  },
+  {
+    "question_number": 101,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्याचा शेवटचा राजा धनानंदला कोणी पदच्युत केले?",
+    "answer": "चंद्रगुप्त मौर्य"
+  },
+  {
+    "question_number": 102,
+    "question_type": "one_word",
+    "question": "राजगृह शहर कोणत्या डोंगररांगांनी वेढलेले होते?",
+    "answer": "पाच टेकड्यांनी"
+  },
+  {
+    "question_number": 103,
+    "question_type": "one_word",
+    "question": "बिंबिसाराने राजवाडा बांधण्यासाठी कोणाला बोलावले होते?",
+    "answer": "महागोविंद (वास्तुविशारद)"
+  },
+  {
+    "question_number": 104,
+    "question_type": "one_word",
+    "question": "कौशाम्बी हे शहर कोणत्या नदीकाठी वसलेले होते?",
+    "answer": "यमुना"
+  },
+  {
+    "question_number": 105,
+    "question_type": "one_word",
+    "question": "श्रावस्ती हे शहर सध्या कोणत्या राज्यात आहे?",
+    "answer": "उत्तर प्रदेश"
+  },
+  {
+    "question_number": 106,
+    "question_type": "one_word",
+    "question": "जनपद म्हणजे काय?",
+    "answer": "मानवी वसाहत"
+  },
+  {
+    "question_number": 107,
+    "question_type": "one_word",
+    "question": "प्राचीन भारतात नाणी पाडण्याची पद्धत कोणत्या काळात सुरू झाली?",
+    "answer": "जनपद काळात"
+  },
+  {
+    "question_number": 108,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्यात कोणते हत्ती दलाचा वापर प्रभावीपणे केला जाई?",
+    "answer": "हत्तीदल"
+  },
+  {
+    "question_number": 109,
+    "question_type": "one_word",
+    "question": "अजातशत्रूचे दुसरे नाव काय होते?",
+    "answer": "कुणिक"
+  },
+  {
+    "question_number": 110,
+    "question_type": "one_word",
+    "question": "जनपदांचा कारभार कोण पाहत असे?",
+    "answer": "राजा किंवा परिषद"
+  },
+  {
+    "question_number": 111,
+    "question_type": "one_word",
+    "question": "पाणिनीने कोणता ग्रंथ लिहिला?",
+    "answer": "अष्टाध्यायी"
+  },
+  {
+    "question_number": 112,
+    "question_type": "one_word",
+    "question": "वृज्जी हे किती कुळांचा महासंघ होता?",
+    "answer": "आठ"
+  },
+  {
+    "question_number": 113,
+    "question_type": "one_word",
+    "question": "मगधच्या उत्तरेला कोणती नदी होती?",
+    "answer": "गंगा"
+  },
+  {
+    "question_number": 114,
+    "question_type": "one_word",
+    "question": "मगधच्या पश्चिमेला कोणती नदी होती?",
+    "answer": "शोन"
+  },
+  {
+    "question_number": 115,
+    "question_type": "one_word",
+    "question": "अजातशत्रूने कोणाविरुद्ध मोठे युद्ध जिंकले?",
+    "answer": "वृज्जी महासंघ"
+  },
+  {
+    "question_number": 116,
+    "question_type": "one_word",
+    "question": "प्राचीन भारतात नाण्यांवर चिन्हे उमटवण्याला काय म्हणतात?",
+    "answer": "पंचिंग"
+  },
+  {
+    "question_number": 117,
+    "question_type": "one_word",
+    "question": "नंद घराण्याच्या राजांकडे किती सैन्य होते?",
+    "answer": "प्रचंड (चतुरंग)"
+  },
+  {
+    "question_number": 118,
+    "question_type": "one_word",
+    "question": "कौशल महाजनपदातील प्रसिद्ध राजा कोण?",
+    "answer": "प्रसेनजित"
+  },
+  {
+    "question_number": 119,
+    "question_type": "one_word",
+    "question": "वत्स महाजनपदातील प्रसिद्ध राजा कोण?",
+    "answer": "उदयन"
+  },
+  {
+    "question_number": 120,
+    "question_type": "one_word",
+    "question": "अवंती महाजनपदातील प्रसिद्ध राजा कोण?",
+    "answer": "प्रद्योत"
+  },
+  {
+    "question_number": 121,
+    "question_type": "one_word",
+    "question": "जनपद काळात शेती हा मुख्य व्यवसाय होता का?",
+    "answer": "हो"
+  },
+  {
+    "question_number": 122,
+    "question_type": "one_word",
+    "question": "मगध राज्याची भरभराट कशामुळे झाली?",
+    "answer": "सुपीक जमीन व लोखंडाच्या खाणी"
+  },
+  {
+    "question_number": 123,
+    "question_type": "one_word",
+    "question": "संथागार मध्ये निर्णय कसे घेतले जात?",
+    "answer": "बहुमताने"
+  },
+  {
+    "question_number": 124,
+    "question_type": "one_word",
+    "question": "अजातशत्रूने बौद्ध धर्म स्वीकारला होता का?",
+    "answer": "हो"
+  },
+  {
+    "question_number": 125,
+    "question_type": "one_word",
+    "question": "नंद राजांनी कर गोळा करण्यासाठी काय नेमले होते?",
+    "answer": "अधिकारी"
+  },
+  {
+    "question_number": 126,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्याचा विस्तार विंध्य पर्वताच्या दक्षिणेला झाला होता का?",
+    "answer": "हो"
+  },
+  {
+    "question_number": 127,
+    "question_type": "one_word",
+    "question": "प्राचीन काळी तक्षशिला हे कोणत्या व्यवसायाचे केंद्र होते?",
+    "answer": "शिक्षण आणि व्यापार"
+  },
+  {
+    "question_number": 128,
+    "question_type": "one_word",
+    "question": "बिंबिसाराने किती वर्षे राज्य केले?",
+    "answer": "५२ वर्षे"
+  },
+  {
+    "question_number": 129,
+    "question_type": "one_word",
+    "question": "अजातशत्रूने किती वर्षे राज्य केले?",
+    "answer": "३२ वर्षे"
+  },
+  {
+    "question_number": 130,
+    "question_type": "one_word",
+    "question": "पाटलीपुत्र आज कोणत्या नावाने ओळखले जाते?",
+    "answer": "पाटणा"
+  },
+  {
+    "question_number": 131,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्यातील लोक कोणत्या भाषेचा वापर करत?",
+    "answer": "मागधी (प्राकृत)"
+  },
+  {
+    "question_number": 132,
+    "question_type": "one_word",
+    "question": "जनपद काळात श्रेणी म्हणजे काय?",
+    "answer": "व्यापाऱ्यांची संघटना"
+  },
+  {
+    "question_number": 133,
+    "question_type": "one_word",
+    "question": "महाजनपदे प्रामुख्याने भारताच्या कोणत्या भागात होती?",
+    "answer": "उत्तर भारत"
+  },
+  {
+    "question_number": 134,
+    "question_type": "one_word",
+    "question": "कौशाम्बी कोणत्या दोन मार्गांचे केंद्र होते?",
+    "answer": "व्यापारी मार्ग"
+  },
+  {
+    "question_number": 135,
+    "question_type": "one_word",
+    "question": "अजातशत्रूने मगधची राजधानी कोठून कोठे हलवली?",
+    "answer": "राजगृह ते पाटलीपुत्र"
+  },
+  {
+    "question_number": 136,
+    "question_type": "one_word",
+    "question": "नंद घराण्याची सत्ता कोणी नष्ट केली?",
+    "answer": "चंद्रगुप्त मौर्य"
+  },
+  {
+    "question_number": 137,
+    "question_type": "one_word",
+    "question": "बिंबिसाराचा मृत्यू कसा झाला?",
+    "answer": "अजातशत्रूने कैदेत टाकले"
+  },
+  {
+    "question_number": 138,
+    "question_type": "one_word",
+    "question": "प्राचीन काळी कोणती महाजनपदे एकमेकांचे शत्रू होते?",
+    "answer": "मगध आणि अवंती"
+  },
+  {
+    "question_number": 139,
+    "question_type": "one_word",
+    "question": "जनपद काळात समाज जीवन कसे होते?",
+    "answer": "शिस्तबद्ध व ग्रामीण-नागरी मिश्रित"
+  },
+  {
+    "question_number": 140,
+    "question_type": "one_word",
+    "question": "महाजनपदांच्या काळात लोखंडाचा वापर वाढला होता का?",
+    "answer": "हो"
+  },
+  {
+    "question_number": 141,
+    "question_type": "one_word",
+    "question": "कुणी पाटलीपुत्रला 'पालिबोथ्रा' असे म्हटले आहे?",
+    "answer": "मेगास्थनीज"
+  },
+  {
+    "question_number": 142,
+    "question_type": "one_word",
+    "question": "अजातशत्रूने कोणती परिषद बोलावली होती?",
+    "answer": "पहिली बौद्ध धर्म परिषद"
+  },
+  {
+    "question_number": 143,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्याचा शेवटचा राजा धनानंद विलासी होता का?",
+    "answer": "हो"
+  },
+  {
+    "question_number": 144,
+    "question_type": "one_word",
+    "question": "बिंबिसाराने कोणत्या धर्माचा आदर केला होता?",
+    "answer": "बौद्ध आणि जैन"
+  },
+  {
+    "question_number": 145,
+    "question_type": "one_word",
+    "question": "जनपदांमध्ये कोणाला मत देण्याचा अधिकार असे?",
+    "answer": "ज्येष्ठ नागरिकांना / परिषद सदस्यांना"
+  },
+  {
+    "question_number": 146,
+    "question_type": "one_word",
+    "question": "महाजनपद काळात नाणी कशापासून बनवत?",
+    "answer": "चांदी आणि तांबे"
+  },
+  {
+    "question_number": 147,
+    "question_type": "one_word",
+    "question": "शूरसेन महाजनपद कोणत्या राजराजघराण्याशी संबंधित होते?",
+    "answer": "यादव"
+  },
+  {
+    "question_number": 148,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्यात जंगलातून कोणते प्राणी सैन्यासाठी मिळवले जात?",
+    "answer": "हत्ती"
+  },
+  {
+    "question_number": 149,
+    "question_type": "one_word",
+    "question": "मगध साम्राज्याला नैसर्गिक संरक्षण कशाचे होते?",
+    "answer": "पर्वत आणि नद्यांचे"
+  },
+  {
+    "question_number": 150,
+    "question_type": "one_word",
+    "question": "प्राचीन भारताचा सुवर्णकाळ कोणत्या साम्राज्यापासून सुरू झाला?",
+    "answer": "मौर्य साम्राज्य (मगधच्या विस्तारातून)"
+  }
+]
+}

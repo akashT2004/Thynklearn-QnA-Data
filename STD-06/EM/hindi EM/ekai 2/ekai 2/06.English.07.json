@@ -1,0 +1,792 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "6.हिंदी.07",
+    "class": "6",
+    "subject": "हिंदी",
+    "medium": "हिंदी",
+    "chapter_name": "करना है निर्माण",
+    "author": "गौकरन वर्मा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "बहुविकल्पीय",
+      "question": "कविता 'करना है निर्माण' के कवि कौन हैं?",
+      "options": [
+        { "option_id": 1, "text": "महात्मा गांधी", "is_correct": false },
+        { "option_id": 2, "text": "गौकरन वर्मा", "is_correct": true },
+        { "option_id": 3, "text": "साने गुरुजी", "is_correct": false },
+        { "option_id": 4, "text": "सुमित्रा नंदन पंत", "is_correct": false }
+      ],
+      "answer": "गौकरन वर्मा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि किसका निर्माण करने की बात कर रहे हैं?",
+      "options": [
+        { "option_id": 1, "text": "मकान का", "is_correct": false },
+        { "option_id": 2, "text": "नव भारत का", "is_correct": true },
+        { "option_id": 3, "text": "कारखाने का", "is_correct": false },
+        { "option_id": 4, "text": "सड़क का", "is_correct": false }
+      ],
+      "answer": "नव भारत का"
+    },
+    {
+      "question_id": 3,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि के अनुसार हमें जग में किसकी शान बढ़ानी है?",
+      "options": [
+        { "option_id": 1, "text": "स्वयं की", "is_correct": false },
+        { "option_id": 2, "text": "अपने देश की", "is_correct": true },
+        { "option_id": 3, "text": "अपने परिवार की", "is_correct": false },
+        { "option_id": 4, "text": "विदेशों की", "is_correct": false }
+      ],
+      "answer": "अपने देश की"
+    },
+    {
+      "question_id": 4,
+      "question_type": "बहुविकल्पीय",
+      "question": "खेतों में क्या लहराने की बात कही गई है?",
+      "options": [
+        { "option_id": 1, "text": "पानी", "is_correct": false },
+        { "option_id": 2, "text": "हरियाली", "is_correct": true },
+        { "option_id": 3, "text": "मिट्टी", "is_correct": false },
+        { "option_id": 4, "text": "धुआं", "is_correct": false }
+      ],
+      "answer": "हरियाली"
+    },
+    {
+      "question_id": 5,
+      "question_type": "बहुविकल्पीय",
+      "question": "डालियाँ किन चीजों से झूम रही हों?",
+      "options": [
+        { "option_id": 1, "text": "पत्तों से", "is_correct": false },
+        { "option_id": 2, "text": "फूल-फलों से", "is_correct": true },
+        { "option_id": 3, "text": "पक्षियों से", "is_correct": false },
+        { "option_id": 4, "text": "बर्फ से", "is_correct": false }
+      ],
+      "answer": "फूल-फलों से"
+    },
+    {
+      "question_id": 6,
+      "question_type": "बहुविकल्पीय",
+      "question": "नदी, नहर और बरखा के जल से क्या बरसेगा?",
+      "options": [
+        { "option_id": 1, "text": "सोना", "is_correct": false },
+        { "option_id": 2, "text": "धान", "is_correct": true },
+        { "option_id": 3, "text": "चांदी", "is_correct": false },
+        { "option_id": 4, "text": "सिक्के", "is_correct": false }
+      ],
+      "answer": "धान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "बहुविकल्पीय",
+      "question": "'सरवर' शब्द का सही अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "सागर", "is_correct": false },
+        { "option_id": 2, "text": "तालाब", "is_correct": true },
+        { "option_id": 3, "text": "नदी", "is_correct": false },
+        { "option_id": 4, "text": "आकाश", "is_correct": false }
+      ],
+      "answer": "तालाब"
+    },
+    {
+      "question_id": 8,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि ऊँचे शिखरों पर कहाँ फूल चढ़ाने की बात कर रहे हैं?",
+      "options": [
+        { "option_id": 1, "text": "नीलगिरी पे", "is_correct": false },
+        { "option_id": 2, "text": "हिमगिरि पे", "is_correct": true },
+        { "option_id": 3, "text": "विंध्याचल पे", "is_correct": false },
+        { "option_id": 4, "text": "अरावली पे", "is_correct": false }
+      ],
+      "answer": "हिमगिरि पे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "बहुविकल्पीय",
+      "question": "'रत्नाकर' शब्द किसके लिए प्रयुक्त हुआ है?",
+      "options": [
+        { "option_id": 1, "text": "पर्वत", "is_correct": false },
+        { "option_id": 2, "text": "समुद्र", "is_correct": true },
+        { "option_id": 3, "text": "आकाश", "is_correct": false },
+        { "option_id": 4, "text": "पाताल", "is_correct": false }
+      ],
+      "answer": "समुद्र"
+    },
+    {
+      "question_id": 10,
+      "question_type": "बहुविकल्पीय",
+      "question": "समुद्र के तल से हमें क्या खोजकर लाना है?",
+      "options": [
+        { "option_id": 1, "text": "मछलियाँ", "is_correct": false },
+        { "option_id": 2, "text": "रत्न", "is_correct": true },
+        { "option_id": 3, "text": "शंख", "is_correct": false },
+        { "option_id": 4, "text": "नमक", "is_correct": false }
+      ],
+      "answer": "रत्न"
+    },
+    {
+      "question_id": 11,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि किनके गान गाने की बात कर रहे हैं?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध के", "is_correct": false },
+        { "option_id": 2, "text": "कुंजों की मनहर सुंदरता के", "is_correct": true },
+        { "option_id": 3, "text": "अपनी प्रशंसा के", "is_correct": false },
+        { "option_id": 4, "text": "विदेशी कहानियों के", "is_correct": false }
+      ],
+      "answer": "कुंजों की मनहर सुंदरता के"
+    },
+    {
+      "question_id": 12,
+      "question_type": "बहुविकल्पीय",
+      "question": "हम सब आपस में क्या हैं?",
+      "options": [
+        { "option_id": 1, "text": "दुश्मन", "is_correct": false },
+        { "option_id": 2, "text": "भाई-भाई", "is_correct": true },
+        { "option_id": 3, "text": "अजनबी", "is_correct": false },
+        { "option_id": 4, "text": "प्रतिद्वंद्वी", "is_correct": false }
+      ],
+      "answer": "भाई-भाई"
+    },
+    {
+      "question_id": 13,
+      "question_type": "बहुविकल्पीय",
+      "question": "भारत की संतानों में क्या होना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "नफरत", "is_correct": false },
+        { "option_id": 2, "text": "सच्ची प्रेम भलाई", "is_correct": true },
+        { "option_id": 3, "text": "लालच", "is_correct": false },
+        { "option_id": 4, "text": "अहंकार", "is_correct": false }
+      ],
+      "answer": "सच्ची प्रेम भलाई"
+    },
+    {
+      "question_id": 14,
+      "question_type": "बहुविकल्पीय",
+      "question": "पत्थर में प्राण किससे प्रकटाने की बात की गई है?",
+      "options": [
+        { "option_id": 1, "text": "जादू से", "is_correct": false },
+        { "option_id": 2, "text": "सत्य-अहिंसा के प्रण से", "is_correct": true },
+        { "option_id": 3, "text": "मशीनों से", "is_correct": false },
+        { "option_id": 4, "text": "हथियारों से", "is_correct": false }
+      ],
+      "answer": "सत्य-अहिंसा के प्रण से"
+    },
+    {
+      "question_id": 15,
+      "question_type": "बहुविकल्पीय",
+      "question": "'हिमगिरि' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "बर्फीला पानी", "is_correct": false },
+        { "option_id": 2, "text": "हिमालय", "is_correct": true },
+        { "option_id": 3, "text": "ऊंचा घर", "is_correct": false },
+        { "option_id": 4, "text": "छोटा पर्वत", "is_correct": false }
+      ],
+      "answer": "हिमालय"
+    },
+    {
+      "question_id": 16,
+      "question_type": "बहुविकल्पीय",
+      "question": "'अतल' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "समतल", "is_correct": false },
+        { "option_id": 2, "text": "अथाह/बहुत गहरा", "is_correct": true },
+        { "option_id": 3, "text": "ऊंचा", "is_correct": false },
+        { "option_id": 4, "text": "ठोस", "is_correct": false }
+      ],
+      "answer": "अथाह/बहुत गहरा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "बहुविकल्पीय",
+      "question": "'नीर' शब्द का पर्यायवाची क्या है?",
+      "options": [
+        { "option_id": 1, "text": "दूध", "is_correct": false },
+        { "option_id": 2, "text": "पानी", "is_correct": true },
+        { "option_id": 3, "text": "शहद", "is_correct": false },
+        { "option_id": 4, "text": "अमृत", "is_correct": false }
+      ],
+      "answer": "पानी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "बहुविकल्पीय",
+      "question": "'मनहर' का समानार्थी शब्द क्या है?",
+      "options": [
+        { "option_id": 1, "text": "डरावना", "is_correct": false },
+        { "option_id": 2, "text": "मनोहर (सुंदर)", "is_correct": true },
+        { "option_id": 3, "text": "उदास", "is_correct": false },
+        { "option_id": 4, "text": "कठोर", "is_correct": false }
+      ],
+      "answer": "मनोहर (सुंदर)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि के अनुसार हमें आपस में क्या मिटाना चाहिए?",
+      "options": [
+        { "option_id": 1, "text": "प्रेम", "is_correct": false },
+        { "option_id": 2, "text": "भेदभाव", "is_correct": true },
+        { "option_id": 3, "text": "भाईचारा", "is_correct": false },
+        { "option_id": 4, "text": "एकता", "is_correct": false }
+      ],
+      "answer": "भेदभाव"
+    },
+    {
+      "question_id": 20,
+      "question_type": "बहुविकल्पीय",
+      "question": "कविता में किस देश की महिमा गाई गई है?",
+      "options": [
+        { "option_id": 1, "text": "अमेरिका", "is_correct": false },
+        { "option_id": 2, "text": "भारत", "is_correct": true },
+        { "option_id": 3, "text": "जापान", "is_correct": false },
+        { "option_id": 4, "text": "रूस", "is_correct": false }
+      ],
+      "answer": "भारत"
+    },
+    {
+      "question_id": 21,
+      "question_type": "बहुविकल्पीय",
+      "question": "'करना है' क्रिया का कौन सा काल है?",
+      "options": [
+        { "option_id": 1, "text": "भूतकाल", "is_correct": false },
+        { "option_id": 2, "text": "वर्तमान काल", "is_correct": true },
+        { "option_id": 3, "text": "भविष्य काल", "is_correct": false },
+        { "option_id": 4, "text": "पूर्ण भूतकाल", "is_correct": false }
+      ],
+      "answer": "वर्तमान काल"
+    },
+    {
+      "question_id": 22,
+      "question_type": "बहुविकल्पीय",
+      "question": "गौकरन वर्मा किस रूप में प्रसिद्ध हैं?",
+      "options": [
+        { "option_id": 1, "text": "कहानीकार", "is_correct": false },
+        { "option_id": 2, "text": "क्रांति गीत निर्माता", "is_correct": true },
+        { "option_id": 3, "text": "उपन्यासकार", "is_correct": false },
+        { "option_id": 4, "text": "चित्रकार", "is_correct": false }
+      ],
+      "answer": "क्रांति गीत निर्माता"
+    },
+    {
+      "question_id": 23,
+      "question_type": "बहुविकल्पीय",
+      "question": "'बढ़ानी होगी' क्रिया किस काल को दर्शाती है?",
+      "options": [
+        { "option_id": 1, "text": "वर्तमान", "is_correct": false },
+        { "option_id": 2, "text": "भविष्य", "is_correct": true },
+        { "option_id": 3, "text": "भूत", "is_correct": false },
+        { "option_id": 4, "text": "अपूर्ण वर्तमान", "is_correct": false }
+      ],
+      "answer": "भविष्य"
+    },
+    {
+      "question_id": 24,
+      "question_type": "बहुविकल्पीय",
+      "question": "कुंजों की सुंदरता कैसी है?",
+      "options": [
+        { "option_id": 1, "text": "भयानक", "is_correct": false },
+        { "option_id": 2, "text": "मनहर", "is_correct": true },
+        { "option_id": 3, "text": "अंधेरी", "is_correct": false },
+        { "option_id": 4, "text": "बदसूरत", "is_correct": false }
+      ],
+      "answer": "मनहर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "बहुविकल्पीय",
+      "question": "सत्य और अहिंसा क्या हैं?",
+      "options": [
+        { "option_id": 1, "text": "हथियार", "is_correct": false },
+        { "option_id": 2, "text": "प्रण (संकल्प)", "is_correct": true },
+        { "option_id": 3, "text": "खेल", "is_correct": false },
+        { "option_id": 4, "text": "भोजन", "is_correct": false }
+      ],
+      "answer": "प्रण (संकल्प)"
+    },
+    {
+      "question_id": 26,
+      "question_type": "बहुविकल्पीय",
+      "question": "'शिखर' का अर्थ क्या है?",
+      "options": [
+        { "option_id": 1, "text": "तल", "is_correct": false },
+        { "option_id": 2, "text": "चोटी", "is_correct": true },
+        { "option_id": 3, "text": "जड़", "is_correct": false },
+        { "option_id": 4, "text": "मैदान", "is_correct": false }
+      ],
+      "answer": "चोटी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि ने 'संतान' शब्द किसके लिए उपयोग किया है?",
+      "options": [
+        { "option_id": 1, "text": "केवल बच्चों के लिए", "is_correct": false },
+        { "option_id": 2, "text": "भारत के सभी नागरिकों के लिए", "is_correct": true },
+        { "option_id": 3, "text": "जानवरों के लिए", "is_correct": false },
+        { "option_id": 4, "text": "पेड़ों के लिए", "is_correct": false }
+      ],
+      "answer": "भारत के सभी नागरिकों के लिए"
+    },
+    {
+      "question_id": 28,
+      "question_type": "बहुविकल्पीय",
+      "question": "'रत्नों पाएँ' में रत्न कहाँ से मिलेंगे?",
+      "options": [
+        { "option_id": 1, "text": "पहाड़ से", "is_correct": false },
+        { "option_id": 2, "text": "रत्नाकर (समुद्र) से", "is_correct": true },
+        { "option_id": 3, "text": "आसमान से", "is_correct": false },
+        { "option_id": 4, "text": "बाजार से", "is_correct": false }
+      ],
+      "answer": "रत्नाकर (समुद्र) से"
+    },
+    {
+      "question_id": 29,
+      "question_type": "बहुविकल्पीय",
+      "question": "कविता में 'अतुल नीर' का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "कम पानी", "is_correct": false },
+        { "option_id": 2, "text": "अपार/अथाह पानी", "is_correct": true },
+        { "option_id": 3, "text": "गंदा पानी", "is_correct": false },
+        { "option_id": 4, "text": "मीठा पानी", "is_correct": false }
+      ],
+      "answer": "अपार/अथाह पानी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "बहुविकल्पीय",
+      "question": "स्वतंत्रता मेरा जन्मसिद्ध अधिकार है - यह किसका विचार है?",
+      "options": [
+        { "option_id": 1, "text": "गांधी जी", "is_correct": false },
+        { "option_id": 2, "text": "लोकमान्य तिलक", "is_correct": true },
+        { "option_id": 3, "text": "नेहरू जी", "is_correct": false },
+        { "option_id": 4, "text": "भगत सिंह", "is_correct": false }
+      ],
+      "answer": "लोकमान्य तिलक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "बहुविकल्पीय",
+      "question": "ऐतिहासिक इमारतों का संरक्षण करना हमारा क्या है?",
+      "options": [
+        { "option_id": 1, "text": "बोझ", "is_correct": false },
+        { "option_id": 2, "text": "कर्तव्य", "is_correct": true },
+        { "option_id": 3, "text": "शौक", "is_correct": false },
+        { "option_id": 4, "text": "व्यापार", "is_correct": false }
+      ],
+      "answer": "कर्तव्य"
+    },
+    {
+      "question_id": 32,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि ने भारत को क्या बनाने का संकल्प लिया है?",
+      "options": [
+        { "option_id": 1, "text": "पुराना भारत", "is_correct": false },
+        { "option_id": 2, "text": "नव भारत", "is_correct": true },
+        { "option_id": 3, "text": "गरीब भारत", "is_correct": false },
+        { "option_id": 4, "text": "छोटा भारत", "is_correct": false }
+      ],
+      "answer": "नव भारत"
+    },
+    {
+      "question_id": 33,
+      "question_type": "बहुविकल्पीय",
+      "question": "'डाली-डाली' में कौन सा अलंकार या शब्द प्रयोग है?",
+      "options": [
+        { "option_id": 1, "text": "विलोम", "is_correct": false },
+        { "option_id": 2, "text": "पुनरुक्ति", "is_correct": true },
+        { "option_id": 3, "text": "पर्यायवाची", "is_correct": false },
+        { "option_id": 4, "text": "विदेशी", "is_correct": false }
+      ],
+      "answer": "पुनरुक्ति"
+    },
+    {
+      "question_id": 34,
+      "question_type": "बहुविकल्पीय",
+      "question": "कवि के अनुसार शांति कैसे स्थापित हो सकती है?",
+      "options": [
+        { "option_id": 1, "text": "युद्ध से", "is_correct": false },
+        { "option_id": 2, "text": "आपसी प्रेम और सत्य-अहिंसा से", "is_correct": true },
+        { "option_id": 3, "text": "चुप रहकर", "is_correct": false },
+        { "option_id": 4, "text": "डर से", "is_correct": false }
+      ],
+      "answer": "आपसी प्रेम और सत्य-अहिंसा से"
+    },
+    {
+      "question_id": 35,
+      "question_type": "बहुविकल्पीय",
+      "question": "कविता में 'शान' शब्द का क्या अर्थ है?",
+      "options": [
+        { "option_id": 1, "text": "घमंड", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिष्ठा/गौरव", "is_correct": true },
+        { "option_id": 3, "text": "आराम", "is_correct": false },
+        { "option_id": 4, "text": "दिखावा", "is_correct": false }
+      ],
+      "answer": "प्रतिष्ठा/गौरव"
+    },
+    {
+      "question_id": 36,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता का मुख्य उद्देश्य क्या है?",
+      "answer": "कविता का मुख्य उद्देश्य नव भारत का निर्माण करना और देश की शान बढ़ाना है।"
+    },
+    {
+      "question_id": 37,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि नव भारत का निर्माण कैसे करना चाहता है?",
+      "answer": "कवि परिश्रम, एकता और गौरव बढ़ाकर नव भारत का निर्माण करना चाहता है।"
+    },
+    {
+      "question_id": 38,
+      "question_type": "लघु उत्तरीय",
+      "question": "खेतों की हरियाली से क्या तात्पर्य है?",
+      "answer": "खेतों की हरियाली से तात्पर्य देश की संपन्नता और खुशहाली से है।"
+    },
+    {
+      "question_id": 39,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने 'शान' शब्द का प्रयोग किसके लिए किया है?",
+      "answer": "कवि ने 'शान' शब्द का प्रयोग भारत देश के गौरव और मान-सम्मान के लिए किया है।"
+    },
+    {
+      "question_id": 40,
+      "question_type": "लघु उत्तरीय",
+      "question": "डालियाँ क्यों झूम रही हैं?",
+      "answer": "डालियाँ फूल और फलों के बोझ और सुंदरता के कारण झूम रही हैं।"
+    },
+    {
+      "question_id": 41,
+      "question_type": "लघु उत्तरीय",
+      "question": "नदी-नहरों के जल का क्या महत्व है?",
+      "answer": "नदी-नहरों के जल से खेतों की सिंचाई होती है जिससे भरपूर धान पैदा होता है।"
+    },
+    {
+      "question_id": 42,
+      "question_type": "लघु उत्तरीय",
+      "question": "हिमगिरि के शिखरों पर फूल चढ़ाने का क्या अर्थ है?",
+      "answer": "इसका अर्थ है हिमालय जैसी ऊँचाइयों को छूना और देश के गौरव के लिए सर्वस्व अर्पण करना।"
+    },
+    {
+      "question_id": 43,
+      "question_type": "लघु उत्तरीय",
+      "question": "रत्नाकर से रत्न खोजने का क्या तात्पर्य है?",
+      "answer": "इसका तात्पर्य है समुद्र की गहराइयों से संसाधनों और ज्ञान रूपी रत्नों को प्राप्त करना।"
+    },
+    {
+      "question_id": 44,
+      "question_type": "लघु उत्तरीय",
+      "question": "कुंजों की सुंदरता कैसी बताई गई है?",
+      "answer": "कुंजों की सुंदरता 'मनहर' यानी मन को हर लेने वाली और बहुत सुंदर बताई गई है।"
+    },
+    {
+      "question_id": 45,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने 'भाई-भाई' किसे कहा है?",
+      "answer": "कवि ने भारत के सभी नागरिकों को आपस में भाई-भाई कहा है।"
+    },
+    {
+      "question_id": 46,
+      "question_type": "लघु उत्तरीय",
+      "question": "आपसी भेदभाव मिटाने से क्या होगा?",
+      "answer": "आपसी भेदभाव मिटाने से एकता बढ़ेगी और देश का निर्माण तेजी से होगा।"
+    },
+    {
+      "question_id": 47,
+      "question_type": "लघु उत्तरीय",
+      "question": "सत्य और अहिंसा के प्रण का क्या महत्व है?",
+      "answer": "सत्य और अहिंसा के संकल्प से कठिन से कठिन कार्य (पत्थर में प्राण) संभव हो सकते हैं।"
+    },
+    {
+      "question_id": 48,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता में किन प्राकृतिक संसाधनों का वर्णन है?",
+      "answer": "कविता में हिमगिरि (पर्वत), रत्नाकर (समुद्र), नदी, नहर, सरवर और खेतों का वर्णन है।"
+    },
+    {
+      "question_id": 49,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि गौकरन वर्मा की प्रसिद्ध रचना कौन सी है?",
+      "answer": "कवि की प्रसिद्ध रचना 'उठो साथियो कदम मिलाकर' है।"
+    },
+    {
+      "question_id": 50,
+      "question_type": "लघु उत्तरीय",
+      "question": "'निर्माण' शब्द का अर्थ स्पष्ट करें.",
+      "answer": "निर्माण का अर्थ है किसी नई चीज को बनाना या रचना करना।"
+    },
+    {
+      "question_id": 51,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि जग में किसकी विजय गाथा गाना चाहता है?",
+      "answer": "कवि जग में भारत की सुंदरता और प्रगति की विजय गाथा गाना चाहता है।"
+    },
+    {
+      "question_id": 52,
+      "question_type": "लघु उत्तरीय",
+      "question": "धान बरसने का क्या संकेत है?",
+      "answer": "इसका संकेत है कि अच्छी वर्षा और सिंचाई से प्रचुर मात्रा में अन्न उत्पादन होगा।"
+    },
+    {
+      "question_id": 53,
+      "question_type": "लघु उत्तरीय",
+      "question": "अतुल नीर कहाँ पाया जाता है?",
+      "answer": "अतुल नीर रत्नाकर यानी समुद्र की गहराइयों में पाया जाता है।"
+    },
+    {
+      "question_id": 54,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने भारत की संतानों को क्या सलाह दी है?",
+      "answer": "कवि ने सभी को सच्ची प्रेम भलाई के साथ मिलकर रहने की सलाह दी है।"
+    },
+    {
+      "question_id": 55,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता में 'प्रण' शब्द का क्या अर्थ है?",
+      "answer": "प्रण का अर्थ है पक्का इरादा या प्रतिज्ञा करना।"
+    },
+    {
+      "question_id": 56,
+      "question_type": "लघु उत्तरीय",
+      "question": "पत्थर में प्राण प्रकटने का मुहावरेदार अर्थ क्या है?",
+      "answer": "इसका अर्थ है असंभव कार्य को संभव कर दिखाना।"
+    },
+    {
+      "question_id": 57,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि किसके गान गाना चाहता है?",
+      "answer": "कवि वन और कुंजों की मनोहर सुंदरता के गान गाना चाहता है।"
+    },
+    {
+      "question_id": 58,
+      "question_type": "लघु उत्तरीय",
+      "question": "भारत की विविधता क्या है?",
+      "answer": "भारत में अलग-अलग भाषा, धर्म और भौगोलिक विविधताएँ (पहाड़, समुद्र, नदियाँ) पाई जाती हैं।"
+    },
+    {
+      "question_id": 59,
+      "question_type": "लघु उत्तरीय",
+      "question": "'सरवर' और 'रत्नाकर' में क्या अंतर है?",
+      "answer": "सरवर का अर्थ तालाब होता है और रत्नाकर का अर्थ समुद्र होता है।"
+    },
+    {
+      "question_id": 60,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने नई पीढ़ी को क्या संदेश दिया है?",
+      "answer": "कवि ने नई पीढ़ी को देश के प्रति कर्तव्य निभाने और नव निर्माण करने का संदेश दिया है।"
+    },
+    {
+      "question_id": 61,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता की भाषा कैसी है?",
+      "answer": "कविता की भाषा सरल, ओजपूर्ण और प्रेरणादायक है।"
+    },
+    {
+      "question_id": 62,
+      "question_type": "लघु उत्तरीय",
+      "question": "क्या हिमालय की बर्फ पिघलनी बंद हो जाए तो क्या होगा?",
+      "answer": "यदि बर्फ पिघलनी बंद हो गई तो उत्तर भारत की नदियाँ सूख जाएँगी और खेती व जीवन संकट में पड़ जाएगा।"
+    },
+    {
+      "question_id": 63,
+      "question_type": "लघु उत्तरीय",
+      "question": "परमवीर चक्र प्राप्त सैनिकों की सूची क्यों बनानी चाहिए?",
+      "answer": "ताकि हम उनके बलिदान से प्रेरणा ले सकें और उनमें देशप्रेम की भावना जागृत हो।"
+    },
+    {
+      "question_id": 64,
+      "question_type": "लघु उत्तरीय",
+      "question": "ऐतिहासिक इमारतों का संरक्षण क्यों जरूरी है?",
+      "answer": "क्योंकि ये हमारी सांस्कृतिक विरासत और गौरवशाली इतिहास की प्रतीक हैं।"
+    },
+    {
+      "question_id": 65,
+      "question_type": "लघु उत्तरीय",
+      "question": "देशभक्ति पर आधारित कविता सुनने से क्या लाभ होता है?",
+      "answer": "इससे मन में देश के प्रति सम्मान और कुछ कर गुजरने का उत्साह बढ़ता है।"
+    },
+    {
+      "question_id": 66,
+      "question_type": "लघु उत्तरीय",
+      "question": "वैज्ञानिक आविष्कारों का देश निर्माण में क्या योगदान है?",
+      "answer": "वैज्ञानिक आविष्कारों से देश आधुनिक बनता है और लोगों का जीवन स्तर सुधरता है।"
+    },
+    {
+      "question_id": 67,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने एकता पर जोर क्यों दिया है?",
+      "answer": "क्योंकि बिना एकता के देश का विकास और सुरक्षा संभव नहीं है।"
+    },
+    {
+      "question_id": 68,
+      "question_type": "लघु उत्तरीय",
+      "question": "'अतल' का विलोम क्या होगा?",
+      "answer": "अतल का विलोम 'समतल' या 'उथला' हो सकता है।"
+    },
+    {
+      "question_id": 69,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि भारत को विश्व में कैसा स्थान दिलाना चाहता है?",
+      "answer": "कवि भारत को विश्व में सबसे ऊँचा और सम्मानित स्थान दिलाना चाहता है।"
+    },
+    {
+      "question_id": 70,
+      "question_type": "लघु उत्तरीय",
+      "question": "'शान बढ़ाना' मुहावरे का वाक्य प्रयोग करें.",
+      "answer": "भारतीय खिलाड़ियों ने ओलंपिक में स्वर्ण पदक जीतकर देश कीशान बढ़ाई।"
+    },
+    {
+      "question_id": 71,
+      "question_type": "लघु उत्तरीय",
+      "question": "फूल-फलों से लदी डालियाँ किसका प्रतीक हैं?",
+      "answer": "ये समृद्धि और खुशहाली का प्रतीक हैं।"
+    },
+    {
+      "question_id": 72,
+      "question_type": "लघु उत्तरीय",
+      "question": "सत्य-अहिंसा के मार्ग पर चलने से क्या लाभ है?",
+      "answer": "इस मार्ग पर चलने से बिना किसी हिंसा के समाज में शांति और बदलाव लाया जा सकता है।"
+    },
+    {
+      "question_id": 73,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता में 'कल' शब्द का प्रयोग किसके लिए हुआ है?",
+      "answer": "कविता के अभ्यास में 'कल' का प्रयोग समय (बीता हुआ या आने वाला) के संदर्भ में हुआ है।"
+    },
+    {
+      "question_id": 74,
+      "question_type": "लघु उत्तरीय",
+      "question": "कुंज का क्या अर्थ है?",
+      "answer": "कुंज का अर्थ पेड़ों और लताओं से घिरा हुआ सुंदर स्थान या बगीचा है।"
+    },
+    {
+      "question_id": 75,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि के अनुसार 'सच्ची प्रेम भलाई' क्या है?",
+      "answer": "निस्वार्थ भाव से दूसरों की मदद करना और सभी से प्रेम करना ही सच्ची भलाई है।"
+    },
+    {
+      "question_id": 76,
+      "question_type": "लघु उत्तरीय",
+      "question": "भारत की विशेषताएँ क्या हैं?",
+      "answer": "भारत अपनी गंगा-जमुनी तहजीब, हिमालय और समुद्र जैसी प्राकृतिक सुंदरता के लिए प्रसिद्ध है।"
+    },
+    {
+      "question_id": 77,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता में 'धरती' को क्या माना गया है?",
+      "answer": "धरती को अपनी माँ और कर्मभूमि माना गया है जिसे हरा-भरा बनाना है।"
+    },
+    {
+      "question_id": 78,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने 'कदम मिलाकर' चलने को क्यों कहा है?",
+      "answer": "ताकि सभी देशवासी एक साथ मिलकर लक्ष्य प्राप्त कर सकें।"
+    },
+    {
+      "question_id": 79,
+      "question_type": "लघु उत्तरीय",
+      "question": "रत्नाकर का संधि विच्छेद क्या होगा?",
+      "answer": "रत्न + आकर (रत्नों का खान)।"
+    },
+    {
+      "question_id": 80,
+      "question_type": "लघु उत्तरीय",
+      "question": "मनहर सुंदरता कहाँ बिखरी है?",
+      "answer": "मनहर सुंदरता भारत के वनों, कुंजों और घाटियों में बिखरी है।"
+    },
+    {
+      "question_id": 81,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता में आए किन्हीं दो तत्सम शब्दों को लिखें.",
+      "answer": "शिखर, रत्नाकर।"
+    },
+    {
+      "question_id": 82,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने 'धान' शब्द का प्रयोग क्यों किया है?",
+      "answer": "धान भारत की प्रमुख फसल है और यह कृषि प्रधान देश की संपन्नता को दर्शाता है।"
+    },
+    {
+      "question_id": 83,
+      "question_type": "लघु उत्तरीय",
+      "question": "अतुल नीर को खोजने का क्या अर्थ है?",
+      "answer": "इसका अर्थ है संसाधनों का सही उपयोग करना और नई खोजें करना।"
+    },
+    {
+      "question_id": 84,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने आपस के भेदों को मिटाने के लिए क्या कहा है?",
+      "answer": "कवि ने कहा कि हम सब एक ही भारत माँ की संतान हैं, इसलिए कोई भेद नहीं रहना चाहिए।"
+    },
+    {
+      "question_id": 85,
+      "question_type": "लघु उत्तरीय",
+      "question": "'पत्थर' शब्द यहाँ किसके लिए आया है?",
+      "answer": "पत्थर यहाँ जड़ता, आलस और कठिन बाधाओं के लिए आया है।"
+    },
+    {
+      "question_id": 86,
+      "question_type": "लघु उत्तरीय",
+      "question": "हिंसा का विलोम शब्द क्या है?",
+      "answer": "अहिंसा।"
+    },
+    {
+      "question_id": 87,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि की दृष्टि में 'नव भारत' कैसा होगा?",
+      "answer": "कवि की दृष्टि में नव भारत शिक्षित, संपन्न, एकताबद्ध और गौरवशाली होगा।"
+    },
+    {
+      "question_id": 88,
+      "question_type": "लघु उत्तरीय",
+      "question": "कविता में आए काल के उदाहरण दें.",
+      "answer": "करना है (वर्तमान), बढ़ानी होगी (भविष्य)।"
+    },
+    {
+      "question_id": 89,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने शिखरों पर फूल चढ़ाने की बात क्यों कही?",
+      "answer": "क्योंकि ऊँचे शिखर महान लक्ष्यों के प्रतीक हैं।"
+    },
+    {
+      "question_id": 90,
+      "question_type": "लघु उत्तरीय",
+      "question": "'सच्ची प्रेम भलाई' का समाज पर क्या असर पड़ता है?",
+      "answer": "इससे समाज में शांति, विश्वास और भाईचारा बढ़ता है।"
+    },
+    {
+      "question_id": 91,
+      "question_type": "लघु उत्तरीय",
+      "question": "कुंजों की सुंदरता का गान कौन गाएगा?",
+      "answer": "देशवासी और कवि स्वयं कुंजों की सुंदरता का गान गाएंगे।"
+    },
+    {
+      "question_id": 92,
+      "question_type": "लघु उत्तरीय",
+      "question": "क्या यह कविता देशभक्ति की श्रेणी में आती है?",
+      "answer": "हाँ, यह एक शुद्ध देशभक्ति और प्रेरणादायक कविता है।"
+    },
+    {
+      "question_id": 93,
+      "question_type": "लघु उत्तरीय",
+      "question": "कवि ने 'जग' शब्द का प्रयोग क्यों किया?",
+      "answer": "कवि भारत की ख्याति पूरी दुनिया (जग) में फैलाना चाहता है।"
+    },
+    {
+      "question_id": 94,
+      "question_type": "लघु उत्तरीय",
+      "question": "प्रस्तुत कविता से हमें क्या प्रेरणा मिलती है?",
+      "answer": "हमें अपने देश की प्रगति के लिए निरंतर प्रयास करने और मिलजुलकर रहने की प्रेरणा मिलती है।"
+    },
+    {
+      "question_id": 95,
+      "question_type": "लघु उत्तरीय",
+      "question": "अन्तिम पंक्तियों में कवि ने किस पर बल दिया है?",
+      "answer": "कवि ने सत्य, अहिंसा और एकता पर सबसे अधिक बल दिया है।"
+    }
+  ]
+}

@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.13",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "ध्वनी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ध्वनी कशामुळे निर्माण होतो?",
+      "options": [
+        { "option_id": 1, "text": "हालचालीमुळे", "is_correct": false },
+        { "option_id": 2, "text": "कंपनामुळे", "is_correct": true },
+        { "option_id": 3, "text": "घर्षणामुळे", "is_correct": false },
+        { "option_id": 4, "text": "उष्णतेमुळे", "is_correct": false }
+      ],
+      "answer": "कंपनामुळे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ध्वनीचे प्रसारण खालीलपैकी कशातून होत नाही?",
+      "options": [
+        { "option_id": 1, "text": "हवा", "is_correct": false },
+        { "option_id": 2, "text": "पाणी", "is_correct": false },
+        { "option_id": 3, "text": "निर्वात पोकळी", "is_correct": true },
+        { "option_id": 4, "text": "लोखंड", "is_correct": false }
+      ],
+      "answer": "निर्वात पोकळी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कानाला नकोशा वाटणाऱ्या आवाजाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "संगीत", "is_correct": false },
+        { "option_id": 2, "text": "गोंगाट", "is_correct": true },
+        { "option_id": 3, "text": "प्रतिध्वनी", "is_correct": false },
+        { "option_id": 4, "text": "नाद", "is_correct": false }
+      ],
+      "answer": "गोंगाट"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ध्वनीची तीव्रता मोजण्याचे एकक कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मीटर", "is_correct": false },
+        { "option_id": 2, "text": "डेसिबल", "is_correct": true },
+        { "option_id": 3, "text": "किलोग्रॅम", "is_correct": false },
+        { "option_id": 4, "text": "वॉट", "is_correct": false }
+      ],
+      "answer": "डेसिबल"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ध्वनीचे प्रसारण सर्वात वेगाने कशातून होते?",
+      "options": [
+        { "option_id": 1, "text": "वायू", "is_correct": false },
+        { "option_id": 2, "text": "द्रव", "is_correct": false },
+        { "option_id": 3, "text": "स्थायू", "is_correct": true },
+        { "option_id": 4, "text": "निर्वात", "is_correct": false }
+      ],
+      "answer": "स्थायू"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सततच्या मोठ्या आवाजामुळे काय होते?",
+      "options": [
+        { "option_id": 1, "text": "हवा प्रदूषण", "is_correct": false },
+        { "option_id": 2, "text": "जल प्रदूषण", "is_correct": false },
+        { "option_id": 3, "text": "ध्वनी प्रदूषण", "is_correct": true },
+        { "option_id": 4, "text": "मृदा प्रदूषण", "is_correct": false }
+      ],
+      "answer": "ध्वनी प्रदूषण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "मानवी स्वरयंत्रात काय असते ज्यामुळे आवाज निघतो?",
+      "options": [
+        { "option_id": 1, "text": "हाडे", "is_correct": false },
+        { "option_id": 2, "text": "ध्वनीतंतू (Vocal Cords)", "is_correct": true },
+        { "option_id": 3, "text": "रक्त", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "ध्वनीतंतू (Vocal Cords)"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण टाळण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "मोठ्याने गाणी लावणे", "is_correct": false },
+        { "option_id": 2, "text": "विनाकारण हॉर्न न वाजवणे", "is_correct": true },
+        { "option_id": 3, "text": "फटाके फोडणे", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्याने ओरडणे", "is_correct": false }
+      ],
+      "answer": "विनाकारण हॉर्न न वाजवणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कोणत्या ठिकाणी हॉर्न वाजवण्यास बंदी असते?",
+      "options": [
+        { "option_id": 1, "text": "बाजार", "is_correct": false },
+        { "option_id": 2, "text": "दवाखाना आणि शाळा", "is_correct": true },
+        { "option_id": 3, "text": "रेल्वे स्टेशन", "is_correct": false },
+        { "option_id": 4, "text": "बस स्टँड", "is_correct": false }
+      ],
+      "answer": "दवाखाना आणि शाळा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ध्वनी स्त्रोतापासून कानापर्यंत ध्वनी पोहोचण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "माध्यमाची", "is_correct": true },
+        { "option_id": 2, "text": "प्रकाशाची", "is_correct": false },
+        { "option_id": 3, "text": "विजेची", "is_correct": false },
+        { "option_id": 4, "text": "गरम हवेची", "is_correct": false }
+      ],
+      "answer": "माध्यमाची"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ध्वनीची निर्मिती होण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_id": 1, "text": "वस्तू स्थिर असण्याची", "is_correct": false },
+        { "option_id": 2, "text": "वस्तू कंपन पावण्याची", "is_correct": true },
+        { "option_id": 3, "text": "वस्तू गरम करण्याची", "is_correct": false },
+        { "option_id": 4, "text": "वस्तू पाण्यात बुडवण्याची", "is_correct": false }
+      ],
+      "answer": "वस्तू कंपन पावण्याची"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "विमानाचा आवाज साधारण किती डेसिबल असतो?",
+      "options": [
+        { "option_id": 1, "text": "१० dB", "is_correct": false },
+        { "option_id": 2, "text": "३० dB", "is_correct": false },
+        { "option_id": 3, "text": "१२० dB", "is_correct": true },
+        { "option_id": 4, "text": "५० dB", "is_correct": false }
+      ],
+      "answer": "१२० dB"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषणाचा मानवी आरोग्यावर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "भूक लागणे", "is_correct": false },
+        { "option_id": 2, "text": "चिडचिड होणे व ऐकू कमी येणे", "is_correct": true },
+        { "option_id": 3, "text": "दिसणे कमी होणे", "is_correct": false },
+        { "option_id": 4, "text": "उंची वाढणे", "is_correct": false }
+      ],
+      "answer": "चिडचिड होणे व ऐकू कमी येणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "तबल्यातून ध्वनी कसा निर्माण होतो?",
+      "options": [
+        { "option_id": 1, "text": "हवा फुंकून", "is_correct": false },
+        { "option_id": 2, "text": "तार ओढून", "is_correct": false },
+        { "option_id": 3, "text": "पडद्यावर आघात करून", "is_correct": true },
+        { "option_id": 4, "text": "तबला घासून", "is_correct": false }
+      ],
+      "answer": "पडद्यावर आघात करून"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाण्याखालील ध्वनी ऐकण्यासाठी काय वापरले जाते?",
+      "options": [
+        { "option_id": 1, "text": "टेलिफोन", "is_correct": false },
+        { "option_id": 2, "text": "हायड्रोफोन", "is_correct": true },
+        { "option_id": 3, "text": "मायक्रोफोन", "is_correct": false },
+        { "option_id": 4, "text": "स्पीकर", "is_correct": false }
+      ],
+      "answer": "हायड्रोफोन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "रिकाम्या खोलीत बोलल्यावर आवाज पुन्हा ऐकू येतो, याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परावर्तन", "is_correct": false },
+        { "option_id": 2, "text": "प्रतिध्वनी", "is_correct": true },
+        { "option_id": 3, "text": "अपवर्तन", "is_correct": false },
+        { "option_id": 4, "text": "गोंगाट", "is_correct": false }
+      ],
+      "answer": "प्रतिध्वनी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ज्या वस्तूतून ध्वनी निर्माण होतो तिला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ध्वनी स्त्रोत", "is_correct": true },
+        { "option_id": 2, "text": "ध्वनी माध्यम", "is_correct": false },
+        { "option_id": 3, "text": "ध्वनी ग्राहक", "is_correct": false },
+        { "option_id": 4, "text": "ध्वनी लहरी", "is_correct": false }
+      ],
+      "answer": "ध्वनी स्त्रोत"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "बासरी हे कोणत्या प्रकारचे वाद्य आहे?",
+      "options": [
+        { "option_id": 1, "text": "तंतुवाद्य", "is_correct": false },
+        { "option_id": 2, "text": "चर्मवाद्य", "is_correct": false },
+        { "option_id": 3, "text": "सुषिरवाद्य (हवेचे)", "is_correct": true },
+        { "option_id": 4, "text": "आघातवाद्य", "is_correct": false }
+      ],
+      "answer": "सुषिरवाद्य (हवेचे)"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गोंगाटामुळे कशावर वाईट परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "हृदय आणि रक्तदाब", "is_correct": true },
+        { "option_id": 2, "text": "केसांचा रंग", "is_correct": false },
+        { "option_id": 3, "text": "दातांचे आरोग्य", "is_correct": false },
+        { "option_id": 4, "text": "नखांची वाढ", "is_correct": false }
+      ],
+      "answer": "हृदय आणि रक्तदाब"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "वाफेच्या इंजिनाची शिटी किती तीव्र असते?",
+      "options": [
+        { "option_id": 1, "text": "६० dB", "is_correct": false },
+        { "option_id": 2, "text": "११० dB", "is_correct": true },
+        { "option_id": 3, "text": "२० dB", "is_correct": false },
+        { "option_id": 4, "text": "१० dB", "is_correct": false }
+      ],
+      "answer": "११० dB"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ध्वनी लहरी कशामार्फत प्रवास करतात?",
+      "options": [
+        { "option_id": 1, "text": "विजेच्या तारांमधून", "is_correct": false },
+        { "option_id": 2, "text": "हवा, पाणी आणि स्थायू पदार्थांतून", "is_correct": true },
+        { "option_id": 3, "text": "फक्त उजेडातून", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्या आरशातून", "is_correct": false }
+      ],
+      "answer": "हवा, पाणी आणि स्थायू पदार्थांतून"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आपण बोलताना कोणत्या अवयवाचा उपयोग करतो?",
+      "options": [
+        { "option_id": 1, "text": "पोट", "is_correct": false },
+        { "option_id": 2, "text": "घसा (स्वरयंत्र)", "is_correct": true },
+        { "option_id": 3, "text": "नाक", "is_correct": false },
+        { "option_id": 4, "text": "पाय", "is_correct": false }
+      ],
+      "answer": "घसा (स्वरयंत्र)"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण रोखण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "विमानतळ घरांजवळ बांधावे", "is_correct": false },
+        { "option_id": 2, "text": "झाडे लावावीत (ती आवाज शोषतात)", "is_correct": true },
+        { "option_id": 3, "text": "नेहमी ओरडून बोलावे", "is_correct": false },
+        { "option_id": 4, "text": "घरात टीव्ही मोठ्याने लावावा", "is_correct": false }
+      ],
+      "answer": "झाडे लावावीत (ती आवाज शोषतात)"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कुजबुजताना आवाजाची पातळी किती असते?",
+      "options": [
+        { "option_id": 1, "text": "२०-३० dB", "is_correct": true },
+        { "option_id": 2, "text": "८० dB", "is_correct": false },
+        { "option_id": 3, "text": "१०० dB", "is_correct": false },
+        { "option_id": 4, "text": "५ dB", "is_correct": false }
+      ],
+      "answer": "२०-३० dB"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पक्षांचा किलबिलाट ऐकायला कसा वाटतो?",
+      "options": [
+        { "option_id": 1, "text": "त्रासदायक", "is_correct": false },
+        { "option_id": 2, "text": "मधुर/आनंददायी", "is_correct": true },
+        { "option_id": 3, "text": "धडकी भरवणारा", "is_correct": false },
+        { "option_id": 4, "text": "कर्कश", "is_correct": false }
+      ],
+      "answer": "मधुर/आनंददायी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कशाच्या कंपनामुळे रबरबँडमधून आवाज येतो?",
+      "options": [
+        { "option_id": 1, "text": "ओढल्यामुळे", "is_correct": true },
+        { "option_id": 2, "text": "कापल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "पाण्यात टाकल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "स्थिर ठेवल्यामुळे", "is_correct": false }
+      ],
+      "answer": "ओढल्यामुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मोठ्या आवाजाच्या विमानांमुळे घरांच्या खिडक्यांना काय होऊ शकते?",
+      "options": [
+        { "option_id": 1, "text": "त्यांचे रंग उडू शकतात", "is_correct": false },
+        { "option_id": 2, "text": "काचांना तडे जाऊ शकतात", "is_correct": true },
+        { "option_id": 3, "text": "खिडक्या मोठ्या होतात", "is_correct": false },
+        { "option_id": 4, "text": "काहीच होत नाही", "is_correct": false }
+      ],
+      "answer": "काचांना तडे जाऊ शकतात"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ध्वनी निर्माण होण्यासाठी वस्तूचे काय थांबले पाहिजे?",
+      "options": [
+        { "option_id": 1, "text": "आवाज थांबवण्यासाठी कंपन थांबले पाहिजे", "is_correct": true },
+        { "option_id": 2, "text": "हवा थांबली पाहिजे", "is_correct": false },
+        { "option_id": 3, "text": "पाणी थांबले पाहिजे", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "आवाज थांबवण्यासाठी कंपन थांबले पाहिजे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "शाळेची घंटा वाजवल्यावर काय जाणवते?",
+      "options": [
+        { "option_id": 1, "text": "थंडावा", "is_correct": false },
+        { "option_id": 2, "text": "कंपन/थरथराट", "is_correct": true },
+        { "option_id": 3, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 4, "text": "वजन वाढणे", "is_correct": false }
+      ],
+      "answer": "कंपन/थरथराट"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ध्वनी प्रदूषण ही कोणती समस्या आहे?",
+      "options": [
+        { "option_id": 1, "text": "फक्त वैयक्तिक", "is_correct": false },
+        { "option_id": 2, "text": "सामाजिक", "is_correct": true },
+        { "option_id": 3, "text": "शैक्षणिक", "is_correct": false },
+        { "option_id": 4, "text": "आर्थिक", "is_correct": false }
+      ],
+      "answer": "सामाजिक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "ध्वनी म्हणजे काय?",
+      "answer": "वस्तूच्या कंपनामुळे निर्माण होणाऱ्या आवाजाला शास्त्रीय भाषेत ध्वनी म्हणतात."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "कंपन (Vibration) म्हणजे काय?",
+      "answer": "एखाद्या वस्तूची वेगाने होणारी मागे-पुढे हालचाल म्हणजे कंपन होय."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "ध्वनी स्त्रोत म्हणजे काय?",
+      "answer": "ज्या वस्तूंमुळे ध्वनी निर्माण होतो, त्यांना ध्वनी स्त्रोत म्हणतात."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "ध्वनीचे माध्यम म्हणजे काय?",
+      "answer": "ध्वनी ज्या पदार्थातून लहरींच्या स्वरूपात प्रवास करतो, त्याला ध्वनीचे माध्यम म्हणतात."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "ध्वनीचे प्रसारण म्हणजे काय?",
+      "answer": "ध्वनी स्त्रोतापासून ध्वनी लहरी सर्व दिशांना पसरण्याच्या क्रियेला ध्वनीचे प्रसारण म्हणतात."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "ध्वनी कोठून प्रवास करू शकत नाही?",
+      "answer": "ध्वनी निर्वात पोकळीतून (Vacuum) प्रवास करू शकत नाही."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "ध्वनी प्रदूषणाची व्याख्या लिहा.",
+      "answer": "सततच्या मोठ्या आणि नकोशा वाटणाऱ्या आवाजामुळे होणाऱ्या त्रासाला ध्वनी प्रदूषण म्हणतात."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "गोंगाट म्हणजे काय?",
+      "answer": "कानांना नकोशा वाटणाऱ्या, अनियमित आणि मोठ्या आवाजाला गोंगाट म्हणतात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "ध्वनीची तीव्रता कशामध्ये मोजतात?",
+      "answer": "ध्वनीची तीव्रता 'डेसिबल' (dB) या एककामध्ये मोजतात."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "मानवी स्वरयंत्रातील कोणत्या घटकामुळे आवाज निर्माण होतो?",
+      "answer": "मानवी स्वरयंत्रातील ध्वनीतूनतूंच्या (Vocal Cords) कंपनामुळे आवाज निर्माण होतो."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "ध्वनी प्रदूषणाचे दोन दुष्परिणाम सांगा.",
+      "answer": "ऐकण्याची क्षमता कमी होणे (बहिरेपणा) आणि मानसिक अस्वस्थता (चिडचिड)."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "ध्वनीचे प्रसारण कोणकोणत्या माध्यमांतून होते?",
+      "answer": "ध्वनीचे प्रसारण वायू (हवा), द्रव (पाणी) आणि स्थायू पदार्थांतून होते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "ध्वनीचे प्रसारण सर्वात हळू कशातून होते?",
+      "answer": "ध्वनीचे प्रसारण सर्वात हळू वायू (हवा) माध्यमातून होते."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "गोंगाट आणि संगीत यात काय फरक आहे?",
+      "answer": "संगीत ऐकायला मधुर वाटते, तर गोंगाट ऐकायला त्रासदायक वाटतो."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "ध्वनी प्रदूषण रोखण्यासाठी काय करावे?",
+      "answer": "वाहनांचे हॉर्न विनाकारण वाजवू नयेत आणि टीव्ही/रेडिओचा आवाज मर्यादित ठेवावा."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "झाडे लावल्याने ध्वनी प्रदूषण कसे कमी होते?",
+      "answer": "झाडे रस्त्यावरील वाहनांचा मोठा आवाज शोषून घेतात, त्यामुळे ध्वनी प्रदूषण कमी होते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "प्रतिध्वनी म्हणजे काय?",
+      "answer": "एखाद्या अडथळ्यावरून ध्वनी लहरी परावर्तित होऊन पुन्हा ऐकू येणाऱ्या आवाजाला प्रतिध्वनी म्हणतात."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "ध्वनी कसा थांबतो?",
+      "answer": "जेव्हा वस्तूचे कंपन थांबते, तेव्हा त्यातून निर्माण होणारा ध्वनीही थांबतो."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "पाण्यातील ध्वनी प्रसरणाचे एक उदाहरण द्या.",
+      "answer": "पाण्यात एकमेकांवर दोन दगड आपटले तर त्यांचा आवाज ऐकू येतो, हे पाण्याचे उदाहरण आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "स्थायू माध्यमातील ध्वनी प्रसरणाचे उदाहरण द्या.",
+      "answer": "लाकडी टेबलाच्या एका टोकावर कान लावून दुसऱ्या टोकावर टिचकी मारली तर आवाज स्पष्ट ऐकू येतो."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "कुजबुजताना आवाजाची पातळी किती असते?",
+      "answer": "कुजबुजताना आवाजाची पातळी साधारण २० ते ३० डेसिबल असते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "विमानाचा आवाज किती तीव्र असतो?",
+      "answer": "विमानाचा आवाज साधारण १२० डेसिबल इतका तीव्र असतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "डेसिबल म्हणजे काय?",
+      "answer": "डेसिबल हे आवाजाची पातळी किंवा तीव्रता मोजण्याचे परिमाण आहे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "कोणत्या ठिकाणी 'हॉर्न' वाजवण्यास कायदेशीर बंदी असते?",
+      "answer": "शाळा, दवाखाने आणि शांतता क्षेत्र घोषित केलेल्या ठिकाणी हॉर्न वाजवण्यास बंदी असते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "ध्वनी प्रदूषणामुळे हृदयावर काय परिणाम होतो?",
+      "answer": "सततच्या गोंगाटामुळे हृदयाचे ठोके वाढतात आणि रक्तदाब (Blood Pressure) वाढू शकतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "आपण इतरांचे बोलणे कसे ऐकू शकतो?",
+      "answer": "हवेतील कंपने आपल्या कानापर्यंत पोहोचतात आणि कानाच्या पडद्याला कंपने मिळून आपण ऐकू शकतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "ध्वनी स्त्रोतांची दोन उदाहरणे द्या.",
+      "answer": "गाणारी व्यक्ती आणि वाजणारी शाळेची घंटा ही ध्वनी स्त्रोतांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "आवाजाची पातळी मोजणाऱ्या उपकरणाला काय म्हणतात?",
+      "answer": "आवाजाची पातळी मोजणाऱ्या उपकरणाला 'डेसिबल मीटर' किंवा 'साउंड लेव्हल मीटर' म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "मृदंग किंवा तबल्यातून आवाज कसा निघतो?",
+      "answer": "मृदंग किंवा तबल्याच्या ताणलेल्या कातड्याच्या पडद्यावर आघात केल्यावर तो कंपन पावतो आणि आवाज निघतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "तंतुवाद्यात आवाज कसा निर्माण होतो?",
+      "answer": "तंतुवाद्यात (उदा. सतार) ताणलेल्या तारा छेडल्यामुळे होणाऱ्या कंपनांतून आवाज निर्माण होतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "सतत गोंगाटात राहिल्याने कामावर काय परिणाम होतो?",
+      "answer": "गोंगाटामुळे एकाग्रता कमी होते आणि कामाची क्षमता घटते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "निर्वात पोकळी म्हणजे काय?",
+      "answer": "ज्या ठिकाणी हवा अजिबात नसते, अशा रिकाम्या जागेला निर्वात पोकळी म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "चंद्रावर आपण एकमेकांचे बोलणे का ऐकू शकत नाही?",
+      "answer": "कारण चंद्रावर ध्वनी प्रसरणासाठी हवा किंवा कोणतेही माध्यम नसते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "पावसात कडाडणाऱ्या विजेचा आवाज कशाचे उदाहरण आहे?",
+      "answer": "विजेचा आवाज हा नैसर्गिक ध्वनीचे आणि मोठ्या तीव्रतेच्या ध्वनीचे उदाहरण आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "ध्वनी प्रदूषण ही एक सामाजिक समस्या का आहे?",
+      "answer": "कारण ध्वनी प्रदूषणामुळे केवळ एका व्यक्तीलाच नाही तर संपूर्ण समाजाच्या आरोग्यावर परिणाम होतो."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "ध्वनीचे गुणधर्म कशावर अवलंबून असतात?",
+      "answer": "ध्वनीचे गुणधर्म माध्यमाची घनता आणि कंपनांची गती यावर अवलंबून असतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "डेसिबल मीटरने काय मोजले जाते?",
+      "answer": "डेसिबल मीटरने आवाजाची तीव्रता किंवा डेसिबल मधील पातळी मोजली जाते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "फटाक्यांचा आवाज त्रासदायक का वाटतो?",
+      "answer": "कारण फटाक्यांच्या आवाजाची तीव्रता खूप जास्त (डेसिबल मध्ये) असते आणि तो अनपेक्षित असतो."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "काचेच्या पेल्यावर चमचा मारल्यास काय होते?",
+      "answer": "पेल्याची काच कंपन पावते आणि त्यातून ध्वनी निर्माण होतो."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "ध्वनी लहरी कशा तयार होतात?",
+      "answer": "वस्तू कंपन पावली की आसपासच्या माध्यमातील (उदा. हवा) कण हलतात आणि लहरी तयार होतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "रेडिओचा आवाज वाढवल्यावर काय होते?",
+      "answer": "ध्वनीची तीव्रता वाढते आणि लहरींची ताकद वाढते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "साऊंड सिस्टीम लावताना कोणती काळजी घ्यावी?",
+      "answer": "आवाज घराच्या बाहेर जाणार नाही आणि इतरांना त्रास होणार नाही याची काळजी घ्यावी."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "पाण्यातील मासे आवाज ऐकू शकतात का?",
+      "answer": "हो, पाणी हे ध्वनीचे माध्यम असल्याने मासे ध्वनी लहरी संवेदनांद्वारे अनुभवू शकतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "शाळांच्या भिंती कशा असाव्यात जेणेकरून बाहेरील आवाज येणार नाही?",
+      "answer": "शाळांच्या भिंती ध्वनीशोषक (Sound-absorbing) साहित्याने बनवलेल्या किंवा जाड असाव्यात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "ध्वनी आणि प्रकाशात काय फरक आहे?",
+      "answer": "प्रकाश निर्वात पोकळीतून प्रवास करू शकतो, पण ध्वनी करू शकत नाही."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "कानाला आनंद देणाऱ्या ध्वनीला काय म्हणतात?",
+      "answer": "कानाला आनंद देणाऱ्या ध्वनीला 'श्राव्य' किंवा 'मधुर' ध्वनी म्हणतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "स्वरयंत्र कुठे असते?",
+      "answer": "स्वरयंत्र मानवी घशामध्ये श्वासनलिकेच्या वरच्या बाजूला असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "वाहनांचे सायलेन्सर बिघडले तर काय होईल?",
+      "answer": "वाहनातून खूप मोठा आणि कर्कश आवाज येईल, ज्यामुळे ध्वनी प्रदूषण होईल."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "ध्वनी प्रदूषण रोखण्यासाठी वैयक्तिक स्तरावर काय करता येईल?",
+      "answer": "मोठ्याने बोलणे टाळणे आणि सण-उत्सवात ध्वनीक्षेपकाचा वापर कमी करणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "ध्वनी माध्यमाशिवाय का ऐकू येत नाही?",
+      "answer": "कारण कंपने वाहून नेण्यासाठी कणांची आवश्यकता असते, जे माध्यमाशिवाय उपलब्ध नसतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "जास्त वेळ हेडफोन वापरल्याने काय होते?",
+      "answer": "जास्त वेळ हेडफोन वापरल्याने कानाच्या पडद्याला इजा होऊ शकते आणि ऐकण्याची क्षमता कमी होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "वाहत्या पाण्याचा आवाज कसा असतो?",
+      "answer": "वाहत्या पाण्याचा आवाज हा सौम्य आणि मनाला शांत करणारा (मधुर) असतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "डेसिबल मीटरचा उपयोग कुठे केला जातो?",
+      "answer": "कारखाने, रहिवासी क्षेत्रे आणि रस्ते येथील आवाजाची पातळी तपासण्यासाठी केला जातो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "ध्वनी प्रदूषणाचे मानसिक परिणाम कोणते?",
+      "answer": "चिंता, तणाव आणि झोप न येणे (अतिनिद्रा) हे मानसिक परिणाम होतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "प्रसारणाचे सर्वात वेगवान माध्यम कोणते?",
+      "answer": "प्रसारणाचे सर्वात वेगवान माध्यम स्थायू (उदा. लोखंड, लाकूड) हे आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "विमानतळ शहराबाहेर का असावेत?",
+      "answer": "कारण विमानांच्या आवाजाची तीव्रता खूप जास्त असते, ज्यामुळे लोकवस्तीत ध्वनी प्रदूषण होईल."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "ध्वनी लहरींची दिशा कोणती असते?",
+      "answer": "ध्वनी लहरी स्त्रोतापासून सर्व दिशांना पसरतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "चित्रपटगृहात भिंतींवर कापडी पडदे का लावतात?",
+      "answer": "आवाज परावर्तित होऊन प्रतिध्वनी निर्माण होऊ नये आणि आवाज शोषला जावा यासाठी पडदे लावतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "ध्वनी म्हणजे उर्जेचे रूप आहे का?",
+      "answer": "हो, ध्वनी हे उर्जेचे एक रूप आहे जे कंपनांच्या स्वरूपात असते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "कोणता ध्वनी कानाला त्रासदायक ठरतो?",
+      "answer": "८० डेसिबलपेक्षा जास्त तीव्रतेचा ध्वनी कानाला त्रासदायक ठरतो."
+    }
+  ]
+}

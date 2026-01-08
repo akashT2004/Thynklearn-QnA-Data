@@ -1,0 +1,711 @@
+{
+  "chapter_info": {
+    "chapter_number": "१ (१२)",
+    "grade": "६",
+    "subject": "नागरिकशास्त्र",
+    "medium": "मराठी",
+    "chapter_name": "आपले समाजजीवन"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "माणसाने भटक्या अवस्थेकडून कोणत्या समाजजीवनाकडे वाटचाल केली आहे?",
+      "options": [
+        { "option_number": 1, "text": "अस्थिर", "is_correct": false },
+        { "option_number": 2, "text": "स्थिर", "is_correct": true },
+        { "option_number": 3, "text": "विभक्त", "is_correct": false },
+        { "option_number": 4, "text": "जंगलातील", "is_correct": false }
+      ],
+      "answer": "स्थिर"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "व्यक्तीच्या आणि समाजाच्या विकासासाठी काय आवश्यक आहे?",
+      "options": [
+        { "option_number": 1, "text": "भटके जीवन", "is_correct": false },
+        { "option_number": 2, "text": "स्थिर व सुरक्षित समूहजीवन", "is_correct": true },
+        { "option_number": 3, "text": "एकलकोंडे जगणे", "is_correct": false },
+        { "option_number": 4, "text": "केवळ पैसा", "is_correct": false }
+      ],
+      "answer": "स्थिर व सुरक्षित समूहजीवन"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजाच्या निर्मितीमागील मुख्य प्रेरणा कोणती आहे?",
+      "options": [
+        { "option_number": 1, "text": "सुरक्षितता मिळवणे", "is_correct": true },
+        { "option_number": 2, "text": "गोंधळ घालणे", "is_correct": false },
+        { "option_number": 3, "text": "एकटे राहणे", "is_correct": false },
+        { "option_number": 4, "text": "प्राणी पाळणे", "is_correct": false }
+      ],
+      "answer": "सुरक्षितता मिळवणे"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजातील दैनंदिन व्यवहार सुरळीत चालण्यासाठी माणसाला कशाची गरज वाटली?",
+      "options": [
+        { "option_number": 1, "text": "शस्त्रांची", "is_correct": false },
+        { "option_number": 2, "text": "नियमांची", "is_correct": true },
+        { "option_number": 3, "text": "केवळ अन्नाची", "is_correct": false },
+        { "option_number": 4, "text": "मोबाईलची", "is_correct": false }
+      ],
+      "answer": "नियमांची"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "माणूस स्वभावतः कसा आहे?",
+      "options": [
+        { "option_number": 1, "text": "समाजशील", "is_correct": true },
+        { "option_number": 2, "text": "एकलकोंडा", "is_correct": false },
+        { "option_number": 3, "text": "अशांत", "is_correct": false },
+        { "option_number": 4, "text": "विचारी नाही", "is_correct": false }
+      ],
+      "answer": "समाजशील"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "अन्न, वस्त्र आणि निवारा या माणसाच्या कोणत्या गरजा आहेत?",
+      "options": [
+        { "option_number": 1, "text": "भावनिक", "is_correct": false },
+        { "option_number": 2, "text": "मानसिक", "is_correct": false },
+        { "option_number": 3, "text": "शारीरिक (मूलभूत)", "is_correct": true },
+        { "option_number": 4, "text": "राजकीय", "is_correct": false }
+      ],
+      "answer": "शारीरिक"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "सुरक्षित वाटणे ही माणसाची कोणती गरज आहे?",
+      "options": [
+        { "option_number": 1, "text": "शारीरिक", "is_correct": false },
+        { "option_number": 2, "text": "भावनिक", "is_correct": true },
+        { "option_number": 3, "text": "आर्थिक", "is_correct": false },
+        { "option_number": 4, "text": "व्यावसायिक", "is_correct": false }
+      ],
+      "answer": "भावनिक"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "आपल्याला आनंद झाला की तो कोणाला सांगावासा वाटतो, यातून काय दिसते?",
+      "options": [
+        { "option_number": 1, "text": "स्वार्थीपणा", "is_correct": false },
+        { "option_number": 2, "text": "समाजशीलता", "is_correct": true },
+        { "option_number": 3, "text": "राग", "is_correct": false },
+        { "option_number": 4, "text": "भय", "is_correct": false }
+      ],
+      "answer": "समाजशीलता"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "आपल्या मूलभूत गरजांची पूर्तता कोठे होते?",
+      "options": [
+        { "option_number": 1, "text": "जंगलात", "is_correct": false },
+        { "option_number": 2, "text": "समाजात", "is_correct": true },
+        { "option_number": 3, "text": "एकटे असताना", "is_correct": false },
+        { "option_number": 4, "text": "केवळ स्वप्नात", "is_correct": false }
+      ],
+      "answer": "समाजात"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजातील व्यक्तींचे श्रम आणि कौशल्यांमुळे काय तयार होतात?",
+      "options": [
+        { "option_number": 1, "text": "वस्तू", "is_correct": true },
+        { "option_number": 2, "text": "केवळ भांडणे", "is_correct": false },
+        { "option_number": 3, "text": "नैसर्गिक आपत्ती", "is_correct": false },
+        { "option_number": 4, "text": "केवळ झाडे", "is_correct": false }
+      ],
+      "answer": "वस्तू"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "आपले society life कसे असते?",
+      "options": [
+        { "option_number": 1, "text": "स्वतंत्र", "is_correct": false },
+        { "option_number": 2, "text": "परस्परावलंबी", "is_correct": true },
+        { "option_number": 3, "text": "अलिप्त", "is_correct": false },
+        { "option_number": 4, "text": "विस्कळीत", "is_correct": false }
+      ],
+      "answer": "परस्परावलंबी"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "माणसातील सुप्त गुणांचा विकास कशामुळे होतो?",
+      "options": [
+        { "option_number": 1, "text": "एकटे राहिल्यामुळे", "is_correct": false },
+        { "option_number": 2, "text": "समाजामुळे", "is_correct": true },
+        { "option_number": 3, "text": "केवळ अन्नामुळे", "is_correct": false },
+        { "option_number": 4, "text": "भटकंतीमुळे", "is_correct": false }
+      ],
+      "answer": "समाजामुळे"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "परस्परांशी बोलण्यासाठी आपण कशाचा आधार घेतो?",
+      "options": [
+        { "option_number": 1, "text": "खुणांचा", "is_correct": false },
+        { "option_number": 2, "text": "भाषेचा", "is_correct": true },
+        { "option_number": 3, "text": "केवळ पाण्याचा", "is_correct": false },
+        { "option_number": 4, "text": "केवळ डोळ्यांचा", "is_correct": false }
+      ],
+      "answer": "भाषेचा"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "भावनिक क्षमता आणि विचारशक्ती कशामुळे वाढीस लागतात?",
+      "options": [
+        { "option_number": 1, "text": "समाजामुळे", "is_correct": true },
+        { "option_number": 2, "text": "झोपल्यामुळे", "is_correct": false },
+        { "option_number": 3, "text": "केवळ खेळामुळे", "is_correct": false },
+        { "option_number": 4, "text": "टीव्हीमुळे", "is_correct": false }
+      ],
+      "answer": "समाजामुळे"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "समाज म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "केवळ गर्दी", "is_correct": false },
+        { "option_number": 2, "text": "समान उद्दिष्टे साधण्यासाठी एकत्र आलेले लोक", "is_correct": true },
+        { "option_number": 3, "text": "माणसांची झुंड", "is_correct": false },
+        { "option_number": 4, "text": "केवळ कुटुंबातील लोक", "is_correct": false }
+      ],
+      "answer": "समान उद्दिष्टे साधण्यासाठी एकत्र आलेले लोक"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजाचे अस्तित्व टिकून राहण्यासाठी कशाची आवश्यकता आहे?",
+      "options": [
+        { "option_number": 1, "text": "गोंधळाची", "is_correct": false },
+        { "option_number": 2, "text": "कायमस्वरूपी व्यवस्थेची", "is_correct": true },
+        { "option_number": 3, "text": "केवळ शस्त्रांची", "is_correct": false },
+        { "option_number": 4, "text": "भटकंतीची", "is_correct": false }
+      ],
+      "answer": "कायमस्वरूपी व्यवस्थेची"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "अन्नाची गरज पुरवण्यासाठी काय करणे आवश्यक आहे?",
+      "options": [
+        { "option_number": 1, "text": "शेती", "is_correct": true },
+        { "option_number": 2, "text": "केवळ फिरणे", "is_correct": false },
+        { "option_number": 3, "text": "झोपणे", "is_correct": false },
+        { "option_number": 4, "text": "शिकार करणे (भटक्या अवस्थेप्रमाणे)", "is_correct": false }
+      ],
+      "answer": "शेती"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "शेतकऱ्यांना कर्ज देण्यासाठी कोणत्या संस्था निर्माण कराव्या लागतात?",
+      "options": [
+        { "option_number": 1, "text": "शाळा", "is_correct": false },
+        { "option_number": 2, "text": "बँका", "is_correct": true },
+        { "option_number": 3, "text": "विश्रामगृहे", "is_correct": false },
+        { "option_number": 4, "text": "चित्रपटगृहे", "is_correct": false }
+      ],
+      "answer": "बँका"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात सर्वजण कोणापुढे समान आहेत?",
+      "options": [
+        { "option_number": 1, "text": "केवळ श्रीमंतांपुढे", "is_correct": false },
+        { "option_number": 2, "text": "कायद्यापुढे", "is_correct": true },
+        { "option_number": 3, "text": "फक्त अधिकार्यांपुढे", "is_correct": false },
+        { "option_number": 4, "text": "बलवानांपुढे", "is_correct": false }
+      ],
+      "answer": "कायद्यापुढे"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "संविधानाने आपल्याला कशाची हमी दिली आहे?",
+      "options": [
+        { "option_number": 1, "text": "संधीच्या समानतेची", "is_correct": true },
+        { "option_number": 2, "text": "फक्त अन्नाची", "is_correct": false },
+        { "option_number": 3, "text": "घर देण्याची", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "संधीच्या समानतेची"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजामुळे आपल्याला आपले कोणते विचार मांडण्याची संधी मिळते?",
+      "options": [
+        { "option_number": 1, "text": "स्वतंत्र विचार", "is_correct": true },
+        { "option_number": 2, "text": "केवळ जुने विचार", "is_correct": false },
+        { "option_number": 3, "text": "चुकीचे विचार", "is_correct": false },
+        { "option_number": 4, "text": "कोणाचेही विचार नाही", "is_correct": false }
+      ],
+      "answer": "स्वतंत्र विचार"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "शिक्षणाने आपण आपली काय साधू शकतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ संपत्ती", "is_correct": false },
+        { "option_number": 2, "text": "प्रगती", "is_correct": true },
+        { "option_number": 3, "text": "राग", "is_correct": false },
+        { "option_number": 4, "text": "विनाश", "is_correct": false }
+      ],
+      "answer": "प्रगती"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात काय अस्तित्वात असल्यामुळे माणसाचे समाजजीवन संघटित झाले?",
+      "options": [
+        { "option_number": 1, "text": "नियम आणि कायदे", "is_correct": true },
+        { "option_number": 2, "text": "केवळ गोंधळ", "is_correct": false },
+        { "option_number": 3, "text": "फक्त झाडे", "is_correct": false },
+        { "option_number": 4, "text": "केवळ डोंगर", "is_correct": false }
+      ],
+      "answer": "नियम आणि कायदे"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "माणूस कोणाच्या सहवासात राहायला आवडते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ प्राण्यांच्या", "is_correct": false },
+        { "option_number": 2, "text": "माणसांत", "is_correct": true },
+        { "option_number": 3, "text": "फक्त रानात", "is_correct": false },
+        { "option_number": 4, "text": "पाण्यात", "is_correct": false }
+      ],
+      "answer": "माणसांत"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "आपल्या भावनिक गरजांपैकी एक कोणती आहे?",
+      "options": [
+        { "option_number": 1, "text": "भूक", "is_correct": false },
+        { "option_number": 2, "text": "सुरक्षित वाटणे", "is_correct": true },
+        { "option_number": 3, "text": "तहान", "is_correct": false },
+        { "option_number": 4, "text": "कपडे", "is_correct": false }
+      ],
+      "answer": "सुरक्षित वाटणे"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात वस्तू तयार होण्यासाठी कशाची गरज असते?",
+      "options": [
+        { "option_number": 1, "text": "श्रम आणि कौशल्य", "is_correct": true },
+        { "option_number": 2, "text": "केवळ झोप", "is_correct": false },
+        { "option_number": 3, "text": "गोंधळ", "is_correct": false },
+        { "option_number": 4, "text": "केवळ पैसा", "is_correct": false }
+      ],
+      "answer": "श्रम आणि कौशल्य"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "आपल्याला अभ्यासासाठी काय लागते?",
+      "options": [
+        { "option_number": 1, "text": "भोजन", "is_correct": false },
+        { "option_number": 2, "text": "पुस्तक", "is_correct": true },
+        { "option_number": 3, "text": "कपडे", "is_correct": false },
+        { "option_number": 4, "text": "बिछाना", "is_correct": false }
+      ],
+      "answer": "पुस्तक"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "प्रशंसा आणि आधार मिळवण्यासाठी आपण कोणावर अवलंबून असतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ स्वतःवर", "is_correct": false },
+        { "option_number": 2, "text": "एकमेकांवर", "is_correct": true },
+        { "option_number": 3, "text": "भिंतीवर", "is_correct": false },
+        { "option_number": 4, "text": "कोणावरही नाही", "is_correct": false }
+      ],
+      "answer": "एकमेकांवर"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "भाषेचा विकास कोठे होतो?",
+      "options": [
+        { "option_number": 1, "text": "एकांतात", "is_correct": false },
+        { "option_number": 2, "text": "समाजात", "is_correct": true },
+        { "option_number": 3, "text": "केवळ स्वप्नात", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "समाजात"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "शाळेत आपल्याला कोणत्या संधी मिळतात?",
+      "options": [
+        { "option_number": 1, "text": "केवळ झोपण्याची", "is_correct": false },
+        { "option_number": 2, "text": "निरनिराळ्या भाषा शिकण्याची", "is_correct": true },
+        { "option_number": 3, "text": "आरडाओरडा करण्याची", "is_correct": false },
+        { "option_number": 4, "text": "भांडण्याची", "is_correct": false }
+      ],
+      "answer": "निरनिराळ्या भाषा शिकण्याची"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या गोष्टीमुळे आपली विचारशक्ती वाढते?",
+      "options": [
+        { "option_number": 1, "text": "समाजसंपर्कामुळे", "is_correct": true },
+        { "option_number": 2, "text": "रागवण्यामुळे", "is_correct": false },
+        { "option_number": 3, "text": "विश्रांतीमुळे", "is_correct": false },
+        { "option_number": 4, "text": "केवळ जेवणामुळे", "is_correct": false }
+      ],
+      "answer": "समाजसंपर्कामुळे"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजाच्या प्रोत्साहनामुळे कोणाचा विकास होतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ राजाचा", "is_correct": false },
+        { "option_number": 2, "text": "कलाकारांचा आणि गुणवान व्यक्तींचा", "is_correct": true },
+        { "option_number": 3, "text": "केवळ शत्रूंचा", "is_correct": false },
+        { "option_number": 4, "text": "कोणाचाही नाही", "is_correct": false }
+      ],
+      "answer": "कलाकारांचा आणि गुणवान व्यक्तींचा"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात कोणाचा समावेश असतो?",
+      "options": [
+        { "option_number": 1, "text": "केवळ पुरुषांचा", "is_correct": false },
+        { "option_number": 2, "text": "सर्व स्त्री-पुरुष, बाल-वृद्ध", "is_correct": true },
+        { "option_number": 3, "text": "केवळ नेत्यांचा", "is_correct": false },
+        { "option_number": 4, "text": "केवळ सैनिकांचा", "is_correct": false }
+      ],
+      "answer": "सर्व स्त्री-पुरुष, बाल-वृद्ध"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "कुटुंब हा समाजाचा काय आहे?",
+      "options": [
+        { "option_number": 1, "text": "घटक", "is_correct": true },
+        { "option_number": 2, "text": "शत्रू", "is_correct": false },
+        { "option_number": 3, "text": "अडथळा", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "घटक"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात कशाचा समावेश होतो?",
+      "options": [
+        { "option_number": 1, "text": "संस्था आणि संघटना", "is_correct": true },
+        { "option_number": 2, "text": "केवळ रस्ते", "is_correct": false },
+        { "option_number": 3, "text": "केवळ इमारती", "is_correct": false },
+        { "option_number": 4, "text": "फक्त वाहने", "is_correct": false }
+      ],
+      "answer": "संस्था आणि संघटना"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "शेतीसाठी काय तयार करणारे कारखाने लागतात?",
+      "options": [
+        { "option_number": 1, "text": "खेळणी", "is_correct": false },
+        { "option_number": 2, "text": "अवजारे", "is_correct": true },
+        { "option_number": 3, "text": "दागिने", "is_correct": false },
+        { "option_number": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "अवजारे"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "माणसाला स्थैर्य कशामुळे मिळते?",
+      "options": [
+        { "option_number": 1, "text": "गरजा पूर्ण झाल्यामुळे", "is_correct": true },
+        { "option_number": 2, "text": "भटकंतीमुळे", "is_correct": false },
+        { "option_number": 3, "text": "एकटे राहिल्यामुळे", "is_correct": false },
+        { "option_number": 4, "text": "सतत चिंतेमुळे", "is_correct": false }
+      ],
+      "answer": "गरजा पूर्ण झाल्यामुळे"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "माणूस जन्मतः कसा असतो?",
+      "options": [
+        { "option_number": 1, "text": "सर्व समान", "is_correct": true },
+        { "option_number": 2, "text": "असमान", "is_correct": false },
+        { "option_number": 3, "text": "केवळ श्रीमंत", "is_correct": false },
+        { "option_number": 4, "text": "केवळ गरीब", "is_correct": false }
+      ],
+      "answer": "सर्व समान"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजातील व्यवहार कशामुळे स्थिर होतात?",
+      "options": [
+        { "option_number": 1, "text": "विविध व्यवस्थांमुळे", "is_correct": true },
+        { "option_number": 2, "text": "केवळ भांडणामुळे", "is_correct": false },
+        { "option_number": 3, "text": "गोंधळामुळे", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "विविध व्यवस्थांमुळे"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "आपल्याला दुःख झाले की काय वाटते?",
+      "options": [
+        { "option_number": 1, "text": "कोणीतरी सोबत असावे", "is_correct": true },
+        { "option_number": 2, "text": "एकटे असावे", "is_correct": false },
+        { "option_number": 3, "text": "गप्प बसावे", "is_correct": false },
+        { "option_number": 4, "text": "काहीच वाटत नाही", "is_correct": false }
+      ],
+      "answer": "कोणीतरी सोबत असावे"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजजीवनात कशाला महत्व आहे?",
+      "options": [
+        { "option_number": 1, "text": "परस्पर सहकार्याला", "is_correct": true },
+        { "option_number": 2, "text": "केवळ स्वतःला", "is_correct": false },
+        { "option_number": 3, "text": "रागवण्याला", "is_correct": false },
+        { "option_number": 4, "text": "भांडणांना", "is_correct": false }
+      ],
+      "answer": "परस्पर सहकार्याला"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात नियमांची गरज का भासली?",
+      "options": [
+        { "option_number": 1, "text": "दैनंदिन व्यवहार सुरळीत होण्यासाठी", "is_correct": true },
+        { "option_number": 2, "text": "लोकांना घाबरवण्यासाठी", "is_correct": false },
+        { "option_number": 3, "text": "फक्त मनोरंजनासाठी", "is_correct": false },
+        { "option_number": 4, "text": "काहीच नाही", "is_correct": false }
+      ],
+      "answer": "दैनंदिन व्यवहार सुरळीत होण्यासाठी"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "भाकरी तयार करण्यासाठी कोणाचे श्रम लागतात?",
+      "options": [
+        { "option_number": 1, "text": "शेतकरी आणि व्यापारी", "is_correct": true },
+        { "option_number": 2, "text": "केवळ विमानाचा पायलट", "is_correct": false },
+        { "option_number": 3, "text": "केवळ चित्रकार", "is_correct": false },
+        { "option_number": 4, "text": "कोणाचेच नाही", "is_correct": false }
+      ],
+      "answer": "शेतकरी आणि व्यापारी"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "आपल्या मनात अनेक प्रश्न येतात, त्यांची उत्तरे कोठे शोधतो?",
+      "options": [
+        { "option_number": 1, "text": "समाजात", "is_correct": true },
+        { "option_number": 2, "text": "फक्त भिंतीवर", "is_correct": false },
+        { "option_number": 3, "text": "केवळ एकटेपणात", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "समाजात"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजात सर्वांना कोणत्या सुविधा मिळाल्या पाहिजेत?",
+      "options": [
+        { "option_number": 1, "text": "शिक्षण आणि आरोग्य", "is_correct": true },
+        { "option_number": 2, "text": "केवळ मेजवानी", "is_correct": false },
+        { "option_number": 3, "text": "केवळ फिरणे", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "शिक्षण आणि आरोग्य"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "कुटुंबातील लोकांचा सहवास आपल्याला का आवडतो?",
+      "options": [
+        { "option_number": 1, "text": "सुरक्षित वाटते म्हणून", "is_correct": true },
+        { "option_number": 2, "text": "भीती वाटते म्हणून", "is_correct": false },
+        { "option_number": 3, "text": "राग येतो म्हणून", "is_correct": false },
+        { "option_number": 4, "text": "गोंधळ होतो म्हणून", "is_correct": false }
+      ],
+      "answer": "सुरक्षित वाटते म्हणून"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "समाजातील परस्पर व्यवहार म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "देवाणघेवाण", "is_correct": true },
+        { "option_number": 2, "text": "केवळ भांडणे", "is_correct": false },
+        { "option_number": 3, "text": "एकांताचा काळ", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "देवाणघेवाण"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "स्थिर समाजजीवनासाठी कशाची गरज असते?",
+      "options": [
+        { "option_number": 1, "text": "नियम आणि शिस्त", "is_correct": true },
+        { "option_number": 2, "text": "भटकंती", "is_correct": false },
+        { "option_number": 3, "text": "अराजकता", "is_correct": false },
+        { "option_number": 4, "text": "केवळ पैसा", "is_correct": false }
+      ],
+      "answer": "नियम आणि शिस्त"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "माणसाची प्रगती कोठून आकारास आली आहे?",
+      "options": [
+        { "option_number": 1, "text": "हजारो वर्षांच्या उत्क्रांतीतून", "is_correct": true },
+        { "option_number": 2, "text": "एका दिवसात", "is_correct": false },
+        { "option_number": 3, "text": "केवळ नशिबाने", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "हजारो वर्षांच्या उत्क्रांतीतून"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "समाज कोणाला संधी देतो?",
+      "options": [
+        { "option_number": 1, "text": "गुणांच्या विकासाची", "is_correct": true },
+        { "option_number": 2, "text": "फक्त श्रीमंत होण्याची", "is_correct": false },
+        { "option_number": 3, "text": "केवळ आरडाओरडा करण्याची", "is_correct": false },
+        { "option_number": 4, "text": "काहीही नाही", "is_correct": false }
+      ],
+      "answer": "गुणांच्या विकासाची"
+    },
+    { "question_number": 51, "question": "माणसाने भटक्या अवस्थेकडून कोणत्या समाजजीवनाकडे वाटचाल केली आहे?", "answer": "स्थिर" },
+    { "question_number": 52, "question": "व्यक्तीच्या आणि समाजाच्या विकासासाठी काय आवश्यक आहे?", "answer": "स्थिर व सुरक्षित समूहजीवन" },
+    { "question_number": 53, "question": "भटक्या अवस्थेतील माणसाला कशाची कमतरता होती?", "answer": "स्थैर्य व सुरक्षितता" },
+    { "question_number": 54, "question": "समाजाच्या निर्मितीमागील मुख्य प्रेरणा कोणती?", "answer": "सुरक्षितता मिळवणे" },
+    { "question_number": 55, "question": "समाजातील दैनंदिन व्यवहार सुरळीत चालण्यासाठी माणसाला कशाची गरज वाटली?", "answer": "नियमांची" },
+    { "question_number": 56, "question": "नियमांच्या गरजेतून कोणत्या गोष्टी विकसित झाल्या?", "answer": "रूढी, परंपरा आणि नीतीमूल्ये" },
+    { "question_number": 57, "question": "माणसाचे समाजजीवन कशामुळे अधिक संघटित व स्थिर झाले?", "answer": "नियम आणि कायदे" },
+    { "question_number": 58, "question": "माणूस स्वभावतः कसा आहे?", "answer": "समाजशील" },
+    { "question_number": 59, "question": "आपल्याला कोणाच्या सोबतीने राहायला आवडते?", "answer": "माणसांच्या" },
+    { "question_number": 60, "question": "सर्वांसमवेत राहणे ही माणसाची काय आहे?", "answer": "गरज आणि आनंद" },
+    { "question_number": 61, "question": "माणसाच्या शारीरिक गरजा कोणत्या आहेत?", "answer": "अन्न, वस्त्र आणि निवारा" },
+    { "question_number": 62, "question": "गरजा पूर्ण झाल्यावर माणसाला काय मिळते?", "answer": "स्थैर्य" },
+    { "question_number": 63, "question": "सुरक्षित वाटणे ही माणसाची कोणती गरज आहे?", "answer": "भावनिक" },
+    { "question_number": 64, "question": "आनंद झाला की तो कोणाला सांगावासा वाटतो?", "answer": "इतरांना (मित्र किंवा नातेवाईक)" },
+    { "question_number": 65, "question": "दुःख झाले की आपल्याला काय वाटते?", "answer": "कोणीतरी सोबत असावे" },
+    { "question_number": 66, "question": "आपल्याला कोणाचा सहवास आवडतो?", "answer": "कुटुंबातील लोक, नातेवाईक आणि मित्र" },
+    { "question_number": 67, "question": "आपल्या समाजशीलतेतून काय व्यक्त होते?", "answer": "माणसाची प्रवृत्ती" },
+    { "question_number": 68, "question": "अन्न, वस्त्र, निवारा यांशिवाय इतर कोणत्या मूलभूत गरजा आहेत?", "answer": "शिक्षण आणि आरोग्य" },
+    { "question_number": 69, "question": "समाजातील वस्तू कशामुळे तयार होतात?", "answer": "व्यक्तींचे श्रम आणि कौशल्ये" },
+    { "question_number": 70, "question": "आपण सन्मानाने कशामुळे जगू शकतो?", "answer": "सेवा-सुविधांमुळे" },
+    { "question_number": 71, "question": "आपल्याला अभ्यासासाठी काय लागते?", "answer": "पुस्तक" },
+    { "question_number": 72, "question": "पुस्तकासाठी कशाची गरज असते?", "answer": "कागद, छपाई आणि बांधणी" },
+    { "question_number": 73, "question": "समाजातील अनेक व्यवसायांमुळे कोणाचा विकास होतो?", "answer": "क्षमतेचा आणि कौशल्यांचा" },
+    { "question_number": 74, "question": "आपण सुरक्षितता आणि आधारासाठी कोणावर अवलंबून असतो?", "answer": "एकमेकांवर" },
+    { "question_number": 75, "question": "आपले समाजजीवन कसे असते?", "answer": "परस्परावलंबी" },
+    { "question_number": 76, "question": "माणसातील गुणांचा विकास कोठे होतो?", "answer": "समाजात" },
+    { "question_number": 77, "question": "परस्परांशी बोलण्यासाठी कशाचा आधार घ्यावा लागतो?", "answer": "भाषेचा" },
+    { "question_number": 78, "question": "आपल्याला भाषा उपजत (जन्मतः) येते का?", "answer": "नाही" },
+    { "question_number": 79, "question": "आपण सुरुवातीला कोणती भाषा शिकतो?", "answer": "घरातील (मायबोली)" },
+    { "question_number": 80, "question": "वेगवेगळ्या भाषा शिकण्याची संधी कोठे मिळते?", "answer": "शाळेत" },
+    { "question_number": 81, "question": "आपल्याजवळ कोणती क्षमता असते?", "answer": "स्वतंत्र विचार करण्याची" },
+    { "question_number": 82, "question": "दोन व्यक्तींचे निबंध सारखे का नसतात?", "answer": "कारण त्यांचे विचार वेगळे असतात" },
+    { "question_number": 83, "question": "विचारशक्ती कशामुळे वाढीस लागते?", "answer": "समाजसंपर्कामुळे" },
+    { "question_number": 84, "question": "भावना व्यक्त करण्याची संधी कोणामुळे मिळते?", "answer": "समाजामुळे" },
+    { "question_number": 85, "question": "कलागुणांच्या विकासासाठी समाजाकडून काय आवश्यक असते?", "answer": "प्रोत्साहन आणि पाठिंबा" },
+    { "question_number": 86, "question": "समाज म्हणजे काय?", "answer": "समान उद्दिष्टे साधण्यासाठी एकत्र आलेले लोक" },
+    { "question_number": 87, "question": "कुटुंब हा समाजाचा काय आहे?", "answer": "घटक" },
+    { "question_number": 88, "question": "समाजात कोणाचा समावेश होतो?", "answer": "स्त्री-पुरुष, बाल-वृद्ध, संस्था व संघटना" },
+    { "question_number": 89, "question": "केवळ लोकांची गर्दी म्हणजे समाज आहे का?", "answer": "नाही" },
+    { "question_number": 90, "question": "गरजा भागवण्यासाठी समाजाला काय निर्माण करावी लागते?", "answer": "कायमस्वरूपी व्यवस्था" },
+    { "question_number": 91, "question": "शेतीसाठी कोणकोणत्या व्यवस्थांची गरज असते?", "answer": "कारखाने, बँका आणि बाजारपेठा" },
+    { "question_number": 92, "question": "समाजाचे अस्तित्व टिकून राहण्यासाठी काय आवश्यक आहे?", "answer": "व्यवस्थेचे सातत्य" },
+    { "question_number": 93, "question": "माणूस म्हणून जन्मतः सर्वजण कसे असतात?", "answer": "समान" },
+    { "question_number": 94, "question": "भारतीय संविधानानुसार कायद्यापुढे कोण समान आहे?", "answer": "सर्व नागरिक" },
+    { "question_number": 95, "question": "संविधानाने आपल्याला कशाची हमी दिली आहे?", "answer": "संधीच्या समानतेची" },
+    { "question_number": 96, "question": "शिक्षणाने आपण आपली काय साधू शकतो?", "answer": "प्रगती" },
+    { "question_number": 97, "question": "समूहात राहिल्याने माणसाला कशाची जाणीव होते?", "answer": "सुरक्षिततेची" },
+    { "question_number": 98, "question": "माणसाची उत्क्रांती कोठून सुरू झाली?", "answer": "वानरसदृश पूर्वजांपासून (भटक्या अवस्थेतून)" },
+    { "question_number": 99, "question": "समाजातील व्यवहारांसाठी काय आवश्यक असते?", "answer": "नीतीमूल्ये" },
+    { "question_number": 100, "question": "आपल्या मानसिक गरजा पूर्ण कोठे होतात?", "answer": "समाजात" },
+    { "question_number": 101, "question": "कौतुक आणि प्रशंसा ही माणसाची कोणती गरज आहे?", "answer": "मानसिक/भावनिक" },
+    { "question_number": 102, "question": "व्यवसायांच्या विकासामुळे कशाला चालना मिळते?", "answer": "उद्योगांना" },
+    { "question_number": 103, "question": "श्रम विभागणी कशाचा भाग आहे?", "answer": "समाजव्यवस्थेचा" },
+    { "question_number": 104, "question": "भाषा हळूहळू शिकणे ही कोणती प्रक्रिया आहे?", "answer": "अध्ययन/शिकणे" },
+    { "question_number": 105, "question": "शेजारी राहणाऱ्या लोकांमुळे कशाची ओळख होते?", "answer": "वेगळ्या भाषेची" },
+    { "question_number": 106, "question": "स्वतंत्र विचार करणे हे कोणाचे वैशिष्ट्य आहे?", "answer": "व्यक्तीचे" },
+    { "question_number": 107, "question": "समाज कोणाला पाठिंबा देतो?", "answer": "गुणवान व्यक्तींना" },
+    { "question_number": 108, "question": "माणसांच्या झुंडीला समाज का म्हणत नाहीत?", "answer": "कारण त्यात समान हेतू नसतो" },
+    { "question_number": 109, "question": "बँका कशासाठी कर्ज देतात?", "answer": "शेती किंवा उद्योगासाठी" },
+    { "question_number": 110, "question": "बाजारपेठ कशासाठी असते?", "answer": "वस्तूंच्या विक्रीसाठी" },
+    { "question_number": 111, "question": "माणसाचे आजचे जीवन किती जुन्या उत्क्रांतीचा परिणाम आहे?", "answer": "हजारो वर्षांच्या" },
+    { "question_number": 112, "question": "स्थिर समाजजीवनामुळे काय वाढते?", "answer": "समूहाची ताकद" },
+    { "question_number": 113, "question": "भटक्या अवस्थेत स्थैर्य का नव्हते?", "answer": "कारण माणूस सतत फिरत असे" },
+    { "question_number": 114, "question": "रूढी आणि परंपरा कशासाठी महत्त्वाच्या आहेत?", "answer": "समाजनियमनासाठी" },
+    { "question_number": 115, "question": "माणूस जन्मतःच समाजशील असतो का?", "answer": "हो (स्वभावतः)" },
+    { "question_number": 116, "question": "सर्वांसमवेत राहणे ही आपली काय आहे?", "answer": "गरज" },
+    { "question_number": 117, "question": "अन्न आणि वस्त्र या कोणत्या गरजा आहेत?", "answer": "शारीरिक" },
+    { "question_number": 118, "question": "शिक्षणाशिवाय माणसाचा काय पूर्ण होत नाही?", "answer": "विकास" },
+    { "question_number": 119, "question": "आरोग्य सुविधा कशासाठी आवश्यक आहेत?", "answer": "शारीरिक क्षमतेसाठी" },
+    { "question_number": 120, "question": "कौशल्ये कशामुळे प्राप्त होतात?", "answer": "शिक्षणाने आणि सरावाने" },
+    { "question_number": 121, "question": "परस्परावलंबन म्हणजे काय?", "answer": "एकमेकांवर विसंबून असणे" },
+    { "question_number": 122, "question": "आपल्यात सुप्त गुण कोठे असतात?", "answer": "अंतर्मनात (सुप्त अवस्थेत)" },
+    { "question_number": 123, "question": "भाषेची गरज कशासाठी असते?", "answer": "संवादासाठी" },
+    { "question_number": 124, "question": "शाळेत कोणत्या विविध गोष्टींची संधी मिळते?", "answer": "ज्ञान मिळवण्याची" },
+    { "question_number": 125, "question": "निबंधातून काय व्यक्त होते?", "answer": "लेखकाचे विचार" },
+    { "question_number": 126, "question": "भावना व्यक्त करण्याची संधी कोठे मिळते?", "answer": "मित्र आणि समाजात" },
+    { "question_number": 127, "question": "समाजकार्य करणाऱ्याला कोणाची गरज असते?", "answer": "लोकसहभागाची" },
+    { "question_number": 128, "question": "समाजाचा भाग असणे हे कशाचे लक्षण आहे?", "answer": "मानवी जीवनाचे" },
+    { "question_number": 129, "question": "कुटुंब समाजाचा पाया आहे का?", "answer": "हो" },
+    { "question_number": 130, "question": "नियम आणि कायदे कोणासाठी असतात?", "answer": "नागरिकांसाठी" },
+    { "question_number": 131, "question": "समाजातील सलोखा कशामुळे टिकतो?", "answer": "नियमांमुळे" },
+    { "question_number": 132, "question": "स्थिर समाज कशावर उभा असतो?", "answer": "विविध व्यवस्थांवर" },
+    { "question_number": 133, "question": "शेतीची अवजारे कोठे बनतात?", "answer": "कारखान्यात" },
+    { "question_number": 134, "question": "बाजारपेठेशिवाय मालाची काय होऊ शकत नाही?", "answer": "विक्री" },
+    { "question_number": 135, "question": "समान संधी म्हणजे काय?", "answer": "सर्वांना प्रगतीची सारखी संधी" },
+    { "question_number": 136, "question": "संविधान म्हणजे काय?", "answer": "देशाचा मूलभूत कायदा" },
+    { "question_number": 137, "question": "आपल्या विकासात समाजाचा वाटा असतो का?", "answer": "हो, खूप मोठा" },
+    { "question_number": 138, "question": "सहकार्य म्हणजे काय?", "answer": "एकमेकांना मदत करणे" },
+    { "question_number": 139, "question": "एकलकोंडे राहणे माणसाला आवडते का?", "answer": "नाही" },
+    { "question_number": 140, "question": "माणूस समूहात का राहतो?", "answer": "सुरक्षिततेसाठी" },
+    { "question_number": 141, "question": "समाजव्यवस्थेची गरज का असते?", "answer": "व्यवहार सुरळीत चालवण्यासाठी" },
+    { "question_number": 142, "question": "प्रशंसा कोणामुळे मिळते?", "answer": "चांगल्या कामामुळे" },
+    { "question_number": 143, "question": "कौशल्य विकास कोठे होतो?", "answer": "शाळा आणि समाजात" },
+    { "question_number": 144, "question": "आपण भाषा कशी अवगत करतो?", "answer": "हळूहळू शिकून" },
+    { "question_number": 145, "question": "विचारांच्या देवाणघेवाणीतून काय होते?", "answer": "ज्ञानात भर पडते" },
+    { "question_number": 146, "question": "समाजातील विविधता काय वाढवते?", "answer": "समृद्धी" },
+    { "question_number": 147, "question": "माणूस आणि प्राणी यांच्यात कोणता मुख्य फरक आहे?", "answer": "विचारशक्ती आणि समाजशीलता" },
+    { "question_number": 148, "question": "स्थिरता कशामुळे येते?", "answer": "गरजांच्या पूर्ततेमुळे" },
+    { "question_number": 149, "question": "समाजाचे नियमन कोण करते?", "answer": "कायदे आणि संस्था" },
+    { "question_number": 150, "question": "माणसाचे समाजजीवन कशाने बांधले आहे?", "answer": "परस्परांच्या गरजांनी" }
+  ]
+}

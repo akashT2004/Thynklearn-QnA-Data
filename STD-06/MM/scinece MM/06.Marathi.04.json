@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.04",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "आपत्ती व्यवस्थापन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अचानक उद्भवणाऱ्या संकटामुळे राष्ट्राची किंवा समाजाची मोठ्या प्रमाणात जीवित, आर्थिक आणि सामाजिक हानी होते, अशा संकाना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उत्सव", "is_correct": false },
+        { "option_id": 2, "text": "आपत्ती", "is_correct": true },
+        { "option_id": 3, "text": "नियोजन", "is_correct": false },
+        { "option_id": 4, "text": "प्रसंग", "is_correct": false }
+      ],
+      "answer": "आपत्ती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "१९९३ मध्ये लातूर जिल्ह्यातील कोणत्या परिसरात तीव्र भूकंप झाला होता?",
+      "options": [
+        { "option_id": 1, "text": "किल्लारी", "is_correct": true },
+        { "option_id": 2, "text": "माळीण", "is_correct": false },
+        { "option_id": 3, "text": "आंबेगाव", "is_correct": false },
+        { "option_id": 4, "text": "लोणावळा", "is_correct": false }
+      ],
+      "answer": "किल्लारी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "जुलै २०१४ मध्ये पुणे जिल्ह्यातील माळीण गाव कोणत्या आपत्तीमुळे उद्ध्वस्त झाले?",
+      "options": [
+        { "option_id": 1, "text": "भूकंप", "is_correct": false },
+        { "option_id": 2, "text": "वादळ", "is_correct": false },
+        { "option_id": 3, "text": "दरड कोसळणे", "is_correct": true },
+        { "option_id": 4, "text": "महापूर", "is_correct": false }
+      ],
+      "answer": "दरड कोसळणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आपत्तीचे मुख्य दोन प्रकार कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मोठी व छोटी", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित व निसर्गनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "हवा व पाणी", "is_correct": false },
+        { "option_id": 4, "text": "शहरी व ग्रामीण", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित व निसर्गनिर्मित"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती आपत्ती निसर्गनिर्मित आहे?",
+      "options": [
+        { "option_id": 1, "text": "बॉम्बस्फोट", "is_correct": false },
+        { "option_id": 2, "text": "आग", "is_correct": false },
+        { "option_id": 3, "text": "भूकंप", "is_correct": true },
+        { "option_id": 4, "text": "अपघात", "is_correct": false }
+      ],
+      "answer": "भूकंप"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "युद्ध ही कोणत्या प्रकारची आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "निसर्गनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित", "is_correct": true },
+        { "option_id": 3, "text": "अवकाशीय", "is_correct": false },
+        { "option_id": 4, "text": "जलीय", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भूगर्भातील हालचालींमुळे प्रचंड प्रमाणात ऊर्जेचे उत्सर्जन होऊन काय घडते?",
+      "options": [
+        { "option_id": 1, "text": "पाऊस", "is_correct": false },
+        { "option_id": 2, "text": "भूकंप", "is_correct": true },
+        { "option_id": 3, "text": "उन्हाळा", "is_correct": false },
+        { "option_id": 4, "text": "वादळ", "is_correct": false }
+      ],
+      "answer": "भूकंप"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "मुसळधार पावसामुळे एकाच ठिकाणी मोठ्या प्रमाणात पाणी साचल्यास काय येते?",
+      "options": [
+        { "option_id": 1, "text": "दुष्काळ", "is_correct": false },
+        { "option_id": 2, "text": "भूकंप", "is_correct": false },
+        { "option_id": 3, "text": "महापूर", "is_correct": true },
+        { "option_id": 4, "text": "वणवा", "is_correct": false }
+      ],
+      "answer": "महापूर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हवेत निर्माण होणारे कमी-जास्त दाबाचे पट्टे आणि त्यामुळे होणाऱ्या बदलांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "वादळ", "is_correct": true },
+        { "option_id": 2, "text": "ढग", "is_correct": false },
+        { "option_id": 3, "text": "वीज", "is_correct": false },
+        { "option_id": 4, "text": "धुके", "is_correct": false }
+      ],
+      "answer": "वादळ"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "नैसर्गिकरीत्या किंवा मानवी हस्तक्षेपामुळे जंगलाला लागलेल्या आगीला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "धुमस", "is_correct": false },
+        { "option_id": 2, "text": "चुलीची आग", "is_correct": false },
+        { "option_id": 3, "text": "वणवा", "is_correct": true },
+        { "option_id": 4, "text": "अग्निशामक", "is_correct": false }
+      ],
+      "answer": "वणवा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आपत्तीला तोंड देण्यासाठी केलेली शास्त्रीय तयारी व क्षमता मिळवणे म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "आपत्ती व्यवस्थापन", "is_correct": true },
+        { "option_id": 2, "text": "दुर्घटना", "is_correct": false },
+        { "option_id": 3, "text": "सावधगिरी", "is_correct": false },
+        { "option_id": 4, "text": "प्रतिसाद", "is_correct": false }
+      ],
+      "answer": "आपत्ती व्यवस्थापन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पोलीस नियंत्रण कक्षाचा दूरध्वनी क्रमांक कोणता?",
+      "options": [
+        { "option_id": 1, "text": "१०१", "is_correct": false },
+        { "option_id": 2, "text": "१०२", "is_correct": false },
+        { "option_id": 3, "text": "१००", "is_correct": true },
+        { "option_id": 4, "text": "१०८", "is_correct": false }
+      ],
+      "answer": "१००"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अग्निशामक दलाचा दूरध्वनी क्रमांक कोणता?",
+      "options": [
+        { "option_id": 1, "text": "१००", "is_correct": false },
+        { "option_id": 2, "text": "१०१", "is_correct": true },
+        { "option_id": 3, "text": "१०२", "is_correct": false },
+        { "option_id": 4, "text": "१०९", "is_correct": false }
+      ],
+      "answer": "१०१"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "रुग्णवाहिकेसाठी कोणता क्रमांक डायल करावा?",
+      "options": [
+        { "option_id": 1, "text": "१०२", "is_correct": true },
+        { "option_id": 2, "text": "१०१", "is_correct": false },
+        { "option_id": 3, "text": "१००", "is_correct": false },
+        { "option_id": 4, "text": "१११", "is_correct": false }
+      ],
+      "answer": "१०२"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "देशपातळीवरील आपत्कालीन मदत क्रमांक (Single Emergency Number) कोणता आहे?",
+      "options": [
+        { "option_id": 1, "text": "१००", "is_correct": false },
+        { "option_id": 2, "text": "११२", "is_correct": true },
+        { "option_id": 3, "text": "५००", "is_correct": false },
+        { "option_id": 4, "text": "१०८", "is_correct": false }
+      ],
+      "answer": "११२"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भूकंप सुरू असताना काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "घरातच थांबावे", "is_correct": false },
+        { "option_id": 2, "text": "टेबलाखाली किंवा कोपऱ्यात जावे", "is_correct": true },
+        { "option_id": 3, "text": "लिफ्टचा वापर करावा", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्याने आरडाओरडा करावा", "is_correct": false }
+      ],
+      "answer": "टेबलाखाली किंवा कोपऱ्यात जावे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पूर आल्यावर कोठे आश्रय घ्यावा?",
+      "options": [
+        { "option_id": 1, "text": "नदीकाठी", "is_correct": false },
+        { "option_id": 2, "text": "पर्वताच्या पायथ्याशी", "is_correct": false },
+        { "option_id": 3, "text": "सुरक्षित व उंचावर", "is_correct": true },
+        { "option_id": 4, "text": "पुलाखाली", "is_correct": false }
+      ],
+      "answer": "सुरक्षित व उंचावर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "उष्माघात टाळण्यासाठी काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "भरपूर पाणी प्यावे", "is_correct": true },
+        { "option_id": 2, "text": "उन्हात खेळावे", "is_correct": false },
+        { "option_id": 3, "text": "गरम पाणी प्यावे", "is_correct": false },
+        { "option_id": 4, "text": "व्यायाम करावा", "is_correct": false }
+      ],
+      "answer": "भरपूर पाणी प्यावे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सर्पदंश झाल्यावर जखम कशाने धुवावी?",
+      "options": [
+        { "option_id": 1, "text": "तेलाने", "is_correct": false },
+        { "option_id": 2, "text": "पाण्याने आणि पोटॅशियम परमँगनेटने", "is_correct": true },
+        { "option_id": 3, "text": "गरम चहाने", "is_correct": false },
+        { "option_id": 4, "text": "मिट्टीच्या तेलाने", "is_correct": false }
+      ],
+      "answer": "पाण्याने आणि पोटॅशियम परमँगनेटने"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कुत्रा चावल्यावर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "जखमेवर हळद लावावी", "is_correct": false },
+        { "option_id": 2, "text": "जखम साबण व पाण्याने धुवावी", "is_correct": true },
+        { "option_id": 3, "text": "मलमपट्टी करून सोडून द्यावे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही करू नये", "is_correct": false }
+      ],
+      "answer": "जखम साबण व पाण्याने धुवावी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "संयुक्त राष्ट्रसंघाने कोणता दिवस 'आंतरराष्ट्रीय आपत्ती निवारण दिवस' म्हणून जाहीर केला आहे?",
+      "options": [
+        { "option_id": 1, "text": "१ जानेवारी", "is_correct": false },
+        { "option_id": 2, "text": "१३ ऑक्टोबर", "is_correct": true },
+        { "option_id": 3, "text": "१५ ऑगस्ट", "is_correct": false },
+        { "option_id": 4, "text": "२ ऑक्टोबर", "is_correct": false }
+      ],
+      "answer": "१३ ऑक्टोबर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन प्राधिकरणाची स्थापना कधी झाली?",
+      "options": [
+        { "option_id": 1, "text": "२००५", "is_correct": true },
+        { "option_id": 2, "text": "१९९०", "is_correct": false },
+        { "option_id": 3, "text": "२०१४", "is_correct": false },
+        { "option_id": 4, "text": "२०००", "is_correct": false }
+      ],
+      "answer": "२००५"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रक्तस्राव होत असल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "तो भाग दाबून धरावा", "is_correct": true },
+        { "option_id": 2, "text": "रक्त वाहू द्यावे", "is_correct": false },
+        { "option_id": 3, "text": "त्यावर पाणी टाकावे", "is_correct": false },
+        { "option_id": 4, "text": "मीठ लावावे", "is_correct": false }
+      ],
+      "answer": "तो भाग दाबून धरावा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भाजलेल्या भागावर थंड पाणी ओतल्यास काय होते?",
+      "options": [
+        { "option_id": 1, "text": "आणखी जळते", "is_correct": false },
+        { "option_id": 2, "text": "जळजळ कमी होते व आराम मिळतो", "is_correct": true },
+        { "option_id": 3, "text": "रक्त येते", "is_correct": false },
+        { "option_id": 4, "text": "काही होत नाही", "is_correct": false }
+      ],
+      "answer": "जळजळ कमी होते व आराम मिळतो"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आपत्तीमध्ये जखमी झालेल्या व्यक्तीला सर्वप्रथम काय दिले जाते?",
+      "options": [
+        { "option_id": 1, "text": "प्रथमोपचार", "is_correct": true },
+        { "option_id": 2, "text": "जेवण", "is_correct": false },
+        { "option_id": 3, "text": "बक्षीस", "is_correct": false },
+        { "option_id": 4, "text": "प्रमाणपत्र", "is_correct": false }
+      ],
+      "answer": "प्रथमोपचार"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता मानवनिर्मित आपत्तीचा घटक आहे?",
+      "options": [
+        { "option_id": 1, "text": "त्सुनामी", "is_correct": false },
+        { "option_id": 2, "text": "अतिवृष्टी", "is_correct": false },
+        { "option_id": 3, "text": "रस्ते अपघात", "is_correct": true },
+        { "option_id": 4, "text": "भूकंप", "is_correct": false }
+      ],
+      "answer": "रस्ते अपघात"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "जमिनीत भेगा पडणे ही कशाची खूण असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "भूकंप", "is_correct": true },
+        { "option_id": 2, "text": "पूर", "is_correct": false },
+        { "option_id": 3, "text": "वादळ", "is_correct": false },
+        { "option_id": 4, "text": "पाऊस", "is_correct": false }
+      ],
+      "answer": "भूकंप"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नदीला पूर आला असताना तुम्ही काय कराल?",
+      "options": [
+        { "option_id": 1, "text": "पोहयला जाल", "is_correct": false },
+        { "option_id": 2, "text": "नदीकाठी सेल्फी घ्याल", "is_correct": false },
+        { "option_id": 3, "text": "नदीपासून लांब जाल व इतरांना सावध कराल", "is_correct": true },
+        { "option_id": 4, "text": "पुलावर उभे राहाल", "is_correct": false }
+      ],
+      "answer": "नदीपासून लांब जाल व इतरांना सावध कराल"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वाहन चालवत असताना भूकंप आल्यास काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "वाहन जोरात चालवावे", "is_correct": false },
+        { "option_id": 2, "text": "वाहन सुरक्षित ठिकाणी उभे करून आतच बसावे", "is_correct": true },
+        { "option_id": 3, "text": "वाहन सोडून पळावे", "is_correct": false },
+        { "option_id": 4, "text": "पुलावर वाहन उभे करावे", "is_correct": false }
+      ],
+      "answer": "वाहन सुरक्षित ठिकाणी उभे करून आतच बसावे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते आपत्ती निवारणाचे साधन नाही?",
+      "options": [
+        { "option_id": 1, "text": "रेडिओ", "is_correct": false },
+        { "option_id": 2, "text": "लाईफ जॅकेट", "is_correct": false },
+        { "option_id": 3, "text": "फटाके", "is_correct": true },
+        { "option_id": 4, "text": "प्रथमोपचार पेटी", "is_correct": false }
+      ],
+      "answer": "फटाके"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "मोठ्या आगीवर नियंत्रण मिळवण्यासाठी कोणाला पाचारण केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "पोलिस", "is_correct": false },
+        { "option_id": 2, "text": "अग्निशामक दल", "is_correct": true },
+        { "option_id": 3, "text": "वाहतूक पोलिस", "is_correct": false },
+        { "option_id": 4, "text": "बँक अधिकारी", "is_correct": false }
+      ],
+      "answer": "अग्निशामक दल"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "वादळ येणार असल्याचे कशावरून समजते?",
+      "options": [
+        { "option_id": 1, "text": "हवामान खात्याच्या माहितीवरून", "is_correct": true },
+        { "option_id": 2, "text": "वर्तमानपत्रातील जाहिरातीवरून", "is_correct": false },
+        { "option_id": 3, "text": "मोबाईल गेमवरून", "is_correct": false },
+        { "option_id": 4, "text": "मित्रांच्या गप्पांतून", "is_correct": false }
+      ],
+      "answer": "हवामान खात्याच्या माहितीवरून"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "वणवा कशामुळे लागू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "विजेमुळे", "is_correct": false },
+        { "option_id": 2, "text": "मानवी बेजबाबदारपणामुळे", "is_correct": false },
+        { "option_id": 3, "text": "झाडांच्या घर्षणामुळे", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "पूर ओसरल्यानंतर काय काळजी घ्यावी?",
+      "options": [
+        { "option_id": 1, "text": "नदीचे पाणी तसेच प्यावे", "is_correct": false },
+        { "option_id": 2, "text": "स्वच्छता राखावी व पाणी उकळून प्यावे", "is_correct": true },
+        { "option_id": 3, "text": "पुन्हा नदीवर फिरायला जावे", "is_correct": false },
+        { "option_id": 4, "text": "काहीही करू नये", "is_correct": false }
+      ],
+      "answer": "स्वच्छता राखावी व पाणी उकळून प्यावे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "प्रथमोपचार पेटीत खालीलपैकी काय असावे?",
+      "options": [
+        { "option_id": 1, "text": "चॉकलेट", "is_correct": false },
+        { "option_id": 2, "text": "पट्टी, कापूस, जंतुनाशक मलम", "is_correct": true },
+        { "option_id": 3, "text": "पेन आणि पेन्सिल", "is_correct": false },
+        { "option_id": 4, "text": "खेळणी", "is_correct": false }
+      ],
+      "answer": "पट्टी, कापूस, जंतुनाशक मलम"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "उष्माघात झालेली व्यक्ती शुद्धीवर नसेल तर काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "त्याच्यावर पाणी टाकावे", "is_correct": false },
+        { "option_id": 2, "text": "त्याला त्वरित डॉक्टरकडे न्यावे", "is_correct": true },
+        { "option_id": 3, "text": "त्याला उन्हात ठेवावे", "is_correct": false },
+        { "option_id": 4, "text": "त्याला जेवण द्यावे", "is_correct": false }
+      ],
+      "answer": "त्याला त्वरित डॉक्टरकडे न्यावे"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "मोठ्या प्रमाणात भाजल्यास व्यक्तीला काय द्यावे?",
+      "options": [
+        { "option_id": 1, "text": "दूध", "is_correct": false },
+        { "option_id": 2, "text": "चहा", "is_correct": false },
+        { "option_id": 3, "text": "पाणी किंवा इलेक्ट्रॉल द्रावण", "is_correct": true },
+        { "option_id": 4, "text": "कॉफी", "is_correct": false }
+      ],
+      "answer": "पाणी किंवा इलेक्ट्रॉल द्रावण"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कुत्रा चावल्यावर कोणत्या रोगाची भीती असते?",
+      "options": [
+        { "option_id": 1, "text": "रेबीज", "is_correct": true },
+        { "option_id": 2, "text": "मलेरिया", "is_correct": false },
+        { "option_id": 3, "text": "कॅन्सर", "is_correct": false },
+        { "option_id": 4, "text": "टीबी", "is_correct": false }
+      ],
+      "answer": "रेबीज"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "त्सुनामी ही आपत्ती कोठे येते?",
+      "options": [
+        { "option_id": 1, "text": "वाळवंटात", "is_correct": false },
+        { "option_id": 2, "text": "समुद्रात", "is_correct": true },
+        { "option_id": 3, "text": "आकाशात", "is_correct": false },
+        { "option_id": 4, "text": "डोंगरावर", "is_correct": false }
+      ],
+      "answer": "समुद्रात"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "आपत्ती काळात अफवांवर विश्वास ठेवावा का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "इमारत कोसळणे ही कोणत्या प्रकारची आपत्ती आहे?",
+      "options": [
+        { "option_id": 1, "text": "निसर्गनिर्मित", "is_correct": false },
+        { "option_id": 2, "text": "मानवनिर्मित किंवा देखभालीचा अभाव", "is_correct": true },
+        { "option_id": 3, "text": "अवकाशीय", "is_correct": false },
+        { "option_id": 4, "text": "जलीय", "is_correct": false }
+      ],
+      "answer": "मानवनिर्मित किंवा देखभालीचा अभाव"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "आपत्कालीन संपर्क क्रमांक कोठे लिहून ठेवावेत?",
+      "options": [
+        { "option_id": 1, "text": "कपाटात लपवून", "is_correct": false },
+        { "option_id": 2, "text": "भिंतीवर किंवा सहज दिसतील अशा ठिकाणी", "is_correct": true },
+        { "option_id": 3, "text": "डस्टबिनमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "लिहिण्याची गरज नाही", "is_correct": false }
+      ],
+      "answer": "भिंतीवर किंवा सहज दिसतील अशा ठिकाणी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सर्पदंश झाल्यावर रुग्णाला काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "धीर द्यावा", "is_correct": true },
+        { "option_id": 2, "text": "घाबरवावे", "is_correct": false },
+        { "option_id": 3, "text": "धावायला लावावे", "is_correct": false },
+        { "option_id": 4, "text": "झोपवून ठेवावे", "is_correct": false }
+      ],
+      "answer": "धीर द्यावा"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मुसळधार पाऊस सुरू असताना काय करावे?",
+      "options": [
+        { "option_id": 1, "text": "डोंगरउतारावर थांबावे", "is_correct": false },
+        { "option_id": 2, "text": "घरी किंवा सुरक्षित जागी थांबावे", "is_correct": true },
+        { "option_id": 3, "text": "नदीवर फिरायला जावे", "is_correct": false },
+        { "option_id": 4, "text": "मोठ्या झाडाखाली उभे राहावे", "is_correct": false }
+      ],
+      "answer": "घरी किंवा सुरक्षित जागी थांबावे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "उष्माघात प्रामुख्याने कोणत्या ऋतूत होतो?",
+      "options": [
+        { "option_id": 1, "text": "पावसाळा", "is_correct": false },
+        { "option_id": 2, "text": "हिवाळा", "is_correct": false },
+        { "option_id": 3, "text": "उन्हाळा", "is_correct": true },
+        { "option_id": 4, "text": "वसंत ऋतू", "is_correct": false }
+      ],
+      "answer": "उन्हाळा"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "भूकंप रोखता येतो का?",
+      "options": [
+        { "option_id": 1, "text": "हो", "is_correct": false },
+        { "option_id": 2, "text": "नाही", "is_correct": true },
+        { "option_id": 3, "text": "कधी कधी", "is_correct": false },
+        { "option_id": 4, "text": "सांगता येत नाही", "is_correct": false }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "आपत्ती व्यवस्थापन कोणासाठी गरजेचे आहे?",
+      "options": [
+        { "option_id": 1, "text": "केवळ सरकारसाठी", "is_correct": false },
+        { "option_id": 2, "text": "प्रत्येक व्यक्तीसाठी", "is_correct": true },
+        { "option_id": 3, "text": "केवळ श्रीमंतांसाठी", "is_correct": false },
+        { "option_id": 4, "text": "केवळ खेळाडूंसाठी", "is_correct": false }
+      ],
+      "answer": "प्रत्येक व्यक्तीसाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "दुष्काळ कशामुळे पडतो?",
+      "options": [
+        { "option_id": 1, "text": "अतिवृष्टीमुळे", "is_correct": false },
+        { "option_id": 2, "text": "पाऊस न पडल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "जास्त बर्फ पडल्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "समुद्रामुळे", "is_correct": false }
+      ],
+      "answer": "पाऊस न पडल्यामुळे"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "आपत्तीमध्ये मदतीला धावून येणे हे काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "आपले कर्तव्य", "is_correct": true },
+        { "option_id": 2, "text": "एक खेळ", "is_correct": false },
+        { "option_id": 3, "text": "वेळेचा अपव्यय", "is_correct": false },
+        { "option_id": 4, "text": "अनिवार्य नाही", "is_correct": false }
+      ],
+      "answer": "आपले कर्तव्य"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "भूकंपानंतर येणाऱ्या मोठ्या लाटांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "भरती", "is_correct": false },
+        { "option_id": 2, "text": "ओहोटी", "is_correct": false },
+        { "option_id": 3, "text": "त्सुनामी", "is_correct": true },
+        { "option_id": 4, "text": "प्रवाह", "is_correct": false }
+      ],
+      "answer": "त्सुनामी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "आपत्ती म्हणजे काय?",
+      "answer": "अचानक उद्भवणाऱ्या संकटामुळे राष्ट्राची किंवा समाजाची मोठ्या प्रमाणात जीवित, आर्थिक आणि सामाजिक हानी होते, अशा संकटांना आपत्ती म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक आपत्तीची दोन उदाहरणे लिहा.",
+      "answer": "भूकंप आणि महापूर ही नैसर्गिक आपत्तीची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "मानवनिर्मित आपत्तीची दोन उदाहरणे द्या.",
+      "answer": "बॉम्बस्फोट आणि रस्ते अपघात ही मानवनिर्मित आपत्तीची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "भूकंप कशामुळे होतो?",
+      "answer": "भूगर्भातील हालचालींमुळे ऊर्जेचे उत्सर्जन होऊन जमीन हादरते, त्यालाच भूकंप म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "महापूर कशामुळे येतो?",
+      "answer": "मुसळधार पावसामुळे नदीचे पात्र ओसंडून वाहते, तेव्हा महापूर येतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "दुष्काळ म्हणजे काय?",
+      "answer": "एखाद्या प्रदेशात दीर्घकाळ पाऊस न पडल्यामुळे निर्माण होणाऱ्या अन्नावाचून आणि पाण्यावाचूनच्या परिस्थितीला दुष्काळ म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "वणवा म्हणजे काय?",
+      "answer": "जंगलात नैसर्गिक किंवा मानवी कारणांमुळे लागलेली अनिर्बंध आग म्हणजे वणवा होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "वादळ म्हणजे काय?",
+      "answer": "हवेतील कमी-जास्त दाबाच्या पट्ट्यांमुळे वेगाने वाहणाऱ्या वाऱ्यांना वादळ म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन का आवश्यक आहे?",
+      "answer": "आपत्तीमुळे होणारी हानी कमी करण्यासाठी आणि लोकांचे प्राण वाचवण्यासाठी आपत्ती व्यवस्थापन आवश्यक आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "भूकंप झाल्यास घरात कुठे आश्रय घ्यावा?",
+      "answer": "भूकंप झाल्यास बळकट टेबलाखाली किंवा कोपऱ्यात डोकं झाकून बसावे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "पूर आल्यास नदीकाठी थांबावे का?",
+      "answer": "नाही, पूर आला असताना नदीकाठी थांबणे धोक्याचे असते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "प्रथमोपचार म्हणजे काय?",
+      "answer": "अपघात किंवा आपत्तीनंतर रुग्णाला दवाखान्यात नेण्यापूर्वी तात्काळ दिलेला उपचार म्हणजे प्रथमोपचार होय."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "उष्माघात का होतो?",
+      "answer": "खूप वेळ कडक उन्हात काम केल्यामुळे शरीरातील पाण्याचे प्रमाण कमी झाल्याने उष्माघात होतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "सर्पदंश झाल्यावर काय करावे?",
+      "answer": "रुग्णाला धीर द्यावा, जखम स्वच्छ पाण्याने धुवावी आणि तात्काळ दवाखान्यात न्यावे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "कुत्रा चावल्यावर जखम कशाने धुवावी?",
+      "answer": "कुत्रा चावल्यावर जखम साबण आणि स्वच्छ पाण्याने धुवावी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "त्सुनामी म्हणजे काय?",
+      "answer": "समुद्राच्या तळाशी झालेल्या भूकंपामुळे निर्माण होणाऱ्या विनाशकारी लाटांना त्सुनामी म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन प्राधिकरण केव्हा स्थापन झाले?",
+      "answer": "भारत सरकारने २००५ मध्ये आपत्ती व्यवस्थापन प्राधिकरणाची स्थापना केली."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "निसर्गनिर्मित आपत्ती रोखता येतात का?",
+      "answer": "निसर्गनिर्मित आपत्ती पूर्णपणे रोखता येत नाहीत, पण त्यांचे परिणाम कमी करता येतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "आपत्तीच्या वेळी कोणाला मदत करावी?",
+      "answer": "आपत्तीच्या वेळी वृद्ध, मुले आणि जखमी व्यक्तींना प्राधान्याने मदत करावी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "वादळापासून वाचण्यासाठी काय करावे?",
+      "answer": "वादळाच्या वेळी सुरक्षित घरात थांबावे आणि खिडक्यांपासून लांब राहावे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "आग लागल्यास कोणत्या नंबरवर फोन करावा?",
+      "answer": "आग लागल्यास १०१ या क्रमांकावर फोन करावा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "रुग्णवाहिकेचा नंबर काय आहे?",
+      "answer": "रुग्णवाहिकेचा नंबर १०२ आहे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "पोलीस नियंत्रण कक्षाचा नंबर काय आहे?",
+      "answer": "पोलीस नियंत्रण कक्षाचा नंबर १०० आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "आपत्ती निवारण दिन कधी साजरा केला जातो?",
+      "answer": "१३ ऑक्टोबर हा दिवस आंतरराष्ट्रीय आपत्ती निवारण दिन म्हणून साजरा केला जातो."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "भूकंपाचे परिणाम सांगा.",
+      "answer": "भूकंपामुळे इमारती कोसळतात, जमिनीला भेगा पडतात आणि मोठ्या प्रमाणात जीवितहानी होते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "पुराचे धोके सांगा.",
+      "answer": "पुरामुळे पिके वाहून जातात, रोगराई पसरते आणि घरांचे नुकसान होते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "वणव्याचे दुष्परिणाम सांगा.",
+      "answer": "वणव्यामुळे जैवविविधतेचे नुकसान होते आणि मोठ्या प्रमाणात प्रदूषण होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "रक्तस्राव थांबवण्यासाठी काय करावे?",
+      "answer": "रक्तस्राव होत असल्यास ती जखम स्वच्छ कपड्याने दाबून धरावी आणि तो भाग उंचावर ठेवावा."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "किरकोळ भाजल्यास काय करावे?",
+      "answer": "भाजलेला भाग थंड पाण्याने धुवावा किंवा पाण्यात बुडवून ठेवावा."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "उष्माघात झालेल्या व्यक्तीला कसे ठेवावे?",
+      "answer": "उष्माघात झालेल्या व्यक्तीला सावलीत आणि थंड जागी झोपवावे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "सर्पदंश झाल्यावर जखम का बांधावी?",
+      "answer": "विष शरीरात पसरू नये म्हणून जखमेच्या थोड्या वरच्या बाजूला कापडाने घट्ट बांधावे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "आपत्तीत अफवा का पसरवू नयेत?",
+      "answer": "अफवांमुळे घबराट निर्माण होते आणि मदत कार्यात अडथळे येतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "मोठ्या आगीसाठी अग्निशामक दल काय वापरते?",
+      "answer": "अग्निशामक दल पाणी आणि फेस (Foam) यांचा वापर करते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "दुष्काळावर काय उपाय करता येईल?",
+      "answer": "पाण्याचा काटकसरीने वापर करणे आणि वृक्षारोपण करणे हे उपाय करता येतील."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "पूर ओसरल्यावर रोगराई का पसरते?",
+      "answer": "पुरामुळे साचलेले पाणी आणि अस्वच्छतेमुळे जंतूंचा प्रादुर्भाव वाढतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "वादळाच्या वेळी झाडाखाली का उभे राहू नये?",
+      "answer": "वादळात झाडे कोसळण्याची किंवा वीज पडण्याची शक्यता असते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "भूकंप रोखता येत नाही पण काय करता येते?",
+      "answer": "भूकंपरोधक इमारती बांधून हानी कमी करता येते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन कोणाचे काम आहे?",
+      "answer": "आपत्ती व्यवस्थापन हे सरकार आणि नागरिक या दोघांचे सामूहिक काम आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "मुसळधार पाऊस सुरू असताना काय टाळावे?",
+      "answer": "मुसळधार पावसात पुलावरून चालणे किंवा वाहने नेणे टाळावे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "प्रथमोपचार पेटी कोठे असावी?",
+      "answer": "प्रथमोपचार पेटी शाळा, घर आणि सार्वजनिक ठिकाणी सहज उपलब्ध असावी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "Short Answer",
+      "question": "उष्माघात झालेल्या व्यक्तीला पाणी द्यावे का?",
+      "answer": "हो, शुद्धीवर असल्यास थंड पाणी किंवा लिंबू सरबत द्यावे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "Short Answer",
+      "question": "साप चावल्यावर तांत्रिकाकडे जावे का?",
+      "answer": "नाही, साप चावल्यावर फक्त डॉक्टरकडेच जावे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "Short Answer",
+      "question": "कुत्रा चावल्यामुळे होणाऱ्या रेबीजवर काय उपाय आहे?",
+      "answer": "रेबीज प्रतिबंधक लस (Vaccine) घेणे हा एकमेव उपाय आहे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "Short Answer",
+      "question": "बॉम्बस्फोट ही कोणत्या प्रकारची आपत्ती आहे?",
+      "answer": "बॉम्बस्फोट ही मानवनिर्मित आपत्ती आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "Short Answer",
+      "question": "त्सुनामीमुळे काय नुकसान होते?",
+      "answer": "किनारपट्टीवरील घरांचे आणि बंदरांचे प्रचंड नुकसान होते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "Short Answer",
+      "question": "आपत्ती निवारणासाठी काय महत्त्वाचे आहे?",
+      "answer": "जागरूकता आणि तात्काळ प्रतिसाद हे आपत्ती निवारणासाठी महत्त्वाचे आहेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "Short Answer",
+      "question": "इमारतीत आग लागल्यास काय वापरावे?",
+      "answer": "इमारतीत आग लागल्यास अग्निशामक नळकांडे (Fire Extinguisher) वापरावे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "Short Answer",
+      "question": "भूकंपाची तीव्रता कशाने मोजतात?",
+      "answer": "भूकंपाची तीव्रता रिश्टर स्केलमध्ये मोजतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "Short Answer",
+      "question": "नैसर्गिक आपत्ती म्हणजे काय?",
+      "answer": "निसर्गातील बदलांमुळे अचानक येणारी संकटे म्हणजे नैसर्गिक आपत्ती होय."
+    },
+    {
+      "question_id": 100,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन कोठे शिकावे?",
+      "answer": "आपत्ती व्यवस्थापन शाळा, कॉलेज आणि विशेष प्रशिक्षण केंद्रांमध्ये शिकता येते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "Short Answer",
+      "question": "आपत्तीच्या वेळी मोबाईलचा वापर कसा करावा?",
+      "answer": "फक्त महत्त्वाच्या संदेशांसाठी आणि मदतीसाठीच मोबाईलचा वापर करावा."
+    },
+    {
+      "question_id": 102,
+      "question_type": "Short Answer",
+      "question": "दरड कोसळणे म्हणजे काय?",
+      "answer": "डोंगराचा मोठा भाग कोसळणे म्हणजे दरड कोसळणे होय."
+    },
+    {
+      "question_id": 103,
+      "question_type": "Short Answer",
+      "question": "पूर परिस्थितीमध्ये काय खावे?",
+      "answer": "पूर परिस्थितीत शक्यतो गरम आणि ताजे अन्न खावे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "Short Answer",
+      "question": "उन्हाळ्यात बाहेर जाताना काय काळजी घ्यावी?",
+      "answer": "डोक्यावर टोपी वापरावी आणि सोबत पाण्याची बाटली ठेवावी."
+    },
+    {
+      "question_id": 105,
+      "question_type": "Short Answer",
+      "question": "साप सर्वच विषारी असतात का?",
+      "answer": "नाही, बहुतांश साप बिनविषारी असतात, फक्त काही जाती विषारी असतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "Short Answer",
+      "question": "अपघाताच्या वेळी बघ्याची भूमिका घ्यावी का?",
+      "answer": "नाही, अपघाताच्या वेळी तात्काळ मदत करावी."
+    },
+    {
+      "question_id": 107,
+      "question_type": "Short Answer",
+      "question": "प्रथमोपचार करणाऱ्या व्यक्तीला काय म्हणतात?",
+      "answer": "प्रथमोपचार करणाऱ्या व्यक्तीला प्रथमोपचारक म्हणतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "Short Answer",
+      "question": "अतिवृष्टी म्हणजे काय?",
+      "answer": "खूप जास्त प्रमाणात पडणारा पाऊस म्हणजे अतिवृष्टी होय."
+    },
+    {
+      "question_id": 109,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापनाचे ब्रीदवाक्य काय असावे?",
+      "answer": "सावधानता आणि सुरक्षितता हे आपत्ती व्यवस्थापनाचे मुख्य सूत्र असावे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "Short Answer",
+      "question": "जखमेवर मलम का लावावे?",
+      "answer": "जखमेतून संसर्ग होऊ नये म्हणून जंतुनाशक मलम लावावे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "Short Answer",
+      "question": "आपत्ती काळात वीजपुरवठा का खंडित होतो?",
+      "answer": "वादळ किंवा पुरामुळे खांब कोसळल्याने किंवा शॉर्ट सर्किट टाळण्यासाठी वीजपुरवठा खंडित होतो."
+    },
+    {
+      "question_id": 112,
+      "question_type": "Short Answer",
+      "question": "भूकंपाचे केंद्र म्हणजे काय?",
+      "answer": "जमिनीखाली ज्या ठिकाणी भूकंपाची हालचाल सुरू होते, त्याला भूकंपाचे केंद्र म्हणतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "Short Answer",
+      "question": "हवामान खात्याचे काम काय आहे?",
+      "answer": "हवामानाचा अंदाज घेणे आणि नैसर्गिक आपत्तीची पूर्वसूचना देणे हे हवामान खात्याचे काम आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "Short Answer",
+      "question": "आग लागल्यावर लिफ्ट का वापरू नये?",
+      "answer": "आगीमुळे वीज खंडित होऊन लिफ्टमध्ये अडकण्याची शक्यता असते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "Short Answer",
+      "question": "आपत्तीच्या वेळी पाळीव प्राण्यांचे काय करावे?",
+      "answer": "पाळीव प्राण्यांना बांधून ठेवू नये, त्यांना मोकळे सोडावे जेणेकरून ते स्वतःचा जीव वाचवू शकतील."
+    },
+    {
+      "question_id": 116,
+      "question_type": "Short Answer",
+      "question": "पूर काळात पाणी गाळून का प्यावे?",
+      "answer": "पुराच्या पाण्यात माती आणि जंतू असल्याने ते गाळून व उकळून पिणे सुरक्षित असते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "Short Answer",
+      "question": "वणवा विझवण्यासाठी काय करतात?",
+      "answer": "वणवा विझवण्यासाठी पाण्याचा मारा किंवा आग विझवण्याच्या विशेष पद्धती वापरतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "Short Answer",
+      "question": "राष्ट्रीय आपत्ती प्रतिसाद दल (NDRF) काय आहे?",
+      "answer": "आपत्तीच्या वेळी तातडीची मदत पुरवणारी ही एक विशेष सरकारी यंत्रणा आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "Short Answer",
+      "question": "वादळात घराबाहेर पडणे का टाळावे?",
+      "answer": "उडून येणाऱ्या वस्तूंमुळे किंवा कोसळणाऱ्या वस्तूंमुळे इजा होऊ शकते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन शिक्षणाचे महत्त्व काय?",
+      "answer": "शिक्षणामुळे लोकांमध्ये भीती कमी होते आणि ते संकटाचा सामना समर्थपणे करू शकतात."
+    },
+    {
+      "question_id": 121,
+      "question_type": "Short Answer",
+      "question": "अग्निशमन यंत्रणा कशी काम करते?",
+      "answer": "पाण्याचा उच्च दाबाने फवारा सोडून किंवा ऑक्सिजनचा पुरवठा तोडून आग विझवली जाते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "Short Answer",
+      "question": "रस्त्यावरील अपघातांचे मुख्य कारण काय?",
+      "answer": "वेगाचे उल्लंघन आणि वाहतुकीच्या नियमांचे पालन न करणे ही मुख्य कारणे आहेत."
+    },
+    {
+      "question_id": 123,
+      "question_type": "Short Answer",
+      "question": "दुष्काळात गुरांसाठी काय केले जाते?",
+      "answer": "दुष्काळात गुरांसाठी चारा छावण्या उभारल्या जातात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "Short Answer",
+      "question": "भूकंपानंतर येणारे धक्के म्हणजे काय?",
+      "answer": "मुख्य भूकंपाच्या धक्क्यानंतर येणाऱ्या लहान धक्क्यांना 'आफ्टरशॉक्स' म्हणतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "Short Answer",
+      "question": "आपत्ती काळात कोणाचे ऐकावे?",
+      "answer": "आपत्ती काळात रेडिओ, टीव्हीवरील अधिकृत बातम्या आणि प्रशासकीय सूचनांचे पालन करावे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "Short Answer",
+      "question": "त्सुनामीचा इशारा कसा दिला जातो?",
+      "answer": "समुद्रातील उपग्रहांच्या साहाय्याने आणि सायरन वाजवून इशारा दिला जातो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "Short Answer",
+      "question": "आपत्तीनंतर पुनर्वसन म्हणजे काय?",
+      "answer": "आपत्तीग्रस्त लोकांच्या राहण्याची आणि रोजगाराची पुन्हा सोय करणे म्हणजे पुनर्वसन होय."
+    },
+    {
+      "question_id": 128,
+      "question_type": "Short Answer",
+      "question": "सर्पदंशावर औषध कोठे मिळते?",
+      "answer": "सरकारी रुग्णालयांमध्ये सर्पदंशविरोधी लस उपलब्ध असते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "Short Answer",
+      "question": "पूर ओसरल्यानंतर पाण्याचा साठा का तपासावा?",
+      "answer": "पिण्याचे पाणी दूषित झाले असण्याची शक्यता असते, म्हणून ते तपासावे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "Short Answer",
+      "question": "आपत्ती काळात संयम का ठेवावा?",
+      "answer": "संयमामुळे योग्य निर्णय घेता येतात आणि गोंधळ टाळता येतो."
+    },
+    {
+      "question_id": 131,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन आराखडा म्हणजे काय?",
+      "answer": "आपत्ती येण्यापूर्वी, आपत्ती दरम्यान आणि नंतर काय करावे, याचा बनवलेला कच्चा आराखडा."
+    },
+    {
+      "question_id": 132,
+      "question_type": "Short Answer",
+      "question": "महापुरामध्ये वीजप्रवाहापासून लांब का राहावे?",
+      "answer": "पाण्यातून वीज प्रवाहीत होऊन शॉक लागण्याची भीती असते."
+    },
+    {
+      "question_id": 133,
+      "question_type": "Short Answer",
+      "question": "आपत्ती निवारणासाठी तरुण काय करू शकतात?",
+      "answer": "तरुण मदतकार्यात सहभागी होऊन आणि जनजागृती करून मदत करू शकतात."
+    },
+    {
+      "question_id": 134,
+      "question_type": "Short Answer",
+      "question": "कधीही न घाबरता आपत्तीला सामोरे जाणे याला काय म्हणतात?",
+      "answer": "याला 'आपत्ती सज्जता' म्हणतात."
+    },
+    {
+      "question_id": 135,
+      "question_type": "Short Answer",
+      "question": "आपत्ती काळात महत्त्वाची कागदपत्रे कोठे ठेवावीत?",
+      "answer": "पाणी लागणार नाही अशा सुरक्षित आणि वॉटरप्रूफ पिशवीत ठेवावीत."
+    },
+    {
+      "question_id": 136,
+      "question_type": "Short Answer",
+      "question": "उष्माघातावर घरगुती उपाय काय?",
+      "answer": "रुग्णाच्या शरीरावर थंड पाण्याच्या पट्ट्या ठेवणे हा उत्तम घरगुती उपाय आहे."
+    },
+    {
+      "question_id": 137,
+      "question_type": "Short Answer",
+      "question": "सर्पदंश झालेल्या व्यक्तीला झोपू का देऊ नये?",
+      "answer": "रुग्ण बेशुद्ध होऊ नये आणि त्याची हालचाल तपासण्यासाठी त्याला जागृत ठेवावे लागते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "Short Answer",
+      "question": "आपत्ती दरम्यान टॉर्चचा वापर का करावा?",
+      "answer": "अंधारात मार्ग शोधण्यासाठी आणि मदतीसाठी इशारा देण्यासाठी टॉर्च उपयोगी पडते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "Short Answer",
+      "question": "दरड कोसळण्याचे प्रसंग कोठे जास्त घडतात?",
+      "answer": "डोंगाळ भागात आणि अतिवृष्टी होणाऱ्या ठिकाणी दरड कोसळण्याचे प्रसंग जास्त घडतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन ही एक कला आहे का?",
+      "answer": "हो, संकटाच्या काळात शांत राहून योग्य कृती करणे ही एक प्रकारची कलाच आहे."
+    },
+    {
+      "question_id": 141,
+      "question_type": "Short Answer",
+      "question": "आगीचे प्रकार कोणते?",
+      "answer": "आगीचे अ, ब, क, ड आणि ई असे पाच मुख्य प्रकार असतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "Short Answer",
+      "question": "गॅस गळती झाल्यास काय करावे?",
+      "answer": "तात्काळ खिडक्या उघडाव्या आणि गॅसचा रेग्युलेटर बंद करावा."
+    },
+    {
+      "question_id": 143,
+      "question_type": "Short Answer",
+      "question": "आपत्ती काळात शेजाऱ्यांची भूमिका काय असावी?",
+      "answer": "शेजाऱ्यांनी एकमेकांना धीर देऊन आणि उपलब्ध संसाधनांच्या साहाय्याने मदत करावी."
+    },
+    {
+      "question_id": 144,
+      "question_type": "Short Answer",
+      "question": "भूकंप प्रवण क्षेत्र म्हणजे काय?",
+      "answer": "ज्या भागात भूकंप होण्याची शक्यता जास्त असते, त्याला भूकंप प्रवण क्षेत्र म्हणतात."
+    },
+    {
+      "question_id": 145,
+      "question_type": "Short Answer",
+      "question": "त्सुनामी लाटांची उंची किती असू शकते?",
+      "answer": "त्सुनामी लाटांची उंची १० ते ३० मीटर किंवा त्यापेक्षाही जास्त असू शकते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "Short Answer",
+      "question": "दुष्काळ टाळण्यासाठी झाडे का लावावीत?",
+      "answer": "झाडे ढगांना आकर्षित करतात आणि जमिनीतील ओलावा टिकवून ठेवतात."
+    },
+    {
+      "question_id": 147,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापनात तंत्रज्ञानाचा वापर कसा होतो?",
+      "answer": "सॅटेलाईट आणि कॉम्प्युटरच्या साहाय्याने आपत्तीचा अंदाज वर्तवला जातो."
+    },
+    {
+      "question_id": 148,
+      "question_type": "Short Answer",
+      "question": "आपत्तीच्या वेळी अफवा पसरवणाऱ्यांवर काय कारवाई होते?",
+      "answer": "अफवा पसरवणाऱ्यांवर कायद्यानुसार गुन्हा दाखल होऊन दंड किंवा शिक्षा होऊ शकते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "Short Answer",
+      "question": "आपत्ती व्यवस्थापन आपल्या अभ्यासात का आहे?",
+      "answer": "विद्यार्थ्यांनी लहानपणापासूनच सजग राहावे आणि संकटाच्या वेळी मदत करण्यास शिकावे, म्हणून हे अभ्यासात आहे."
+    },
+    {
+      "question_id": 150,
+      "question_type": "Short Answer",
+      "question": "एक उत्तम नागरिक म्हणून आपत्तीच्या वेळी काय कराल?",
+      "answer": "मी स्वतःला सुरक्षित ठेवेन आणि शक्य असेल तितक्या लोकांना मदत करेन."
+    }
+  ]
+}

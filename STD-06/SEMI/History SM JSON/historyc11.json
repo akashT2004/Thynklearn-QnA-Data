@@ -1,0 +1,1111 @@
+{
+  "chapter_info": {
+    "chapter_number": "११",
+    "grade": "६",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "प्राचीन भारत आणि जग"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या संस्कृतीच्या लोकांनी पश्चिमेकडील देशांशी प्रथम व्यापारी संबंध प्रस्थापित केले होते?",
+      "options": [
+        { "option_number": 1, "text": "वैदिक संस्कृती", "is_correct": false },
+        { "option_number": 2, "text": "हडप्पा संस्कृती", "is_correct": true },
+        { "option_number": 3, "text": "मौर्य संस्कृती", "is_correct": false },
+        { "option_number": 4, "text": "गुप्त संस्कृती", "is_correct": false }
+      ],
+      "answer": "हडप्पा संस्कृती"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रीक मूर्तिकलेच्या प्रभावातून कुशाण काळात भारतामध्ये कोणत्या नव्या कलाशैलीचा उदय झाला?",
+      "options": [
+        { "option_number": 1, "text": "मथुरा कला", "is_correct": false },
+        { "option_number": 2, "text": "गांधार कला", "is_correct": true },
+        { "option_number": 3, "text": "द्रविड कला", "is_correct": false },
+        { "option_number": 4, "text": "नागर कला", "is_correct": false }
+      ],
+      "answer": "गांधार कला"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "गांधार कलाशैलीत प्रामुख्याने कोणाच्या मूर्ती घडवल्या गेल्या?",
+      "options": [
+        { "option_number": 1, "text": "सम्राट अशोक", "is_correct": false },
+        { "option_number": 2, "text": "गौतम बुद्ध", "is_correct": true },
+        { "option_number": 3, "text": "वर्धमान महावीर", "is_correct": false },
+        { "option_number": 4, "text": "कनिष्क", "is_correct": false }
+      ],
+      "answer": "गौतम बुद्ध"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "गांधार शैलीतील मूर्तींची चेहरेपट्टी कोणत्या लोकांशी मिळतीजुळती आहे?",
+      "options": [
+        { "option_number": 1, "text": "भारतीय", "is_correct": false },
+        { "option_number": 2, "text": "ग्रीक", "is_correct": true },
+        { "option_number": 3, "text": "चिनी", "is_correct": false },
+        { "option_number": 4, "text": "रोमन", "is_correct": false }
+      ],
+      "answer": "ग्रीक"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "इसवी सनाच्या पहिल्या-दुसऱ्या शतकात भारत आणि कोणत्या साम्राज्यामध्ये व्यापार भरभराटीस आला होता?",
+      "options": [
+        { "option_number": 1, "text": "ब्रिटीश", "is_correct": false },
+        { "option_number": 2, "text": "रोम", "is_correct": true },
+        { "option_number": 3, "text": "इजिप्त", "is_correct": false },
+        { "option_number": 4, "text": "ग्रीस", "is_correct": false }
+      ],
+      "answer": "रोम"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्रातील कोणत्या ठिकाणच्या उत्खननात रोमन बनावटीच्या कासे धातूच्या वस्तू सापडल्या आहेत?",
+      "options": [
+        { "option_number": 1, "text": "पैठण", "is_correct": false },
+        { "option_number": 2, "text": "कोल्हापूर", "is_correct": true },
+        { "option_number": 3, "text": "नाशिक", "is_correct": false },
+        { "option_number": 4, "text": "सोपारा", "is_correct": false }
+      ],
+      "answer": "कोल्हापूर"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "तमिळनाडूमधील कोणत्या ठिकाणी रोमन बनावटीच्या वस्तू सापडल्या आहेत?",
+      "options": [
+        { "option_number": 1, "text": "मदुराई", "is_correct": false },
+        { "option_number": 2, "text": "अरिकामेडू", "is_correct": true },
+        { "option_number": 3, "text": "कांची", "is_correct": false },
+        { "option_number": 4, "text": "चेन्नई", "is_correct": false }
+      ],
+      "answer": "अरिकामेडू"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "भारत आणि रोम यांच्यातील व्यापारात इजिप्तमधील कोणते बंदर महत्त्वाचे होते?",
+      "options": [
+        { "option_number": 1, "text": "कैरो", "is_correct": false },
+        { "option_number": 2, "text": "अलेक्झांड्रिया", "is_correct": true },
+        { "option_number": 3, "text": "सुएझ", "is_correct": false },
+        { "option_number": 4, "text": "गिझा", "is_correct": false }
+      ],
+      "answer": "अलेक्झांड्रिया"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "गणितातील कोणती संकल्पना भारताने संपूर्ण जगाला दिलेली एक मोठी देणगी आहे?",
+      "options": [
+        { "option_number": 1, "text": "भूमिती", "is_correct": false },
+        { "option_number": 2, "text": "शून्य", "is_correct": true },
+        { "option_number": 3, "text": "बीजगणित", "is_correct": false },
+        { "option_number": 4, "text": "त्रिकोणमिती", "is_correct": false }
+      ],
+      "answer": "शून्य"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाने श्रीलंकेमध्ये बौद्ध धर्माच्या प्रसारासाठी कोणाला पाठवले होते?",
+      "options": [
+        { "option_number": 1, "text": "महेंद्र आणि संघमित्रा", "is_correct": true },
+        { "option_number": 2, "text": "फाहियान आणि युआन श्वांग", "is_correct": false },
+        { "option_number": 3, "text": "कश्यप आणि मातंग", "is_correct": false },
+        { "option_number": 4, "text": "मिलिंद आणि नागसेन", "is_correct": false }
+      ],
+      "answer": "महेंद्र आणि संघमित्रा"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "महेंद्र आणि संघमित्रा यांच्या नावाचा उल्लेख कोणत्या श्रीलंकेतील बौद्ध ग्रंथात आहे?",
+      "options": [
+        { "option_number": 1, "text": "दीपवंस", "is_correct": false },
+        { "option_number": 2, "text": "महावंस", "is_correct": true },
+        { "option_number": 3, "text": "त्रिपिटक", "is_correct": false },
+        { "option_number": 4, "text": "अंगुत्तर निकाय", "is_correct": false }
+      ],
+      "answer": "महावंस"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "संघमित्राने श्रीलंकेत जाताना स्वतःबरोबर कशाची शाखा नेली होती?",
+      "options": [
+        { "option_number": 1, "text": "पिंपळ वृक्षाची", "is_correct": false },
+        { "option_number": 2, "text": "बोधिवृक्षाची", "is_correct": true },
+        { "option_number": 3, "text": "वटवृक्षाची", "is_correct": false },
+        { "option_number": 4, "text": "चंदन वृक्षाची", "is_correct": false }
+      ],
+      "answer": "बोधिवृक्षाची"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "श्रीलंकेतील कोणत्या ठिकाणच्या लेण्यांतील भित्तिचित्रे अजिंठ्याच्या चित्रशैलीशी साम्य दर्शवणारी आहेत?",
+      "options": [
+        { "option_number": 1, "text": "अनुराधपूर", "is_correct": false },
+        { "option_number": 2, "text": "सिगिरिया", "is_correct": true },
+        { "option_number": 3, "text": "कोलंबो", "is_correct": false },
+        { "option_number": 4, "text": "कॅन्डी", "is_correct": false }
+      ],
+      "answer": "सिगिरिया"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "चीनमध्ये तयार होणाऱ्या रेशमी कापडाला भारतात काय म्हटले जाई?",
+      "options": [
+        { "option_number": 1, "text": "मलमल", "is_correct": false },
+        { "option_number": 2, "text": "चीनांशुक", "is_correct": true },
+        { "option_number": 3, "text": "खदी", "is_correct": false },
+        { "option_number": 4, "text": "पीतांबर", "is_correct": false }
+      ],
+      "answer": "चीनांशुक"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "भारत आणि चीन यांच्यातील व्यापाराच्या खुश्कीच्या मार्गाला काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "ग्रँड ट्रंक रोड", "is_correct": false },
+        { "option_number": 2, "text": "रेशीम मार्ग", "is_correct": true },
+        { "option_number": 3, "text": "मसाला मार्ग", "is_correct": false },
+        { "option_number": 4, "text": "सुवर्ण मार्ग", "is_correct": false }
+      ],
+      "answer": "रेशीम मार्ग"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "महाराष्ट्रातील कोणते प्राचीन स्थळ रेशीम मार्गाशी जोडलेले होते?",
+      "options": [
+        { "option_number": 1, "text": "पैठण", "is_correct": false },
+        { "option_number": 2, "text": "नाला-सोपारा", "is_correct": true },
+        { "option_number": 3, "text": "नाशिक", "is_correct": false },
+        { "option_number": 4, "text": "जुन्नर", "is_correct": false }
+      ],
+      "answer": "नाला-सोपारा"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "चिनी सम्राट 'मिंग' याच्या आमंत्रणावरून कोणते बौद्ध भिक्खू चीनमध्ये गेले होते?",
+      "options": [
+        { "option_number": 1, "text": "धर्मरक्षक आणि कश्यपमातंग", "is_correct": true },
+        { "option_number": 2, "text": "फाहियान आणि युआन श्वांग", "is_correct": false },
+        { "option_number": 3, "text": "महेंद्र आणि संघमित्रा", "is_correct": false },
+        { "option_number": 4, "text": "मिलिंद आणि नागसेन", "is_correct": false }
+      ],
+      "answer": "धर्मरक्षक आणि कश्यपमातंग"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "कंबोडियातील 'फुनान' या राज्याची स्थापना कोणी केली असे मानले जाते?",
+      "options": [
+        { "option_number": 1, "text": "सम्राट अशोक", "is_correct": false },
+        { "option_number": 2, "text": "कौंडिण्य", "is_correct": true },
+        { "option_number": 3, "text": "कश्यप", "is_correct": false },
+        { "option_number": 4, "text": "भास्करवर्मन", "is_correct": false }
+      ],
+      "answer": "कौंडिण्य"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "इंडोनेशियात आजही कोणत्या भारतीय महाकाव्यांवर आधारित नृत्य-नाट्ये लोकप्रिय आहेत?",
+      "options": [
+        { "option_number": 1, "text": "रामायण आणि महाभारत", "is_correct": true },
+        { "option_number": 2, "text": "शिलप्पधिकरम", "is_correct": false },
+        { "option_number": 3, "text": "हर्षचरित", "is_correct": false },
+        { "option_number": 4, "text": "बुद्धचरित", "is_correct": false }
+      ],
+      "answer": "रामायण आणि महाभारत"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "इसवी सनाच्या ९ व्या ते १८ व्या शतकापर्यंतच्या कालखंडातील इतिहासास काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "प्राचीन इतिहास", "is_correct": false },
+        { "option_number": 2, "text": "मध्ययुगीन इतिहास", "is_correct": true },
+        { "option_number": 3, "text": "आधुनिक इतिहास", "is_correct": false },
+        { "option_number": 4, "text": "उत्तर-आधुनिक इतिहास", "is_correct": false }
+      ],
+      "answer": "मध्ययुगीन इतिहास"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "अफगाणिस्तानमधील कोणत्या ठिकाणी गांधार शैलीचे शिल्प सापडले आहे, ज्यावर ग्रीक लोकांचा पोशाख आणि वाद्ये दिसतात?",
+      "options": [
+        { "option_number": 1, "text": "काबूल", "is_correct": false },
+        { "option_number": 2, "text": "हड्डा", "is_correct": true },
+        { "option_number": 3, "text": "कंदाहार", "is_correct": false },
+        { "option_number": 4, "text": "बाभियान", "is_correct": false }
+      ],
+      "answer": "हड्डा"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध धर्माचा प्रसार अफगाणिस्तान आणि कोणत्या प्रदेशातील अनेक देशांमध्ये झाला होता?",
+      "options": [
+        { "option_number": 1, "text": "दक्षिण आफ्रिका", "is_correct": false },
+        { "option_number": 2, "text": "मध्य आशिया", "is_correct": true },
+        { "option_number": 3, "text": "उत्तर युरोप", "is_correct": false },
+        { "option_number": 4, "text": "उत्तर अमेरिका", "is_correct": false }
+      ],
+      "answer": "मध्य आशिया"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या साम्राज्याच्या काळात भारताचा पश्चिमेकडील जगाशी संपर्क वाढीस लागला होता?",
+      "options": [
+        { "option_number": 1, "text": "इराणी साम्राज्य", "is_correct": true },
+        { "option_number": 2, "text": "ब्रिटीश साम्राज्य", "is_correct": false },
+        { "option_number": 3, "text": "मुघल साम्राज्य", "is_correct": false },
+        { "option_number": 4, "text": "मराठा साम्राज्य", "is_correct": false }
+      ],
+      "answer": "इराणी साम्राज्य"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "भारताचा पश्चिमेकडील देशांना परिचय कोणाच्या लेखनातून झाला?",
+      "options": [
+        { "option_number": 1, "text": "चिनी इतिहासकार", "is_correct": false },
+        { "option_number": 2, "text": "ग्रीक इतिहासकार", "is_correct": true },
+        { "option_number": 3, "text": "अरब इतिहासकार", "is_correct": false },
+        { "option_number": 4, "text": "रोमन इतिहासकार", "is_correct": false }
+      ],
+      "answer": "ग्रीक इतिहासकार"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "सिकंदर ज्या मार्गांनी आला, ते मार्ग कोणाबरोबरच्या व्यापारासाठी खुले झाले?",
+      "options": [
+        { "option_number": 1, "text": "पश्चिमेकडील देश", "is_correct": true },
+        { "option_number": 2, "text": "आग्नेय आशिया", "is_correct": false },
+        { "option_number": 3, "text": "चीन", "is_correct": false },
+        { "option_number": 4, "text": "श्रीलंका", "is_correct": false }
+      ],
+      "answer": "पश्चिमेकडील देश"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "गांधार शैलीतील मूर्तींची चेहरेपट्टी कोणत्या चेहरेपट्टीशी मिळतीजुळती आहे?",
+      "options": [
+        { "option_number": 1, "text": "रोमन", "is_correct": false },
+        { "option_number": 2, "text": "ग्रीक", "is_correct": true },
+        { "option_number": 3, "text": "चिनी", "is_correct": false },
+        { "option_number": 4, "text": "इजिप्शियन", "is_correct": false }
+      ],
+      "answer": "ग्रीक"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतातील सुरुवातीची नाणी कोणाच्या नाण्यांच्या धर्तीवर घडवलेली होती?",
+      "options": [
+        { "option_number": 1, "text": "रोमन", "is_correct": false },
+        { "option_number": 2, "text": "ग्रीक", "is_correct": true },
+        { "option_number": 3, "text": "इराणी", "is_correct": false },
+        { "option_number": 4, "text": "चिनी", "is_correct": false }
+      ],
+      "answer": "ग्रीक"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "अरब व्यापाऱ्यांनी भारतीय माल कोठपर्यंत नेला, जिथून तो युरोपात पाठवला जाई?",
+      "options": [
+        { "option_number": 1, "text": "लंडन", "is_correct": false },
+        { "option_number": 2, "text": "अलेक्झांड्रिया", "is_correct": true },
+        { "option_number": 3, "text": "पॅरिस", "is_correct": false },
+        { "option_number": 4, "text": "रोम", "is_correct": false }
+      ],
+      "answer": "अलेक्झांड्रिया"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतीय तत्त्वज्ञान आणि विज्ञान युरोपपर्यंत कोणी पोचवले?",
+      "options": [
+        { "option_number": 1, "text": "ग्रीक लोकांनी", "is_correct": false },
+        { "option_number": 2, "text": "अरबी लोकांनी", "is_correct": true },
+        { "option_number": 3, "text": "चिनी लोकांनी", "is_correct": false },
+        { "option_number": 4, "text": "रोमन लोकांनी", "is_correct": false }
+      ],
+      "answer": "अरबी लोकांनी"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "श्रीलंकेतील अनुराधपूर येथे असलेला बोधिवृक्ष कोणत्या शाखेपासून वृद्धिंगत झाला असे मानले जाते?",
+      "options": [
+        { "option_number": 1, "text": "अशोकाने पाठवलेल्या शाखेपासून", "is_correct": false },
+        { "option_number": 2, "text": "संघमित्राने नेलेल्या शाखेपासून", "is_correct": true },
+        { "option_number": 3, "text": "महेंद्राने नेलेल्या शाखेपासून", "is_correct": false },
+        { "option_number": 4, "text": "बुद्धाने दिलेल्या शाखेपासून", "is_correct": false }
+      ],
+      "answer": "संघमित्राने नेलेल्या शाखेपासून"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "श्रीलंकेतील कोणते ग्रंथ भारत आणि श्रीलंका यांच्यामधील परस्परसंबंधांची माहिती देतात?",
+      "options": [
+        { "option_number": 1, "text": "त्रिपिटक आणि जातक", "is_correct": false },
+        { "option_number": 2, "text": "महावंस आणि दीपवंस", "is_correct": true },
+        { "option_number": 3, "text": "शिलप्पधिकरम आणि मणीमेखलाई", "is_correct": false },
+        { "option_number": 4, "text": "हर्षचरित आणि बुद्धचरित", "is_correct": false }
+      ],
+      "answer": "महावंस आणि दीपवंस"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या भारतीय राजाने चीनच्या दरबारात राजदूत पाठवला होता?",
+      "options": [
+        { "option_number": 1, "text": "सम्राट अशोक", "is_correct": false },
+        { "option_number": 2, "text": "सम्राट हर्षवर्धन", "is_correct": true },
+        { "option_number": 3, "text": "चंद्रगुप्त मौर्य", "is_correct": false },
+        { "option_number": 4, "text": "कनिष्क", "is_correct": false }
+      ],
+      "answer": "सम्राट हर्षवर्धन"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळापासून रेशीम मार्गाने भारतात आलेले बौद्ध भिक्खू कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "महेंद्र आणि संघमित्रा", "is_correct": false },
+        { "option_number": 2, "text": "फाहियान आणि युआन श्वांग", "is_correct": true },
+        { "option_number": 3, "text": "नागसेन आणि मिलिंद", "is_correct": false },
+        { "option_number": 4, "text": "कौंडिण्य", "is_correct": false }
+      ],
+      "answer": "फाहियान आणि युआन श्वांग"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "चीनमधील बौद्ध धर्माच्या प्रसाराला कोणाच्या चीन आगमनानंतर चालना मिळाली?",
+      "options": [
+        { "option_number": 1, "text": "युआन श्वांग", "is_correct": false },
+        { "option_number": 2, "text": "धर्मरक्षक आणि कश्यपमातंग", "is_correct": true },
+        { "option_number": 3, "text": "महेंद्र", "is_correct": false },
+        { "option_number": 4, "text": "फाहियान", "is_correct": false }
+      ],
+      "answer": "धर्मरक्षक आणि कश्यपमातंग"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "आग्नेय आशियातील कोणत्या प्राचीन राज्याची स्थापना इसवी सनाच्या पहिल्या शतकात झाली होती?",
+      "options": [
+        { "option_number": 1, "text": "फुनान", "is_correct": true },
+        { "option_number": 2, "text": "चोळ", "is_correct": false },
+        { "option_number": 3, "text": "पांड्य", "is_correct": false },
+        { "option_number": 4, "text": "पल्लव", "is_correct": false }
+      ],
+      "answer": "फुनान"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "कंबोडियातील 'फुनान' राज्याच्या लोकांना कोणत्या भाषेचे ज्ञान होते?",
+      "options": [
+        { "option_number": 1, "text": "पाली", "is_correct": false },
+        { "option_number": 2, "text": "संस्कृत", "is_correct": true },
+        { "option_number": 3, "text": "मराठी", "is_correct": false },
+        { "option_number": 4, "text": "हिंदी", "is_correct": false }
+      ],
+      "answer": "संस्कृत"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन कालखंडात बौद्ध धर्म कोणत्या देशांत पोहोचला होता?",
+      "options": [
+        { "option_number": 1, "text": "म्यानमार, थायलंड, इंडोनेशिया", "is_correct": true },
+        { "option_number": 2, "text": "फ्रान्स, जर्मनी, इंग्लंड", "is_correct": false },
+        { "option_number": 3, "text": "अमेरिका, कॅनडा, मेक्सिको", "is_correct": false },
+        { "option_number": 4, "text": "ब्राझील, अर्जेंटिना, पेरू", "is_correct": false }
+      ],
+      "answer": "म्यानमार, थायलंड, इंडोनेशिया"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "भारताने जगाला दिलेली गणितातील सर्वात मोठी देणगी कोणती?",
+      "options": [
+        { "option_number": 1, "text": "भूमितीची सूत्रे", "is_correct": false },
+        { "option_number": 2, "text": "शून्य ही संकल्पना", "is_correct": true },
+        { "option_number": 3, "text": "पायाची किंमत", "is_correct": false },
+        { "option_number": 4, "text": "कॅल्क्युलस", "is_correct": false }
+      ],
+      "answer": "शून्य ही संकल्पना"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "श्रीलंकेतील कोणत्या राजाने सिगिरिया येथे लेणे खोदवले होते?",
+      "options": [
+        { "option_number": 1, "text": "मिंग", "is_correct": false },
+        { "option_number": 2, "text": "कश्यप", "is_correct": true },
+        { "option_number": 3, "text": "महेंद्र", "is_correct": false },
+        { "option_number": 4, "text": "अशोक", "is_correct": false }
+      ],
+      "answer": "कश्यप"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळी श्रीलंकेतील कोणत्या गोष्टींना भारतात मोठी मागणी होती?",
+      "options": [
+        { "option_number": 1, "text": "रेशमी कापड", "is_correct": false },
+        { "option_number": 2, "text": "मोती आणि मौल्यवान वस्तू", "is_correct": true },
+        { "option_number": 3, "text": "मसाल्याचे पदार्थ", "is_correct": false },
+        { "option_number": 4, "text": "लोखंडी हत्यारे", "is_correct": false }
+      ],
+      "answer": "मोती आणि मौल्यवान वस्तू"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "बौद्ध धर्म चीननंतर कोणत्या देशांमध्ये पोहोचला?",
+      "options": [
+        { "option_number": 1, "text": "जपान, कोरिया, व्हिएतनाम", "is_correct": true },
+        { "option_number": 2, "text": "रशिया, युक्रेन", "is_correct": false },
+        { "option_number": 3, "text": "इराण, इराक", "is_correct": false },
+        { "option_number": 4, "text": "ईजिप्त, लिबिया", "is_correct": false }
+      ],
+      "answer": "जपान, कोरिया, व्हिएतनाम"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "आग्नेय आशियातील कोणत्या राज्याचा संस्थापक भारतीय होता, असे चिनी परंपरेनुसार मानले जाते?",
+      "options": [
+        { "option_number": 1, "text": "इंडोनेशिया", "is_correct": false },
+        { "option_number": 2, "text": "फुनान", "is_correct": true },
+        { "option_number": 3, "text": "श्रीलंका", "is_correct": false },
+        { "option_number": 4, "text": "म्यानमार", "is_correct": false }
+      ],
+      "answer": "फुनान"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "इसवी सनाच्या आठव्या शतकापर्यंतच्या भारताच्या इतिहासास काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "मध्ययुगीन इतिहास", "is_correct": false },
+        { "option_number": 2, "text": "प्राचीन इतिहास", "is_correct": true },
+        { "option_number": 3, "text": "आधुनिक इतिहास", "is_correct": false },
+        { "option_number": 4, "text": "ऐतिहासिक काळ", "is_correct": false }
+      ],
+      "answer": "प्राचीन इतिहास"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "आग्नेय आशियातील कला आणि सांस्कृतिक जीवनावर कोणाचा ठसा उमटलेला दिसतो?",
+      "options": [
+        { "option_number": 1, "text": "ग्रीक संस्कृतीचा", "is_correct": false },
+        { "option_number": 2, "text": "भारतीय संस्कृतीचा", "is_correct": true },
+        { "option_number": 3, "text": "चिनी संस्कृतीचा", "is_correct": false },
+        { "option_number": 4, "text": "रोमन संस्कृतीचा", "is_correct": false }
+      ],
+      "answer": "भारतीय संस्कृतीचा"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "अलेक्झांड्रिया हे बंदर कोणत्या देशात आहे?",
+      "options": [
+        { "option_number": 1, "text": "इटली", "is_correct": false },
+        { "option_number": 2, "text": "इजिप्त", "is_correct": true },
+        { "option_number": 3, "text": "ग्रीस", "is_correct": false },
+        { "option_number": 4, "text": "इराण", "is_correct": false }
+      ],
+      "answer": "इजिप्त"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "हडप्पा काळापासून भारताचे पश्चिमेकडील देशांशी कोणते संबंध होते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ युद्ध", "is_correct": false },
+        { "option_number": 2, "text": "व्यापारी संबंध", "is_correct": true },
+        { "option_number": 3, "text": "कोणतेही संबंध नव्हते", "is_correct": false },
+        { "option_number": 4, "text": "केवळ धार्मिक", "is_correct": false }
+      ],
+      "answer": "व्यापारी संबंध"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "युआन श्वांग हा कोणत्या देशातून भारतात आला होता?",
+      "options": [
+        { "option_number": 1, "text": "चीन", "is_correct": true },
+        { "option_number": 2, "text": "जपान", "is_correct": false },
+        { "option_number": 3, "text": "श्रीलंका", "is_correct": false },
+        { "option_number": 4, "text": "कोरिया", "is_correct": false }
+      ],
+      "answer": "चीन"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "आग्नेय आशियातील कोणत्या देशांमध्ये नंतरच्या काळात शिव आणि विष्णू यांच्या मंदिरांची निर्मिती झाली?",
+      "options": [
+        { "option_number": 1, "text": "थायलंड आणि म्यानमार", "is_correct": false },
+        { "option_number": 2, "text": "म्यानमार, थायलंड, इंडोनेशिया इत्यादी", "is_correct": true },
+        { "option_number": 3, "text": "चीन आणि जपान", "is_correct": false },
+        { "option_number": 4, "text": "अफगाणिस्तान आणि इराण", "is_correct": false }
+      ],
+      "answer": "म्यानमार, थायलंड, इंडोनेशिया इत्यादी"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "चीनांशुक या रेशमी कापडाला भारतात कशी मागणी होती?",
+      "options": [
+        { "option_number": 1, "text": "कमी मागणी होती", "is_correct": false },
+        { "option_number": 2, "text": "मोठी मागणी होती", "is_correct": true },
+        { "option_number": 3, "text": "अजिबात मागणी नव्हती", "is_correct": false },
+        { "option_number": 4, "text": "फक्त राजघराण्यापुरती होती", "is_correct": false }
+      ],
+      "answer": "मोठी मागणी होती"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "गांधार कलाशैली कोणत्या काळात उदयाला आली?",
+      "options": [
+        { "option_number": 1, "text": "हडप्पा काळात", "is_correct": false },
+        { "option_number": 2, "text": "कुशाण काळात", "is_correct": true },
+        { "option_number": 3, "text": "मौर्य काळात", "is_correct": false },
+        { "option_number": 4, "text": "गुप्त काळात", "is_correct": false }
+      ],
+      "answer": "कुशाण काळात"
+    },
+    {
+    "question_number": 51,
+    "question": "कोणत्या संस्कृतीच्या लोकांनी पश्चिमेकडील देशांशी प्रथम व्यापारी संबंध प्रस्थापित केले?",
+    "answer": "हडप्पा संस्कृती"
+  },
+  {
+    "question_number": 52,
+    "question": "हडप्पा काळापासून भारताची बाह्य जगाशी कोणती देवाणघेवाण सुरू होती?",
+    "answer": "आर्थिक आणि सांस्कृतिक"
+  },
+  {
+    "question_number": 53,
+    "question": "बौद्ध धर्माचा प्रसार अफगाणिस्तान आणि कोणत्या प्रदेशात झाला होता?",
+    "answer": "मध्य आशिया"
+  },
+  {
+    "question_number": 54,
+    "question": "कोणत्या साम्राज्याच्या काळात भारताचा पश्चिमेकडील जगाशी संपर्क वाढला?",
+    "answer": "इराणी साम्राज्य"
+  },
+  {
+    "question_number": 55,
+    "question": "ग्रीक इतिहासकारांनी कोणत्या देशाबद्दलचे कुतूहल व्यक्त केले होते?",
+    "answer": "भारत"
+  },
+  {
+    "question_number": 56,
+    "question": "कोणाच्या आक्रमणामुळे पश्चिमेकडील देशांशी व्यापाराचे नवीन मार्ग खुले झाले?",
+    "answer": "सम्राट सिकंदर"
+  },
+  {
+    "question_number": 57,
+    "question": "ग्रीक मूर्तिकलेच्या प्रभावातून भारतात कोणती नवीन कलाशैली उदयाला आली?",
+    "answer": "गांधार कला"
+  },
+  {
+    "question_number": 58,
+    "question": "गांधार कलाशैलीत प्रामुख्याने कोणाच्या मूर्ती घडवल्या गेल्या?",
+    "answer": "गौतम बुद्ध"
+  },
+  {
+    "question_number": 59,
+    "question": "गांधार शैलीतील मूर्तींची चेहरेपट्टी कोणत्या लोकांशी मिळतीजुळती आहे?",
+    "answer": "ग्रीक"
+  },
+  {
+    "question_number": 60,
+    "question": "भारतातील सुरुवातीची नाणी कोणाच्या नाण्यांच्या धर्तीवर होती?",
+    "answer": "ग्रीक"
+  },
+  {
+    "question_number": 61,
+    "question": "इसवी सनाच्या पहिल्या-दुसऱ्या शतकात भारताचा व्यापार कोणाशी वाढला?",
+    "answer": "रोम"
+  },
+  {
+    "question_number": 62,
+    "question": "महाराष्ट्रातील कोणत्या ठिकाणी रोमन बनावटीच्या वस्तू सापडल्या आहेत?",
+    "answer": "कोल्हापूर"
+  },
+  {
+    "question_number": 63,
+    "question": "तमिळनाडूतील कोणते ठिकाण रोमन व्यापारासाठी प्रसिद्ध होते?",
+    "answer": "अरिकामेडू"
+  },
+  {
+    "question_number": 64,
+    "question": "भारत आणि रोम यांच्या व्यापारात इजिप्तमधील कोणते बंदर महत्त्वाचे होते?",
+    "answer": "अलेक्झांड्रिया"
+  },
+  {
+    "question_number": 65,
+    "question": "भारतीय माल युरोपात कोणामार्फत पाठवला जात असे?",
+    "answer": "अरब व्यापारी"
+  },
+  {
+    "question_number": 66,
+    "question": "गणितातील 'शून्य' ही संकल्पना भारताने कोणाला दिलेली मोठी देणगी आहे?",
+    "answer": "संपूर्ण जग"
+  },
+  {
+    "question_number": 67,
+    "question": "अशोकाने बौद्ध धर्माच्या प्रसारासाठी आपल्या मुलाला (महेंद्र) कोठे पाठवले?",
+    "answer": "श्रीलंका"
+  },
+  {
+    "question_number": 68,
+    "question": "श्रीलंकेतील कोणत्या ग्रंथात महेंद्र आणि संघमित्रा यांचा उल्लेख आहे?",
+    "answer": "महावंस"
+  },
+  {
+    "question_number": 69,
+    "question": "अशोकाची मुलगी संघमित्रा श्रीलंकेला जाताना सोबत काय घेऊन गेली होती?",
+    "answer": "बोधिवृक्षाची शाखा"
+  },
+  {
+    "question_number": 70,
+    "question": "श्रीलंकेतील कोणत्या ठिकाणची भित्तिचित्रे अजिंठ्याच्या शैलीशी साम्य दर्शवतात?",
+    "answer": "सिगिरिया"
+  },
+  {
+    "question_number": 71,
+    "question": "चीनमधील रेशमी कापडाला भारतात काय म्हटले जाई?",
+    "answer": "चीनांशुक"
+  },
+  {
+    "question_number": 72,
+    "question": "भारत आणि चीन यांना जोडणाऱ्या व्यापारी मार्गाला काय म्हणतात?",
+    "answer": "रेशीम मार्ग"
+  },
+  {
+    "question_number": 73,
+    "question": "महाराष्ट्रातील कोणते स्थळ रेशीम मार्गाशी जोडलेले होते?",
+    "answer": "नाला-सोपारा"
+  },
+  {
+    "question_number": 74,
+    "question": "चीनमध्ये बौद्ध धर्माचा प्रसार कोणामार्फत झाला?",
+    "answer": "धर्मरक्षक आणि कश्यपमातंग"
+  },
+  {
+    "question_number": 75,
+    "question": "चिनी सम्राट मिंग याने कोणाला आमंत्रित केले होते?",
+    "answer": "बौद्ध भिक्खूंना"
+  },
+  {
+    "question_number": 76,
+    "question": "फाहियान आणि युआन श्वांग हे प्रवासी कोठून आले होते?",
+    "answer": "चीन"
+  },
+  {
+    "question_number": 77,
+    "question": "आग्नेय आशियातील कोणत्या राज्यात कौंडिण्य नावाच्या भारतीयाने राज्य स्थापन केले?",
+    "answer": "फुनान (कंबोडिया)"
+  },
+  {
+    "question_number": 78,
+    "question": "इंडोनेशियात आजही कोणत्या भारतीय महाकाव्यांची नृत्य-नाट्ये प्रसिद्ध आहेत?",
+    "answer": "रामायण आणि महाभारत"
+  },
+  {
+    "question_number": 79,
+    "question": "प्राचीन काळात बौद्ध धर्म म्यानमार आणि कोणत्या देशात पोहोचला?",
+    "answer": "थायलंड व इंडोनेशिया"
+  },
+  {
+    "question_number": 80,
+    "question": "इसवी सनाच्या ९ व्या ते १८ व्या शतकापर्यंतच्या इतिहासास काय म्हणतात?",
+    "answer": "मध्ययुगीन इतिहास"
+  },
+  {
+    "question_number": 81,
+    "question": "अफगाणिस्तानातील हड्डा येथील स्तूपावर कोणत्या शैलीची शिल्पे आहेत?",
+    "answer": "गांधार शैली"
+  },
+  {
+    "question_number": 82,
+    "question": "हडप्पा संस्कृतीचे पश्चिमेकडील व्यापाराचे केंद्र कोणते होते?",
+    "answer": "लोथल (बंदर)"
+  },
+  {
+    "question_number": 83,
+    "question": "गांधार प्रदेश आजच्या कोणत्या देशात आहे?",
+    "answer": "अफगाणिस्तान"
+  },
+  {
+    "question_number": 84,
+    "question": "ग्रीक राजांच्या नाण्यांवर एका बाजूला कोणाचे चित्र असे?",
+    "answer": "राजाचे"
+  },
+  {
+    "question_number": 85,
+    "question": "रोमन सोन्याची नाणी भारतात कोठे सापडली आहेत?",
+    "answer": "दक्षिण भारत"
+  },
+  {
+    "question_number": 86,
+    "question": "भारतीय मसाल्यांच्या पदार्थांना कोठे मोठी मागणी होती?",
+    "answer": "रोमन साम्राज्य"
+  },
+  {
+    "question_number": 87,
+    "question": "अरबी लोकांनी भारतीय विज्ञान कोठपर्यंत नेले?",
+    "answer": "युरोप"
+  },
+  {
+    "question_number": 88,
+    "question": "श्रीलंकेचा प्राचीन बौद्ध ग्रंथ 'दीपवंस' कोणत्या भाषेत आहे?",
+    "answer": "पाली"
+  },
+  {
+    "question_number": 89,
+    "question": "बोधिवृक्ष श्रीलंकेत कोठे लावला गेला?",
+    "answer": "अनुराधपूर"
+  },
+  {
+    "question_number": 90,
+    "question": "सिगिरिया येथील लेणे कोणाच्या काळात खोदले गेले?",
+    "answer": "राजा कश्यप"
+  },
+  {
+    "question_number": 91,
+    "question": "चीनांशुक कापडाची बाजारपेठ भारतात कोठे होती?",
+    "answer": "पाटलिपुत्र"
+  },
+  {
+    "question_number": 92,
+    "question": "रेशीम मार्ग कोणत्या खंडातून जात असे?",
+    "answer": "आशिया"
+  },
+  {
+    "question_number": 93,
+    "question": "चीनमध्ये गेलेल्या भारतीय भिक्खूंनी कशाचा अनुवाद केला?",
+    "answer": "बौद्ध ग्रंथांचा"
+  },
+  {
+    "question_number": 94,
+    "question": "फुनान राज्याची अधिकृत भाषा कोणती होती?",
+    "answer": "संस्कृत"
+  },
+  {
+    "question_number": 95,
+    "question": "बोरोबुदूरचा स्तूप कोणत्या देशात आहे?",
+    "answer": "इंडोनेशिया"
+  },
+  {
+    "question_number": 96,
+    "question": "आग्नेय आशियातील कोणत्या देशात हिंदू देवळांचे अवशेष आढळतात?",
+    "answer": "कंबोडिया (अंकोर वाट)"
+  },
+  {
+    "question_number": 97,
+    "question": "प्राचीन भारतीय जहाजांची माहिती कशावरून मिळते?",
+    "answer": "नाणी आणि शिल्पे"
+  },
+  {
+    "question_number": 98,
+    "question": "कुशाण राजा कनिष्काने बौद्ध धर्माची परिषद कोठे भरवली?",
+    "answer": "काश्मीर"
+  },
+  {
+    "question_number": 99,
+    "question": "मध्य आशियातील कोणत्या मार्गाने भारतीय संस्कृती चीनमध्ये गेली?",
+    "answer": "उत्तर मार्ग (उत्तरापथ)"
+  },
+  {
+    "question_number": 100,
+    "question": "भारतीय वैद्यांनी अरब जगात कशाचा प्रसार केला?",
+    "answer": "आयुर्वेद"
+  },
+  {
+    "question_number": 101,
+    "question": "पश्चिमेकडील देशांशी होणारा व्यापार कोणत्या समुद्रातून होत असे?",
+    "answer": "अरबी समुद्र"
+  },
+  {
+    "question_number": 102,
+    "question": "रोममध्ये भारतीय कोणत्या पक्षांची मागणी होती?",
+    "answer": "पोपट आणि मोर"
+  },
+  {
+    "question_number": 103,
+    "question": "कौंडिण्य हा कोणत्या भारतीय प्रदेशातील ब्राह्मण होता?",
+    "answer": "दक्षिण भारत"
+  },
+  {
+    "question_number": 104,
+    "question": "श्रीलंकेला पूर्वी काय म्हटले जाई?",
+    "answer": "सिंहलद्वीप"
+  },
+  {
+    "question_number": 105,
+    "question": "गांधार शैलीतील बुद्धाच्या मूर्ती कोणत्या रंगाच्या दगडात आहेत?",
+    "answer": "काळ्या/करड्या"
+  },
+  {
+    "question_number": 106,
+    "question": "अलेक्झांड्रिया हे शहर कोणत्या नदीच्या मुखाशी आहे?",
+    "answer": "नाईल नदी (इजिप्त)"
+  },
+  {
+    "question_number": 107,
+    "question": "अरबी व्यापाऱ्यांनी भारताकडून काय शिकले?",
+    "answer": "अंकलेखन पद्धती"
+  },
+  {
+    "question_number": 108,
+    "question": "महावंस हा ग्रंथ कोणत्या देशाचा इतिहास सांगतो?",
+    "answer": "श्रीलंका"
+  },
+  {
+    "question_number": 109,
+    "question": "बौद्ध धर्माच्या महायान पंथाचा प्रसार कोठे झाला?",
+    "answer": "चीन, जपान, कोरिया"
+  },
+  {
+    "question_number": 110,
+    "question": "फुनान राज्याचा विस्तार कोणत्या शतकात झाला?",
+    "answer": "इसवी सनाच्या पहिल्या शतकात"
+  },
+  {
+    "question_number": 111,
+    "question": "इंडोनेशियातील 'जावा' बेटाचे प्राचीन नाव काय होते?",
+    "answer": "यवद्वीप"
+  },
+  {
+    "question_number": 112,
+    "question": "चीनमध्ये जाणारे भारतीय व्यापारी कोणत्या बंदरातून जात असत?",
+    "answer": "ताम्रलिप्ती"
+  },
+  {
+    "question_number": 113,
+    "question": "गांधार कलेवर कोणाचे लेप लावले जात असत?",
+    "answer": "सोनेरी किंवा चकाकणारे"
+  },
+  {
+    "question_number": 114,
+    "question": "रोमन सम्राट ऑगस्टसच्या दरबारात कोणत्या भारतीय राजाचा राजदूत गेला होता?",
+    "answer": "पांड्य राजा"
+  },
+  {
+    "question_number": 115,
+    "question": "सिगिरिया येथील लेण्यांचा आकार कशासारखा आहे?",
+    "answer": "सिंहाच्या आकृतीसारखा"
+  },
+  {
+    "question_number": 116,
+    "question": "बौद्ध धर्माचा प्रसार जपानमध्ये कोठून झाला?",
+    "answer": "कोरिया मार्गे"
+  },
+  {
+    "question_number": 117,
+    "question": "चीनांशुक हे कशाचे बनलेले असे?",
+    "answer": "रेशीम"
+  },
+  {
+    "question_number": 118,
+    "question": "भारतीय शून्याचा वापर अरबांनी कोणत्या नावाने केला?",
+    "answer": "हिंदसा"
+  },
+  {
+    "question_number": 119,
+    "question": "प्राचीन भारताचे समुद्री व्यापार कोठपर्यंत पसरले होते?",
+    "answer": "आफ्रिकेचा पूर्व किनारा"
+  },
+  {
+    "question_number": 120,
+    "question": "गांधार शैलीचा विकास प्रामुख्याने कोणत्या राजघराण्याच्या काळात झाला?",
+    "answer": "कुशाण"
+  },
+  {
+    "question_number": 121,
+    "question": "कोणत्या काळात भारत हा जगातील व्यापाराचे प्रमुख केंद्र होता?",
+    "answer": "प्राचीन काळ"
+  },
+  {
+    "question_number": 122,
+    "question": "चिनी प्रवाशांनी भारतातील कोणत्या विद्यापीठांचे वर्णन केले आहे?",
+    "answer": "नालंदा व तक्षशिला"
+  },
+  {
+    "question_number": 123,
+    "question": "कम्बोडियातील 'खमेर' साम्राज्यावर कोणाचा प्रभाव होता?",
+    "answer": "भारतीय संस्कृती"
+  },
+  {
+    "question_number": 124,
+    "question": "मध्य आशियातील 'खोतान' हे कशाचे केंद्र होते?",
+    "answer": "बौद्ध शिक्षण"
+  },
+  {
+    "question_number": 125,
+    "question": "रोमन साम्राज्यात भारतीय कोणत्या कापडाला मोठी किंमत मिळे?",
+    "answer": "मलमल"
+  },
+  {
+    "question_number": 126,
+    "question": "ग्रीक राजांनी भारतात आपली सत्ता कोठे स्थापन केली?",
+    "answer": "वायव्य भारत"
+  },
+  {
+    "question_number": 127,
+    "question": "बौद्ध धर्माची शिकवण श्रीलंकेत कोणत्या भाषेत दिली गेली?",
+    "answer": "पाली"
+  },
+  {
+    "question_number": 128,
+    "question": "फुनानचा राजा 'श्री मारन' याने कोणती पदवी घेतली होती?",
+    "answer": "महाराज"
+  },
+  {
+    "question_number": 129,
+    "question": "सिगिरिया लेण्यांमधील चित्रांचा विषय काय आहे?",
+    "answer": "अप्सरा व राजघराणे"
+  },
+  {
+    "question_number": 130,
+    "question": "चीनमध्ये 'व्हाईट हॉर्स' मंदिर कोणासाठी बांधले होते?",
+    "answer": "धर्मरक्षक व कश्यपमातंग"
+  },
+  {
+    "question_number": 131,
+    "question": "भारतीय हस्तिदंताला कोणत्या देशात मागणी होती?",
+    "answer": "रोम"
+  },
+  {
+    "question_number": 132,
+    "question": "अशोकाच्या काळात कोणत्या लिपीचा वापर परदेशांतही झाला?",
+    "answer": "ब्राह्मी"
+  },
+  {
+    "question_number": 133,
+    "question": "जावामधील 'बोरोबुदूर' हे जगातील सर्वात मोठे काय आहे?",
+    "answer": "बौद्ध स्तूप/विहार"
+  },
+  {
+    "question_number": 134,
+    "question": "प्राचीन काळातील 'चीनांशुक' हे आजचे काय आहे?",
+    "answer": "सिल्क"
+  },
+  {
+    "question_number": 135,
+    "question": "बौद्ध धर्माचे तत्त्वज्ञान जगाला काय संदेश देते?",
+    "answer": "शांती व अहिंसा"
+  },
+  {
+    "question_number": 136,
+    "question": "ग्रीक सैनिकांनी भारतातून परत जाताना काय नेले?",
+    "answer": "भारतीय कला व ज्ञान"
+  },
+  {
+    "question_number": 137,
+    "question": "रोमन साम्राज्याचा व्यापार खंडित झाल्यावर काय झाले?",
+    "answer": "भारताचा व्यापार अरबांशी वाढला"
+  },
+  {
+    "question_number": 138,
+    "question": "आशिया खंडातील बौद्ध संस्कृतीचे सर्वात जुने पुरावे कोठे मिळतात?",
+    "answer": "अफगाणिस्तान"
+  },
+  {
+    "question_number": 139,
+    "question": "फुनान राज्याची स्थापना कोणत्या नदीच्या खोऱ्यात झाली?",
+    "answer": "मेकाँग नदी"
+  },
+  {
+    "question_number": 140,
+    "question": "भारतीय वैद्यकीय ज्ञानाचा प्रभाव कोणत्या देशावर होता?",
+    "answer": "मध्य आशिया व चीन"
+  },
+  {
+    "question_number": 141,
+    "question": "गांधार प्रदेशातील रहिवाशांना काय म्हटले जाई?",
+    "answer": "गांधार"
+  },
+  {
+    "question_number": 142,
+    "question": "अशोकाचा पुत्र महेंद्र याने श्रीलंकेत कोणता विहार स्थापन केला?",
+    "answer": "महाविहार"
+  },
+  {
+    "question_number": 143,
+    "question": "इजिप्तमधील ममीजवर कोणत्या भारतीय कापडाचे आवरण असे?",
+    "answer": "मलमल"
+  },
+  {
+    "question_number": 144,
+    "question": "प्राचीन भारतीय खगोलशास्त्राचा अभ्यास कोणापर्यंत पोहोचला?",
+    "answer": "ग्रीक व अरब"
+  },
+  {
+    "question_number": 145,
+    "question": "बौद्ध धर्माचे त्रिपिटक चीनमध्ये कशावर लिहिले गेले?",
+    "answer": "रेशमी कापड व लाकडी पट्ट्या"
+  },
+  {
+    "question_number": 146,
+    "question": "आग्नेय आशियातील कलाशैलीला काय म्हणतात?",
+    "answer": "इंडो-चायनीज कला (संदर्भित)"
+  },
+  {
+    "question_number": 147,
+    "question": "फुनान राज्याचा शेवट कोणत्या शतकात झाला?",
+    "answer": "सहाव्या शतकात"
+  },
+  {
+    "question_number": 148,
+    "question": "श्रीलंकेतील अनुराधपूर हे शहर कशासाठी प्रसिद्ध आहे?",
+    "answer": "प्राचीन राजधानी व बौद्ध धर्म"
+  },
+  {
+    "question_number": 149,
+    "question": "प्राचीन भारत आणि जगाचा संबंध कशामुळे दृढ झाला?",
+    "answer": "संस्कृती व व्यापार"
+  },
+  {
+    "question_number": 150,
+    "question": "पुढील पाठात आपण कोणत्या काळाचा इतिहास पाहणार आहोत?",
+    "answer": "मध्ययुगीन"
+  }
+]
+}

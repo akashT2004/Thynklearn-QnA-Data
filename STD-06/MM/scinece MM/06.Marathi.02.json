@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.02",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "सजीवसृष्टी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "सजीवांची प्रमुख वैशिष्ट्ये कोणती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "श्वसन, वाढ, प्रजनन", "is_correct": true },
+        { "option_id": 2, "text": "रंग, आकार", "is_correct": false },
+        { "option_id": 3, "text": "कडकपणा", "is_correct": false },
+        { "option_id": 4, "text": "चमक", "is_correct": false }
+      ],
+      "answer": "श्वसन, वाढ, प्रजनन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वनस्पती अन्ननिर्मितीची प्रक्रिया कोणती?",
+      "options": [
+        { "option_id": 1, "text": "श्वसन", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाशसंश्लेषण", "is_correct": true },
+        { "option_id": 3, "text": "वाष्पोत्सर्जन", "is_correct": false },
+        { "option_id": 4, "text": "पचन", "is_correct": false }
+      ],
+      "answer": "प्रकाशसंश्लेषण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सजीवांचे वर्गीकरण कोणाच्या आधारे केले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रंगावर", "is_correct": false },
+        { "option_id": 2, "text": "रचना व कार्यावर", "is_correct": true },
+        { "option_id": 3, "text": "आकारावर", "is_correct": false },
+        { "option_id": 4, "text": "फक्त उंचीवर", "is_correct": false }
+      ],
+      "answer": "रचना व कार्यावर"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "प्राणी अन्नासाठी कोणावर अवलंबून असतात?",
+      "options": [
+        { "option_id": 1, "text": "स्वतःवर", "is_correct": false },
+        { "option_id": 2, "text": "दगडांवर", "is_correct": false },
+        { "option_id": 3, "text": "वनस्पती व इतर प्राण्यांवर", "is_correct": true },
+        { "option_id": 4, "text": "हवेवर", "is_correct": false }
+      ],
+      "answer": "वनस्पती व इतर प्राण्यांवर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कोणता वायू श्वसनासाठी आवश्यक असतो?",
+      "options": [
+        { "option_id": 1, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सजीवांनी आपल्यासारखा दुसरा सजीव निर्माण करण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रजनन", "is_correct": true },
+        { "option_id": 2, "text": "वाढ", "is_correct": false },
+        { "option_id": 3, "text": "श्वसन", "is_correct": false },
+        { "option_id": 4, "text": "उत्सर्जन", "is_correct": false }
+      ],
+      "answer": "प्रजनन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "शरीरातील नको असलेले पदार्थ बाहेर टाकण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "पचन", "is_correct": false },
+        { "option_id": 2, "text": "उत्सर्जन", "is_correct": true },
+        { "option_id": 3, "text": "श्वसन", "is_correct": false },
+        { "option_id": 4, "text": "रक्ताभिसरण", "is_correct": false }
+      ],
+      "answer": "उत्सर्जन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "लाजाळूच्या झाडाला हात लावल्यास पाने मिटतात, हे कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाढ", "is_correct": false },
+        { "option_id": 2, "text": "चेतनाक्षमता", "is_correct": true },
+        { "option_id": 3, "text": "उत्सर्जन", "is_correct": false },
+        { "option_id": 4, "text": "प्रजनन", "is_correct": false }
+      ],
+      "answer": "चेतनाक्षमता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता प्राणी अंडी घालतो?",
+      "options": [
+        { "option_id": 1, "text": "गाय", "is_correct": false },
+        { "option_id": 2, "text": "माणूस", "is_correct": false },
+        { "option_id": 3, "text": "चिमणी", "is_correct": true },
+        { "option_id": 4, "text": "कुत्रा", "is_correct": false }
+      ],
+      "answer": "चिमणी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ठराविक काळानंतर सजीवांचा मृत्यू होतो, याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "आयुर्मान", "is_correct": true },
+        { "option_id": 2, "text": "वाढ", "is_correct": false },
+        { "option_id": 3, "text": "हालचाल", "is_correct": false },
+        { "option_id": 4, "text": "उत्सर्जन", "is_correct": false }
+      ],
+      "answer": "आयुर्मान"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अमीबा हा कोणत्या प्रकारचा सजीव आहे?",
+      "options": [
+        { "option_id": 1, "text": "बहुपेशीय", "is_correct": false },
+        { "option_id": 2, "text": "एकपेशीय", "is_correct": true },
+        { "option_id": 3, "text": "द्विपेशीय", "is_correct": false },
+        { "option_id": 4, "text": "अपेशीय", "is_correct": false }
+      ],
+      "answer": "एकपेशीय"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "प्राण्यांच्या तुलनेत वनस्पतींची वाढ कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ वरच्या बाजूला", "is_correct": false },
+        { "option_id": 2, "text": "आयुष्यभर", "is_correct": true },
+        { "option_id": 3, "text": "फक्त ५ वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "होणार नाही", "is_correct": false }
+      ],
+      "answer": "आयुष्यभर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "प्रकाशसंश्लेषणासाठी कोणता घटक सर्वात आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "चंद्राचा प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "सूर्यप्रकाश व हरितद्रव्य", "is_correct": true },
+        { "option_id": 3, "text": "अंधार", "is_correct": false },
+        { "option_id": 4, "text": "थंडावा", "is_correct": false }
+      ],
+      "answer": "सूर्यप्रकाश व हरितद्रव्य"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मासे कशाच्या मदतीने श्वसन करतात?",
+      "options": [
+        { "option_id": 1, "text": "नाक", "is_correct": false },
+        { "option_id": 2, "text": "कल्ले (Gills)", "is_correct": true },
+        { "option_id": 3, "text": "त्वचा", "is_correct": false },
+        { "option_id": 4, "text": "पाय", "is_correct": false }
+      ],
+      "answer": "कल्ले (Gills)"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता सजीव बहुपेशीय आहे?",
+      "options": [
+        { "option_id": 1, "text": "अमीबा", "is_correct": false },
+        { "option_id": 2, "text": "पॅरामेशिअम", "is_correct": false },
+        { "option_id": 3, "text": "हत्ती", "is_correct": true },
+        { "option_id": 4, "text": "युग्लीना", "is_correct": false }
+      ],
+      "answer": "हत्ती"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "झुरळ कशाच्या साहाय्याने श्वसन करतो?",
+      "options": [
+        { "option_id": 1, "text": "नाक", "is_correct": false },
+        { "option_id": 2, "text": "वायूछिद्रे (Spiracles)", "is_correct": true },
+        { "option_id": 3, "text": "जीभ", "is_correct": false },
+        { "option_id": 4, "text": "कान", "is_correct": false }
+      ],
+      "answer": "वायूछिद्रे (Spiracles)"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पुनरुत्पादन म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "अन्न खाणे", "is_correct": false },
+        { "option_id": 2, "text": "प्रजनन", "is_correct": true },
+        { "option_id": 3, "text": "झोपणे", "is_correct": false },
+        { "option_id": 4, "text": "पळणे", "is_correct": false }
+      ],
+      "answer": "प्रजनन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मानवाचे सरासरी आयुर्मान किती असते?",
+      "options": [
+        { "option_id": 1, "text": "१००-१५० वर्षे", "is_correct": false },
+        { "option_id": 2, "text": "६०-७० वर्षे", "is_correct": true },
+        { "option_id": 3, "text": "१०-२० वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "५०० वर्षे", "is_correct": false }
+      ],
+      "answer": "६०-७० वर्षे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "वनस्पती अन्नासाठी कोणता वायू हवेतून घेतात?",
+      "options": [
+        { "option_id": 1, "text": "ऑक्सिजन", "is_correct": false },
+        { "option_id": 2, "text": "कार्बन डायऑक्साइड", "is_correct": true },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "हीलियम", "is_correct": false }
+      ],
+      "answer": "कार्बन डायऑक्साइड"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या शरीरातील पेशींच्या समूहाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अंगक", "is_correct": false },
+        { "option_id": 2, "text": "ऊती (Tissue)", "is_correct": true },
+        { "option_id": 3, "text": "रक्त", "is_correct": false },
+        { "option_id": 4, "text": "हाड", "is_correct": false }
+      ],
+      "answer": "ऊती (Tissue)"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता घटक निर्जीव आहे?",
+      "options": [
+        { "option_id": 1, "text": "पक्षी", "is_correct": false },
+        { "option_id": 2, "text": "दगड", "is_correct": true },
+        { "option_id": 3, "text": "झाड", "is_correct": false },
+        { "option_id": 4, "text": "कीटक", "is_correct": false }
+      ],
+      "answer": "दगड"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कासवाचे आयुर्मान साधारण किती असते?",
+      "options": [
+        { "option_id": 1, "text": "५० वर्षे", "is_correct": false },
+        { "option_id": 2, "text": "१५० वर्षे", "is_correct": true },
+        { "option_id": 3, "text": "१० वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "२०० वर्षे", "is_correct": false }
+      ],
+      "answer": "१५० वर्षे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वनस्पती कशाच्या साहाय्याने श्वसन करतात?",
+      "options": [
+        { "option_id": 1, "text": "मुळांच्या छिद्रांतून", "is_correct": false },
+        { "option_id": 2, "text": "पानांवरील सूक्ष्म छिद्रांतून", "is_correct": true },
+        { "option_id": 3, "text": "फांद्यांतून", "is_correct": false },
+        { "option_id": 4, "text": "फुलांतून", "is_correct": false }
+      ],
+      "answer": "पानांवरील सूक्ष्म छिद्रांतून"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "घोडा हा कोणत्या प्रकारचा सजीव आहे?",
+      "options": [
+        { "option_id": 1, "text": "एकपेशीय", "is_correct": false },
+        { "option_id": 2, "text": "बहुपेशीय", "is_correct": true },
+        { "option_id": 3, "text": "सूक्ष्मजीव", "is_correct": false },
+        { "option_id": 4, "text": "वनस्पती", "is_correct": false }
+      ],
+      "answer": "बहुपेशीय"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "एखाद्या घटनेला प्रतिसाद देण्याच्या क्षमतेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उत्सर्जन", "is_correct": false },
+        { "option_id": 2, "text": "चेतनाक्षमता", "is_correct": true },
+        { "option_id": 3, "text": "वाढ", "is_correct": false },
+        { "option_id": 4, "text": "प्रजनन", "is_correct": false }
+      ],
+      "answer": "चेतनाक्षमता"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "बाभळीचे झाड कोणत्या प्रकारात येते?",
+      "options": [
+        { "option_id": 1, "text": "प्राणी", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पती", "is_correct": true },
+        { "option_id": 3, "text": "सूक्ष्मजीव", "is_correct": false },
+        { "option_id": 4, "text": "निर्जीव", "is_correct": false }
+      ],
+      "answer": "वनस्पती"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सजीवांच्या पेशीमय रचनेचा शोध कोणी लावला?",
+      "options": [
+        { "option_id": 1, "text": "न्यूटन", "is_correct": false },
+        { "option_id": 2, "text": "रॉबर्ट हुक", "is_correct": true },
+        { "option_id": 3, "text": "गॅलिलिओ", "is_correct": false },
+        { "option_id": 4, "text": "आईन्स्टाईन", "is_correct": false }
+      ],
+      "answer": "रॉबर्ट हुक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पक्ष्यांची वाढ ठराविक काळापर्यंतच का होते?",
+      "options": [
+        { "option_id": 1, "text": "तो निसर्गाचा नियम आहे", "is_correct": true },
+        { "option_id": 2, "text": "अन्न कमी मिळते", "is_correct": false },
+        { "option_id": 3, "text": "उडायचे असते म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "तो निसर्गाचा नियम आहे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "स्वतःचे अन्न स्वतः तयार करणाऱ्या सजीवांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "परपोषी", "is_correct": false },
+        { "option_id": 2, "text": "स्वयंपोषी", "is_correct": true },
+        { "option_id": 3, "text": "मांसाहारी", "is_correct": false },
+        { "option_id": 4, "text": "मृताहारी", "is_correct": false }
+      ],
+      "answer": "स्वयंपोषी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वाढ कशाचा परिणाम आहे?",
+      "options": [
+        { "option_id": 1, "text": "अन्न आणि पोषणाचा", "is_correct": true },
+        { "option_id": 2, "text": "केवळ व्यायामाचा", "is_correct": false },
+        { "option_id": 3, "text": "पाण्याचा", "is_correct": false },
+        { "option_id": 4, "text": "झोपेचा", "is_correct": false }
+      ],
+      "answer": "अन्न आणि पोषणाचा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वनस्पतींची पाने हिरवी का असतात?",
+      "options": [
+        { "option_id": 1, "text": "रंगामुळे", "is_correct": false },
+        { "option_id": 2, "text": "हरितद्रव्यामुळे (Chlorophyll)", "is_correct": true },
+        { "option_id": 3, "text": "पाण्यामुळे", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाशामुळे", "is_correct": false }
+      ],
+      "answer": "हरितद्रव्यामुळे (Chlorophyll)"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "सजीवांची वाढ कोठून होत असते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ बाहेरून", "is_correct": false },
+        { "option_id": 2, "text": "शरीराच्या आतून", "is_correct": true },
+        { "option_id": 3, "text": "केवळ वरून", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "शरीराच्या आतून"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "मुंगी हा सजीव कोणत्या वैशिष्ट्यामुळे अन्नापर्यंत पोहोचतो?",
+      "options": [
+        { "option_id": 1, "text": "प्रजनन", "is_correct": false },
+        { "option_id": 2, "text": "चेतनाक्षमता व हालचाल", "is_correct": true },
+        { "option_id": 3, "text": "उत्सर्जन", "is_correct": false },
+        { "option_id": 4, "text": "वाढ", "is_correct": false }
+      ],
+      "answer": "चेतनाक्षमता व हालचाल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कोणता प्राणी आयुष्यभर एकाच ठिकाणी स्थिर राहू शकतो?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "वनस्पती (एक प्रकारे सजीव)", "is_correct": true },
+        { "option_id": 3, "text": "मासा", "is_correct": false },
+        { "option_id": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "वनस्पती (एक प्रकारे सजीव)"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गवताचा जन्म बियांतून होतो, हे काय दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "उत्सर्जन", "is_correct": false },
+        { "option_id": 2, "text": "प्रजनन", "is_correct": true },
+        { "option_id": 3, "text": "श्वसन", "is_correct": false },
+        { "option_id": 4, "text": "पचन", "is_correct": false }
+      ],
+      "answer": "प्रजनन"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "सजीवांमध्ये हालचाल का होते?",
+      "options": [
+        { "option_id": 1, "text": "अन्न शोधण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "उगीचच", "is_correct": false },
+        { "option_id": 3, "text": "झोपण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "अन्न शोधण्यासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "मानवाच्या शरीरातील कोणत्या भागात फुफ्फुसे असतात?",
+      "options": [
+        { "option_id": 1, "text": "डोक्यात", "is_correct": false },
+        { "option_id": 2, "text": "छातीत", "is_correct": true },
+        { "option_id": 3, "text": "पोटात", "is_correct": false },
+        { "option_id": 4, "text": "पायात", "is_correct": false }
+      ],
+      "answer": "छातीत"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कळवंडाचे झाड आधारासाठी काय वापरते?",
+      "options": [
+        { "option_id": 1, "text": "तणाव (Tendrils)", "is_correct": true },
+        { "option_id": 2, "text": "काटे", "is_correct": false },
+        { "option_id": 3, "text": "फळे", "is_correct": false },
+        { "option_id": 4, "text": "पाने", "is_correct": false }
+      ],
+      "answer": "तणाव (Tendrils)"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता सजीव डोळ्यांनी दिसत नाही?",
+      "options": [
+        { "option_id": 1, "text": "मुंगी", "is_correct": false },
+        { "option_id": 2, "text": "सूक्ष्मजीव", "is_correct": true },
+        { "option_id": 3, "text": "माशी", "is_correct": false },
+        { "option_id": 4, "text": "उंदीर", "is_correct": false }
+      ],
+      "answer": "सूक्ष्मजीव"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "अन्नाचे ऊर्जेत रूपांतर कोठे होते?",
+      "options": [
+        { "option_id": 1, "text": "रक्तात", "is_correct": false },
+        { "option_id": 2, "text": "पेशींमध्ये", "is_correct": true },
+        { "option_id": 3, "text": "हाडांमध्ये", "is_correct": false },
+        { "option_id": 4, "text": "केसांमध्ये", "is_correct": false }
+      ],
+      "answer": "पेशींमध्ये"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "पिंजऱ्यातील पक्षी हालचाल का करतो?",
+      "options": [
+        { "option_id": 1, "text": "तो सजीव आहे म्हणून", "is_correct": true },
+        { "option_id": 2, "text": "त्याला राग आला आहे", "is_correct": false },
+        { "option_id": 3, "text": "त्याला झोपायचे आहे", "is_correct": false },
+        { "option_id": 4, "text": "तो निर्जीव आहे", "is_correct": false }
+      ],
+      "answer": "तो सजीव आहे म्हणून"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "वनस्पती अन्नासाठी काय वापरतात?",
+      "options": [
+        { "option_id": 1, "text": "पाणी व क्षार", "is_correct": true },
+        { "option_id": 2, "text": "दूध", "is_correct": false },
+        { "option_id": 3, "text": "तूप", "is_correct": false },
+        { "option_id": 4, "text": "साखर", "is_correct": false }
+      ],
+      "answer": "पाणी व क्षार"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "गायीचे वासरू मोठे होणे ही कोणती क्रिया आहे?",
+      "options": [
+        { "option_id": 1, "text": "वाढ", "is_correct": true },
+        { "option_id": 2, "text": "उत्सर्जन", "is_correct": false },
+        { "option_id": 3, "text": "श्वसन", "is_correct": false },
+        { "option_id": 4, "text": "हालचाल", "is_correct": false }
+      ],
+      "answer": "वाढ"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "मधमाशी कशाच्या मदतीने उडते?",
+      "options": [
+        { "option_id": 1, "text": "पाय", "is_correct": false },
+        { "option_id": 2, "text": "पंख", "is_correct": true },
+        { "option_id": 3, "text": "नाक", "is_correct": false },
+        { "option_id": 4, "text": "कान", "is_correct": false }
+      ],
+      "answer": "पंख"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "प्रकाशसंश्लेषणात कोणता वायू बाहेर सोडला जातो?",
+      "options": [
+        { "option_id": 1, "text": "कार्बन डायऑक्साइड", "is_correct": false },
+        { "option_id": 2, "text": "ऑक्सिजन", "is_correct": true },
+        { "option_id": 3, "text": "नायट्रोजन", "is_correct": false },
+        { "option_id": 4, "text": "हायड्रोजन", "is_correct": false }
+      ],
+      "answer": "ऑक्सिजन"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "सजीवसृष्टीचे रक्षण करणे ही कोणाची जबाबदारी आहे?",
+      "options": [
+        { "option_id": 1, "text": "प्राण्यांची", "is_correct": false },
+        { "option_id": 2, "text": "मानवाची", "is_correct": true },
+        { "option_id": 3, "text": "झाडांची", "is_correct": false },
+        { "option_id": 4, "text": "दगडांची", "is_correct": false }
+      ],
+      "answer": "मानवाची"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता सजीव पाण्यात राहतो?",
+      "options": [
+        { "option_id": 1, "text": "वाघ", "is_correct": false },
+        { "option_id": 2, "text": "मासा", "is_correct": true },
+        { "option_id": 3, "text": "चिमणी", "is_correct": false },
+        { "option_id": 4, "text": "गाढव", "is_correct": false }
+      ],
+      "answer": "मासा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "प्रजनन का आवश्यक आहे?",
+      "options": [
+        { "option_id": 1, "text": "अस्तित्व टिकवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "अन्न मिळवण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "पळण्यासाठी", "is_correct": false },
+        { "option_id": 4, "text": "झोपण्यासाठी", "is_correct": false }
+      ],
+      "answer": "अस्तित्व टिकवण्यासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "सर्व सजीव कशाने बनलेले असतात?",
+      "options": [
+        { "option_id": 1, "text": "काचेने", "is_correct": false },
+        { "option_id": 2, "text": "पेशींनी", "is_correct": true },
+        { "option_id": 3, "text": "लाखडाने", "is_correct": false },
+        { "option_id": 4, "text": "लोखंडाने", "is_correct": false }
+      ],
+      "answer": "पेशींनी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "सजीवांचा मृत्यू म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "पुन्हा वाढ होणे", "is_correct": false },
+        { "option_id": 2, "text": "जीवनक्रिया थांबणे", "is_correct": true },
+        { "option_id": 3, "text": "फक्त झोपणे", "is_correct": false },
+        { "option_id": 4, "text": "मोठे होणे", "is_correct": false }
+      ],
+      "answer": "जीवनक्रिया थांबणे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "सजीव म्हणजे काय?",
+      "answer": "ज्यांच्यामध्ये वाढ, श्वसन, प्रजनन, हालचाल आणि उत्सर्जन यांसारखी वैशिष्ट्ये आढळतात, त्यांना सजीव म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "सजीवांची कोणतीही चार वैशिष्ट्ये लिहा.",
+      "answer": "वाढ, श्वसन, उत्सर्जन आणि प्रजनन ही सजीवांची चार वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "वाढ म्हणजे काय?",
+      "answer": "सजीवांच्या शरीराच्या आकारात आणि आकारमानात होणाऱ्या बदलाला वाढ म्हणतात."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "श्वसन म्हणजे काय?",
+      "answer": "सजीवांनी हवेतील ऑक्सिजन आत घेणे आणि शरीरातील कार्बन डायऑक्साइड बाहेर सोडणे या क्रियेला श्वसन म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "उत्सर्जन म्हणजे काय?",
+      "answer": "सजीवांच्या शरीरातील टाकाऊ आणि नको असलेले पदार्थ बाहेर टाकण्याच्या क्रियेला उत्सर्जन म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "प्रजनन किंवा पुनरुत्पादन म्हणजे काय?",
+      "answer": "सजीवाने स्वतःसारखाच दुसरा सजीव निर्माण करण्याच्या क्रियेला प्रजनन म्हणतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "चेतनाक्षमता म्हणजे काय?",
+      "answer": "सभोवतालच्या कोणत्याही घटनेला किंवा उद्दीपकाला प्रतिसाद देण्याच्या सजीवांच्या क्षमतेला चेतनाक्षमता म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "हालचाल म्हणजे काय?",
+      "answer": "सजीवांनी एका ठिकाणाहून दुसऱ्या ठिकाणी जाणे किंवा शरीराच्या अवयवांची हालचाल करणे याला हालचाल म्हणतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "स्वयंपोषी वनस्पती कोणास म्हणतात?",
+      "answer": "ज्या वनस्पती सूर्यप्रकाशात स्वतःचे अन्न स्वतः तयार करतात, त्यांना स्वयंपोषी वनस्पती म्हणतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "परपोषी सजीव म्हणजे काय?",
+      "answer": "जे सजीव अन्नासाठी इतर वनस्पती किंवा प्राण्यांवर अवलंबून असतात, त्यांना परपोषी सजीव म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "प्रकाशसंश्लेषण म्हणजे काय?",
+      "answer": "वनस्पती सूर्यप्रकाश, पाणी आणि हवेतील कार्बन डायऑक्साइडच्या साहाय्याने पानांमध्ये अन्न तयार करतात, त्या क्रियेला प्रकाशसंश्लेषण म्हणतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "पेशीमय रचना म्हणजे काय?",
+      "answer": "सर्व सजीव लहान लहान घटकांनी बनलेले असतात, त्या घटकांना पेशी म्हणतात; यालाच पेशीमय रचना म्हणतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "एकपेशीय सजीवांची दोन उदाहरणे द्या.",
+      "answer": "अमीबा आणि पॅरामेशिअम ही एकपेशीय सजीवांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "बहुपेशीय सजीवांची दोन उदाहरणे द्या.",
+      "answer": "माणूस, गाय, हत्ती आणि आंबा ही बहुपेशीय सजीवांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "आयुर्मान म्हणजे काय?",
+      "answer": "सजीव जन्मापासून मृत्यू होईपर्यंत जो काळ जगतात, त्याला त्या सजीवाचे आयुर्मान म्हणतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "मृत्यू म्हणजे काय?",
+      "answer": "जेव्हा सजीवांच्या सर्व जीवनक्रिया कायमच्या थांबतात, तेव्हा त्या अवस्थेला मृत्यू म्हणतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "सजीवांना अन्नाची गरज का असते?",
+      "answer": "शरीराची वाढ होण्यासाठी आणि विविध कामांसाठी ऊर्जा मिळवण्यासाठी सजीवांना अन्नाची गरज असते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "हरितद्रव्य म्हणजे काय?",
+      "answer": "वनस्पतींच्या पानांमध्ये असलेला हिरव्या रंगाचा घटक जो प्रकाशसंश्लेषणासाठी मदत करतो, त्याला हरितद्रव्य म्हणतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "सजीवांमध्ये वाढ कोठपर्यंत होते?",
+      "answer": "प्राण्यांची वाढ ठराविक वयापर्यंत होते, तर वनस्पतींची वाढ त्या जिवंत असेपर्यंत होत राहते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "वनस्पतींचे उत्सर्जन कसे होते?",
+      "answer": "वनस्पती पानांद्वारे बाष्प बाहेर टाकतात आणि काही वनस्पती डिंक किंवा राळ स्वरूपात टाकाऊ पदार्थ बाहेर टाकतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "मानवाचे श्वसन इंद्रिय कोणते?",
+      "answer": "मानवाचे मुख्य श्वसन इंद्रिय फुफ्फुसे हे आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "मासे कशाच्या साहाय्याने श्वसन करतात?",
+      "answer": "मासे त्यांच्या कल्ल्यांच्या (Gills) साहाय्याने पाण्यात विरघळलेला ऑक्सिजन घेतात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "वनस्पतींची हालचाल कशी होते?",
+      "answer": "वनस्पती एका ठिकाणाहून दुसऱ्या ठिकाणी जाऊ शकत नाहीत, पण त्यांची वाढ प्रकाशाच्या दिशेने होणे किंवा फुले उमलणे ही त्यांची हालचाल आहे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "प्रजननाचे दोन प्रकार कोणते?",
+      "answer": "अंडी घालून पिल्लांना जन्म देणे आणि थेट पिल्लांना जन्म देणे हे प्रजननाचे दोन मुख्य प्रकार आहेत."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "पेशीचा शोध कोणी लावला?",
+      "answer": "रॉबर्ट हुक या शास्त्रज्ञाने १६६५ मध्ये पेशीचा शोध लावला."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "सजीव आणि निर्जीव यांमधील मुख्य फरक काय?",
+      "answer": "सजीवांमध्ये जीवनक्रिया (श्वसन, वाढ इ.) असतात, तर निर्जीवांमध्ये या क्रिया नसतात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "मुळांची हालचाल कोणत्या दिशेने होते?",
+      "answer": "वनस्पतींच्या मुळांची हालचाल जमीन आणि पाण्याच्या दिशेने खाली होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "सजीवांना ऊर्जा कोठून मिळते?",
+      "answer": "सजीवांना त्यांनी खाल्लेल्या अन्नापासून ऊर्जा मिळते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "कुत्रा हा बहुपेशीय सजीव का आहे?",
+      "answer": "कारण कुत्र्याचे शरीर अनेक पेशींनी मिळून बनलेले असते, म्हणून तो बहुपेशीय सजीव आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "अन्न तयार करण्यासाठी वनस्पतींना कशाची आवश्यकता असते?",
+      "answer": "वनस्पतींना सूर्यप्रकाश, पाणी, हरितद्रव्य आणि कार्बन डायऑक्साइडची आवश्यकता असते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "चेतनाक्षमतेचे एक नैसर्गिक उदाहरण द्या.",
+      "answer": "सूर्यफूल सूर्याच्या दिशेने वळणे हे चेतनाक्षमतेचे एक उत्तम उदाहरण आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "सजीवांची वाढ का थांबते?",
+      "answer": "जेव्हा सजीवाचे ठराविक आयुर्मान पूर्ण होते आणि पेशींची नवीन निर्मिती थांबते, तेव्हा वाढ थांबते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "पानातील सूक्ष्म छिद्रांना काय म्हणतात?",
+      "answer": "पानांवरील सूक्ष्म छिद्रांना पर्णरंध्रे (Stomata) म्हणतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "कीटक कशाच्या साहाय्याने श्वसन करतात?",
+      "answer": "कीटक त्यांच्या शरीरावरील सूक्ष्म वायूछिद्रांच्या साहाय्याने श्वसन करतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "प्रजननामुळे पृथ्वीवर काय टिकून राहते?",
+      "answer": "प्रजननामुळे पृथ्वीवर सजीवांचे अस्तित्व आणि त्यांची प्रजाती टिकून राहते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "सजीवांचे रक्षण का गरजेचे आहे?",
+      "answer": "पर्यावरणाचा समतोल राखण्यासाठी आणि भविष्यातील जैवविविधता टिकवण्यासाठी सजीवांचे रक्षण गरजेचे आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "अन्नाचे पचन कोठे होते?",
+      "answer": "बहुतेक प्राण्यांमध्ये अन्नाचे पचन त्यांच्या पचनसंस्थेमध्ये (जसे की जठर) होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "वृक्ष म्हणजे काय?",
+      "answer": "जे सजीव उंच वाढतात, ज्यांना मजबूत खोड आणि अनेक फांद्या असतात, त्यांना वृक्ष म्हणतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "सूक्ष्मजीव म्हणजे काय?",
+      "answer": "जे सजीव आकाराने इतके लहान असतात की ते उघड्या डोळ्यांनी दिसत नाहीत, त्यांना सूक्ष्मजीव म्हणतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या हालचालीचा उद्देश काय असतो?",
+      "answer": "अन्न मिळवणे, संरक्षण करणे आणि प्रजननासाठी योग्य जागा शोधणे हे हालचालीचे उद्देश असतात."
+    },
+    {
+      "question_id": 91,
+      "question_type": "Short Answer",
+      "question": "उत्सर्गाचा सजीवांवर काय परिणाम होतो?",
+      "answer": "जर शरीरातील उत्सर्ग (टाकाऊ पदार्थ) बाहेर पडले नाहीत, तर सजीव आजारी पडू शकतो किंवा त्याचा मृत्यू होऊ शकतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "Short Answer",
+      "question": "घोडा आणि वाघ अन्नासाठी कोणावर अवलंबून असतात?",
+      "answer": "घोडा वनस्पतींवर (गवत) तर वाघ इतर प्राण्यांच्या मांसावर अवलंबून असतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "Short Answer",
+      "question": "लाजाळूचे झाड हाताचा स्पर्श होताच पाने का मिटते?",
+      "answer": "कारण लाजाळूचे झाड स्पर्शाप्रती अत्यंत संवेदनशील असते, हे त्याच्या चेतनाक्षमतेमुळे घडते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "Short Answer",
+      "question": "वनस्पती रात्री कोणता वायू बाहेर सोडतात?",
+      "answer": "वनस्पती रात्री श्वसनादरम्यान कार्बन डायऑक्साइड वायू बाहेर सोडतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "Short Answer",
+      "question": "सजीवांचे वर्गीकरण कोणी केले?",
+      "answer": "कार्ल लिनिअस या शास्त्रज्ञाने सजीवांच्या शास्त्रीय वर्गीकरणाची पद्धत विकसित केली."
+    },
+    {
+      "question_id": 96,
+      "question_type": "Short Answer",
+      "question": "अंडी घालणाऱ्या दोन प्राण्यांची नावे सांगा.",
+      "answer": "कोंबडी आणि साप हे अंडी घालणारे प्राणी आहेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "Short Answer",
+      "question": "थेट पिल्लांना जन्म देणाऱ्या दोन प्राण्यांची नावे सांगा.",
+      "answer": "गाय आणि माणूस हे थेट पिल्लांना जन्म देणारे सजीव आहेत."
+    },
+    {
+      "question_id": 98,
+      "question_type": "Short Answer",
+      "question": "मेलेल्या प्राण्यांचे काय होते?",
+      "answer": "मेलेल्या प्राण्यांचे सूक्ष्मजीवांद्वारे विघटन होते आणि त्यांचे घटक मातीत मिसळतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "Short Answer",
+      "question": "पर्यावरणात वनस्पतींचे महत्त्व काय?",
+      "answer": "वनस्पती प्राण्यांना अन्न आणि ऑक्सिजन पुरवतात, म्हणून त्या पर्यावरणासाठी अत्यंत महत्त्वाच्या आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "Short Answer",
+      "question": "सजीवसृष्टीची व्याप्ती कोठे कोठे आहे?",
+      "answer": "सजीवसृष्टीची व्याप्ती हवा, पाणी आणि जमीन या तिन्ही ठिकाणी आढळते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "Short Answer",
+      "question": "पाणी हा सजीवांसाठी का आवश्यक आहे?",
+      "answer": "शरीरातील सर्व जीवनक्रिया सुरळीत चालण्यासाठी पाणी आवश्यक आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "Short Answer",
+      "question": "वनस्पतींमध्ये हालचाल का मर्यादित असते?",
+      "answer": "कारण वनस्पतींची मुळे जमिनीत घट्ट रुतलेली असतात, म्हणून त्या जागा सोडू शकत नाहीत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या पेशी कशा पाहता येतात?",
+      "answer": "सजीवांच्या पेशी सूक्ष्मदर्शकाखाली (Microscope) पाहता येतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "Short Answer",
+      "question": "सजीवांमध्ये वय वाढल्यामुळे कोणते बदल होतात?",
+      "answer": "वय वाढल्यामुळे शरीराची ताकद कमी होते आणि इंद्रियांची कार्यक्षमता मंदावते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "Short Answer",
+      "question": "वनस्पतींचे वर्गीकरण कशाच्या आधारे करतात?",
+      "answer": "वनस्पतींचे वर्गीकरण त्यांच्या उंची, खोडाचा आकार आणि जीवनक्रमाच्या कालावधीनुसार करतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "Short Answer",
+      "question": "प्राण्यांचे वर्गीकरण कशाच्या आधारे करतात?",
+      "answer": "प्राण्यांचे वर्गीकरण त्यांच्या अधिवास, अन्नाच्या सवयी आणि शारीरिक रचनेनुसार करतात."
+    },
+    {
+      "question_id": 107,
+      "question_type": "Short Answer",
+      "question": "सजीवांचे नैसर्गिक निवासस्थान म्हणजे काय?",
+      "answer": "सजीव ज्या ठिकाणी राहतात आणि वाढतात, त्या जागेला त्यांचा अधिवास म्हणतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "Short Answer",
+      "question": "वाळवंटातील सजीवांचे वैशिष्ट्य काय?",
+      "answer": "वाळवंटातील सजीव कमी पाण्यात जगण्यासाठी अनुकूल झालेले असतात (उदा. उंट)."
+    },
+    {
+      "question_id": 109,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या अस्तित्वासाठी कशाची गरज आहे?",
+      "answer": "अन्न, पाणी, हवा आणि सुरक्षित निवारा यांची सजीवांना गरज आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "Short Answer",
+      "question": "सजीवांना भावना असतात का?",
+      "answer": "हो, उच्च विकसित सजीवांमध्ये (उदा. माणूस, प्राणी) विविध भावना आणि प्रतिसाद असतात."
+    },
+    {
+      "question_id": 111,
+      "question_type": "Short Answer",
+      "question": "जंगलातील सजीव कोठे राहतात?",
+      "answer": "जंगलातील सजीव झाडांवर, गुहेत किंवा जमिनीखाली बिळांत राहतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या वाढीसाठी सूर्यप्रकाश का आवश्यक आहे?",
+      "answer": "सूर्यप्रकाशामुळे वनस्पती अन्न तयार करतात आणि प्राण्यांना विटामिन डी व उष्णता मिळते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या त्वचेचे कार्य काय?",
+      "answer": "त्वचा शरीराच्या आतील अवयवांचे रक्षण करते आणि उत्सर्जनाचे काम (घाम) करते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील रक्ताचे कार्य काय?",
+      "answer": "रक्त शरीरातील पेशींना ऑक्सिजन आणि पोषक घटक पोहोचवण्याचे कार्य करते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "Short Answer",
+      "question": "सजीव सृष्टीचे संरक्षण करण्यासाठी काय करावे?",
+      "answer": "झाडे लावावीत, प्रदूषण टाळावे आणि प्राण्यांची शिकार करू नये."
+    },
+    {
+      "question_id": 116,
+      "question_type": "Short Answer",
+      "question": "सजीवांमधील विविधता म्हणजे काय?",
+      "answer": "सजीवांच्या आकार, रंग, आहार आणि राहणीमानातील फरकाला विविधता (Biodiversity) म्हणतात."
+    },
+    {
+      "question_id": 117,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या मृत्यूचा पर्यावरणावर काय फायदा होतो?",
+      "answer": "मृत्यूमुळे नवीन सजीवांना जागा मिळते आणि पोषक द्रव्ये पुन्हा मातीत मिसळतात."
+    },
+    {
+      "question_id": 118,
+      "question_type": "Short Answer",
+      "question": "सजीवांचे आयुर्मान कशावर अवलंबून असते?",
+      "answer": "सजीवांचे आयुर्मान त्यांच्या प्रजातीवर आणि सभोवतालच्या पर्यावरणावर अवलंबून असते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "Short Answer",
+      "question": "वनस्पती आणि प्राणी एकमेकांना कसे मदत करतात?",
+      "answer": "वनस्पती ऑक्सिजन देतात आणि प्राणी कार्बन डायऑक्साइड देतात, जो एकमेकांसाठी आवश्यक असतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "Short Answer",
+      "question": "सजीवसृष्टीचा सर्वात बुद्धिमान सजीव कोणता?",
+      "answer": "मानव हा सजीवसृष्टीचा सर्वात बुद्धिमान सजीव मानला जातो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "Short Answer",
+      "question": "एकपेशीय सजीवांना सूक्ष्मजीव का म्हणतात?",
+      "answer": "कारण ते आकाराने अतिशय लहान असतात आणि फक्त सूक्ष्मदर्शकानेच दिसतात."
+    },
+    {
+      "question_id": 122,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरात पाणी किती प्रमाणात असते?",
+      "answer": "सजीवांच्या शरीरात साधारणपणे ७०% पर्यंत पाणी असते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "Short Answer",
+      "question": "सजीवांची वाढ रात्रीच्या वेळी जास्त का होते?",
+      "answer": "कारण विश्रांतीच्या काळात शरीरातील पेशींची दुरुस्ती आणि निर्मिती वेगाने होते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाचा वनस्पतींच्या वाढीवर काय परिणाम होतो?",
+      "answer": "प्रकाशाच्या दिशेने वनस्पतींची वाढ वेगाने होते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "Short Answer",
+      "question": "सजीवांमधील ऊर्जेचे मुख्य स्त्रोत कोणते?",
+      "answer": "सूर्यप्रकाश आणि अन्न हे सजीवांमधील ऊर्जेचे मुख्य स्त्रोत आहेत."
+    },
+    {
+      "question_id": 126,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या पेशींची संख्या स्थिर असते का?",
+      "answer": "नाही, सजीवाची वाढ होत असताना पेशींची संख्या सतत वाढत असते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "Short Answer",
+      "question": "सजीवांना थंडी किंवा उष्णता जाणवते का?",
+      "answer": "हो, सजीवांच्या चेतनाक्षमतेमुळे त्यांना हवामानातील बदल जाणवतात."
+    },
+    {
+      "question_id": 128,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील हाडांचे कार्य काय?",
+      "answer": "हाडे शरीराला आधार देतात आणि संरक्षणात्मक सांगाडा तयार करतात."
+    },
+    {
+      "question_id": 129,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या जीवनाचे चक्र कसे असते?",
+      "answer": "जन्म, वाढ, प्रौढावस्था, वृद्धत्व आणि शेवटी मृत्यू असे सजीवांच्या जीवनाचे चक्र असते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "Short Answer",
+      "question": "सजीव सृष्टीतील साखळी म्हणजे काय?",
+      "answer": "एका सजीवाने दुसऱ्या सजीवाला अन्नासाठी खाणे याला अन्नसाखळी म्हणतात."
+    },
+    {
+      "question_id": 131,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या श्वसनाचा वेग कधी वाढतो?",
+      "answer": "व्यायाम करताना किंवा कष्टाचे काम करताना सजीवांच्या श्वसनाचा वेग वाढतो."
+    },
+    {
+      "question_id": 132,
+      "question_type": "Short Answer",
+      "question": "सजीवांमध्ये झोप का महत्त्वाची आहे?",
+      "answer": "शरीराला विश्रांती मिळण्यासाठी आणि पेशींच्या पुनर्निर्मितीसाठी झोप महत्त्वाची आहे."
+    },
+    {
+      "question_id": 133,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या वजनात वाढ का होते?",
+      "answer": "पेशींची संख्या वाढल्यामुळे आणि अन्नाचे संचयन झाल्यामुळे सजीवांच्या वजनात वाढ होते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील मज्जासंस्थेचे कार्य काय?",
+      "answer": "मज्जासंस्था शरीरातील विविध क्रियांवर नियंत्रण ठेवण्याचे आणि प्रतिसाद देण्याचे कार्य करते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या प्रत्येक पेशीला कशाची गरज असते?",
+      "answer": "प्रत्येक पेशीला जगण्यासाठी ऑक्सिजन, पाणी आणि अन्नाची गरज असते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या वाढीवर कशाचा परिणाम होतो?",
+      "answer": "आहार, व्यायाम, अनुवांशिकता आणि सभोवतालचे पर्यावरण यांचा वाढीवर परिणाम होतो."
+    },
+    {
+      "question_id": 137,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या मृत्यूचे मुख्य कारण काय असू शकते?",
+      "answer": "आजारपण, वृद्धत्व, अपघात किंवा पर्यावरणातील टोकाचे बदल हे मृत्यूचे कारण असू शकतात."
+    },
+    {
+      "question_id": 138,
+      "question_type": "Short Answer",
+      "question": "सजीवांमध्ये सुसंवाद कसा साधला जातो?",
+      "answer": "विविध आवाज, खुणा आणि भाषेच्या माध्यमातून सजीवांमध्ये सुसंवाद साधला जातो."
+    },
+    {
+      "question_id": 139,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील टाकाऊ पदार्थ बाहेर जाणे का आवश्यक आहे?",
+      "answer": "कारण हे पदार्थ विषारी असू शकतात आणि शरीराला इजा पोहोचवू शकतात."
+    },
+    {
+      "question_id": 140,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील साखरेचे नियंत्रण कोण करते?",
+      "answer": "शरीरातील विविध संप्रेरके (Hormones) साखरेचे नियंत्रण करतात."
+    },
+    {
+      "question_id": 141,
+      "question_type": "Short Answer",
+      "question": "सजीवांमध्ये अनुवांशिकता म्हणजे काय?",
+      "answer": "एका पिढीतील गुणधर्म दुसऱ्या पिढीत उतरण्याच्या प्रक्रियेला अनुवांशिकता म्हणतात."
+    },
+    {
+      "question_id": 142,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या उत्क्रांतीचे महत्त्व काय?",
+      "answer": "बदलत्या पर्यावरणाशी जुळवून घेण्यासाठी आणि टिकून राहण्यासाठी उत्क्रांती महत्त्वाची आहे."
+    },
+    {
+      "question_id": 143,
+      "question_type": "Short Answer",
+      "question": "सजीवांमध्ये समतोल कसा राखला जातो?",
+      "answer": "निसर्गातील चक्र आणि सजीवांच्या अंतर्गत क्रियांद्वारे समतोल राखला जातो."
+    },
+    {
+      "question_id": 144,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या पेशींचा आकार सारखा असतो का?",
+      "answer": "नाही, विविध सजीवांच्या आणि शरीरातील विविध भागांच्या पेशींचा आकार वेगवेगळा असतो."
+    },
+    {
+      "question_id": 145,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील पाण्याचे प्रमाण कमी झाले तर काय होईल?",
+      "answer": "सजीवाला थकवा जाणवेल आणि गंभीर परिस्थितीत त्याचा मृत्यूही होऊ शकतो (Dehydration)."
+    },
+    {
+      "question_id": 146,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या अधिवासावर कशाचा परिणाम होतो?",
+      "answer": "तापमान, पाऊस आणि अन्नाची उपलब्धता यांचा अधिवासावर परिणाम होतो."
+    },
+    {
+      "question_id": 147,
+      "question_type": "Short Answer",
+      "question": "सजीवांचे संरक्षण करणे ही आपली जबाबदारी का आहे?",
+      "answer": "कारण आपणही या सजीवसृष्टीचा एक भाग आहोत आणि सजीवांशिवाय पृथ्वीवर जीवन शक्य नाही."
+    },
+    {
+      "question_id": 148,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील पचनक्रियेचा उपयोग काय?",
+      "answer": "अन्नातील गुंतागुंतीच्या घटकांचे साध्या पोषक घटकांत रूपांतर करण्यासाठी पचनक्रियेचा उपयोग होतो."
+    },
+    {
+      "question_id": 149,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या शरीरातील रक्ताभिसरण क्रिया काय आहे?",
+      "answer": "शरीरातील रक्त सर्व अवयवांपर्यंत पोहोचवण्याच्या प्रक्रियेला रक्ताभिसरण म्हणतात."
+    },
+    {
+      "question_id": 150,
+      "question_type": "Short Answer",
+      "question": "सजीवांच्या जीवनाचा मुख्य उद्देश काय असतो?",
+      "answer": "अन्न मिळवणे, स्वतःचे रक्षण करणे, वाढ होणे आणि आपली प्रजाती टिकवून ठेवणे हा सजीवांच्या जीवनाचा मुख्य उद्देश असतो."
+    }
+  ]
+}

@@ -1,0 +1,1212 @@
+{
+  "chapter_information": {
+    "chapter_number": "७",
+    "grade": "६",
+    "subject": "इतिहास",
+    "medium": "मराठी",
+    "chapter_name": "मौर्यकालीन भारत"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "इ.स.पू. सहाव्या शतकात इराणमध्ये कोणत्या राजाने मोठे साम्राज्य प्रस्थापित केले होते?",
+      "options": [
+        { "option_number": 1, "text": "दार्युश", "is_correct": false },
+        { "option_number": 2, "text": "सायरस", "is_correct": true },
+        { "option_number": 3, "text": "सिकंदर", "is_correct": false },
+        { "option_number": 4, "text": "सेल्युकस", "is_correct": false }
+      ],
+      "answer": "सायरस"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट दार्युशच्या काळात भारत आणि इराण यांच्यात कोणत्या प्रकारचे संबंध प्रस्थापित झाले?",
+      "options": [
+        { "option_number": 1, "text": "केवळ युद्ध", "is_correct": false },
+        { "option_number": 2, "text": "राजनैतिक", "is_correct": true },
+        { "option_number": 3, "text": "धार्मिक", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "राजनैतिक"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट दार्युशने त्याच्या साम्राज्यात कोणते समान चलन लागू केले?",
+      "options": [
+        { "option_number": 1, "text": "रुपया", "is_correct": false },
+        { "option_number": 2, "text": "दीनार", "is_correct": false },
+        { "option_number": 3, "text": "दारिक", "is_correct": true },
+        { "option_number": 4, "text": "मुद्रा", "is_correct": false }
+      ],
+      "answer": "दारिक"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रीक सम्राट अलेक्झांडर ऊर्फ सिकंदर याने भारतावर कोणत्या वर्षी स्वारी केली?",
+      "options": [
+        { "option_number": 1, "text": "इ.स.पू. ३२६", "is_correct": true },
+        { "option_number": 2, "text": "इ.स.पू. ५१८", "is_correct": false },
+        { "option_number": 3, "text": "इ.स. ३२६", "is_correct": false },
+        { "option_number": 4, "text": "इ.स.पू. २७३", "is_correct": false }
+      ],
+      "answer": "इ.स.पू. ३२६"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "सिकंदर सिंधू नदी ओलांडून कोणत्या शहरात आला?",
+      "options": [
+        { "option_number": 1, "text": "पाटलिपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "तक्षशिला", "is_correct": true },
+        { "option_number": 3, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 4, "text": "मथुरा", "is_correct": false }
+      ],
+      "answer": "तक्षशिला"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "सिकंदरला भारतातून माघार का घ्यावी लागली?",
+      "options": [
+        { "option_number": 1, "text": "तो आजारी पडला", "is_correct": false },
+        { "option_number": 2, "text": "सैनिकांनी बंड पुकारले", "is_correct": true },
+        { "option_number": 3, "text": "तो युद्ध हरला", "is_correct": false },
+        { "option_number": 4, "text": "त्याचा मृत्यू झाला", "is_correct": false }
+      ],
+      "answer": "सैनिकांनी बंड पुकारले"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतातील जिंकलेल्या प्रदेशांच्या व्यवस्थेसाठी सिकंदरने नेमलेल्या ग्रीक अधिकाऱ्यांना काय म्हटले जाई?",
+      "options": [
+        { "option_number": 1, "text": "राज्यपाल", "is_correct": false },
+        { "option_number": 2, "text": "सत्रप", "is_correct": true },
+        { "option_number": 3, "text": "सेनापती", "is_correct": false },
+        { "option_number": 4, "text": "अमात्य", "is_correct": false }
+      ],
+      "answer": "सत्रप"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "सिकंदरचा मृत्यू कोठे झाला?",
+      "options": [
+        { "option_number": 1, "text": "तक्षशिला", "is_correct": false },
+        { "option_number": 2, "text": "बॅबिलोन", "is_correct": true },
+        { "option_number": 3, "text": "पाटलिपुत्र", "is_correct": false },
+        { "option_number": 4, "text": "रोम", "is_correct": false }
+      ],
+      "answer": "बॅबिलोन"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रीक राजांच्या नाण्यांच्या एका बाजूला कोणाचे चित्र असे?",
+      "options": [
+        { "option_number": 1, "text": "देवालयाचे", "is_correct": false },
+        { "option_number": 2, "text": "राजाचे", "is_correct": true },
+        { "option_number": 3, "text": "प्राण्याचे", "is_correct": false },
+        { "option_number": 4, "text": "नकाशाचे", "is_correct": false }
+      ],
+      "answer": "राजाचे"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य साम्राज्याची स्थापना कोणी केली?",
+      "options": [
+        { "option_number": 1, "text": "बिंदुसार", "is_correct": false },
+        { "option_number": 2, "text": "अशोक", "is_correct": false },
+        { "option_number": 3, "text": "चंद्रगुप्त मौर्य", "is_correct": true },
+        { "option_number": 4, "text": "धनानंद", "is_correct": false }
+      ],
+      "answer": "चंद्रगुप्त मौर्य"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "चंद्रगुप्त मौर्याने मगधच्या कोणत्या जुलमी राजाचा पाडाव केला?",
+      "options": [
+        { "option_number": 1, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 2, "text": "धनानंद", "is_correct": true },
+        { "option_number": 3, "text": "अजातशत्रू", "is_correct": false },
+        { "option_number": 4, "text": "सायरस", "is_correct": false }
+      ],
+      "answer": "धनानंद"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "सेल्युकस निकेटर हा कोणाचा सेनापती होता?",
+      "options": [
+        { "option_number": 1, "text": "सायरस", "is_correct": false },
+        { "option_number": 2, "text": "सिकंदर", "is_correct": true },
+        { "option_number": 3, "text": "अशोक", "is_correct": false },
+        { "option_number": 4, "text": "बिंदुसार", "is_correct": false }
+      ],
+      "answer": "सिकंदर"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "चंद्रगुप्त मौर्याने सेल्युकस निकेटरचा पराभव केल्यामुळे कोणते प्रदेश त्याच्या साम्राज्यात सामील झाले?",
+      "options": [
+        { "option_number": 1, "text": "काबूल, कंदाहार, हेरात", "is_correct": true },
+        { "option_number": 2, "text": "कलिंग, ओडिसा", "is_correct": false },
+        { "option_number": 3, "text": "सौराष्ट्र, महाराष्ट्र", "is_correct": false },
+        { "option_number": 4, "text": "श्रीलंका", "is_correct": false }
+      ],
+      "answer": "काबूल, कंदाहार, हेरात"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "'मुद्राराक्षस' हे नाटक कोणी लिहिले?",
+      "options": [
+        { "option_number": 1, "text": "कौटिल्य", "is_correct": false },
+        { "option_number": 2, "text": "विशाखदत्त", "is_correct": true },
+        { "option_number": 3, "text": "मेगॅस्थिनिस", "is_correct": false },
+        { "option_number": 4, "text": "वाल्मिकी", "is_correct": false }
+      ],
+      "answer": "विशाखदत्त"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "चंद्रगुप्त मौर्याच्या दरबारात सेल्युकस निकेटरचा कोणता राजदूत राहिला होता?",
+      "options": [
+        { "option_number": 1, "text": "युआन श्वांग", "is_correct": false },
+        { "option_number": 2, "text": "मेगॅस्थिनिस", "is_correct": true },
+        { "option_number": 3, "text": "फाहियान", "is_correct": false },
+        { "option_number": 4, "text": "इत्सिंग", "is_correct": false }
+      ],
+      "answer": "मेगॅस्थिनिस"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट चंद्रगुप्त मौर्याने गुजरातमध्ये कोणते धरण बांधले होते?",
+      "options": [
+        { "option_number": 1, "text": "कोयना", "is_correct": false },
+        { "option_number": 2, "text": "सुदर्शन", "is_correct": true },
+        { "option_number": 3, "text": "भाक्रा", "is_correct": false },
+        { "option_number": 4, "text": "नागार्जुन", "is_correct": false }
+      ],
+      "answer": "सुदर्शन"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन परंपरेनुसार चंद्रगुप्त मौर्याने कोणत्या धर्माचा स्वीकार केला होता?",
+      "options": [
+        { "option_number": 1, "text": "बौद्ध", "is_correct": false },
+        { "option_number": 2, "text": "जैन", "is_correct": true },
+        { "option_number": 3, "text": "हिंदू", "is_correct": false },
+        { "option_number": 4, "text": "ख्रिश्चन", "is_correct": false }
+      ],
+      "answer": "जैन धर्म"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "चंद्रगुप्त मौर्याने आयुष्याचा शेवट कोठे केला?",
+      "options": [
+        { "option_number": 1, "text": "पाटलिपुत्र", "is_correct": false },
+        { "option_number": 2, "text": "श्रवणबेळगोळ", "is_correct": true },
+        { "option_number": 3, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 4, "text": "वाराणसी", "is_correct": false }
+      ],
+      "answer": "श्रवणबेळगोळ (कर्नाटक)"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "चंद्रगुप्त मौर्याच्या मृत्यूनंतर कोण मगधचा राजा झाला?",
+      "options": [
+        { "option_number": 1, "text": "अशोक", "is_correct": false },
+        { "option_number": 2, "text": "बिंदुसार", "is_correct": true },
+        { "option_number": 3, "text": "बिंबिसार", "is_correct": false },
+        { "option_number": 4, "text": "चंद्रगुप्त दुसरा", "is_correct": false }
+      ],
+      "answer": "बिंदुसार"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाने कोणत्या प्रदेशावर स्वारी केली?",
+      "options": [
+        { "option_number": 1, "text": "सौराष्ट्र", "is_correct": false },
+        { "option_number": 2, "text": "कलिंग", "is_correct": true },
+        { "option_number": 3, "text": "अफगाणिस्तान", "is_correct": false },
+        { "option_number": 4, "text": "नेपाळ", "is_correct": false }
+      ],
+      "answer": "कलिंग"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "कलिंगचे युद्ध पाहून सम्राट अशोकाने कोणता महत्त्वाचा निर्णय घेतला?",
+      "options": [
+        { "option_number": 1, "text": "साम्राज्य वाढवण्याचा", "is_correct": false },
+        { "option_number": 2, "text": "पुन्हा कधीही युद्ध न करण्याचा", "is_correct": true },
+        { "option_number": 3, "text": "राजपदाचा त्याग करण्याचा", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "पुन्हा कधीही युद्ध न करण्याचा"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाच्या शिलालेखांची लिपी कोणती आहे?",
+      "options": [
+        { "option_number": 1, "text": "देवनागरी", "is_correct": false },
+        { "option_number": 2, "text": "ब्राह्मी", "is_correct": true },
+        { "option_number": 3, "text": "पाली", "is_correct": false },
+        { "option_number": 4, "text": "खरोष्टी", "is_correct": false }
+      ],
+      "answer": "ब्राह्मी लिपी"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "शिलालेखांमध्ये सम्राट अशोकाने स्वतःचा उल्लेख काय म्हणून केला आहे?",
+      "options": [
+        { "option_number": 1, "text": "चक्रवर्ती राजा", "is_correct": false },
+        { "option_number": 2, "text": "देवानं पियो पियदसी", "is_correct": true },
+        { "option_number": 3, "text": "मगध सम्राट", "is_correct": false },
+        { "option_number": 4, "text": "विजेता अशोक", "is_correct": false }
+      ],
+      "answer": "देवानं पियो पियदसी"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाने स्वतः कोणत्या धर्माचा स्वीकार केला होता?",
+      "options": [
+        { "option_number": 1, "text": "जैन", "is_correct": false },
+        { "option_number": 2, "text": "बौद्ध", "is_correct": true },
+        { "option_number": 3, "text": "वैदिक", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "बौद्ध धर्म"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "अशोकाने बौद्ध धर्माच्या प्रसारासाठी आपला मुलगा महेंद्र आणि मुलगी संघमित्रा यांना कोठे पाठवले?",
+      "options": [
+        { "option_number": 1, "text": "चीन", "is_correct": false },
+        { "option_number": 2, "text": "श्रीलंका", "is_correct": true },
+        { "option_number": 3, "text": "रोम", "is_correct": false },
+        { "option_number": 4, "text": "म्यानमार", "is_correct": false }
+      ],
+      "answer": "श्रीलंका"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाने पाटलिपुत्र येथे बौद्ध धर्माची कितवी परिषद बोलावली होती?",
+      "options": [
+        { "option_number": 1, "text": "पहिली", "is_correct": false },
+        { "option_number": 2, "text": "दुसरी", "is_correct": false },
+        { "option_number": 3, "text": "तिसरी", "is_correct": true },
+        { "option_number": 4, "text": "चौथी", "is_correct": false }
+      ],
+      "answer": "तिसरी परिषद"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्यकालीन राज्यव्यवस्थेत प्रशासकीय सोयीसाठी साम्राज्याचे किती विभाग पाडलेले होते?",
+      "options": [
+        { "option_number": 1, "text": "दोन", "is_correct": false },
+        { "option_number": 2, "text": "चार", "is_correct": true },
+        { "option_number": 3, "text": "सहा", "is_correct": false },
+        { "option_number": 4, "text": "आठ", "is_correct": false }
+      ],
+      "answer": "चार विभाग"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य साम्राज्याच्या पूर्व विभागाची राजधानी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 2, "text": "तोशाली", "is_correct": true },
+        { "option_number": 3, "text": "सुवर्णगिरी", "is_correct": false },
+        { "option_number": 4, "text": "तक्षशिला", "is_correct": false }
+      ],
+      "answer": "तोशाली"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्यकालीन लोकजीवनात बुद्धिबळाला कोणत्या नावाने ओळखले जाई?",
+      "options": [
+        { "option_number": 1, "text": "द्यूत", "is_correct": false },
+        { "option_number": 2, "text": "अष्टपद", "is_correct": true },
+        { "option_number": 3, "text": "शतरंज", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "अष्टपद"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "भारताची राजमुद्रा कोणत्या स्तंभाच्या आधारे तयार करण्यात आली आहे?",
+      "options": [
+        { "option_number": 1, "text": "दिल्लीचा स्तंभ", "is_correct": false },
+        { "option_number": 2, "text": "सारनाथचा स्तंभ", "is_correct": true },
+        { "option_number": 3, "text": "सांचीचा स्तूप", "is_correct": false },
+        { "option_number": 4, "text": "मुंबईचा स्तंभ", "is_correct": false }
+      ],
+      "answer": "सारनाथ येथील अशोक स्तंभ"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "राजमुद्रेवर समोरून पाहताना किती सिंह दिसतात?",
+      "options": [
+        { "option_number": 1, "text": "एक", "is_correct": false },
+        { "option_number": 2, "text": "दोन", "is_correct": false },
+        { "option_number": 3, "text": "तीन", "is_correct": true },
+        { "option_number": 4, "text": "चार", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "अशोक स्तंभावरील राजमुद्रेच्या चक्राच्या एका बाजूस कोणता प्राणी आहे?",
+      "options": [
+        { "option_number": 1, "text": "वाघ", "is_correct": false },
+        { "option_number": 2, "text": "अश्व (घोडा)", "is_correct": true },
+        { "option_number": 3, "text": "हरिण", "is_correct": false },
+        { "option_number": 4, "text": "कुत्रा", "is_correct": false }
+      ],
+      "answer": "अश्व"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य काळात बांधलेली बिहारमधील कोणती लेणी प्रसिद्ध आहेत?",
+      "options": [
+        { "option_number": 1, "text": "अजिंठा", "is_correct": false },
+        { "option_number": 2, "text": "वेरुळ", "is_correct": false },
+        { "option_number": 3, "text": "बराबार", "is_correct": true },
+        { "option_number": 4, "text": "कार्ला", "is_correct": false }
+      ],
+      "answer": "बराबार टेकड्यांवरील लेणी"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाच्या कोणत्या लेखात प्राण्यांच्या शिकारीवर बंदीचे निर्बंध होते?",
+      "options": [
+        { "option_number": 1, "text": "सारनाथ", "is_correct": false },
+        { "option_number": 2, "text": "दिल्ली-टोपडा", "is_correct": true },
+        { "option_number": 3, "text": "गिरनार", "is_correct": false },
+        { "option_number": 4, "text": "सोपारा", "is_correct": false }
+      ],
+      "answer": "दिल्ली-टोपडा"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्यकालीन लोकजीवनात कोणत्या खेळांना लोकप्रियता होती?",
+      "options": [
+        { "option_number": 1, "text": "क्रिकेट", "is_correct": false },
+        { "option_number": 2, "text": "कुस्ती व रथांच्या शर्यती", "is_correct": true },
+        { "option_number": 3, "text": "फुटबॉल", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "कुस्तीचे खेळ, रथांच्या शर्यती"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य साम्राज्याची राजधानी कोठे होती?",
+      "options": [
+        { "option_number": 1, "text": "तक्षशिला", "is_correct": false },
+        { "option_number": 2, "text": "पाटलिपुत्र", "is_correct": true },
+        { "option_number": 3, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 4, "text": "सुवर्णगिरी", "is_correct": false }
+      ],
+      "answer": "पाटलिपुत्र"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाचा कोणता संदेश राष्ट्रध्वजावर आहे?",
+      "options": [
+        { "option_number": 1, "text": "अशोक चक्र", "is_correct": true },
+        { "option_number": 2, "text": "त्रिरत्न", "is_correct": false },
+        { "option_number": 3, "text": "सत्यमेव जयते", "is_correct": false },
+        { "option_number": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "अशोकस्तंभावरील चक्र"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "कौटिल्य किंवा आर्य चाणक्य यांनी चंद्रगुप्त मौर्याला कोणाच्या विनाशासाठी मदत केली?",
+      "options": [
+        { "option_number": 1, "text": "सिकंदर", "is_correct": false },
+        { "option_number": 2, "text": "धनानंद", "is_correct": true },
+        { "option_number": 3, "text": "अशोक", "is_correct": false },
+        { "option_number": 4, "text": "सत्रप", "is_correct": false }
+      ],
+      "answer": "धनानंद"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाने प्रजेच्या सुखासाठी खालीलपैकी कोणते काम केले?",
+      "options": [
+        { "option_number": 1, "text": "विहिरी खोदल्या", "is_correct": false },
+        { "option_number": 2, "text": "रस्ते बांधले", "is_correct": false },
+        { "option_number": 3, "text": "झाडे लावली", "is_correct": false },
+        { "option_number": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "तक्षशिला सध्या कोणत्या देशात आहे?",
+      "options": [
+        { "option_number": 1, "text": "भारत", "is_correct": false },
+        { "option_number": 2, "text": "पाकिस्तान", "is_correct": true },
+        { "option_number": 3, "text": "अफगाणिस्तान", "is_correct": false },
+        { "option_number": 4, "text": "नेपाळ", "is_correct": false }
+      ],
+      "answer": "पाकिस्तान"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "मेगॅस्थिनिसने लिहिलेल्या ग्रंथाचे नाव काय?",
+      "options": [
+        { "option_number": 1, "text": "अर्थशास्त्र", "is_correct": false },
+        { "option_number": 2, "text": "इंडिका", "is_correct": true },
+        { "option_number": 3, "text": "मुद्राराक्षस", "is_correct": false },
+        { "option_number": 4, "text": "मेघदूत", "is_correct": false }
+      ],
+      "answer": "इंडिका"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाचा राज्यकारभार कोणत्या शहरातून चालत असे?",
+      "options": [
+        { "option_number": 1, "text": "वाराणसी", "is_correct": false },
+        { "option_number": 2, "text": "पाटलिपुत्र", "is_correct": true },
+        { "option_number": 3, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 4, "text": "गया", "is_correct": false }
+      ],
+      "answer": "पाटलिपुत्र"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "ग्रीक इतिहासकारांच्या लेखनातून कोणाची माहिती मिळते?",
+      "options": [
+        { "option_number": 1, "text": "भारतातील सैनिक", "is_correct": true },
+        { "option_number": 2, "text": "केवळ व्यापार", "is_correct": false },
+        { "option_number": 3, "text": "पिके", "is_correct": false },
+        { "option_number": 4, "text": "हवामान", "is_correct": false }
+      ],
+      "answer": "भारतातील सैनिक"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाने कशावर विजय मिळवल्यानंतर त्याचे हृदयपरिवर्तन झाले?",
+      "options": [
+        { "option_number": 1, "text": "सौराष्ट्र", "is_correct": false },
+        { "option_number": 2, "text": "कलिंग", "is_correct": true },
+        { "option_number": 3, "text": "तक्षशिला", "is_correct": false },
+        { "option_number": 4, "text": "उज्जयिनी", "is_correct": false }
+      ],
+      "answer": "कलिंग"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य काळात हस्तिदंतावरील कोरीव कामाशिवाय खालीलपैकी कोणता महत्त्वाचा उद्योग होता?",
+      "options": [
+        { "option_number": 1, "text": "नौकाबांधणी", "is_correct": true },
+        { "option_number": 2, "text": "विमानबांधणी", "is_correct": false },
+        { "option_number": 3, "text": "काचकाम", "is_correct": false },
+        { "option_number": 4, "text": "प्लास्टिक उद्योग", "is_correct": false }
+      ],
+      "answer": "नौकाबांधणी"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "अशोक स्तंभाच्या वरच्या भागात कोणत्या प्राण्यांची उत्तम शिल्पे आहेत?",
+      "options": [
+        { "option_number": 1, "text": "सिंह, हत्ती, बैल", "is_correct": true },
+        { "option_number": 2, "text": "वाघ, अस्वल, हरिण", "is_correct": false },
+        { "option_number": 3, "text": "घोडा, उंट, गाय", "is_correct": false },
+        { "option_number": 4, "text": "मोर, पोपट, हंस", "is_correct": false }
+      ],
+      "answer": "सिंह, हत्ती, बैल"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य साम्राज्याची दक्षिण विभागाची राजधानी खालीलपैकी कोणती होती?",
+      "options": [
+        { "option_number": 1, "text": "तोशाली", "is_correct": false },
+        { "option_number": 2, "text": "उज्जयिनी", "is_correct": false },
+        { "option_number": 3, "text": "सुवर्णगिरी", "is_correct": true },
+        { "option_number": 4, "text": "तक्षशिला", "is_correct": false }
+      ],
+      "answer": "सुवर्णगिरी"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "सम्राट अशोकाने धर्मप्रचारासाठी बौद्ध भिक्खू कोठे पाठवले होते?",
+      "options": [
+        { "option_number": 1, "text": "मध्य आशिया व आग्नेय आशिया", "is_correct": true },
+        { "option_number": 2, "text": "युरोप व अमेरिका", "is_correct": false },
+        { "option_number": 3, "text": "ऑस्ट्रेलिया", "is_correct": false },
+        { "option_number": 4, "text": "रशिया", "is_correct": false }
+      ],
+      "answer": "मध्य आशिया व आग्नेय आशिया"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य काळात कोणती मातीची भांडी घडवली जात असत?",
+      "options": [
+        { "option_number": 1, "text": "चकाकी असलेली तांबडी भांडी", "is_correct": false },
+        { "option_number": 2, "text": "चकाकी असलेली काळ्या रंगाची भांडी", "is_correct": true },
+        { "option_number": 3, "text": "निळ्या रंगाची भांडी", "is_correct": false },
+        { "option_number": 4, "text": "पांढऱ्या रंगाची भांडी", "is_correct": false }
+      ],
+      "answer": "चकाकी असलेली काळ्या रंगाची भांडी"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "मौर्य राजसत्तेत कोणाला सल्ला देण्यासाठी मंत्रिपरिषद असे?",
+      "options": [
+        { "option_number": 1, "text": "सेनापतीला", "is_correct": false },
+        { "option_number": 2, "text": "राजाला", "is_correct": true },
+        { "option_number": 3, "text": "राजदूताला", "is_correct": false },
+        { "option_number": 4, "text": "अमात्याला", "is_correct": false }
+      ],
+      "answer": "राजाला"
+    },
+    {
+      "question_number": 51,
+      "question_type": "एकशब्दी",
+      "question": "इ.स.पू. सहाव्या शतकात इराणमध्ये कोणत्या राजाने मोठे साम्राज्य प्रस्थापित केले?",
+      "answer": "सायरस"
+    },
+    {
+      "question_number": 52,
+      "question_type": "एकशब्दी",
+      "question": "सायरसचे साम्राज्य वायव्य भारतापासून कोठपर्यंत पसरलेले होते?",
+      "answer": "रोम आणि इजिप्त"
+    },
+    {
+      "question_number": 53,
+      "question_type": "एकशब्दी",
+      "question": "कोणत्या इराणी सम्राटाने भारताचा वायव्येकडील प्रदेश आणि पंजाबचा भाग जिंकला होता?",
+      "answer": "दार्युश"
+    },
+    {
+      "question_number": 54,
+      "question_type": "एकशब्दी",
+      "question": "दार्युशने त्याच्या साम्राज्यात कोणते समान चलन लागू केले?",
+      "answer": "दारिक"
+    },
+    {
+      "question_number": 55,
+      "question_type": "एकशब्दी",
+      "question": "दार्युशच्या काळात बांधलेले इराणमधील राजधानीचे शहर कोणते?",
+      "answer": "पर्सिपोलीस"
+    },
+    {
+      "question_number": 56,
+      "question_type": "एकशब्दी",
+      "question": "ग्रीक सम्राट सिकंदराने भारताच्या वायव्य प्रदेशावर कोणत्या वर्षी स्वारी केली?",
+      "answer": "इ.स.पू. ३२६"
+    },
+    {
+      "question_number": 57,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदर सिंधू नदी ओलांडून कोणत्या शहरात आला?",
+      "answer": "तक्षशिला"
+    },
+    {
+      "question_number": 58,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदराच्या सैनिकांनी कोणाविरुद्ध बंड पुकारले?",
+      "answer": "सिकंदरा विरुद्ध"
+    },
+    {
+      "question_number": 59,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदरने भारतातील जिंकलेल्या प्रदेशांच्या व्यवस्थेसाठी कोणाची नेमणूक केली?",
+      "answer": "सत्रप (ग्रीक अधिकारी)"
+    },
+    {
+      "question_number": 60,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदराचा मृत्यू इ.स.पू. ३२३ मध्ये कोठे झाला?",
+      "answer": "बॅबिलोन"
+    },
+    {
+      "question_number": 61,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदराच्या आक्रमणामुळे भारताचा कोणत्या जगाशी व्यापार वाढला?",
+      "answer": "पश्चिमेकडील जग"
+    },
+    {
+      "question_number": 62,
+      "question_type": "एकशब्दी",
+      "question": "ग्रीक मूर्तिकलेतून भारतात कोणत्या नवीन कलाशैलीचा उदय झाला?",
+      "answer": "गांधार"
+    },
+    {
+      "question_number": 63,
+      "question_type": "एकशब्दी",
+      "question": "ग्रीक राजांच्या नाण्यांच्या एका बाजूला कोणाचे चित्र असे?",
+      "answer": "नाणे पाडणाऱ्या राजाचे"
+    },
+    {
+      "question_number": 64,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याची स्थापना कोणी केली?",
+      "answer": "चंद्रगुप्त मौर्य"
+    },
+    {
+      "question_number": 65,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्त मौर्याने मगधच्या कोणत्या जुलमी राजाचा पाडाव केला?",
+      "answer": "धनानंद"
+    },
+    {
+      "question_number": 66,
+      "question_type": "एकशब्दी",
+      "question": "सेल्युकस निकेटर हा कोणाचा सेनापती होता?",
+      "answer": "सिकंदराचा"
+    },
+    {
+      "question_number": 67,
+      "question_type": "एकशब्दी",
+      "question": "सेल्युकस निकेटरने भारताच्या कोणत्या भागावर आक्रमण केले होते?",
+      "answer": "वायव्य भारत आणि पंजाब"
+    },
+    {
+      "question_number": 68,
+      "question_type": "एकशब्दी",
+      "question": "सेल्युकस निकेटरचा पराभव केल्यामुळे चंद्रगुप्ताला कोणते प्रदेश मिळाले?",
+      "answer": "काबूल, कंदाहार आणि हेरात"
+    },
+    {
+      "question_number": 69,
+      "question_type": "एकशब्दी",
+      "question": "'मुद्राराक्षस' हे नाटक कोणी लिहिले?",
+      "answer": "विशाखदत्त"
+    },
+    {
+      "question_number": 70,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्त मौर्याच्या दरबारात सेल्युकसचा कोणता राजदूत होता?",
+      "answer": "मेगॅस्थिनिस"
+    },
+    {
+      "question_number": 71,
+      "question_type": "एकशब्दी",
+      "question": "मेगॅस्थिनिसने लिहिलेल्या प्रसिद्ध ग्रंथाचे नाव काय?",
+      "answer": "इंडिका"
+    },
+    {
+      "question_number": 72,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्त मौर्याने गुजरातमध्ये कोणते धरण बांधले होते?",
+      "answer": "सुदर्शन"
+    },
+    {
+      "question_number": 73,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्त मौर्याने आयुष्याच्या शेवटी कोणता धर्म स्वीकारला होता?",
+      "answer": "जैन"
+    },
+    {
+      "question_number": 74,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्त मौर्याचा मृत्यू कोठे झाला?",
+      "answer": "श्रवणबेळगोळ (कर्नाटक)"
+    },
+    {
+      "question_number": 75,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्तानंतर मगधचा राजा कोण झाला?",
+      "answer": "बिंदुसार"
+    },
+    {
+      "question_number": 76,
+      "question_type": "एकशब्दी",
+      "question": "सम्राट अशोक कोणत्या वर्षी मगधच्या सत्तेवर आला?",
+      "answer": "इ.स.पू. २७३"
+    },
+    {
+      "question_number": 77,
+      "question_type": "एकशब्दी",
+      "question": "राजा होण्यापूर्वी अशोक कोणत्या ठिकाणचा राज्यपाल होता?",
+      "answer": "तक्षशिला आणि उज्जयिनी"
+    },
+    {
+      "question_number": 78,
+      "question_type": "एकशब्दी",
+      "question": "सम्राट अशोकाने कोणत्या राज्यावर स्वारी केली?",
+      "answer": "कलिंग"
+    },
+    {
+      "question_number": 79,
+      "question_type": "एकशब्दी",
+      "question": "कलिंग राज्याचा प्रदेश आजच्या कोणत्या राज्यात आताे?",
+      "answer": "ओडिशा"
+    },
+    {
+      "question_number": 80,
+      "question_type": "एकशब्दी",
+      "question": "कलिंगच्या युद्धातील विनाश पाहून अशोकाने कोणता निर्णय घेतला?",
+      "answer": "पुन्हा कधीही युद्ध न करण्याचा"
+    },
+    {
+      "question_number": 81,
+      "question_type": "एकशब्दी",
+      "question": "अशोकच्या दृष्टीने कोणते गुण महत्त्वाचे होते?",
+      "answer": "सत्य, अहिंसा, दया आणि क्षमा"
+    },
+    {
+      "question_number": 82,
+      "question_type": "एकशब्दी",
+      "question": "सम्राट अशोकाचे लेख कोणत्या लिपीत आहेत?",
+      "answer": "ब्राह्मी"
+    },
+    {
+      "question_number": 83,
+      "question_type": "एकशब्दी",
+      "question": "लेखांमध्ये अशोकाने स्वतःचा उल्लेख काय म्हणून केला आहे?",
+      "answer": "देवानं पियो पियदसी"
+    },
+    {
+      "question_number": 84,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाच्या कोणत्या लेखात प्राण्यांच्या शिकारीवर बंदीचे निर्बंध आहेत?",
+      "answer": "दिल्ली-टोपडा"
+    },
+    {
+      "question_number": 85,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने बौद्ध धर्माची तिसरी परिषद कोठे बोलावली होती?",
+      "answer": "पाटलिपुत्र"
+    },
+    {
+      "question_number": 86,
+      "question_type": "एकशब्दी",
+      "question": "बौद्ध धर्माच्या प्रसारासाठी अशोकाने आपल्या मुलाला व मुलीला कोठे पाठवले?",
+      "answer": "श्रीलंका"
+    },
+    {
+      "question_number": 87,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाच्या मुलाचे नाव काय होते?",
+      "answer": "महेंद्र"
+    },
+    {
+      "question_number": 88,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाच्या मुलीचे नाव काय होते?",
+      "answer": "संघमित्रा"
+    },
+    {
+      "question_number": 89,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने प्रजेसाठी कोणती महत्त्वाची वैद्यकीय सोय केली?",
+      "answer": "मोफत औषधपाणी (माणसे व पशू)"
+    },
+    {
+      "question_number": 90,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याची राजधानी कोणती होती?",
+      "answer": "पाटलिपुत्र"
+    },
+    {
+      "question_number": 91,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याच्या पूर्व विभागाची राजधानी कोणती होती?",
+      "answer": "तोशाली"
+    },
+    {
+      "question_number": 92,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याच्या पश्चिम विभागाची राजधानी कोठे होती?",
+      "answer": "उज्जयिनी"
+    },
+    {
+      "question_number": 93,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याच्या दक्षिण विभागाची राजधानी कोणती होती?",
+      "answer": "सुवर्णगिरी"
+    },
+    {
+      "question_number": 94,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याच्या उत्तर विभागाची राजधानी कोणती होती?",
+      "answer": "तक्षशिला"
+    },
+    {
+      "question_number": 95,
+      "question_type": "एकशब्दी",
+      "question": "राज्यकारभारात राजाला सल्ला देण्यासाठी काय असे?",
+      "answer": "मंत्रिपरिषद"
+    },
+    {
+      "question_number": 96,
+      "question_type": "एकशब्दी",
+      "question": "शत्रूच्या हालचालींवर नजर ठेवण्यासाठी मौर्य काळात कोणते खाते सक्षम होते?",
+      "answer": "हेरखाते"
+    },
+    {
+      "question_number": 97,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य काळात कोणत्या उत्पादनाला सर्वाधिक महत्त्व होते?",
+      "answer": "शेती"
+    },
+    {
+      "question_number": 98,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य काळात बुद्धिबळाला काय म्हटले जाई?",
+      "answer": "अष्टपद"
+    },
+    {
+      "question_number": 99,
+      "question_type": "एकशब्दी",
+      "question": "भारताची राजमुद्रा कोणत्या स्तंभाच्या आधारे तयार केली आहे?",
+      "answer": "सारनाथ येथील अशोक स्तंभ"
+    },
+    {
+      "question_number": 100,
+      "question_type": "एकशब्दी",
+      "question": "राजमुद्रेवरील चक्राच्या एका बाजूला कोणता प्राणी आहे?",
+      "answer": "अश्व (घोडा)"
+    },
+    {
+      "question_number": 101,
+      "question_type": "एकशब्दी",
+      "question": "राजमुद्रेवरील चक्राच्या दुसऱ्या बाजूला कोणता प्राणी आहे?",
+      "answer": "वृषभ (बैल)"
+    },
+    {
+      "question_number": 102,
+      "question_type": "एकशब्दी",
+      "question": "बिहारमधील कोणत्या टेकड्यांवरील लेणी प्रसिद्ध आहेत?",
+      "answer": "बराबार"
+    },
+    {
+      "question_number": 103,
+      "question_type": "एकशब्दी",
+      "question": "भारतातील लेण्यांमध्ये सर्वात प्राचीन लेणी कोणती?",
+      "answer": "बराबार येथील लेणी"
+    },
+    {
+      "question_number": 104,
+      "question_type": "एकशब्दी",
+      "question": "सम्राट अशोकाच्या मृत्यूनंतर मौर्य साम्राज्याला काय झाले?",
+      "answer": "उतरती कळा आली"
+    },
+    {
+      "question_number": 105,
+      "question_type": "एकशब्दी",
+      "question": "दारिक हे चलन कोणी सुरू केले?",
+      "answer": "सम्राट दार्युश"
+    },
+    {
+      "question_number": 106,
+      "question_type": "एकशब्दी",
+      "question": "सिंधू नदी ओलांडून सिकंदर प्रथम कोठे आला?",
+      "answer": "तक्षशिला"
+    },
+    {
+      "question_number": 107,
+      "question_type": "एकशब्दी",
+      "question": "बॅबिलोन हे स्थळ आजच्या कोणत्या देशात आहे?",
+      "answer": "इराक"
+    },
+    {
+      "question_number": 108,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदराच्या नाण्यांच्या दुसऱ्या बाजूला कोणाचे चित्र असे?",
+      "answer": "ग्रीक देवतेचे"
+    },
+    {
+      "question_number": 109,
+      "question_type": "एकशब्दी",
+      "question": "नंद राजा धनानंदाच्या काळात मगधची राजधानी कोणती होती?",
+      "answer": "पाटलिपुत्र"
+    },
+    {
+      "question_number": 110,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्त मौर्याने सेल्युकस निकेटरचा पराभव केव्हा केला?",
+      "answer": "इ.स.पू. ३०५ च्या सुमारास"
+    },
+    {
+      "question_number": 111,
+      "question_type": "एकशब्दी",
+      "question": "विशाखदत्त हे कोणत्या भाषेतील नाटककार होते?",
+      "answer": "संस्कृत"
+    },
+    {
+      "question_number": 112,
+      "question_type": "एकशब्दी",
+      "question": "कौटिल्याच्या कोणत्या ग्रंथाचा प्रभाव मौर्य राजवटीवर होता?",
+      "answer": "अर्थशास्त्र"
+    },
+    {
+      "question_number": 113,
+      "question_type": "एकशब्दी",
+      "question": "सुदर्शन धरण गुजरातमध्ये कोठे बांधले होते?",
+      "answer": "जुनागढ जवळ"
+    },
+    {
+      "question_number": 114,
+      "question_type": "एकशब्दी",
+      "question": "बिंदुसार हा कोणाचा मुलगा होता?",
+      "answer": "चंद्रगुप्त मौर्य"
+    },
+    {
+      "question_number": 115,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाचा राज्याभिषेक कोठे झाला?",
+      "answer": "पाटलिपुत्र"
+    },
+    {
+      "question_number": 116,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने कलिंगवर विजय राज्याभिषेकानंतर किती वर्षांनी मिळवला?",
+      "answer": "आठ वर्षांनी"
+    },
+    {
+      "question_number": 117,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाच्या लेखांमधील 'देवानं पियो' चा अर्थ काय?",
+      "answer": "देवाचा प्रिय"
+    },
+    {
+      "question_number": 118,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाच्या लेखांमधील 'पियदसी' चा अर्थ काय?",
+      "answer": "प्रियदर्शी"
+    },
+    {
+      "question_number": 119,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने धर्मप्रचारासाठी कोणास नियुक्त केले होते?",
+      "answer": "बौद्ध भिक्खू"
+    },
+    {
+      "question_number": 120,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने प्रवाशांच्या सोयीसाठी रस्त्यांच्या कडेला काय बांधले?",
+      "answer": "धर्मशाळा"
+    },
+    {
+      "question_number": 121,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्यात तोशाली कोणत्या आजच्या राज्यात आहे?",
+      "answer": "ओडिशा"
+    },
+    {
+      "question_number": 122,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्यात उज्जयिनी कोणत्या आजच्या राज्यात आहे?",
+      "answer": "मध्य प्रदेश"
+    },
+    {
+      "question_number": 123,
+      "question_type": "एकशब्दी",
+      "question": "सुवर्णगिरी कोणत्या आजच्या राज्यात आहे?",
+      "answer": "कर्नाटक"
+    },
+    {
+      "question_number": 124,
+      "question_type": "एकशब्दी",
+      "question": "मौर्यकालीन मातीच्या भांड्यांचा रंग कोणता असे?",
+      "answer": "काळा (चकाकी असलेली)"
+    },
+    {
+      "question_number": 125,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य काळात नौकाबांधणी हा कोणता उद्योग होता?",
+      "answer": "मोठ्या प्रमाणावरील उद्योग"
+    },
+    {
+      "question_number": 126,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य काळात लोखंडाच्या वस्तू बनवण्याचे काय विकसित झाले होते?",
+      "answer": "तंत्रज्ञान"
+    },
+    {
+      "question_number": 127,
+      "question_type": "एकशब्दी",
+      "question": "सारनाथ येथील मूळ स्तंभावर एकूण किती सिंह आहेत?",
+      "answer": "चार"
+    },
+    {
+      "question_number": 128,
+      "question_type": "एकशब्दी",
+      "question": "राजमुद्रेवर समोरून पाहताना किती सिंह दिसतात?",
+      "answer": "तीन"
+    },
+    {
+      "question_number": 129,
+      "question_type": "एकशब्दी",
+      "question": "अशोकस्तंभावरील चक्र भारताच्या कशावर झळकते आहे?",
+      "answer": "राष्ट्रध्वजावर"
+    },
+    {
+      "question_number": 130,
+      "question_type": "एकशब्दी",
+      "question": "बराबार लेणी कोणत्या धर्माशी संबंधित असू शकतात?",
+      "answer": "बौद्ध (स्तूप व विहार संदर्भात)"
+    },
+    {
+      "question_number": 131,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदराच्या स्वारीच्या वेळी मगधवर कोणाची सत्ता होती?",
+      "answer": "धनानंद"
+    },
+    {
+      "question_number": 132,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदराला पंजाबमध्ये कोणत्या भारतीय राजाने लढा दिला?",
+      "answer": "पोरस (स्थानिक राजे)"
+    },
+    {
+      "question_number": 133,
+      "question_type": "एकशब्दी",
+      "question": "बॅबिलोन हे शहर प्राचीन काळी कशासाठी प्रसिद्ध होते?",
+      "answer": "राजधानी"
+    },
+    {
+      "question_number": 134,
+      "question_type": "एकशब्दी",
+      "question": "मेगॅस्थिनिसने भारताचा परिचय कोणाला करून दिला?",
+      "answer": "पश्चिमेकडील जगाला"
+    },
+    {
+      "question_number": 135,
+      "question_type": "एकशब्दी",
+      "question": "चंद्रगुप्त मौर्याने राजपदाचा त्याग का केला?",
+      "answer": "जैन धर्माचा स्वीकार केल्यामुळे (परंपरेनुसार)"
+    },
+    {
+      "question_number": 136,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाचा कोणता विजय प्रेमभावना वाढवणारा ठरला?",
+      "answer": "धम्म विजय"
+    },
+    {
+      "question_number": 137,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने जंगलात काय लावण्यास बंदी घातली होती?",
+      "answer": "वणवे"
+    },
+    {
+      "question_number": 138,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने बांधलेले स्तूप आणि विहार कशासाठी होते?",
+      "answer": "बौद्ध धर्मासाठी"
+    },
+    {
+      "question_number": 139,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य काळात कापड विणणे आणि रंगवणे हे काय होते?",
+      "answer": "व्यवसाय"
+    },
+    {
+      "question_number": 140,
+      "question_type": "एकशब्दी",
+      "question": "हस्तिदंतावरील कोरीव काम हे कशाचे उदाहरण आहे?",
+      "answer": "कलाकौशल्याचे"
+    },
+    {
+      "question_number": 141,
+      "question_type": "एकशब्दी",
+      "question": "मौर्यकालीन लोक उत्सव कोठे साजरे करत?",
+      "answer": "नगरांमध्ये आणि ग्रामांमध्ये"
+    },
+    {
+      "question_number": 142,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य काळात मनोरंजनासाठी कोणते लोकप्रिय कार्यक्रम होत?",
+      "answer": "नृत्य आणि गायन"
+    },
+    {
+      "question_number": 143,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाने स्तंभांवर कोणत्या प्राण्यांची शिल्पे उभारली?",
+      "answer": "सिंह, हत्ती आणि बैल"
+    },
+    {
+      "question_number": 144,
+      "question_type": "एकशब्दी",
+      "question": "अशोकस्तंभावरील चक्राला काय म्हणतात?",
+      "answer": "अशोकचक्र"
+    },
+    {
+      "question_number": 145,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्य हे प्राचीन भारताचे काय होते?",
+      "answer": "सर्वात मोठे साम्राज्य"
+    },
+    {
+      "question_number": 146,
+      "question_type": "एकशब्दी",
+      "question": "सिकंदराने नेमलेले सत्रप आपापसात का लढू लागले?",
+      "answer": "सत्तेसाठी"
+    },
+    {
+      "question_number": 147,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याच्या सीमा उत्तरेला कोठपर्यंत होत्या?",
+      "answer": "नेपाळ"
+    },
+    {
+      "question_number": 148,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याच्या सीमा दक्षिणेला कोठपर्यंत होत्या?",
+      "answer": "कर्नाटक आणि आंध्र प्रदेश"
+    },
+    {
+      "question_number": 149,
+      "question_type": "एकशब्दी",
+      "question": "अशोकाच्या काळात शिल्पकलेला काय मिळाले?",
+      "answer": "उत्तेजन"
+    },
+    {
+      "question_number": 150,
+      "question_type": "एकशब्दी",
+      "question": "मौर्य साम्राज्याचा शेवटचा सम्राट कोण होता?",
+      "answer": "बृहद्रथ (पुढील पाठाच्या संदर्भात)"
+    }
+  ]
+}
+  

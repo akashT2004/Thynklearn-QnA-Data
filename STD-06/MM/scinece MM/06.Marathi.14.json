@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.14",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "प्रकाश व छायानिर्मिती"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे मुख्य नैसर्गिक उगमस्थान कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "चंद्र", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": true },
+        { "option_id": 3, "text": "विजेरी", "is_correct": false },
+        { "option_id": 4, "text": "तारे", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ज्या वस्तू प्रकाश बाहेर टाकतात त्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "दीप्तिहीन वस्तू", "is_correct": false },
+        { "option_id": 2, "text": "पारदर्शक वस्तू", "is_correct": false },
+        { "option_id": 3, "text": "दीप्तिमान वस्तू", "is_correct": true },
+        { "option_id": 4, "text": "अपारदर्शक वस्तू", "is_correct": false }
+      ],
+      "answer": "दीप्तिमान वस्तू"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी प्रकाशाचा कृत्रिम स्रोत कोणता?",
+      "options": [
+        { "option_id": 1, "text": "काजवा", "is_correct": false },
+        { "option_id": 2, "text": "सूर्य", "is_correct": false },
+        { "option_id": 3, "text": "मेणबत्ती", "is_correct": true },
+        { "option_id": 4, "text": "अँन्गलरीश", "is_correct": false }
+      ],
+      "answer": "मेणबत्ती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "प्रकाश नेहमी कोणत्या मार्गाने प्रवास करतो?",
+      "options": [
+        { "option_id": 1, "text": "वक्र", "is_correct": false },
+        { "option_id": 2, "text": "सरळ", "is_correct": true },
+        { "option_id": 3, "text": "वर्तुळाकार", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "सरळ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "एखाद्या पृष्ठभागावरून प्रकाश परत फिरण्याच्या क्रियेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाशाचे परावर्तन", "is_correct": true },
+        { "option_id": 2, "text": "प्रकाशाचे संक्रमण", "is_correct": false },
+        { "option_id": 3, "text": "प्रकाशाचे अपवर्तन", "is_correct": false },
+        { "option_id": 4, "text": "छायानिर्मिती", "is_correct": false }
+      ],
+      "answer": "प्रकाशाचे परावर्तन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ज्या वस्तूतून प्रकाश आरपार जातो, तिला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अपारदर्शक", "is_correct": false },
+        { "option_id": 2, "text": "अर्धपारदर्शक", "is_correct": false },
+        { "option_id": 3, "text": "पारदर्शक", "is_correct": true },
+        { "option_id": 4, "text": "दीप्तिमान", "is_correct": false }
+      ],
+      "answer": "पारदर्शक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी अपारदर्शक वस्तू कोणती?",
+      "options": [
+        { "option_id": 1, "text": "काच", "is_correct": false },
+        { "option_id": 2, "text": "लाकूड", "is_correct": true },
+        { "option_id": 3, "text": "स्वच्छ पाणी", "is_correct": false },
+        { "option_id": 4, "text": "हवा", "is_correct": false }
+      ],
+      "answer": "लाकूड"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "छायेची निर्मिती होण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश स्रोत", "is_correct": false },
+        { "option_id": 2, "text": "अपारदर्शक वस्तू", "is_correct": false },
+        { "option_id": 3, "text": "पडदा", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सूचिछिद्र प्रतिमाग्राहकामध्ये मिळणारी प्रतिमा कशी असते?",
+      "options": [
+        { "option_id": 1, "text": "सुलटी", "is_correct": false },
+        { "option_id": 2, "text": "उलटी", "is_correct": true },
+        { "option_id": 3, "text": "अस्पष्ट", "is_correct": false },
+        { "option_id": 4, "text": "खूप मोठी", "is_correct": false }
+      ],
+      "answer": "उलटी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आरशात आपली प्रतिमा कशामुळे दिसते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश आरपार गेल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाश शोषला गेल्यामुळे", "is_correct": false },
+        { "option_id": 3, "text": "प्रकाशाच्या परावर्तनामुळे", "is_correct": true },
+        { "option_id": 4, "text": "अंधार असल्यामुळे", "is_correct": false }
+      ],
+      "answer": "प्रकाशाच्या परावर्तनामुळे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सूर्यप्रकाश किती रंगांचा बनलेला असतो?",
+      "options": [
+        { "option_id": 1, "text": "पाच", "is_correct": false },
+        { "option_id": 2, "text": "सहा", "is_correct": false },
+        { "option_id": 3, "text": "सात", "is_correct": true },
+        { "option_id": 4, "text": "दहा", "is_correct": false }
+      ],
+      "answer": "सात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी दीप्तिहीन वस्तू कोणती?",
+      "options": [
+        { "option_id": 1, "text": "चंद्र", "is_correct": true },
+        { "option_id": 2, "text": "विजेरी", "is_correct": false },
+        { "option_id": 3, "text": "मेणबत्ती", "is_correct": false },
+        { "option_id": 4, "text": "सूर्य", "is_correct": false }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचा मार्ग सरळ असतो, याला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाशाचे परावर्तन", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाशाचे रेषीय संक्रमण", "is_correct": true },
+        { "option_id": 3, "text": "छायानिर्मिती", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश स्रोत", "is_correct": false }
+      ],
+      "answer": "प्रकाशाचे रेषीय संक्रमण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वस्तूची छाया केव्हा मोठी दिसते?",
+      "options": [
+        { "option_id": 1, "text": "वस्तू प्रकाश स्रोताच्या जवळ असल्यास", "is_correct": true },
+        { "option_id": 2, "text": "वस्तू पडद्याच्या जवळ असल्यास", "is_correct": false },
+        { "option_id": 3, "text": "प्रकाश स्रोत खूप दूर असल्यास", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "वस्तू प्रकाश स्रोताच्या जवळ असल्यास"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पांढरा प्रकाश लोलकातून गेल्यावर काय घडते?",
+      "options": [
+        { "option_id": 1, "text": "तो काळा होतो", "is_correct": false },
+        { "option_id": 2, "text": "तो सात रंगांत विभागतो", "is_correct": true },
+        { "option_id": 3, "text": "तो अदृश्य होतो", "is_correct": false },
+        { "option_id": 4, "text": "तो वाकतो", "is_correct": false }
+      ],
+      "answer": "तो सात रंगांत विभागतो"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "छायानिर्मिती कशामुळे होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश आरपार गेल्यामुळे", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाश अडवल्यामुळे", "is_correct": true },
+        { "option_id": 3, "text": "परावर्तनामुळे", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "प्रकाश अडवल्यामुळे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते प्रकाशाचे नैसर्गिक उगमस्थान नाही?",
+      "options": [
+        { "option_id": 1, "text": "काजवा", "is_correct": false },
+        { "option_id": 2, "text": "हनी मशरूम", "is_correct": false },
+        { "option_id": 3, "text": "बल्ब", "is_correct": true },
+        { "option_id": 4, "text": "सूर्य", "is_correct": false }
+      ],
+      "answer": "बल्ब"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "खिडकीची काच ही कोणत्या प्रकारची वस्तू आहे?",
+      "options": [
+        { "option_id": 1, "text": "अपारदर्शक", "is_correct": false },
+        { "option_id": 2, "text": "पारदर्शक", "is_correct": true },
+        { "option_id": 3, "text": "अर्धपारदर्शक", "is_correct": false },
+        { "option_id": 4, "text": "दीप्तिमान", "is_correct": false }
+      ],
+      "answer": "पारदर्शक"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "तेलकट कागद हा कशाचे उदाहरण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पारदर्शक", "is_correct": false },
+        { "option_id": 2, "text": "अपारदर्शक", "is_correct": false },
+        { "option_id": 3, "text": "अर्धपारदर्शक", "is_correct": true },
+        { "option_id": 4, "text": "दीप्तिमान", "is_correct": false }
+      ],
+      "answer": "अर्धपारदर्शक"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आरशात आपली बाजू कशी दिसते?",
+      "options": [
+        { "option_id": 1, "text": "डावी बाजू उजवीकडे", "is_correct": true },
+        { "option_id": 2, "text": "सुलटी", "is_correct": false },
+        { "option_id": 3, "text": "बदलत नाही", "is_correct": false },
+        { "option_id": 4, "text": "मोठी दिसते", "is_correct": false }
+      ],
+      "answer": "डावी बाजू उजवीकडे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "प्रकाश स्रोत आणि पडदा यांमधील अंतर वाढवले तर छायेवर काय परिणाम होतो?",
+      "options": [
+        { "option_id": 1, "text": "छाया मोठी होते", "is_correct": false },
+        { "option_id": 2, "text": "छाया लहान होते", "is_correct": true },
+        { "option_id": 3, "text": "बदलत नाही", "is_correct": false },
+        { "option_id": 4, "text": "छाया गडद होते", "is_correct": false }
+      ],
+      "answer": "छाया लहान होते"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणाला स्वतःचा प्रकाश नसतो?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "तारे", "is_correct": false },
+        { "option_id": 3, "text": "ग्रह", "is_correct": true },
+        { "option_id": 4, "text": "काजवा", "is_correct": false }
+      ],
+      "answer": "ग्रह"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सूचिछिद्र प्रतिमाग्राहकाचे तत्त्व काय दर्शवते?",
+      "options": [
+        { "option_id": 1, "text": "परावर्तन", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाशाचे रेषीय संक्रमण", "is_correct": true },
+        { "option_id": 3, "text": "छाया", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "प्रकाशाचे रेषीय संक्रमण"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सावलीचा आकार कशावर अवलंबून असतो?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश स्रोताचे अंतर", "is_correct": false },
+        { "option_id": 2, "text": "वस्तूची दिशा", "is_correct": false },
+        { "option_id": 3, "text": "पडद्याचे अंतर", "is_correct": false },
+        { "option_id": 4, "text": "वरील सर्व", "is_correct": true }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "दिवसाच्या वेळी सावली सर्वात लहान केव्हा असते?",
+      "options": [
+        { "option_id": 1, "text": "सकाळी", "is_correct": false },
+        { "option_id": 2, "text": "दुपारी १२ वाजता", "is_correct": true },
+        { "option_id": 3, "text": "संध्याकाळी", "is_correct": false },
+        { "option_id": 4, "text": "रात्री", "is_correct": false }
+      ],
+      "answer": "दुपारी १२ वाजता"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचा वेग किती असतो?",
+      "options": [
+        { "option_id": 1, "text": "3 लाख किमी प्रति सेकंद", "is_correct": true },
+        { "option_id": 2, "text": "300 किमी प्रति तास", "is_correct": false },
+        { "option_id": 3, "text": "100 किमी प्रति मिनिट", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "3 लाख किमी प्रति सेकंद"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "आरसा म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाशाचे शोषण करणारा पृष्ठभाग", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाशाचे परावर्तन करणारा चकचकीत पृष्ठभाग", "is_correct": true },
+        { "option_id": 3, "text": "पारदर्शक काच", "is_correct": false },
+        { "option_id": 4, "text": "अपारदर्शक वस्तू", "is_correct": false }
+      ],
+      "answer": "प्रकाशाचे परावर्तन करणारा चकचकीत पृष्ठभाग"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "इंद्रधनुष्यातील पहिला रंग कोणता असतो?",
+      "options": [
+        { "option_id": 1, "text": "तांबडा", "is_correct": true },
+        { "option_id": 2, "text": "निळा", "is_correct": false },
+        { "option_id": 3, "text": "हिरवा", "is_correct": false },
+        { "option_id": 4, "text": "पिवळा", "is_correct": false }
+      ],
+      "answer": "तांबडा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "मेणबत्ती विझवताना ओठांचा चंबू का करतात?",
+      "options": [
+        { "option_id": 1, "text": "हवेचा दाब वाढवण्यासाठी", "is_correct": true },
+        { "option_id": 2, "text": "हवेचा दाब कमी करण्यासाठी", "is_correct": false },
+        { "option_id": 3, "text": "फक्त फॅशन म्हणून", "is_correct": false },
+        { "option_id": 4, "text": "यांपैकी नाही", "is_correct": false }
+      ],
+      "answer": "हवेचा दाब वाढवण्यासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "प्रकाशाच्या अभावाला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "उजेड", "is_correct": false },
+        { "option_id": 2, "text": "अंधार", "is_correct": true },
+        { "option_id": 3, "text": "छाया", "is_correct": false },
+        { "option_id": 4, "text": "परावर्तन", "is_correct": false }
+      ],
+      "answer": "अंधार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "प्रकाश म्हणजे काय?",
+      "answer": "प्रकाश ही एक ऊर्जेची रूप आहे ज्यामुळे आपल्याला वस्तू दिसतात."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "दीप्तिमान वस्तू म्हणजे काय?",
+      "answer": "ज्या वस्तू स्वतः प्रकाश बाहेर टाकतात, त्यांना दीप्तिमान वस्तू म्हणतात."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "दीप्तिहीन वस्तू म्हणजे काय?",
+      "answer": "ज्या वस्तू स्वतः प्रकाश बाहेर टाकू शकत नाहीत, त्यांना दीप्तिहीन वस्तू म्हणतात."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाचे नैसर्गिक स्रोत कोणते?",
+      "answer": "सूर्य, तारे, काजवे आणि काही विशिष्ट मासे हे प्रकाशाचे नैसर्गिक स्रोत आहेत."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाचे कृत्रिम स्रोत कोणते?",
+      "answer": "विजेचा बल्ब, मेणबत्ती, कंदील आणि विजेरी हे प्रकाशाचे कृत्रिम स्रोत आहेत."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाचे रेषीय संक्रमण म्हणजे काय?",
+      "answer": "प्रकाश नेहमी सरळ रेषेत प्रवास करतो, यालाच प्रकाशाचे रेषीय संक्रमण म्हणतात."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाचे परावर्तन म्हणजे काय?",
+      "answer": "प्रकाश किरण एखाद्या वस्तूच्या पृष्ठभागावर आदळून परत फिरण्याच्या क्रियेला प्रकाशाचे परावर्तन म्हणतात."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "पारदर्शक वस्तू म्हणजे काय?",
+      "answer": "ज्या वस्तूमधून प्रकाश आरपार जातो आणि पलीकडची वस्तू स्पष्ट दिसते, तिला पारदर्शक वस्तू म्हणतात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "अपारदर्शक वस्तू म्हणजे काय?",
+      "answer": "ज्या वस्तूमधून प्रकाश आरपार जात नाही, तिला अपारदर्शक वस्तू म्हणतात."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "अर्धपारदर्शक वस्तू म्हणजे काय?",
+      "answer": "ज्या वस्तूमधून काही प्रमाणात प्रकाश आरपार जातो, तिला अर्धपारदर्शक वस्तू म्हणतात."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "छाया कशी निर्माण होते?",
+      "answer": "जेव्हा प्रकाश स्रोताच्या मार्गात एखादी अपारदर्शक वस्तू येते, तेव्हा प्रकाश अडवला जातो आणि त्या वस्तूच्या पलीकडे अंधाराचा भाग तयार होतो, ज्याला छाया म्हणतात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "छाया निर्मितीसाठी कोणत्या तीन गोष्टी आवश्यक आहेत?",
+      "answer": "प्रकाश स्रोत, अपारदर्शक वस्तू आणि पडदा या तीन गोष्टी छाया निर्मितीसाठी आवश्यक आहेत."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "सूचिछिद्र प्रतिमाग्राहक म्हणजे काय?",
+      "answer": "एका खोक्याला लहान छिद्र पाडून प्रकाश रेषीय संक्रमण करतो हे सिद्ध करणारे साधे उपकरण म्हणजे सूचिछिद्र प्रतिमाग्राहक होय."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "आरसा कशाने बनलेला असतो?",
+      "answer": "काचेच्या एका बाजूला परावर्तक पदार्थाचा (चांदी किंवा ॲल्युमिनियम) लेप लावून आरसा बनवला जातो."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "आरशातील प्रतिमा कशी असते?",
+      "answer": "आरशातील प्रतिमा स्पष्ट असते आणि त्यात डाव्या व उजव्या बाजूंची अदलाबदल झालेली असते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "सूर्यप्रकाशात किती रंग असतात?",
+      "answer": "सूर्यप्रकाशात सात रंग असतात: तांबडा, नारंगी, पिवळा, हिरवा, निळा, पारवा आणि जांभळा."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "लोलक (Prism) कशासाठी वापरतात?",
+      "answer": "पांढऱ्या प्रकाशाचे सात रंगांत विभाजन करण्यासाठी लोलकाचा वापर केला जातो."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "इंद्रधनुष्य केव्हा दिसते?",
+      "answer": "पावसानंतर हवेतील पाण्याच्या थेंबांमधून सूर्यप्रकाश गेल्यावर त्याचे सात रंगांत विभाजन होते, तेव्हा इंद्रधनुष्य दिसते."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "न्यूटनची तबकडी म्हणजे काय?",
+      "answer": "ज्या तबकडीवर सात रंग रंगवलेले असतात आणि ती वेगाने फिरवल्यावर पांढरा रंग दिसतो, तिला न्यूटनची तबकडी म्हणतात."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "छाया मोठी केव्हा दिसते?",
+      "answer": "जेव्हा वस्तू प्रकाश स्रोताच्या जवळ असते, तेव्हा तिची छाया मोठी दिसते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "छाया लहान केव्हा दिसते?",
+      "answer": "जेव्हा वस्तू प्रकाश स्रोतापासून दूर आणि पडद्याच्या जवळ असते, तेव्हा छाया लहान दिसते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "अंधारात वस्तू का दिसत नाहीत?",
+      "answer": "कारण वस्तू दिसण्यासाठी प्रकाश स्रोताकडून निघालेला प्रकाश वस्तूवर पडून तो आपल्या डोळ्यांपर्यंत पोहोचणे आवश्यक असते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "चंद्राला स्वतःचा प्रकाश आहे का?",
+      "answer": "नाही, चंद्र हा दीप्तिहीन आहे; तो सूर्याच्या प्रकाशाचे परावर्तन करतो म्हणून आपल्याला चमकताना दिसतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "काचेतून प्रकाश का जातो?",
+      "answer": "काच ही पारदर्शक पदार्थ असल्यामुळे ती स्वतःमधून प्रकाशाला जाऊ देते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "भिंतीची सावली का पडते?",
+      "answer": "भिंत अपारदर्शक आहे, ती प्रकाशाला अडवते म्हणून तिची सावली पडते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "पाण्यातील प्रतिबिंब कशामुळे दिसते?",
+      "answer": "स्थिर पाण्याच्या पृष्ठभागावरून होणाऱ्या प्रकाशाच्या परावर्तनामुळे प्रतिबिंब दिसते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "परावर्तक पृष्ठभाग कसा असावा लागतो?",
+      "answer": "चांगल्या परावर्तनासाठी पृष्ठभाग चकचकीत आणि गुळगुळीत असावा लागतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "विजेरीची तीव्रता कशी वाढवता येते?",
+      "answer": "विजेरीतील परावर्तक आरसा आणि लेन्सचा वापर करून प्रकाशाची तीव्रता वाढवता येते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "प्रकाश किती वेगाने प्रवास करतो?",
+      "answer": "प्रकाश सुमारे ३,००,००० किलोमीटर प्रति सेकंद या प्रचंड वेगाने प्रवास करतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "आपल्याला एखादी वस्तू केव्हा दिसते?",
+      "answer": "जेव्हा एखाद्या वस्तूवरून परावर्तित झालेला प्रकाश आपल्या डोळ्यांत प्रवेश करतो, तेव्हा ती वस्तू आपल्याला दिसते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "इंद्रधनुष्यातील सात रंगांचा क्रम सांगा.",
+      "answer": "तांबडा, नारंगी, पिवळा, हिरवा, निळा, पारवा आणि जांभळा (ता-ना-पि-हि-नि-पा-जा)."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "सावलीचा रंग नेहमी काळा का असतो?",
+      "answer": "कारण सावलीच्या जागी प्रकाश पोहोचत नाही, प्रकाशाच्या अभावामुळे तो भाग काळा दिसतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "अर्धपारदर्शक वस्तूंची दोन उदाहरणे द्या.",
+      "answer": "तेलकट कागद आणि धुरकट काच ही अर्धपारदर्शक वस्तूंची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "अपारदर्शक वस्तूंची दोन उदाहरणे द्या.",
+      "answer": "दगड आणि लाकडी फळी ही अपारदर्शक वस्तूंची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "पारदर्शक वस्तूंची दोन उदाहरणे द्या.",
+      "answer": "स्वच्छ पाणी आणि हवा ही पारदर्शक पदार्थांची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "प्रकाश स्रोताची तीव्रता कशावर अवलंबून असते?",
+      "answer": "प्रकाश स्रोत किती ऊर्जा बाहेर टाकतो, यावर त्याची तीव्रता अवलंबून असते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "सूर्य हा दीप्तिमान का आहे?",
+      "answer": "कारण सूर्य स्वतः प्रकाश निर्माण करतो आणि बाहेर टाकतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "दुपारी सावली लहान का असते?",
+      "answer": "कारण दुपारी सूर्य आपल्या डोक्यावर असतो, त्यामुळे प्रकाशाचे किरण सरळ खाली पडतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "सकाळी व संध्याकाळी सावली लांब का असते?",
+      "answer": "कारण सकाळी व संध्याकाळी सूर्य क्षितिजावर असतो आणि प्रकाशाचे किरण तिरपे पडतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "छाया पडद्यावरच का दिसते?",
+      "answer": "कारण सावली दिसण्यासाठी एक पृष्ठभाग आवश्यक असतो जिथे प्रकाश पोहोचू शकत नाही."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "परावर्तनाचे प्रकार कोणते?",
+      "answer": "नियमित परावर्तन आणि अनियमित परावर्तन हे परावर्तनाचे दोन प्रकार आहेत."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "आरशातील प्रतिमेचा आकार वस्तूएवढाच असतो का?",
+      "answer": "हो, सपाट आरशात दिसणाऱ्या प्रतिमेचा आकार वस्तूच्या आकाराएवढाच असतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "काजवा रात्री का चमकतो?",
+      "answer": "काजव्याच्या शरीरात होणाऱ्या रासायनिक अभिक्रियेमुळे तो नैसर्गिकरीत्या प्रकाश बाहेर टाकतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "हवा पारदर्शक आहे हे कसे सिद्ध होते?",
+      "answer": "आपण हवेतून लांबच्या वस्तू स्पष्टपणे पाहू शकतो, यावरून हवा पारदर्शक आहे हे सिद्ध होते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "प्रकाश वाकड्या नळीतून का जात नाही?",
+      "answer": "कारण प्रकाश नेहमी सरळ रेषेत प्रवास करतो (रेषीय संक्रमण), तो नळीच्या वळणावर अडवला जातो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "वस्तूची सावली केव्हा पडत नाही?",
+      "answer": "जेव्हा वस्तू पारदर्शक असते किंवा तिथे कोणताही प्रकाश स्रोत नसतो, तेव्हा सावली पडत नाही."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "आरसा प्रकाशाचे काय करतो?",
+      "answer": "आरसा त्याच्यावर पडणाऱ्या प्रकाशाचे जास्तीत जास्त परावर्तन करतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "प्रतिबिंब आणि छाया यांत काय फरक आहे?",
+      "answer": "प्रतिबिंब परावर्तनामुळे दिसते आणि त्यात वस्तूचे रंग दिसतात, तर छाया प्रकाश अडवल्यामुळे दिसते आणि ती नेहमी काळी असते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "चांदीचा लेप आरशाच्या पाठीमागे का लावला जातो?",
+      "answer": "कारण चांदी हा प्रकाशाचा उत्तम परावर्तक आहे, ज्यामुळे स्पष्ट प्रतिमा मिळते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "मेणबत्तीची ज्योत सूचिछिद्र प्रतिमाग्राहकात उलटी का दिसते?",
+      "answer": "प्रकाशाच्या रेषीय संक्रमणामुळे ज्योतीच्या वरच्या भागातून येणारे किरण खालच्या दिशेला आणि खालून येणारे किरण वरच्या दिशेला जातात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "पांढरा प्रकाश म्हणजे काय?",
+      "answer": "ज्या प्रकाशात सर्व सात रंगांचे मिश्रण असते, त्याला पांढरा प्रकाश म्हणतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "छाया किती प्रकारच्या असतात?",
+      "answer": "मुख्यतः छाया (Umbra) आणि उपछाया (Penumbra) असे छायेचे भाग असतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "ग्रहांचे स्वतःचे प्रकाश उगमस्थान का नसते?",
+      "answer": "कारण ग्रह हे दीप्तिहीन खगोल आहेत, ते ताऱ्यांकडून मिळणाऱ्या प्रकाशाचे परावर्तन करतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "खिडकीला तेलकट कागद लावल्यास काय होईल?",
+      "answer": "खिडकी अर्धपारदर्शक होईल आणि घरात अंधुक प्रकाश येईल."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "आपली छाया आपल्यासोबत का चालते?",
+      "answer": "कारण आपण प्रकाश स्रोताच्या मार्गात जिथे जातो, तिथे प्रकाश अडवला जातो आणि छाया निर्माण होते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "दीप्तिहीन वस्तू आपल्याला कशी काय दिसते?",
+      "answer": "जेव्हा एखाद्या दीप्तिमान वस्तूचा प्रकाश त्या दीप्तिहीन वस्तूवर पडतो आणि परावर्तित होतो, तेव्हा ती आपल्याला दिसते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "इंद्रधनुष्याला सात रंग का असतात?",
+      "answer": "सूर्यप्रकाश हा मुळात सात रंगांचा बनलेला असतो, पाण्याचे थेंब त्याचे पृथक्करण करतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "रात्रीच्या वेळी आरशात प्रतिमा का दिसत नाही?",
+      "answer": "कारण रात्री प्रकाश नसतो आणि परावर्तन होण्यासाठी प्रकाश आवश्यक असतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "विजेचा बल्ब कसा प्रकाश देतो?",
+      "answer": "बल्बमधील तारेतून वीज गेल्यावर ती गरम होते आणि प्रकाश बाहेर टाकते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाचे महत्त्व काय आहे?",
+      "answer": "प्रकाशामुळे आपल्याला सभोवतालचे जग पाहता येते आणि वनस्पतींना अन्न तयार करता येते."
+    }
+  ]
+}

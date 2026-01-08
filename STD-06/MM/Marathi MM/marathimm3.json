@@ -1,0 +1,712 @@
+{
+  "chapter_info": {
+    "chapter_number": "06.Marathi.03",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-१",
+    "sub_lesson_name": "डॉ. कलाम यांचे बालपण"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "डॉ. ए.पी.जे. अब्दुल कलाम यांचा जन्म कोठे झाला?",
+      "options": [
+        { "option_number": 1, "text": "चेन्नई", "is_correct": false },
+        { "option_number": 2, "text": "रामेश्वरम", "is_correct": true },
+        { "option_number": 3, "text": "मधुराई", "is_correct": false },
+        { "option_number": 4, "text": "तिरुवनंतपुरम", "is_correct": false }
+      ],
+      "answer": "रामेश्वरम"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "डॉ. कलाम यांनी आयुष्यातील पहिली कमाई कशाद्वारे केली?",
+      "options": [
+        { "option_number": 1, "text": "मासे विकून", "is_correct": false },
+        { "option_number": 2, "text": "वर्तमानपत्रे वाटून", "is_correct": true },
+        { "option_number": 3, "text": "चिंचोके गोळा करून", "is_correct": false },
+        { "option_number": 4, "text": "शेती करून", "is_correct": false }
+      ],
+      "answer": "वर्तमानपत्रे वाटून"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "जैनुलाबदीन", "is_correct": true },
+        { "option_number": 2, "text": "अहमद", "is_correct": false },
+        { "option_number": 3, "text": "शमसुद्दीन", "is_correct": false },
+        { "option_number": 4, "text": "जळालुद्दीन", "is_correct": false }
+      ],
+      "answer": "जैनुलाबदीन"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या बालपणी कोणत्या युद्धाचा काळ होता?",
+      "options": [
+        { "option_number": 1, "text": "पहिले महायुद्ध", "is_correct": false },
+        { "option_number": 2, "text": "दुसरे महायुद्ध", "is_correct": true },
+        { "option_number": 3, "text": "स्वातंत्र्य युद्ध", "is_correct": false },
+        { "option_number": 4, "text": "भारत-चीन युद्ध", "is_correct": false }
+      ],
+      "answer": "दुसरे महायुद्ध"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांना वर्तमानपत्रे वाटण्याच्या कामात कोणी मदत केली?",
+      "options": [
+        { "option_number": 1, "text": "वडिलांनी", "is_correct": false },
+        { "option_number": 2, "text": "आईने", "is_correct": false },
+        { "option_number": 3, "text": "शमसुद्दीन", "is_correct": true },
+        { "option_number": 4, "text": "शिक्षकांनी", "is_correct": false }
+      ],
+      "answer": "शमसुद्दीन"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या आईचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "आशिअम्मा", "is_correct": true },
+        { "option_number": 2, "text": "लक्ष्मी", "is_correct": false },
+        { "option_number": 3, "text": "फातिमा", "is_correct": false },
+        { "option_number": 4, "text": "सावित्री", "is_correct": false }
+      ],
+      "answer": "आशिअम्मा"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "रामेश्वरमच्या प्रसिद्ध मंदिराचे मुख्य पुजारी कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "शंकराचार्य", "is_correct": false },
+        { "option_number": 2, "text": "पक्षी लक्ष्मणशास्त्री", "is_correct": true },
+        { "option_number": 3, "text": "रामानंद शास्त्री", "is_correct": false },
+        { "option_number": 4, "text": "शिवप्रकाशन", "is_correct": false }
+      ],
+      "answer": "पक्षी लक्ष्मणशास्त्री"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या घरात कोणाला नियमितपणे जेवू घातले जात असे?",
+      "options": [
+        { "option_number": 1, "text": "फक्त नातेवाईकांना", "is_correct": false },
+        { "option_number": 2, "text": "बाहेरच्या लोकांना", "is_correct": true },
+        { "option_number": 3, "text": "फक्त मित्रांना", "is_correct": false },
+        { "option_number": 4, "text": "कोणालाही नाही", "is_correct": false }
+      ],
+      "answer": "बाहेरच्या लोकांना"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांनी कशाचे बांधकाम केले होते?",
+      "options": [
+        { "option_number": 1, "text": "घराचे", "is_correct": false },
+        { "option_number": 2, "text": "नौकांचे", "is_correct": true },
+        { "option_number": 3, "text": "मंदिराचे", "is_correct": false },
+        { "option_number": 4, "text": "रस्त्यांचे", "is_correct": false }
+      ],
+      "answer": "नौकांचे"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "दुसऱ्या महायुद्धाच्या वेळी बाजारात कशाला मोठी मागणी आली होती?",
+      "options": [
+        { "option_number": 1, "text": "चिंचोक्यांना", "is_correct": true },
+        { "option_number": 2, "text": "फळांना", "is_correct": false },
+        { "option_number": 3, "text": "कापडाला", "is_correct": false },
+        { "option_number": 4, "text": "धान्याला", "is_correct": false }
+      ],
+      "answer": "चिंचोक्यांना"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांचे सर्वात जवळचे बालमित्र कोण होते?",
+      "options": [
+        { "option_number": 1, "text": "शमसुद्दीन", "is_correct": false },
+        { "option_number": 2, "text": "रामानंद शास्त्री", "is_correct": true },
+        { "option_number": 3, "text": "जळालुद्दीन", "is_correct": false },
+        { "option_number": 4, "text": "मणिक्कम", "is_correct": false }
+      ],
+      "answer": "रामानंद शास्त्री"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या आयुष्यात पुस्तके मिळण्याचे ठिकाण कोणते होते?",
+      "options": [
+        { "option_number": 1, "text": "शाळेचे ग्रंथालय", "is_correct": false },
+        { "option_number": 2, "text": "एस. टी. आर. मणिक्कम यांचे खाजगी ग्रंथालय", "is_correct": true },
+        { "option_number": 3, "text": "मंदिराचा कट्टा", "is_correct": false },
+        { "option_number": 4, "text": "वर्तमानपत्र ऑफिस", "is_correct": false }
+      ],
+      "answer": "एस. टी. आर. मणिक्कम यांचे खाजगी ग्रंथालय"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांना विज्ञानाकडे वळवण्याचे श्रेय कोणाला जाते?",
+      "options": [
+        { "option_number": 1, "text": "जळालुद्दीन", "is_correct": true },
+        { "option_number": 2, "text": "शमसुद्दीन", "is_correct": false },
+        { "option_number": 3, "text": "पुजारी", "is_correct": false },
+        { "option_number": 4, "text": "नवे शिक्षक", "is_correct": false }
+      ],
+      "answer": "जळालुद्दीन"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "नव्या शिक्षकांनी कलाम यांना बाकावर कोठे बसण्यास सांगितले?",
+      "options": [
+        { "option_number": 1, "text": "पहिल्या बाकावर", "is_correct": false },
+        { "option_number": 2, "text": "सर्वात शेवटच्या बाकावर", "is_correct": true },
+        { "option_number": 3, "text": "मध्ये", "is_correct": false },
+        { "option_number": 4, "text": "दुसऱ्या बाकावर", "is_correct": false }
+      ],
+      "answer": "सर्वात शेवटच्या बाकावर"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम शिक्षणासाठी रामेश्वरमहून कोठे गेले?",
+      "options": [
+        { "option_number": 1, "text": "रामनाथपुरमला", "is_correct": true },
+        { "option_number": 2, "text": "चेन्नईला", "is_correct": false },
+        { "option_number": 3, "text": "दिल्लीला", "is_correct": false },
+        { "option_number": 4, "text": "बेंगळुरूला", "is_correct": false }
+      ],
+      "answer": "रामनाथपुरमला"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांचे वडील स्वभावाने कसे होते?",
+      "options": [
+        { "option_number": 1, "text": "रागीट", "is_correct": false },
+        { "option_number": 2, "text": "उदार आणि संयमी", "is_correct": true },
+        { "option_number": 3, "text": "आळशी", "is_correct": false },
+        { "option_number": 4, "text": "स्वार्थी", "is_correct": false }
+      ],
+      "answer": "उदार आणि संयमी"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या घरी स्वयंपाक कोण करत असे?",
+      "options": [
+        { "option_number": 1, "text": "वडील", "is_correct": false },
+        { "option_number": 2, "text": "आई", "is_correct": true },
+        { "option_number": 3, "text": "बहीण", "is_correct": false },
+        { "option_number": 4, "text": "नोकर", "is_correct": false }
+      ],
+      "answer": "आई"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "रामेश्वरमच्या रेल्वे स्टेशनवर गाडी थांबणे का बंद झाले?",
+      "options": [
+        { "option_number": 1, "text": "युद्धामुळे", "is_correct": true },
+        { "option_number": 2, "text": "पावसामुळे", "is_correct": false },
+        { "option_number": 3, "text": "संपा मुळे", "is_correct": false },
+        { "option_number": 4, "text": "इंधन नसल्यामुळे", "is_correct": false }
+      ],
+      "answer": "युद्धामुळे"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांचा दृष्टिकोन कशा प्रकारचा होता?",
+      "options": [
+        { "option_number": 1, "text": "संकुचित", "is_correct": false },
+        { "option_number": 2, "text": "आध्यात्मिक आणि प्रगल्भ", "is_correct": true },
+        { "option_number": 3, "text": "केवळ व्यावसायिक", "is_correct": false },
+        { "option_number": 4, "text": "भीतीदायक", "is_correct": false }
+      ],
+      "answer": "आध्यात्मिक आणि प्रगल्भ"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम आणि रामानंद शास्त्री यांच्यातील मैत्री कशामुळे चर्चेत आली?",
+      "options": [
+        { "option_number": 1, "text": "नव्या शिक्षकांच्या भेदाभेदामुळे", "is_correct": true },
+        { "option_number": 2, "text": "त्यांच्या भांडणामुळे", "is_correct": false },
+        { "option_number": 3, "text": "अभ्यासामुळे", "is_correct": false },
+        { "option_number": 4, "text": "खेळामुळे", "is_correct": false }
+      ],
+      "answer": "नव्या शिक्षकांच्या भेदाभेदामुळे"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "चिंचोके गोळा करून कलाम किती पैसे कमवत असत?",
+      "options": [
+        { "option_number": 1, "text": "एक आणा", "is_correct": true },
+        { "option_number": 2, "text": "एक रुपया", "is_correct": false },
+        { "option_number": 3, "text": "पाच पैसे", "is_correct": false },
+        { "option_number": 4, "text": "दहा रुपये", "is_correct": false }
+      ],
+      "answer": "एक आणा"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या घरी जेवताना पाहुण्यांचे प्रमाण कसे असे?",
+      "options": [
+        { "option_number": 1, "text": "घरातील माणसांपेक्षा जास्त", "is_correct": true },
+        { "option_number": 2, "text": "घरातील माणसांपेक्षा कमी", "is_correct": false },
+        { "option_number": 3, "text": "केवळ दोनच पाहुणे", "is_correct": false },
+        { "option_number": 4, "text": "कोणीही नसे", "is_correct": false }
+      ],
+      "answer": "घरातील माणसांपेक्षा जास्त"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "रामेश्वरम हे कोणत्या राज्यात आहे?",
+      "options": [
+        { "option_number": 1, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_number": 2, "text": "तामिळनाडू", "is_correct": true },
+        { "option_number": 3, "text": "केरळ", "is_correct": false },
+        { "option_number": 4, "text": "कर्नाटक", "is_correct": false }
+      ],
+      "answer": "तामिळनाडू"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "वडिलांनी कलाम यांना शिक्षणासाठी जाताना कोणाचे उदाहरण दिले?",
+      "options": [
+        { "option_number": 1, "text": "समुद्र पक्ष्याचे (सी-गल)", "is_correct": true },
+        { "option_number": 2, "text": "सिंहाचे", "is_correct": false },
+        { "option_number": 3, "text": "घोड्याचे", "is_correct": false },
+        { "option_number": 4, "text": "हत्तीचे", "is_correct": false }
+      ],
+      "answer": "समुद्र पक्ष्याचे (सी-गल)"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांची कोणती शिकवण त्यांना आयुष्यभर उपयोगी पडली?",
+      "options": [
+        { "option_number": 1, "text": "श्रम आणि संयम", "is_correct": true },
+        { "option_number": 2, "text": "केवळ व्यापार", "is_correct": false },
+        { "option_number": 3, "text": "फक्त राजकारण", "is_correct": false },
+        { "option_number": 4, "text": "शत्रुत्व", "is_correct": false }
+      ],
+      "answer": "श्रम आणि संयम"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या बहिणीचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "झोहरा", "is_correct": true },
+        { "option_number": 2, "text": "फातिमा", "is_correct": false },
+        { "option_number": 3, "text": "मरियम", "is_correct": false },
+        { "option_number": 4, "text": "आयशा", "is_correct": false }
+      ],
+      "answer": "झोहरा"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांचे वडील आणि पुजारी यांच्यातील चर्चेचा विषय काय असे?",
+      "options": [
+        { "option_number": 1, "text": "राजकारण", "is_correct": false },
+        { "option_number": 2, "text": "अध्यात्म आणि समाजकल्याण", "is_correct": true },
+        { "option_number": 3, "text": "शेती", "is_correct": false },
+        { "option_number": 4, "text": "व्यापार", "is_correct": false }
+      ],
+      "answer": "अध्यात्म आणि समाजकल्याण"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांनी पहिली कमाई किती वर्षांचे असताना केली?",
+      "options": [
+        { "option_number": 1, "text": "८ वर्षे", "is_correct": true },
+        { "option_number": 2, "text": "१५ वर्षे", "is_correct": false },
+        { "option_number": 3, "text": "२० वर्षे", "is_correct": false },
+        { "option_number": 4, "text": "५ वर्षे", "is_correct": false }
+      ],
+      "answer": "८ वर्षे"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "रामेश्वरमच्या शाळेत कलाम कोणत्या बाकावर बसत असत?",
+      "options": [
+        { "option_number": 1, "text": "पहिल्या", "is_correct": true },
+        { "option_number": 2, "text": "शेवटच्या", "is_correct": false },
+        { "option_number": 3, "text": "मधल्या", "is_correct": false },
+        { "option_number": 4, "text": "बाहेर", "is_correct": false }
+      ],
+      "answer": "पहिल्या"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "विज्ञानाचे शिक्षक शिवसुब्रमणिया अय्यर यांच्या पत्नीचा सुरुवातीचा स्वभाव कसा होता?",
+      "options": [
+        { "option_number": 1, "text": "उदार", "is_correct": false },
+        { "option_number": 2, "text": "पुराणमतवादी आणि कर्मठ", "is_correct": true },
+        { "option_number": 3, "text": "आधुनिक", "is_correct": false },
+        { "option_number": 4, "text": "प्रेमळ", "is_correct": false }
+      ],
+      "answer": "पुराणमतवादी आणि कर्मठ"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "अय्यर सरांनी कलाम यांना पुन्हा जेवायला का बोलावले?",
+      "options": [
+        { "option_number": 1, "text": "शिक्षा देण्यासाठी", "is_correct": false },
+        { "option_number": 2, "text": "पत्नीचा दृष्टिकोन बदलण्यासाठी", "is_correct": true },
+        { "option_number": 3, "text": "कामासाठी", "is_correct": false },
+        { "option_number": 4, "text": "पार्टी देण्यासाठी", "is_correct": false }
+      ],
+      "answer": "पत्नीचा दृष्टिकोन बदलण्यासाठी"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या घराण्याचे नाव काय होते?",
+      "options": [
+        { "option_number": 1, "text": "मराकायर", "is_correct": true },
+        { "option_number": 2, "text": "खान", "is_correct": false },
+        { "option_number": 3, "text": "शेख", "is_correct": false },
+        { "option_number": 4, "text": "सय्यद", "is_correct": false }
+      ],
+      "answer": "मराकायर"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "दुसऱ्या महायुद्धाच्या काळात स्टेशनवर गाडी न थांबल्यामुळे वर्तमानपत्राचे गठ्ठे कोठून फेकले जात?",
+      "options": [
+        { "option_number": 1, "text": "विमानातून", "is_correct": false },
+        { "option_number": 2, "text": "चालत्या गाडीतून", "is_correct": true },
+        { "option_number": 3, "text": "सायकलवरून", "is_correct": false },
+        { "option_number": 4, "text": "बोटवरून", "is_correct": false }
+      ],
+      "answer": "चालत्या गाडीतून"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांना वर्तमानपत्रे वाटण्याचे काम कोणी दिले?",
+      "options": [
+        { "option_number": 1, "text": "वडिलांनी", "is_correct": false },
+        { "option_number": 2, "text": "त्यांचा चुलत भाऊ शमसुद्दीन", "is_correct": true },
+        { "option_number": 3, "text": "जळालुद्दीन", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षकांनी", "is_correct": false }
+      ],
+      "answer": "त्यांचा चुलत भाऊ शमसुद्दीन"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांनी स्वतःचा आत्मविश्वास कोणाच्या मदतीने मिळवला?",
+      "options": [
+        { "option_number": 1, "text": "शमसुद्दीन", "is_correct": true },
+        { "option_number": 2, "text": "आई", "is_correct": false },
+        { "option_number": 3, "text": "मित्र", "is_correct": false },
+        { "option_number": 4, "text": "नवे शिक्षक", "is_correct": false }
+      ],
+      "answer": "शमसुद्दीन"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांचे शिक्षण किती होते?",
+      "options": [
+        { "option_number": 1, "text": "खूप जास्त", "is_correct": false },
+        { "option_number": 2, "text": "बेताचेच (कमी)", "is_correct": true },
+        { "option_number": 3, "text": "पदवीधर", "is_correct": false },
+        { "option_number": 4, "text": "अडाणी", "is_correct": false }
+      ],
+      "answer": "बेताचेच (कमी)"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांनी कोणत्या विषयात रुची दाखवली?",
+      "options": [
+        { "option_number": 1, "text": "विज्ञान आणि तंत्रज्ञान", "is_correct": true },
+        { "option_number": 2, "text": "चित्रकला", "is_correct": false },
+        { "option_number": 3, "text": "खेळ", "is_correct": false },
+        { "option_number": 4, "text": "संगीत", "is_correct": false }
+      ],
+      "answer": "विज्ञान आणि तंत्रज्ञान"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांचे बालपण कसे होते?",
+      "options": [
+        { "option_number": 1, "text": "खूप श्रीमंतीचे", "is_correct": false },
+        { "option_number": 2, "text": "साधे आणि संस्कारक्षम", "is_correct": true },
+        { "option_number": 3, "text": "खूप दुःखी", "is_correct": false },
+        { "option_number": 4, "text": "दुर्लक्षित", "is_correct": false }
+      ],
+      "answer": "साधे आणि संस्कारक्षम"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांनी त्यांना रामनाथपुरमला जाताना काय सांगितले?",
+      "options": [
+        { "option_number": 1, "text": "जाऊ नकोस", "is_correct": false },
+        { "option_number": 2, "text": "आपले घर सोडावेच लागते", "is_correct": true },
+        { "option_number": 3, "text": "पैसे पाठवू नकोस", "is_correct": false },
+        { "option_number": 4, "text": "परत येऊ नकोस", "is_correct": false }
+      ],
+      "answer": "आपले घर सोडावेच लागते"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "रामेश्वरमच्या जीवनात धार्मिक सलोखा कसा होता?",
+      "options": [
+        { "option_number": 1, "text": "खूप चांगला", "is_correct": true },
+        { "option_number": 2, "text": "वाईट", "is_correct": false },
+        { "option_number": 3, "text": "तणावपूर्ण", "is_correct": false },
+        { "option_number": 4, "text": "उदासीन", "is_correct": false }
+      ],
+      "answer": "खूप चांगला"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांचा जन्म कोणत्या साली झाला?",
+      "options": [
+        { "option_number": 1, "text": "१९३१", "is_correct": true },
+        { "option_number": 2, "text": "१९४७", "is_correct": false },
+        { "option_number": 3, "text": "१९५०", "is_correct": false },
+        { "option_number": 4, "text": "१९२५", "is_correct": false }
+      ],
+      "answer": "१९३१"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या आईकडून त्यांना कोणता वारसा मिळाला?",
+      "options": [
+        { "option_number": 1, "text": "चांगुलपणावर विश्वास", "is_correct": true },
+        { "option_number": 2, "text": "कठोरता", "is_correct": false },
+        { "option_number": 3, "text": "मत्सर", "is_correct": false },
+        { "option_number": 4, "text": "स्वार्थ", "is_correct": false }
+      ],
+      "answer": "चांगुलपणावर विश्वास"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांनी 'विंग्स ऑफ फायर' हे पुस्तक कशासाठी लिहिले?",
+      "options": [
+        { "option_number": 1, "text": "स्वतःचे आत्मचरित्र सांगण्यासाठी", "is_correct": true },
+        { "option_number": 2, "text": "पैशांसाठी", "is_correct": false },
+        { "option_number": 3, "text": "प्रसिद्धीसाठी", "is_correct": false },
+        { "option_number": 4, "text": "दुसऱ्यांची माहिती देण्यासाठी", "is_correct": false }
+      ],
+      "answer": "स्वतःचे आत्मचरित्र सांगण्यासाठी"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "रामेश्वरमहून रामनाथपुरमला जाताना कलाम यांचा निरोप कोणाकोणाांनी घेतला?",
+      "options": [
+        { "option_number": 1, "text": "केवळ आईने", "is_correct": false },
+        { "option_number": 2, "text": "आई, वडील आणि मित्रांनी", "is_correct": true },
+        { "option_number": 3, "text": "कोणीही नाही", "is_correct": false },
+        { "option_number": 4, "text": "केवळ शिक्षकांनी", "is_correct": false }
+      ],
+      "answer": "आई, वडील आणि मित्रांनी"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांच्या नौका कशासाठी वापरल्या जात असत?",
+      "options": [
+        { "option_number": 1, "text": "मासेमारीसाठी", "is_correct": false },
+        { "option_number": 2, "text": "यात्रेकरूंना नेण्यासाठी", "is_correct": true },
+        { "option_number": 3, "text": "युद्धासाठी", "is_correct": false },
+        { "option_number": 4, "text": "मालाची वाहतूक करण्यासाठी", "is_correct": false }
+      ],
+      "answer": "यात्रेकरूंना नेण्यासाठी"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या मनावर कोणाच्या विज्ञानाच्या गोष्टींचा प्रभाव होता?",
+      "options": [
+        { "option_number": 1, "text": "जळालुद्दीन", "is_correct": true },
+        { "option_number": 2, "text": "मणिक्कम", "is_correct": false },
+        { "option_number": 3, "text": "अय्यर सर", "is_correct": false },
+        { "option_number": 4, "text": "शमसुद्दीन", "is_correct": false }
+      ],
+      "answer": "जळालुद्दीन"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांची कोणती गोष्ट त्यांच्यासाठी आदर्श होती?",
+      "options": [
+        { "option_number": 1, "text": "संयम आणि प्रगल्भ विचार", "is_correct": true },
+        { "option_number": 2, "text": "संपत्ती", "is_correct": false },
+        { "option_number": 3, "text": "रागीटपणा", "is_correct": false },
+        { "option_number": 4, "text": "हुशारी", "is_correct": false }
+      ],
+      "answer": "संयम आणि प्रगल्भ विचार"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांचा शालेय जीवनातील आवडता विषय कोणता असावा?",
+      "options": [
+        { "option_number": 1, "text": "गणित", "is_correct": false },
+        { "option_number": 2, "text": "विज्ञान", "is_correct": true },
+        { "option_number": 3, "text": "इतिहास", "is_correct": false },
+        { "option_number": 4, "text": "भूगोल", "is_correct": false }
+      ],
+      "answer": "विज्ञान"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "कलाम यांच्या वडिलांनी त्यांना रामनाथपुरमला जाण्यास का प्रवृत्त केले?",
+      "options": [
+        { "option_number": 1, "text": "उच्च शिक्षणासाठी", "is_correct": true },
+        { "option_number": 2, "text": "कामासाठी", "is_correct": false },
+        { "option_number": 3, "text": "मजेसाठी", "is_correct": false },
+        { "option_number": 4, "text": "त्रासामुळे", "is_correct": false }
+      ],
+      "answer": "उच्च शिक्षणासाठी"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "डॉ. कलाम यांनी भारताचे कोणते सर्वोच्च पद भूषवले?",
+      "options": [
+        { "option_number": 1, "text": "पंतप्रधान", "is_correct": false },
+        { "option_number": 2, "text": "राष्ट्रपती", "is_correct": true },
+        { "option_number": 3, "text": "मुख्यमंत्री", "is_correct": false },
+        { "option_number": 4, "text": "राज्यपाल", "is_correct": false }
+      ],
+      "answer": "राष्ट्रपती"
+    },
+    { "questionNumber": 51, "question": "डॉ. कलाम यांच्या आईचे नाव काय होते?", "answerOptions": [{"text": "आशिअम्मा", "rationale": "पाठात कलाम यांच्या आईचे नाव आशिअम्मा असे नमूद केले आहे.", "isCorrect": true}, {"text": "फातिमा", "rationale": "फातिमा हे नाव कलाम यांच्या आईचे नाही.", "isCorrect": false}], "hint": "हे नाव 'आ' अक्षरापासून सुरू होते." },
+    { "questionNumber": 52, "question": "कलाम यांच्या घरात कोणाला जेवू घातले जाई?", "answerOptions": [{"text": "बाहेरच्या लोकांना", "rationale": "कलाम यांच्या घरी अनेक बाहेरचे लोक घरातील माणसांपेक्षा जास्त संख्येने जेवत असत.", "isCorrect": true}, {"text": "फक्त नातेवाईकांना", "rationale": "त्यांच्या आईची उदारता केवळ नातेवाईकांपुरती मर्यादित नव्हती.", "isCorrect": false}], "hint": "त्यांच्या आईच्या उदार स्वभावाचा विचार करा." },
+    { "questionNumber": 53, "question": "रामेश्वरमच्या देवळाचे मुख्य पुजारी कोण होते?", "answerOptions": [{"text": "पक्षी लक्ष्मणशास्त्री", "rationale": "पक्षी लक्ष्मणशास्त्री हे रामेश्वरम मंदिराचे मुख्य पुजारी आणि कलाम यांच्या वडिलांचे मित्र होते.", "isCorrect": true}, {"text": "रामानंद शास्त्री", "rationale": "रामानंद हा पुजाऱ्यांचा मुलगा आणि कलाम यांचा मित्र होता.", "isCorrect": false}], "hint": "हे पुजारी कलाम यांच्या वडिलांचे जवळचे मित्र होते." },
+    { "questionNumber": 54, "question": "कलाम यांच्या वडिलांनी कशाचे बांधकाम केले?", "answerOptions": [{"text": "नौकांचे", "rationale": "यात्रेकरूंना नेण्या-आणण्यासाठी त्यांनी लाकडी नौका बांधल्या होत्या.", "isCorrect": true}, {"text": "घरांचे", "rationale": "वडिलांचा मुख्य व्यवसाय नौका बांधणीचा होता.", "isCorrect": false}], "hint": "पाण्यात चालणाऱ्या वाहनाचा विचार करा." },
+    { "questionNumber": 55, "question": "कलाम कोणाच्या सान्निध्यात विज्ञानाकडे वळले?", "answerOptions": [{"text": "जळालुद्दीन", "rationale": "जळालुद्दीन यांच्यासोबतच्या चर्चांमुळे कलाम यांच्या मनात विज्ञानाची गोडी निर्माण झाली.", "isCorrect": true}, {"text": "शमसुद्दीन", "rationale": "शमसुद्दीन हा वर्तमानपत्र वितरणाच्या कामात सोबत होता.", "isCorrect": false}], "hint": "हे कलाम यांच्या बहिणीचे पती होते." },
+    { "questionNumber": 56, "question": "कलाम यांच्या आयुष्यात पुस्तके कोणाकडे मिळत असत?", "answerOptions": [{"text": "एस. टी. आर. मणिक्कम", "rationale": "मणिक्कम यांच्या खाजगी ग्रंथालयामुळे कलाम यांना पुस्तके वाचायला मिळत.", "isCorrect": true}, {"text": "शाळेत", "rationale": "पाठात मणिक्कम यांच्या खाजगी संग्रहाचा विशेष उल्लेख आहे.", "isCorrect": false}], "hint": "रामेश्वरममधील एका क्रांतिकारी व्यक्तीचे नाव आठवा." },
+    { "questionNumber": 57, "question": "कलाम यांना शाळेत कोठे बसवले जात असे?", "answerOptions": [{"text": "मागच्या बाकावर", "rationale": "नव्या शिक्षकांनी भेदभावामुळे कलाम यांना शेवटच्या बाकावर बसायला लावले.", "isCorrect": true}, {"text": "पहिल्या बाकावर", "rationale": "सुरुवातीला ते पहिल्या बाकावर बसत पण नंतर त्यांना मागे पाठवले गेले.", "isCorrect": false}], "hint": "शिक्षकांनी केलेल्या अन्यायाचा हा प्रसंग आहे." },
+    { "questionNumber": 58, "question": "कलाम यांचे सर्वात जवळचे मित्र कोण होते?", "answerOptions": [{"text": "रामानंद शास्त्री", "rationale": "रामानंद शास्त्री आणि कलाम यांची बालपणापासूनची अतूट मैत्री होती.", "isCorrect": true}, {"text": "शिवप्रकाशन", "rationale": "शिवप्रकाशन हा देखील मित्र होता, पण रामानंदचा उल्लेख विशेष जवळचा असा आहे.", "isCorrect": false}], "hint": "हे मुख्य पुजारी लक्ष्मणशास्त्री यांचे सुपुत्र होते." },
+    { "questionNumber": 59, "question": "वडिलांनी कलाम यांना कोठे शिकायला पाठवले?", "answerOptions": [{"text": "रामनाथपुरमला", "rationale": "उच्च शिक्षणासाठी कलाम यांना रामेश्वरम सोडून रामनाथपुरमला जावे लागले.", "isCorrect": true}, {"text": "चेन्नईला", "rationale": "प्राथमिक शिक्षणासाठी ते रामनाथपुरमला गेले होते.", "isCorrect": false}], "hint": "जिल्ह्याचे ठिकाण आठवा." },
+    { "questionNumber": 60, "question": "कलाम यांनी पहिली कमाई किती वाजता सुरू केली?", "answerOptions": [{"text": "पहाटे", "rationale": "वर्तमानपत्रे गोळा करण्यासाठी कलाम यांना पहाटे उठून रेल्वे ट्रॅकवर जावे लागे.", "isCorrect": true}, {"text": "दुपारी", "rationale": "गाडी पहाटे येत असल्याने काम तेव्हाच सुरू होत असे.", "isCorrect": false}], "hint": "दिवसाची सुरुवात कधी होते?" },
+    { "questionNumber": 61, "question": "कलाम यांचा जन्म कोठे झाला?", "answerOptions": [{"text": "रामेश्वरम", "rationale": "रामेश्वरम हे कलाम यांचे जन्मस्थान आहे.", "isCorrect": true}, {"text": "दिल्ली", "rationale": "दिल्ली ही भारताची राजधानी असून कलाम तेथे नंतर वास्तव्यास होते.", "isCorrect": false}], "hint": "तामिळनाडूतील हे ठिकाण एका बेटावर आहे." },
+    { "questionNumber": 62, "question": "कलाम यांच्या वडिलांचे नाव काय होते?", "answerOptions": [{"text": "जैनुलाबदीन", "rationale": "कलाम यांच्या वडिलांचे पूर्ण नाव जैनुलाबदीन असे होते.", "isCorrect": true}, {"text": "अब्दुल", "rationale": "अब्दुल हे कलाम यांच्या स्वतःच्या नावाचा भाग आहे.", "isCorrect": false}], "hint": "हे नाव 'ज' पासून सुरू होते." },
+    { "questionNumber": 63, "question": "चिंचोके गोळा केल्यावर कलाम यांना किती पैसे मिळत?", "answerOptions": [{"text": "एक आणा", "rationale": "चिंचोके विकून कलाम यांना दिवसाला एक आणा मिळत असे.", "isCorrect": true}, {"text": "एक रुपया", "rationale": "त्या काळात एक रुपया ही खूप मोठी रक्कम होती.", "isCorrect": false}], "hint": "जुन्या काळातील चलनाचे नाव आठवा." },
+    { "questionNumber": 64, "question": "वर्तमानपत्राचे गठ्ठे कोठून फेकले जात असत?", "answerOptions": [{"text": "चालत्या रेल्वेतून", "rationale": "महायुद्धामुळे गाडी थांबणे बंद झाल्याने गठ्ठे चालत्या रेल्वेतून फेकले जात.", "isCorrect": true}, {"text": "बस मधून", "rationale": "रामेश्वरमला वर्तमानपत्रे रेल्वेनेच येत असत.", "isCorrect": false}], "hint": "रुळांवरून धावणाऱ्या वाहनाचा विचार करा." },
+    { "questionNumber": 65, "question": "कलाम यांच्यावर कोणाच्या विचारांचा प्रभाव होता?", "answerOptions": [{"text": "वडिलांच्या", "rationale": "वडिलांच्या आध्यात्मिक आणि प्रगल्भ विचारांचा कलाम यांच्यावर खोल परिणाम होता.", "isCorrect": true}, {"text": "शत्रूंच्या", "rationale": "कलाम यांनी नेहमीच सकारात्मक व्यक्तींकडून प्रेरणा घेतली.", "isCorrect": false}], "hint": "त्यांच्या घरातील मुख्य व्यक्तीबद्दल विचार करा." },
+    { "questionNumber": 66, "question": "कलाम यांच्या चुलत भावाचे नाव काय होते?", "answerOptions": [{"text": "शमसुद्दीन", "rationale": "शमसुद्दीन हा कलाम यांचा चुलत भाऊ होता ज्याने त्यांना वर्तमानपत्रे वाटण्याच्या कामात मदत केली.", "isCorrect": true}, {"text": "जळालुद्दीन", "rationale": "जळालुद्दीन हे नातेवाईक असले तरी चुलत भाऊ नव्हते.", "isCorrect": false}], "hint": "रामेश्वरममधील वर्तमानपत्र वितरकाचे नाव आठवा." },
+    { "questionNumber": 67, "question": "दुसरे महायुद्ध केव्हा सुरू झाले?", "answerOptions": [{"text": "१९३९", "rationale": "दुसरे महायुद्ध १९३९ मध्ये सुरू झाले, तेव्हा कलाम आठ वर्षांचे होते.", "isCorrect": true}, {"text": "१९४७", "rationale": "१९४७ मध्ये भारताला स्वातंत्र्य मिळाले.", "isCorrect": false}], "hint": "विसाव्या शतकातील एक मोठे वर्ष." },
+    { "questionNumber": 68, "question": "कलाम यांच्या आयुष्यातील पहिली कमाई कशातून झाली?", "answerOptions": [{"text": "वर्तमानपत्रे", "rationale": "वर्तमानपत्रे वाटण्याचे काम हे कलाम यांच्या पहिल्या कमाईचे साधन होते.", "isCorrect": true}, {"text": "मासे", "rationale": "कलाम यांनी कधीही मासेमारी किंवा मासे विक्री केली नाही.", "isCorrect": false}], "hint": "बातम्या देणारे माध्यम कोणते?" },
+    { "questionNumber": 69, "question": "जळालुद्दीन कलाम यांना कशाच्या गोष्टी सांगत?", "answerOptions": [{"text": "विज्ञानाच्या", "rationale": "जळालुद्दीन कलाम यांना विज्ञानातील नवनवीन शोधांच्या गोष्टी सांगत असत.", "isCorrect": true}, {"text": "रामायणाच्या", "rationale": "पाठात विज्ञानाच्या गोष्टींचा विशेष उल्लेख आहे.", "isCorrect": false}], "hint": "कलाम पुढे जाऊन ज्या विषयात मोठे झाले तो विषय कोणता?" },
+    { "questionNumber": 70, "question": "कलाम यांचे घर कोणत्या गल्लीत होते?", "answerOptions": [{"text": "मशिद गल्ली", "rationale": "कलाम यांचे रामेश्वरममधील घर मशिद गल्लीत होते.", "isCorrect": true}, {"text": "मंदिर गल्ली", "rationale": "त्यांचे घर मशिदीच्या जवळच्या गल्लीत होते.", "isCorrect": false}], "hint": "प्रार्थनास्थळाच्या नावावरून असलेल्या गल्लीचा विचार करा." },
+    { "questionNumber": 71, "question": "कलाम यांचे बालपण कसे होते?", "answerOptions": [{"text": "संस्कारक्षम", "rationale": "कलाम यांचे बालपण अत्यंत साध्या आणि संस्कारांनी भरलेल्या वातावरणात गेले.", "isCorrect": true}, {"text": "ऐषारामी", "rationale": "त्यांचे बालपण अत्यंत साधे आणि कष्टाचे होते.", "isCorrect": false}], "hint": "चांगल्या मूल्यांवर आधारित जीवन कसे असते?" },
+    { "questionNumber": 72, "question": "कलाम यांना शिक्षणासाठी कोणाची परवानगी हवी होती?", "answerOptions": [{"text": "वडिलांची", "rationale": "रामनाथपुरमला जाण्यासाठी कलाम यांना वडिलांची संमती मिळवणे गरजेचे होते.", "isCorrect": true}, {"text": "मित्रांची", "rationale": "शिक्षण हा वैयक्तिक आणि कौटुंबिक निर्णय असतो.", "isCorrect": false}], "hint": "घरातील निर्णय घेणाऱ्या प्रमुख व्यक्तीचा विचार करा." },
+    { "questionNumber": 73, "question": "वडिलांनी कलाम यांना कोणाचे उदाहरण दिले?", "answerOptions": [{"text": "सी-गल पक्ष्याचे", "rationale": "घर सोडून बाहेर पडल्याशिवाय प्रगती होत नाही, हे सांगण्यासाठी वडिलांनी सी-गल पक्ष्याचे उदाहरण दिले.", "isCorrect": true}, {"text": "वाघाचे", "rationale": "पाठात पक्ष्याच्या भरारीचे उदाहरण दिले आहे.", "isCorrect": false}], "hint": "समुद्रकिनाऱ्यावर दिसणारा एक पक्षी आठवा." },
+    { "questionNumber": 74, "question": "कलाम यांच्या वडिलांची प्रकृती कशी होती?", "answerOptions": [{"text": "निरोगी", "rationale": "कलाम यांचे वडील अतिशय काटक आणि निरोगी प्रकृतीचे होते.", "isCorrect": true}, {"text": "आजारी", "rationale": "त्यांच्या संयमित जीवनशैलीमुळे ते नेहमी सुदृढ राहिले.", "isCorrect": false}], "hint": "सुदृढ आरोग्यासाठी कोणता शब्द वापरला जातो?" },
+    { "questionNumber": 75, "question": "कलाम यांच्या कुटुंबाचे नाव काय होते?", "answerOptions": [{"text": "मराकायर", "rationale": "कलाम यांचे कुटुंब रामेश्वरममध्ये 'मराकायर' या नावाने ओळखले जाई.", "isCorrect": true}, {"text": "खान", "rationale": "मराकायर हे त्यांच्या घराण्याचे पारंपरिक नाव होते.", "isCorrect": false}], "hint": "हे नाव 'म' पासून सुरू होते." },
+    { "questionNumber": 76, "question": "कलाम कोणत्या टोपीमुळे ओळखले जात असत?", "answerOptions": [{"text": "मुस्लिम टोपी", "rationale": "कलाम डोक्यावर नेहमी मुस्लिम टोपी घालत असत, ही त्यांची एक ओळख होती.", "isCorrect": true}, {"text": "गांधी टोपी", "rationale": "ते आपल्या धार्मिक परंपरेनुसार टोपी घालत असत.", "isCorrect": false}], "hint": "धार्मिक ओळखीची टोपी आठवा." },
+    { "questionNumber": 77, "question": "रामानंद शास्त्री गळ्यात काय घालत असत?", "answerOptions": [{"text": "जानवे", "rationale": "रामानंद हा हिंदू ब्राह्मणाचा मुलगा असल्याने तो गळ्यात जानवे घालत असे.", "isCorrect": true}, {"text": "माळ", "rationale": "ब्राह्मण कुटुंबातील संस्कारानुसार तो जानवे परिधान करत असे.", "isCorrect": false}], "hint": "ब्राह्मणांच्या धार्मिक चिन्हाचा विचार करा." },
+    { "questionNumber": 78, "question": "नव्या शिक्षकांनी कलाम यांना कोठे बसवले?", "answerOptions": [{"text": "शेवटच्या बाकावर", "rationale": "हिंदू मुलगा आणि मुस्लिम मुलगा एकत्र बसलेले पाहून रागावलेल्या शिक्षकांनी कलाम यांना मागे पाठवले.", "isCorrect": true}, {"text": "पहिल्या बाकावर", "rationale": "त्यांना पहिल्या बाकावरून उठवून मागे पाठवण्यात आले.", "isCorrect": false}], "hint": "बाकांचा सर्वात शेवटचा भाग कोणता असतो?" },
+    { "questionNumber": 79, "question": "कलाम यांना वाईट वाटल्यावर त्यांच्या सोबतीला कोण रडले?", "answerOptions": [{"text": "रामानंद", "rationale": "कलाम यांना मागे बसवल्यामुळे रामानंदला खूप दुःख झाले आणि तो रडू लागला.", "isCorrect": true}, {"text": "शिक्षक", "rationale": "शिक्षकांच्या वागणुकीमुळे मुलांना दुःख झाले होते.", "isCorrect": false}], "hint": "कलाम यांचा सर्वात जवळचा मित्र आठवा." },
+    { "questionNumber": 80, "question": "विज्ञानाचे शिक्षक कोण होते?", "answerOptions": [{"text": "शिवसुब्रमणिया अय्यर", "rationale": "शिवसुब्रमणिया अय्यर हे कलाम यांचे विज्ञानाचे शिक्षक होते ज्यांनी त्यांच्यावर चांगले संस्कार केले.", "isCorrect": true}, {"text": "लक्ष्मणशास्त्री", "rationale": "लक्ष्मणशास्त्री हे मंदिराचे पुजारी होते.", "isCorrect": false}], "hint": "त्यांच्या नावाचा उच्चार 'शिव' पासून सुरू होतो." },
+    { "questionNumber": 81, "question": "अय्यर सरांच्या पत्नी कशा होत्या?", "answerOptions": [{"text": "पुराणमतवादी", "rationale": "सुरुवातीला अय्यर सरांच्या पत्नी जुन्या विचारांच्या आणि कर्मठ होत्या.", "isCorrect": true}, {"text": "आधुनिक", "rationale": "त्यांना एका मुस्लिम मुलाने आपल्या स्वयंपाकघरात जेवणे आवडले नव्हते.", "isCorrect": false}], "hint": "जुन्या विचारांना काय म्हणतात?" },
+    { "questionNumber": 82, "question": "कलाम यांनी जेवण कोठे केले?", "answerOptions": [{"text": "अय्यर सरांच्या घरी", "rationale": "अय्यर सरांनी कलाम यांना आपल्या घरी जेवायला बोलावले होते.", "isCorrect": true}, {"text": "हॉटेलमध्ये", "rationale": "पाठात गुरु-शिष्याच्या घरच्या जेवणाचा प्रसंग आहे.", "isCorrect": false}], "hint": "त्यांच्या शिक्षकाच्या घराचा विचार करा." },
+    { "questionNumber": 83, "question": "कलाम यांना कोणी स्वतःच्या हाताने जेवू घातले?", "answerOptions": [{"text": "अय्यर सरांनी", "rationale": "जेव्हा पत्नीने नकार दिला, तेव्हा सरांनी स्वतः कलाम यांना वाढले आणि सोबत जेवण केले.", "isCorrect": true}, {"text": "आईने", "rationale": "या विशिष्ट प्रसंगात शिक्षकांनी स्वतः पुढाकार घेतला होता.", "isCorrect": false}], "hint": "शिक्षकांचे नाव आठवा." },
+    { "questionNumber": 84, "question": "कलाम यांनी कोणत्या आत्मचरित्रात हे अनुभव लिहिले?", "answerOptions": [{"text": "विंग्स ऑफ फायर", "rationale": "विंग्स ऑफ फायर (अग्निपंख) हे कलाम यांचे गाजलेले आत्मचरित्र आहे.", "isCorrect": true}, {"text": "श्यामची आई", "rationale": "श्यामची आई हे साने गुरुजींचे पुस्तक आहे.", "isCorrect": false}], "hint": "आगीशी संबंधित नाव असलेले पुस्तक आठवा." },
+    { "questionNumber": 85, "question": "कलाम कोणत्या इयत्तेत असताना हा प्रसंग घडला?", "answerOptions": [{"text": "पाचवीत", "rationale": "जेव्हा नव्या शिक्षकांनी त्यांना मागे बसवले, तेव्हा कलाम पाचवीत शिकत होते.", "isCorrect": true}, {"text": "दहावीत", "rationale": "हा त्यांच्या प्राथमिक शालेय जीवनातील प्रसंग आहे.", "isCorrect": false}], "hint": "एक ते पाच आकड्यांपैकी विचार करा." },
+    { "questionNumber": 86, "question": "कलाम यांचा जन्म कोणत्या वर्षी झाला?", "answerOptions": [{"text": "१९३१", "rationale": "डॉ. कलाम यांचा जन्म १५ ऑक्टोबर १९३१ रोजी झाला.", "isCorrect": true}, {"text": "१९३९", "rationale": "१९३९ मध्ये दुसरे महायुद्ध सुरू झाले होते.", "isCorrect": false}], "hint": "१९३० च्या दशकातील दुसरे वर्ष." },
+    { "questionNumber": 87, "question": "कलाम यांच्या घरी रोज किती पाहुणे असत?", "answerOptions": [{"text": "अनेक", "rationale": "कलाम यांच्या आईच्या दातृत्वामुळे त्यांच्या घरी नेहमीच अनेक बाहेरचे लोक जेवत असत.", "isCorrect": true}, {"text": "दोन", "rationale": "पाहुण्यांची संख्या घरातील माणसांपेक्षाही जास्त असे.", "isCorrect": false}], "hint": "खूप जास्त संख्येसाठी कोणता शब्द येईल?" },
+    { "questionNumber": 88, "question": "कलाम यांच्या वडिलांची वागणूक कशी होती?", "answerOptions": [{"text": "उदार", "rationale": "त्यांच्या वडिलांचे वागणे अतिशय समंजस आणि सर्वांप्रती उदार होते.", "isCorrect": true}, {"text": "रागीट", "rationale": "वडील स्वभावाने अतिशय शांत आणि संयमी होते.", "isCorrect": false}], "hint": "मोठ्या मनाच्या व्यक्तीला काय म्हणतात?" },
+    { "questionNumber": 89, "question": "कलाम यांच्या आईचे मुख्य काम काय होते?", "answerOptions": [{"text": "गृहकृत्ये", "rationale": "आई संपूर्ण घराची जबाबदारी आणि पाहुण्यांचे जेवणखाण सांभाळत असे.", "isCorrect": true}, {"text": "नोकरी", "rationale": "त्या काळी महिला प्रामुख्याने घर सांभाळत असत.", "isCorrect": false}], "hint": "घरातील कामांना काय म्हणतात?" },
+    { "questionNumber": 90, "question": "चिंचोके गोळा करण्याचे काम कलाम कधी करत?", "answerOptions": [{"text": "बालपणी", "rationale": "महायुद्धाच्या काळात पैशांसाठी कलाम चिंचोके गोळा करून विकत असत.", "isCorrect": true}, {"text": "वृद्धापकाळी", "rationale": "हे त्यांच्या लहानपणीच्या कष्टाचे उदाहरण आहे.", "isCorrect": false}], "hint": "लहानपणाच्या काळाला काय म्हणतात?" },
+    { "questionNumber": 91, "question": "कलाम यांना वर्तमानपत्रे वाटण्याचे काम कोणी दिले?", "answerOptions": [{"text": "शमसुद्दीनने", "rationale": "शमसुद्दीनला मदतनीस हवा होता, म्हणून त्याने कलाम यांना हे काम दिले.", "isCorrect": true}, {"text": "जळालुद्दीनने", "rationale": "जळालुद्दीन हे कलाम यांचे मित्र आणि मार्गदर्शक होते.", "isCorrect": false}], "hint": "त्यांच्या चुलत भावाचे नाव आठवा." },
+    { "questionNumber": 92, "question": "कलाम यांचे वडील आणि पुजारी यांच्यात काय चर्चा होई?", "answerOptions": [{"text": "अध्यात्मिक", "rationale": "दोन्ही धर्मातील जाणकार असल्याने त्यांच्यात नेहमी आध्यात्मिक विषयांवर चर्चा होत असे.", "isCorrect": true}, {"text": "राजकीय", "rationale": "पाठात त्यांच्यातील धार्मिक आणि वैचारिक सलोख्याचा उल्लेख आहे.", "isCorrect": false}], "hint": "धर्माशी संबंधित विषयाला काय म्हणतात?" },
+    { "questionNumber": 93, "question": "कलाम यांच्या शिक्षणाबद्दल आईची भावना कशी होती?", "answerOptions": [{"text": "व्याकूळ", "rationale": "मुलगा लांब जाणार म्हणून आईचे मन व्याकूळ झाले होते पण तिने त्याला संमती दिली.", "isCorrect": true}, {"text": "आनंदी", "rationale": "पुत्रवियोगाच्या कल्पनेने आईचे मन थोडे कष्टी झाले होते.", "isCorrect": false}], "hint": "जेव्हा मन खूप अस्वस्थ होते तेव्हा कोणता शब्द वापरतात?" },
+    { "questionNumber": 94, "question": "कलाम यांनी स्वतःचा आत्मविश्वास कोणामुळे मिळवला?", "answerOptions": [{"text": "शमसुद्दीन", "rationale": "पहिल्या कमाईमुळे कलाम यांच्या मनात आत्मविश्वास निर्माण झाला, ज्याचे श्रेय शमसुद्दीनला जाते.", "isCorrect": true}, {"text": "शत्रू", "rationale": "कमाईने दिलेला आत्मविश्वास हा शमसुद्दीनच्या सहकार्यामुळे मिळाला होता.", "isCorrect": false}], "hint": "वर्तमानपत्र वाटण्यात ज्याने मदत केली त्याचे नाव सांगा." },
+    { "questionNumber": 95, "question": "रामेश्वरमच्या जीवनातील सामाजिक सलोखा कसा होता?", "answerOptions": [{"text": "उत्तम", "rationale": "रामेश्वरममध्ये सर्व धर्माचे लोक गुण्यागोविंदाने एकत्र राहत असत.", "isCorrect": true}, {"text": "वाईट", "rationale": "पाठात तेथील धार्मिक एकात्मतेचे सुंदर वर्णन आहे.", "isCorrect": false}], "hint": "खूप चांगल्या परिस्थितीसाठी कोणता शब्द येईल?" },
+    { "questionNumber": 96, "question": "कलाम यांच्या बहिणीचे नाव काय होते?", "answerOptions": [{"text": "झोहरा", "rationale": "पाठात कलाम यांच्या बहिणीचे नाव झोहरा असे आले आहे.", "isCorrect": true}, {"text": "नूर", "rationale": "झोहरा हे त्यांच्या बहिणीचे नाव होते.", "isCorrect": false}], "hint": "हे नाव 'झ' अक्षरापासून सुरू होते." },
+    { "questionNumber": 97, "question": "नौका बांधणीचा व्यवसाय कोठे चालत असे?", "answerOptions": [{"text": "धनुष्कोडीला", "rationale": "रामेश्वरम जवळच्या धनुष्कोडी या ठिकाणी नौका बांधण्याचे काम चालत असे.", "isCorrect": true}, {"text": "चेन्नईला", "rationale": "धनुष्कोडी हे रामेश्वरम बेटावरील एक टोक आहे.", "isCorrect": false}], "hint": "रामेश्वरम जवळील एका किनारपट्टीचे नाव आठवा." },
+    { "questionNumber": 98, "question": "कलाम यांना विज्ञानाकडे कोणी प्रवृत्त केले?", "answerOptions": [{"text": "जळालुद्दीन", "rationale": "जळालुद्दीनच्या सहवासामुळे कलाम यांना बाह्य जगाची आणि विज्ञानाची ओळख झाली.", "isCorrect": true}, {"text": "मणिक्कम", "rationale": "मणिक्कम यांनी पुस्तके दिली, पण गोडी जळालुद्दीनने लावली.", "isCorrect": false}], "hint": "हे कलाम यांच्या मोठ्या बहिणीचे पती होते." },
+    { "questionNumber": 99, "question": "रामेश्वरमहून रामनाथपुरमला जाताना कलाम यांचा निरोप कोणी घेतला?", "answerOptions": [{"text": "कुटुंबीयांनी", "rationale": "संपूर्ण कुटुंबाने आणि मित्रांनी कलाम यांना भावूक निरोप दिला.", "isCorrect": true}, {"text": "कोणीच नाही", "rationale": "त्यांच्या शिक्षणासाठी संपूर्ण गाव आणि कुटुंब सकारात्मक होते.", "isCorrect": false}], "hint": "घरातील सर्व माणसांना एकत्रितपणे काय म्हणतात?" },
+    { "questionNumber": 100, "question": "कलाम यांनी भारताचे कोणते सर्वोच्च पद भूषवले?", "answerOptions": [{"text": "राष्ट्रपती", "rationale": "डॉ. कलाम हे भारताचे ११ वे राष्ट्रपती म्हणून निवडून आले होते.", "isCorrect": true}, {"text": "पंतप्रधान", "rationale": "ते एक महान शास्त्रज्ञ आणि राष्ट्रपती होते.", "isCorrect": false}], "hint": "देशाचा प्रथम नागरिक कोण असतो?" },
+    { "questionNumber": 101, "question": "कलाम यांना कोणत्या नावाने ओळखले जाते?", "answerOptions": [{"text": "मिसाईल मॅन", "rationale": "भारताच्या क्षेपणास्त्र विकास कार्यक्रमात मोठे योगदान दिल्यामुळे त्यांना 'मिसाईल मॅन' म्हणतात.", "isCorrect": true}, {"text": "लोहपुरुष", "rationale": "लोहपुरुष ही ओळख सरदार वल्लभभाई पटेल यांची आहे.", "isCorrect": false}], "hint": "क्षेपणास्त्राशी संबंधित नाव आठवा." },
+    { "questionNumber": 102, "question": "पाठाचा विषय कोणाचे बालपण आहे?", "answerOptions": [{"text": "डॉ. कलाम", "rationale": "हा संपूर्ण पाठ डॉ. अब्दुल कलाम यांच्या लहानपणातील प्रसंगांवर आधारित आहे.", "isCorrect": true}, {"text": "टिळक", "rationale": "पाठाच्या शीर्षकातच डॉ. कलाम यांचे नाव आहे.", "isCorrect": false}], "hint": "भारताचे माजी राष्ट्रपती कोण?" },
+    { "questionNumber": 103, "question": "कलाम यांच्या घरात कोणाची पुस्तके होती?", "answerOptions": [{"text": "मणिक्कम यांची", "rationale": "मणिक्कम यांच्या संग्रहातील पुस्तके वाचून कलाम यांची ज्ञानाची तहान भागली.", "isCorrect": true}, {"text": "शिक्षकांची", "rationale": "मणिक्कम यांच्या खाजगी ग्रंथालयाचा पाठात उल्लेख आहे.", "isCorrect": false}], "hint": "रामेश्वरममधील क्रांतिकारी व्यक्ती आठवा." },
+    { "questionNumber": 104, "question": "कलाम यांच्या वडिलांची प्रकृती कशी होती?", "answerOptions": [{"text": "काटक", "rationale": "वडिलांची शरीरयष्टी अतिशय काटक आणि मेहनत करण्याची क्षमता असलेली होती.", "isCorrect": true}, {"text": "नाजूक", "rationale": "कष्टाच्या व्यवसायामुळे ते अतिशय सुदृढ होते.", "isCorrect": false}], "hint": "मजबूत शरीरासाठी कोणता शब्द येतो?" },
+    { "questionNumber": 105, "question": "कलाम कोणत्या टोपीमुळे ओळखले जात?", "answerOptions": [{"text": "मुस्लिम", "rationale": "कलाम डोक्यावर नेहमी मुस्लिम टोपी घालत असत.", "isCorrect": true}, {"text": "टोपी", "rationale": "पाठात त्यांच्या विशिष्ट धार्मिक टोपीचा उल्लेख आला आहे.", "isCorrect": false}], "hint": "धर्माच्या नावावरून ओळखली जाणारी टोपी." },
+    { "questionNumber": 106, "question": "रामानंद शास्त्री कोणाचे सुपुत्र होते?", "answerOptions": [{"text": "पुजाऱ्यांचे", "rationale": "रामानंद हा रामेश्वरम मंदिराच्या मुख्य पुजाऱ्यांचा मुलगा होता.", "isCorrect": true}, {"text": "व्यापाऱ्याचे", "rationale": "त्याचे वडील मंदिरातील महत्त्वाचे व्यक्ती होते.", "isCorrect": false}], "hint": "मंदिरात सेवा करणाऱ्या व्यक्तीला काय म्हणतात?" },
+    { "questionNumber": 107, "question": "अय्यर सरांनी कलाम यांना कशासाठी प्रोत्साहन दिले?", "answerOptions": [{"text": "विज्ञानासाठी", "rationale": "अय्यर सरांनी कलाम यांच्यातील विज्ञानाची आवड ओळखून त्यांना मार्गदर्शन केले.", "isCorrect": true}, {"text": "खेळासाठी", "rationale": "सरांनी त्यांच्या बौद्धिक आणि वैज्ञानिक विकासावर भर दिला.", "isCorrect": false}], "hint": "कलाम ज्या विषयाचे शास्त्रज्ञ झाले तो विषय कोणता?" },
+    { "questionNumber": 108, "question": "कलाम यांना कशाची ओढ लागली होती?", "answerOptions": [{"text": "शिक्षणाची", "rationale": "कलाम यांना लहानपणापासूनच ज्ञान मिळवण्याची आणि शिक्षणाची खूप ओढ होती.", "isCorrect": true}, {"text": "पैशांची", "rationale": "त्यांना केवळ ज्ञान मिळवण्यात रस होता.", "isCorrect": false}], "hint": "शाळा आणि पुस्तकांशी संबंधित काय असते?" },
+    { "questionNumber": 109, "question": "रामेश्वरम रेल्वे स्टेशनवर काय बंद झाले?", "answerOptions": [{"text": "गाडी थांबणे", "rationale": "दुसऱ्या महायुद्धामुळे रेल्वेने स्टेशनवर थांबणे बंद केले होते.", "isCorrect": true}, {"text": "गाडी येणे", "rationale": "गाडी येत होती पण ती थांबत नव्हती.", "isCorrect": false}], "hint": "रेल्वेच्या क्रियेशी संबंधित शब्द आठवा." },
+    { "questionNumber": 110, "question": "कलाम यांना पहिली कमाई करताना कोणाची मदत झाली?", "answerOptions": [{"text": "शमसुद्दीनची", "rationale": "शमसुद्दीनने कलाम यांना वर्तमानपत्रे गोळा करण्याचे काम देऊन पहिली कमाई करून दिली.", "isCorrect": true}, {"text": "आईची", "rationale": "कामाच्या संधीसाठी शमसुद्दीनचे सहकार्य लाभले.", "isCorrect": false}], "hint": "त्यांच्या चुलत भावाचे नाव आठवा." },
+    { "questionNumber": 111, "question": "कलाम यांच्या वडिलांनी त्यांना कोठे जाण्यास सांगितले?", "answerOptions": [{"text": "प्रगतीसाठी बाहेर", "rationale": "प्रगती करायची असेल तर घर सोडावे लागते, असे वडिलांनी कलाम यांना सांगितले.", "isCorrect": true}, {"text": "घरातच राहा", "rationale": "वडिलांनी त्यांच्या उच्च शिक्षणाला नेहमीच पाठिंबा दिला.", "isCorrect": false}], "hint": "प्रगती करण्यासाठी कोठे जावे लागते?" },
+    { "questionNumber": 112, "question": "कलाम यांना शाळेत कोणाच्या बाजूला बसणे आवडायचे?", "answerOptions": [{"text": "रामानंदच्या", "rationale": "कलाम आणि रामानंद नेहमी एकत्र पहिल्या बाकावर बसत असत.", "isCorrect": true}, {"text": "एकटेच", "rationale": "त्यांच्यात खूप घट्ट मैत्री होती.", "isCorrect": false}], "hint": "त्यांच्या जिवलग मित्राचे नाव सांगा." },
+    { "questionNumber": 113, "question": "कलाम यांच्या मनात शिक्षणाबद्दल काय निर्माण झाले?", "answerOptions": [{"text": "जिद्द", "rationale": "परिस्थिती कठीण असूनही कलाम यांच्या मनात शिक्षणाबद्दल मोठी जिद्द होती.", "isCorrect": true}, {"text": "भीती", "rationale": "त्यांच्यात नेहमीच शिकण्याची मोठी उमेद होती.", "isCorrect": false}], "hint": "काहीतरी करून दाखवण्याच्या वृत्तीला काय म्हणतात?" },
+    { "questionNumber": 114, "question": "कलाम यांचे वडील स्वभावाने कसे होते?", "answerOptions": [{"text": "समंजस", "rationale": "वडिलांनी परिस्थिती आणि मुलाची आवड लक्षात घेऊन योग्य निर्णय घेणारे समंजस व्यक्तिमत्व होते.", "isCorrect": true}, {"text": "अडाणी", "rationale": "त्यांचे विचार खूप पुढचे आणि प्रगल्भ होते.", "isCorrect": false}], "hint": "परिस्थिती समजून घेणाऱ्याला काय म्हणतात?" },
+    { "questionNumber": 115, "question": "चिंचोके गोळा करणे हा कलाम यांचा कोणता उद्योग होता?", "answerOptions": [{"text": "बालपणीचा", "rationale": "चिंचोके गोळा करणे हा त्यांच्या लहानपणातील एक कष्टाचा उद्योग होता.", "isCorrect": true}, {"text": "मोठेपणीचा", "rationale": "हे त्यांच्या सुरुवातीच्या संघर्षाचे दिवस होते.", "isCorrect": false}], "hint": "लहान वयातील काळाला काय म्हणतात?" },
+    { "questionNumber": 116, "question": "कलाम यांच्या घरात कोणाला सन्मान दिला जाई?", "answerOptions": [{"text": "सर्वांना", "rationale": "कलाम यांच्या घरात पाहुण्यांना आणि सर्व धर्माच्या लोकांना सन्मानाने वागवले जाई.", "isCorrect": true}, {"text": "फक्त श्रीमंतांना", "rationale": "मानुसकी हाच त्यांच्या घरातील मोठा संस्कार होता.", "isCorrect": false}], "hint": "सगळ्या लोकांसाठी कोणता शब्द येईल?" },
+    { "questionNumber": 117, "question": "कलाम यांना कोणाचे मार्गदर्शन लाभले?", "answerOptions": [{"text": "वडिलांचे", "rationale": "कलाम यांच्या वैचारिक जडणघडणीत वडिलांचे मार्गदर्शन मोलाचे होते.", "isCorrect": true}, {"text": "शत्रूंचे", "rationale": "त्यांच्या आयुष्यावर त्यांच्या वडिलांच्या शिकवणीचा मोठा पगडा होता.", "isCorrect": false}], "hint": "त्यांच्या घरातील प्रमुख आधारस्तंभ." },
+    { "questionNumber": 118, "question": "रामेश्वरमच्या आठवणी कलाम यांनी कशात लिहिल्या?", "answerOptions": [{"text": "पुस्तकात", "rationale": "कलाम यांनी आपल्या आयुष्यातील सर्व महत्त्वाचे प्रसंग पुस्तकरूपाने मांडले आहेत.", "isCorrect": true}, {"text": "पत्रात", "rationale": "पाठात त्यांच्या आत्मचरित्राचा संदर्भ आहे.", "isCorrect": false}], "hint": "लेखनाचे सर्वात मोठे साधन कोणते?" },
+    { "questionNumber": 119, "question": "कलाम यांचा जन्म कोणत्या गल्लीत झाला?", "answerOptions": [{"text": "मशिद", "rationale": "रामेश्वरममधील मशिद गल्लीत कलाम यांचे घर होते.", "isCorrect": true}, {"text": "बाजार", "rationale": "त्यांच्या गल्लीचे नाव मशिदीवरून पडले होते.", "isCorrect": false}], "hint": "प्रार्थनास्थळाच्या नावावरून असलेली गल्ली." },
+    { "questionNumber": 120, "question": "कलाम यांच्या वडिलांचे विचार कसे होते?", "answerOptions": [{"text": "प्रगल्भ", "rationale": "कमी शिक्षण असूनही कलाम यांच्या वडिलांचे विचार अत्यंत प्रगल्भ आणि खोल होते.", "isCorrect": true}, {"text": "संकुचित", "rationale": "त्यांचे विचार अत्यंत व्यापक आणि उदार होते.", "isCorrect": false}], "hint": "खूप प्रगत आणि समजदार विचारांना काय म्हणतात?" },
+    { "questionNumber": 121, "question": "कलाम यांनी कोणत्या युद्धाचे वर्णन केले आहे?", "answerOptions": [{"text": "दुसरे महायुद्ध", "rationale": "दुसऱ्या महायुद्धाचा रामेश्वरमवर झालेला परिणाम कलाम यांनी पाठात सांगितला आहे.", "isCorrect": true}, {"text": "पानिपतचे युद्ध", "rationale": "हा कलाम यांच्या बालपणीचा जागतिक प्रसंग आहे.", "isCorrect": false}], "hint": "१९३९ मध्ये सुरू झालेले युद्ध." },
+    { "questionNumber": 122, "question": "कलाम यांना वर्तमानपत्र गठ्ठे गोळा करण्यास कोणी सांगितले?", "answerOptions": [{"text": "शमसुद्दीनने", "rationale": "चालत्या रेल्वेतून पडलेले गठ्ठे उचलण्यासाठी शमसुद्दीनने कलाम यांची मदत घेतली.", "isCorrect": true}, {"text": "वडिलांनी", "rationale": "शमसुद्दीनला त्या कामात मदतीची गरज होती.", "isCorrect": false}], "hint": "त्यांच्या चुलत भावाचे नाव आठवा." },
+    { "questionNumber": 123, "question": "कलाम यांना विज्ञानाची गोडी कोणी लावली?", "answerOptions": [{"text": "जळालुद्दीनने", "rationale": "जळालुद्दीनमुळे कलाम यांच्या जिज्ञासू वृत्तीला खतपाणी मिळाले.", "isCorrect": true}, {"text": "सरांनी", "rationale": "सुरुवातीची वैज्ञानिक ओढ जळालुद्दीनमुळे निर्माण झाली.", "isCorrect": false}], "hint": "कलाम यांच्या बहिणीचे पती कोण होते?" },
+    { "questionNumber": 124, "question": "कलाम यांच्या शाळेचे नाव काय होते?", "answerOptions": [{"text": "रामेश्वरम प्राथमिक शाळा", "rationale": "कलाम यांनी त्यांचे प्राथमिक शिक्षण रामेश्वरम प्राथमिक शाळेतून पूर्ण केले.", "isCorrect": true}, {"text": "कॉलेज", "rationale": "हा त्यांच्या लहानपणीचा शालेय प्रसंग आहे.", "isCorrect": false}], "hint": "गावाच्या नावावरून असलेली शाळा आठवा." },
+    { "questionNumber": 125, "question": "कलाम यांच्या आईने कोणाचे उदाहरण दिले?", "answerOptions": [{"text": "प्रेमाचे", "rationale": "आईने आपल्या मुलांना नेहमीच प्रेम आणि आपुलकीचे संस्कार दिले.", "isCorrect": true}, {"text": "द्वेषाचे", "rationale": "आईने नेहमीच माणुसकीची शिकवण दिली.", "isCorrect": false}], "hint": "ममतेच्या भावनेला काय म्हणतात?" },
+    { "questionNumber": 126, "question": "कलाम यांना कोणती गोष्ट साध्य करायची होती?", "answerOptions": [{"text": "उच्च शिक्षण", "rationale": "कलाम यांचे ध्येय उच्च शिक्षण पूर्ण करून देशाची सेवा करणे हे होते.", "isCorrect": true}, {"text": "संपत्ती", "rationale": "त्यांना नेहमीच ज्ञानाची ओढ होती.", "isCorrect": false}], "hint": "मोठ्या पदव्या मिळवण्याला काय म्हणतात?" },
+    { "questionNumber": 127, "question": "कलाम यांचा जन्म कोणत्या दिवशी झाला?", "answerOptions": [{"text": "१५ ऑक्टोबर", "rationale": "डॉ. कलाम यांचा जन्म १५ ऑक्टोबर १९३१ रोजी झाला.", "isCorrect": true}, {"text": "२ ऑक्टोबर", "rationale": "२ ऑक्टोबर ही गांधी जयंती असते.", "isCorrect": false}], "hint": "ऑक्टोबर महिन्यातील १५ तारीख." },
+    { "questionNumber": 128, "question": "कलाम यांना लहानपणी काय मिळवणे कठीण होते?", "answerOptions": [{"text": "पुस्तके", "rationale": "रामेश्वरममध्ये पुस्तके सहज उपलब्ध होत नसत, म्हणून कलाम यांना ती मिळवण्यासाठी धडपड करावी लागे.", "isCorrect": true}, {"text": "जेवण", "rationale": "कौटुंबिक परिस्थिती बेताची असली तरी जेवणाची अडचण नव्हती, पण पुस्तकांची टंचाई होती.", "isCorrect": false}], "hint": "वाचनासाठी काय लागते?" },
+    { "questionNumber": 129, "question": "कलाम यांच्या वडिलांची कोणती वृत्ती होती?", "answerOptions": [{"text": "धार्मिक सलोखा", "rationale": "मुस्लिम असूनही वडिलांचे हिंदू पुजाऱ्यांशी खूप मैत्रीचे संबंध होते, जे धार्मिक सलोख्याचे प्रतीक आहे.", "isCorrect": true}, {"text": "कठोरता", "rationale": "वडील स्वभावाने अत्यंत मृदू आणि समंजस होते.", "isCorrect": false}], "hint": "सर्व धर्मांचा आदर करण्याला काय म्हणतात?" },
+    { "questionNumber": 130, "question": "कलाम यांना कोणामुळे आत्मविश्वास मिळाला?", "answerOptions": [{"text": "कमाईमुळे", "rationale": "स्वतःच्या कष्टाने मिळालेल्या पहिल्या कमाईमुळे कलाम यांच्यात आत्मविश्वास निर्माण झाला.", "isCorrect": true}, {"text": "खेळामुळे", "rationale": "पाठात पहिल्या कमाईचा आणि त्यातून मिळालेल्या अभिमानाचा उल्लेख आहे.", "isCorrect": false}], "hint": "पैसा स्वतः मिळवण्याला काय म्हणतात?" },
+    { "questionNumber": 131, "question": "कलाम यांना विज्ञानाचे धडे कोठे मिळाले?", "answerOptions": [{"text": "रामेश्वरम", "rationale": "कलाम यांच्या वैज्ञानिक प्रवासाची सुरुवात रामेश्वरममधील घटनांनी झाली.", "isCorrect": true}, {"text": "मुंबई", "rationale": "त्यांच्या बालपणातील महत्त्वाचे धडे रामेश्वरममध्येच गिरवले गेले.", "isCorrect": false}], "hint": "त्यांच्या जन्मगावाचे नाव सांगा." },
+    { "questionNumber": 132, "question": "कलाम यांचा प्रवास कोठे सुरू झाला?", "answerOptions": [{"text": "रामनाथपुरमला", "rationale": "पुढच्या शिक्षणासाठी कलाम जेव्हा रामनाथपुरमला गेले, तेव्हा त्यांच्या आयुष्याचा मोठा प्रवास सुरू झाला.", "isCorrect": true}, {"text": "गावातच", "rationale": "प्रगतीसाठी त्यांना बाहेर पडणे आवश्यक होते.", "isCorrect": false}], "hint": "जिल्ह्याच्या मुख्य शहराचे नाव आठवा." },
+    { "questionNumber": 133, "question": "कलाम यांनी स्वतःचे अनुभव कशासाठी सांगितले?", "answerOptions": [{"text": "प्रेरणेसाठी", "rationale": "नवीन पिढीला संघर्ष करण्याची आणि शिकण्याची प्रेरणा मिळावी म्हणून त्यांनी अनुभव सांगितले.", "isCorrect": true}, {"text": "बढाई मारण्यासाठी", "rationale": "ते अत्यंत नम्र स्वभावाचे होते.", "isCorrect": false}], "hint": "दुसऱ्याला उत्साह देण्याला काय म्हणतात?" },
+    { "questionNumber": 134, "question": "कलाम यांच्या कुटुंबाचा प्रमुख आधार कोण होता?", "answerOptions": [{"text": "वडील", "rationale": "जैनुलाबदीन हे कलाम यांच्या कुटुंबाचे आधारस्तंभ आणि मार्गदर्शक होते.", "isCorrect": true}, {"text": "मित्र", "rationale": "वडिलांच्या कष्टामुळे आणि विचारांमुळे कुटुंबाला स्थैर्य मिळाले होते.", "isCorrect": false}], "hint": "घरातील कर्त्या पुरुषाला काय म्हणतात?" },
+    { "questionNumber": 135, "question": "कलाम यांच्या घरी जेवण कोणत्या स्वरूपाचे असे?", "answerOptions": [{"text": "साधे", "rationale": "अतिशय साधे पण प्रेमाने वाढलेले जेवण कलाम यांच्या घरी मिळायचे.", "isCorrect": true}, {"text": "मसालेदार", "rationale": "त्यांच्या घरातील वातावरण आणि आहार साधेपणाचे प्रतीक होता.", "isCorrect": false}], "hint": "जड आणि तिखट नसलेल्या आहाराला काय म्हणतात?" },
+    { "questionNumber": 136, "question": "कलाम यांना कोणाचे ऋण आठवतात?", "answerOptions": [{"text": "शिक्षकांचे", "rationale": "कलाम यांनी आपल्या यशात शिक्षकांच्या मार्गदर्शनाचा नेहमीच कृतज्ञतेने उल्लेख केला आहे.", "isCorrect": true}, {"text": "शत्रूंचे", "rationale": "त्यांच्या जडणघडणीत त्यांच्या गुरूंनी मोलाची भूमिका बजावली.", "isCorrect": false}], "hint": "शाळेत शिकवणाऱ्यांना काय म्हणतात?" },
+    { "questionNumber": 137, "question": "कलाम यांनी पहिली नोकरी कोणाकडे केली?", "answerOptions": [{"text": "शमसुद्दीनकडे", "rationale": "वर्तमानपत्रे गोळा करण्याच्या कामातून कलाम यांनी शमसुद्दीनच्या हाताखाली पहिली नोकरी केली.", "isCorrect": true}, {"text": "सरकारकडे", "rationale": "ही त्यांची बालपणीची अनौपचारिक पहिली नोकरी होती.", "isCorrect": false}], "hint": "त्यांच्या चुलत भावाचे नाव आठवा." },
+    { "questionNumber": 138, "question": "कलाम यांच्या आयुष्यातील सर्वात मोठा संस्कार कोणता?", "answerOptions": [{"text": "माणुसकी", "rationale": "आई-वडिलांकडून मिळालेला माणुसकीचा संस्कार कलाम यांनी आयुष्यभर जपला.", "isCorrect": true}, {"text": "लोभ", "rationale": "त्यांचे जीवन परोपकारावर आधारित होते.", "isCorrect": false}], "hint": "इतर माणसांशी प्रेमाने वागण्याला काय म्हणतात?" },
+    { "questionNumber": 139, "question": "कलाम कोणत्या टोपीने ओळखले जात?", "answerOptions": [{"text": "मुस्लिम", "rationale": "पाठात त्यांच्या मुस्लिम टोपीचा उल्लेख त्यांच्या ओळखीचा भाग म्हणून आला आहे.", "isCorrect": true}, {"text": "काळी", "rationale": "विशिष्ट धार्मिक टोपी हे त्यांचे लक्षण होते.", "isCorrect": false}], "hint": "धर्माच्या नावावरून टोपी ओळखा." },
+    { "questionNumber": 140, "question": "कलाम यांच्या बालपणातील सर्वात मोठे संकट कोणते?", "answerOptions": [{"text": "दुसरे महायुद्ध", "rationale": "महायुद्धामुळे आलेली टंचाई आणि बदललेले जीवन हे त्यांच्यासाठी मोठे संकट होते.", "isCorrect": true}, {"text": "भूकंप", "rationale": "युद्धाच्या परिस्थितीचा त्यांच्या आयुष्यावर मोठा परिणाम झाला.", "isCorrect": false}], "hint": "१९३९-४५ चा जागतिक संघर्ष." },
+    { "questionNumber": 141, "question": "कलाम यांना विज्ञानात कोणी रुची निर्माण केली?", "answerOptions": [{"text": "अय्यर सरांनी", "rationale": "विज्ञानाचे शिक्षक अय्यर सर कलाम यांच्या वैज्ञानिक रुचीचे मुख्य कारण होते.", "isCorrect": true}, {"text": "मित्रांनी", "rationale": "शिक्षकांनी त्यांना विज्ञानातील तत्त्वे समजावून सांगितली.", "isCorrect": false}], "hint": "त्यांच्या विज्ञानाच्या शिक्षकांचे नाव आठवा." },
+    { "questionNumber": 142, "question": "कलाम यांचा जन्म कोणत्या राज्यात झाला?", "answerOptions": [{"text": "तामिळनाडू", "rationale": "रामेश्वरम हे तामिळनाडू राज्याचा एक भाग आहे.", "isCorrect": true}, {"text": "केरळ", "rationale": "रामेश्वरम हे दक्षिण भारतातील तामिळनाडूमध्ये येते.", "isCorrect": false}], "hint": "चेन्नई राजधानी असलेले राज्य." },
+    { "questionNumber": 143, "question": "कलाम यांच्या वडिलांनी त्यांना कोणाची उपमा दिली?", "answerOptions": [{"text": "समुद्रपक्षी", "rationale": "घर सोडून भरारी घेणाऱ्या समुद्रपक्ष्यासारखे बनावे, असे वडिलांनी सुचवले.", "isCorrect": true}, {"text": "विमान", "rationale": "पक्ष्यांच्या स्वतंत्र भरारीचे उदाहरण त्यांनी दिले होते.", "isCorrect": false}], "hint": "पाण्यात आणि हवेत राहणारा पक्षी आठवा." },
+    { "questionNumber": 144, "question": "कलाम यांना शिक्षणासाठी रामेश्वरम सोडावे लागले का?", "answerOptions": [{"text": "हो", "rationale": "रामनाथपुरमला जाण्यासाठी त्यांना आपले गाव आणि घर सोडावे लागले.", "isCorrect": true}, {"text": "नाही", "rationale": "उच्च शिक्षणाच्या सोयी गावात नसल्यामुळे त्यांना बाहेर जावे लागले.", "isCorrect": false}], "hint": "एका शब्दात उत्तर द्या." },
+    { "questionNumber": 145, "question": "कलाम यांचा आवडता छंद कोणता होता?", "answerOptions": [{"text": "वाचन", "rationale": "कलाम यांना पुस्तके वाचण्याची प्रचंड आवड होती, जी मणिक्कम यांच्यामुळे जोपासली गेली.", "isCorrect": true}, {"text": "खेळणे", "rationale": "त्यांच्या जिज्ञासू वृत्तीमुळे ते नेहमी वाचनात दंग असत.", "isCorrect": false}], "hint": "पुस्तकांशी संबंधित छंद कोणता?" },
+    { "questionNumber": 146, "question": "कलाम यांच्या घरात धार्मिक वातावरण कसे होते?", "answerOptions": [{"text": "पवित्र", "rationale": "कलाम यांच्या वडिलांच्या आध्यात्मिक विचारसरणीमुळे घरातील वातावरण अत्यंत पवित्र होते.", "isCorrect": true}, {"text": "तणावपूर्ण", "rationale": "घरात शांतता आणि धार्मिक सलोखा नांदत असे.", "isCorrect": false}], "hint": "शुद्ध आणि मंगल वातावरणाला काय म्हणतात?" },
+    { "questionNumber": 147, "question": "कलाम यांना वर्तमानपत्र गठ्ठे कोठे मिळाले?", "answerOptions": [{"text": "रुळांच्या बाजूला", "rationale": "रेल्वेतून फेकलेले गठ्ठे रुळांच्या कडेला पडत असत, जे कलाम गोळा करत.", "isCorrect": true}, {"text": "बस मध्ये", "rationale": "गठ्ठे चालत्या रेल्वेतून खाली टाकले जात असत.", "isCorrect": false}], "hint": "रेल्वे कशावरून धावते?" },
+    { "questionNumber": 148, "question": "कलाम यांच्या मित्राचे नाव काय होते?", "answerOptions": [{"text": "रामानंद शास्त्री", "rationale": "रामानंद शास्त्री हा त्यांचा सर्वात जवळचा शालेय मित्र होता.", "isCorrect": true}, {"text": "शमसुद्दीन", "rationale": "शमसुद्दीन हा चुलत भाऊ होता, तर रामानंद हा मित्र होता.", "isCorrect": false}], "hint": "पुजाऱ्यांच्या मुलाचे नाव सांगा." },
+    { "questionNumber": 149, "question": "कलाम यांना विज्ञानाचे धडे कोणामुळे मिळाले?", "answerOptions": [{"text": "अय्यर सरांमुळे", "rationale": "शिवसुब्रमणिया अय्यर यांनी कलाम यांना विज्ञानाचे प्रगत धडे दिले.", "isCorrect": true}, {"text": "आईमुळे", "rationale": "विज्ञानातील तांत्रिक शिक्षण सरांकडून मिळाले.", "isCorrect": false}], "hint": "त्यांच्या विज्ञानाच्या शिक्षकांचे नाव आठवा." },
+    { "questionNumber": 150, "question": "कलाम यांच्या आयुष्याचा मंत्र काय होता?", "answerOptions": [{"text": "जिद्द आणि मेहनत", "rationale": "कलाम यांनी संपूर्ण आयुष्य जिद्द आणि मेहनतीच्या जोरावर यश मिळवले.", "isCorrect": true}, {"text": "नशीब", "rationale": "त्यांनी नेहमीच स्वतःच्या कष्टावर विश्वास ठेवला.", "isCorrect": false}], "hint": "यश मिळवण्यासाठी काय लागते?" }
+  ]
+}

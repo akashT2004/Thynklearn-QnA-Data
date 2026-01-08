@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.11",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "कार्य आणि ऊर्जा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "जेव्हा बल लावून एखाद्या वस्तूचे विस्थापन होते, तेव्हा काय झाले असे म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "कार्य", "is_correct": true },
+        { "option_id": 3, "text": "दाब", "is_correct": false },
+        { "option_id": 4, "text": "जडत्व", "is_correct": false }
+      ],
+      "answer": "कार्य"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पदार्थाच्या अंगी असणारी कार्य करण्याची क्षमता म्हणजे काय?",
+      "options": [
+        { "option_id": 1, "text": "बल", "is_correct": false },
+        { "option_id": 2, "text": "विस्थापन", "is_correct": false },
+        { "option_id": 3, "text": "ऊर्जा", "is_correct": true },
+        { "option_id": 4, "text": "त्वरण", "is_correct": false }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कार्य आणि ऊर्जा यांचे एकक खालीलपैकी कोणते आहे?",
+      "options": [
+        { "option_id": 1, "text": "न्यूटन", "is_correct": false },
+        { "option_id": 2, "text": "वॉट", "is_correct": false },
+        { "option_id": 3, "text": "ज्यूल", "is_correct": true },
+        { "option_id": 4, "text": "पास्कल", "is_correct": false }
+      ],
+      "answer": "ज्यूल"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कशामध्ये गतिज ऊर्जा असते?",
+      "options": [
+        { "option_id": 1, "text": "टेबलावर ठेवलेले पुस्तक", "is_correct": false },
+        { "option_id": 2, "text": "वाहता वारा", "is_correct": true },
+        { "option_id": 3, "text": "ताणलेला धनुष्य", "is_correct": false },
+        { "option_id": 4, "text": "धरणातील साठवलेले पाणी", "is_correct": false }
+      ],
+      "answer": "वाहता वारा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वस्तूच्या विशिष्ट स्थितीमुळे प्राप्त झालेल्या ऊर्जेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "स्थितिज ऊर्जा", "is_correct": true },
+        { "option_id": 2, "text": "गतिज ऊर्जा", "is_correct": false },
+        { "option_id": 3, "text": "उष्णता ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "सौर ऊर्जा", "is_correct": false }
+      ],
+      "answer": "स्थितिज ऊर्जा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता ऊर्जेचा मुख्य स्रोत आहे?",
+      "options": [
+        { "option_id": 1, "text": "कोळसा", "is_correct": false },
+        { "option_id": 2, "text": "वारा", "is_correct": false },
+        { "option_id": 3, "text": "सूर्य", "is_correct": true },
+        { "option_id": 4, "text": "वीज", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वनस्पती सूर्यप्रकाशाचा वापर करून कोणते अन्न तयार करतात, यात कोणत्या ऊर्जेचा साठा असतो?",
+      "options": [
+        { "option_id": 1, "text": "अणू ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "प्रकाश ऊर्जा", "is_correct": false },
+        { "option_id": 3, "text": "रासायनिक ऊर्जा", "is_correct": true },
+        { "option_id": 4, "text": "ध्वनी ऊर्जा", "is_correct": false }
+      ],
+      "answer": "रासायनिक ऊर्जा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सोलर कुकरमध्ये सूर्याच्या कोणत्या ऊर्जेचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "उष्णता ऊर्जा", "is_correct": true },
+        { "option_id": 2, "text": "ध्वनी ऊर्जा", "is_correct": false },
+        { "option_id": 3, "text": "चुंबकीय ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "यांत्रिक ऊर्जा", "is_correct": false }
+      ],
+      "answer": "उष्णता ऊर्जा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता ऊर्जा स्रोत 'अपारंपरिक' आहे?",
+      "options": [
+        { "option_id": 1, "text": "पेट्रोल", "is_correct": false },
+        { "option_id": 2, "text": "डिझेल", "is_correct": false },
+        { "option_id": 3, "text": "वारा", "is_correct": true },
+        { "option_id": 4, "text": "नैसर्गिक वायू", "is_correct": false }
+      ],
+      "answer": "वारा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "युरेनिअम आणि थोरिअमचा वापर कोणत्या ऊर्जेसाठी केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "सौर ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "अणू ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "भरती-ओहोटी ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "स्नायू ऊर्जा", "is_correct": false }
+      ],
+      "answer": "अणू ऊर्जा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "जर बल लावले आणि विस्थापन झाले नाही, तर कार्य किती झाले?",
+      "options": [
+        { "option_id": 1, "text": "शून्य", "is_correct": true },
+        { "option_id": 2, "text": "जास्त", "is_correct": false },
+        { "option_id": 3, "text": "कमी", "is_correct": false },
+        { "option_id": 4, "text": "अनंत", "is_correct": false }
+      ],
+      "answer": "शून्य"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "विद्युत ऊर्जेचे प्रकाश ऊर्जेत रूपांतर करणारे उपकरण कोणते?",
+      "options": [
+        { "option_id": 1, "text": "पंखा", "is_correct": false },
+        { "option_id": 2, "text": "विद्युत दिवा", "is_correct": true },
+        { "option_id": 3, "text": "सोलर कुकर", "is_correct": false },
+        { "option_id": 4, "text": "विद्युत इस्त्री", "is_correct": false }
+      ],
+      "answer": "विद्युत दिवा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "समुद्रातील लाटांपासून मिळणाऱ्या ऊर्जेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "अणू ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "लाटांची ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "भू-औष्णिक ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "रासायनिक ऊर्जा", "is_correct": false }
+      ],
+      "answer": "लाटांची ऊर्जा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "स्थितिज ऊर्जा आणि गतिज ऊर्जा मिळून कोणती ऊर्जा तयार होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "यांत्रिक ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "ध्वनी ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "रासायनिक ऊर्जा", "is_correct": false }
+      ],
+      "answer": "यांत्रिक ऊर्जा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कपाचे फुटणे हे कोणत्या ऊर्जेचे उदाहरण असू शकते?",
+      "options": [
+        { "option_id": 1, "text": "ध्वनी ऊर्जा", "is_correct": true },
+        { "option_id": 2, "text": "प्रकाश ऊर्जा", "is_correct": false },
+        { "option_id": 3, "text": "रासायनिक ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "स्थितिज ऊर्जा", "is_correct": false }
+      ],
+      "answer": "ध्वनी ऊर्जा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "बॅटरीमध्ये (विद्युत घट) कोणत्या प्रकारची ऊर्जा साठवलेली असते?",
+      "options": [
+        { "option_id": 1, "text": "यांत्रिक", "is_correct": false },
+        { "option_id": 2, "text": "रासायनिक", "is_correct": true },
+        { "option_id": 3, "text": "ध्वनी", "is_correct": false },
+        { "option_id": 4, "text": "प्रकाश", "is_correct": false }
+      ],
+      "answer": "रासायनिक"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सायकल चालवताना कोणती ऊर्जा वापरली जाते?",
+      "options": [
+        { "option_id": 1, "text": "स्नायू ऊर्जा", "is_correct": true },
+        { "option_id": 2, "text": "सौर ऊर्जा", "is_correct": false },
+        { "option_id": 3, "text": "अणू ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "विद्युत ऊर्जा", "is_correct": false }
+      ],
+      "answer": "स्नायू ऊर्जा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "टाळ्या वाजवल्यामुळे कोणत्या ऊर्जेची निर्मिती होते?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "ध्वनी ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "चुंबकीय ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "रासायनिक ऊर्जा", "is_correct": false }
+      ],
+      "answer": "ध्वनी ऊर्जा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "विद्युत ऊर्जेचे यांत्रिक ऊर्जेत रूपांतर करणारे साधन कोणते?",
+      "options": [
+        { "option_id": 1, "text": "मिक्सर", "is_correct": true },
+        { "option_id": 2, "text": "सोलर कुकर", "is_correct": false },
+        { "option_id": 3, "text": "विद्युत दिवा", "is_correct": false },
+        { "option_id": 4, "text": "मोमबत्ती", "is_correct": false }
+      ],
+      "answer": "मिक्सर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ऊर्जा अक्षय्यतेचा नियम काय सांगतो?",
+      "options": [
+        { "option_id": 1, "text": "ऊर्जा निर्माण करता येते", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्जा नष्ट करता येते", "is_correct": false },
+        { "option_id": 3, "text": "ऊर्जा निर्माण किंवा नष्ट करता येत नाही", "is_correct": true },
+        { "option_id": 4, "text": "ऊर्जा वाढवता येते", "is_correct": false }
+      ],
+      "answer": "ऊर्जा निर्माण किंवा नष्ट करता येत नाही"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कार्य मोजण्यासाठी कशाचा विचार करावा लागतो?",
+      "options": [
+        { "option_id": 1, "text": "केवळ बल", "is_correct": false },
+        { "option_id": 2, "text": "केवळ विस्थापन", "is_correct": false },
+        { "option_id": 3, "text": "बल आणि विस्थापन", "is_correct": true },
+        { "option_id": 4, "text": "वेग आणि काळ", "is_correct": false }
+      ],
+      "answer": "बल आणि विस्थापन"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "जमिनीत खोलवर असणाऱ्या उष्णतेपासून मिळणाऱ्या ऊर्जेला काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "सौर ऊर्जा", "is_correct": false },
+        { "option_id": 2, "text": "भू-औष्णिक ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "वारा ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "जलविद्युत", "is_correct": false }
+      ],
+      "answer": "भू-औष्णिक ऊर्जा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "विंड मिल (पवनचक्की) मध्ये ऊर्जेचे रूपांतर कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "गतिज ऊर्जेचे विद्युत ऊर्जेत", "is_correct": true },
+        { "option_id": 2, "text": "स्थितिज ऊर्जेचे उष्णतेत", "is_correct": false },
+        { "option_id": 3, "text": "विद्युत ऊर्जेचे चुंबकीय ऊर्जेत", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी नाही", "is_correct": false }
+      ],
+      "answer": "गतिज ऊर्जेचे विद्युत ऊर्जेत"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ख खालीलपैकी कोणता ऊर्जा स्रोत संपणारा (पारंपरिक) आहे?",
+      "options": [
+        { "option_id": 1, "text": "सूर्य", "is_correct": false },
+        { "option_id": 2, "text": "खनिज तेल", "is_correct": true },
+        { "option_id": 3, "text": "वारा", "is_correct": false },
+        { "option_id": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "खनिज तेल"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "गलोलीचा रबर ओढला असता त्यात कोणती ऊर्जा साठवली जाते?",
+      "options": [
+        { "option_id": 1, "text": "स्थितिज ऊर्जा", "is_correct": true },
+        { "option_id": 2, "text": "गतिज ऊर्जा", "is_correct": false },
+        { "option_id": 3, "text": "रासायनिक ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "विद्युत ऊर्जा", "is_correct": false }
+      ],
+      "answer": "स्थितिज ऊर्जा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कार्य करण्यासाठी कशाची आवश्यकता असते?",
+      "options": [
+        { "option_id": 1, "text": "केवळ वेळ", "is_correct": false },
+        { "option_id": 2, "text": "ऊर्जा", "is_correct": true },
+        { "option_id": 3, "text": "विश्रांती", "is_correct": false },
+        { "option_id": 4, "text": "अंधार", "is_correct": false }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सौर घट (Solar Cells) सूर्याच्या कोणत्या ऊर्जेचे विद्युत ऊर्जेत रूपांतर करतात?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश ऊर्जा", "is_correct": true },
+        { "option_id": 2, "text": "ध्वनी ऊर्जा", "is_correct": false },
+        { "option_id": 3, "text": "यांत्रिक ऊर्जा", "is_correct": false },
+        { "option_id": 4, "text": "रासायनिक ऊर्जा", "is_correct": false }
+      ],
+      "answer": "प्रकाश ऊर्जा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "एखादा पदार्थ उंचावरून खाली पडत असताना त्याच्यातील ऊर्जेचे रूपांतर कसे होते?",
+      "options": [
+        { "option_id": 1, "text": "गतिज ऊर्जेचे स्थितिज ऊर्जेत", "is_correct": false },
+        { "option_id": 2, "text": "स्थितिज ऊर्जेचे गतिज ऊर्जेत", "is_correct": true },
+        { "option_id": 3, "text": "रासायनिक ऊर्जेचे विद्युत ऊर्जेत", "is_correct": false },
+        { "option_id": 4, "text": "यापैकी काहीही नाही", "is_correct": false }
+      ],
+      "answer": "स्थितिज ऊर्जेचे गतिज ऊर्जेत"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणते ऊर्जेचे रूप नाही?",
+      "options": [
+        { "option_id": 1, "text": "प्रकाश", "is_correct": false },
+        { "option_id": 2, "text": "बल", "is_correct": true },
+        { "option_id": 3, "text": "ध्वनी", "is_correct": false },
+        { "option_id": 4, "text": "उष्णता", "is_correct": false }
+      ],
+      "answer": "बल"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भरती-ओहोटी ऊर्जेसाठी कशाचा वापर केला जातो?",
+      "options": [
+        { "option_id": 1, "text": "समुद्राच्या पाण्याचा स्तर", "is_correct": true },
+        { "option_id": 2, "text": "विहिरीचे पाणी", "is_correct": false },
+        { "option_id": 3, "text": "ढग", "is_correct": false },
+        { "option_id": 4, "text": "युरेनिअम", "is_correct": false }
+      ],
+      "answer": "समुद्राच्या पाण्याचा स्तर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "कार्य म्हणजे काय?",
+      "answer": "जेव्हा बल लावून एखाद्या वस्तूचे विस्थापन होते, तेव्हा शास्त्रीयदृष्ट्या 'कार्य' झाले असे म्हणतात."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "ऊर्जा म्हणजे काय?",
+      "answer": "पदार्थाच्या अंगी असणारी कार्य करण्याची क्षमता म्हणजे 'ऊर्जा' होय."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "विस्थापन म्हणजे काय?",
+      "answer": "बलाच्या प्रभावामुळे वस्तूने आपली मूळ जागा बदलून दुसऱ्या ठिकाणी जाणे याला 'विस्थापन' म्हणतात."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "कार्याचे सूत्र काय आहे?",
+      "answer": "कार्य = बल × विस्थापन (W = F × s)."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "कार्याचे एस.आय. (SI) एकक काय आहे?",
+      "answer": "कार्याचे एस.आय. एकक 'ज्यूल' (J) आहे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "यांत्रिक ऊर्जा म्हणजे काय?",
+      "answer": "यंत्रांच्या साहाय्याने किंवा वस्तूच्या स्थिती व गतीमुळे प्राप्त होणाऱ्या ऊर्जेला 'यांत्रिक ऊर्जा' म्हणतात."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "स्थितिज ऊर्जा कशास म्हणतात?",
+      "answer": "वस्तूच्या विशिष्ट स्थितीमुळे किंवा आकारामुळे त्या वस्तूमध्ये साठवल्या गेलेल्या ऊर्जेला 'स्थितिज ऊर्जा' म्हणतात."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "गतिज ऊर्जा म्हणजे काय?",
+      "answer": "वस्तूच्या गतिमान अवस्थेमुळे वस्तूला प्राप्त झालेल्या ऊर्जेला 'गतिज ऊर्जा' म्हणतात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "उष्णता ऊर्जेचे दोन उपयोग सांगा.",
+      "answer": "अन्न शिजवण्यासाठी आणि पाणी गरम करण्यासाठी उष्णता ऊर्जेचा वापर होतो."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "प्रकाश ऊर्जेचा वापर वनस्पती कशासाठी करतात?",
+      "answer": "वनस्पती प्रकाश ऊर्जेचा वापर 'प्रकाशसंश्लेषण' प्रक्रियेद्वारे स्वतःचे अन्न तयार करण्यासाठी करतात."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "ध्वनी ऊर्जेमुळे काय घडू शकते?",
+      "answer": "जास्त तीव्रतेच्या ध्वनीमुळे घराच्या खिडक्यांच्या काचा फुटू शकतात, हे ध्वनी ऊर्जेचे उदाहरण आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "रासायनिक ऊर्जा कशात आढळते?",
+      "answer": "कोळसा, लाकूड, पेट्रोल, अन्न आणि बॅटरी (सेल) यामध्ये रासायनिक ऊर्जा असते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "ऊर्जेचा मुख्य नैसर्गिक स्रोत कोणता?",
+      "answer": "सूर्य हा ऊर्जेचा मुख्य नैसर्गिक स्रोत आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "पारंपरिक (अनवीकरणीय) ऊर्जा स्रोत म्हणजे काय?",
+      "answer": "जे ऊर्जा स्रोत वापरल्यानंतर पुन्हा निर्माण होऊ शकत नाहीत आणि मर्यादित आहेत, त्यांना पारंपरिक ऊर्जा स्रोत म्हणतात (उदा. पेट्रोल, कोळसा)."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "अपारंपरिक (नवीकरणीय) ऊर्जा स्रोत म्हणजे काय?",
+      "answer": "जे ऊर्जा स्रोत निसर्गात विपुल प्रमाणात उपलब्ध आहेत आणि कधीही न संपणारे आहेत, त्यांना अपारंपरिक ऊर्जा स्रोत म्हणतात (उदा. सौर ऊर्जा, पवन ऊर्जा)."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "सौर ऊर्जेवर चालणाऱ्या दोन उपकरणांची नावे सांगा.",
+      "answer": "सौर कुकर (Solar Cooker) आणि सौर विद्युतघट (Solar Cells)."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "पवन ऊर्जा म्हणजे काय?",
+      "answer": "वेगाने वाहणाऱ्या वाऱ्याच्या मदतीने जी ऊर्जा मिळवली जाते, तिला पवन ऊर्जा म्हणतात."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "अणू ऊर्जा कशी मिळवली जाते?",
+      "answer": "युरेनिअम, थोरिअम यांसारख्या पदार्थांच्या अणूंचे विखंडन करून प्रचंड प्रमाणात ऊर्जा मिळवली जाते, तिला अणू ऊर्जा म्हणतात."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "जलविद्युत निर्मिती कशी केली जाते?",
+      "answer": "धरणामध्ये साठवलेले पाणी उंचावरून सोडून जनित्रे (Generators) फिरवून विद्युत ऊर्जेची निर्मिती केली जाते."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "ऊर्जा अक्षय्यतेचा नियम सांगा.",
+      "answer": "ऊर्जा निर्माण करता येत नाही आणि नष्टही करता येत नाही. तिचे एका स्वरूपातून दुसऱ्या स्वरूपात रूपांतर करता येते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "स्थितिज ऊर्जेचे एक उदाहरण द्या.",
+      "answer": "धनुष्याची ओढलेली दोरी किंवा उंचावर साठवलेले पाणी ही स्थितिज ऊर्जेची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "गतिज ऊर्जेचे एक उदाहरण द्या.",
+      "answer": "धावणारी गाडी किंवा फिरणारा पंखा ही गतिज ऊर्जेची उदाहरणे आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "विद्युत ऊर्जेचे रूपांतर उष्णता ऊर्जेत होणारे एक उदाहरण सांगा.",
+      "answer": "विद्युत इस्त्री किंवा हिटरमध्ये विद्युत ऊर्जेचे रूपांतर उष्णता ऊर्जेत होते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "ऊर्जा बचत का आवश्यक आहे?",
+      "answer": "ऊर्जा स्रोत मर्यादित आहेत आणि वाढत्या लोकसंख्येसाठी ऊर्जा पुरवण्यासाठी ऊर्जा बचत करणे काळाची गरज आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "सौर ऊर्जा क्षेत्रातील भारतातील कोणत्याही एका प्रकल्पाचे नाव सांगा.",
+      "answer": "महाराष्ट्रातील धुळे जिल्ह्यातील साक्री येथील सौर ऊर्जा प्रकल्प."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "कार्य घडून येण्यासाठी कोणत्या दोन गोष्टी आवश्यक आहेत?",
+      "answer": "बल आणि विस्थापन या दोन गोष्टी कार्य घडून येण्यासाठी आवश्यक आहेत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "एखाद्या भिंतीवर बल लावले पण भिंत हलली नाही, तर कार्य झाले का?",
+      "answer": "नाही, कारण येथे विस्थापन शून्य आहे, म्हणून शास्त्रीयदृष्ट्या कार्य झाले नाही असे म्हणतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "कमी बल लावून जास्त विस्थापन झाल्यास कार्य कसे असेल?",
+      "answer": "कार्य हे बल आणि विस्थापन यांच्या गुणाकारावर अवलंबून असल्याने ते मध्यम किंवा विस्थापनाच्या प्रमाणात असेल."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "भू-औष्णिक ऊर्जा म्हणजे काय?",
+      "answer": "पृथ्वीच्या अंतर्गत भागातील उष्णतेचा वापर करून मिळवलेली ऊर्जा म्हणजे भू-औष्णिक ऊर्जा होय."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "ऊर्जेची विविध रूपे कोणती?",
+      "answer": "यांत्रिक, उष्णता, प्रकाश, ध्वनी, रासायनिक आणि विद्युत ही ऊर्जेची विविध रूपे आहेत."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "विद्युत ऊर्जेचे ध्वनी ऊर्जेत रूपांतर करणारे साधन कोणते?",
+      "answer": "लाउडस्पीकर (ध्वनिक्षेपक) हे विद्युत ऊर्जेचे ध्वनी ऊर्जेत रूपांतर करते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "सौर चूल कशी कार्य करते?",
+      "answer": "सौर चूल सूर्याच्या उष्णता ऊर्जेचे शोषण करून अन्न शिजवण्याचे कार्य करते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "वाहत्या वाऱ्यात कोणती ऊर्जा असते?",
+      "answer": "वाहत्या वाऱ्यात गतिज ऊर्जा असते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "ऊर्जेचा वापर करताना प्रदूषण टाळण्यासाठी कोणते स्रोत उत्तम आहेत?",
+      "answer": "सौर ऊर्जा, पवन ऊर्जा आणि जलविद्युत हे स्रोत प्रदूषण टाळण्यासाठी उत्तम आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "बायोगॅस (Biogas) कोणत्या ऊर्जेचे उदाहरण आहे?",
+      "answer": "बायोगॅस हे रासायनिक ऊर्जेचे उदाहरण आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "विद्युत ऊर्जेची निर्मिती कशापासून करता येते?",
+      "answer": "पाणी, वारा, सूर्यप्रकाश, अणू आणि कोळसा यांपासून विद्युत ऊर्जेची निर्मिती करता येते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "जेव्हा आपण चेंडू फेकतो, तेव्हा कोणत्या ऊर्जेचा वापर करतो?",
+      "answer": "आपण आपल्या शरीरातील स्नायू ऊर्जेचा वापर करतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "घड्याळाच्या स्प्रिंगमध्ये कोणती ऊर्जा साठवलेली असते?",
+      "answer": "घड्याळाच्या स्प्रिंगमध्ये स्थितिज ऊर्जा साठवलेली असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "ऊर्जेचे रूपांतरण म्हणजे काय?",
+      "answer": "ऊर्जेचे एका रूपाकडून दुसऱ्या रूपात होणारे बदल म्हणजे ऊर्जेचे रूपांतरण होय."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "जास्त बल लावले तर कार्य कसे होईल?",
+      "answer": "समान विस्थापनासाठी जास्त बल लावले तर कार्य अधिक होईल."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "सूर्यप्रकाशामध्ये कोणते दोन ऊर्जा घटक असतात?",
+      "answer": "सूर्यप्रकाशामध्ये उष्णता ऊर्जा आणि प्रकाश ऊर्जा हे दोन घटक असतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "विद्युत जनित्र (Generator) काय कार्य करते?",
+      "answer": "विद्युत जनित्र यांत्रिक ऊर्जेचे रूपांतर विद्युत ऊर्जेत करते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "लाटांपासून मिळणारी ऊर्जा कोणत्या राज्यांच्या किनारपट्टीवर मिळवता येते?",
+      "answer": "महाराष्ट्र, गुजरात यांसारख्या समुद्रकिनारा असलेल्या राज्यांमध्ये ही ऊर्जा मिळवता येते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "ऊर्जा साखळी म्हणजे काय?",
+      "answer": "एका प्रकारच्या ऊर्जेचे दुसऱ्या प्रकारात आणि पुढे तिसऱ्या प्रकारात होणारे सलग रूपांतर म्हणजे ऊर्जा साखळी होय."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "सौर घट कशापासून बनलेले असतात?",
+      "answer": "सौर घट प्रामुख्याने सिलिकॉन या अर्धवाहकापासून बनलेले असतात."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "कोळसा जाळल्यावर कोणती ऊर्जा मुक्त होते?",
+      "answer": "कोळसा जाळल्यावर उष्णता आणि प्रकाश ऊर्जा मुक्त होते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "विद्युत ऊर्जा कशाद्वारे वाहून नेली जाते?",
+      "answer": "विद्युत ऊर्जा प्रामुख्याने तांब्याच्या किंवा ॲल्युमिनियमच्या तारांद्वारे वाहून नेली जाते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "कार्य करण्यासाठी लागणारी ऊर्जा मानवाला कोठून मिळते?",
+      "answer": "मानवाला अन्नातील रासायनिक ऊर्जेपासून कार्य करण्यासाठी ऊर्जा मिळते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "एक किलोवॅट म्हणजे किती वॅट?",
+      "answer": "एक किलोवॅट म्हणजे १००० वॅट (1 kW = 1000 W)."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "ऊर्जेचा अपव्यय टाळण्याचे दोन मार्ग सांगा.",
+      "answer": "१. गरज नसताना दिवे आणि पंखे बंद ठेवणे. २. सौर ऊर्जेचा जास्तीत जास्त वापर करणे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "अपारंपरिक ऊर्जा स्रोतांचा वापर करणे का आवश्यक आहे?",
+      "answer": "कारण हे स्रोत प्रदूषण विरहित आहेत आणि ते कधीही न संपणारे आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "सायकल चालवताना कोणकोणती ऊर्जा रूपांतरणे होतात?",
+      "answer": "स्नायू ऊर्जेचे रूपांतर यांत्रिक (गतिज) ऊर्जेत होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "धनुष्यातून सुटलेला बाण कशामुळे पुढे जातो?",
+      "answer": "ताणलेल्या दोरीतील साठवलेल्या स्थितिज ऊर्जेचे रूपांतर गतिज ऊर्जेत झाल्यामुळे बाण पुढे जातो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "समुद्राच्या लाटांमध्ये कोणती ऊर्जा असते?",
+      "answer": "समुद्राच्या लाटांमध्ये प्रचंड प्रमाणात गतिज ऊर्जा असते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "सौर ऊर्जेचा सर्वात मोठा फायदा काय आहे?",
+      "answer": "सौर ऊर्जा विनामूल्य उपलब्ध आहे आणि ती पर्यावरणास पूरक (प्रदूषणमुक्त) आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "जेव्हा एखादी वस्तू जमिनीवर स्थिर असते, तेव्हा तिची गतिज ऊर्जा किती असते?",
+      "answer": "जेव्हा वस्तू स्थिर असते, तेव्हा तिची गतिज ऊर्जा शून्य असते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "जेवण केल्यानंतर आपल्याला ऊर्जा मिळते, ती कोणत्या स्वरूपात साठवली जाते?",
+      "answer": "ती शरीरात रासायनिक ऊर्जेच्या स्वरूपात साठवली जाते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "विजेवर चालणाऱ्या इस्त्रीमध्ये कोणत्या ऊर्जेचे रूपांतर उष्णतेत होते?",
+      "answer": "विद्युत ऊर्जेचे रूपांतर उष्णता ऊर्जेत होते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "कार्य मोजण्यासाठी कोणते महत्त्वाचे घटक आहेत?",
+      "answer": "बल आणि विस्थापन हे कार्य मोजण्याचे महत्त्वाचे घटक आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "निसर्गातील ऊर्जा अक्षय्यतेचा संदेश काय आहे?",
+      "answer": "ऊर्जा कधीही संपत नाही, ती फक्त रूप बदलते, म्हणून तिचा जपून वापर करणे आवश्यक आहे."
+    }
+  ]
+}

@@ -1,0 +1,731 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "06.Science.16",
+    "standard": "6",
+    "subject": "Science",
+    "medium": "Marathi",
+    "chapter_name": "विश्वाचे अंतरंग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "आपल्या सूर्यमालेचा समावेश कोणत्या दीर्घिकेत होतो?",
+      "options": [
+        { "option_id": 1, "text": "देवयानी", "is_correct": false },
+        { "option_id": 2, "text": "आकाशगंगा", "is_correct": true },
+        { "option_id": 3, "text": "स्थानिक समूह", "is_correct": false },
+        { "option_id": 4, "text": "धुमकेतू", "is_correct": false }
+      ],
+      "answer": "आकाशगंगा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आकाशगंगेला दुसऱ्या कोणत्या नावाने ओळखले जाते?",
+      "options": [
+        { "option_id": 1, "text": "रोहिणी", "is_correct": false },
+        { "option_id": 2, "text": "मंदाकिनी", "is_correct": true },
+        { "option_id": 3, "text": "मृग", "is_correct": false },
+        { "option_id": 4, "text": "कृतिका", "is_correct": false }
+      ],
+      "answer": "मंदाकिनी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "असंख्य तारे आणि त्यांच्या ग्रहमालिकांच्या समूहास काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "दीर्घिका", "is_correct": true },
+        { "option_id": 2, "text": "ग्रह", "is_correct": false },
+        { "option_id": 3, "text": "लघुग्रह", "is_correct": false },
+        { "option_id": 4, "text": "उपग्रह", "is_correct": false }
+      ],
+      "answer": "दीर्घिका"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आपल्या आकाशगंगेच्या सर्वात जवळ असलेली दुसरी दीर्घिका कोणती?",
+      "options": [
+        { "option_id": 1, "text": "स्थानिक दीर्घिका", "is_correct": false },
+        { "option_id": 2, "text": "देवयानी", "is_correct": true },
+        { "option_id": 3, "text": "सूर्यास्त", "is_correct": false },
+        { "option_id": 4, "text": "मंदाकिनी", "is_correct": false }
+      ],
+      "answer": "देवयानी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सूर्य हा एक काय आहे?",
+      "options": [
+        { "option_id": 1, "text": "ग्रह", "is_correct": false },
+        { "option_id": 2, "text": "तारा", "is_correct": true },
+        { "option_id": 3, "text": "उपग्रह", "is_correct": false },
+        { "option_id": 4, "text": "धुमकेतू", "is_correct": false }
+      ],
+      "answer": "तारा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "विश्वात अशा किती दीर्घिका असाव्यात?",
+      "options": [
+        { "option_id": 1, "text": "लाखो", "is_correct": true },
+        { "option_id": 2, "text": "शेकडो", "is_correct": false },
+        { "option_id": 3, "text": "दोन", "is_correct": false },
+        { "option_id": 4, "text": "फक्त एक", "is_correct": false }
+      ],
+      "answer": "लाखो"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ताऱ्यांचा जन्म कशामधून होतो?",
+      "options": [
+        { "option_id": 1, "text": "ग्रहांपासून", "is_correct": false },
+        { "option_id": 2, "text": "तेजोमेघापासून", "is_correct": true },
+        { "option_id": 3, "text": "चंद्रापासून", "is_correct": false },
+        { "option_id": 4, "text": "धुळीच्या कणांपासून", "is_correct": false }
+      ],
+      "answer": "तेजोमेघापासून"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "दीर्घिकेचे मुख्य प्रकार किती आहेत?",
+      "options": [
+        { "option_id": 1, "text": "दोन", "is_correct": false },
+        { "option_id": 2, "text": "चार", "is_correct": true },
+        { "option_id": 3, "text": "आठ", "is_correct": false },
+        { "option_id": 4, "text": "सहा", "is_correct": false }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेतील केंद्रस्थानी कोण आहे?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 2, "text": "चंद्र", "is_correct": false },
+        { "option_id": 3, "text": "सूर्य", "is_correct": true },
+        { "option_id": 4, "text": "गुरु", "is_correct": false }
+      ],
+      "answer": "सूर्य"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सूर्य हा कोणत्या रंगाचा तारा आहे?",
+      "options": [
+        { "option_id": 1, "text": "तांबडा", "is_correct": false },
+        { "option_id": 2, "text": "पिवळा", "is_correct": true },
+        { "option_id": 3, "text": "निळा", "is_correct": false },
+        { "option_id": 4, "text": "पांढरा", "is_correct": false }
+      ],
+      "answer": "पिवळा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेत एकूण किती मुख्य ग्रह आहेत?",
+      "options": [
+        { "option_id": 1, "text": "७", "is_correct": false },
+        { "option_id": 2, "text": "८", "is_correct": true },
+        { "option_id": 3, "text": "९", "is_correct": false },
+        { "option_id": 4, "text": "१०", "is_correct": false }
+      ],
+      "answer": "८"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता 'अंतर्ग्रह' नाही?",
+      "options": [
+        { "option_id": 1, "text": "बुध", "is_correct": false },
+        { "option_id": 2, "text": "शुक्र", "is_correct": false },
+        { "option_id": 3, "text": "शनी", "is_correct": true },
+        { "option_id": 4, "text": "पृथ्वी", "is_correct": false }
+      ],
+      "answer": "शनी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेतील सर्वात मोठा ग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "शनी", "is_correct": false },
+        { "option_id": 2, "text": "गुरु", "is_correct": true },
+        { "option_id": 3, "text": "नेपच्यून", "is_correct": false },
+        { "option_id": 4, "text": "मंगळ", "is_correct": false }
+      ],
+      "answer": "गुरु"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सूर्याच्या सर्वात जवळचा ग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "बुध", "is_correct": true },
+        { "option_id": 2, "text": "शुक्र", "is_correct": false },
+        { "option_id": 3, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 4, "text": "नेपच्यून", "is_correct": false }
+      ],
+      "answer": "बुध"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कोणत्या ग्रहाभोवती कडी आहेत?",
+      "options": [
+        { "option_id": 1, "text": "बुध", "is_correct": false },
+        { "option_id": 2, "text": "शनी", "is_correct": true },
+        { "option_id": 3, "text": "शुक्र", "is_correct": false },
+        { "option_id": 4, "text": "मंगळ", "is_correct": false }
+      ],
+      "answer": "शनी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मंगळ ग्रहाचा रंग कोणता दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "निळा", "is_correct": false },
+        { "option_id": 2, "text": "लालसर", "is_correct": true },
+        { "option_id": 3, "text": "पिवळा", "is_correct": false },
+        { "option_id": 4, "text": "हिरवा", "is_correct": false }
+      ],
+      "answer": "लालसर"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "प्लूटो हा कोणत्या प्रकारचा खगोलीय पदार्थ आहे?",
+      "options": [
+        { "option_id": 1, "text": "ग्रह", "is_correct": false },
+        { "option_id": 2, "text": "बटुग्रह", "is_correct": true },
+        { "option_id": 3, "text": "उपग्रह", "is_correct": false },
+        { "option_id": 4, "text": "तारा", "is_correct": false }
+      ],
+      "answer": "बटुग्रह"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "चंद्राला पृथ्वीभोवती एक प्रदक्षिणा पूर्ण करण्यास किती दिवस लागतात?",
+      "options": [
+        { "option_id": 1, "text": "१ दिवस", "is_correct": false },
+        { "option_id": 2, "text": "२७.३ दिवस", "is_correct": true },
+        { "option_id": 3, "text": "३६५ दिवस", "is_correct": false },
+        { "option_id": 4, "text": "१५ दिवस", "is_correct": false }
+      ],
+      "answer": "२७.३ दिवस"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा नैसर्गिक उपग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "चंद्र", "is_correct": true },
+        { "option_id": 2, "text": "सूर्या", "is_correct": false },
+        { "option_id": 3, "text": "मंगळ", "is_correct": false },
+        { "option_id": 4, "text": "रोहिणी", "is_correct": false }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "धुमकेतू कशाचे बनलेले असतात?",
+      "options": [
+        { "option_id": 1, "text": "फक्त धातूचे", "is_correct": false },
+        { "option_id": 2, "text": "धुळीचे कण आणि बर्फ", "is_correct": true },
+        { "option_id": 3, "text": "फक्त वायूचे", "is_correct": false },
+        { "option_id": 4, "text": "दगडांचे", "is_correct": false }
+      ],
+      "answer": "धुळीचे कण आणि बर्फ"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "हॅलेचा धुमकेतू किती वर्षांनी पुन्हा दिसतो?",
+      "options": [
+        { "option_id": 1, "text": "५० वर्षे", "is_correct": false },
+        { "option_id": 2, "text": "७६ वर्षे", "is_correct": true },
+        { "option_id": 3, "text": "१०० वर्षे", "is_correct": false },
+        { "option_id": 4, "text": "१२ वर्षे", "is_correct": false }
+      ],
+      "answer": "७६ वर्षे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आकाशातून पडणाऱ्या खडकाच्या तुकड्यांना काय म्हणतात?",
+      "options": [
+        { "option_id": 1, "text": "तारा", "is_correct": false },
+        { "option_id": 2, "text": "उल्का", "is_correct": true },
+        { "option_id": 3, "text": "उपग्रह", "is_correct": false },
+        { "option_id": 4, "text": "तेजोमेघ", "is_correct": false }
+      ],
+      "answer": "उल्का"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लोणार सरोवर कशामुळे तयार झाले आहे?",
+      "options": [
+        { "option_id": 1, "text": "पावसामुळे", "is_correct": false },
+        { "option_id": 2, "text": "उल्कापातामुळे", "is_correct": true },
+        { "option_id": 3, "text": "ज्वालामुखीमुळे", "is_correct": false },
+        { "option_id": 4, "text": "नदीमुळे", "is_correct": false }
+      ],
+      "answer": "उल्कापातामुळे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "शुक्र हा ग्रह कोणत्या दिशेकडून कोणत्या दिशेकडे फिरतो?",
+      "options": [
+        { "option_id": 1, "text": "पश्चिमेकडून पूर्वेकडे", "is_correct": false },
+        { "option_id": 2, "text": "पूर्वेकडून पश्चिमेकडे", "is_correct": true },
+        { "option_id": 3, "text": "उत्तर-दक्षिण", "is_correct": false },
+        { "option_id": 4, "text": "दक्षिणेकडून उत्तरेकडे", "is_correct": false }
+      ],
+      "answer": "पूर्वेकडून पश्चिमेकडे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कोणता ग्रह स्वतःच्या अक्षावर ९८ अंश झुकलेला आहे?",
+      "options": [
+        { "option_id": 1, "text": "शनी", "is_correct": false },
+        { "option_id": 2, "text": "युरेनस", "is_correct": true },
+        { "option_id": 3, "text": "गुरु", "is_correct": false },
+        { "option_id": 4, "text": "बुध", "is_correct": false }
+      ],
+      "answer": "युरेनस"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "लघुग्रहांचा पट्टा कोणत्या दोन ग्रहांच्या दरम्यान आढळतो?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी आणि शुक्र", "is_correct": false },
+        { "option_id": 2, "text": "मंगळ आणि गुरु", "is_correct": true },
+        { "option_id": 3, "text": "शनी आणि गुरु", "is_correct": false },
+        { "option_id": 4, "text": "बुध आणि शुक्र", "is_correct": false }
+      ],
+      "answer": "मंगळ आणि गुरु"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेतील सर्वात तेजस्वी ग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "शुक्र", "is_correct": true },
+        { "option_id": 2, "text": "मंगळ", "is_correct": false },
+        { "option_id": 3, "text": "गुरु", "is_correct": false },
+        { "option_id": 4, "text": "शनी", "is_correct": false }
+      ],
+      "answer": "शुक्र"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ताऱ्यांचे लुकलुकणे हे कशाचे परिणाम आहे?",
+      "options": [
+        { "option_id": 1, "text": "ताऱ्यांची हालचाल", "is_correct": false },
+        { "option_id": 2, "text": "वातावरणातील बदलांमुळे प्रकाशाचे अपवर्तन", "is_correct": true },
+        { "option_id": 3, "text": "ताऱ्यांचा मृत्यू", "is_correct": false },
+        { "option_id": 4, "text": "ढगांमुळे", "is_correct": false }
+      ],
+      "answer": "वातावरणातील बदलांमुळे प्रकाशाचे अपवर्तन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सर्वात कमी घनता असलेला ग्रह कोणता?",
+      "options": [
+        { "option_id": 1, "text": "पृथ्वी", "is_correct": false },
+        { "option_id": 2, "text": "शनी", "is_correct": true },
+        { "option_id": 3, "text": "शुक्र", "is_correct": false },
+        { "option_id": 4, "text": "मंगळ", "is_correct": false }
+      ],
+      "answer": "शनी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "सूर्यमालेचा शोध घेणाऱ्या अवकाश संशोधन संस्थेचे नाव काय (भारत)?",
+      "options": [
+        { "option_id": 1, "text": "NASA", "is_correct": false },
+        { "option_id": 2, "text": "ISRO", "is_correct": true },
+        { "option_id": 3, "text": "ESA", "is_correct": false },
+        { "option_id": 4, "text": "JAXA", "is_correct": false }
+      ],
+      "answer": "ISRO"
+    },
+    {
+      "question_id": 31,
+      "question_type": "Short Answer",
+      "question": "दीर्घिका म्हणजे काय?",
+      "answer": "असंख्य तारे आणि त्यांच्या ग्रहमालिका यांच्या समूहास दीर्घिका असे म्हणतात."
+    },
+    {
+      "question_id": 32,
+      "question_type": "Short Answer",
+      "question": "आपली सूर्यमाला ज्या दीर्घिकेत आहे तिचे नाव काय?",
+      "answer": "आपली सूर्यमाला 'आकाशगंगा' (मंदाकिनी) या दीर्घिकेत आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "Short Answer",
+      "question": "विश्व कशाने बनलेले असते?",
+      "answer": "असंख्य दीर्घिका, त्यांच्यामधील अवकाश आणि ऊर्जा यांचा समावेश विश्वात होतो."
+    },
+    {
+      "question_id": 34,
+      "question_type": "Short Answer",
+      "question": "तेजोमेघ म्हणजे काय?",
+      "answer": "आकाशगंगेमधील धुळीचे कण आणि वायू यांच्या ढगांना तेजोमेघ म्हणतात, येथूनच ताऱ्यांचा जन्म होतो."
+    },
+    {
+      "question_id": 35,
+      "question_type": "Short Answer",
+      "question": "दीर्घिकेचे चार मुख्य प्रकार कोणते?",
+      "answer": "१. चक्राकार, २. विवृत्ताकार, ३. अवरुद्ध चक्राकार आणि ४. अनियमित दीर्घिका."
+    },
+    {
+      "question_id": 36,
+      "question_type": "Short Answer",
+      "question": "ताऱ्यांचे विविध प्रकार कोणते?",
+      "answer": "तांबडे राक्षसी तारे, महाराक्षसी तारे, श्वेत खुजा, सूर्यसदृश तारे आणि जोडतारे हे ताऱ्यांचे प्रकार आहेत."
+    },
+    {
+      "question_id": 37,
+      "question_type": "Short Answer",
+      "question": "सूर्यमालेत कोणकोणत्या घटकांचा समावेश होतो?",
+      "answer": "सूर्यमालेत सूर्य, ८ ग्रह, उपग्रह, लघुग्रह, बटुग्रह आणि धुमकेतू यांचा समावेश होतो."
+    },
+    {
+      "question_id": 38,
+      "question_type": "Short Answer",
+      "question": "अंतर्ग्रह कोणाला म्हणतात?",
+      "answer": "बुध, शुक्र, पृथ्वी आणि मंगळ या सूर्याच्या जवळच्या ग्रहांना अंतर्ग्रह म्हणतात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "Short Answer",
+      "question": "बहिर्ग्रह कोणाला म्हणतात?",
+      "answer": "गुरु, शनी, युरेनस आणि नेपच्यून या सूर्यापासून लांब असलेल्या ग्रहांना बहिर्ग्रह म्हणतात."
+    },
+    {
+      "question_id": 40,
+      "question_type": "Short Answer",
+      "question": "सूर्याचे पृष्ठभागाचे तापमान साधारण किती असते?",
+      "answer": "सूर्याच्या पृष्ठभागाचे तापमान सुमारे ६०००°C असते."
+    },
+    {
+      "question_id": 41,
+      "question_type": "Short Answer",
+      "question": "बुध ग्रहाचे वैशिष्ट्य काय?",
+      "answer": "हा सूर्याच्या सर्वात जवळचा ग्रह असून त्याला स्वतःभोवती फिरण्यापेक्षा सूर्याभोवती फिरण्यास कमी वेळ लागतो."
+    },
+    {
+      "question_id": 42,
+      "question_type": "Short Answer",
+      "question": "शुक्र ग्रहाबद्दल माहिती द्या.",
+      "answer": "शुक्र हा सूर्यमालेतील सर्वात तेजस्वी ग्रह असून तो पूर्वेकडून पश्चिमेकडे फिरतो."
+    },
+    {
+      "question_id": 43,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीचे वैशिष्ट्य काय?",
+      "answer": "पृथ्वी हा सूर्यमालेतील एकमेव असा ग्रह आहे जिथे जीवसृष्टी अस्तित्वात आहे आणि ती चुंबकीय क्षेत्रामुळे सुरक्षित आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "Short Answer",
+      "question": "मंगळ ग्रहाला 'लाल ग्रह' का म्हणतात?",
+      "answer": "मंगळ ग्रहाच्या मातीत लोह असल्यामुळे त्याचा रंग लालसर दिसतो, म्हणून त्याला लाल ग्रह म्हणतात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "Short Answer",
+      "question": "गुरु ग्रहाबद्दल दोन ओळी लिहा.",
+      "answer": "हा सूर्यमालेतील सर्वात मोठा ग्रह असून तो इतका मोठा आहे की त्यात १३९७ पृथ्वी गोल सहज मावू शकतील."
+    },
+    {
+      "question_id": 46,
+      "question_type": "Short Answer",
+      "question": "शनी ग्रहाची घनता कमी आहे याचा अर्थ काय?",
+      "answer": "शनी ग्रहाची घनता पाण्यापेक्षाही कमी आहे, म्हणजे जर तो एका प्रचंड मोठ्या समुद्रात टाकला तर तो पाण्यावर तरंगू शकेल."
+    },
+    {
+      "question_id": 47,
+      "question_type": "Short Answer",
+      "question": "युरेनस ग्रहाचे वैशिष्ट्य काय?",
+      "answer": "हा ग्रह स्वतःच्या अक्षावर खूप झुकलेला असल्याने तो घरंगळत चालल्यासारखा दिसतो."
+    },
+    {
+      "question_id": 48,
+      "question_type": "Short Answer",
+      "question": "नेपच्यून ग्रहावर ऋतू बदलतात का?",
+      "answer": "हो, नेपच्यून ग्रहावर सुद्धा पृथ्वीसारखे ऋतू बदलतात, पण ते खूप जास्त काळ टिकतात."
+    },
+    {
+      "question_id": 49,
+      "question_type": "Short Answer",
+      "question": "उपग्रह म्हणजे काय?",
+      "answer": "जे खगोलीय पदार्थ स्वतःच्या ग्रहाभोवती प्रदक्षिणा घालतात, त्यांना उपग्रह म्हणतात."
+    },
+    {
+      "question_id": 50,
+      "question_type": "Short Answer",
+      "question": "बटुग्रह म्हणजे काय?",
+      "answer": "सूर्याभोवती प्रदक्षिणा घालणारे लहान आकाराचे खगोलीय पदार्थ जे ग्रहांच्या निकषात बसत नाहीत, त्यांना बटुग्रह म्हणतात (उदा. प्लूटो)."
+    },
+    {
+      "question_id": 51,
+      "question_type": "Short Answer",
+      "question": "लघुग्रह कोठे आढळतात?",
+      "answer": "मंगळ आणि गुरु या ग्रहांच्या दरम्यान असलेल्या पट्ट्यात लहान आकाराचे असंख्य खगोलीय पदार्थ फिरतात, त्यांना लघुग्रह म्हणतात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "Short Answer",
+      "question": "धुमकेतू कशाचे बनलेले असतात?",
+      "answer": "धुमकेतू हे गोठलेले वायू आणि धुळीचे कण यांनी बनलेले असतात, त्यांना 'धुळीचे बर्फाचे गोळे' असेही म्हणतात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "Short Answer",
+      "question": "धुमकेतूची शेंडी सूर्याच्या विरुद्ध दिशेला का असते?",
+      "answer": "सूर्याचा उष्णता आणि सौर वाऱ्याच्या दाबामुळे धुमकेतूतील वायू बाहेर फेकला जातो, त्यामुळे त्याची शेंडी सूर्याच्या विरुद्ध दिशेला दिसते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "Short Answer",
+      "question": "उल्का म्हणजे काय?",
+      "answer": "जेव्हा अवकाशातील लहान खडक पृथ्वीच्या वातावरणात येतात आणि घासले गेल्याने जळून नष्ट होतात, तेव्हा त्यांना उल्का म्हणतात."
+    },
+    {
+      "question_id": 55,
+      "question_type": "Short Answer",
+      "question": "उल्कापात म्हणजे काय?",
+      "answer": "जेव्हा मोठ्या संख्येने उल्का पृथ्वीच्या वातावरणात प्रवेश करतात आणि आकाशात प्रकाशाच्या रेषा दिसतात, त्याला उल्कापात म्हणतात."
+    },
+    {
+      "question_id": 56,
+      "question_type": "Short Answer",
+      "question": "ताऱ्यांचा रंग कशावर अवलंबून असतो?",
+      "answer": "ताऱ्यांचा रंग त्यांच्या पृष्ठभागाच्या तापमानावर अवलंबून असतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "Short Answer",
+      "question": "आपल्या आकाशगंगेचे स्वरूप कसे आहे?",
+      "answer": "आपली आकाशगंगा ही एक चक्राकार (Spiral) दीर्घिका आहे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "Short Answer",
+      "question": "सूर्य आणि पृथ्वीमधील अंतर साधारण किती आहे?",
+      "answer": "सूर्य आणि पृथ्वीमधील अंतर सुमारे १५ कोटी किलोमीटर आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाला सूर्यापासून पृथ्वीपर्यंत पोहोचण्यास किती वेळ लागतो?",
+      "answer": "प्रकाशाला सूर्यापासून पृथ्वीपर्यंत पोहोचण्यास साधारणपणे ८ मिनिटे २० सेकंद लागतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "Short Answer",
+      "question": "श्वेत खुजा (White Dwarf) म्हणजे काय?",
+      "answer": "जेव्हा सूर्यासारखा तारा आपले इंधन संपवतो आणि लहान आकारात आकुंचन पावतो, तेव्हा त्याला श्वेत खुजा म्हणतात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "Short Answer",
+      "question": "तारे स्वयंप्रकाशी का असतात?",
+      "answer": "ताऱ्यांच्या केंद्रात होणाऱ्या नाभिकीय अभिक्रियेमुळे प्रचंड ऊर्जा निर्माण होते, म्हणून ते स्वयंप्रकाशी असतात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "Short Answer",
+      "question": "ग्रह स्वयंप्रकाशी असतात का?",
+      "answer": "नाही, ग्रह स्वयंप्रकाशी नसतात, ते सूर्याच्या प्रकाशाचे परावर्तन करतात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "Short Answer",
+      "question": "चंद्रावर वातावरण आहे का?",
+      "answer": "नाही, चंद्रावर वातावरण आणि पाणी नाही."
+    },
+    {
+      "question_id": 64,
+      "question_type": "Short Answer",
+      "question": "ग्रहांची कक्षा म्हणजे काय?",
+      "answer": "प्रत्येक ग्रह सूर्याभोवती ज्या ठराविक मार्गावरून फिरतो, त्याला त्या ग्रहाची कक्षा म्हणतात."
+    },
+    {
+      "question_id": 65,
+      "question_type": "Short Answer",
+      "question": "शनीच्या कड्या कशाच्या बनलेल्या असतात?",
+      "answer": "शनीच्या कड्या बर्फाचे तुकडे आणि खडकांच्या कणांच्या बनलेल्या असतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "Short Answer",
+      "question": "कोणत्या ग्रहावर सर्वात जास्त वेगाने वारे वाहतात?",
+      "answer": "नेपच्यून ग्रहावर अतिशय वेगाने वारे वाहतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "Short Answer",
+      "question": "हॅलेच्या धुमकेतूचे वैशिष्ट्य काय?",
+      "answer": "हॅलेचा धुमकेतू दर ७६ वर्षांनी पृथ्वीवरून स्पष्टपणे दिसतो, तो शेवटचा १९८६ मध्ये दिसला होता."
+    },
+    {
+      "question_id": 68,
+      "question_type": "Short Answer",
+      "question": "आकाश निरीक्षणासाठी काय आवश्यक असते?",
+      "answer": "आकाश निरीक्षणासाठी दुर्बिण, निरभ्र आकाश आणि काळोखी रात्र आवश्यक असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "Short Answer",
+      "question": "सूर्याची ऊर्जा कशामुळे निर्माण होते?",
+      "answer": "सूर्यामध्ये हायड्रोजनचे रूपांतर हेलियममध्ये होण्याच्या क्रियेतून ऊर्जा निर्माण होते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "Short Answer",
+      "question": "अशनी (Meteorite) म्हणजे काय?",
+      "answer": "ज्या उल्का वातावरणात पूर्णपणे जळत नाहीत आणि पृथ्वीच्या पृष्ठभागावर येऊन पडतात, त्यांना अशनी म्हणतात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "Short Answer",
+      "question": "मृग नक्षत्र म्हणजे काय?",
+      "answer": "आकाशात दिसणारा ताऱ्यांचा एक विशिष्ट समूह ज्याचा आकार शिकारी सारखा दिसतो, त्याला मृग नक्षत्र म्हणतात."
+    },
+    {
+      "question_id": 72,
+      "question_type": "Short Answer",
+      "question": "ध्रुवतारा का स्थिर दिसतो?",
+      "answer": "ध्रुवतारा पृथ्वीच्या आसाच्या रेषेत असल्याने तो आपल्याला एकाच जागी स्थिर दिसतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "Short Answer",
+      "question": "गुरुत्वाकर्षण म्हणजे काय?",
+      "answer": "खगोलीय वस्तूंनी एकमेकांना आपल्याकडे खेचण्याच्या शक्तीला गुरुत्वाकर्षण म्हणतात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "Short Answer",
+      "question": "सूर्यमालेतील सर्वात लहान ग्रह कोणता?",
+      "answer": "बुध हा सूर्यमालेतील सर्वात लहान ग्रह आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "Short Answer",
+      "question": "शुक्र ग्रहावर सूर्यास्त कोठे होतो?",
+      "answer": "शुक्र हा ग्रह स्वतःभोवती पूर्वेकडून पश्चिमेकडे फिरत असल्याने तिथे सूर्योदय पश्चिमेला आणि सूर्यास्त पूर्वेला होतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "Short Answer",
+      "question": "पृथ्वीच्या चुंबकीय क्षेत्राचा काय उपयोग होतो?",
+      "answer": "पृथ्वीचे चुंबकीय क्षेत्र सूर्यापासून येणाऱ्या घातक किरणांपासून सजीवांचे रक्षण करते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "Short Answer",
+      "question": "जोडतारे म्हणजे काय?",
+      "answer": "अवकाशात अर्ध्यापेक्षा जास्त तारे हे जोडतारे असतात, म्हणजे दोन तारे एकमेकांभोवती प्रदक्षिणा घालत असतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "Short Answer",
+      "question": "अनियमित दीर्घिका म्हणजे काय?",
+      "answer": "ज्या दीर्घिकांना कोणताही ठराविक आकार नसतो, त्यांना अनियमित दीर्घिका म्हणतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "Short Answer",
+      "question": "सूर्याला 'सूर्यमालेचा आधार' का म्हणतात?",
+      "answer": "कारण सूर्याच्या गुरुत्वाकर्षणामुळेच सर्व ग्रह, उपग्रह आणि इतर खगोलीय वस्तू त्याच्याभोवती फिरत राहतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "Short Answer",
+      "question": "धुमकेतूचे दोन प्रकार कोणते?",
+      "answer": "दीर्घ मुदतीचे धुमकेतू आणि अल्प मुदतीचे धुमकेतू."
+    },
+    {
+      "question_id": 81,
+      "question_type": "Short Answer",
+      "question": "चंद्र पृथ्वीचा उपग्रह असूनही तो लुकलुकत का नाही?",
+      "answer": "कारण चंद्र हा ताऱ्यांच्या तुलनेत पृथ्वीच्या खूप जवळ आहे आणि त्याला स्वतःचा प्रकाश नाही."
+    },
+    {
+      "question_id": 82,
+      "question_type": "Short Answer",
+      "question": "मंगळ ग्रहाचे दोन उपग्रह कोणते?",
+      "answer": "फोबोस आणि डेमोस हे मंगळाचे दोन उपग्रह आहेत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "Short Answer",
+      "question": "सूर्यापासून सर्वात लांब असलेला ग्रह कोणता?",
+      "answer": "नेपच्यून हा सूर्यापासून सर्वात लांब असलेला ग्रह आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "Short Answer",
+      "question": "प्रकाशाचा वेग किती असतो?",
+      "answer": "प्रकाशाचा वेग सुमारे ३,००,००० किलोमीटर प्रति सेकंद असतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "Short Answer",
+      "question": "तांबडा राक्षसी तारा म्हणजे काय?",
+      "answer": "जेव्हा सूर्यासारखा तारा वृद्ध होतो, तेव्हा तो खूप मोठा होतो आणि लाल रंगाचा दिसतो, त्याला तांबडा राक्षसी तारा म्हणतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "Short Answer",
+      "question": "सूर्यमालेतील ग्रहांचा क्रमाने उल्लेख करा.",
+      "answer": "बुध, शुक्र, पृथ्वी, मंगळ, गुरु, शनी, युरेनस आणि नेपच्यून."
+    },
+    {
+      "question_id": 87,
+      "question_type": "Short Answer",
+      "question": "लहान दुर्बिणीतून कोणता ग्रह स्पष्ट दिसू शकतो?",
+      "answer": "गुरू आणि शनी हे ग्रह लहान दुर्बिणीतून सहज दिसू शकतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "Short Answer",
+      "question": "ताऱ्यांचे आयुष्य किती असते?",
+      "answer": "ताऱ्यांचे आयुष्य त्यांच्या वस्तुमानावर अवलंबून असते, ते कोट्यवधी वर्षे जगू शकतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "Short Answer",
+      "question": "दीर्घिका स्थिर असतात का?",
+      "answer": "नाही, दीर्घिका सुद्धा अवकाशात प्रचंड वेगाने एकमेकांपासून लांब सरकत आहेत."
+    },
+    {
+      "question_id": 90,
+      "question_type": "Short Answer",
+      "question": "विश्वाचा उगम कशामुळे झाला असे मानले जाते?",
+      "answer": "विश्वाचा उगम एका प्रचंड मोठ्या स्फोटामुळे (Big Bang) झाला असे शास्त्रज्ञ मानतात."
+    }
+  ]
+}

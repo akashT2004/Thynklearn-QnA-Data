@@ -1,0 +1,713 @@
+{
+  "chapter_info": {
+    "chapter_number": "26",
+    "grade": "सहावी",
+    "subject": "मराठी",
+    "medium": "मराठी",
+    "part": "भाग-२",
+    "sub_lesson_name": "संतवाणी"
+  },
+  "question_list": [
+    {
+      "question_number": 1,
+      "question_type": "Multiple Choice",
+      "question": "संतवाणीतील पहिली कविता कोणाची आहे?",
+      "options": [
+        { "option_number": 1, "text": "संत निर्मळा", "is_correct": false },
+        { "option_number": 2, "text": "संत बहिणाबाई", "is_correct": true },
+        { "option_number": 3, "text": "संत चोखामेळा", "is_correct": false },
+        { "option_number": 4, "text": "जनाबाई", "is_correct": false }
+      ],
+      "answer": "संत बहिणाबाई"
+    },
+    {
+      "question_number": 2,
+      "question_type": "Multiple Choice",
+      "question": "निंबाला 'कडूपण' कोण देते असे कवी विचारतात?",
+      "options": [
+        { "option_number": 1, "text": "शेतकरी", "is_correct": false },
+        { "option_number": 2, "text": "पाणी", "is_correct": false },
+        { "option_number": 3, "text": "निसर्ग (कोणीही नाही)", "is_correct": true },
+        { "option_number": 4, "text": "खत", "is_correct": false }
+      ],
+      "answer": "निसर्ग (कोणीही नाही)"
+    },
+    {
+      "question_number": 3,
+      "question_type": "Multiple Choice",
+      "question": "बीज तैसे फळ' या म्हणीचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "फळ गोड असणे", "is_correct": false },
+        { "option_number": 2, "text": "जसे मूळ असेल तसाच परिणाम मिळतो", "is_correct": true },
+        { "option_number": 3, "text": "बीज मोठे असणे", "is_correct": false },
+        { "option_number": 4, "text": "शेती करणे", "is_correct": false }
+      ],
+      "answer": "जसे मूळ असेल तसाच परिणाम मिळतो"
+    },
+    {
+      "question_number": 4,
+      "question_type": "Multiple Choice",
+      "question": "अमृत' कोणाला मिळते असे बहिणाबाई म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "निंबाला", "is_correct": false },
+        { "option_number": 2, "text": "आम्रास (आंब्याला)", "is_correct": true },
+        { "option_number": 3, "text": "खारीकला", "is_correct": false },
+        { "option_number": 4, "text": "मोहरीला", "is_correct": false }
+      ],
+      "answer": "आम्रास (आंब्याला)"
+    },
+    {
+      "question_number": 5,
+      "question_type": "Multiple Choice",
+      "question": "बचनागाच्या अंगी काय असते?",
+      "options": [
+        { "option_number": 1, "text": "अमृत", "is_correct": false },
+        { "option_number": 2, "text": "विष", "is_correct": true },
+        { "option_number": 3, "text": "साखर", "is_correct": false },
+        { "option_number": 4, "text": "सुगंध", "is_correct": false }
+      ],
+      "answer": "विष"
+    },
+    {
+      "question_number": 6,
+      "question_type": "Multiple Choice",
+      "question": "मोहरीची चव कशी असते?",
+      "options": [
+        { "option_number": 1, "text": "गोड", "is_correct": false },
+        { "option_number": 2, "text": "तीक्ष्ण", "is_correct": true },
+        { "option_number": 3, "text": "कडू", "is_correct": false },
+        { "option_number": 4, "text": "आंबट", "is_correct": false }
+      ],
+      "answer": "तीक्ष्ण"
+    },
+    {
+      "question_number": 7,
+      "question_type": "Multiple Choice",
+      "question": "संत निर्मळांच्या मनात रात्रंदिवस काय होते?",
+      "options": [
+        { "option_number": 1, "text": "आनंद", "is_correct": false },
+        { "option_number": 2, "text": "तळमळ", "is_correct": true },
+        { "option_number": 3, "text": "झोप", "is_correct": false },
+        { "option_number": 4, "text": "भय", "is_correct": false }
+      ],
+      "answer": "तळमळ"
+    },
+    {
+      "question_number": 8,
+      "question_type": "Multiple Choice",
+      "question": "संत निर्मळांना कशाचा उबग आला आहे?",
+      "options": [
+        { "option_number": 1, "text": "पावसाचा", "is_correct": false },
+        { "option_number": 2, "text": "संसाराचा", "is_correct": true },
+        { "option_number": 3, "text": "कामाचा", "is_correct": false },
+        { "option_number": 4, "text": "आहाराचा", "is_correct": false }
+      ],
+      "answer": "संसाराचा"
+    },
+    {
+      "question_number": 9,
+      "question_type": "Multiple Choice",
+      "question": "चोखियाची आण' - यात चोखिया म्हणजे कोण?",
+      "options": [
+        { "option_number": 1, "text": "संत तुकाराम", "is_correct": false },
+        { "option_number": 2, "text": "संत चोखामेळा", "is_correct": true },
+        { "option_number": 3, "text": "विठ्ठल", "is_correct": false },
+        { "option_number": 4, "text": "नामदेव", "is_correct": false }
+      ],
+      "answer": "संत चोखामेळा"
+    },
+    {
+      "question_number": 10,
+      "question_type": "Multiple Choice",
+      "question": "फादर थॉमस स्टीफन्स यांनी कोणत्या भाषेचे महत्त्व सांगितले आहे?",
+      "options": [
+        { "option_number": 1, "text": "इंग्रजी", "is_correct": false },
+        { "option_number": 2, "text": "मराठी", "is_correct": true },
+        { "option_number": 3, "text": "संस्कृत", "is_correct": false },
+        { "option_number": 4, "text": "हिंदी", "is_correct": false }
+      ],
+      "answer": "मराठी"
+    },
+    {
+      "question_number": 11,
+      "question_type": "Multiple Choice",
+      "question": "रत्नांमाजी कोणता हिरा निळा असतो असे स्टीफन्स म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "पांढरा", "is_correct": false },
+        { "option_number": 2, "text": "निळा", "is_correct": true },
+        { "option_number": 3, "text": "लाल", "is_correct": false },
+        { "option_number": 4, "text": "हिरवा", "is_correct": false }
+      ],
+      "answer": "निळा"
+    },
+    {
+      "question_number": 12,
+      "question_type": "Multiple Choice",
+      "question": "फुलांमध्ये कोणती फूल श्रेष्ठ मानले आहे (कवितेनुसार)?",
+      "options": [
+        { "option_number": 1, "text": "गुलाब", "is_correct": false },
+        { "option_number": 2, "text": "मोगरी", "is_correct": true },
+        { "option_number": 3, "text": "जास्वंद", "is_correct": false },
+        { "option_number": 4, "text": "कमळ", "is_correct": false }
+      ],
+      "answer": "मोगरी"
+    },
+    {
+      "question_number": 13,
+      "question_type": "Multiple Choice",
+      "question": "पक्ष्यांमध्ये कोणाची तुलना मराठी भाषेशी केली आहे?",
+      "options": [
+        { "option_number": 1, "text": "पोपट", "is_correct": false },
+        { "option_number": 2, "text": "मयोरु (मोर)", "is_correct": true },
+        { "option_number": 3, "text": "गरुड", "is_correct": false },
+        { "option_number": 4, "text": "चिमणी", "is_correct": false }
+      ],
+      "answer": "मयोरु (मोर)"
+    },
+    {
+      "question_number": 14,
+      "question_type": "Multiple Choice",
+      "question": "वृक्षांमध्ये कोणता वृक्ष श्रेष्ठ सांगितला आहे?",
+      "options": [
+        { "option_number": 1, "text": "पिंपळ", "is_correct": false },
+        { "option_number": 2, "text": "कल्पतरु", "is_correct": true },
+        { "option_number": 3, "text": "वटवृक्ष", "is_correct": false },
+        { "option_number": 4, "text": "अंबा", "is_correct": false }
+      ],
+      "answer": "कल्पतरु"
+    },
+    {
+      "question_number": 15,
+      "question_type": "Multiple Choice",
+      "question": "सप्त वारांमध्ये कोणाचा उल्लेख कवितेत आला आहे?",
+      "options": [
+        { "option_number": 1, "text": "रवी आणि ससी (सूर्य आणि चंद्र)", "is_correct": true },
+        { "option_number": 2, "text": "मंगळ", "is_correct": false },
+        { "option_number": 3, "text": "गुरु", "is_correct": false },
+        { "option_number": 4, "text": "शनि", "is_correct": false }
+      ],
+      "answer": "रवी आणि ससी (सूर्य आणि चंद्र)"
+    },
+    {
+      "question_number": 16,
+      "question_type": "Multiple Choice",
+      "question": "बहेणि म्हणे' म्हणजे कोण म्हणत आहे?",
+      "options": [
+        { "option_number": 1, "text": "बहिणी", "is_correct": false },
+        { "option_number": 2, "text": "संत बहिणाबाई", "is_correct": true },
+        { "option_number": 3, "text": "मुलगी", "is_correct": false },
+        { "option_number": 4, "text": "आई", "is_correct": false }
+      ],
+      "answer": "संत बहिणाबाई"
+    },
+    {
+      "question_number": 17,
+      "question_type": "Multiple Choice",
+      "question": "इंद्रवनामुळी' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "इंद्राचे वन", "is_correct": false },
+        { "option_number": 2, "text": "इंद्रायण फळाचे मूळ (विषारी)", "is_correct": true },
+        { "option_number": 3, "text": "पाणी", "is_correct": false },
+        { "option_number": 4, "text": "सुगंध", "is_correct": false }
+      ],
+      "answer": "इंद्रायण फळाचे मूळ (विषारी)"
+    },
+    {
+      "question_number": 18,
+      "question_type": "Multiple Choice",
+      "question": "खारीक निर्माण मधुर का हो?' यात मधुर म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "कडू", "is_correct": false },
+        { "option_number": 2, "text": "गोड", "is_correct": true },
+        { "option_number": 3, "text": "तिखट", "is_correct": false },
+        { "option_number": 4, "text": "खारट", "is_correct": false }
+      ],
+      "answer": "गोड"
+    },
+    {
+      "question_number": 19,
+      "question_type": "Multiple Choice",
+      "question": "संत निर्मळा कोणाला साकडे घालत आहेत?",
+      "options": [
+        { "option_number": 1, "text": "लोकांना", "is_correct": false },
+        { "option_number": 2, "text": "मायबापा (देव/गुरु)", "is_correct": true },
+        { "option_number": 3, "text": "मुलांना", "is_correct": false },
+        { "option_number": 4, "text": "राजाला", "is_correct": false }
+      ],
+      "answer": "मायबापा (देव/गुरु)"
+    },
+    {
+      "question_number": 20,
+      "question_type": "Multiple Choice",
+      "question": "परिमळांमाजी काय श्रेष्ठ आहे?",
+      "options": [
+        { "option_number": 1, "text": "अत्तर", "is_correct": false },
+        { "option_number": 2, "text": "कस्तुरि", "is_correct": true },
+        { "option_number": 3, "text": "फूल", "is_correct": false },
+        { "option_number": 4, "text": "पावडर", "is_correct": false }
+      ],
+      "answer": "कस्तुरि"
+    },
+    {
+      "question_number": 21,
+      "question_type": "Multiple Choice",
+      "question": "भासांमाजी चोखळा' चोखळा म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "घाणेरडी", "is_correct": false },
+        { "option_number": 2, "text": "शुद्ध/स्वच्छ/उत्तम", "is_correct": true },
+        { "option_number": 3, "text": "कठीण", "is_correct": false },
+        { "option_number": 4, "text": "मऊ", "is_correct": false }
+      ],
+      "answer": "शुद्ध/स्वच्छ/उत्तम"
+    },
+    {
+      "question_number": 22,
+      "question_type": "Multiple Choice",
+      "question": "तारांमध्ये किती राशी असतात?",
+      "options": [
+        { "option_number": 1, "text": "१०", "is_correct": false },
+        { "option_number": 2, "text": "१२", "is_correct": true },
+        { "option_number": 3, "text": "८", "is_correct": false },
+        { "option_number": 4, "text": "१५", "is_correct": false }
+      ],
+      "answer": "१२"
+    },
+    {
+      "question_number": 23,
+      "question_type": "Multiple Choice",
+      "question": "वोंगळ' या शब्दाचा अर्थ सांगा.",
+      "options": [
+        { "option_number": 1, "text": "चांगले", "is_correct": false },
+        { "option_number": 2, "text": "वाईट/अशुद्ध", "is_correct": true },
+        { "option_number": 3, "text": "गोड", "is_correct": false },
+        { "option_number": 4, "text": "पवित्र", "is_correct": false }
+      ],
+      "answer": "वाईट/अशुद्ध"
+    },
+    {
+      "question_number": 24,
+      "question_type": "Multiple Choice",
+      "question": "पाऊले न दिसती' हे कोणाचे दुःख आहे?",
+      "options": [
+        { "option_number": 1, "text": "बहिणाबाईंचे", "is_correct": false },
+        { "option_number": 2, "text": "संत निर्मळांचे", "is_correct": true },
+        { "option_number": 3, "text": "चोखामेळांचे", "is_correct": false },
+        { "option_number": 4, "text": "स्टीफन्सचे", "is_correct": false }
+      ],
+      "answer": "संत निर्मळांचे"
+    },
+    {
+      "question_number": 25,
+      "question_type": "Multiple Choice",
+      "question": "मराठी भाषेची तुलना कशाशी केली आहे?",
+      "options": [
+        { "option_number": 1, "text": "लोखंडाशी", "is_correct": false },
+        { "option_number": 2, "text": "रत्नकिळा/हिरा निळा", "is_correct": true },
+        { "option_number": 3, "text": "मातीशी", "is_correct": false },
+        { "option_number": 4, "text": "पाण्याशी", "is_correct": false }
+      ],
+      "answer": "रत्नकिळा/हिरा निळा"
+    },
+    {
+      "question_number": 26,
+      "question_type": "Multiple Choice",
+      "question": "संत बहिणाबाईंनी कोणाची परीक्षा करण्यास सांगितले आहे?",
+      "options": [
+        { "option_number": 1, "text": "पाण्याची", "is_correct": false },
+        { "option_number": 2, "text": "उत्तम आणि वोंगळ यांची", "is_correct": true },
+        { "option_number": 3, "text": "पक्षांची", "is_correct": false },
+        { "option_number": 4, "text": "ताऱ्यांची", "is_correct": false }
+      ],
+      "answer": "उत्तम आणि वोंगळ यांची"
+    },
+    {
+      "question_number": 27,
+      "question_type": "Multiple Choice",
+      "question": "फांसा तोडा' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "दोर तोडणे", "is_correct": false },
+        { "option_number": 2, "text": "माया-मोहाचे बंधन तोडणे", "is_correct": true },
+        { "option_number": 3, "text": "शाळा सोडणे", "is_correct": false },
+        { "option_number": 4, "text": "झाड तोडणे", "is_correct": false }
+      ],
+      "answer": "माया-मोहाचे बंधन तोडणे"
+    },
+    {
+      "question_number": 28,
+      "question_type": "Multiple Choice",
+      "question": "स्टीफन्स यांच्या मते भाषांमध्ये कोणाला 'थोर मान' आहे?",
+      "options": [
+        { "option_number": 1, "text": "हिंदीला", "is_correct": false },
+        { "option_number": 2, "text": "मराठीला", "is_correct": true },
+        { "option_number": 3, "text": "संस्कृतला", "is_correct": false },
+        { "option_number": 4, "text": "इंग्रजीला", "is_correct": false }
+      ],
+      "answer": "मराठीला"
+    },
+    {
+      "question_number": 29,
+      "question_type": "Multiple Choice",
+      "question": "हरळांमाजी' हरळ म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "गवत/साधे खडे", "is_correct": true },
+        { "option_number": 2, "text": "सोने", "is_correct": false },
+        { "option_number": 3, "text": "चांदी", "is_correct": false },
+        { "option_number": 4, "text": "पाणी", "is_correct": false }
+      ],
+      "answer": "गवत/साधे खडे"
+    },
+    {
+      "question_number": 30,
+      "question_type": "Multiple Choice",
+      "question": "मराठी बोलीची तुलना कशाशी केली आहे?",
+      "options": [
+        { "option_number": 1, "text": "अंधाराशी", "is_correct": false },
+        { "option_number": 2, "text": "रवी आणि ससी (सूर्य आणि चंद्र)", "is_correct": true },
+        { "option_number": 3, "text": "कावळ्याशी", "is_correct": false },
+        { "option_number": 4, "text": "दगडाशी", "is_correct": false }
+      ],
+      "answer": "रवी आणि ससी (सूर्य आणि चंद्र)"
+    },
+    {
+      "question_number": 31,
+      "question_type": "Multiple Choice",
+      "question": "बहेणि म्हणे' या वाक्यातील बहेणि हे कोणाचे नाव आहे?",
+      "options": [
+        { "option_number": 1, "text": "बहिणीबाई", "is_correct": false },
+        { "option_number": 2, "text": "संत बहिणाबाई", "is_correct": true },
+        { "option_number": 3, "text": "निर्मळा", "is_correct": false },
+        { "option_number": 4, "text": "मुक्ताबाई", "is_correct": false }
+      ],
+      "answer": "संत बहिणाबाई"
+    },
+    {
+      "question_number": 32,
+      "question_type": "Multiple Choice",
+      "question": "बहु हळहळ वाटे जीवा' यात हळहळ म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "आनंद", "is_correct": false },
+        { "option_number": 2, "text": "खूप दुःख किंवा बेचैनी", "is_correct": true },
+        { "option_number": 3, "text": "भूक", "is_correct": false },
+        { "option_number": 4, "text": "राग", "is_correct": false }
+      ],
+      "answer": "खूप दुःख किंवा बेचैनी"
+    },
+    {
+      "question_number": 33,
+      "question_type": "Multiple Choice",
+      "question": "भासांमाजी साजिरी' साजिरी म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "वाईट", "is_correct": false },
+        { "option_number": 2, "text": "सुंदर/मनोहर", "is_correct": true },
+        { "option_number": 3, "text": "कठोर", "is_correct": false },
+        { "option_number": 4, "text": "जुनी", "is_correct": false }
+      ],
+      "answer": "सुंदर/मनोहर"
+    },
+    {
+      "question_number": 34,
+      "question_type": "Multiple Choice",
+      "question": "युक्षा' शब्दाचा अर्थ काय?",
+      "options": [
+        { "option_number": 1, "text": "वृक्ष", "is_correct": false },
+        { "option_number": 2, "text": "इख (ऊस)", "is_correct": true },
+        { "option_number": 3, "text": "पाणी", "is_correct": false },
+        { "option_number": 4, "text": "माती", "is_correct": false }
+      ],
+      "answer": "इख (ऊस)"
+    },
+    {
+      "question_number": 35,
+      "question_type": "Multiple Choice",
+      "question": "बीज तैसे फळ' हे कोणाचे वचन आहे?",
+      "options": [
+        { "option_number": 1, "text": "संत बहिणाबाई", "is_correct": true },
+        { "option_number": 2, "text": "संत तुकाराम", "is_correct": false },
+        { "option_number": 3, "text": "संत ज्ञानेश्वर", "is_correct": false },
+        { "option_number": 4, "text": "संत एकनाथ", "is_correct": false }
+      ],
+      "answer": "संत बहिणाबाई"
+    },
+    {
+      "question_number": 36,
+      "question_type": "Multiple Choice",
+      "question": "संसाराच्या फांसातून मुक्तता कोणाकडे मागितली आहे?",
+      "options": [
+        { "option_number": 1, "text": "मायबापा (ईश्वर/गुरु)", "is_correct": true },
+        { "option_number": 2, "text": "समाजाकडे", "is_correct": false },
+        { "option_number": 3, "text": "स्वतःकडे", "is_correct": false },
+        { "option_number": 4, "text": "राजाकडे", "is_correct": false }
+      ],
+      "answer": "मायबापा (ईश्वर/गुरु)"
+    },
+    {
+      "question_number": 37,
+      "question_type": "Multiple Choice",
+      "question": "फादर थॉमस स्टीफन्स कोणत्या शतकातील असावेत (भाषेवरून ओळखा)?",
+      "options": [
+        { "option_number": 1, "text": "आधुनिक", "is_correct": false },
+        { "option_number": 2, "text": "प्राचीन/मध्ययुगीन", "is_correct": true },
+        { "option_number": 3, "text": "विसावे", "is_correct": false },
+        { "option_number": 4, "text": "एकविसावे", "is_correct": false }
+      ],
+      "answer": "प्राचीन/मध्ययुगीन"
+    },
+    {
+      "question_number": 38,
+      "question_type": "Multiple Choice",
+      "question": "खगांमधें मयोरु' यातील 'खग' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "पक्षी", "is_correct": true },
+        { "option_number": 2, "text": "प्राणी", "is_correct": false },
+        { "option_number": 3, "text": "वारा", "is_correct": false },
+        { "option_number": 4, "text": "तारा", "is_correct": false }
+      ],
+      "answer": "पक्षी"
+    },
+    {
+      "question_number": 39,
+      "question_type": "Multiple Choice",
+      "question": "न सुटे गळें' म्हणजे काय सुटत नाही?",
+      "options": [
+        { "option_number": 1, "text": "हार", "is_correct": false },
+        { "option_number": 2, "text": "गुंता/मोहमाया", "is_correct": true },
+        { "option_number": 3, "text": "दोरी", "is_correct": false },
+        { "option_number": 4, "text": "कापड", "is_correct": false }
+      ],
+      "answer": "गुंता/मोहमाया"
+    },
+    {
+      "question_number": 40,
+      "question_type": "Multiple Choice",
+      "question": "बहेणि म्हणे' या कवितेत कशाचे दर्शन घडते?",
+      "options": [
+        { "option_number": 1, "text": "निसर्ग आणि मानवी स्वभाव", "is_correct": true },
+        { "option_number": 2, "text": "शहराचे वर्णन", "is_correct": false },
+        { "option_number": 3, "text": "युद्धाचे वर्णन", "is_correct": false },
+        { "option_number": 4, "text": "शिक्षणाचे महत्त्व", "is_correct": false }
+      ],
+      "answer": "निसर्ग आणि मानवी स्वभाव"
+    },
+    {
+      "question_number": 41,
+      "question_type": "Multiple Choice",
+      "question": "फादर स्टीफन्स यांनी मराठीला कोणापेक्षा श्रेष्ठ म्हटले आहे?",
+      "options": [
+        { "option_number": 1, "text": "इतर भाषांपेक्षा", "is_correct": true },
+        { "option_number": 2, "text": "फक्त इंग्रजीपेक्षा", "is_correct": false },
+        { "option_number": 3, "text": "फक्त हिंदीपेक्षा", "is_correct": false },
+        { "option_number": 4, "text": "कोणापेक्षाही नाही", "is_correct": false }
+      ],
+      "answer": "इतर भाषांपेक्षा"
+    },
+    {
+      "question_number": 42,
+      "question_type": "Multiple Choice",
+      "question": "या दीपिचेआं भासांमधे' दीपिचेआं म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "दिव्याचा", "is_correct": false },
+        { "option_number": 2, "text": "या बेटावरील/विभागातील", "is_correct": true },
+        { "option_number": 3, "text": "पाण्याचा", "is_correct": false },
+        { "option_number": 4, "text": "आकाशाचा", "is_correct": false }
+      ],
+      "answer": "या बेटावरील/विभागातील"
+    },
+    {
+      "question_number": 43,
+      "question_type": "Multiple Choice",
+      "question": "बचनागाआंगी विष कोण लावी?' हा प्रश्न कोणासाठी आहे?",
+      "options": [
+        { "option_number": 1, "text": "माणसासाठी", "is_correct": false },
+        { "option_number": 2, "text": "निसर्गाच्या स्वभावासाठी", "is_correct": true },
+        { "option_number": 3, "text": "बैलासाठी", "is_correct": false },
+        { "option_number": 4, "text": "पाण्यासाठी", "is_correct": false }
+      ],
+      "answer": "निसर्गाच्या स्वभावासाठी"
+    },
+    {
+      "question_number": 44,
+      "question_type": "Multiple Choice",
+      "question": "संत निर्मळा यांनी कोणाला 'दुजेपण' सांडायला सांगितले आहे?",
+      "options": [
+        { "option_number": 1, "text": "स्वतःला आणि मनाला", "is_correct": true },
+        { "option_number": 2, "text": "लोकांना", "is_correct": false },
+        { "option_number": 3, "text": "चोखामेळांना", "is_correct": false },
+        { "option_number": 4, "text": "मायबापाला", "is_correct": false }
+      ],
+      "answer": "स्वतःला आणि मनाला"
+    },
+    {
+      "question_number": 45,
+      "question_type": "Multiple Choice",
+      "question": "जैसी हरळांमाजि रत्नकिळा' यात हरळ म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "कठोर दगड", "is_correct": false },
+        { "option_number": 2, "text": "गवत/बारीक खडे", "is_correct": true },
+        { "option_number": 3, "text": "रंग", "is_correct": false },
+        { "option_number": 4, "text": "कापड", "is_correct": false }
+      ],
+      "answer": "गवत/बारीक खडे"
+    },
+    {
+      "question_number": 46,
+      "question_type": "Multiple Choice",
+      "question": "उत्तम आणि वोंगळ' यात विरुद्धार्थी शब्द जोडी कोणती?",
+      "options": [
+        { "option_number": 1, "text": "उत्तम - वोंगळ", "is_correct": true },
+        { "option_number": 2, "text": "फळ - फूल", "is_correct": false },
+        { "option_number": 3, "text": "बीज - माती", "is_correct": false },
+        { "option_number": 4, "text": "गोड - मधुर", "is_correct": false }
+      ],
+      "answer": "उत्तम - वोंगळ"
+    },
+    {
+      "question_number": 47,
+      "question_type": "Multiple Choice",
+      "question": "फादर स्टीफन्स यांनी कस्तुरिचा संबंध कोणाशी लावला आहे?",
+      "options": [
+        { "option_number": 1, "text": "मोगरीशी", "is_correct": false },
+        { "option_number": 2, "text": "परिमळाशी (सुगंधाशी)", "is_correct": true },
+        { "option_number": 3, "text": "पाण्याशी", "is_correct": false },
+        { "option_number": 4, "text": "तारांशी", "is_correct": false }
+      ],
+      "answer": "परिमळाशी (सुगंधाशी)"
+    },
+    {
+      "question_number": 48,
+      "question_type": "Multiple Choice",
+      "question": "पाऊले न दिसती' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "अंधार पडणे", "is_correct": false },
+        { "option_number": 2, "text": "देवाचा मार्ग न सापडणे", "is_correct": true },
+        { "option_number": 3, "text": "पाय दुखणे", "is_correct": false },
+        { "option_number": 4, "text": "पळून जाणे", "is_correct": false }
+      ],
+      "answer": "देवाचा मार्ग न सापडणे"
+    },
+    {
+      "question_number": 49,
+      "question_type": "Multiple Choice",
+      "question": "बहेणि म्हणे' कवितेतील 'निवाडा' म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "गोंधळ", "is_correct": false },
+        { "option_number": 2, "text": "निर्णय/निकाल", "is_correct": true },
+        { "option_number": 3, "text": "बाजार", "is_correct": false },
+        { "option_number": 4, "text": "खेळ", "is_correct": false }
+      ],
+      "answer": "निर्णय/निकाल"
+    },
+    {
+      "question_number": 50,
+      "question_type": "Multiple Choice",
+      "question": "स्टीफन्स यांच्या मते आकाशात कोण तेजस्वी असतात?",
+      "options": [
+        { "option_number": 1, "text": "विमान", "is_correct": false },
+        { "option_number": 2, "text": "रवी आणि ससी (सूर्य-चंद्र)", "is_correct": true },
+        { "option_number": 3, "text": "ढग", "is_correct": false },
+        { "option_number": 4, "text": "पक्षी", "is_correct": false }
+      ],
+      "answer": "रवी आणि ससी (सूर्य-चंद्र)"
+    },
+    { "question_number": 51, "question_type": "One-Word", "question": "निंबाची चव कशी असते?", "answer": "कडू" },
+    { "question_number": 52, "question_type": "One-Word", "question": "उसाला कवितेत काय म्हटले आहे?", "answer": "युक्षा (इख)" },
+    { "question_number": 53, "question_type": "One-Word", "question": "बीजाप्रमाणे काय मिळते?", "answer": "फळ" },
+    { "question_number": 54, "question_type": "One-Word", "question": "इंद्रवनाच्या मुळाशी काय असते?", "answer": "विष" },
+    { "question_number": 55, "question_type": "One-Word", "question": "आंब्याला काय उपमा दिली आहे?", "answer": "अमृत" },
+    { "question_number": 56, "question_type": "One-Word", "question": "बचनागाच्या अंगी काय असते?", "answer": "विष" },
+    { "question_number": 57, "question_type": "One-Word", "question": "पुष्पांना काय नलगे?", "answer": "सुगंधता (कोणीही लावण्याची गरज नाही)" },
+    { "question_number": 58, "question_type": "One-Word", "question": "मोहरी कशी असते?", "answer": "तीक्ष्ण" },
+    { "question_number": 59, "question_type": "One-Word", "question": "खारीक कशी असते?", "answer": "मधुर" },
+    { "question_number": 60, "question_type": "One-Word", "question": "बहेणि म्हणजे कोण?", "answer": "बहिणाबाई" },
+    { "question_number": 61, "question_type": "One-Word", "question": "बहिणाबाईंनी कशाची परीक्षा करण्यास सांगितले?", "answer": "उत्तम आणि वोंगळ" },
+    { "question_number": 62, "question_type": "One-Word", "question": "रात्रंदिवस मन काय करते?", "answer": "तळमळ" },
+    { "question_number": 63, "question_type": "One-Word", "question": "निर्मळांच्या जीवाला काय वाटते?", "answer": "हळहळ" },
+    { "question_number": 64, "question_type": "One-Word", "question": "काय दिसत नाही असे निर्मळा म्हणतात?", "answer": "पाउलें" },
+    { "question_number": 65, "question_type": "One-Word", "question": "गळ्यात काय पडले आहे?", "answer": "गुंती (मोहमाया)" },
+    { "question_number": 66, "question_type": "One-Word", "question": "निर्मळांना कशाचा उबग आला आहे?", "answer": "संसाराचा" },
+    { "question_number": 67, "question_type": "One-Word", "question": "संसाराच्या फांसाला काय करायचे आहे?", "answer": "तोडायचे" },
+    { "question_number": 68, "question_type": "One-Word", "question": "निर्मळा कोणाचे नाव घेतात?", "answer": "चोखिया (चोखामेळा)" },
+    { "question_number": 69, "question_type": "One-Word", "question": "निर्मळांनी कोणाची आण घातली आहे?", "answer": "चोखियाची (चोखामेळाची)" },
+    { "question_number": 70, "question_type": "One-Word", "question": "हरळांमाजी काय श्रेष्ठ असते?", "answer": "रत्नकिळा" },
+    { "question_number": 71, "question_type": "One-Word", "question": "रत्नांमध्ये कोणता हिरा श्रेष्ठ?", "answer": "निळा" },
+    { "option_number": 72, "question_type": "One-Word", "question": "भाषांमध्ये कोणती भाषा श्रेष्ठ आहे (स्टीफन्सनुसार)?", "answer": "मराठी" },
+    { "question_number": 73, "question_type": "One-Word", "question": "पुष्पांमध्ये कोणती फूल श्रेष्ठ?", "answer": "मोगरी" },
+    { "question_number": 74, "question_type": "One-Word", "question": "परिमळांमध्ये काय श्रेष्ठ?", "answer": "कस्तुरि" },
+    { "question_number": 75, "question_type": "One-Word", "question": "मराठी भाषा कशी आहे?", "answer": "साजिरी/चोखळा" },
+    { "question_number": 76, "question_type": "One-Word", "question": "पक्ष्यांमध्ये श्रेष्ठ कोण?", "answer": "मयोरु (मोर)" },
+    { "question_number": 77, "question_type": "One-Word", "question": "वृक्षांमध्ये श्रेष्ठ कोण?", "answer": "कल्पतरु" },
+    { "question_number": 78, "question_type": "One-Word", "question": "मराठीचा मान कसा आहे?", "answer": "थोरु" },
+    { "question_number": 79, "question_type": "One-Word", "question": "आकाशात किती राशी आहेत?", "answer": "बारा" },
+    { "question_number": 80, "question_type": "One-Word", "question": "आठवड्यात किती वार असतात?", "answer": "सप्त (सात)" },
+    { "question_number": 81, "question_type": "One-Word", "question": "सूर्याला कवितेत काय म्हटले आहे?", "answer": "रवी" },
+    { "question_number": 82, "question_type": "One-Word", "question": "चंद्राला कवितेत काय म्हटले आहे?", "answer": "ससी" },
+    { "question_number": 83, "question_type": "One-Word", "question": "बहिणाबाईंनी कशाचा निवाडा केला आहे?", "answer": "गोडीचा" },
+    { "question_number": 84, "question_type": "One-Word", "question": "अर्थ कोठे उघडा दिसतो?", "answer": "बीज आणि फळात" },
+    { "question_number": 85, "question_type": "One-Word", "question": "आम्रास गोडपण कोण देतो?", "answer": "निसर्ग" },
+    { "question_number": 86, "question_type": "One-Word", "question": "पुष्पांना सुगंध कोठून येतो?", "answer": "आतूनी (नैसर्गिक)" },
+    { "question_number": 87, "question_type": "One-Word", "question": "खारीक कशी निर्माण झाली?", "answer": "मधुर" },
+    { "question_number": 88, "question_type": "One-Word", "question": "संत निर्मळांच्या मते गुंती कोठे पडली?", "answer": "गळ्यात" },
+    { "question_number": 89, "question_type": "One-Word", "question": "निर्मळा कोणाकडे याचना करतात?", "answer": "मायबापा (देव/गुरु)" },
+    { "question_number": 90, "question_type": "One-Word", "question": "चोखळा शब्दाचा अर्थ काय?", "answer": "शुद्ध/स्वच्छ" },
+    { "question_number": 91, "question_type": "One-Word", "question": "मयोरु कोठे श्रेष्ठ आहे?", "answer": "पक्ष्यांमध्ये" },
+    { "question_number": 92, "question_type": "One-Word", "question": "कल्पतरु कोठे श्रेष्ठ आहे?", "answer": "वृक्षांमध्ये" },
+    { "question_number": 93, "question_type": "One-Word", "question": "रवी कोठे श्रेष्ठ आहे?", "answer": "वारांमध्ये" },
+    { "question_number": 94, "question_type": "One-Word", "question": "साजिरी कोणती भाषा आहे?", "answer": "मराठी" },
+    { "question_number": 95, "question_type": "One-Word", "question": "अमृत कोणाचे प्रतीक आहे?", "answer": "शुद्धतेचे/गोडव्याचे" },
+    { "question_number": 96, "question_type": "One-Word", "question": "निंबाची चव कशी?", "answer": "कडू" },
+    { "question_number": 97, "question_type": "One-Word", "question": "बहेणि कोणाची भक्त होती?", "answer": "विठ्ठलाची" },
+    { "question_number": 98, "question_type": "One-Word", "question": "निर्मळा कोणाची बहीण होती?", "answer": "चोखामेळांची" },
+    { "question_number": 99, "question_type": "One-Word", "question": "फादर स्टीफन्स मुळचे कुठले होते?", "answer": "इंग्लंड (मराठीत लेखन केले)" },
+    { "question_number": 100, "question_type": "One-Word", "question": "मराठी भाषा कोणासारखी तेजस्वी आहे?", "answer": "रत्नासारखी/हिऱ्यासारखी" },
+    { "question_number": 101, "question_type": "One-Word", "question": "तळमळ' म्हणजे काय?", "answer": "कासावीस होणे" },
+    { "question_number": 102, "question_type": "One-Word", "question": "हळहळ' म्हणजे काय?", "answer": "कळवळणे" },
+    { "question_number": 103, "question_type": "One-Word", "question": "पाऊले' कोणाची असावीत?", "answer": "विठ्ठलाची/गुरुची" },
+    { "question_number": 104, "question_type": "One-Word", "question": "संसार' कसा वाटतो निर्मळांना?", "answer": "उबगवाणा" },
+    { "question_number": 105, "question_type": "One-Word", "question": "फांसा' म्हणजे काय?", "answer": "फास/बंधन" },
+    { "question_number": 106, "question_type": "One-Word", "question": "दुजेपण' सांडणे म्हणजे काय?", "answer": "भेदभाव विसरणे" },
+    { "question_number": 107, "question_type": "One-Word", "question": "आण' शब्दाचा अर्थ?", "answer": "शपथ" },
+    { "question_number": 108, "question_type": "One-Word", "question": "हरळ' म्हणजे काय?", "answer": "साधे खडे" },
+    { "question_number": 109, "question_type": "One-Word", "question": "रत्नकिळा' म्हणजे काय?", "answer": "रत्नाचा प्रकाश" },
+    { "question_number": 110, "question_type": "One-Word", "question": "मराठी भाषा कशी आहे?", "answer": "चोखळा/साजिरी" },
+    { "question_number": 111, "question_type": "One-Word", "question": "पुष्प मोगरी' कशात श्रेष्ठ?",
+    "answer": "फुलांमध्ये" },
+    { "question_number": 112, "question_type": "One-Word", "question": "कस्तुरिचा काय असतो?", "answer": "परिमळ (सुगंध)" },
+    { "question_number": 113, "question_type": "One-Word", "question": "मयोरु' म्हणजे काय?", "answer": "मोर" },
+    { "question_number": 114, "question_type": "One-Word", "question": "कल्पतरु' म्हणजे काय?", "answer": "इच्छा पूर्ण करणारा वृक्ष" },
+    { "question_number": 115, "question_type": "One-Word", "question": "मानु थोरु' कोणाला आहे?", "answer": "मराठियेसि" },
+    { "question_number": 116, "question_type": "One-Word", "question": "बारा राशी कोठे आहेत?", "answer": "ताऱ्यांमध्ये" },
+    { "question_number": 117, "question_type": "One-Word", "question": "ससी' म्हणजे काय?", "answer": "चंद्र" },
+    { "question_number": 118, "question_type": "One-Word", "question": "रवी' म्हणजे काय?", "answer": "सूर्य" },
+    { "question_number": 119, "question_type": "One-Word", "question": "बोली मराठिया' कशी आहे?", "answer": "रवी आणि ससी सारखी" },
+    { "question_number": 120, "question_type": "One-Word", "question": "संत बहिणाबाईंचे मत काय?", "answer": "बीजासारखे फळ येते" },
+    { "question_number": 121, "question_type": "One-Word", "question": "इंद्रायण फळ चवीला कसे?", "answer": "विषारी/कडू" },
+    { "question_number": 122, "question_type": "One-Word", "question": "मराठी भाषेचा गौरव कोणी केला?", "answer": "फादर थॉमस स्टीफन्स" },
+    { "question_number": 123, "question_type": "One-Word", "question": "बहेणि कोणाला प्रमाण मानतात?", "answer": "बीजाला" },
+    { "question_number": 124, "question_type": "One-Word", "question": "निर्मळा कोणाचे दुःख मांडतात?", "answer": "जीवाचे" },
+    { "question_number": 125, "question_type": "One-Word", "question": "गुंता कोठून सुटत नाही?", "answer": "गळ्यातून" },
+    { "question_number": 126, "question_type": "One-Word", "question": "आत्ता कोणाची गरज आहे?", "answer": "मायबापाची (देवाची)" },
+    { "question_number": 127, "question_type": "One-Word", "question": "हिरा निळा' कशाचे वर्णन आहे?", "answer": "मराठी भाषेचे" },
+    { "question_number": 128, "question_type": "One-Word", "question": "कस्तुरिचा गंध कसा असतो?", "answer": "अतिशय सुगंधी" },
+    { "question_number": 129, "question_type": "One-Word", "question": "मराठी भाषा कोठे मोहरते?", "answer": "मनात/सृष्टीत" },
+    { "question_number": 130, "question_type": "One-Word", "question": "संतवाणी म्हणजे काय?", "answer": "संतांचे उपदेश" },
+    { "question_number": 131, "question_type": "One-Word", "question": "निंबा'चे झाड औषधी आहे का?", "answer": "हो (कडू असले तरी)" },
+    { "question_number": 132, "question_type": "One-Word", "question": "आम्रा'चा अर्थ काय?", "answer": "आंबा" },
+    { "question_number": 133, "question_type": "One-Word", "question": "सुगंधता कोणाला हवी असते?", "answer": "पुष्पांना" },
+    { "question_number": 134, "question_type": "One-Word", "question": "मोहरीची चव काय?", "answer": "तीक्ष्ण" },
+    { "question_number": 135, "question_type": "One-Word", "question": "बीज' चांगले तर फळ कसे?", "answer": "उत्तम" },
+    { "question_number": 136, "question_type": "One-Word", "question": "हळहळ' केव्हा वाटते?", "answer": "वाईट वाटल्यावर" },
+    { "question_number": 137, "question_type": "One-Word", "question": "संसाराचा काय आला?", "answer": "उबग" },
+    { "question_number": 138, "question_type": "One-Word", "question": "आण' म्हणजे काय?", "answer": "शपथ" },
+    { "question_number": 139, "question_type": "One-Word", "question": "मोगरी' कशात श्रेष्ठ?", "answer": "फुलात" },
+    { "question_number": 140, "question_type": "One-Word", "question": "मराठी भाषा कशी?", "answer": "साजिरी" },
+    { "question_number": 141, "question_type": "One-Word", "question": "मयोरु' कशात श्रेष्ठ?", "answer": "पक्ष्यात" },
+    { "question_number": 142, "question_type": "One-Word", "question": "कल्पतरु' कशात श्रेष्ठ?", "answer": "वृक्षात" },
+    { "question_number": 143, "question_type": "One-Word", "question": "रवी' कशात श्रेष्ठ?", "answer": "वारांत" },
+    { "question_number": 144, "question_type": "One-Word", "question": "बारा राशी कोठे?", "answer": "आकाशात/ताऱ्यांत" },
+    { "question_number": 145, "question_type": "One-Word", "question": "चोखामेळा' कोण होते?", "answer": "थोर संत" },
+    { "question_number": 146, "question_type": "One-Word", "question": "संतवाणी काय देते?", "answer": "शांती/बोध" },
+    { "question_number": 147, "question_type": "One-Word", "question": "उत्तम' फळ केव्हा येते?", "answer": "बीज उत्तम असल्यास" },
+    { "question_number": 148, "question_type": "One-Word", "question": "विष' कोठे असते?", "answer": "बचनागात/इंद्रवनात" },
+    { "question_number": 149, "question_type": "One-Word", "question": "मराठीची तुलना कोणाशी?", "answer": "सूर्याशी/चंद्राशी" },
+    { "question_number": 150, "question_type": "One-Word", "question": "पाठाचा विषय काय?", "answer": "संतवाणी" }
+  ]
+}
