@@ -1,0 +1,1645 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.06",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Food and Nutrition"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why do we need food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For growth and energy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For growth and energy"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which nutrient gives energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbohydrates",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Minerals",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbohydrates"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps body growth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which nutrient protects us from diseases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which food is rich in protein?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dal"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which food gives vitamins?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Butter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which nutrient makes bones strong?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calcium",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oil",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Calcium"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which food gives fats?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oil",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fruits",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oil"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which food gives minerals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vegetables",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vegetables"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Why do children need nutritious food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For growth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For growth"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps digestion?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fibre",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fibre"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which food contains fibre?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vegetables",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Butter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vegetables"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps heal wounds?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which food is good for eyes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carrot",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carrot"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which food is junk food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Burger",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Vegetables",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Burger"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Why should junk food be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is unhealthy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is tasty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is colourful",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is cheap",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is unhealthy"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which food should be eaten daily?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Healthy food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Junk food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Spicy food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oily food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Healthy food"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which nutrient gives strength?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which food is rich in iron?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Spinach",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Spinach"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which food keeps skin healthy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Salt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sugar",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which nutrient is needed in small amounts?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbohydrates",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Proteins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fats",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which food gives quick energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sugar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Milk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sugar"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Why should food be balanced?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For good health",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For smell",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For good health"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which food should be avoided daily?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fast food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Milk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fast food"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which nutrient keeps bones and teeth strong?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calcium",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Iron",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oil",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Calcium"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which food helps muscles grow?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which food helps brain work?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nutritious food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Junk food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Spicy food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oily food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nutritious food"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which nutrient provides body heat?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fats",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vitamins",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Minerals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fibre",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fats"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which food is protective food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Butter",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which food is energy-giving?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Salt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which nutrient is needed daily?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "All nutrients",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Only oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All nutrients"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which food strengthens immunity?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fruits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fruits"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which nutrient repairs body cells?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which food is unhealthy in excess?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oily food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dal",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oily food"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Why should children eat milk?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Strong bones",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For smell",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Strong bones"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which nutrient is needed for blood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Iron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Calcium",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oil",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Iron"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which food contains carbohydrates?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fruits",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps fight diseases?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vitamins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamins"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which food keeps stomach full?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps eyesight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vitamin A",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vitamin A"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which food should be eaten less?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sugary food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Vegetables",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fruits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dal",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sugary food"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which nutrient helps growth in children?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which food is nutritious?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Home-cooked food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Junk food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fast food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Spicy food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Home-cooked food"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which food is needed for repair?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Proteins",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Proteins"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which nutrient keeps body healthy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "All nutrients",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Only oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only salt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All nutrients"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which food gives long-lasting energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rice",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Salt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oil",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rice"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Why should food be nutritious?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For healthy body",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For smell",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For healthy body"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "Why do we need food?",
+            "answer": "Food gives us energy, growth, and good health."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "What is nutrition?",
+            "answer": "Nutrition is the process of getting nutrients from food."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Why is nutritious food important?",
+            "answer": "It keeps our body healthy."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "What are nutrients?",
+            "answer": "Nutrients are substances that nourish the body."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Why do children need good nutrition?",
+            "answer": "For proper growth and development."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What are carbohydrates?",
+            "answer": "They give energy to the body."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "What are proteins?",
+            "answer": "Proteins help in growth and repair."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "What are fats?",
+            "answer": "Fats give energy and body heat."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "What are vitamins?",
+            "answer": "Vitamins protect us from diseases."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "What are minerals?",
+            "answer": "Minerals help body functions."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Why is calcium important?",
+            "answer": "It makes bones and teeth strong."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "Why is iron important?",
+            "answer": "It helps in making blood."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "What is fibre?",
+            "answer": "Fibre helps digestion."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "Why should we eat fruits?",
+            "answer": "They give vitamins and minerals."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "Why should we eat vegetables?",
+            "answer": "They keep us healthy."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "What is balanced diet?",
+            "answer": "A diet with all nutrients."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "Why is milk good for children?",
+            "answer": "It gives calcium."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Why should junk food be avoided?",
+            "answer": "It harms health."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "What food gives quick energy?",
+            "answer": "Sugary food gives quick energy."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "What food gives lasting energy?",
+            "answer": "Carbohydrates give lasting energy."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "Why is protein important?",
+            "answer": "It repairs body tissues."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Why do we need vitamins?",
+            "answer": "To fight diseases."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "Why do we need minerals?",
+            "answer": "For proper body functions."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "What happens if we eat unhealthy food?",
+            "answer": "We may fall sick."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "Why should food be clean?",
+            "answer": "Clean food prevents illness."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Why should food be fresh?",
+            "answer": "Fresh food is nutritious."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "What food helps eyesight?",
+            "answer": "Vitamin A rich food helps eyesight."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Why should we eat on time?",
+            "answer": "It helps digestion."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "What is malnutrition?",
+            "answer": "Lack of proper nutrition."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "Why is breakfast important?",
+            "answer": "It gives energy for the day."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "Why should we chew food well?",
+            "answer": "It helps digestion."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "What food helps immunity?",
+            "answer": "Fruits help immunity."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Why should children drink milk?",
+            "answer": "For strong bones."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "What food is rich in iron?",
+            "answer": "Green vegetables are rich in iron."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Why should oily food be limited?",
+            "answer": "It can harm health."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "Why should sugar be limited?",
+            "answer": "Too much sugar is harmful."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "What food keeps skin healthy?",
+            "answer": "Fruits keep skin healthy."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "Why should we eat home food?",
+            "answer": "It is healthier."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "Why is water important with food?",
+            "answer": "It helps digestion."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "What food helps muscles grow?",
+            "answer": "Proteins help muscles grow."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "Why should we avoid spoiled food?",
+            "answer": "It causes sickness."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "What is healthy eating?",
+            "answer": "Eating nutritious food regularly."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "Why do we need energy?",
+            "answer": "To do daily work."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "What food gives strength?",
+            "answer": "Protein-rich food gives strength."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "Why should food be shared?",
+            "answer": "Sharing shows care."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "What lesson do we learn from nutrition?",
+            "answer": "Eat healthy food."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Why should children eat balanced diet?",
+            "answer": "For growth and health."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "How does food help body repair?",
+            "answer": "Proteins repair the body."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "Why is nutrition important for life?",
+            "answer": "Life depends on nutrition."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Why is balanced nutrition needed daily?",
+            "answer": "It keeps the body healthy every day."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "How does nutrition help children?",
+            "answer": "It supports growth and learning."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "Why should fruits be eaten daily?",
+            "answer": "They protect the body from diseases."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why should vegetables be part of every meal?",
+            "answer": "They provide fibre and minerals."
+        }
+    ]
+}

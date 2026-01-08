@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.31",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Be a Writer \u2013 2"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What should a writer do before writing a story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignore pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observe carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copy others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rush",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observe carefully"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What helps in writing a good story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What are students asked to imagine?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only names",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Before and after events",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Answers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Before and after events"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What should a story include?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conversation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No characters",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conversation"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why are pictures given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To inspire ideas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To confuse",
+          "is_correct": false
+        }
+      ],
+      "answer": "To inspire ideas"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What should characters have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Qualities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No role",
+          "is_correct": false
+        }
+      ],
+      "answer": "Qualities"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Story writing needs ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should be given to the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A title",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "A title"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which skill is developed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Counting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Writing skill"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Copy stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Avoid writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Memorize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think creatively"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What should a writer do before writing a story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignore pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observe carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copy others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rush",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observe carefully"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What helps in writing a good story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What are students asked to imagine?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only names",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Before and after events",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Answers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Before and after events"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What should a story include?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conversation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No characters",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conversation"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why are pictures given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To inspire ideas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To confuse",
+          "is_correct": false
+        }
+      ],
+      "answer": "To inspire ideas"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What should characters have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Qualities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No role",
+          "is_correct": false
+        }
+      ],
+      "answer": "Qualities"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Story writing needs ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What should be given to the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A title",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "A title"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which skill is developed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Counting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Writing skill"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Copy stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Avoid writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Memorize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think creatively"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What should a writer do before writing a story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignore pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observe carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copy others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rush",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observe carefully"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What helps in writing a good story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What are students asked to imagine?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only names",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Before and after events",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Answers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Before and after events"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What should a story include?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conversation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No characters",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conversation"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why are pictures given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To inspire ideas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To confuse",
+          "is_correct": false
+        }
+      ],
+      "answer": "To inspire ideas"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What should characters have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Qualities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No role",
+          "is_correct": false
+        }
+      ],
+      "answer": "Qualities"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Story writing needs ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What should be given to the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A title",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "A title"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which skill is developed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Counting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Writing skill"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Copy stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Avoid writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Memorize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think creatively"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What should a writer do before writing a story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignore pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observe carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copy others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rush",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observe carefully"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What helps in writing a good story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What are students asked to imagine?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only names",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Before and after events",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Answers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Before and after events"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What should a story include?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conversation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No characters",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conversation"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why are pictures given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To inspire ideas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To confuse",
+          "is_correct": false
+        }
+      ],
+      "answer": "To inspire ideas"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What should characters have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Qualities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No role",
+          "is_correct": false
+        }
+      ],
+      "answer": "Qualities"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Story writing needs ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What should be given to the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A title",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "A title"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which skill is developed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Counting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Writing skill"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Copy stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Avoid writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Memorize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think creatively"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What should a writer do before writing a story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignore pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observe carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Copy others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rush",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observe carefully"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What helps in writing a good story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What are students asked to imagine?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only names",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Before and after events",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Answers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Before and after events"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What should a story include?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Conversation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only facts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only pictures",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No characters",
+          "is_correct": false
+        }
+      ],
+      "answer": "Conversation"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Why are pictures given?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To inspire ideas",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To confuse",
+          "is_correct": false
+        }
+      ],
+      "answer": "To inspire ideas"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What should characters have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Qualities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No role",
+          "is_correct": false
+        }
+      ],
+      "answer": "Qualities"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Story writing needs ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What should be given to the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A title",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "A title"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which skill is developed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Writing skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Counting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Writing skill"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Think creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Copy stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Avoid writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Memorize",
+          "is_correct": false
+        }
+      ],
+      "answer": "Think creatively"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about creative story writing."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What should we look at carefully?",
+      "answer": "The given picture."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What should we imagine?",
+      "answer": "What happened before and after."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What makes a story interesting?",
+      "answer": "Characters and conversation."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Should characters have qualities?",
+      "answer": "Yes, they should."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What skill does this chapter develop?",
+      "answer": "Writing skill."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is imagination important?",
+      "answer": "It helps create stories."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What should a story have at the end?",
+      "answer": "A suitable title."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Should students discuss ideas?",
+      "answer": "Yes, in groups."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Think and write creatively."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about creative story writing."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What should we look at carefully?",
+      "answer": "The given picture."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What should we imagine?",
+      "answer": "What happened before and after."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What makes a story interesting?",
+      "answer": "Characters and conversation."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Should characters have qualities?",
+      "answer": "Yes, they should."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What skill does this chapter develop?",
+      "answer": "Writing skill."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is imagination important?",
+      "answer": "It helps create stories."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What should a story have at the end?",
+      "answer": "A suitable title."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Should students discuss ideas?",
+      "answer": "Yes, in groups."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Think and write creatively."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about creative story writing."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What should we look at carefully?",
+      "answer": "The given picture."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What should we imagine?",
+      "answer": "What happened before and after."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What makes a story interesting?",
+      "answer": "Characters and conversation."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Should characters have qualities?",
+      "answer": "Yes, they should."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What skill does this chapter develop?",
+      "answer": "Writing skill."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is imagination important?",
+      "answer": "It helps create stories."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What should a story have at the end?",
+      "answer": "A suitable title."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Should students discuss ideas?",
+      "answer": "Yes, in groups."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Think and write creatively."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about creative story writing."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What should we look at carefully?",
+      "answer": "The given picture."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What should we imagine?",
+      "answer": "What happened before and after."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What makes a story interesting?",
+      "answer": "Characters and conversation."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Should characters have qualities?",
+      "answer": "Yes, they should."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What skill does this chapter develop?",
+      "answer": "Writing skill."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is imagination important?",
+      "answer": "It helps create stories."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What should a story have at the end?",
+      "answer": "A suitable title."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Should students discuss ideas?",
+      "answer": "Yes, in groups."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Think and write creatively."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about creative story writing."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What should we look at carefully?",
+      "answer": "The given picture."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What should we imagine?",
+      "answer": "What happened before and after."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What makes a story interesting?",
+      "answer": "Characters and conversation."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Should characters have qualities?",
+      "answer": "Yes, they should."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What skill does this chapter develop?",
+      "answer": "Writing skill."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is imagination important?",
+      "answer": "It helps create stories."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What should a story have at the end?",
+      "answer": "A suitable title."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Should students discuss ideas?",
+      "answer": "Yes, in groups."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Think and write creatively."
+    }
+  ]
+}

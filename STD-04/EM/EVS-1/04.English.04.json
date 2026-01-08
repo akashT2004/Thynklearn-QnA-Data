@@ -1,0 +1,1645 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.04",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Water for Every Household"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why is water needed in every household?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For daily activities",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily activities"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which activity needs water every day?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Drinking",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleeping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Watching TV",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drinking"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which source supplies water to homes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Public water supply",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sunlight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Electricity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Public water supply"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Why should water be available to all households?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is essential for life",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For luxury",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is essential for life"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which activity uses the most water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Bathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bathing"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "What happens if a house has no water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Comfort increases",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Daily work stops",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Games increase",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nothing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Daily work stops"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which water is best for drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean water"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Why should water be stored at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For emergencies",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For waste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For emergencies"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which container is used to store water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tank",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Basket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bag",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cloth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tank"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Why should taps be closed properly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To save water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For speed",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To save water"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which habit wastes water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving tap open",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Closing tap",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Using bucket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saving water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaving tap open"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which water is used for cooking food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Waste water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean water"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Why is water needed for cleaning?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To maintain hygiene",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For smell",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To maintain hygiene"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which water source is mainly used in cities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Public supply",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pond water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Public supply"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Why should water be shared fairly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is limited",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For decoration",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is limited"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which activity does not need water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bathing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Drinking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Reading",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Reading"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Why should water not be wasted?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is precious",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is salty",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is precious"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which practice helps save water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using bucket",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leaving tap open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Playing with water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflow tank",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using bucket"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which water is used for washing clothes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Milk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean water"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Why do families need regular water supply?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For daily needs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For travel",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily needs"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which water is unsafe for drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Filtered water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Boiled water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clean water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dirty water"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Why should water tanks be cleaned regularly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To prevent diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For beauty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For size",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent diseases"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which water can be reused after cleaning?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Used water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Drinking water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oil",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Used water"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which habit helps reduce water use?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Shorter baths",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Long showers",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Open taps",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Overflow tanks",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Shorter baths"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Why should children learn to save water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For future needs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For future needs"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which water is used for plants at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fresh water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Juice",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fresh water"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Why is water supply important for health?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Prevents illness",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For smell",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For sound",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Prevents illness"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which water is used for toilets?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stored water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Milk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stored water"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Why should water be filtered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Remove germs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Add colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Add taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Freeze",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Remove germs"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which activity needs the least water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drinking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bathing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Reading",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Reading"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which water source may dry in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Pond",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ocean",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "River",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pond"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Why is water management needed?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To prevent shortage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To waste water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent shortage"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which household activity uses water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "All of these",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cleaning",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bathing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Why should water be used carefully?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Limited supply",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Unlimited supply",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Limited supply"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which helps store water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tank",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Paper",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tank"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which water should be boiled before drinking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drinking water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Milk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drinking water"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Why is clean water important for children?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Good health",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Good health"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which habit should be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Saving water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Storing water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Filtering water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wasting water"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which helps households during shortage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stored water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Milk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stored water"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which water supply is shared by many homes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Public supply",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Private bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Glass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Public supply"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Why should leaks be repaired quickly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To save water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To add noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To add colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To add speed",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To save water"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which action causes water wastage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Overflowing tank",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using bucket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Closing tap",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Saving water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Overflowing tank"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which water is used for bathing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Milk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean water"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Why should families plan water use?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To avoid shortage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To avoid shortage"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which resource must every home protect?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sunlight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wind",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Water"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Why is water needed every day?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For daily activities",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For daily activities"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which action saves household water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fixing leaks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Overflowing tanks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Open taps",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fixing leaks"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "Why is water necessary in every household?",
+            "answer": "Water is needed for drinking, cooking, cleaning, and hygiene."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "What is household water supply?",
+            "answer": "It is the water provided to homes for daily use."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Why do families store water?",
+            "answer": "To use it during shortages or emergencies."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "Which activities need water at home?",
+            "answer": "Bathing, cooking, cleaning, and drinking need water."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Why should water be used carefully?",
+            "answer": "Because water is limited."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What happens if water is wasted?",
+            "answer": "Water shortage can occur."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "Why is clean water important?",
+            "answer": "Clean water keeps us healthy."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "How does water help in hygiene?",
+            "answer": "It keeps our body and surroundings clean."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "Why should taps be closed properly?",
+            "answer": "To prevent water wastage."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "What is water conservation?",
+            "answer": "Using water wisely to save it."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Why should children save water?",
+            "answer": "To ensure water in the future."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "How can families save water?",
+            "answer": "By using water carefully and fixing leaks."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "Why is water supply important for health?",
+            "answer": "It helps prevent diseases."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "Which container stores water at home?",
+            "answer": "Water tanks store water at home."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "Why should tanks be cleaned regularly?",
+            "answer": "To keep stored water safe."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "What is safe drinking water?",
+            "answer": "Clean and germ-free water."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "Why should water be filtered?",
+            "answer": "To remove impurities and germs."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Which activity uses the most water?",
+            "answer": "Bathing uses a lot of water."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "Why should water be shared fairly?",
+            "answer": "Everyone needs water to live."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "How does water shortage affect homes?",
+            "answer": "Daily activities become difficult."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "Why is water needed for cooking?",
+            "answer": "Food cannot be cooked without water."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "How does water help plants at home?",
+            "answer": "It helps plants grow."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "Why should leaks be repaired?",
+            "answer": "To stop water wastage."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "What is reuse of water?",
+            "answer": "Using water again after cleaning."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "Why is water needed every day?",
+            "answer": "For basic daily needs."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "How does stored water help in summer?",
+            "answer": "Water sources reduce in summer."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "Why is water needed for toilets?",
+            "answer": "For cleanliness and hygiene."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Which water is unsafe to drink?",
+            "answer": "Dirty water is unsafe."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Why should water be boiled?",
+            "answer": "Boiling kills germs."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "What happens if tanks overflow?",
+            "answer": "Water gets wasted."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "Why is planning water use important?",
+            "answer": "To avoid water shortage."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "How can students save water?",
+            "answer": "By closing taps and avoiding waste."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Why should households manage water?",
+            "answer": "To meet daily water needs."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "What is public water supply?",
+            "answer": "Water supplied to many households."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Why is water limited?",
+            "answer": "Fresh water is limited on Earth."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "Why should water be protected?",
+            "answer": "It is essential for life."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "How does water help in washing clothes?",
+            "answer": "It removes dirt from clothes."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "Why is water needed for bathing?",
+            "answer": "To keep the body clean."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "What is household water storage?",
+            "answer": "Storing water safely at home."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "Why is water important for children?",
+            "answer": "Children need water to stay healthy."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "How does water support daily life?",
+            "answer": "It helps in all basic activities."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "Why should water be shared?",
+            "answer": "It is a common resource."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "How does careful use help?",
+            "answer": "It prevents water shortage."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "Why should families avoid wastage?",
+            "answer": "Others also need water."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "What lesson do we learn about water?",
+            "answer": "Water should be saved."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "Why is water essential for life?",
+            "answer": "Life cannot exist without water."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "How does water help in cooking?",
+            "answer": "It helps soften and cook food."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Why should everyone save water?",
+            "answer": "To ensure future supply."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "How can water be protected at home?",
+            "answer": "By careful use and storage."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Why should water tanks not be left open?",
+            "answer": "Open tanks allow dirt and insects to enter the water."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "How does water help in food preparation?",
+            "answer": "Water helps wash, boil, and cook food."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "Why should water be stored safely?",
+            "answer": "Safe storage prevents contamination."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "What habit helps save water daily?",
+            "answer": "Closing taps after use saves water."
+        }
+    ]
+}

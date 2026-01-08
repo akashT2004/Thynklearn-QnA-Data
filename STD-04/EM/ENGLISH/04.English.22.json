@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.22",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Champa Flower"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the Champa flower known for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Beauty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fragrance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thorns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Height",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fragrance"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who is speaking in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A flower",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A king",
+          "is_correct": false
+        }
+      ],
+      "answer": "A flower"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does the flower wish to be?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A leaf",
+          "is_correct": false
+        }
+      ],
+      "answer": "A girl"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why does the flower want to be a girl?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To feel human life",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "To feel human life"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "The poem shows the flower\u2019s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Desire",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desire"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the poem describe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and feelings",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and feelings"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "The Champa flower talks about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dreams",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dreams"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which quality is shown by the flower?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thoughtful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thoughtful"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The poem encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understand nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pluck flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cut trees",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understand nature"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the Champa flower known for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Beauty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fragrance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thorns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Height",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fragrance"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who is speaking in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A flower",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A king",
+          "is_correct": false
+        }
+      ],
+      "answer": "A flower"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does the flower wish to be?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A leaf",
+          "is_correct": false
+        }
+      ],
+      "answer": "A girl"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why does the flower want to be a girl?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To feel human life",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "To feel human life"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "The poem shows the flower\u2019s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Desire",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desire"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does the poem describe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and feelings",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and feelings"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "The Champa flower talks about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dreams",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dreams"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which quality is shown by the flower?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thoughtful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thoughtful"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The poem encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understand nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pluck flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cut trees",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understand nature"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the Champa flower known for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Beauty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fragrance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thorns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Height",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fragrance"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who is speaking in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A flower",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A king",
+          "is_correct": false
+        }
+      ],
+      "answer": "A flower"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does the flower wish to be?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A leaf",
+          "is_correct": false
+        }
+      ],
+      "answer": "A girl"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Why does the flower want to be a girl?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To feel human life",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "To feel human life"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "The poem shows the flower\u2019s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Desire",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desire"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does the poem describe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and feelings",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and feelings"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "The Champa flower talks about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dreams",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dreams"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which quality is shown by the flower?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thoughtful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thoughtful"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The poem encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understand nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pluck flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cut trees",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understand nature"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the Champa flower known for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Beauty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fragrance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thorns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Height",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fragrance"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who is speaking in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A flower",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A king",
+          "is_correct": false
+        }
+      ],
+      "answer": "A flower"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does the flower wish to be?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A leaf",
+          "is_correct": false
+        }
+      ],
+      "answer": "A girl"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Why does the flower want to be a girl?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To feel human life",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "To feel human life"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "The poem shows the flower\u2019s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Desire",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desire"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What does the poem describe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and feelings",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and feelings"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "The Champa flower talks about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dreams",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dreams"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which quality is shown by the flower?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thoughtful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thoughtful"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The poem encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understand nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pluck flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cut trees",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understand nature"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the Champa flower known for?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Beauty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fragrance",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Thorns",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Height",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fragrance"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who is speaking in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A flower",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A king",
+          "is_correct": false
+        }
+      ],
+      "answer": "A flower"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What does the flower wish to be?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A tree",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A girl",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A bird",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A leaf",
+          "is_correct": false
+        }
+      ],
+      "answer": "A girl"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Why does the flower want to be a girl?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To feel human life",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "To sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "To feel human life"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "The poem shows the flower\u2019s ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Desire",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Desire"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What does the poem describe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nature and feelings",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "History",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and feelings"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "The Champa flower talks about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dreams",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Work",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rules",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dreams"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which quality is shown by the flower?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thoughtful",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thoughtful"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The poem encourages us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Understand nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pluck flowers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cut trees",
+          "is_correct": false
+        }
+      ],
+      "answer": "Understand nature"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a Champa flower and its thoughts."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What does the flower wish?",
+      "answer": "It wishes to be a girl."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why does it want to be human?",
+      "answer": "To experience human life."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What quality does the flower show?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does the poem describe?",
+      "answer": "Nature and feelings."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who is the speaker in the poem?",
+      "answer": "The Champa flower."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What message does the poem give?",
+      "answer": "Understand and respect nature."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Is the poem imaginative?",
+      "answer": "Yes, it is imaginative."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the flower symbolize?",
+      "answer": "Innocence and curiosity."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To think deeply about nature."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a Champa flower and its thoughts."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What does the flower wish?",
+      "answer": "It wishes to be a girl."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why does it want to be human?",
+      "answer": "To experience human life."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What quality does the flower show?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does the poem describe?",
+      "answer": "Nature and feelings."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Who is the speaker in the poem?",
+      "answer": "The Champa flower."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What message does the poem give?",
+      "answer": "Understand and respect nature."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Is the poem imaginative?",
+      "answer": "Yes, it is imaginative."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the flower symbolize?",
+      "answer": "Innocence and curiosity."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To think deeply about nature."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a Champa flower and its thoughts."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What does the flower wish?",
+      "answer": "It wishes to be a girl."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why does it want to be human?",
+      "answer": "To experience human life."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What quality does the flower show?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What does the poem describe?",
+      "answer": "Nature and feelings."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who is the speaker in the poem?",
+      "answer": "The Champa flower."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What message does the poem give?",
+      "answer": "Understand and respect nature."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Is the poem imaginative?",
+      "answer": "Yes, it is imaginative."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does the flower symbolize?",
+      "answer": "Innocence and curiosity."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To think deeply about nature."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a Champa flower and its thoughts."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What does the flower wish?",
+      "answer": "It wishes to be a girl."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why does it want to be human?",
+      "answer": "To experience human life."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What quality does the flower show?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does the poem describe?",
+      "answer": "Nature and feelings."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Who is the speaker in the poem?",
+      "answer": "The Champa flower."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What message does the poem give?",
+      "answer": "Understand and respect nature."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Is the poem imaginative?",
+      "answer": "Yes, it is imaginative."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does the flower symbolize?",
+      "answer": "Innocence and curiosity."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To think deeply about nature."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "It is about a Champa flower and its thoughts."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What does the flower wish?",
+      "answer": "It wishes to be a girl."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why does it want to be human?",
+      "answer": "To experience human life."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What quality does the flower show?",
+      "answer": "Curiosity."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What does the poem describe?",
+      "answer": "Nature and feelings."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Who is the speaker in the poem?",
+      "answer": "The Champa flower."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What message does the poem give?",
+      "answer": "Understand and respect nature."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Is the poem imaginative?",
+      "answer": "Yes, it is imaginative."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does the flower symbolize?",
+      "answer": "Innocence and curiosity."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To think deeply about nature."
+    }
+  ]
+}

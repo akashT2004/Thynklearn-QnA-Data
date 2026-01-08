@@ -1,0 +1,1711 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.13",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Maps and Symbols"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "What is a map?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A drawing of an area",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "A story",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "A game",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A poem",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A drawing of an area"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Why are symbols used on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To save space",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To confuse",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To save space"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "What does a legend show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Map title",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Meaning of symbols",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Scale only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Directions only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Meaning of symbols"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which symbol shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "H",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "R",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "S",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "T",
+                    "is_correct": false
+                }
+            ],
+            "answer": "H"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which symbol is used for railway line?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Line",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Triangle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Square",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Line"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which colour shows water on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Blue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Brown",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Red",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Blue"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which colour shows forests?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Green",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Yellow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "White",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Green"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "What does a scale show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Distance",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Direction",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Symbols",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colours",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Distance"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which map shows roads?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Road map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Road map"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which map shows mountains and rivers?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Road map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical map"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "What is a sketch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rough drawing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Exact map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Photograph",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chart",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rough drawing"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which map shows states?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Political map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Road map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Political map"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which symbol shows a post office?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "P",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "H",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "R",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "S",
+                    "is_correct": false
+                }
+            ],
+            "answer": "P"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which colour shows deserts?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Yellow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "White",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Yellow"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Why are maps useful?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To find places",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To find places"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "What does a compass show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Directions",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Distance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Symbols",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colours",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Directions"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which symbol shows a school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "S",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "H",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "P",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "R",
+                    "is_correct": false
+                }
+            ],
+            "answer": "S"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which colour shows mountains?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brown",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Yellow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brown"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which map shows the whole world?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "World map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "State map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Local map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "World map"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "What does green colour represent?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vegetation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Desert",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vegetation"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "What is a map?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A drawing of an area",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "A story",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "A game",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A poem",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A drawing of an area"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Why are symbols used on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To save space",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To confuse",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To save space"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "What does a legend show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Map title",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Meaning of symbols",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Scale only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Directions only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Meaning of symbols"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which symbol shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "H",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "R",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "S",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "T",
+                    "is_correct": false
+                }
+            ],
+            "answer": "H"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which symbol is used for railway line?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Line",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Triangle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Square",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Line"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which colour shows water on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Blue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Brown",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Red",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Blue"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which colour shows forests?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Green",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Yellow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "White",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Green"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "What does a scale show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Distance",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Direction",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Symbols",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colours",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Distance"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which map shows roads?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Road map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Road map"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which map shows mountains and rivers?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Road map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical map"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "What is a sketch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rough drawing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Exact map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Photograph",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chart",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rough drawing"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which map shows states?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Political map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Road map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Political map"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which symbol shows a post office?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "P",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "H",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "R",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "S",
+                    "is_correct": false
+                }
+            ],
+            "answer": "P"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which colour shows deserts?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Yellow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "White",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Yellow"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Why are maps useful?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To find places",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To find places"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "What does a compass show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Directions",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Distance",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Symbols",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colours",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Directions"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which symbol shows a school?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "S",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "H",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "P",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "R",
+                    "is_correct": false
+                }
+            ],
+            "answer": "S"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which colour shows mountains?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Brown",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Yellow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Brown"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which map shows the whole world?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "World map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "State map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Local map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "World map"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "What does green colour represent?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Vegetation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Desert",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vegetation"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "What is a map?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A drawing of an area",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "A story",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "A game",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A poem",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A drawing of an area"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Why are symbols used on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To save space",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To confuse",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To save space"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "What does a legend show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Map title",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Meaning of symbols",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Scale only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Directions only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Meaning of symbols"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which symbol shows a hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "H",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "R",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "S",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "T",
+                    "is_correct": false
+                }
+            ],
+            "answer": "H"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which symbol is used for railway line?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Line",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Triangle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Square",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Line"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which colour shows water on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Blue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Brown",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Red",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Blue"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which colour shows forests?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Green",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Yellow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "White",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Green"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "What does a scale show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Distance",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Direction",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Symbols",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Colours",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Distance"
+        },
+        {
+            "question_id": 49,
+            "question_type": "MCQ",
+            "question": "Which map shows roads?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Road map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Road map"
+        },
+        {
+            "question_id": 50,
+            "question_type": "MCQ",
+            "question": "Which map shows mountains and rivers?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Road map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical map"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "A map is a drawing of an area."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Symbols are signs used on maps."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "A legend explains the symbols on a map."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "A scale shows distance on a map."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help us locate places."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Blue colour shows water bodies."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Green colour shows forests."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Yellow colour shows deserts."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Brown colour shows mountains."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "A road map shows roads."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "A physical map shows natural features."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "A political map shows states and countries."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "A sketch is a rough drawing."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Symbols save space on maps."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps make learning geography easy."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Compass helps find directions."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Hospitals are shown using H symbol."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Railway lines are shown by lines."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Post offices are shown using P symbol."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Schools are shown using S symbol."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps use colours to show features."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Legend helps understand symbols."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Scale helps measure real distance."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps are useful for travel."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help in planning routes."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Local maps show small areas."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "World maps show the earth."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help students learn places."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Symbols make maps clear."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps reduce confusion."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps are drawn neatly."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps use standard symbols."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps are useful in daily life."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps show directions."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps show important places."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help locate rivers."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help locate mountains."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help locate roads."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help locate buildings."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps are teaching tools."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help understand areas."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps save time while travelling."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help find nearby places."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps show boundaries."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps show landmarks."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help explorers."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps are used in schools."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps help in navigation."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps show symbols clearly."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Explain.",
+            "answer": "Maps represent real places."
+        }
+    ]
+}

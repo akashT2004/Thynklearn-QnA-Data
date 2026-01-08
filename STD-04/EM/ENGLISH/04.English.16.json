@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.16",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Know Formalities, Please! (Part 1)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does 'formalities' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rules and procedures",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rules and procedures"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where are formalities usually required?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Offices and schools",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Homes only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Offices and schools"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why are formalities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For order and discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "For order and discipline"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which is an example of a formality?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greeting politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greeting politely"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should we say when we meet elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hello / Good morning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hello / Good morning"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does polite behaviour show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudeness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Respect",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Respect"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which word is polite?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Give it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Do it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should we say after receiving help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Okay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thanks",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hmm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Later",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thanks"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Formal behaviour is needed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Public places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only buses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Public places"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Polite"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does 'formalities' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rules and procedures",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rules and procedures"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where are formalities usually required?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Offices and schools",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Homes only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Offices and schools"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why are formalities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For order and discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "For order and discipline"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which is an example of a formality?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greeting politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greeting politely"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What should we say when we meet elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hello / Good morning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hello / Good morning"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does polite behaviour show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudeness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Respect",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Respect"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which word is polite?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Give it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Do it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What should we say after receiving help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Okay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thanks",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hmm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Later",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thanks"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Formal behaviour is needed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Public places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only buses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Public places"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Polite"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does 'formalities' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rules and procedures",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rules and procedures"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where are formalities usually required?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Offices and schools",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Homes only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Offices and schools"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why are formalities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For order and discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "For order and discipline"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which is an example of a formality?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greeting politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greeting politely"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What should we say when we meet elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hello / Good morning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hello / Good morning"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does polite behaviour show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudeness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Respect",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Respect"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which word is polite?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Give it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Do it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What should we say after receiving help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Okay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thanks",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hmm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Later",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thanks"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Formal behaviour is needed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Public places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only buses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Public places"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Polite"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does 'formalities' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rules and procedures",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rules and procedures"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Where are formalities usually required?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Offices and schools",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Homes only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Offices and schools"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why are formalities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For order and discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "For order and discipline"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which is an example of a formality?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greeting politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greeting politely"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What should we say when we meet elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hello / Good morning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hello / Good morning"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What does polite behaviour show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudeness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Respect",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Respect"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which word is polite?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Give it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Do it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What should we say after receiving help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Okay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thanks",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hmm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Later",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thanks"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Formal behaviour is needed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Public places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only buses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Public places"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Polite"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does 'formalities' mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rules and procedures",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rules and procedures"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Where are formalities usually required?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Offices and schools",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Homes only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Offices and schools"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why are formalities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For order and discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "For order and discipline"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which is an example of a formality?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greeting politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Playing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greeting politely"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What should we say when we meet elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hello / Good morning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bye",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nothing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Hello / Good morning"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What does polite behaviour show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudeness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Respect",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Respect"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which word is polite?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Give it",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Please",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Do it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Please"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What should we say after receiving help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Okay",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thanks",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hmm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Later",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thanks"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Formal behaviour is needed in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Public places",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only home",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only playground",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only buses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Public places"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Polite",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noisy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Polite"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are formalities?",
+      "answer": "Formalities are rules and proper ways of behaving."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Where are formalities followed?",
+      "answer": "In schools, offices and public places."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why are formalities important?",
+      "answer": "They maintain order and respect."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Give one example of a formality.",
+      "answer": "Greeting elders politely."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What does polite behaviour show?",
+      "answer": "It shows respect."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should we say after help?",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Are formalities needed everywhere?",
+      "answer": "Yes, especially in public places."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What happens if we ignore formalities?",
+      "answer": "It creates confusion."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Be polite and follow rules."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are formalities?",
+      "answer": "Formalities are rules and proper ways of behaving."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Where are formalities followed?",
+      "answer": "In schools, offices and public places."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why are formalities important?",
+      "answer": "They maintain order and respect."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Give one example of a formality.",
+      "answer": "Greeting elders politely."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What does polite behaviour show?",
+      "answer": "It shows respect."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What should we say after help?",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Are formalities needed everywhere?",
+      "answer": "Yes, especially in public places."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What happens if we ignore formalities?",
+      "answer": "It creates confusion."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Be polite and follow rules."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are formalities?",
+      "answer": "Formalities are rules and proper ways of behaving."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Where are formalities followed?",
+      "answer": "In schools, offices and public places."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why are formalities important?",
+      "answer": "They maintain order and respect."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Give one example of a formality.",
+      "answer": "Greeting elders politely."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What does polite behaviour show?",
+      "answer": "It shows respect."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What should we say after help?",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Are formalities needed everywhere?",
+      "answer": "Yes, especially in public places."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What happens if we ignore formalities?",
+      "answer": "It creates confusion."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Be polite and follow rules."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What are formalities?",
+      "answer": "Formalities are rules and proper ways of behaving."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Where are formalities followed?",
+      "answer": "In schools, offices and public places."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why are formalities important?",
+      "answer": "They maintain order and respect."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Give one example of a formality.",
+      "answer": "Greeting elders politely."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What does polite behaviour show?",
+      "answer": "It shows respect."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What should we say after help?",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Are formalities needed everywhere?",
+      "answer": "Yes, especially in public places."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What happens if we ignore formalities?",
+      "answer": "It creates confusion."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Be polite and follow rules."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What are formalities?",
+      "answer": "Formalities are rules and proper ways of behaving."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Where are formalities followed?",
+      "answer": "In schools, offices and public places."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why are formalities important?",
+      "answer": "They maintain order and respect."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Give one example of a formality.",
+      "answer": "Greeting elders politely."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What does polite behaviour show?",
+      "answer": "It shows respect."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which word shows politeness?",
+      "answer": "Please."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What should we say after help?",
+      "answer": "We should say thank you."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Are formalities needed everywhere?",
+      "answer": "Yes, especially in public places."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What happens if we ignore formalities?",
+      "answer": "It creates confusion."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Be polite and follow rules."
+    }
+  ]
+}

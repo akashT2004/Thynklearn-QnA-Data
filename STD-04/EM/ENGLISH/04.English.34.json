@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.34",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The King of the Golden River (Part 1)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The King of the Golden River'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "John Ruskin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rudyard Kipling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "John Ruskin"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What kind of people were the brothers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Helpful",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Honest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greedy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was the youngest brother?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Peter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did the brothers want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What happened to the valley?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Became green",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became dry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became dry"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why did the valley become dry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed and cruelty",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storm",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed and cruelty"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who was kind to others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted in Part 1?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How did the brothers treat Gluck?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lovingly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Respectfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cruelly"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The story teaches us that greed leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Suffering",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Success",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Suffering"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The King of the Golden River'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "John Ruskin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rudyard Kipling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "John Ruskin"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What kind of people were the brothers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Helpful",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Honest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greedy"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who was the youngest brother?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Peter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What did the brothers want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What happened to the valley?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Became green",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became dry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became dry"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why did the valley become dry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed and cruelty",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storm",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed and cruelty"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who was kind to others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted in Part 1?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "How did the brothers treat Gluck?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lovingly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Respectfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cruelly"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The story teaches us that greed leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Suffering",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Success",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Suffering"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The King of the Golden River'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "John Ruskin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rudyard Kipling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "John Ruskin"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What kind of people were the brothers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Helpful",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Honest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greedy"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who was the youngest brother?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Peter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What did the brothers want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What happened to the valley?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Became green",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became dry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became dry"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why did the valley become dry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed and cruelty",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storm",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed and cruelty"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who was kind to others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted in Part 1?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "How did the brothers treat Gluck?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lovingly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Respectfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cruelly"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The story teaches us that greed leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Suffering",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Success",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Suffering"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The King of the Golden River'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "John Ruskin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rudyard Kipling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "John Ruskin"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What kind of people were the brothers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Helpful",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Honest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greedy"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who was the youngest brother?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Peter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What did the brothers want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What happened to the valley?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Became green",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became dry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became dry"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why did the valley become dry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed and cruelty",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storm",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed and cruelty"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who was kind to others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted in Part 1?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "How did the brothers treat Gluck?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lovingly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Respectfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cruelly"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The story teaches us that greed leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Suffering",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Success",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Suffering"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who wrote 'The King of the Golden River'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ruskin Bond",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "John Ruskin",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Rudyard Kipling",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aesop",
+          "is_correct": false
+        }
+      ],
+      "answer": "John Ruskin"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What kind of people were the brothers?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Helpful",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Honest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greedy"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who was the youngest brother?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Peter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What did the brothers want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gold"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What happened to the valley?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Became green",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became dry",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became dry"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Why did the valley become dry?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drought",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Greed and cruelty",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Storm",
+          "is_correct": false
+        }
+      ],
+      "answer": "Greed and cruelty"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who was kind to others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted in Part 1?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "How did the brothers treat Gluck?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lovingly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Respectfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cruelly"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The story teaches us that greed leads to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Suffering",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Success",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Suffering"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who wrote the story?",
+      "answer": "John Ruskin wrote the story."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who were the brothers?",
+      "answer": "Hans, Schwartz and Gluck."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Which brother was kind?",
+      "answer": "Gluck was kind."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What happened to the valley?",
+      "answer": "It became dry."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did the valley suffer?",
+      "answer": "Because of greed."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How were the brothers greedy?",
+      "answer": "They cared only for gold."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How was Gluck treated?",
+      "answer": "He was treated badly."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What quality does Gluck show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the theme of Part 1?",
+      "answer": "Greed versus kindness."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 1?",
+      "answer": "Greed brings suffering."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who wrote the story?",
+      "answer": "John Ruskin wrote the story."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who were the brothers?",
+      "answer": "Hans, Schwartz and Gluck."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Which brother was kind?",
+      "answer": "Gluck was kind."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What happened to the valley?",
+      "answer": "It became dry."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why did the valley suffer?",
+      "answer": "Because of greed."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How were the brothers greedy?",
+      "answer": "They cared only for gold."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How was Gluck treated?",
+      "answer": "He was treated badly."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What quality does Gluck show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the theme of Part 1?",
+      "answer": "Greed versus kindness."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 1?",
+      "answer": "Greed brings suffering."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who wrote the story?",
+      "answer": "John Ruskin wrote the story."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who were the brothers?",
+      "answer": "Hans, Schwartz and Gluck."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Which brother was kind?",
+      "answer": "Gluck was kind."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happened to the valley?",
+      "answer": "It became dry."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why did the valley suffer?",
+      "answer": "Because of greed."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How were the brothers greedy?",
+      "answer": "They cared only for gold."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How was Gluck treated?",
+      "answer": "He was treated badly."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What quality does Gluck show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the theme of Part 1?",
+      "answer": "Greed versus kindness."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 1?",
+      "answer": "Greed brings suffering."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who wrote the story?",
+      "answer": "John Ruskin wrote the story."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who were the brothers?",
+      "answer": "Hans, Schwartz and Gluck."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Which brother was kind?",
+      "answer": "Gluck was kind."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What happened to the valley?",
+      "answer": "It became dry."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why did the valley suffer?",
+      "answer": "Because of greed."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How were the brothers greedy?",
+      "answer": "They cared only for gold."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How was Gluck treated?",
+      "answer": "He was treated badly."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What quality does Gluck show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the theme of Part 1?",
+      "answer": "Greed versus kindness."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 1?",
+      "answer": "Greed brings suffering."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who wrote the story?",
+      "answer": "John Ruskin wrote the story."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Who were the brothers?",
+      "answer": "Hans, Schwartz and Gluck."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Which brother was kind?",
+      "answer": "Gluck was kind."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What happened to the valley?",
+      "answer": "It became dry."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why did the valley suffer?",
+      "answer": "Because of greed."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How were the brothers greedy?",
+      "answer": "They cared only for gold."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How was Gluck treated?",
+      "answer": "He was treated badly."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What quality does Gluck show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the theme of Part 1?",
+      "answer": "Greed versus kindness."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 1?",
+      "answer": "Greed brings suffering."
+    }
+  ]
+}

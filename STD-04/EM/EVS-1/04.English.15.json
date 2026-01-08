@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.15",
+    "standard": "4",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "My District, My State"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a district?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A large village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An administrative division of a state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A country",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A taluka",
+          "is_correct": false
+        }
+      ],
+      "answer": "An administrative division of a state"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which unit is smaller than a district?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Country",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taluka",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taluka"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which unit is the smallest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "District",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What do villages together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "District",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taluka",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taluka"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do talukas together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "District",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "District"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do districts together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Taluka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "State"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is the capital of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pune",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nagpur",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mumbai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nashik",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which is the second capital of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nagpur",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kolhapur",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangabad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nagpur"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which mountain range runs north to south in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Satpuda",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aravalli",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sahyadri",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vindhya",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sahyadri"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Sahyadri mountains are also called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern Ghats",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western Ghats",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Satpuda",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Himalayas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western Ghats"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which sea lies to the west of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bay of Bengal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Arabian Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Red Sea",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Caspian Sea",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which river is the longest in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Krishna",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Godavari",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bhima",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tapi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Godavari"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which region receives high rainfall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plateau region",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coastal region",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidarbha",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Deccan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coastal region"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which crop grows in high rainfall areas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jowar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bajra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Moth beans",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which crop grows in low rainfall areas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sugarcane",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bajra",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wheat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bajra"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which season is the monsoon crop season?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rabi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Zaid",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kharif",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Winter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kharif"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which season is the winter crop season?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kharif",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rabi",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rainy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rabi"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which language is spoken in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gujarati",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Marathi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Kannada",
+          "is_correct": false
+        }
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which dialect is spoken in Konkan region?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Varhadi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ahirani",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Konkani",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gondi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Konkani"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Which dialect is spoken in Vidarbha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Konkani",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Varhadi",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ahirani",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malvani",
+          "is_correct": false
+        }
+      ],
+      "answer": "Varhadi"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is a district?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A large village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An administrative division of a state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A country",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A taluka",
+          "is_correct": false
+        }
+      ],
+      "answer": "An administrative division of a state"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which unit is smaller than a district?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Country",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taluka",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taluka"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which unit is the smallest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "District",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What do villages together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "District",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taluka",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taluka"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What do talukas together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "District",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "District"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What do districts together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Taluka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "State"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which is the capital of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pune",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nagpur",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mumbai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nashik",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which is the second capital of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nagpur",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kolhapur",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangabad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nagpur"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which mountain range runs north to south in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Satpuda",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aravalli",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sahyadri",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vindhya",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sahyadri"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Sahyadri mountains are also called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern Ghats",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western Ghats",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Satpuda",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Himalayas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western Ghats"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which sea lies to the west of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bay of Bengal",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Arabian Sea",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Red Sea",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Caspian Sea",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arabian Sea"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which river is the longest in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Krishna",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Godavari",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bhima",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tapi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Godavari"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which region receives high rainfall?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Plateau region",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coastal region",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Vidarbha",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Deccan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coastal region"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which crop grows in high rainfall areas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jowar",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Bajra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Moth beans",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which crop grows in low rainfall areas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sugarcane",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bajra",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Wheat",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bajra"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which season is the monsoon crop season?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rabi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Zaid",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Kharif",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Winter",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kharif"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which season is the winter crop season?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kharif",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rabi",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rainy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rabi"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which language is spoken in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hindi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gujarati",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Marathi",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Kannada",
+          "is_correct": false
+        }
+      ],
+      "answer": "Marathi"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which dialect is spoken in Konkan region?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Varhadi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ahirani",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Konkani",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Gondi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Konkani"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Which dialect is spoken in Vidarbha?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Konkani",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Varhadi",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ahirani",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Malvani",
+          "is_correct": false
+        }
+      ],
+      "answer": "Varhadi"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is a district?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A large village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An administrative division of a state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A country",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A taluka",
+          "is_correct": false
+        }
+      ],
+      "answer": "An administrative division of a state"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which unit is smaller than a district?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Country",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taluka",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Continent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taluka"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which unit is the smallest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "District",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What do villages together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "District",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taluka",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taluka"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What do talukas together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "District",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "District"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What do districts together form?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Taluka",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "State",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Country",
+          "is_correct": false
+        }
+      ],
+      "answer": "State"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which is the capital of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pune",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nagpur",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Mumbai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Nashik",
+          "is_correct": false
+        }
+      ],
+      "answer": "Mumbai"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which is the second capital of Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mumbai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nagpur",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Kolhapur",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangabad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nagpur"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which mountain range runs north to south in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Satpuda",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aravalli",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sahyadri",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Vindhya",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sahyadri"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Sahyadri mountains are also called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern Ghats",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western Ghats",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Satpuda",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Himalayas",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western Ghats"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a village?",
+      "answer": "A village is a small settlement where people live."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is a taluka?",
+      "answer": "A taluka is a group of villages."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a district?",
+      "answer": "A district is an administrative division made of talukas."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What is a State?",
+      "answer": "A State is made up of many districts."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Name the capital of Maharashtra.",
+      "answer": "Mumbai."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Name the second capital of Maharashtra.",
+      "answer": "Nagpur."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is the Sahyadri mountain also called?",
+      "answer": "It is also called the Western Ghats."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which sea lies to the west of Maharashtra?",
+      "answer": "The Arabian Sea lies to the west."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Name the longest river in Maharashtra.",
+      "answer": "Godavari is the longest river."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What are the three physical regions of Maharashtra?",
+      "answer": "Coastal region, mountainous region and plateau region."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which crop grows in high rainfall areas?",
+      "answer": "Rice grows in high rainfall areas."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which crop grows in low rainfall areas?",
+      "answer": "Bajra grows in low rainfall areas."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is Kharif season?",
+      "answer": "Kharif is the monsoon crop season."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What is Rabi season?",
+      "answer": "Rabi is the winter crop season."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which language is the State language of Maharashtra?",
+      "answer": "Marathi is the State language."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Name one dialect spoken in Maharashtra.",
+      "answer": "Konkani."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is 1st May celebrated in Maharashtra?",
+      "answer": "Maharashtra State was formed on 1st May 1960."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name one festival celebrated in Maharashtra.",
+      "answer": "Diwali."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What affects crop production?",
+      "answer": "Climate, soil and availability of water affect crops."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is irrigation?",
+      "answer": "Irrigation is the supply of water to crops."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is a village?",
+      "answer": "A village is a small settlement where people live."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is a taluka?",
+      "answer": "A taluka is a group of villages."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is a district?",
+      "answer": "A district is an administrative division made of talukas."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What is a State?",
+      "answer": "A State is made up of many districts."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Name the capital of Maharashtra.",
+      "answer": "Mumbai."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Name the second capital of Maharashtra.",
+      "answer": "Nagpur."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is the Sahyadri mountain also called?",
+      "answer": "It is also called the Western Ghats."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which sea lies to the west of Maharashtra?",
+      "answer": "The Arabian Sea lies to the west."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Name the longest river in Maharashtra.",
+      "answer": "Godavari is the longest river."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What are the three physical regions of Maharashtra?",
+      "answer": "Coastal region, mountainous region and plateau region."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which crop grows in high rainfall areas?",
+      "answer": "Rice grows in high rainfall areas."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which crop grows in low rainfall areas?",
+      "answer": "Bajra grows in low rainfall areas."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is Kharif season?",
+      "answer": "Kharif is the monsoon crop season."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What is Rabi season?",
+      "answer": "Rabi is the winter crop season."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which language is the State language of Maharashtra?",
+      "answer": "Marathi is the State language."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Name one dialect spoken in Maharashtra.",
+      "answer": "Konkani."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is 1st May celebrated in Maharashtra?",
+      "answer": "Maharashtra State was formed on 1st May 1960."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name one festival celebrated in Maharashtra.",
+      "answer": "Diwali."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What affects crop production?",
+      "answer": "Climate, soil and availability of water affect crops."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is irrigation?",
+      "answer": "Irrigation is the supply of water to crops."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is a village?",
+      "answer": "A village is a small settlement where people live."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is a taluka?",
+      "answer": "A taluka is a group of villages."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is a district?",
+      "answer": "A district is an administrative division made of talukas."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What is a State?",
+      "answer": "A State is made up of many districts."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Name the capital of Maharashtra.",
+      "answer": "Mumbai."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Name the second capital of Maharashtra.",
+      "answer": "Nagpur."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is the Sahyadri mountain also called?",
+      "answer": "It is also called the Western Ghats."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which sea lies to the west of Maharashtra?",
+      "answer": "The Arabian Sea lies to the west."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Name the longest river in Maharashtra.",
+      "answer": "Godavari is the longest river."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What are the three physical regions of Maharashtra?",
+      "answer": "Coastal region, mountainous region and plateau region."
+    }
+  ]
+}

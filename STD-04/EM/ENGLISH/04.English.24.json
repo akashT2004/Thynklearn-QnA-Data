@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.24",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Laughing King"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the main character of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sad king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A laughing king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A poor man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A laughing king"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why was the king called laughing king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He always laughed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed at others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was funny",
+          "is_correct": false
+        }
+      ],
+      "answer": "He always laughed"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What problem did the king face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He could not laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed too much",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was ill",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "He laughed too much"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who helped the king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clown",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise man"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Too much of anything is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Too much of anything is bad"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why is balance important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For health",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For life",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What made the king realize his mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loss",
+          "is_correct": false
+        }
+      ],
+      "answer": "Advice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "How did the king change at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed same",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Became sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Became angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became balanced"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The story teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore advice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be balanced"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the main character of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sad king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A laughing king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A poor man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A laughing king"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why was the king called laughing king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He always laughed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed at others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was funny",
+          "is_correct": false
+        }
+      ],
+      "answer": "He always laughed"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What problem did the king face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He could not laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed too much",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was ill",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "He laughed too much"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who helped the king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clown",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise man"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Too much of anything is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Too much of anything is bad"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why is balance important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For health",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For life",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What made the king realize his mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loss",
+          "is_correct": false
+        }
+      ],
+      "answer": "Advice"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "How did the king change at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed same",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Became sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Became angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became balanced"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The story teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore advice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be balanced"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the main character of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sad king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A laughing king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A poor man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A laughing king"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why was the king called laughing king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He always laughed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed at others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was funny",
+          "is_correct": false
+        }
+      ],
+      "answer": "He always laughed"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What problem did the king face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He could not laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed too much",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was ill",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "He laughed too much"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who helped the king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clown",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise man"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Too much of anything is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Too much of anything is bad"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why is balance important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For health",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For life",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What made the king realize his mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loss",
+          "is_correct": false
+        }
+      ],
+      "answer": "Advice"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "How did the king change at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed same",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Became sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Became angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became balanced"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The story teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore advice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be balanced"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is the main character of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sad king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A laughing king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A poor man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A laughing king"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why was the king called laughing king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He always laughed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed at others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was funny",
+          "is_correct": false
+        }
+      ],
+      "answer": "He always laughed"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What problem did the king face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He could not laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed too much",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was ill",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "He laughed too much"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who helped the king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clown",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise man"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Too much of anything is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Too much of anything is bad"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why is balance important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For health",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For life",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What made the king realize his mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loss",
+          "is_correct": false
+        }
+      ],
+      "answer": "Advice"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "How did the king change at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed same",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Became sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Became angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became balanced"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The story teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore advice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be balanced"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is the main character of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A sad king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A laughing king",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A poor man",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A soldier",
+          "is_correct": false
+        }
+      ],
+      "answer": "A laughing king"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why was the king called laughing king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He always laughed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed at others",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "He was happy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was funny",
+          "is_correct": false
+        }
+      ],
+      "answer": "He always laughed"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What problem did the king face?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He could not laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He laughed too much",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was ill",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "He laughed too much"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who helped the king?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Doctor",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise man",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Minister",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clown",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise man"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Too much of anything is bad",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never laugh",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Too much of anything is bad"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Why is balance important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For health",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For life",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What made the king realize his mistake?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Advice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Loss",
+          "is_correct": false
+        }
+      ],
+      "answer": "Advice"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "How did the king change at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed same",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Became sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Became angry",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became balanced"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The story teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be balanced",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Laugh always",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore advice",
+          "is_correct": false
+        }
+      ],
+      "answer": "Be balanced"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who was the laughing king?",
+      "answer": "He was a king who laughed too much."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why was laughing a problem?",
+      "answer": "Too much laughing disturbed his work."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who helped the king?",
+      "answer": "A wise man helped him."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What advice was given?",
+      "answer": "To be balanced in everything."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "Too much of anything is bad."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Did the king change?",
+      "answer": "Yes, he became balanced."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What quality did the king learn?",
+      "answer": "Wisdom."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why is balance important?",
+      "answer": "It keeps life happy."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "How did the story end?",
+      "answer": "The king learned moderation."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the story?",
+      "answer": "Maintain balance in life."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who was the laughing king?",
+      "answer": "He was a king who laughed too much."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why was laughing a problem?",
+      "answer": "Too much laughing disturbed his work."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who helped the king?",
+      "answer": "A wise man helped him."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What advice was given?",
+      "answer": "To be balanced in everything."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "Too much of anything is bad."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Did the king change?",
+      "answer": "Yes, he became balanced."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What quality did the king learn?",
+      "answer": "Wisdom."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why is balance important?",
+      "answer": "It keeps life happy."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "How did the story end?",
+      "answer": "The king learned moderation."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the story?",
+      "answer": "Maintain balance in life."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who was the laughing king?",
+      "answer": "He was a king who laughed too much."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why was laughing a problem?",
+      "answer": "Too much laughing disturbed his work."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who helped the king?",
+      "answer": "A wise man helped him."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What advice was given?",
+      "answer": "To be balanced in everything."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "Too much of anything is bad."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Did the king change?",
+      "answer": "Yes, he became balanced."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What quality did the king learn?",
+      "answer": "Wisdom."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why is balance important?",
+      "answer": "It keeps life happy."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "How did the story end?",
+      "answer": "The king learned moderation."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the story?",
+      "answer": "Maintain balance in life."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who was the laughing king?",
+      "answer": "He was a king who laughed too much."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why was laughing a problem?",
+      "answer": "Too much laughing disturbed his work."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who helped the king?",
+      "answer": "A wise man helped him."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What advice was given?",
+      "answer": "To be balanced in everything."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "Too much of anything is bad."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Did the king change?",
+      "answer": "Yes, he became balanced."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What quality did the king learn?",
+      "answer": "Wisdom."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why is balance important?",
+      "answer": "It keeps life happy."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "How did the story end?",
+      "answer": "The king learned moderation."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the story?",
+      "answer": "Maintain balance in life."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who was the laughing king?",
+      "answer": "He was a king who laughed too much."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why was laughing a problem?",
+      "answer": "Too much laughing disturbed his work."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Who helped the king?",
+      "answer": "A wise man helped him."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What advice was given?",
+      "answer": "To be balanced in everything."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What lesson does the story teach?",
+      "answer": "Too much of anything is bad."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Did the king change?",
+      "answer": "Yes, he became balanced."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What quality did the king learn?",
+      "answer": "Wisdom."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why is balance important?",
+      "answer": "It keeps life happy."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "How did the story end?",
+      "answer": "The king learned moderation."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the story?",
+      "answer": "Maintain balance in life."
+    }
+  ]
+}

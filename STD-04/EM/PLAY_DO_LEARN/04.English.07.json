@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.07",
+    "standard": "4",
+    "subject": "PlayDoLearn",
+    "medium": "English",
+    "chapter_name": "Activities of Interest"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we like",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Forced activities",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Daily chores",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we like"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why do we do activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For joy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is an activity of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drawing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drawing"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Activities of interest make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which activity shows creativity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Standing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which is a hobby?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cleaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Activities of interest help to reduce ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stress",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "learning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "confidence",
+          "is_correct": false
+        }
+      ],
+      "answer": "stress"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which activity needs imagination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story writing"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Why are hobbies important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh mind"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Activities of interest develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "talent",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "talent"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What are activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we like",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Forced activities",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Daily chores",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we like"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why do we do activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For joy"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which is an activity of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drawing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drawing"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Activities of interest make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which activity shows creativity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Standing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which is a hobby?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cleaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Activities of interest help to reduce ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stress",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "learning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "confidence",
+          "is_correct": false
+        }
+      ],
+      "answer": "stress"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which activity needs imagination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story writing"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why are hobbies important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh mind"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Activities of interest develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "talent",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "talent"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What are activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we like",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Forced activities",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Daily chores",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we like"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why do we do activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For joy"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which is an activity of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drawing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drawing"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Activities of interest make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which activity shows creativity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Standing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which is a hobby?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cleaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Activities of interest help to reduce ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stress",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "learning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "confidence",
+          "is_correct": false
+        }
+      ],
+      "answer": "stress"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which activity needs imagination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story writing"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Why are hobbies important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh mind"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Activities of interest develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "talent",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "talent"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What are activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we like",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Forced activities",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Daily chores",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we like"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why do we do activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For joy"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which is an activity of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drawing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drawing"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Activities of interest make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which activity shows creativity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Standing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which is a hobby?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cleaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Activities of interest help to reduce ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stress",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "learning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "confidence",
+          "is_correct": false
+        }
+      ],
+      "answer": "stress"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which activity needs imagination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story writing"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Why are hobbies important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh mind"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Activities of interest develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "talent",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "talent"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What are activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we like",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Forced activities",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Daily chores",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we like"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why do we do activities of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For joy"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which is an activity of interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Drawing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Drawing"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Activities of interest make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which activity shows creativity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Standing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which is a hobby?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cleaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Activities of interest help to reduce ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "stress",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "energy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "learning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "confidence",
+          "is_correct": false
+        }
+      ],
+      "answer": "stress"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which activity needs imagination?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story writing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Story writing"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Why are hobbies important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh mind"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Activities of interest develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "talent",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "talent"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are activities of interest?",
+      "answer": "They are activities we like to do."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one activity of interest.",
+      "answer": "Drawing."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why do we like hobbies?",
+      "answer": "They make us happy."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What do hobbies reduce?",
+      "answer": "Stress."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which activity shows creativity?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why are hobbies important?",
+      "answer": "They refresh the mind."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one creative activity.",
+      "answer": "Story writing."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Do hobbies improve talent?",
+      "answer": "Yes, they do."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "When should we do hobbies?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the lesson?",
+      "answer": "Do what you enjoy."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are activities of interest?",
+      "answer": "They are activities we like to do."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one activity of interest.",
+      "answer": "Drawing."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why do we like hobbies?",
+      "answer": "They make us happy."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What do hobbies reduce?",
+      "answer": "Stress."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which activity shows creativity?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why are hobbies important?",
+      "answer": "They refresh the mind."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name one creative activity.",
+      "answer": "Story writing."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Do hobbies improve talent?",
+      "answer": "Yes, they do."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "When should we do hobbies?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the lesson?",
+      "answer": "Do what you enjoy."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are activities of interest?",
+      "answer": "They are activities we like to do."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name one activity of interest.",
+      "answer": "Drawing."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why do we like hobbies?",
+      "answer": "They make us happy."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What do hobbies reduce?",
+      "answer": "Stress."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which activity shows creativity?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why are hobbies important?",
+      "answer": "They refresh the mind."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Name one creative activity.",
+      "answer": "Story writing."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Do hobbies improve talent?",
+      "answer": "Yes, they do."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "When should we do hobbies?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the lesson?",
+      "answer": "Do what you enjoy."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What are activities of interest?",
+      "answer": "They are activities we like to do."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name one activity of interest.",
+      "answer": "Drawing."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why do we like hobbies?",
+      "answer": "They make us happy."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What do hobbies reduce?",
+      "answer": "Stress."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which activity shows creativity?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why are hobbies important?",
+      "answer": "They refresh the mind."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Name one creative activity.",
+      "answer": "Story writing."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Do hobbies improve talent?",
+      "answer": "Yes, they do."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "When should we do hobbies?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the lesson?",
+      "answer": "Do what you enjoy."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What are activities of interest?",
+      "answer": "They are activities we like to do."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name one activity of interest.",
+      "answer": "Drawing."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why do we like hobbies?",
+      "answer": "They make us happy."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What do hobbies reduce?",
+      "answer": "Stress."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which activity shows creativity?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why are hobbies important?",
+      "answer": "They refresh the mind."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Name one creative activity.",
+      "answer": "Story writing."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Do hobbies improve talent?",
+      "answer": "Yes, they do."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "When should we do hobbies?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the lesson?",
+      "answer": "Do what you enjoy."
+    }
+  ]
+}

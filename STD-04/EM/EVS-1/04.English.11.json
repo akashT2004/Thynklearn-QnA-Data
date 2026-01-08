@@ -1,0 +1,1655 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.11",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Home Remedies for Simple Illnesses"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "What is a home remedy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Medicine from hospital",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Treatment at home",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Surgery",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Injection",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Treatment at home"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which home remedy helps in cough?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Honey",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice cream",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cold drink",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chocolate",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honey"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "What helps relieve cold?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cold water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Soda",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm water"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which remedy is used for stomach ache?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ajwain water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice cream",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Chocolate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold juice",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ajwain water"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "What helps reduce fever?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rest",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Playing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skipping sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rest"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which is used for sore throat?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm salt water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cold milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Soft drink",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm salt water"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which home remedy helps digestion?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ginger",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Candy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold drink",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ginger"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "What should we do when we get hurt?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean wound",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ignore it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Scratch it",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cover with dirt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean wound"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which helps heal small cuts?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Turmeric",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mud",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ink",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Turmeric"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "What helps in headache?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rest",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Loud music",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bright light",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Running",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rest"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which remedy helps in toothache?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clove",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sugar",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Chocolate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ice cream",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clove"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "What should we do during fever?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Take rest",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Play outside",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Run",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skip sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Take rest"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which is good for constipation?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Chips",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chocolate",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm water"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "What helps soothe burns?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Hot oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Salt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dust",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cold water"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which remedy helps nausea?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ginger",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Candy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ice cream",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chips",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ginger"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "What should we do if illness is serious?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "See a doctor",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ignore",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Use only home remedy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "See a doctor"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which helps in body pain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rest",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skipping sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rest"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which is used for hiccups?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drinking water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shouting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Laughing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drinking water"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "What helps sore muscles?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm compress",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice cream",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cold drink",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dust",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm compress"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which helps in indigestion?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ajwain",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Candy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Chocolate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ice",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ajwain"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which is a safe habit?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using clean cloth",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Using dirty cloth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring wounds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scratching cuts",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using clean cloth"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "What helps reduce swelling?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold compress",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Hot oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Salt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dust",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cold compress"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which helps sore eyes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Spicy food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cold water"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which helps minor burns?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Running water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Salt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Running water"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "What helps in vomiting?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ORS",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Spicy food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chips",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ORS"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which helps keep body healthy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean habits",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty habits",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Skipping meals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "No sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean habits"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which helps in cough and cold?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Steam",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chocolate",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Steam"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "What should we do after injury?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wash with clean water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leave dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Scratch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cover with mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wash with clean water"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which is good for sore throat?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Honey",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cold drink",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ice cream",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Candy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honey"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "What helps stomach pain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm compress",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chips",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm compress"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which remedy helps gas problem?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ajwain water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ice cream",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chocolate",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ajwain water"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "What should we drink when sick?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm fluids",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Soda",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ice water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm fluids"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which helps minor infections?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cleanliness",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignoring",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scratching",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cleanliness"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "What helps sore feet?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm water soak",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skipping rest",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm water soak"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which helps dry cough?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Honey",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Chips",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ice cream",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cold drink",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Honey"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which is good for dehydration?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "ORS",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tea only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Coffee only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Soda",
+                    "is_correct": false
+                }
+            ],
+            "answer": "ORS"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "What should we avoid during illness?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Junk food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rest",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Junk food"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which helps calm body?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rest",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skipping sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rest"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which helps clean wounds?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Antiseptic",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ink",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Antiseptic"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "What helps minor sprain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cold compress",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skipping rest",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cold compress"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which remedy helps sore gums?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Salt water rinse",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Candy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chocolate",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Salt water rinse"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which helps stomach upset?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Light food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Spicy food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fried food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Junk food",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Light food"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "What helps mild pain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rest",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Running",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jumping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skipping sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rest"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which helps nose block?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Steam inhalation",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chocolate",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Steam inhalation"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "What should we do before using home remedy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Ask elders",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Guess",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignore",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Experiment",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Ask elders"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which helps sore throat pain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Warm liquids",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Ice",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cold drinks",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Candy",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Warm liquids"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which habit prevents illness?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hygiene",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Skipping meals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "No sleep",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hygiene"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "What should be used for small cuts?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean bandage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty cloth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Paper",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dust",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean bandage"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "What is a home remedy?",
+            "answer": "A home remedy is a simple treatment done at home for minor illness."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "Why are home remedies useful?",
+            "answer": "They are easy, safe, and helpful for small problems."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "What should we do for cough?",
+            "answer": "We can take honey or warm water."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "What helps during cold?",
+            "answer": "Warm fluids and rest help during cold."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "How can we treat stomach ache?",
+            "answer": "Warm water or ajwain water helps."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What should we do when we get fever?",
+            "answer": "We should rest and drink fluids."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "What helps sore throat?",
+            "answer": "Warm salt water gargle helps."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "How can we treat small cuts?",
+            "answer": "Clean with water and apply antiseptic."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "What helps toothache?",
+            "answer": "Clove helps reduce pain."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "Why is rest important during illness?",
+            "answer": "Rest helps the body heal."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "What helps digestion?",
+            "answer": "Ginger helps digestion."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "What should we do for burns?",
+            "answer": "Keep under cold running water."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "What helps headache?",
+            "answer": "Taking rest helps headache."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "What helps constipation?",
+            "answer": "Drinking warm water helps."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "Why should we keep wounds clean?",
+            "answer": "To avoid infection."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "What should we do for nausea?",
+            "answer": "Ginger or rest helps."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "When should we see a doctor?",
+            "answer": "When illness is serious."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Why should we drink fluids during illness?",
+            "answer": "Fluids prevent dehydration."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "What helps body pain?",
+            "answer": "Rest and warm compress help."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "What helps hiccups?",
+            "answer": "Drinking water helps hiccups."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "Why should we not ignore illness?",
+            "answer": "It may become serious."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "What helps eye irritation?",
+            "answer": "Washing eyes with clean water helps."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "What helps sore muscles?",
+            "answer": "Warm compress helps."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "Why is cleanliness important?",
+            "answer": "It prevents illness."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "What helps vomiting?",
+            "answer": "ORS helps replace fluids."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "What should we eat during illness?",
+            "answer": "Light and healthy food."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "What helps swelling?",
+            "answer": "Cold compress reduces swelling."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Why should elders be consulted?",
+            "answer": "They know safe remedies."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "What helps sore gums?",
+            "answer": "Salt water rinse helps."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "Why should we avoid junk food when sick?",
+            "answer": "It is hard to digest."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "What helps dehydration?",
+            "answer": "ORS and water help."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "What helps nose block?",
+            "answer": "Steam inhalation helps."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Why is hygiene important?",
+            "answer": "It keeps us healthy."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "What should we do for minor sprain?",
+            "answer": "Rest and cold compress help."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Why should we sleep well when sick?",
+            "answer": "Sleep helps recovery."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "What helps dry cough?",
+            "answer": "Honey helps soothe throat."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "Why should wounds be covered?",
+            "answer": "To protect from germs."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "What helps stomach upset?",
+            "answer": "Eating light food helps."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "Why should we wash hands?",
+            "answer": "To prevent germs."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "What helps sore feet?",
+            "answer": "Soaking in warm water helps."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "What helps mild pain?",
+            "answer": "Rest helps relieve pain."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "Why should home remedies be safe?",
+            "answer": "They are for minor illness."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "What helps indigestion?",
+            "answer": "Ajwain helps digestion."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "Why should we drink warm water?",
+            "answer": "It helps digestion."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "What helps burns heal?",
+            "answer": "Cold water reduces damage."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "Why should we keep first aid kit?",
+            "answer": "For quick treatment."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "What helps calm the body?",
+            "answer": "Rest helps calm the body."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Why should we avoid self-medication?",
+            "answer": "It can be unsafe."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "What helps recovery?",
+            "answer": "Rest, fluids, and care help recovery."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why should cuts be cleaned immediately?",
+            "answer": "Cleaning cuts prevents infection."
+        }
+            ]
+}

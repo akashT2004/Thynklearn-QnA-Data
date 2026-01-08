@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.13",
+    "standard": "4",
+    "subject": "PlayDoLearn",
+    "medium": "English",
+    "chapter_name": "Singing"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Producing musical sounds with voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Playing a game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Producing musical sounds with voice"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which body part is mainly used in singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hands",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Feet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eyes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Voice"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Singing is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "music",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "game",
+          "is_correct": false
+        }
+      ],
+      "answer": "music"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "confidence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "confidence"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which is needed for good singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Singing makes us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which type of song is sung in groups?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chorus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Solo",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Written",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chorus"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____ skills.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "listening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "writing",
+          "is_correct": false
+        }
+      ],
+      "answer": "listening"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Where can singing be performed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stage",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Road",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stage"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Singing is good for ____ health.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mental",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "bad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "no",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "mental"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Producing musical sounds with voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Playing a game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Producing musical sounds with voice"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which body part is mainly used in singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hands",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Feet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eyes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Voice"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Singing is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "music",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "game",
+          "is_correct": false
+        }
+      ],
+      "answer": "music"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "confidence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "confidence"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which is needed for good singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Singing makes us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which type of song is sung in groups?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chorus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Solo",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Written",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chorus"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____ skills.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "listening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "writing",
+          "is_correct": false
+        }
+      ],
+      "answer": "listening"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Where can singing be performed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stage",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Road",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stage"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Singing is good for ____ health.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mental",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "bad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "no",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "mental"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Producing musical sounds with voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Playing a game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Producing musical sounds with voice"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which body part is mainly used in singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hands",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Feet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eyes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Voice"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Singing is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "music",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "game",
+          "is_correct": false
+        }
+      ],
+      "answer": "music"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "confidence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "confidence"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which is needed for good singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Singing makes us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which type of song is sung in groups?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chorus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Solo",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Written",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chorus"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____ skills.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "listening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "writing",
+          "is_correct": false
+        }
+      ],
+      "answer": "listening"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Where can singing be performed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stage",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Road",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stage"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Singing is good for ____ health.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mental",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "bad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "no",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "mental"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Producing musical sounds with voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Playing a game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Producing musical sounds with voice"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which body part is mainly used in singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hands",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Feet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eyes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Voice"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Singing is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "music",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "game",
+          "is_correct": false
+        }
+      ],
+      "answer": "music"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "confidence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "confidence"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which is needed for good singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Singing makes us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which type of song is sung in groups?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chorus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Solo",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Written",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chorus"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____ skills.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "listening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "writing",
+          "is_correct": false
+        }
+      ],
+      "answer": "listening"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Where can singing be performed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stage",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Road",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stage"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Singing is good for ____ health.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mental",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "bad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "no",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "mental"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Producing musical sounds with voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Playing a game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Drawing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Producing musical sounds with voice"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which body part is mainly used in singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Voice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Hands",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Feet",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eyes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Voice"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Singing is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "music",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "game",
+          "is_correct": false
+        }
+      ],
+      "answer": "music"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "confidence",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "confidence"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which is needed for good singing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Speed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Singing makes us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "happy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "happy"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which type of song is sung in groups?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chorus",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Solo",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Written",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chorus"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Singing helps to improve ____ skills.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "listening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "writing",
+          "is_correct": false
+        }
+      ],
+      "answer": "listening"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Where can singing be performed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stage",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Kitchen",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Road",
+          "is_correct": false
+        }
+      ],
+      "answer": "Stage"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Singing is good for ____ health.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mental",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "bad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "no",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "mental"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is singing?",
+      "answer": "Singing is producing musical sounds with the voice."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Which body part is used for singing?",
+      "answer": "Voice."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Is singing a form of music?",
+      "answer": "Yes, it is a form of music."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does singing improve?",
+      "answer": "Confidence."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why is practice important in singing?",
+      "answer": "To sing better."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How does singing make us feel?",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is group singing called?",
+      "answer": "Chorus singing."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Which skill improves by singing?",
+      "answer": "Listening skills."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Where can we sing?",
+      "answer": "On a stage or at home."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is singing good?",
+      "answer": "It is good for mental health."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is singing?",
+      "answer": "Singing is producing musical sounds with the voice."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which body part is used for singing?",
+      "answer": "Voice."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Is singing a form of music?",
+      "answer": "Yes, it is a form of music."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does singing improve?",
+      "answer": "Confidence."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why is practice important in singing?",
+      "answer": "To sing better."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How does singing make us feel?",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What is group singing called?",
+      "answer": "Chorus singing."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Which skill improves by singing?",
+      "answer": "Listening skills."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Where can we sing?",
+      "answer": "On a stage or at home."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is singing good?",
+      "answer": "It is good for mental health."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is singing?",
+      "answer": "Singing is producing musical sounds with the voice."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which body part is used for singing?",
+      "answer": "Voice."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Is singing a form of music?",
+      "answer": "Yes, it is a form of music."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What does singing improve?",
+      "answer": "Confidence."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why is practice important in singing?",
+      "answer": "To sing better."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How does singing make us feel?",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is group singing called?",
+      "answer": "Chorus singing."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Which skill improves by singing?",
+      "answer": "Listening skills."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Where can we sing?",
+      "answer": "On a stage or at home."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is singing good?",
+      "answer": "It is good for mental health."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is singing?",
+      "answer": "Singing is producing musical sounds with the voice."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which body part is used for singing?",
+      "answer": "Voice."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Is singing a form of music?",
+      "answer": "Yes, it is a form of music."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What does singing improve?",
+      "answer": "Confidence."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why is practice important in singing?",
+      "answer": "To sing better."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How does singing make us feel?",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What is group singing called?",
+      "answer": "Chorus singing."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Which skill improves by singing?",
+      "answer": "Listening skills."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Where can we sing?",
+      "answer": "On a stage or at home."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is singing good?",
+      "answer": "It is good for mental health."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is singing?",
+      "answer": "Singing is producing musical sounds with the voice."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which body part is used for singing?",
+      "answer": "Voice."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Is singing a form of music?",
+      "answer": "Yes, it is a form of music."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What does singing improve?",
+      "answer": "Confidence."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why is practice important in singing?",
+      "answer": "To sing better."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How does singing make us feel?",
+      "answer": "Happy."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is group singing called?",
+      "answer": "Chorus singing."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Which skill improves by singing?",
+      "answer": "Listening skills."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Where can we sing?",
+      "answer": "On a stage or at home."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is singing good?",
+      "answer": "It is good for mental health."
+    }
+  ]
+}

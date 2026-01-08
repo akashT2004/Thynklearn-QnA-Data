@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.05",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Six Honest Serving-Men"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Six Honest Serving-Men'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aesop",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rudyard Kipling",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shakespeare",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rudyard Kipling"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What are the six honest serving-men?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Questions"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a serving-man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Where",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What do the serving-men help us do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learn"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which question helps us know a place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Why",
+          "is_correct": false
+        }
+      ],
+      "answer": "Where"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which question tells the reason?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "Why"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which question tells time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Who",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which question tells manner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "How"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afraid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Serving-men are always ready to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Work",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Work"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Six Honest Serving-Men'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aesop",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rudyard Kipling",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shakespeare",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rudyard Kipling"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What are the six honest serving-men?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Questions"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a serving-man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Where",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What do the serving-men help us do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learn"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which question helps us know a place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Why",
+          "is_correct": false
+        }
+      ],
+      "answer": "Where"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which question tells the reason?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "Why"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which question tells time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Who",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which question tells manner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "How"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afraid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Serving-men are always ready to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Work",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Work"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Six Honest Serving-Men'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aesop",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rudyard Kipling",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shakespeare",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rudyard Kipling"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What are the six honest serving-men?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Questions"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a serving-man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Where",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What do the serving-men help us do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learn"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which question helps us know a place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Why",
+          "is_correct": false
+        }
+      ],
+      "answer": "Where"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which question tells the reason?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "Why"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which question tells time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Who",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which question tells manner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "How"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afraid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Serving-men are always ready to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Work",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Work"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Six Honest Serving-Men'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aesop",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rudyard Kipling",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shakespeare",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rudyard Kipling"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What are the six honest serving-men?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Questions"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a serving-man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Where",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What do the serving-men help us do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learn"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which question helps us know a place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Why",
+          "is_correct": false
+        }
+      ],
+      "answer": "Where"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which question tells the reason?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "Why"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which question tells time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Who",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which question tells manner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "How"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afraid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Serving-men are always ready to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Work",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Work"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who wrote 'Six Honest Serving-Men'?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aesop",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rudyard Kipling",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shakespeare",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wordsworth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rudyard Kipling"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What are the six honest serving-men?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Questions",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Questions"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which of these is NOT a serving-man?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Where",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What do the serving-men help us do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Learn"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which question helps us know a place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Why",
+          "is_correct": false
+        }
+      ],
+      "answer": "Where"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which question tells the reason?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "What",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Why",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "Why"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which question tells time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "When",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Who",
+          "is_correct": false
+        }
+      ],
+      "answer": "When"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which question tells manner?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "How",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Who",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Where",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "When",
+          "is_correct": false
+        }
+      ],
+      "answer": "How"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silent",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afraid",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Serving-men are always ready to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Work",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Hide",
+          "is_correct": false
+        }
+      ],
+      "answer": "Work"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who wrote the poem?",
+      "answer": "Rudyard Kipling wrote the poem."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What are the six honest serving-men?",
+      "answer": "Who, What, When, Where, Why and How."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What do they help us do?",
+      "answer": "They help us ask questions and learn."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which question tells the reason?",
+      "answer": "Why tells the reason."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which question tells the place?",
+      "answer": "Where tells the place."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which question tells the time?",
+      "answer": "When tells the time."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which question tells manner?",
+      "answer": "How tells the manner."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why are the serving-men honest?",
+      "answer": "They always give true answers."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What quality does the poem teach?",
+      "answer": "Curiosity and learning."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How can serving-men help students?",
+      "answer": "They help students understand better."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who wrote the poem?",
+      "answer": "Rudyard Kipling wrote the poem."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What are the six honest serving-men?",
+      "answer": "Who, What, When, Where, Why and How."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What do they help us do?",
+      "answer": "They help us ask questions and learn."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which question tells the reason?",
+      "answer": "Why tells the reason."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which question tells the place?",
+      "answer": "Where tells the place."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which question tells the time?",
+      "answer": "When tells the time."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which question tells manner?",
+      "answer": "How tells the manner."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why are the serving-men honest?",
+      "answer": "They always give true answers."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What quality does the poem teach?",
+      "answer": "Curiosity and learning."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How can serving-men help students?",
+      "answer": "They help students understand better."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who wrote the poem?",
+      "answer": "Rudyard Kipling wrote the poem."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What are the six honest serving-men?",
+      "answer": "Who, What, When, Where, Why and How."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What do they help us do?",
+      "answer": "They help us ask questions and learn."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which question tells the reason?",
+      "answer": "Why tells the reason."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which question tells the place?",
+      "answer": "Where tells the place."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which question tells the time?",
+      "answer": "When tells the time."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which question tells manner?",
+      "answer": "How tells the manner."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why are the serving-men honest?",
+      "answer": "They always give true answers."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What quality does the poem teach?",
+      "answer": "Curiosity and learning."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How can serving-men help students?",
+      "answer": "They help students understand better."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who wrote the poem?",
+      "answer": "Rudyard Kipling wrote the poem."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What are the six honest serving-men?",
+      "answer": "Who, What, When, Where, Why and How."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What do they help us do?",
+      "answer": "They help us ask questions and learn."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which question tells the reason?",
+      "answer": "Why tells the reason."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which question tells the place?",
+      "answer": "Where tells the place."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which question tells the time?",
+      "answer": "When tells the time."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which question tells manner?",
+      "answer": "How tells the manner."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why are the serving-men honest?",
+      "answer": "They always give true answers."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What quality does the poem teach?",
+      "answer": "Curiosity and learning."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How can serving-men help students?",
+      "answer": "They help students understand better."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who wrote the poem?",
+      "answer": "Rudyard Kipling wrote the poem."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What are the six honest serving-men?",
+      "answer": "Who, What, When, Where, Why and How."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What do they help us do?",
+      "answer": "They help us ask questions and learn."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which question tells the reason?",
+      "answer": "Why tells the reason."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which question tells the place?",
+      "answer": "Where tells the place."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which question tells the time?",
+      "answer": "When tells the time."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which question tells manner?",
+      "answer": "How tells the manner."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why are the serving-men honest?",
+      "answer": "They always give true answers."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What quality does the poem teach?",
+      "answer": "Curiosity and learning."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How can serving-men help students?",
+      "answer": "They help students understand better."
+    }
+  ]
+}

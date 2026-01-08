@@ -1,0 +1,1627 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.03",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Storage of Water"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why is water important for living things?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For life and survival",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For life and survival"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which is a natural source of water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "River",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Chair",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Book",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Table",
+                    "is_correct": false
+                }
+            ],
+            "answer": "River"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Where do we store water at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tank",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cupboard",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shelf",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bag",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tank"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Why should water be stored?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For future use",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For waste",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For future use"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which container stores water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bottle",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Basket",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cloth",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bottle"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which water is safe to drink?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clean water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clean water"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Why should drinking water be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To avoid diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For smell",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To avoid diseases"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which season gives most rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Monsoon",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Winter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Summer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Autumn",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Monsoon"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "What is rainwater harvesting?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Collecting rainwater",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wasting water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cleaning water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Filtering water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Collecting rainwater"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Where is rainwater stored?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tanks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tanks"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which structure stores water for cities?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dam",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Road",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Market",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Park",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dam"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Why are dams built?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To store water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To block roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To make noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To store water"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which water should not be drunk?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dirty water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Boiled water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Filtered water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clean water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dirty water"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Why should tanks be covered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To keep water clean",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For beauty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To keep water clean"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which activity uses stored water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "All of these",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Drinking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Washing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which living beings need water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "All living beings",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only humans",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Only animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only plants",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All living beings"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "What should we do during shortage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Save water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Waste water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Ignore",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Play",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Save water"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which water is salty?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sea water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "River water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rainwater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Well water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sea water"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which source gives underground water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Well",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lake",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Well"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which is a man-made storage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dam",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ocean",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dam"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why should containers be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To prevent diseases",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For sound",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For size",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To prevent diseases"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which habit saves water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Closing tap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leaving tap open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Playing with water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wasting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Closing tap"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which water is used after boiling?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Safe water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Safe water"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which activity wastes water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaving tap open",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Drinking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cooking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cleaning",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaving tap open"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which container keeps water cool?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Earthen pot",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Steel bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Glass",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earthen pot"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Why store water in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Water becomes scarce",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For travel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Water becomes scarce"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which helps underground storage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Buildings",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Trees"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which practice saves rainwater?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater harvesting",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Pollution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Wasting",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ignoring",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater harvesting"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which source dries in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Pond",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Ocean",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pond"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which water should be filtered?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Drinking water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Oil",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Drinking water"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which water do homes use daily?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stored water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "River only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stored water"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which habit keeps water safe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Covering tanks",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Leaving open",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dirty storage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wasting",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Covering tanks"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which helps in emergencies?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stored water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "No water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Salt water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dirty water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stored water"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which source is most reliable?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stored water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rain only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stored water"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Why should we not waste water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It is precious",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "It is unlimited",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It is dirty",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is salty",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It is precious"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which structure stores village water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tank",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Spoon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tank"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "What do dams mainly do?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Store water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Block roads",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Make noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Store water"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which water is used for plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fresh water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oil",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Milk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Juice",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fresh water"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which container is best for long storage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tank",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Paper",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tank"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which water source is from clouds?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "River water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Well water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which helps reduce shortage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Water storage",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wastage",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pollution",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Neglect",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Water storage"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which water is collected from roofs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Rainwater",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "River water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dirty water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rainwater"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which habit should be avoided?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wasting water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Saving water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Storing water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Covering tanks",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wasting water"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which activity needs maximum water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleeping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Walking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bathing"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which water is safest?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Filtered water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sea water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Mud water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Filtered water"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which resource is limited?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sunlight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wind",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Water"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Why is planning storage important?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For future needs",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For future needs"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "Why do we need to store water?",
+            "answer": "We store water for use during shortages and emergencies."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "What is water storage?",
+            "answer": "Water storage means keeping water safely for future use."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Why is water precious?",
+            "answer": "Water is precious because it is limited and essential for life."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "Name one place where water is stored at home.",
+            "answer": "Water is stored in tanks at home."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Why should drinking water be clean?",
+            "answer": "Clean water prevents diseases."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What is rainwater harvesting?",
+            "answer": "Rainwater harvesting means collecting and storing rainwater."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "Why should rainwater be collected?",
+            "answer": "It helps save water for future use."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "What happens during water shortage?",
+            "answer": "People face difficulty in daily activities."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "Why are dams built?",
+            "answer": "Dams are built to store large amounts of water."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "Name one natural source of water.",
+            "answer": "River is a natural source of water."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Name one man-made water storage.",
+            "answer": "Dam is a man-made water storage structure."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "Why should water tanks be covered?",
+            "answer": "Covered tanks keep water clean."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "How does clean storage protect health?",
+            "answer": "It prevents the spread of diseases."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "Why should wells be kept clean?",
+            "answer": "Clean wells provide safe drinking water."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "What is underground water?",
+            "answer": "Water found below the ground is underground water."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "Why is stored water useful in summer?",
+            "answer": "Water sources reduce in summer."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "What should we do to save water?",
+            "answer": "We should use water wisely."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "How does closing taps save water?",
+            "answer": "It prevents unnecessary wastage."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "Why should we not waste water?",
+            "answer": "Wasting water causes shortage."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "Which water is used for drinking?",
+            "answer": "Clean and filtered water is used for drinking."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "Why is boiled water safe?",
+            "answer": "Boiling kills germs in water."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Why should containers be cleaned regularly?",
+            "answer": "Regular cleaning prevents contamination."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "Which water is salty?",
+            "answer": "Sea water is salty."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "Can sea water be used for drinking?",
+            "answer": "No, sea water is not fit for drinking."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "Why do villages store water?",
+            "answer": "For farming and daily needs."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "What is the use of water tanks?",
+            "answer": "They store water for daily use."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "Why is rainwater clean?",
+            "answer": "It comes directly from clouds."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "How does water storage help plants?",
+            "answer": "It provides water when rainfall is less."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Why is water needed daily?",
+            "answer": "For drinking, cooking, and cleaning."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "What happens if tanks are left open?",
+            "answer": "Water may get dirty."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "Why should water be filtered?",
+            "answer": "Filtering removes dirt and germs."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "How does water help animals?",
+            "answer": "Animals need water to survive."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Why is water storage important for cities?",
+            "answer": "Cities need large amounts of water."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "What happens if dams overflow?",
+            "answer": "Floods may occur."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Why should water be stored safely?",
+            "answer": "To avoid contamination."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "What is water conservation?",
+            "answer": "Saving and using water carefully."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "Why is water needed for farming?",
+            "answer": "Crops need water to grow."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "How does rainwater harvesting help?",
+            "answer": "It increases water availability."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "How does water shortage affect life?",
+            "answer": "It affects health and food supply."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "What is stored water used for?",
+            "answer": "For daily household activities."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "Why should we plan water storage?",
+            "answer": "To meet future needs."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "Which container keeps water cool?",
+            "answer": "An earthen pot keeps water cool."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "Why should stored water be checked?",
+            "answer": "To ensure it is safe."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "What causes water shortage?",
+            "answer": "Less rainfall and wastage."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "How can students save water?",
+            "answer": "By closing taps and avoiding waste."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "Why is water important for cleanliness?",
+            "answer": "It helps maintain hygiene."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "How does water storage help in disasters?",
+            "answer": "It provides water when supply stops."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Why should everyone save water?",
+            "answer": "Water is essential for life."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "What lesson do we learn from water storage?",
+            "answer": "We should use water carefully."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why should water be used carefully?",
+            "answer": "Water is limited and valuable."
+        }
+    ]
+}

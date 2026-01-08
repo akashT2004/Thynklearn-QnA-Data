@@ -1,0 +1,1627 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.12",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Directions and Maps"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Which direction does the sun rise from?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which direction does the sun set in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "South",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which direction is opposite to North?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Up",
+                    "is_correct": false
+                }
+            ],
+            "answer": "South"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which direction is opposite to East?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which tool is used to find directions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Scale",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Compass",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clock",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Compass"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "How many main directions are there?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "2",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "3",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "4",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "5",
+                    "is_correct": false
+                }
+            ],
+            "answer": "4"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Which are the four main directions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Up, Down, Left, Right",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "North, South, East, West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Front, Back, Left, Right",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Top, Bottom, Side, Middle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "North, South, East, West"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which direction is to the left of East?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "East",
+                    "is_correct": false
+                }
+            ],
+            "answer": "North"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which direction is to the right of West?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "North"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which direction is shown at the top of a map?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "North",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "North"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "What is a map?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A drawing of a house",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "A drawing of an area",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "A story",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A game",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A drawing of an area"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "What does a map show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Places",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stories",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Places"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which colour is used for water bodies on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Green",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Blue",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Brown",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Red",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Blue"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which colour shows land on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Blue",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Green",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "White",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Black",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Green"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "What helps us read a map?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Scale",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Legend",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Compass",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "What is a compass?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A toy",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "A direction tool",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "A map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A clock",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A direction tool"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which direction is between North and East?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "North-East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "South-East",
+                    "is_correct": false
+                }
+            ],
+            "answer": "North-East"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which direction is between South and West?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "South-East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "North-West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "South-West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "North-East",
+                    "is_correct": false
+                }
+            ],
+            "answer": "South-West"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "What does a map legend show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stories",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Meaning of symbols",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Directions only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scale only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Meaning of symbols"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "What is a symbol?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A letter",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "A sign",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "A number",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A sign"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Why are symbols used on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To save space",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To confuse",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To save space"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which direction is above South?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "North"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which direction is below North?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Up",
+                    "is_correct": false
+                }
+            ],
+            "answer": "South"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which helps measure distance on a map?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Legend",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Scale",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Compass",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Symbol",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Scale"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which map shows a small area in detail?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "World map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Country map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Local map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Political map",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Local map"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which map shows countries?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Local map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "World map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "House map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "World map"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which map shows states?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Political map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sketch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drawing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Political map"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "What is a sketch?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A rough drawing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "An exact map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "A photograph",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A chart",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A rough drawing"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Why is North important on maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It shows direction",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "It shows colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It shows scale",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It shows symbols",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It shows direction"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which direction comes after North in clockwise order?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Up",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which direction comes before West?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "South",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "South"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "What does blue colour show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Land",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Mountains",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Water",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Roads",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Water"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "What does green colour show?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Land",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Desert",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Roads",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Land"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which map shows natural features?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Road map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Physical map"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which map shows roads?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Road map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Road map"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which direction helps find location?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Direction",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Size",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Shape",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Direction"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which direction is between East and South?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North-East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "South-West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "South-East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "North-West",
+                    "is_correct": false
+                }
+            ],
+            "answer": "South-East"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which tool shows North?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Compass",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Scale",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Legend",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Map",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Compass"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which map helps travellers?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Road map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Physical map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sketch",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Drawing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Road map"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Why do we use maps?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To find places",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To decorate",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To find places"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which symbol shows railway line?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Line",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Circle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Triangle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Square",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Line"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which symbol shows hospital?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "H",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "R",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "S",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "P",
+                    "is_correct": false
+                }
+            ],
+            "answer": "H"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which direction is on the right of North?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "East",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "East"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which direction is on the left of North?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "West",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "South",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Down",
+                    "is_correct": false
+                }
+            ],
+            "answer": "West"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which map shows the whole world?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Country map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "World map",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Local map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sketch",
+                    "is_correct": false
+                }
+            ],
+            "answer": "World map"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which map is drawn roughly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sketch",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "World map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Political map",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Physical map",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sketch"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which direction is behind South?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "North",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "East",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "West",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Up",
+                    "is_correct": false
+                }
+            ],
+            "answer": "North"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "Explain: Directions help us locate places.",
+            "answer": "Directions help us locate places."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "Explain: The four main directions are North, South, East and West.",
+            "answer": "The four main directions are North, South, East and West."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Explain: The sun rises in the East.",
+            "answer": "The sun rises in the East."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "Explain: The sun sets in the West.",
+            "answer": "The sun sets in the West."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Explain: A map is a drawing of an area.",
+            "answer": "A map is a drawing of an area."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "Explain: Maps help us find places easily.",
+            "answer": "Maps help us find places easily."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "Explain: A compass helps find directions.",
+            "answer": "A compass helps find directions."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "Explain: North helps us read maps correctly.",
+            "answer": "North helps us read maps correctly."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "Explain: A symbol is a sign used on maps.",
+            "answer": "A symbol is a sign used on maps."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "Explain: Symbols save space on maps.",
+            "answer": "Symbols save space on maps."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Explain: A legend explains symbols.",
+            "answer": "A legend explains symbols."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "Explain: Scale shows distance on a map.",
+            "answer": "Scale shows distance on a map."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "Explain: Blue colour shows water.",
+            "answer": "Blue colour shows water."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "Explain: Green colour shows land.",
+            "answer": "Green colour shows land."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "Explain: A sketch is a rough drawing.",
+            "answer": "A sketch is a rough drawing."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "Explain: A road map shows roads.",
+            "answer": "A road map shows roads."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "Explain: A physical map shows natural features.",
+            "answer": "A physical map shows natural features."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Explain: A world map shows countries.",
+            "answer": "A world map shows countries."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "Explain: South is opposite to North.",
+            "answer": "South is opposite to North."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "Explain: West is opposite to East.",
+            "answer": "West is opposite to East."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "Explain: North-East lies between North and East.",
+            "answer": "North-East lies between North and East."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Explain: South-West lies between South and West.",
+            "answer": "South-West lies between South and West."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "Explain: Travellers use maps to reach places.",
+            "answer": "Travellers use maps to reach places."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "Explain: Political maps show states.",
+            "answer": "Political maps show states."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "Explain: A compass needle points North.",
+            "answer": "A compass needle points North."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Explain: Legend helps understand symbols.",
+            "answer": "Legend helps understand symbols."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "Explain: A local map shows a small area.",
+            "answer": "A local map shows a small area."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Explain: A world map shows the whole earth.",
+            "answer": "A world map shows the whole earth."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Explain: Scale helps measure distance.",
+            "answer": "Scale helps measure distance."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "Explain: Colours show different features.",
+            "answer": "Colours show different features."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "Explain: Railway lines are shown by lines.",
+            "answer": "Railway lines are shown by lines."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "Explain: Hospitals are shown by H symbol.",
+            "answer": "Hospitals are shown by H symbol."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Explain: East is right of North.",
+            "answer": "East is right of North."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "Explain: West is left of North.",
+            "answer": "West is left of North."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Explain: Compass helps understand directions.",
+            "answer": "Compass helps understand directions."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "Explain: Map reading is important for travel.",
+            "answer": "Map reading is important for travel."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "Explain: Political maps show boundaries.",
+            "answer": "Political maps show boundaries."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "Explain: Physical maps show rivers and mountains.",
+            "answer": "Physical maps show rivers and mountains."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "Explain: Road maps help drivers.",
+            "answer": "Road maps help drivers."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "Explain: Directions help us move correctly.",
+            "answer": "Directions help us move correctly."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "Explain: North is usually at the top of a map.",
+            "answer": "North is usually at the top of a map."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "Explain: Scale shows real distance.",
+            "answer": "Scale shows real distance."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "Explain: Compass is a direction tool.",
+            "answer": "Compass is a direction tool."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "Explain: Directions prevent us from getting lost.",
+            "answer": "Directions prevent us from getting lost."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "Explain: South-East lies between South and East.",
+            "answer": "South-East lies between South and East."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "Explain: North-West lies between North and West.",
+            "answer": "North-West lies between North and West."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Explain: Maps help students learn geography.",
+            "answer": "Maps help students learn geography."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Explain: Maps should be drawn neatly.",
+            "answer": "Maps should be drawn neatly."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "Explain: Directions are important in daily life.",
+            "answer": "Directions are important in daily life."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Explain: Maps help us plan routes.",
+            "answer": "Maps help us plan routes."
+        }
+    ]
+}

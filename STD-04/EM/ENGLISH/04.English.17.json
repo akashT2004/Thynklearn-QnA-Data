@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.17",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Know Formalities, Please! (Part 2)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the focus of this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good manners",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poems",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good manners"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which behaviour is formal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interrupting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waiting for turn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waiting for turn"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What should we do while speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Listen carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Interrupt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listen carefully"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How should we speak in public?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudely",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Politely"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why should we wait for our turn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To show discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To avoid work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To be late",
+          "is_correct": false
+        }
+      ],
+      "answer": "To show discipline"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which word shows respect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sir",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sir"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should we do in a queue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wait patiently",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wait patiently"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Formal behaviour shows ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should we avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good manners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Interrupting others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Listening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waiting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interrupting others"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The lesson teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disciplined",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Disciplined"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the focus of this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good manners",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poems",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good manners"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which behaviour is formal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interrupting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waiting for turn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waiting for turn"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should we do while speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Listen carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Interrupt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listen carefully"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How should we speak in public?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudely",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Politely"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why should we wait for our turn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To show discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To avoid work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To be late",
+          "is_correct": false
+        }
+      ],
+      "answer": "To show discipline"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which word shows respect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sir",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sir"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What should we do in a queue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wait patiently",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wait patiently"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Formal behaviour shows ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What should we avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good manners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Interrupting others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Listening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waiting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interrupting others"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The lesson teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disciplined",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Disciplined"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the focus of this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good manners",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poems",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good manners"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which behaviour is formal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interrupting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waiting for turn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waiting for turn"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What should we do while speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Listen carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Interrupt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listen carefully"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How should we speak in public?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudely",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Politely"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why should we wait for our turn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To show discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To avoid work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To be late",
+          "is_correct": false
+        }
+      ],
+      "answer": "To show discipline"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which word shows respect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sir",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sir"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What should we do in a queue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wait patiently",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wait patiently"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Formal behaviour shows ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What should we avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good manners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Interrupting others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Listening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waiting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interrupting others"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The lesson teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disciplined",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Disciplined"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the focus of this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good manners",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poems",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good manners"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which behaviour is formal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interrupting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waiting for turn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waiting for turn"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What should we do while speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Listen carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Interrupt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listen carefully"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How should we speak in public?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudely",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Politely"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why should we wait for our turn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To show discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To avoid work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To be late",
+          "is_correct": false
+        }
+      ],
+      "answer": "To show discipline"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which word shows respect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sir",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sir"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What should we do in a queue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wait patiently",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wait patiently"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Formal behaviour shows ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What should we avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good manners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Interrupting others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Listening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waiting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interrupting others"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The lesson teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disciplined",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Disciplined"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the focus of this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good manners",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Poems",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good manners"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which behaviour is formal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Interrupting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Waiting for turn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Waiting for turn"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What should we do while speaking?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Listen carefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Interrupt",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore",
+          "is_correct": false
+        }
+      ],
+      "answer": "Listen carefully"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "How should we speak in public?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rudely",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Politely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Loudly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Politely"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Why should we wait for our turn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To show discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To avoid work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To be late",
+          "is_correct": false
+        }
+      ],
+      "answer": "To show discipline"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which word shows respect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hey",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sir",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Oi",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Move",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sir"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What should we do in a queue?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wait patiently",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shout",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Run",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wait patiently"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Formal behaviour shows ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What should we avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good manners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Interrupting others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Listening",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Waiting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Interrupting others"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The lesson teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Disciplined",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rude",
+          "is_correct": false
+        }
+      ],
+      "answer": "Disciplined"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does the chapter focus on?",
+      "answer": "It focuses on good manners."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How should we behave in public?",
+      "answer": "Politely and patiently."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What should we do while others speak?",
+      "answer": "Listen carefully."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why should we wait for our turn?",
+      "answer": "To show discipline."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How should we speak to elders?",
+      "answer": "With respect."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does formal behaviour show?",
+      "answer": "Discipline and respect."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should we avoid doing?",
+      "answer": "Interrupting others."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why are manners important?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Where should we follow manners?",
+      "answer": "At home, school and public places."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Follow good manners everywhere."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the chapter focus on?",
+      "answer": "It focuses on good manners."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How should we behave in public?",
+      "answer": "Politely and patiently."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What should we do while others speak?",
+      "answer": "Listen carefully."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why should we wait for our turn?",
+      "answer": "To show discipline."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How should we speak to elders?",
+      "answer": "With respect."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does formal behaviour show?",
+      "answer": "Discipline and respect."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What should we avoid doing?",
+      "answer": "Interrupting others."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why are manners important?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Where should we follow manners?",
+      "answer": "At home, school and public places."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Follow good manners everywhere."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does the chapter focus on?",
+      "answer": "It focuses on good manners."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How should we behave in public?",
+      "answer": "Politely and patiently."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What should we do while others speak?",
+      "answer": "Listen carefully."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why should we wait for our turn?",
+      "answer": "To show discipline."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How should we speak to elders?",
+      "answer": "With respect."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does formal behaviour show?",
+      "answer": "Discipline and respect."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What should we avoid doing?",
+      "answer": "Interrupting others."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why are manners important?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Where should we follow manners?",
+      "answer": "At home, school and public places."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Follow good manners everywhere."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does the chapter focus on?",
+      "answer": "It focuses on good manners."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How should we behave in public?",
+      "answer": "Politely and patiently."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What should we do while others speak?",
+      "answer": "Listen carefully."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why should we wait for our turn?",
+      "answer": "To show discipline."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How should we speak to elders?",
+      "answer": "With respect."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What does formal behaviour show?",
+      "answer": "Discipline and respect."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What should we avoid doing?",
+      "answer": "Interrupting others."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why are manners important?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Where should we follow manners?",
+      "answer": "At home, school and public places."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Follow good manners everywhere."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does the chapter focus on?",
+      "answer": "It focuses on good manners."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How should we behave in public?",
+      "answer": "Politely and patiently."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What should we do while others speak?",
+      "answer": "Listen carefully."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why should we wait for our turn?",
+      "answer": "To show discipline."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How should we speak to elders?",
+      "answer": "With respect."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does formal behaviour show?",
+      "answer": "Discipline and respect."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What should we avoid doing?",
+      "answer": "Interrupting others."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why are manners important?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Where should we follow manners?",
+      "answer": "At home, school and public places."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Follow good manners everywhere."
+    }
+  ]
+}

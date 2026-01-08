@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.19",
+    "standard": "4",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "My Delightful School"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Why do we go to school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To earn",
+          "is_correct": false
+        }
+      ],
+      "answer": "To learn"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What do we share in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiffins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What makes learning joyful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping each other",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shouting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping each other"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who studies together in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Students",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours",
+          "is_correct": false
+        }
+      ],
+      "answer": "Students"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do we wear in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Casual clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Uniform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Festival dress",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Costume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What do we learn in school besides studies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Behaviour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cooperation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": true
+        }
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should every child get in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy of learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy of learning"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who helps new students in class?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers and classmates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parents",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teachers and classmates"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What makes classroom colourful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charts",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Different clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Uniform holidays",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform holidays"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What should we respect in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why do we go to school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To earn",
+          "is_correct": false
+        }
+      ],
+      "answer": "To learn"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What do we share in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiffins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What makes learning joyful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping each other",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shouting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping each other"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who studies together in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Students",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours",
+          "is_correct": false
+        }
+      ],
+      "answer": "Students"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do we wear in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Casual clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Uniform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Festival dress",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Costume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What do we learn in school besides studies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Behaviour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cooperation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": true
+        }
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What should every child get in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy of learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy of learning"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who helps new students in class?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers and classmates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parents",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teachers and classmates"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What makes classroom colourful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charts",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Different clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Uniform holidays",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform holidays"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What should we respect in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why do we go to school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To earn",
+          "is_correct": false
+        }
+      ],
+      "answer": "To learn"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What do we share in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiffins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What makes learning joyful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping each other",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shouting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping each other"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who studies together in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Students",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours",
+          "is_correct": false
+        }
+      ],
+      "answer": "Students"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What do we wear in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Casual clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Uniform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Festival dress",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Costume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What do we learn in school besides studies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Behaviour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cooperation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": true
+        }
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What should every child get in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy of learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy of learning"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who helps new students in class?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers and classmates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parents",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teachers and classmates"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What makes classroom colourful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charts",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Different clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Uniform holidays",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform holidays"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What should we respect in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Why do we go to school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To earn",
+          "is_correct": false
+        }
+      ],
+      "answer": "To learn"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What do we share in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiffins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What makes learning joyful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping each other",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shouting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping each other"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who studies together in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Students",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours",
+          "is_correct": false
+        }
+      ],
+      "answer": "Students"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What do we wear in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Casual clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Uniform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Festival dress",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Costume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What do we learn in school besides studies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Behaviour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cooperation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": true
+        }
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What should every child get in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy of learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy of learning"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who helps new students in class?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers and classmates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parents",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teachers and classmates"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What makes classroom colourful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charts",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Different clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Uniform holidays",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform holidays"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What should we respect in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Why do we go to school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To play only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To learn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To earn",
+          "is_correct": false
+        }
+      ],
+      "answer": "To learn"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What do we share in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Tiffins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What makes learning joyful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping each other",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ignoring",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Shouting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping each other"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who studies together in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Students",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours",
+          "is_correct": false
+        }
+      ],
+      "answer": "Students"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What do we wear in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Casual clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Uniform",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Festival dress",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Costume",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What do we learn in school besides studies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Behaviour",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sharing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Cooperation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All",
+          "is_correct": true
+        }
+      ],
+      "answer": "All"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What should every child get in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy of learning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy of learning"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who helps new students in class?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers and classmates",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Parents",
+          "is_correct": false
+        }
+      ],
+      "answer": "Teachers and classmates"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What makes classroom colourful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Charts",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Different clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Uniform holidays",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Uniform holidays"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What should we respect in school?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why do we go to school?",
+      "answer": "We go to school to learn and grow."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What do we do together in school?",
+      "answer": "We study, play and help each other."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What increases joy in learning?",
+      "answer": "Helping and understanding each other."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why should we help classmates?",
+      "answer": "So everyone enjoys learning."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What do we learn besides studies?",
+      "answer": "We learn sharing and cooperation."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is diversity?",
+      "answer": "Differences in language, food and habits."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why should we respect diversity?",
+      "answer": "Because everyone is equal."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who helps new students?",
+      "answer": "Teachers and classmates."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why is school delightful?",
+      "answer": "Because learning becomes joyful."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What makes a class happy?",
+      "answer": "Friendly behaviour and cooperation."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why do we go to school?",
+      "answer": "We go to school to learn and grow."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What do we do together in school?",
+      "answer": "We study, play and help each other."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What increases joy in learning?",
+      "answer": "Helping and understanding each other."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why should we help classmates?",
+      "answer": "So everyone enjoys learning."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What do we learn besides studies?",
+      "answer": "We learn sharing and cooperation."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What is diversity?",
+      "answer": "Differences in language, food and habits."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why should we respect diversity?",
+      "answer": "Because everyone is equal."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who helps new students?",
+      "answer": "Teachers and classmates."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is school delightful?",
+      "answer": "Because learning becomes joyful."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What makes a class happy?",
+      "answer": "Friendly behaviour and cooperation."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why do we go to school?",
+      "answer": "We go to school to learn and grow."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What do we do together in school?",
+      "answer": "We study, play and help each other."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What increases joy in learning?",
+      "answer": "Helping and understanding each other."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why should we help classmates?",
+      "answer": "So everyone enjoys learning."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What do we learn besides studies?",
+      "answer": "We learn sharing and cooperation."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is diversity?",
+      "answer": "Differences in language, food and habits."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why should we respect diversity?",
+      "answer": "Because everyone is equal."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who helps new students?",
+      "answer": "Teachers and classmates."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why is school delightful?",
+      "answer": "Because learning becomes joyful."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What makes a class happy?",
+      "answer": "Friendly behaviour and cooperation."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why do we go to school?",
+      "answer": "We go to school to learn and grow."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What do we do together in school?",
+      "answer": "We study, play and help each other."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What increases joy in learning?",
+      "answer": "Helping and understanding each other."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why should we help classmates?",
+      "answer": "So everyone enjoys learning."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What do we learn besides studies?",
+      "answer": "We learn sharing and cooperation."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What is diversity?",
+      "answer": "Differences in language, food and habits."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why should we respect diversity?",
+      "answer": "Because everyone is equal."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who helps new students?",
+      "answer": "Teachers and classmates."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is school delightful?",
+      "answer": "Because learning becomes joyful."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What makes a class happy?",
+      "answer": "Friendly behaviour and cooperation."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why do we go to school?",
+      "answer": "We go to school to learn and grow."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What do we do together in school?",
+      "answer": "We study, play and help each other."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What increases joy in learning?",
+      "answer": "Helping and understanding each other."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why should we help classmates?",
+      "answer": "So everyone enjoys learning."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What do we learn besides studies?",
+      "answer": "We learn sharing and cooperation."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is diversity?",
+      "answer": "Differences in language, food and habits."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why should we respect diversity?",
+      "answer": "Because everyone is equal."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Who helps new students?",
+      "answer": "Teachers and classmates."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why is school delightful?",
+      "answer": "Because learning becomes joyful."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What makes a class happy?",
+      "answer": "Friendly behaviour and cooperation."
+    }
+  ]
+}

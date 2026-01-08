@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.17",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "Management of Forts and the Navy"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Why were forts important to Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defense of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Residence only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defense of Swaraj"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was responsible for fort management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sardars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kiledar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saints",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kiledar"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was a Kiledar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village head",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fort in-charge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Army general",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fort in-charge"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How were forts supplied?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only by land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By planned management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Randomly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "By planned management"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji build a navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect sea coast",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For trade only",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect sea coast"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which sea coast did Shivaji protect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Northern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Southern",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What was the role of the navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attack villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect ports",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect ports"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which forts were sea forts?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sindhudurg",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindhudurg"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What quality did this management show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Negligence",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why is fort management important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Safety of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "War only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Decoration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Safety of Swaraj"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Why were forts important to Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defense of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Residence only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defense of Swaraj"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who was responsible for fort management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sardars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kiledar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saints",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kiledar"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What was a Kiledar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village head",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fort in-charge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Army general",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fort in-charge"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How were forts supplied?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only by land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By planned management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Randomly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "By planned management"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji build a navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect sea coast",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For trade only",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect sea coast"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which sea coast did Shivaji protect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Northern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Southern",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What was the role of the navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attack villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect ports",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect ports"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which forts were sea forts?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sindhudurg",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindhudurg"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What quality did this management show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Negligence",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why is fort management important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Safety of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "War only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Decoration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Safety of Swaraj"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Why were forts important to Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defense of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Residence only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defense of Swaraj"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who was responsible for fort management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sardars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kiledar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saints",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kiledar"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What was a Kiledar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village head",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fort in-charge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Army general",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fort in-charge"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How were forts supplied?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only by land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By planned management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Randomly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "By planned management"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji build a navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect sea coast",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For trade only",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect sea coast"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which sea coast did Shivaji protect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Northern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Southern",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What was the role of the navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attack villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect ports",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect ports"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which forts were sea forts?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sindhudurg",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindhudurg"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What quality did this management show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Negligence",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why is fort management important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Safety of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "War only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Decoration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Safety of Swaraj"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Why were forts important to Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defense of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Residence only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defense of Swaraj"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who was responsible for fort management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sardars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kiledar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saints",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kiledar"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What was a Kiledar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village head",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fort in-charge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Army general",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fort in-charge"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How were forts supplied?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only by land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By planned management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Randomly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "By planned management"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji build a navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect sea coast",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For trade only",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect sea coast"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which sea coast did Shivaji protect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Northern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Southern",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What was the role of the navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attack villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect ports",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect ports"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which forts were sea forts?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sindhudurg",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindhudurg"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What quality did this management show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Negligence",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why is fort management important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Safety of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "War only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Decoration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Safety of Swaraj"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Why were forts important to Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Decoration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defense of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Residence only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defense of Swaraj"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who was responsible for fort management?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sardars",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kiledar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Farmers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saints",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kiledar"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What was a Kiledar?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Village head",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fort in-charge",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Army general",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Priest",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fort in-charge"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "How were forts supplied?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only by land",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "By planned management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Randomly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "By enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "By planned management"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji build a navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fishing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect sea coast",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For trade only",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect sea coast"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which sea coast did Shivaji protect?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eastern",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Western",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Northern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Southern",
+          "is_correct": false
+        }
+      ],
+      "answer": "Western"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What was the role of the navy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attack villages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect ports",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect ports"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which forts were sea forts?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sindhudurg",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sindhudurg"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What quality did this management show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Negligence",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why is fort management important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Safety of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "War only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Decoration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Safety of Swaraj"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Why were forts important?",
+      "answer": "They protected Swaraj."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who managed the forts?",
+      "answer": "Kiledars managed the forts."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What is a Kiledar?",
+      "answer": "The officer in charge of a fort."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why was fort discipline needed?",
+      "answer": "For safety and order."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji build a navy?",
+      "answer": "To protect the sea coast."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which coast was protected?",
+      "answer": "The western coast."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the role of the navy?",
+      "answer": "To protect ports and trade."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name a sea fort.",
+      "answer": "Sindhudurg."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What value did Shivaji show?",
+      "answer": "Good management."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from this chapter?",
+      "answer": "Importance of planning and defense."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why were forts important?",
+      "answer": "They protected Swaraj."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who managed the forts?",
+      "answer": "Kiledars managed the forts."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What is a Kiledar?",
+      "answer": "The officer in charge of a fort."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why was fort discipline needed?",
+      "answer": "For safety and order."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji build a navy?",
+      "answer": "To protect the sea coast."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Which coast was protected?",
+      "answer": "The western coast."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What was the role of the navy?",
+      "answer": "To protect ports and trade."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name a sea fort.",
+      "answer": "Sindhudurg."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What value did Shivaji show?",
+      "answer": "Good management."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from this chapter?",
+      "answer": "Importance of planning and defense."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Why were forts important?",
+      "answer": "They protected Swaraj."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who managed the forts?",
+      "answer": "Kiledars managed the forts."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What is a Kiledar?",
+      "answer": "The officer in charge of a fort."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why was fort discipline needed?",
+      "answer": "For safety and order."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji build a navy?",
+      "answer": "To protect the sea coast."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which coast was protected?",
+      "answer": "The western coast."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was the role of the navy?",
+      "answer": "To protect ports and trade."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name a sea fort.",
+      "answer": "Sindhudurg."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What value did Shivaji show?",
+      "answer": "Good management."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from this chapter?",
+      "answer": "Importance of planning and defense."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why were forts important?",
+      "answer": "They protected Swaraj."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who managed the forts?",
+      "answer": "Kiledars managed the forts."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What is a Kiledar?",
+      "answer": "The officer in charge of a fort."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why was fort discipline needed?",
+      "answer": "For safety and order."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji build a navy?",
+      "answer": "To protect the sea coast."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Which coast was protected?",
+      "answer": "The western coast."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What was the role of the navy?",
+      "answer": "To protect ports and trade."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name a sea fort.",
+      "answer": "Sindhudurg."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What value did Shivaji show?",
+      "answer": "Good management."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from this chapter?",
+      "answer": "Importance of planning and defense."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Why were forts important?",
+      "answer": "They protected Swaraj."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Who managed the forts?",
+      "answer": "Kiledars managed the forts."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What is a Kiledar?",
+      "answer": "The officer in charge of a fort."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why was fort discipline needed?",
+      "answer": "For safety and order."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji build a navy?",
+      "answer": "To protect the sea coast."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which coast was protected?",
+      "answer": "The western coast."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What was the role of the navy?",
+      "answer": "To protect ports and trade."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Name a sea fort.",
+      "answer": "Sindhudurg."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What value did Shivaji show?",
+      "answer": "Good management."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from this chapter?",
+      "answer": "Importance of planning and defense."
+    }
+  ]
+}

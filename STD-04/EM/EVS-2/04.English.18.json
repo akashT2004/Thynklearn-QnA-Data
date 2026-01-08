@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.18",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "Management of the Welfare State of Swaraj"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What was Swaraj mainly based on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare of people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare of people"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who was responsible for people\u2019s welfare?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What was collected fairly under Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loot",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Taxes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gifts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tribute",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taxes"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who were responsible for justice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Judges",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village officers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village officers"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was given importance in Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How were farmers treated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harshly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "With care",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oppressed",
+          "is_correct": false
+        }
+      ],
+      "answer": "With care"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What helped people live peacefully?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good governance",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taxes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good governance"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who protected people\u2019s rights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The state"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What kind of rule was Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unjust",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why was Swaraj successful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strong army",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare policies",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare policies"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What was Swaraj mainly based on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare of people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare of people"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who was responsible for people\u2019s welfare?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What was collected fairly under Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loot",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Taxes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gifts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tribute",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taxes"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who were responsible for justice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Judges",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village officers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village officers"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What was given importance in Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How were farmers treated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harshly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "With care",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oppressed",
+          "is_correct": false
+        }
+      ],
+      "answer": "With care"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What helped people live peacefully?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good governance",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taxes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good governance"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who protected people\u2019s rights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The state"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What kind of rule was Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unjust",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why was Swaraj successful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strong army",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare policies",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare policies"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What was Swaraj mainly based on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare of people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare of people"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who was responsible for people\u2019s welfare?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What was collected fairly under Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loot",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Taxes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gifts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tribute",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taxes"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who were responsible for justice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Judges",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village officers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village officers"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What was given importance in Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "How were farmers treated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harshly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "With care",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oppressed",
+          "is_correct": false
+        }
+      ],
+      "answer": "With care"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What helped people live peacefully?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good governance",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taxes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good governance"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who protected people\u2019s rights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The state"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What kind of rule was Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unjust",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why was Swaraj successful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strong army",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare policies",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare policies"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What was Swaraj mainly based on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare of people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare of people"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who was responsible for people\u2019s welfare?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What was collected fairly under Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loot",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Taxes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gifts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tribute",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taxes"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who were responsible for justice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Judges",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village officers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village officers"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What was given importance in Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "How were farmers treated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harshly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "With care",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oppressed",
+          "is_correct": false
+        }
+      ],
+      "answer": "With care"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What helped people live peacefully?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good governance",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taxes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good governance"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who protected people\u2019s rights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The state"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What kind of rule was Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unjust",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why was Swaraj successful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strong army",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare policies",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare policies"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What was Swaraj mainly based on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare of people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rule",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wars",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare of people"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who was responsible for people\u2019s welfare?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji Maharaj"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What was collected fairly under Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Loot",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Taxes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Gifts",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tribute",
+          "is_correct": false
+        }
+      ],
+      "answer": "Taxes"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who were responsible for justice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Judges",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village officers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Enemies",
+          "is_correct": false
+        }
+      ],
+      "answer": "Village officers"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What was given importance in Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "How were farmers treated?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harshly",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "With care",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Oppressed",
+          "is_correct": false
+        }
+      ],
+      "answer": "With care"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What helped people live peacefully?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good governance",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Taxes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good governance"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who protected people\u2019s rights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "The state",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Merchants",
+          "is_correct": false
+        }
+      ],
+      "answer": "The state"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What kind of rule was Swaraj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unjust",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why was Swaraj successful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strong army",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Welfare policies",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign help",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "Welfare policies"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What was Swaraj based on?",
+      "answer": "It was based on people\u2019s welfare."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who looked after people\u2019s welfare?",
+      "answer": "Shivaji Maharaj looked after it."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "How were taxes collected?",
+      "answer": "They were collected fairly."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who helped farmers?",
+      "answer": "The Swaraj government."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What kind of justice was given?",
+      "answer": "Quick and fair justice."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why were people happy?",
+      "answer": "Because of good governance."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What was the aim of Swaraj?",
+      "answer": "Welfare of the people."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Did Swaraj protect rights?",
+      "answer": "Yes, it protected people\u2019s rights."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What type of rule was Swaraj?",
+      "answer": "People-oriented rule."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn?",
+      "answer": "Good governance and justice."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What was Swaraj based on?",
+      "answer": "It was based on people\u2019s welfare."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who looked after people\u2019s welfare?",
+      "answer": "Shivaji Maharaj looked after it."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "How were taxes collected?",
+      "answer": "They were collected fairly."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who helped farmers?",
+      "answer": "The Swaraj government."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What kind of justice was given?",
+      "answer": "Quick and fair justice."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why were people happy?",
+      "answer": "Because of good governance."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What was the aim of Swaraj?",
+      "answer": "Welfare of the people."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Did Swaraj protect rights?",
+      "answer": "Yes, it protected people\u2019s rights."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What type of rule was Swaraj?",
+      "answer": "People-oriented rule."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn?",
+      "answer": "Good governance and justice."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What was Swaraj based on?",
+      "answer": "It was based on people\u2019s welfare."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who looked after people\u2019s welfare?",
+      "answer": "Shivaji Maharaj looked after it."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "How were taxes collected?",
+      "answer": "They were collected fairly."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who helped farmers?",
+      "answer": "The Swaraj government."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What kind of justice was given?",
+      "answer": "Quick and fair justice."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why were people happy?",
+      "answer": "Because of good governance."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What was the aim of Swaraj?",
+      "answer": "Welfare of the people."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Did Swaraj protect rights?",
+      "answer": "Yes, it protected people\u2019s rights."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What type of rule was Swaraj?",
+      "answer": "People-oriented rule."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn?",
+      "answer": "Good governance and justice."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What was Swaraj based on?",
+      "answer": "It was based on people\u2019s welfare."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who looked after people\u2019s welfare?",
+      "answer": "Shivaji Maharaj looked after it."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "How were taxes collected?",
+      "answer": "They were collected fairly."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who helped farmers?",
+      "answer": "The Swaraj government."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What kind of justice was given?",
+      "answer": "Quick and fair justice."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why were people happy?",
+      "answer": "Because of good governance."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What was the aim of Swaraj?",
+      "answer": "Welfare of the people."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Did Swaraj protect rights?",
+      "answer": "Yes, it protected people\u2019s rights."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What type of rule was Swaraj?",
+      "answer": "People-oriented rule."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn?",
+      "answer": "Good governance and justice."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What was Swaraj based on?",
+      "answer": "It was based on people\u2019s welfare."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Who looked after people\u2019s welfare?",
+      "answer": "Shivaji Maharaj looked after it."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "How were taxes collected?",
+      "answer": "They were collected fairly."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who helped farmers?",
+      "answer": "The Swaraj government."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What kind of justice was given?",
+      "answer": "Quick and fair justice."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why were people happy?",
+      "answer": "Because of good governance."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What was the aim of Swaraj?",
+      "answer": "Welfare of the people."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Did Swaraj protect rights?",
+      "answer": "Yes, it protected people\u2019s rights."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What type of rule was Swaraj?",
+      "answer": "People-oriented rule."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn?",
+      "answer": "Good governance and justice."
+    }
+  ]
+}

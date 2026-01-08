@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.17",
+    "standard": "4",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "My Upbringing"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What do we call the process of learning while growing up?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Education",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teaching",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Training",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who plays an important role in our upbringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parents and relatives",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teachers only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents and relatives"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "From whom do we first learn good habits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neighbours",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Strangers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What helps in shaping our habits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do children learn by watching elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Languages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jobs",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sports",
+          "is_correct": false
+        }
+      ],
+      "answer": "Habits"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which habit is learnt at home?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Riding a bus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading maps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Using computer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brushing teeth"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who helps us learn how to behave with others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What do friends influence?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Food only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Our behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Our behaviour"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What do neighbours teach us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Languages",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sports",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Driving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What do we learn through observation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Names",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Places",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Numbers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Habits"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who teaches children to walk and talk?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What do we learn to become through upbringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Famous",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strong",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good people"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who influenced Baba Amte?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Family",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Neighbours",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Family"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What quality did Baba Amte show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Social service",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sportsmanship",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Social service"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "From whom do we learn social behaviour?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parents and society",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Books only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents and society"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who helps us learn self-reliance?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neighbours",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Strangers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Toys",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neighbours"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What do children learn at home first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Geography",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Maths",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What influences our likes and dislikes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Place",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What do we learn from neighbours of different places?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Driving",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who teaches us by example?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elders",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Elders"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What do we call the process of learning while growing up?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Education",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teaching",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Training",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who plays an important role in our upbringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parents and relatives",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teachers only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents and relatives"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "From whom do we first learn good habits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neighbours",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Strangers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What helps in shaping our habits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What do children learn by watching elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Languages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jobs",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sports",
+          "is_correct": false
+        }
+      ],
+      "answer": "Habits"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which habit is learnt at home?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Riding a bus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading maps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Using computer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brushing teeth"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who helps us learn how to behave with others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What do friends influence?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Food only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Our behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Our behaviour"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What do neighbours teach us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Languages",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sports",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Driving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What do we learn through observation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Names",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Places",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Numbers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Habits"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who teaches children to walk and talk?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What do we learn to become through upbringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rich",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Good people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Famous",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strong",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good people"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who influenced Baba Amte?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Family",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Neighbours",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Family"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What quality did Baba Amte show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Social service",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sportsmanship",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Social service"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "From whom do we learn social behaviour?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parents and society",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Books only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents and society"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who helps us learn self-reliance?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Neighbours",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Strangers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Toys",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neighbours"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What do children learn at home first?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Geography",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Maths",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What influences our likes and dislikes?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Place",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What do we learn from neighbours of different places?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Farming",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Driving",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who teaches us by example?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Elders",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Elders"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What do we call the process of learning while growing up?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Education",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teaching",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Training",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who plays an important role in our upbringing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parents and relatives",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Teachers only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Neighbours only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents and relatives"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "From whom do we first learn good habits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neighbours",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Strangers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What helps in shaping our habits?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Upbringing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Upbringing"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What do children learn by watching elders?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Languages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jobs",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sports",
+          "is_correct": false
+        }
+      ],
+      "answer": "Habits"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which habit is learnt at home?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Riding a bus",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading maps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Using computer",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brushing teeth"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who helps us learn how to behave with others?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shops",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Parents"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What do friends influence?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Food only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Our behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Our behaviour"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What do neighbours teach us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Languages",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sports",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Driving",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What do we learn through observation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Names",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Places",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Numbers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Habits"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is upbringing?",
+      "answer": "Upbringing is the process of learning while growing up."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who plays an important role in upbringing?",
+      "answer": "Parents and close relatives play an important role."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What do we learn from our parents?",
+      "answer": "We learn good habits and behaviour."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What do friends influence?",
+      "answer": "Friends influence our habits and behaviour."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What do neighbours teach us?",
+      "answer": "Neighbours teach us about diversity and self-reliance."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How do we learn many things unconsciously?",
+      "answer": "We learn through observation and exposure."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What habits do children learn at home?",
+      "answer": "Cleanliness, discipline and good manners."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What shapes our likes and dislikes?",
+      "answer": "Our upbringing shapes our likes and dislikes."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What did Baba Amte do?",
+      "answer": "He devoted his life to social service."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "From whom do we learn social behaviour?",
+      "answer": "We learn social behaviour from family and society."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is self-reliance?",
+      "answer": "Doing our own work independently."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What do children learn by copying elders?",
+      "answer": "Good habits and behaviour."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why are neighbours important?",
+      "answer": "They influence our habits and thinking."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What do we learn from friends?",
+      "answer": "Sharing, cooperation and habits."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is learned through conscious effort?",
+      "answer": "Good habits and values."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What do we learn by exposure?",
+      "answer": "We learn behaviour and habits."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Who teaches us to be good people?",
+      "answer": "Parents and elders."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What helps us understand diversity?",
+      "answer": "Living with different people."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why is upbringing important?",
+      "answer": "It helps us become good human beings."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do children learn while growing up?",
+      "answer": "Habits, skills and behaviour."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is upbringing?",
+      "answer": "Upbringing is the process of learning while growing up."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who plays an important role in upbringing?",
+      "answer": "Parents and close relatives play an important role."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What do we learn from our parents?",
+      "answer": "We learn good habits and behaviour."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What do friends influence?",
+      "answer": "Friends influence our habits and behaviour."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What do neighbours teach us?",
+      "answer": "Neighbours teach us about diversity and self-reliance."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How do we learn many things unconsciously?",
+      "answer": "We learn through observation and exposure."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What habits do children learn at home?",
+      "answer": "Cleanliness, discipline and good manners."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What shapes our likes and dislikes?",
+      "answer": "Our upbringing shapes our likes and dislikes."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What did Baba Amte do?",
+      "answer": "He devoted his life to social service."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "From whom do we learn social behaviour?",
+      "answer": "We learn social behaviour from family and society."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is self-reliance?",
+      "answer": "Doing our own work independently."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What do children learn by copying elders?",
+      "answer": "Good habits and behaviour."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why are neighbours important?",
+      "answer": "They influence our habits and thinking."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What do we learn from friends?",
+      "answer": "Sharing, cooperation and habits."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is learned through conscious effort?",
+      "answer": "Good habits and values."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What do we learn by exposure?",
+      "answer": "We learn behaviour and habits."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Who teaches us to be good people?",
+      "answer": "Parents and elders."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What helps us understand diversity?",
+      "answer": "Living with different people."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why is upbringing important?",
+      "answer": "It helps us become good human beings."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do children learn while growing up?",
+      "answer": "Habits, skills and behaviour."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is upbringing?",
+      "answer": "Upbringing is the process of learning while growing up."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Who plays an important role in upbringing?",
+      "answer": "Parents and close relatives play an important role."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What do we learn from our parents?",
+      "answer": "We learn good habits and behaviour."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What do friends influence?",
+      "answer": "Friends influence our habits and behaviour."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What do neighbours teach us?",
+      "answer": "Neighbours teach us about diversity and self-reliance."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How do we learn many things unconsciously?",
+      "answer": "We learn through observation and exposure."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What habits do children learn at home?",
+      "answer": "Cleanliness, discipline and good manners."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What shapes our likes and dislikes?",
+      "answer": "Our upbringing shapes our likes and dislikes."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What did Baba Amte do?",
+      "answer": "He devoted his life to social service."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "From whom do we learn social behaviour?",
+      "answer": "We learn social behaviour from family and society."
+    }
+  ]
+}

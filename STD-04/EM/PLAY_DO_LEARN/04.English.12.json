@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.12",
+    "standard": "4",
+    "subject": "PlayDoLearn",
+    "medium": "English",
+    "chapter_name": "Sculpture"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Three-dimensional art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A song",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A dance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three-dimensional art"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Sculptures are made using ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clay or stone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "paper only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "clay or stone"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which sense helps us see sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eyes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ears",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tongue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Sculpture is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "food",
+          "is_correct": false
+        }
+      ],
+      "answer": "art"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which material can be used for sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clay",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Light",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Sculptures have ____ shape.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3D",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "2D",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "3D"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who makes sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sculptor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Player",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sculptor"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Sculptures can be found in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "museums",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "kitchens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "bathrooms",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cars",
+          "is_correct": false
+        }
+      ],
+      "answer": "museums"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Sculpture helps to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "creativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "creativity"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Sculptures can show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ideas and forms",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "only words",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sounds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "smells",
+          "is_correct": false
+        }
+      ],
+      "answer": "ideas and forms"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is a sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Three-dimensional art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A song",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A dance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three-dimensional art"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Sculptures are made using ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clay or stone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "paper only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "clay or stone"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which sense helps us see sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eyes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ears",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tongue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Sculpture is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "food",
+          "is_correct": false
+        }
+      ],
+      "answer": "art"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which material can be used for sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clay",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Light",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Sculptures have ____ shape.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3D",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "2D",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "3D"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who makes sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sculptor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Player",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sculptor"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Sculptures can be found in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "museums",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "kitchens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "bathrooms",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cars",
+          "is_correct": false
+        }
+      ],
+      "answer": "museums"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Sculpture helps to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "creativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "creativity"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Sculptures can show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ideas and forms",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "only words",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sounds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "smells",
+          "is_correct": false
+        }
+      ],
+      "answer": "ideas and forms"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is a sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Three-dimensional art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A song",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A dance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three-dimensional art"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Sculptures are made using ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clay or stone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "paper only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "clay or stone"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which sense helps us see sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eyes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ears",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tongue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Sculpture is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "food",
+          "is_correct": false
+        }
+      ],
+      "answer": "art"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which material can be used for sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clay",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Light",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Sculptures have ____ shape.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3D",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "2D",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "3D"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who makes sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sculptor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Player",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sculptor"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Sculptures can be found in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "museums",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "kitchens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "bathrooms",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cars",
+          "is_correct": false
+        }
+      ],
+      "answer": "museums"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Sculpture helps to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "creativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "creativity"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Sculptures can show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ideas and forms",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "only words",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sounds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "smells",
+          "is_correct": false
+        }
+      ],
+      "answer": "ideas and forms"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is a sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Three-dimensional art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A song",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A dance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three-dimensional art"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Sculptures are made using ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clay or stone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "paper only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "clay or stone"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which sense helps us see sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eyes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ears",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tongue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Sculpture is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "food",
+          "is_correct": false
+        }
+      ],
+      "answer": "art"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which material can be used for sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clay",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Light",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Sculptures have ____ shape.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3D",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "2D",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "3D"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who makes sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sculptor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Player",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sculptor"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Sculptures can be found in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "museums",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "kitchens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "bathrooms",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cars",
+          "is_correct": false
+        }
+      ],
+      "answer": "museums"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Sculpture helps to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "creativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "creativity"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Sculptures can show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ideas and forms",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "only words",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sounds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "smells",
+          "is_correct": false
+        }
+      ],
+      "answer": "ideas and forms"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is a sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Three-dimensional art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "A song",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A dance",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three-dimensional art"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Sculptures are made using ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "clay or stone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "paper only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "water",
+          "is_correct": false
+        }
+      ],
+      "answer": "clay or stone"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which sense helps us see sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Eyes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ears",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Nose",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tongue",
+          "is_correct": false
+        }
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Sculpture is a form of ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "art",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "game",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "exercise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "food",
+          "is_correct": false
+        }
+      ],
+      "answer": "art"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which material can be used for sculpture?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Clay",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Air",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sound",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Light",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Sculptures have ____ shape.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3D",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "2D",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "no",
+          "is_correct": false
+        }
+      ],
+      "answer": "3D"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who makes sculptures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sculptor",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Dancer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Player",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sculptor"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Sculptures can be found in ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "museums",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "kitchens",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "bathrooms",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "cars",
+          "is_correct": false
+        }
+      ],
+      "answer": "museums"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Sculpture helps to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "creativity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "laziness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "creativity"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Sculptures can show ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ideas and forms",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "only words",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sounds",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "smells",
+          "is_correct": false
+        }
+      ],
+      "answer": "ideas and forms"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a sculpture?",
+      "answer": "A sculpture is a three-dimensional art form."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Name one material used for sculpture.",
+      "answer": "Clay."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who makes sculptures?",
+      "answer": "A sculptor."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Where can we see sculptures?",
+      "answer": "In museums."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us see sculptures?",
+      "answer": "Eyes."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What shape do sculptures have?",
+      "answer": "Three-dimensional shape."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Is sculpture an art form?",
+      "answer": "Yes, it is an art form."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does sculpture develop?",
+      "answer": "Creativity."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Can sculptures show ideas?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is sculpture important?",
+      "answer": "It develops creativity and skill."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a sculpture?",
+      "answer": "A sculpture is a three-dimensional art form."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Name one material used for sculpture.",
+      "answer": "Clay."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who makes sculptures?",
+      "answer": "A sculptor."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Where can we see sculptures?",
+      "answer": "In museums."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us see sculptures?",
+      "answer": "Eyes."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What shape do sculptures have?",
+      "answer": "Three-dimensional shape."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Is sculpture an art form?",
+      "answer": "Yes, it is an art form."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does sculpture develop?",
+      "answer": "Creativity."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Can sculptures show ideas?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is sculpture important?",
+      "answer": "It develops creativity and skill."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is a sculpture?",
+      "answer": "A sculpture is a three-dimensional art form."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Name one material used for sculpture.",
+      "answer": "Clay."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who makes sculptures?",
+      "answer": "A sculptor."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Where can we see sculptures?",
+      "answer": "In museums."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us see sculptures?",
+      "answer": "Eyes."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What shape do sculptures have?",
+      "answer": "Three-dimensional shape."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Is sculpture an art form?",
+      "answer": "Yes, it is an art form."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does sculpture develop?",
+      "answer": "Creativity."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Can sculptures show ideas?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is sculpture important?",
+      "answer": "It develops creativity and skill."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is a sculpture?",
+      "answer": "A sculpture is a three-dimensional art form."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Name one material used for sculpture.",
+      "answer": "Clay."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who makes sculptures?",
+      "answer": "A sculptor."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Where can we see sculptures?",
+      "answer": "In museums."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us see sculptures?",
+      "answer": "Eyes."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What shape do sculptures have?",
+      "answer": "Three-dimensional shape."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Is sculpture an art form?",
+      "answer": "Yes, it is an art form."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does sculpture develop?",
+      "answer": "Creativity."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Can sculptures show ideas?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is sculpture important?",
+      "answer": "It develops creativity and skill."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is a sculpture?",
+      "answer": "A sculpture is a three-dimensional art form."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Name one material used for sculpture.",
+      "answer": "Clay."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Who makes sculptures?",
+      "answer": "A sculptor."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Where can we see sculptures?",
+      "answer": "In museums."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which sense organ helps us see sculptures?",
+      "answer": "Eyes."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What shape do sculptures have?",
+      "answer": "Three-dimensional shape."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Is sculpture an art form?",
+      "answer": "Yes, it is an art form."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does sculpture develop?",
+      "answer": "Creativity."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Can sculptures show ideas?",
+      "answer": "Yes."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is sculpture important?",
+      "answer": "It develops creativity and skill."
+    }
+  ]
+}

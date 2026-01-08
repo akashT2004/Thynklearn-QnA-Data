@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.30",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "खुर्ची आणि स्टूल"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘खुर्ची आणि स्टूल’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विंदा करंदीकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभा मुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शंकर विटणकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बबन शिंदे",
+          "is_correct": false
+        }
+      ],
+      "answer": "विंदा करंदीकर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवितेत खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानता"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "खुर्ची आणि स्टूलमध्ये मुख्य फरक काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आवाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "उंची"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व समान आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग ठेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व समान आहेत"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भावना दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समतेची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "समतेची"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिहिण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उडण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोहण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानतेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानतेचे महत्त्व"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘खुर्ची आणि स्टूल’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विंदा करंदीकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभा मुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शंकर विटणकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बबन शिंदे",
+          "is_correct": false
+        }
+      ],
+      "answer": "विंदा करंदीकर"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेत खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "खुर्ची आणि स्टूलमध्ये मुख्य फरक काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आवाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "उंची"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व समान आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग ठेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व समान आहेत"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भावना दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समतेची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "समतेची"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिहिण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उडण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोहण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानतेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानतेचे महत्त्व"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘खुर्ची आणि स्टूल’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विंदा करंदीकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभा मुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शंकर विटणकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बबन शिंदे",
+          "is_correct": false
+        }
+      ],
+      "answer": "विंदा करंदीकर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवितेत खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानता"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "खुर्ची आणि स्टूलमध्ये मुख्य फरक काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आवाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "उंची"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व समान आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग ठेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व समान आहेत"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भावना दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समतेची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "समतेची"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिहिण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उडण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोहण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानतेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानतेचे महत्त्व"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘खुर्ची आणि स्टूल’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विंदा करंदीकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभा मुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शंकर विटणकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बबन शिंदे",
+          "is_correct": false
+        }
+      ],
+      "answer": "विंदा करंदीकर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "कवितेत खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानता"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "खुर्ची आणि स्टूलमध्ये मुख्य फरक काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आवाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "उंची"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व समान आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग ठेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व समान आहेत"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भावना दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समतेची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "समतेची"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिहिण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उडण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोहण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानतेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानतेचे महत्त्व"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘खुर्ची आणि स्टूल’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विंदा करंदीकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभा मुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शंकर विटणकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बबन शिंदे",
+          "is_correct": false
+        }
+      ],
+      "answer": "विंदा करंदीकर"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "कवितेत खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानता"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "खुर्ची आणि स्टूलमध्ये मुख्य फरक काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आवाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "उंची"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कवितेचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व समान आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग ठेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व समान आहेत"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भावना दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समतेची",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रागाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःखाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "समतेची"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लिहिण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उडण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोहण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बसण्यासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "समता"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समानतेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "समानतेचे महत्त्व"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘खुर्ची आणि स्टूल’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता समतेबद्दल आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "answer": "विंदा करंदीकर."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "answer": "समानतेचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "answer": "सर्व समान आहेत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना आहे?",
+      "answer": "समतेची भावना."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकतो?",
+      "answer": "समतेचे महत्त्व."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आणि अर्थपूर्ण."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आपण या कवितेतून काय शिकावे?",
+      "answer": "सर्वांना समान वागणूक द्यावी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘खुर्ची आणि स्टूल’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता समतेबद्दल आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "answer": "विंदा करंदीकर."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "answer": "समानतेचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "answer": "सर्व समान आहेत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना आहे?",
+      "answer": "समतेची भावना."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकतो?",
+      "answer": "समतेचे महत्त्व."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आणि अर्थपूर्ण."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आपण या कवितेतून काय शिकावे?",
+      "answer": "सर्वांना समान वागणूक द्यावी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘खुर्ची आणि स्टूल’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता समतेबद्दल आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "answer": "विंदा करंदीकर."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "answer": "समानतेचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "answer": "सर्व समान आहेत."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना आहे?",
+      "answer": "समतेची भावना."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकतो?",
+      "answer": "समतेचे महत्त्व."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आणि अर्थपूर्ण."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "आपण या कवितेतून काय शिकावे?",
+      "answer": "सर्वांना समान वागणूक द्यावी."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘खुर्ची आणि स्टूल’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता समतेबद्दल आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "answer": "विंदा करंदीकर."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "answer": "समानतेचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "answer": "सर्व समान आहेत."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना आहे?",
+      "answer": "समतेची भावना."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकतो?",
+      "answer": "समतेचे महत्त्व."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आणि अर्थपूर्ण."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आपण या कवितेतून काय शिकावे?",
+      "answer": "सर्वांना समान वागणूक द्यावी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘खुर्ची आणि स्टूल’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता समतेबद्दल आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "या कवितेचे कवी कोण आहेत?",
+      "answer": "विंदा करंदीकर."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "खुर्ची आणि स्टूल कशाचे प्रतीक आहेत?",
+      "answer": "समानतेचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "answer": "सर्व समान आहेत."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना आहे?",
+      "answer": "समतेची भावना."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "खुर्ची कशासाठी वापरली जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "स्टूल कशासाठी वापरले जाते?",
+      "answer": "बसण्यासाठी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकतो?",
+      "answer": "समतेचे महत्त्व."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आणि अर्थपूर्ण."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "आपण या कवितेतून काय शिकावे?",
+      "answer": "सर्वांना समान वागणूक द्यावी."
+    }
+  ]
+}

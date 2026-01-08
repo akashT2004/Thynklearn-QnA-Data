@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.28",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The Elf Singing"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is the main character in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A fairy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An elf",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "An elf"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the elf doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dancing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Singing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where does the elf sing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "River",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Forest"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What does the song express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What time of day is described?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Afternoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Evening",
+          "is_correct": true
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "The poem shows love for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What feeling does the poem create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boredom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "The elf represents ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joyful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Serious",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joyful"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enjoy nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear elves",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be sad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Enjoy nature"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is the main character in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A fairy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An elf",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "An elf"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the elf doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dancing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Singing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where does the elf sing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "River",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Forest"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What does the song express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What time of day is described?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Afternoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Evening",
+          "is_correct": true
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "The poem shows love for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What feeling does the poem create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boredom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "The elf represents ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joyful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Serious",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joyful"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enjoy nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear elves",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be sad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Enjoy nature"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is the main character in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A fairy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An elf",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "An elf"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the elf doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dancing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Singing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Where does the elf sing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "River",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Forest"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What does the song express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What time of day is described?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Afternoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Evening",
+          "is_correct": true
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "The poem shows love for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What feeling does the poem create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boredom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "The elf represents ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joyful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Serious",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joyful"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enjoy nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear elves",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be sad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Enjoy nature"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is the main character in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A fairy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An elf",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "An elf"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the elf doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dancing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Singing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Where does the elf sing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "River",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Forest"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What does the song express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What time of day is described?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Afternoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Evening",
+          "is_correct": true
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "The poem shows love for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What feeling does the poem create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boredom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "The elf represents ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joyful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Serious",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joyful"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enjoy nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear elves",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be sad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Enjoy nature"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is the main character in the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A fairy",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "An elf",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A bird",
+          "is_correct": false
+        }
+      ],
+      "answer": "An elf"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the elf doing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dancing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Singing",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Running",
+          "is_correct": false
+        }
+      ],
+      "answer": "Singing"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Where does the elf sing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Palace",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Forest",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "River",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain",
+          "is_correct": false
+        }
+      ],
+      "answer": "Forest"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What does the song express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sadness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What time of day is described?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Afternoon",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Evening",
+          "is_correct": true
+        }
+      ],
+      "answer": "Evening"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "The poem shows love for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Music",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Money",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What feeling does the poem create?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Happiness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Boredom",
+          "is_correct": false
+        }
+      ],
+      "answer": "Happiness"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "The elf represents ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joy"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What is the tone of the poem?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Joyful",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Serious",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Joyful"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The poem teaches us to ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enjoy nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ignore music",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear elves",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Be sad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Enjoy nature"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is the elf?",
+      "answer": "The elf is a magical character."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the elf doing?",
+      "answer": "The elf is singing."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where does the elf sing?",
+      "answer": "In the forest."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does the song show?",
+      "answer": "Joy and happiness."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "Nature and music."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "It gives happiness."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does the elf symbolize?",
+      "answer": "Joy."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Is the poem joyful?",
+      "answer": "Yes, it is joyful."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To enjoy nature."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the poem?",
+      "answer": "Nature and music bring happiness."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who is the elf?",
+      "answer": "The elf is a magical character."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is the elf doing?",
+      "answer": "The elf is singing."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Where does the elf sing?",
+      "answer": "In the forest."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does the song show?",
+      "answer": "Joy and happiness."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "Nature and music."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "It gives happiness."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does the elf symbolize?",
+      "answer": "Joy."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Is the poem joyful?",
+      "answer": "Yes, it is joyful."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To enjoy nature."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the poem?",
+      "answer": "Nature and music bring happiness."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who is the elf?",
+      "answer": "The elf is a magical character."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the elf doing?",
+      "answer": "The elf is singing."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Where does the elf sing?",
+      "answer": "In the forest."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What does the song show?",
+      "answer": "Joy and happiness."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "Nature and music."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "It gives happiness."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What does the elf symbolize?",
+      "answer": "Joy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Is the poem joyful?",
+      "answer": "Yes, it is joyful."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To enjoy nature."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the poem?",
+      "answer": "Nature and music bring happiness."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who is the elf?",
+      "answer": "The elf is a magical character."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is the elf doing?",
+      "answer": "The elf is singing."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Where does the elf sing?",
+      "answer": "In the forest."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What does the song show?",
+      "answer": "Joy and happiness."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "Nature and music."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "It gives happiness."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does the elf symbolize?",
+      "answer": "Joy."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Is the poem joyful?",
+      "answer": "Yes, it is joyful."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To enjoy nature."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the poem?",
+      "answer": "Nature and music bring happiness."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who is the elf?",
+      "answer": "The elf is a magical character."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the elf doing?",
+      "answer": "The elf is singing."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Where does the elf sing?",
+      "answer": "In the forest."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What does the song show?",
+      "answer": "Joy and happiness."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is the poem about?",
+      "answer": "Nature and music."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What feeling does the poem give?",
+      "answer": "It gives happiness."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does the elf symbolize?",
+      "answer": "Joy."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Is the poem joyful?",
+      "answer": "Yes, it is joyful."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What do we learn from the poem?",
+      "answer": "To enjoy nature."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the poem?",
+      "answer": "Nature and music bring happiness."
+    }
+  ]
+}

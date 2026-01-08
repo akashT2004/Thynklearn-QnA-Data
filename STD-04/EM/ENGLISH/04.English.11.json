@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.11",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "In the World of Dictionaries"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A book of words and meanings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A poem book",
+          "is_correct": false
+        }
+      ],
+      "answer": "A book of words and meanings"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "How are words arranged in a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By size",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alphabetical order",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By meaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Randomly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alphabetical order"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What does a dictionary tell us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only meanings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spelling and meaning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pictures only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling and meaning"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which information is given by a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pronunciation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grammar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Usage",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which dictionary is useful for children?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children\u2019s dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Law",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Technical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children\u2019s dictionary"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What shows how a word is pronounced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Symbols",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Symbols"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which dictionary shows pictures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Synonym dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pronouncing dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "General dictionary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Visual dictionary"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Online dictionaries are ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard to use",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Easy to use",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Old",
+          "is_correct": false
+        }
+      ],
+      "answer": "Easy to use"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which dictionary gives synonyms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pronouncing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Synonym dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Children\u2019s",
+          "is_correct": false
+        }
+      ],
+      "answer": "Synonym dictionary"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "A dictionary is useful for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A book of words and meanings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A poem book",
+          "is_correct": false
+        }
+      ],
+      "answer": "A book of words and meanings"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "How are words arranged in a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By size",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alphabetical order",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By meaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Randomly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alphabetical order"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What does a dictionary tell us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only meanings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spelling and meaning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pictures only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling and meaning"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which information is given by a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pronunciation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grammar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Usage",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which dictionary is useful for children?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children\u2019s dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Law",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Technical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children\u2019s dictionary"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What shows how a word is pronounced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Symbols",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Symbols"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which dictionary shows pictures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Synonym dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pronouncing dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "General dictionary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Visual dictionary"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Online dictionaries are ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard to use",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Easy to use",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Old",
+          "is_correct": false
+        }
+      ],
+      "answer": "Easy to use"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Which dictionary gives synonyms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pronouncing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Synonym dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Children\u2019s",
+          "is_correct": false
+        }
+      ],
+      "answer": "Synonym dictionary"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "A dictionary is useful for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A book of words and meanings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A poem book",
+          "is_correct": false
+        }
+      ],
+      "answer": "A book of words and meanings"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "How are words arranged in a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By size",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alphabetical order",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By meaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Randomly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alphabetical order"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What does a dictionary tell us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only meanings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spelling and meaning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pictures only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling and meaning"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which information is given by a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pronunciation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grammar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Usage",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which dictionary is useful for children?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children\u2019s dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Law",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Technical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children\u2019s dictionary"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What shows how a word is pronounced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Symbols",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Symbols"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which dictionary shows pictures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Synonym dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pronouncing dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "General dictionary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Visual dictionary"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Online dictionaries are ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard to use",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Easy to use",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Old",
+          "is_correct": false
+        }
+      ],
+      "answer": "Easy to use"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which dictionary gives synonyms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pronouncing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Synonym dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Children\u2019s",
+          "is_correct": false
+        }
+      ],
+      "answer": "Synonym dictionary"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "A dictionary is useful for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A book of words and meanings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A poem book",
+          "is_correct": false
+        }
+      ],
+      "answer": "A book of words and meanings"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "How are words arranged in a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By size",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alphabetical order",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By meaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Randomly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alphabetical order"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What does a dictionary tell us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only meanings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spelling and meaning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pictures only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling and meaning"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which information is given by a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pronunciation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grammar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Usage",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which dictionary is useful for children?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children\u2019s dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Law",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Technical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children\u2019s dictionary"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What shows how a word is pronounced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Symbols",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Symbols"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which dictionary shows pictures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Synonym dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pronouncing dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "General dictionary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Visual dictionary"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Online dictionaries are ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard to use",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Easy to use",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Old",
+          "is_correct": false
+        }
+      ],
+      "answer": "Easy to use"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Which dictionary gives synonyms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pronouncing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Synonym dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Children\u2019s",
+          "is_correct": false
+        }
+      ],
+      "answer": "Synonym dictionary"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "A dictionary is useful for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A book of words and meanings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A notebook",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A poem book",
+          "is_correct": false
+        }
+      ],
+      "answer": "A book of words and meanings"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "How are words arranged in a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "By size",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Alphabetical order",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "By meaning",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Randomly",
+          "is_correct": false
+        }
+      ],
+      "answer": "Alphabetical order"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What does a dictionary tell us?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only meanings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Spelling and meaning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pictures only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Spelling and meaning"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which information is given by a dictionary?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pronunciation",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Grammar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Usage",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which dictionary is useful for children?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Medical",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children\u2019s dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Law",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Technical",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children\u2019s dictionary"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What shows how a word is pronounced?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Picture",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Symbols",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sentence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Story",
+          "is_correct": false
+        }
+      ],
+      "answer": "Symbols"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which dictionary shows pictures?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Synonym dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pronouncing dictionary",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "General dictionary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Visual dictionary"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Online dictionaries are ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hard to use",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Easy to use",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Old",
+          "is_correct": false
+        }
+      ],
+      "answer": "Easy to use"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which dictionary gives synonyms?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Visual",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Pronouncing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Synonym dictionary",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Children\u2019s",
+          "is_correct": false
+        }
+      ],
+      "answer": "Synonym dictionary"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "A dictionary is useful for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Students",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Only writers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is a dictionary?",
+      "answer": "A dictionary is a book of words and their meanings."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "How are words arranged in a dictionary?",
+      "answer": "They are arranged in alphabetical order."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What does a dictionary tell us about a word?",
+      "answer": "Meaning, spelling and pronunciation."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Name one type of dictionary.",
+      "answer": "Children\u2019s dictionary."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is a visual dictionary?",
+      "answer": "A dictionary that explains words using pictures."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does a pronouncing dictionary show?",
+      "answer": "It shows pronunciation of words."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Who uses dictionaries?",
+      "answer": "Students, teachers and everyone."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Why are online dictionaries useful?",
+      "answer": "They are easy and quick to use."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What are synonyms?",
+      "answer": "Words with similar meanings."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is a dictionary important?",
+      "answer": "It helps us understand new words."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is a dictionary?",
+      "answer": "A dictionary is a book of words and their meanings."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "How are words arranged in a dictionary?",
+      "answer": "They are arranged in alphabetical order."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What does a dictionary tell us about a word?",
+      "answer": "Meaning, spelling and pronunciation."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Name one type of dictionary.",
+      "answer": "Children\u2019s dictionary."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What is a visual dictionary?",
+      "answer": "A dictionary that explains words using pictures."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does a pronouncing dictionary show?",
+      "answer": "It shows pronunciation of words."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Who uses dictionaries?",
+      "answer": "Students, teachers and everyone."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Why are online dictionaries useful?",
+      "answer": "They are easy and quick to use."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What are synonyms?",
+      "answer": "Words with similar meanings."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is a dictionary important?",
+      "answer": "It helps us understand new words."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is a dictionary?",
+      "answer": "A dictionary is a book of words and their meanings."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "How are words arranged in a dictionary?",
+      "answer": "They are arranged in alphabetical order."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What does a dictionary tell us about a word?",
+      "answer": "Meaning, spelling and pronunciation."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Name one type of dictionary.",
+      "answer": "Children\u2019s dictionary."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is a visual dictionary?",
+      "answer": "A dictionary that explains words using pictures."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does a pronouncing dictionary show?",
+      "answer": "It shows pronunciation of words."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Who uses dictionaries?",
+      "answer": "Students, teachers and everyone."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Why are online dictionaries useful?",
+      "answer": "They are easy and quick to use."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What are synonyms?",
+      "answer": "Words with similar meanings."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is a dictionary important?",
+      "answer": "It helps us understand new words."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is a dictionary?",
+      "answer": "A dictionary is a book of words and their meanings."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "How are words arranged in a dictionary?",
+      "answer": "They are arranged in alphabetical order."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What does a dictionary tell us about a word?",
+      "answer": "Meaning, spelling and pronunciation."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Name one type of dictionary.",
+      "answer": "Children\u2019s dictionary."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What is a visual dictionary?",
+      "answer": "A dictionary that explains words using pictures."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What does a pronouncing dictionary show?",
+      "answer": "It shows pronunciation of words."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Who uses dictionaries?",
+      "answer": "Students, teachers and everyone."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Why are online dictionaries useful?",
+      "answer": "They are easy and quick to use."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What are synonyms?",
+      "answer": "Words with similar meanings."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is a dictionary important?",
+      "answer": "It helps us understand new words."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is a dictionary?",
+      "answer": "A dictionary is a book of words and their meanings."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "How are words arranged in a dictionary?",
+      "answer": "They are arranged in alphabetical order."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What does a dictionary tell us about a word?",
+      "answer": "Meaning, spelling and pronunciation."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Name one type of dictionary.",
+      "answer": "Children\u2019s dictionary."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is a visual dictionary?",
+      "answer": "A dictionary that explains words using pictures."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does a pronouncing dictionary show?",
+      "answer": "It shows pronunciation of words."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Who uses dictionaries?",
+      "answer": "Students, teachers and everyone."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Why are online dictionaries useful?",
+      "answer": "They are easy and quick to use."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What are synonyms?",
+      "answer": "Words with similar meanings."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is a dictionary important?",
+      "answer": "It helps us understand new words."
+    }
+  ]
+}

@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.16",
+    "standard": "4",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Day and Night"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "From where does the earth get light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Planets",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the shape of the earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Like a ball",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Triangle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Like a ball"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why do we have day and night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth moves around sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth spins on its axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Moon blocks sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clouds cover sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth spins on its axis"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What is the spinning of the earth called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Circulation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rotation"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which part of the earth has day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facing the sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Away from sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Southern half",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Northern half",
+          "is_correct": false
+        }
+      ],
+      "answer": "Facing the sun"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which part of the earth has night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facing the sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Away from sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Eastern side",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Western side",
+          "is_correct": false
+        }
+      ],
+      "answer": "Away from sun"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What do we call the sun appearing in the morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunset",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sunrise",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dawn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sunrise"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What do we call the sun disappearing in the evening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunrise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sunset",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nightfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dusk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sunset"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "How many hours are there in a day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "answer": "24"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Which month has longer days in our region?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "November",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "December",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "May",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "January",
+          "is_correct": false
+        }
+      ],
+      "answer": "May"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which month has shorter days?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "May",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "June",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "November",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "April",
+          "is_correct": false
+        }
+      ],
+      "answer": "November"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "On which date are day and night equal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 December",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "21 March",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1 January",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 March"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "On which date is the longest day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "21 June",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "22 December",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 June"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "On which date is the longest night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 December",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "22 September",
+          "is_correct": false
+        }
+      ],
+      "answer": "22 December"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "In summer, the days are _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shorter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Longer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dark",
+          "is_correct": false
+        }
+      ],
+      "answer": "Longer"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "In winter, the nights are _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shorter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Longer",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bright",
+          "is_correct": false
+        }
+      ],
+      "answer": "Longer"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which season has longer nights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rainy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Winter"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What happens to days after June 21?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They become longer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They remain same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They become shorter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They disappear",
+          "is_correct": false
+        }
+      ],
+      "answer": "They become shorter"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What happens to nights after December 22?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They become longer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They remain same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They become shorter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They disappear",
+          "is_correct": false
+        }
+      ],
+      "answer": "They become shorter"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "How many hours of day and night occur on 21 March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "10 and 14",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "14 and 10",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "12 and 12",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "8 and 16",
+          "is_correct": false
+        }
+      ],
+      "answer": "12 and 12"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "From where does the earth get light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Planets",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the shape of the earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Like a ball",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Triangle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Like a ball"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why do we have day and night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth moves around sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth spins on its axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Moon blocks sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clouds cover sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth spins on its axis"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What is the spinning of the earth called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Circulation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rotation"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which part of the earth has day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facing the sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Away from sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Southern half",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Northern half",
+          "is_correct": false
+        }
+      ],
+      "answer": "Facing the sun"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which part of the earth has night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facing the sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Away from sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Eastern side",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Western side",
+          "is_correct": false
+        }
+      ],
+      "answer": "Away from sun"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What do we call the sun appearing in the morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunset",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sunrise",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dawn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sunrise"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What do we call the sun disappearing in the evening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunrise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sunset",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nightfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dusk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sunset"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "How many hours are there in a day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "answer": "24"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Which month has longer days in our region?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "November",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "December",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "May",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "January",
+          "is_correct": false
+        }
+      ],
+      "answer": "May"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which month has shorter days?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "May",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "June",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "November",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "April",
+          "is_correct": false
+        }
+      ],
+      "answer": "November"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "On which date are day and night equal?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 December",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "21 March",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1 January",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 March"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "On which date is the longest day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 September",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "21 June",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "22 December",
+          "is_correct": false
+        }
+      ],
+      "answer": "21 June"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "On which date is the longest night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "21 June",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "22 December",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "21 March",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "22 September",
+          "is_correct": false
+        }
+      ],
+      "answer": "22 December"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "In summer, the days are _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shorter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Longer",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dark",
+          "is_correct": false
+        }
+      ],
+      "answer": "Longer"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "In winter, the nights are _____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shorter",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Longer",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bright",
+          "is_correct": false
+        }
+      ],
+      "answer": "Longer"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which season has longer nights?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Summer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rainy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Winter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Spring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Winter"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What happens to days after June 21?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They become longer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They remain same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They become shorter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They disappear",
+          "is_correct": false
+        }
+      ],
+      "answer": "They become shorter"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What happens to nights after December 22?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They become longer",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They remain same",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They become shorter",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "They disappear",
+          "is_correct": false
+        }
+      ],
+      "answer": "They become shorter"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "How many hours of day and night occur on 21 March?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "10 and 14",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "14 and 10",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "12 and 12",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "8 and 16",
+          "is_correct": false
+        }
+      ],
+      "answer": "12 and 12"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "From where does the earth get light?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Moon",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Stars",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Planets",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the shape of the earth?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Flat",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Square",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Like a ball",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Triangle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Like a ball"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why do we have day and night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Earth moves around sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Earth spins on its axis",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Moon blocks sunlight",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Clouds cover sun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Earth spins on its axis"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What is the spinning of the earth called?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revolution",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Rotation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Circulation",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Orbit",
+          "is_correct": false
+        }
+      ],
+      "answer": "Rotation"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which part of the earth has day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facing the sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Away from sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Southern half",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Northern half",
+          "is_correct": false
+        }
+      ],
+      "answer": "Facing the sun"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which part of the earth has night?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facing the sun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Away from sun",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Eastern side",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Western side",
+          "is_correct": false
+        }
+      ],
+      "answer": "Away from sun"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What do we call the sun appearing in the morning?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunset",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Midday",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sunrise",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Dawn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sunrise"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What do we call the sun disappearing in the evening?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sunrise",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sunset",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nightfall",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dusk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sunset"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "How many hours are there in a day?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "answer": "24"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Which month has longer days in our region?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "November",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "December",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "May",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "January",
+          "is_correct": false
+        }
+      ],
+      "answer": "May"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "From where does the earth get light?",
+      "answer": "The earth gets light from the sun."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is the shape of the earth?",
+      "answer": "The earth is shaped like a ball."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why does day occur?",
+      "answer": "Day occurs when a part of the earth faces the sun."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why does night occur?",
+      "answer": "Night occurs when a part of the earth is away from the sun."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What is rotation?",
+      "answer": "Rotation is the spinning of the earth on its axis."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What is sunrise?",
+      "answer": "Sunrise is the appearance of the sun in the morning."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What is sunset?",
+      "answer": "Sunset is the disappearance of the sun in the evening."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How many hours are there in a day?",
+      "answer": "There are 24 hours in a day."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why do day and night change?",
+      "answer": "Because the earth keeps rotating."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "When are day and night equal?",
+      "answer": "On 21 March and 22 September."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which day is the longest?",
+      "answer": "June 21 is the longest day."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which night is the longest?",
+      "answer": "December 22 is the longest night."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens to days in summer?",
+      "answer": "Days become longer in summer."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What happens to nights in winter?",
+      "answer": "Nights become longer in winter."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why do birds return earlier in winter?",
+      "answer": "Because nights begin earlier in winter."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What happens after June 21?",
+      "answer": "Days become shorter and nights become longer."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What happens after December 22?",
+      "answer": "Days become longer and nights become shorter."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What causes seasons?",
+      "answer": "Change in length of days and nights causes seasons."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is daytime?",
+      "answer": "Daytime is when the sun is visible."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is nighttime?",
+      "answer": "Nighttime is when the sun is not visible."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "From where does the earth get light?",
+      "answer": "The earth gets light from the sun."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is the shape of the earth?",
+      "answer": "The earth is shaped like a ball."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why does day occur?",
+      "answer": "Day occurs when a part of the earth faces the sun."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why does night occur?",
+      "answer": "Night occurs when a part of the earth is away from the sun."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What is rotation?",
+      "answer": "Rotation is the spinning of the earth on its axis."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What is sunrise?",
+      "answer": "Sunrise is the appearance of the sun in the morning."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What is sunset?",
+      "answer": "Sunset is the disappearance of the sun in the evening."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How many hours are there in a day?",
+      "answer": "There are 24 hours in a day."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why do day and night change?",
+      "answer": "Because the earth keeps rotating."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "When are day and night equal?",
+      "answer": "On 21 March and 22 September."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which day is the longest?",
+      "answer": "June 21 is the longest day."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which night is the longest?",
+      "answer": "December 22 is the longest night."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What happens to days in summer?",
+      "answer": "Days become longer in summer."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What happens to nights in winter?",
+      "answer": "Nights become longer in winter."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why do birds return earlier in winter?",
+      "answer": "Because nights begin earlier in winter."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What happens after June 21?",
+      "answer": "Days become shorter and nights become longer."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What happens after December 22?",
+      "answer": "Days become longer and nights become shorter."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What causes seasons?",
+      "answer": "Change in length of days and nights causes seasons."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is daytime?",
+      "answer": "Daytime is when the sun is visible."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is nighttime?",
+      "answer": "Nighttime is when the sun is not visible."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "From where does the earth get light?",
+      "answer": "The earth gets light from the sun."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is the shape of the earth?",
+      "answer": "The earth is shaped like a ball."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why does day occur?",
+      "answer": "Day occurs when a part of the earth faces the sun."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why does night occur?",
+      "answer": "Night occurs when a part of the earth is away from the sun."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What is rotation?",
+      "answer": "Rotation is the spinning of the earth on its axis."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What is sunrise?",
+      "answer": "Sunrise is the appearance of the sun in the morning."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What is sunset?",
+      "answer": "Sunset is the disappearance of the sun in the evening."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How many hours are there in a day?",
+      "answer": "There are 24 hours in a day."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why do day and night change?",
+      "answer": "Because the earth keeps rotating."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "When are day and night equal?",
+      "answer": "On 21 March and 22 September."
+    }
+  ]
+}

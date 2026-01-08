@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.03",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Recess"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Study time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Exam time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play time"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "When do students get recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Between classes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "After school",
+          "is_correct": false
+        }
+      ],
+      "answer": "Between classes"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What do children mostly do during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Read",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Write",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Where do children usually play during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Classroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Office",
+          "is_correct": false
+        }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What do children share during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Uniform",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Recess helps children to feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fresh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fresh"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which activity is common in recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Listening",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who enjoys recess the most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drivers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does recess encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friendship",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friendship"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Recess is important for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Health",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Health"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Study time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Exam time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play time"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "When do students get recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Between classes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "After school",
+          "is_correct": false
+        }
+      ],
+      "answer": "Between classes"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What do children mostly do during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Read",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Write",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Where do children usually play during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Classroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Office",
+          "is_correct": false
+        }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What do children share during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Uniform",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Recess helps children to feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fresh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fresh"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which activity is common in recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Listening",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who enjoys recess the most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drivers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does recess encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friendship",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friendship"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Recess is important for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Health",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Health"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Study time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Exam time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play time"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "When do students get recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Between classes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "After school",
+          "is_correct": false
+        }
+      ],
+      "answer": "Between classes"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What do children mostly do during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Read",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Write",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Where do children usually play during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Classroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Office",
+          "is_correct": false
+        }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What do children share during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Uniform",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Recess helps children to feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fresh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fresh"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which activity is common in recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Listening",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who enjoys recess the most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drivers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What does recess encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friendship",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friendship"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Recess is important for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Health",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Health"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Study time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Exam time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play time"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "When do students get recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Between classes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "After school",
+          "is_correct": false
+        }
+      ],
+      "answer": "Between classes"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What do children mostly do during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Read",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Write",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Where do children usually play during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Classroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Office",
+          "is_correct": false
+        }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What do children share during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Uniform",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Recess helps children to feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fresh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fresh"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which activity is common in recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Listening",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who enjoys recess the most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drivers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does recess encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friendship",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friendship"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Recess is important for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Health",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Health"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Study time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Exam time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play time"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "When do students get recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Morning",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Between classes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "At night",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "After school",
+          "is_correct": false
+        }
+      ],
+      "answer": "Between classes"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What do children mostly do during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Play",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Read",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Write",
+          "is_correct": false
+        }
+      ],
+      "answer": "Play"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Where do children usually play during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Classroom",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playground",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Office",
+          "is_correct": false
+        }
+      ],
+      "answer": "Playground"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What do children share during recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Food",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pens",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Uniform",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Recess helps children to feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fresh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Sleepy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fresh"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which activity is common in recess?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Studying",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Listening",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who enjoys recess the most?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Children",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Parents",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drivers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Children"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What does recess encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friendship",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friendship"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Recess is important for ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Health",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Marks",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exams",
+          "is_correct": false
+        }
+      ],
+      "answer": "Health"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is recess?",
+      "answer": "Recess is the break time for students."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "When do students get recess?",
+      "answer": "They get recess between classes."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What do children do during recess?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Where do children play?",
+      "answer": "In the playground."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What do children share?",
+      "answer": "They share food and joy."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How do children feel after recess?",
+      "answer": "They feel fresh and active."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is recess important?",
+      "answer": "It keeps children healthy."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does recess encourage?",
+      "answer": "Friendship among children."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Do children enjoy recess?",
+      "answer": "Yes, they enjoy it a lot."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do you like to do in recess?",
+      "answer": "I like to play with friends."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is recess?",
+      "answer": "Recess is the break time for students."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "When do students get recess?",
+      "answer": "They get recess between classes."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What do children do during recess?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Where do children play?",
+      "answer": "In the playground."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What do children share?",
+      "answer": "They share food and joy."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How do children feel after recess?",
+      "answer": "They feel fresh and active."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is recess important?",
+      "answer": "It keeps children healthy."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does recess encourage?",
+      "answer": "Friendship among children."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Do children enjoy recess?",
+      "answer": "Yes, they enjoy it a lot."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do you like to do in recess?",
+      "answer": "I like to play with friends."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is recess?",
+      "answer": "Recess is the break time for students."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "When do students get recess?",
+      "answer": "They get recess between classes."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What do children do during recess?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Where do children play?",
+      "answer": "In the playground."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What do children share?",
+      "answer": "They share food and joy."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How do children feel after recess?",
+      "answer": "They feel fresh and active."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is recess important?",
+      "answer": "It keeps children healthy."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does recess encourage?",
+      "answer": "Friendship among children."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Do children enjoy recess?",
+      "answer": "Yes, they enjoy it a lot."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do you like to do in recess?",
+      "answer": "I like to play with friends."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is recess?",
+      "answer": "Recess is the break time for students."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "When do students get recess?",
+      "answer": "They get recess between classes."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What do children do during recess?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Where do children play?",
+      "answer": "In the playground."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What do children share?",
+      "answer": "They share food and joy."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How do children feel after recess?",
+      "answer": "They feel fresh and active."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is recess important?",
+      "answer": "It keeps children healthy."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does recess encourage?",
+      "answer": "Friendship among children."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Do children enjoy recess?",
+      "answer": "Yes, they enjoy it a lot."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do you like to do in recess?",
+      "answer": "I like to play with friends."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is recess?",
+      "answer": "Recess is the break time for students."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "When do students get recess?",
+      "answer": "They get recess between classes."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What do children do during recess?",
+      "answer": "They play and relax."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Where do children play?",
+      "answer": "In the playground."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What do children share?",
+      "answer": "They share food and joy."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How do children feel after recess?",
+      "answer": "They feel fresh and active."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is recess important?",
+      "answer": "It keeps children healthy."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does recess encourage?",
+      "answer": "Friendship among children."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Do children enjoy recess?",
+      "answer": "Yes, they enjoy it a lot."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do you like to do in recess?",
+      "answer": "I like to play with friends."
+    }
+  ]
+}

@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.38",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Chapter 38"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the focus of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Adventure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Values"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does the chapter mainly teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who benefits from good values?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only elders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What should students practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good behaviour"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Values help us to live ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peacefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angrily",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peacefully"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is a good habit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Why are values important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They guide us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They slow us",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They confuse us",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They punish us",
+          "is_correct": false
+        }
+      ],
+      "answer": "They guide us"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Responsible",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Selfish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Responsible"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What is the overall message?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Live with values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Avoid rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Live with values"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the focus of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Adventure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Values"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does the chapter mainly teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who benefits from good values?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only elders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What should students practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good behaviour"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Values help us to live ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peacefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angrily",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peacefully"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which is a good habit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Why are values important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They guide us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They slow us",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They confuse us",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They punish us",
+          "is_correct": false
+        }
+      ],
+      "answer": "They guide us"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Responsible",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Selfish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Responsible"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What is the overall message?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Live with values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Avoid rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Live with values"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the focus of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Adventure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Values"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does the chapter mainly teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who benefits from good values?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only elders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What should students practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good behaviour"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Values help us to live ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peacefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angrily",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peacefully"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which is a good habit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Why are values important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They guide us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They slow us",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They confuse us",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They punish us",
+          "is_correct": false
+        }
+      ],
+      "answer": "They guide us"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Responsible",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Selfish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Responsible"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What is the overall message?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Live with values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Avoid rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Live with values"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the focus of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Adventure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Values"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does the chapter mainly teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who benefits from good values?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only elders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What should students practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good behaviour"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Values help us to live ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peacefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angrily",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peacefully"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which is a good habit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Why are values important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They guide us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They slow us",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They confuse us",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They punish us",
+          "is_correct": false
+        }
+      ],
+      "answer": "They guide us"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Responsible",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Selfish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Responsible"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What is the overall message?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Live with values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Avoid rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Live with values"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the focus of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Adventure",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Science",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Values"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does the chapter mainly teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good habits",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good habits"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which quality is highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who benefits from good values?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Only elders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What should students practice?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Good behaviour",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Good behaviour"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Values help us to live ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peacefully",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Angrily",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Carelessly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearfully",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peacefully"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which is a good habit?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shouting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fighting",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignoring",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Why are values important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They guide us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They slow us",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They confuse us",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They punish us",
+          "is_correct": false
+        }
+      ],
+      "answer": "They guide us"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Responsible",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Selfish",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Lazy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Responsible"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What is the overall message?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Live with values",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Avoid rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Be rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Live with values"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about good values and behaviour."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are values important?",
+      "answer": "They guide us in life."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one good value.",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who should follow values?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "How do values help us?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What habit should students develop?",
+      "answer": "Helping others."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Are values useful in daily life?",
+      "answer": "Yes, very useful."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What happens without values?",
+      "answer": "Life becomes difficult."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "Good behaviour."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Live with good values."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about good values and behaviour."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are values important?",
+      "answer": "They guide us in life."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one good value.",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who should follow values?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "How do values help us?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What habit should students develop?",
+      "answer": "Helping others."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Are values useful in daily life?",
+      "answer": "Yes, very useful."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What happens without values?",
+      "answer": "Life becomes difficult."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "Good behaviour."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Live with good values."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about good values and behaviour."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why are values important?",
+      "answer": "They guide us in life."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Name one good value.",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who should follow values?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "How do values help us?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What habit should students develop?",
+      "answer": "Helping others."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Are values useful in daily life?",
+      "answer": "Yes, very useful."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What happens without values?",
+      "answer": "Life becomes difficult."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "Good behaviour."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Live with good values."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about good values and behaviour."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why are values important?",
+      "answer": "They guide us in life."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Name one good value.",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who should follow values?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "How do values help us?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What habit should students develop?",
+      "answer": "Helping others."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Are values useful in daily life?",
+      "answer": "Yes, very useful."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What happens without values?",
+      "answer": "Life becomes difficult."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "Good behaviour."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Live with good values."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "It is about good values and behaviour."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why are values important?",
+      "answer": "They guide us in life."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Name one good value.",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who should follow values?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "How do values help us?",
+      "answer": "They help us live peacefully."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What habit should students develop?",
+      "answer": "Helping others."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Are values useful in daily life?",
+      "answer": "Yes, very useful."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What happens without values?",
+      "answer": "Life becomes difficult."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "Good behaviour."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Live with good values."
+    }
+  ]
+}

@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.18",
+    "standard": "4",
+    "subject": "Environmental Studies",
+    "medium": "English",
+    "chapter_name": "Changes in the Family and Neighbourhood"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What causes changes in a family?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marriage, birth, death and migration",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Festivals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Marriage, birth, death and migration"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is migration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moving from one place to another",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Education",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farming",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moving from one place to another"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why does a family grow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Death",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birth of new members",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jobs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birth of new members"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Why does a family become smaller?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Death",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Migration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What happens when someone gets married?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Family size changes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Family ends",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No change",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Family reduces",
+          "is_correct": false
+        }
+      ],
+      "answer": "Family size changes"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why do people migrate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For jobs or education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For festivals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For games",
+          "is_correct": false
+        }
+      ],
+      "answer": "For jobs or education"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which animals also migrate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dogs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birds",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cows",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cats",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "In which formation do swans fly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "V",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Square",
+          "is_correct": false
+        }
+      ],
+      "answer": "V"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Which birds visit Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sparrows",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flamingoes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Crows",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eagles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flamingoes"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "When do flamingoes visit Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "June\u2013July",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "October\u2013March",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "April\u2013May",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All year",
+          "is_correct": false
+        }
+      ],
+      "answer": "October\u2013March"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What happens to big families over time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They grow bigger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They scatter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They remain same",
+          "is_correct": false
+        }
+      ],
+      "answer": "They scatter"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why did people settle at one place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For festivals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For farming"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What developed after farming?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cities",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Trade and occupations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Schools",
+          "is_correct": false
+        }
+      ],
+      "answer": "Trade and occupations"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Why did people move to cities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For food",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For festivals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For work"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What changes due to migration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Language only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Family size",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Family size"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What do we see due to migration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silence",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What diversity do we see?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Food and festivals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only houses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food and festivals"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who helps us in times of need?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neighbours",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Strangers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tourists",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neighbours"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Why are neighbours important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They help us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They migrate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "They help us"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What makes community life joyful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fights",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Friendly relations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friendly relations"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What causes changes in a family?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marriage, birth, death and migration",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Festivals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Marriage, birth, death and migration"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is migration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moving from one place to another",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Education",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farming",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moving from one place to another"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why does a family grow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Death",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birth of new members",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jobs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birth of new members"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Why does a family become smaller?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Death",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Migration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What happens when someone gets married?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Family size changes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Family ends",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No change",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Family reduces",
+          "is_correct": false
+        }
+      ],
+      "answer": "Family size changes"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why do people migrate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For jobs or education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For festivals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For games",
+          "is_correct": false
+        }
+      ],
+      "answer": "For jobs or education"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which animals also migrate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dogs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birds",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cows",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cats",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "In which formation do swans fly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "V",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Square",
+          "is_correct": false
+        }
+      ],
+      "answer": "V"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Which birds visit Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sparrows",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flamingoes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Crows",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eagles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flamingoes"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "When do flamingoes visit Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "June\u2013July",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "October\u2013March",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "April\u2013May",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All year",
+          "is_correct": false
+        }
+      ],
+      "answer": "October\u2013March"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What happens to big families over time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They grow bigger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They scatter",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They disappear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They remain same",
+          "is_correct": false
+        }
+      ],
+      "answer": "They scatter"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why did people settle at one place?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For farming",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For festivals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For farming"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What developed after farming?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cities",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Trade and occupations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Schools",
+          "is_correct": false
+        }
+      ],
+      "answer": "Trade and occupations"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Why did people move to cities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For food",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For festivals",
+          "is_correct": false
+        }
+      ],
+      "answer": "For work"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What changes due to migration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Language only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Family size",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Climate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Time",
+          "is_correct": false
+        }
+      ],
+      "answer": "Family size"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What do we see due to migration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Diversity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Confusion",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Problems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silence",
+          "is_correct": false
+        }
+      ],
+      "answer": "Diversity"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What diversity do we see?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Food and festivals",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only food",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only houses",
+          "is_correct": false
+        }
+      ],
+      "answer": "Food and festivals"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who helps us in times of need?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Friends",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Neighbours",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Strangers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Tourists",
+          "is_correct": false
+        }
+      ],
+      "answer": "Neighbours"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Why are neighbours important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They help us",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They migrate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They trade",
+          "is_correct": false
+        }
+      ],
+      "answer": "They help us"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What makes community life joyful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fights",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Friendly relations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Work",
+          "is_correct": false
+        }
+      ],
+      "answer": "Friendly relations"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What causes changes in a family?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Weather",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marriage, birth, death and migration",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Games",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Festivals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Marriage, birth, death and migration"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is migration?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Moving from one place to another",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Education",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farming",
+          "is_correct": false
+        }
+      ],
+      "answer": "Moving from one place to another"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why does a family grow?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Death",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birth of new members",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Migration",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jobs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birth of new members"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Why does a family become smaller?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Birth",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Death",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Migration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Death"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What happens when someone gets married?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Family size changes",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Family ends",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "No change",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Family reduces",
+          "is_correct": false
+        }
+      ],
+      "answer": "Family size changes"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Why do people migrate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For jobs or education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For festivals",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For games",
+          "is_correct": false
+        }
+      ],
+      "answer": "For jobs or education"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which animals also migrate?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dogs",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Birds",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cows",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cats",
+          "is_correct": false
+        }
+      ],
+      "answer": "Birds"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "In which formation do swans fly?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Circle",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "V",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Line",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Square",
+          "is_correct": false
+        }
+      ],
+      "answer": "V"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Which birds visit Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sparrows",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Flamingoes",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Crows",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eagles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Flamingoes"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "When do flamingoes visit Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "June\u2013July",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "October\u2013March",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "April\u2013May",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All year",
+          "is_correct": false
+        }
+      ],
+      "answer": "October\u2013March"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is migration?",
+      "answer": "Migration is moving from one place to another to live."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why does family size change?",
+      "answer": "Due to marriage, birth, death and migration."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why do people migrate?",
+      "answer": "For jobs, education or better living."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What happens when a new baby is born?",
+      "answer": "The family grows."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happens when a member dies?",
+      "answer": "The family becomes smaller."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Which birds migrate?",
+      "answer": "Many birds like flamingoes migrate."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why do birds migrate?",
+      "answer": "In search of food and shelter."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What formation do birds fly in?",
+      "answer": "They fly in a V formation."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What do we learn by migration?",
+      "answer": "We learn about diversity."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What diversity do we see?",
+      "answer": "Different food, festivals and customs."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Why did people start farming?",
+      "answer": "To grow food."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did big families scatter?",
+      "answer": "Due to new occupations and cities."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did cities grow?",
+      "answer": "Because people moved for work."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How do neighbours help us?",
+      "answer": "They help in times of need."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What problems do neighbours help solve?",
+      "answer": "Garbage, water, security and electricity."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why do relations become friendly?",
+      "answer": "Because neighbours help each other."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What makes community life joyful?",
+      "answer": "Friendly and harmonious relations."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who lives in the same locality?",
+      "answer": "Neighbours live in the same locality."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What do we exchange with neighbours?",
+      "answer": "Help, things and care."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is neighbourhood?",
+      "answer": "People living around our house."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is migration?",
+      "answer": "Migration is moving from one place to another to live."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why does family size change?",
+      "answer": "Due to marriage, birth, death and migration."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why do people migrate?",
+      "answer": "For jobs, education or better living."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What happens when a new baby is born?",
+      "answer": "The family grows."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happens when a member dies?",
+      "answer": "The family becomes smaller."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Which birds migrate?",
+      "answer": "Many birds like flamingoes migrate."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why do birds migrate?",
+      "answer": "In search of food and shelter."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What formation do birds fly in?",
+      "answer": "They fly in a V formation."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What do we learn by migration?",
+      "answer": "We learn about diversity."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What diversity do we see?",
+      "answer": "Different food, festivals and customs."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Why did people start farming?",
+      "answer": "To grow food."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why did big families scatter?",
+      "answer": "Due to new occupations and cities."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why did cities grow?",
+      "answer": "Because people moved for work."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How do neighbours help us?",
+      "answer": "They help in times of need."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What problems do neighbours help solve?",
+      "answer": "Garbage, water, security and electricity."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why do relations become friendly?",
+      "answer": "Because neighbours help each other."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What makes community life joyful?",
+      "answer": "Friendly and harmonious relations."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who lives in the same locality?",
+      "answer": "Neighbours live in the same locality."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What do we exchange with neighbours?",
+      "answer": "Help, things and care."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is neighbourhood?",
+      "answer": "People living around our house."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is migration?",
+      "answer": "Migration is moving from one place to another to live."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why does family size change?",
+      "answer": "Due to marriage, birth, death and migration."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why do people migrate?",
+      "answer": "For jobs, education or better living."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What happens when a new baby is born?",
+      "answer": "The family grows."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What happens when a member dies?",
+      "answer": "The family becomes smaller."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Which birds migrate?",
+      "answer": "Many birds like flamingoes migrate."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why do birds migrate?",
+      "answer": "In search of food and shelter."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What formation do birds fly in?",
+      "answer": "They fly in a V formation."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What do we learn by migration?",
+      "answer": "We learn about diversity."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What diversity do we see?",
+      "answer": "Different food, festivals and customs."
+    }
+  ]
+}

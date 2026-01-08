@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.08",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "Defeat of Internal Enemies"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who were internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Local traitors",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farmers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Local traitors"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why were internal enemies dangerous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They helped Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They weakened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They protected people",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They taught values",
+          "is_correct": false
+        }
+      ],
+      "answer": "They weakened Swaraj"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did Shivaji do to internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored them",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defeated them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Joined them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rewarded them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defeated them"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which quality did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What was Shivaji\u2019s aim?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Collect wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect Swaraj"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How did Shivaji deal with traitors?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harsh punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fair justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forgiveness always",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No action",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fair justice"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What happened after defeating internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peace and unity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "More conflicts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "End of Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign invasion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peace and unity"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who supported Shivaji in this task?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "People",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What value was shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Disloyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why is this event important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strengthened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ended history",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Started trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ended battles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Strengthened Swaraj"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who were internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Local traitors",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farmers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Local traitors"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why were internal enemies dangerous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They helped Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They weakened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They protected people",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They taught values",
+          "is_correct": false
+        }
+      ],
+      "answer": "They weakened Swaraj"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What did Shivaji do to internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored them",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defeated them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Joined them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rewarded them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defeated them"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which quality did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What was Shivaji\u2019s aim?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Collect wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect Swaraj"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How did Shivaji deal with traitors?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harsh punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fair justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forgiveness always",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No action",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fair justice"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What happened after defeating internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peace and unity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "More conflicts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "End of Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign invasion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peace and unity"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who supported Shivaji in this task?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "People",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What value was shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Disloyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why is this event important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strengthened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ended history",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Started trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ended battles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Strengthened Swaraj"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who were internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Local traitors",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farmers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Local traitors"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why were internal enemies dangerous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They helped Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They weakened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They protected people",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They taught values",
+          "is_correct": false
+        }
+      ],
+      "answer": "They weakened Swaraj"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What did Shivaji do to internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored them",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defeated them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Joined them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rewarded them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defeated them"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which quality did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What was Shivaji\u2019s aim?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Collect wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect Swaraj"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "How did Shivaji deal with traitors?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harsh punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fair justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forgiveness always",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No action",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fair justice"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What happened after defeating internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peace and unity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "More conflicts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "End of Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign invasion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peace and unity"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who supported Shivaji in this task?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "People",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What value was shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Disloyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why is this event important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strengthened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ended history",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Started trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ended battles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Strengthened Swaraj"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who were internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Local traitors",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farmers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Local traitors"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why were internal enemies dangerous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They helped Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They weakened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They protected people",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They taught values",
+          "is_correct": false
+        }
+      ],
+      "answer": "They weakened Swaraj"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What did Shivaji do to internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored them",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defeated them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Joined them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rewarded them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defeated them"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which quality did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What was Shivaji\u2019s aim?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Collect wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect Swaraj"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "How did Shivaji deal with traitors?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harsh punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fair justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forgiveness always",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No action",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fair justice"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What happened after defeating internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peace and unity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "More conflicts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "End of Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign invasion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peace and unity"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who supported Shivaji in this task?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "People",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What value was shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Disloyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why is this event important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strengthened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ended history",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Started trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ended battles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Strengthened Swaraj"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who were internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Local traitors",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Saints",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Farmers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Local traitors"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why were internal enemies dangerous?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They helped Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They weakened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They protected people",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They taught values",
+          "is_correct": false
+        }
+      ],
+      "answer": "They weakened Swaraj"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What did Shivaji do to internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored them",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Defeated them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Joined them",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Rewarded them",
+          "is_correct": false
+        }
+      ],
+      "answer": "Defeated them"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which quality did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What was Shivaji\u2019s aim?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Personal power",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Protect Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Collect wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign rule",
+          "is_correct": false
+        }
+      ],
+      "answer": "Protect Swaraj"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "How did Shivaji deal with traitors?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Harsh punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fair justice",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Forgiveness always",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No action",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fair justice"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What happened after defeating internal enemies?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Peace and unity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "More conflicts",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "End of Swaraj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Foreign invasion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Peace and unity"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who supported Shivaji in this task?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "People",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Enemies",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Foreigners",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "People"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What value was shown?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Disloyalty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why is this event important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Strengthened Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Ended history",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Started trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ended battles",
+          "is_correct": false
+        }
+      ],
+      "answer": "Strengthened Swaraj"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who were internal enemies?",
+      "answer": "They were people who opposed Swaraj from within."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why were they dangerous?",
+      "answer": "They weakened the Swaraj movement."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What did Shivaji do to them?",
+      "answer": "He defeated them with justice."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why was discipline important?",
+      "answer": "It strengthened Swaraj."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who supported Shivaji?",
+      "answer": "The common people."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What quality did Shivaji show?",
+      "answer": "Justice and firmness."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What happened after defeat of enemies?",
+      "answer": "Unity increased."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Did Shivaji punish unfairly?",
+      "answer": "No, he was fair."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why was this victory important?",
+      "answer": "It secured Swaraj."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What value do we learn?",
+      "answer": "Loyalty to the nation."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who were internal enemies?",
+      "answer": "They were people who opposed Swaraj from within."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why were they dangerous?",
+      "answer": "They weakened the Swaraj movement."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did Shivaji do to them?",
+      "answer": "He defeated them with justice."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why was discipline important?",
+      "answer": "It strengthened Swaraj."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who supported Shivaji?",
+      "answer": "The common people."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What quality did Shivaji show?",
+      "answer": "Justice and firmness."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What happened after defeat of enemies?",
+      "answer": "Unity increased."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Did Shivaji punish unfairly?",
+      "answer": "No, he was fair."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why was this victory important?",
+      "answer": "It secured Swaraj."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What value do we learn?",
+      "answer": "Loyalty to the nation."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who were internal enemies?",
+      "answer": "They were people who opposed Swaraj from within."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why were they dangerous?",
+      "answer": "They weakened the Swaraj movement."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What did Shivaji do to them?",
+      "answer": "He defeated them with justice."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why was discipline important?",
+      "answer": "It strengthened Swaraj."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Who supported Shivaji?",
+      "answer": "The common people."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What quality did Shivaji show?",
+      "answer": "Justice and firmness."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What happened after defeat of enemies?",
+      "answer": "Unity increased."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Did Shivaji punish unfairly?",
+      "answer": "No, he was fair."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why was this victory important?",
+      "answer": "It secured Swaraj."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What value do we learn?",
+      "answer": "Loyalty to the nation."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who were internal enemies?",
+      "answer": "They were people who opposed Swaraj from within."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why were they dangerous?",
+      "answer": "They weakened the Swaraj movement."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What did Shivaji do to them?",
+      "answer": "He defeated them with justice."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why was discipline important?",
+      "answer": "It strengthened Swaraj."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who supported Shivaji?",
+      "answer": "The common people."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What quality did Shivaji show?",
+      "answer": "Justice and firmness."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What happened after defeat of enemies?",
+      "answer": "Unity increased."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Did Shivaji punish unfairly?",
+      "answer": "No, he was fair."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why was this victory important?",
+      "answer": "It secured Swaraj."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What value do we learn?",
+      "answer": "Loyalty to the nation."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who were internal enemies?",
+      "answer": "They were people who opposed Swaraj from within."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why were they dangerous?",
+      "answer": "They weakened the Swaraj movement."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What did Shivaji do to them?",
+      "answer": "He defeated them with justice."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why was discipline important?",
+      "answer": "It strengthened Swaraj."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Who supported Shivaji?",
+      "answer": "The common people."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What quality did Shivaji show?",
+      "answer": "Justice and firmness."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What happened after defeat of enemies?",
+      "answer": "Unity increased."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Did Shivaji punish unfairly?",
+      "answer": "No, he was fair."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why was this victory important?",
+      "answer": "It secured Swaraj."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What value do we learn?",
+      "answer": "Loyalty to the nation."
+    }
+  ]
+}

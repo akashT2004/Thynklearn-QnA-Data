@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.09",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Time for Everything"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Time management"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why is time important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It brings money",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It helps us do work properly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It stops work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It makes us tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helps us do work properly"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What happens if we waste time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "We succeed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "We fail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We relax",
+          "is_correct": false
+        }
+      ],
+      "answer": "We fail"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which activity should be done on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "All activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "All activities"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What does punctuality mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Being late",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work on time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Working slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Resting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work on time"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Who values time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lazy people",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Children only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise people"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What should students do on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Homework"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What helps us manage time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planning"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Time once lost can be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Found",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saved",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never regained",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never regained"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punctual",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Slow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Punctual"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Time management"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why is time important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It brings money",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It helps us do work properly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It stops work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It makes us tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helps us do work properly"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What happens if we waste time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "We succeed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "We fail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We relax",
+          "is_correct": false
+        }
+      ],
+      "answer": "We fail"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which activity should be done on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "All activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "All activities"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What does punctuality mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Being late",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work on time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Working slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Resting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work on time"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Who values time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lazy people",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Children only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise people"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What should students do on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Homework"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What helps us manage time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planning"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Time once lost can be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Found",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saved",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never regained",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never regained"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punctual",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Slow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Punctual"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Time management"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why is time important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It brings money",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It helps us do work properly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It stops work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It makes us tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helps us do work properly"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What happens if we waste time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "We succeed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "We fail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We relax",
+          "is_correct": false
+        }
+      ],
+      "answer": "We fail"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which activity should be done on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "All activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "All activities"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What does punctuality mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Being late",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work on time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Working slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Resting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work on time"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Who values time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lazy people",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Children only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise people"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What should students do on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Homework"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What helps us manage time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planning"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Time once lost can be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Found",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saved",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never regained",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never regained"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punctual",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Slow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Punctual"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Time management"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why is time important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It brings money",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It helps us do work properly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It stops work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It makes us tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helps us do work properly"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What happens if we waste time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "We succeed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "We fail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We relax",
+          "is_correct": false
+        }
+      ],
+      "answer": "We fail"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which activity should be done on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "All activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "All activities"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What does punctuality mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Being late",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work on time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Working slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Resting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work on time"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Who values time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lazy people",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Children only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise people"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What should students do on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Homework"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What helps us manage time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planning"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Time once lost can be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Found",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saved",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never regained",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never regained"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punctual",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Slow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Punctual"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Time management",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Travel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Time management"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why is time important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It brings money",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It helps us do work properly",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It stops work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It makes us tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "It helps us do work properly"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What happens if we waste time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "We succeed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "We fail",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "We relax",
+          "is_correct": false
+        }
+      ],
+      "answer": "We fail"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which activity should be done on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Playing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "All activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "All activities"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What does punctuality mean?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Being late",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work on time",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Working slowly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Resting",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work on time"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Who values time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Lazy people",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Wise people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Children only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wise people"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What should students do on time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Play",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Homework",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talk",
+          "is_correct": false
+        }
+      ],
+      "answer": "Homework"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What helps us manage time?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Planning"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Time once lost can be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Found",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saved",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never regained",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Bought",
+          "is_correct": false
+        }
+      ],
+      "answer": "Never regained"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Punctual",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Slow",
+          "is_correct": false
+        }
+      ],
+      "answer": "Punctual"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "The chapter is about the importance of time."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why is time important?",
+      "answer": "Time helps us complete work properly."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What happens if we waste time?",
+      "answer": "We may fail in our work."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What does punctuality mean?",
+      "answer": "Doing work on time."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Who values time?",
+      "answer": "Wise people value time."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What should students do on time?",
+      "answer": "They should complete homework on time."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What helps in time management?",
+      "answer": "Planning helps in time management."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Can lost time be regained?",
+      "answer": "No, lost time cannot be regained."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why should we plan our work?",
+      "answer": "To use time properly."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "There is a time for everything."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "The chapter is about the importance of time."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why is time important?",
+      "answer": "Time helps us complete work properly."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What happens if we waste time?",
+      "answer": "We may fail in our work."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What does punctuality mean?",
+      "answer": "Doing work on time."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Who values time?",
+      "answer": "Wise people value time."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What should students do on time?",
+      "answer": "They should complete homework on time."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What helps in time management?",
+      "answer": "Planning helps in time management."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Can lost time be regained?",
+      "answer": "No, lost time cannot be regained."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why should we plan our work?",
+      "answer": "To use time properly."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "There is a time for everything."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "The chapter is about the importance of time."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why is time important?",
+      "answer": "Time helps us complete work properly."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What happens if we waste time?",
+      "answer": "We may fail in our work."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What does punctuality mean?",
+      "answer": "Doing work on time."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Who values time?",
+      "answer": "Wise people value time."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What should students do on time?",
+      "answer": "They should complete homework on time."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What helps in time management?",
+      "answer": "Planning helps in time management."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Can lost time be regained?",
+      "answer": "No, lost time cannot be regained."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why should we plan our work?",
+      "answer": "To use time properly."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "There is a time for everything."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "The chapter is about the importance of time."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why is time important?",
+      "answer": "Time helps us complete work properly."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What happens if we waste time?",
+      "answer": "We may fail in our work."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What does punctuality mean?",
+      "answer": "Doing work on time."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Who values time?",
+      "answer": "Wise people value time."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What should students do on time?",
+      "answer": "They should complete homework on time."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What helps in time management?",
+      "answer": "Planning helps in time management."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Can lost time be regained?",
+      "answer": "No, lost time cannot be regained."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why should we plan our work?",
+      "answer": "To use time properly."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "There is a time for everything."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What is the chapter about?",
+      "answer": "The chapter is about the importance of time."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why is time important?",
+      "answer": "Time helps us complete work properly."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What happens if we waste time?",
+      "answer": "We may fail in our work."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What does punctuality mean?",
+      "answer": "Doing work on time."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Who values time?",
+      "answer": "Wise people value time."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What should students do on time?",
+      "answer": "They should complete homework on time."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What helps in time management?",
+      "answer": "Planning helps in time management."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Can lost time be regained?",
+      "answer": "No, lost time cannot be regained."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why should we plan our work?",
+      "answer": "To use time properly."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "There is a time for everything."
+    }
+  ]
+}

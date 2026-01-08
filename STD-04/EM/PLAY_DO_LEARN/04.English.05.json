@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.05",
+    "standard": "4",
+    "subject": "PlayDoLearn",
+    "medium": "English",
+    "chapter_name": "Exercises"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical activities"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why do we do exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To keep fit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To feel lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To get sick",
+          "is_correct": false
+        }
+      ],
+      "answer": "To keep fit"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is a stretching exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bending",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bending"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which exercise makes muscles strong?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push-ups",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Watching TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Push-ups"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "When should we exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Once a year",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only holidays",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daily"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which exercise helps breathing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sitting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Exercises help to keep our body ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "healthy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "healthy"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which exercise needs space?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jumping",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jumping"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Before exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "warm up",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat junk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "warm up"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "After exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run more",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "skip water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "relax"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What are exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical activities"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why do we do exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To keep fit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To feel lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To get sick",
+          "is_correct": false
+        }
+      ],
+      "answer": "To keep fit"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which is a stretching exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bending",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bending"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which exercise makes muscles strong?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push-ups",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Watching TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Push-ups"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "When should we exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Once a year",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only holidays",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daily"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which exercise helps breathing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sitting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Exercises help to keep our body ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "healthy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "healthy"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which exercise needs space?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jumping",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jumping"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Before exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "warm up",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat junk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "warm up"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "After exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run more",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "skip water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "relax"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What are exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical activities"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why do we do exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To keep fit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To feel lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To get sick",
+          "is_correct": false
+        }
+      ],
+      "answer": "To keep fit"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which is a stretching exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bending",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bending"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which exercise makes muscles strong?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push-ups",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Watching TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Push-ups"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "When should we exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Once a year",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only holidays",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daily"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which exercise helps breathing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sitting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Exercises help to keep our body ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "healthy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "healthy"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which exercise needs space?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jumping",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jumping"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Before exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "warm up",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat junk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "warm up"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "After exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run more",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "skip water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "relax"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What are exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical activities"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why do we do exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To keep fit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To feel lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To get sick",
+          "is_correct": false
+        }
+      ],
+      "answer": "To keep fit"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which is a stretching exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bending",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bending"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which exercise makes muscles strong?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push-ups",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Watching TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Push-ups"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "When should we exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Once a year",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only holidays",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daily"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which exercise helps breathing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sitting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Exercises help to keep our body ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "healthy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "healthy"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which exercise needs space?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jumping",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jumping"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Before exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "warm up",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat junk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "warm up"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "After exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run more",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "skip water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "relax"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What are exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Physical activities",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Physical activities"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why do we do exercises?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To keep fit",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "To feel lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "To waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To get sick",
+          "is_correct": false
+        }
+      ],
+      "answer": "To keep fit"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which is a stretching exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bending",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Eating",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bending"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which exercise makes muscles strong?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Push-ups",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Watching TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Reading",
+          "is_correct": false
+        }
+      ],
+      "answer": "Push-ups"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "When should we exercise?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Once a year",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Never",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only holidays",
+          "is_correct": false
+        }
+      ],
+      "answer": "Daily"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which exercise helps breathing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Running",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sitting",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Running"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Exercises help to keep our body ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "healthy",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "healthy"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which exercise needs space?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jumping",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Talking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jumping"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Before exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "warm up",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "eat junk",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "sit",
+          "is_correct": false
+        }
+      ],
+      "answer": "warm up"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "After exercise we should ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relax",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "run more",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "skip water",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "shout",
+          "is_correct": false
+        }
+      ],
+      "answer": "relax"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are exercises?",
+      "answer": "Exercises are physical activities."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why are exercises important?",
+      "answer": "They keep our body fit."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one exercise.",
+      "answer": "Running."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "When should we exercise?",
+      "answer": "Every day."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which exercise stretches the body?",
+      "answer": "Bending."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What should we do before exercise?",
+      "answer": "Warm up."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should we do after exercise?",
+      "answer": "Relax."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "How do exercises help muscles?",
+      "answer": "They make muscles strong."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who should exercise?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is exercise good for children?",
+      "answer": "It helps them grow healthy."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are exercises?",
+      "answer": "Exercises are physical activities."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why are exercises important?",
+      "answer": "They keep our body fit."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one exercise.",
+      "answer": "Running."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "When should we exercise?",
+      "answer": "Every day."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which exercise stretches the body?",
+      "answer": "Bending."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What should we do before exercise?",
+      "answer": "Warm up."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What should we do after exercise?",
+      "answer": "Relax."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "How do exercises help muscles?",
+      "answer": "They make muscles strong."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who should exercise?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is exercise good for children?",
+      "answer": "It helps them grow healthy."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are exercises?",
+      "answer": "Exercises are physical activities."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why are exercises important?",
+      "answer": "They keep our body fit."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Name one exercise.",
+      "answer": "Running."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "When should we exercise?",
+      "answer": "Every day."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which exercise stretches the body?",
+      "answer": "Bending."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What should we do before exercise?",
+      "answer": "Warm up."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What should we do after exercise?",
+      "answer": "Relax."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "How do exercises help muscles?",
+      "answer": "They make muscles strong."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who should exercise?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is exercise good for children?",
+      "answer": "It helps them grow healthy."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What are exercises?",
+      "answer": "Exercises are physical activities."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why are exercises important?",
+      "answer": "They keep our body fit."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Name one exercise.",
+      "answer": "Running."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "When should we exercise?",
+      "answer": "Every day."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which exercise stretches the body?",
+      "answer": "Bending."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What should we do before exercise?",
+      "answer": "Warm up."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What should we do after exercise?",
+      "answer": "Relax."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "How do exercises help muscles?",
+      "answer": "They make muscles strong."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Who should exercise?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is exercise good for children?",
+      "answer": "It helps them grow healthy."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What are exercises?",
+      "answer": "Exercises are physical activities."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why are exercises important?",
+      "answer": "They keep our body fit."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Name one exercise.",
+      "answer": "Running."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "When should we exercise?",
+      "answer": "Every day."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which exercise stretches the body?",
+      "answer": "Bending."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What should we do before exercise?",
+      "answer": "Warm up."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What should we do after exercise?",
+      "answer": "Relax."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "How do exercises help muscles?",
+      "answer": "They make muscles strong."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who should exercise?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is exercise good for children?",
+      "answer": "It helps them grow healthy."
+    }
+  ]
+}

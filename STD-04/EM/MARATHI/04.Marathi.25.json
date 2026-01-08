@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.25",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "संगणक"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘संगणक’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेचा विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणक"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "संगणक कशासाठी वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माहिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपयुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयभीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयुक्त"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी करावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चांगल्या कामासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वाईट कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ वाया घालवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चांगल्या कामासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कोणाचा मित्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणसाचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राण्यांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्ष्यांचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणसाचा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोरडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणकाचा योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संगणक टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक घाबरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणकाचा योग्य वापर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘संगणक’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या कवितेचा विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणक"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "संगणक कशासाठी वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माहिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपयुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयभीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयुक्त"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी करावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चांगल्या कामासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वाईट कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ वाया घालवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चांगल्या कामासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कोणाचा मित्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणसाचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राण्यांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्ष्यांचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणसाचा"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोरडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणकाचा योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संगणक टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक घाबरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणकाचा योग्य वापर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘संगणक’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "या कवितेचा विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणक"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "संगणक कशासाठी वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माहिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपयुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयभीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयुक्त"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी करावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चांगल्या कामासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वाईट कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ वाया घालवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चांगल्या कामासाठी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कोणाचा मित्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणसाचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राण्यांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्ष्यांचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणसाचा"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोरडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणकाचा योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संगणक टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक घाबरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणकाचा योग्य वापर"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘संगणक’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "या कवितेचा विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणक"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "संगणक कशासाठी वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माहिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपयुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयभीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयुक्त"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी करावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चांगल्या कामासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वाईट कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ वाया घालवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चांगल्या कामासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कोणाचा मित्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणसाचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राण्यांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्ष्यांचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणसाचा"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोरडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणकाचा योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संगणक टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक घाबरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणकाचा योग्य वापर"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘संगणक’ ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "कविता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या कवितेचा विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणक"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "संगणक कशासाठी वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माहिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कसा दाखवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपयुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयभीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयुक्त"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "संगणकाचा वापर कशासाठी करावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चांगल्या कामासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वाईट कामासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ वाया घालवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चांगल्या कामासाठी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कवितेत संगणक कोणाचा मित्र आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणसाचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्राण्यांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाडांचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पक्ष्यांचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणसाचा"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "संगणकामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कोरडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोपे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संगणकाचा योग्य वापर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संगणक टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगणक घाबरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगणकाचा योग्य वापर"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘संगणक’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता संगणकाबद्दल आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "काम व अभ्यासासाठी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "answer": "माहिती मिळवणे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेत संगणक कसा आहे?",
+      "answer": "उपयुक्त आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "संगणकाचा वापर कसा करावा?",
+      "answer": "योग्य पद्धतीने."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय वाढते?",
+      "answer": "ज्ञान वाढते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आहेत."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "संगणक कोणाचा मित्र आहे?",
+      "answer": "माणसाचा मित्र आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेचा संदेश काय आहे?",
+      "answer": "संगणकाचा योग्य वापर करा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘संगणक’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता संगणकाबद्दल आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "काम व अभ्यासासाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "answer": "माहिती मिळवणे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेत संगणक कसा आहे?",
+      "answer": "उपयुक्त आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "संगणकाचा वापर कसा करावा?",
+      "answer": "योग्य पद्धतीने."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय वाढते?",
+      "answer": "ज्ञान वाढते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आहेत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "संगणक कोणाचा मित्र आहे?",
+      "answer": "माणसाचा मित्र आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवितेचा संदेश काय आहे?",
+      "answer": "संगणकाचा योग्य वापर करा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘संगणक’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता संगणकाबद्दल आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "काम व अभ्यासासाठी."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "answer": "माहिती मिळवणे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेत संगणक कसा आहे?",
+      "answer": "उपयुक्त आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "संगणकाचा वापर कसा करावा?",
+      "answer": "योग्य पद्धतीने."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय वाढते?",
+      "answer": "ज्ञान वाढते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आहेत."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "संगणक कोणाचा मित्र आहे?",
+      "answer": "माणसाचा मित्र आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कवितेचा संदेश काय आहे?",
+      "answer": "संगणकाचा योग्य वापर करा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘संगणक’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता संगणकाबद्दल आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "काम व अभ्यासासाठी."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "answer": "माहिती मिळवणे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कवितेत संगणक कसा आहे?",
+      "answer": "उपयुक्त आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "संगणकाचा वापर कसा करावा?",
+      "answer": "योग्य पद्धतीने."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय वाढते?",
+      "answer": "ज्ञान वाढते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "संगणक कोणाचा मित्र आहे?",
+      "answer": "माणसाचा मित्र आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "कवितेचा संदेश काय आहे?",
+      "answer": "संगणकाचा योग्य वापर करा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘संगणक’ ही कविता कशाबद्दल आहे?",
+      "answer": "ही कविता संगणकाबद्दल आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "संगणकाचा उपयोग कशासाठी होतो?",
+      "answer": "काम व अभ्यासासाठी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय सोपे झाले आहे?",
+      "answer": "माहिती मिळवणे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "कवितेत संगणक कसा आहे?",
+      "answer": "उपयुक्त आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "संगणकाचा वापर कसा करावा?",
+      "answer": "योग्य पद्धतीने."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "संगणकामुळे काय वाढते?",
+      "answer": "ज्ञान वाढते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कवितेतील शब्द कसे आहेत?",
+      "answer": "सोपे आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "संगणक कोणाचा मित्र आहे?",
+      "answer": "माणसाचा मित्र आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कवितेचा संदेश काय आहे?",
+      "answer": "संगणकाचा योग्य वापर करा."
+    }
+  ]
+}

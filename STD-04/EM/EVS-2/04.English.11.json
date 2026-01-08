@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.11",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "The Discomfiture of Shaistakhan"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who sent Shaistakhan against Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adilshah",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jaising",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Shaistakhan was the ______ of Aurangzeb.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "son",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "brother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "uncle",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "friend",
+          "is_correct": false
+        }
+      ],
+      "answer": "uncle"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where did Shaistakhan make his headquarters in Pune?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaniwar Wada",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parvati",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lal Mahal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sinhagad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lal Mahal"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which fort did Shaistakhan first lay siege to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who defended Chakan fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Firangoji Narsala",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Murarbaji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Firangoji Narsala"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "How many fingers of Shaistakhan were cut off?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "On which date did Shivaji attack Shaistakhan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5 April 1663",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "6 June 1664",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 May 1660",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10 March 1665",
+          "is_correct": false
+        }
+      ],
+      "answer": "5 April 1663"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji escape after the attack?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Purandar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sinhagad"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "After the attack, Shaistakhan was transferred to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bengal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Assam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bengal"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What quality of Shivaji is shown here?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fearlessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clever planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clever planning"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who sent Shaistakhan against Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adilshah",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jaising",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Shaistakhan was the ______ of Aurangzeb.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "son",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "brother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "uncle",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "friend",
+          "is_correct": false
+        }
+      ],
+      "answer": "uncle"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where did Shaistakhan make his headquarters in Pune?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaniwar Wada",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parvati",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lal Mahal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sinhagad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lal Mahal"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which fort did Shaistakhan first lay siege to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who defended Chakan fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Firangoji Narsala",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Murarbaji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Firangoji Narsala"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "How many fingers of Shaistakhan were cut off?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "On which date did Shivaji attack Shaistakhan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5 April 1663",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "6 June 1664",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 May 1660",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10 March 1665",
+          "is_correct": false
+        }
+      ],
+      "answer": "5 April 1663"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji escape after the attack?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Purandar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sinhagad"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "After the attack, Shaistakhan was transferred to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bengal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Assam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bengal"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What quality of Shivaji is shown here?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fearlessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clever planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clever planning"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who sent Shaistakhan against Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adilshah",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jaising",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Shaistakhan was the ______ of Aurangzeb.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "son",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "brother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "uncle",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "friend",
+          "is_correct": false
+        }
+      ],
+      "answer": "uncle"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Where did Shaistakhan make his headquarters in Pune?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaniwar Wada",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parvati",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lal Mahal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sinhagad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lal Mahal"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which fort did Shaistakhan first lay siege to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who defended Chakan fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Firangoji Narsala",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Murarbaji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Firangoji Narsala"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "How many fingers of Shaistakhan were cut off?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "On which date did Shivaji attack Shaistakhan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5 April 1663",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "6 June 1664",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 May 1660",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10 March 1665",
+          "is_correct": false
+        }
+      ],
+      "answer": "5 April 1663"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji escape after the attack?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Purandar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sinhagad"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "After the attack, Shaistakhan was transferred to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bengal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Assam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bengal"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What quality of Shivaji is shown here?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fearlessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clever planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clever planning"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who sent Shaistakhan against Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adilshah",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jaising",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Shaistakhan was the ______ of Aurangzeb.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "son",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "brother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "uncle",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "friend",
+          "is_correct": false
+        }
+      ],
+      "answer": "uncle"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Where did Shaistakhan make his headquarters in Pune?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaniwar Wada",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parvati",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lal Mahal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sinhagad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lal Mahal"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which fort did Shaistakhan first lay siege to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who defended Chakan fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Firangoji Narsala",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Murarbaji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Firangoji Narsala"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "How many fingers of Shaistakhan were cut off?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "On which date did Shivaji attack Shaistakhan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5 April 1663",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "6 June 1664",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 May 1660",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10 March 1665",
+          "is_correct": false
+        }
+      ],
+      "answer": "5 April 1663"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji escape after the attack?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Purandar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sinhagad"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "After the attack, Shaistakhan was transferred to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bengal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Assam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bengal"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What quality of Shivaji is shown here?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fearlessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clever planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clever planning"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who sent Shaistakhan against Shivaji Maharaj?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Adilshah",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Jaising",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Shaistakhan was the ______ of Aurangzeb.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "son",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "brother",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "uncle",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "friend",
+          "is_correct": false
+        }
+      ],
+      "answer": "uncle"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Where did Shaistakhan make his headquarters in Pune?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaniwar Wada",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Parvati",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Lal Mahal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Sinhagad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lal Mahal"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which fort did Shaistakhan first lay siege to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who defended Chakan fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Firangoji Narsala",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Murarbaji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Firangoji Narsala"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "How many fingers of Shaistakhan were cut off?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Three",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Four",
+          "is_correct": false
+        }
+      ],
+      "answer": "Three"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "On which date did Shivaji attack Shaistakhan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5 April 1663",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "6 June 1664",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 May 1660",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10 March 1665",
+          "is_correct": false
+        }
+      ],
+      "answer": "5 April 1663"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji escape after the attack?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Purandar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sinhagad"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "After the attack, Shaistakhan was transferred to?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Delhi",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bengal",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Assam",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bengal"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What quality of Shivaji is shown here?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fearlessness",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Clever planning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Clever planning"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who was Shaistakhan?",
+      "answer": "He was Aurangzeb\u2019s uncle and a Mughal general."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why was Shaistakhan sent to Pune?",
+      "answer": "To defeat Shivaji Maharaj."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where did Shaistakhan stay in Pune?",
+      "answer": "At Lal Mahal."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who defended Chakan fort?",
+      "answer": "Firangoji Narsala."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji attack Shaistakhan?",
+      "answer": "To stop Mughal atrocities."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What injury did Shaistakhan suffer?",
+      "answer": "He lost three fingers."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How did Shivaji enter Lal Mahal?",
+      "answer": "By making a hole in the wall."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji escape after the attack?",
+      "answer": "Sinhagad."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What was the result of the attack?",
+      "answer": "Shaistakhan was transferred."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What lesson do we learn?",
+      "answer": "Courage and intelligence."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who was Shaistakhan?",
+      "answer": "He was Aurangzeb\u2019s uncle and a Mughal general."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why was Shaistakhan sent to Pune?",
+      "answer": "To defeat Shivaji Maharaj."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Where did Shaistakhan stay in Pune?",
+      "answer": "At Lal Mahal."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who defended Chakan fort?",
+      "answer": "Firangoji Narsala."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji attack Shaistakhan?",
+      "answer": "To stop Mughal atrocities."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What injury did Shaistakhan suffer?",
+      "answer": "He lost three fingers."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How did Shivaji enter Lal Mahal?",
+      "answer": "By making a hole in the wall."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji escape after the attack?",
+      "answer": "Sinhagad."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What was the result of the attack?",
+      "answer": "Shaistakhan was transferred."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What lesson do we learn?",
+      "answer": "Courage and intelligence."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who was Shaistakhan?",
+      "answer": "He was Aurangzeb\u2019s uncle and a Mughal general."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why was Shaistakhan sent to Pune?",
+      "answer": "To defeat Shivaji Maharaj."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Where did Shaistakhan stay in Pune?",
+      "answer": "At Lal Mahal."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who defended Chakan fort?",
+      "answer": "Firangoji Narsala."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji attack Shaistakhan?",
+      "answer": "To stop Mughal atrocities."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What injury did Shaistakhan suffer?",
+      "answer": "He lost three fingers."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How did Shivaji enter Lal Mahal?",
+      "answer": "By making a hole in the wall."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji escape after the attack?",
+      "answer": "Sinhagad."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What was the result of the attack?",
+      "answer": "Shaistakhan was transferred."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What lesson do we learn?",
+      "answer": "Courage and intelligence."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who was Shaistakhan?",
+      "answer": "He was Aurangzeb\u2019s uncle and a Mughal general."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why was Shaistakhan sent to Pune?",
+      "answer": "To defeat Shivaji Maharaj."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Where did Shaistakhan stay in Pune?",
+      "answer": "At Lal Mahal."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who defended Chakan fort?",
+      "answer": "Firangoji Narsala."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji attack Shaistakhan?",
+      "answer": "To stop Mughal atrocities."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What injury did Shaistakhan suffer?",
+      "answer": "He lost three fingers."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How did Shivaji enter Lal Mahal?",
+      "answer": "By making a hole in the wall."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji escape after the attack?",
+      "answer": "Sinhagad."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What was the result of the attack?",
+      "answer": "Shaistakhan was transferred."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What lesson do we learn?",
+      "answer": "Courage and intelligence."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who was Shaistakhan?",
+      "answer": "He was Aurangzeb\u2019s uncle and a Mughal general."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why was Shaistakhan sent to Pune?",
+      "answer": "To defeat Shivaji Maharaj."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Where did Shaistakhan stay in Pune?",
+      "answer": "At Lal Mahal."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who defended Chakan fort?",
+      "answer": "Firangoji Narsala."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji attack Shaistakhan?",
+      "answer": "To stop Mughal atrocities."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What injury did Shaistakhan suffer?",
+      "answer": "He lost three fingers."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How did Shivaji enter Lal Mahal?",
+      "answer": "By making a hole in the wall."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji escape after the attack?",
+      "answer": "Sinhagad."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What was the result of the attack?",
+      "answer": "Shaistakhan was transferred."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What lesson do we learn?",
+      "answer": "Courage and intelligence."
+    }
+  ]
+}

@@ -1,0 +1,1655 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.02",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Inter-relationships between Living Things"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "What do all living things need to survive?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Toys",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Food, water, and air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Books",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Food, water, and air"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which of the following is a living thing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Stone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Chair",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tree",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Table",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tree"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Plants prepare their food using?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moonlight",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sunlight",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fire",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Electricity",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sunlight"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which gas do plants release?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hydrogen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Animals depend on plants for?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen and food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shelter only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Tools",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen and food"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which animal helps in pollination?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Bee",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bee"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "What is a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A rope",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "A food link",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "A game",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "A road",
+                    "is_correct": false
+                }
+            ],
+            "answer": "A food link"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Who are producers in a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plants",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Humans",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Birds",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plants"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Who are consumers?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Water",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Animals"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which animal eats plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wolf",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which animal eats other animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Deer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lion"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which animal eats both plants and animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Human"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which living thing gives shelter to animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tree",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Rock",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tree"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which living thing cleans the air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Car",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Machine",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "What do animals give out while breathing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbon dioxide"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which living thing makes soil fertile?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Snake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Earthworm",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dog",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Earthworm"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which animal helps in seed dispersal?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bird",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bird"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which comes first in a food chain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bird",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which living thing needs sunlight?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bird",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which living thing lives in water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Camel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fish",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fish"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which is a herbivore?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wolf",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which is a carnivore?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Deer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lion"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which is an omnivore?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Human"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which living thing gives us food directly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bird",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which living thing gives oxygen?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Human",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which animals depend on forests?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Humans only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plants only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which animal eats dead animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Goat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Vulture",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Deer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Vulture"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which part of plant helps in breathing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Root",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stem",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leaf",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Flower",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaf"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which living thing needs shelter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animals only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plants only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "All living things",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All living things"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which living thing depends on others?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "All living things",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All living things"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which animal helps farmers in ploughing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Bullock",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Goat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bullock"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which shows interdependence?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Book and pen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plant and animal",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Table and chair",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Car and road",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant and animal"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "What happens if plants disappear?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nothing",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only animals suffer",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Life ends",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only humans suffer",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Life ends"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which living thing depends on soil?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Bird",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Human",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which animal depends on grass?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wolf",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which helps in seed dispersal?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wind",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which living thing uses oxygen?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals only",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Both",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "None",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Both"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which living thing releases oxygen?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bird",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which living thing gives shelter to birds?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tree",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "River",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mountain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Road",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tree"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which animal helps plants grow?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bee",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Snake",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dog",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Bee"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which living thing needs water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which animal lives on land and water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Frog"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which living thing provides shade?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tree",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Car",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "House",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Road",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tree"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which animal depends on plants directly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tiger",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Lion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Goat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wolf",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Goat"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which living thing gives us fruits?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Animal",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plant",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Human",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Bird",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Plant"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which animal helps in transportation?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Horse",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Horse"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which living thing maintains balance in nature?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Plants",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Animals",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Humans",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "What connects living things together?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Games",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dependence",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Books",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dependence"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "What is interdependence?",
+            "answer": "Interdependence means living things depend on each other to survive."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "Why do animals depend on plants?",
+            "answer": "Animals depend on plants for food and oxygen."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Why do plants depend on animals?",
+            "answer": "Plants depend on animals for pollination and seed dispersal."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "What are producers?",
+            "answer": "Producers are plants that make their own food."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "What are consumers?",
+            "answer": "Consumers are living things that depend on others for food."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What is a food chain?",
+            "answer": "A food chain shows how food passes from one living thing to another."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "Why are plants important in a food chain?",
+            "answer": "Plants are the starting point of food chains."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "What do herbivores eat?",
+            "answer": "Herbivores eat plants."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "What do carnivores eat?",
+            "answer": "Carnivores eat other animals."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "What do omnivores eat?",
+            "answer": "Omnivores eat both plants and animals."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Why is sunlight important for plants?",
+            "answer": "Sunlight helps plants prepare food."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "How do plants clean the air?",
+            "answer": "Plants absorb carbon dioxide and release oxygen."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "Why do animals need oxygen?",
+            "answer": "Animals need oxygen to breathe."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "What is pollination?",
+            "answer": "Pollination is the transfer of pollen from one flower to another."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "How do bees help plants?",
+            "answer": "Bees help plants by pollination."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "What is seed dispersal?",
+            "answer": "Seed dispersal is the spreading of seeds to new places."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "How do birds help in seed dispersal?",
+            "answer": "Birds carry seeds to different places."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Why are earthworms useful?",
+            "answer": "Earthworms make soil fertile."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "What happens if plants disappear?",
+            "answer": "Animals and humans will not survive."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "Why are forests important?",
+            "answer": "Forests provide food and shelter to many living things."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "How do animals help humans?",
+            "answer": "Animals give food and help in work."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Why do living things need water?",
+            "answer": "Water is needed for growth and survival."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "What is a habitat?",
+            "answer": "A habitat is the home of a living thing."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "Why do animals need shelter?",
+            "answer": "Shelter protects animals from danger."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "How do plants help humans?",
+            "answer": "Plants give food, oxygen, and medicines."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Why is balance in nature important?",
+            "answer": "Balance keeps all living things safe."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "What role do trees play?",
+            "answer": "Trees provide oxygen, food, and shelter."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Why should we protect plants?",
+            "answer": "Plants are necessary for life on earth."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Why should we protect animals?",
+            "answer": "Animals are part of nature."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "How do humans depend on plants?",
+            "answer": "Humans depend on plants for food and oxygen."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "How do humans depend on animals?",
+            "answer": "Humans depend on animals for food and work."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "What is a herbivore?",
+            "answer": "A herbivore is an animal that eats plants."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "What is a carnivore?",
+            "answer": "A carnivore is an animal that eats other animals."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "What is an omnivore?",
+            "answer": "An omnivore eats plants and animals."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Why is soil important?",
+            "answer": "Soil provides nutrients to plants."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "How do plants get water?",
+            "answer": "Plants get water through roots."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "What happens if animals disappear?",
+            "answer": "Nature becomes unbalanced."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "Why do living things help each other?",
+            "answer": "Helping each other helps survival."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "What do living things share?",
+            "answer": "They share food, air, and water."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "Why are bees important?",
+            "answer": "Bees help plants grow."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "Why are birds important?",
+            "answer": "Birds help in seed dispersal."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "What do animals give out while breathing?",
+            "answer": "Animals give out carbon dioxide."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "Why do plants need carbon dioxide?",
+            "answer": "Plants use it to make food."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "How does interdependence help life?",
+            "answer": "It helps living things survive together."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "What lesson do we learn from nature?",
+            "answer": "All living things depend on each other."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "Why should we save environment?",
+            "answer": "To protect life on earth."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "How do forests help humans?",
+            "answer": "Forests give oxygen and resources."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Why is water important for plants?",
+            "answer": "Water helps plants grow."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "How do animals maintain balance?",
+            "answer": "Animals control population in nature."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why should we plant trees?",
+            "answer": "Trees support life."
+        }
+    ]
+}

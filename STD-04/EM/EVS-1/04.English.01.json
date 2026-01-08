@@ -1,0 +1,1655 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.01",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "The Life Cycle of Animals"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "What is meant by a life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "A game",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stages of life of a living being",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Only birth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Only death",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Stages of life of a living being"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which stage comes first in the life cycle of a butterfly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Egg",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Egg"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "What is the larva of a butterfly called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Tadpole",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Caterpillar",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Chick",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Calf",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Caterpillar"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which stage comes after larva in insects?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Death",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which animal gives birth to young ones?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frog",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which animal lays eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "What is the young one of a frog called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Calf",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Chick",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Tadpole",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cub",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Tadpole"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which stage is a resting stage in insects?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which animal shows complete metamorphosis?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "What do we call change in form during life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Movement",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Metamorphosis",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Breathing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Metamorphosis"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which stage involves rapid growth?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which animal has tadpole stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Frog"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which is the correct order of butterfly life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg\u2013Larva\u2013Pupa\u2013Adult",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva\u2013Egg\u2013Adult\u2013Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Egg\u2013Pupa\u2013Larva\u2013Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult\u2013Egg\u2013Larva\u2013Pupa",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Egg\u2013Larva\u2013Pupa\u2013Adult"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which animal baby looks similar to adult?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Butterfly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fish",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which animal lays eggs in water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Frog",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cow",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Frog"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "What is the adult stage of a frog called?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Tadpole",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Frog",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Egg",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Frog"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which animals feed milk to babies?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Birds",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reptiles",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Mammals",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fish",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Mammals"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "What comes after the adult stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reproduction",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Larva",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Reproduction"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which stage prepares insect for adulthood?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which animal does not lay eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frog",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which stage comes last in life cycle?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Growth",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Death",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Death"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which animal life cycle has four stages?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Human",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "What do baby animals need most?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Toys",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Care and food",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Books",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Care and food"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which animal baby is called chick?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lion",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which stage shows maximum change in insects?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Pupa"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which animal grows inside mother?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frog",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which animal has direct development?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Butterfly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fish",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "What helps animals grow?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "All of these",
+                    "is_correct": true
+                }
+            ],
+            "answer": "All of these"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which animal baby is called calf?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which animal shows indirect development?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which stage comes after egg in frog?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Death",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Why do animals reproduce?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To continue species",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "To sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To move",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To continue species"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which animal lays many eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fish",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Horse",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fish"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "What is the purpose of pupa stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Eating",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Rest and change",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Flying",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Laying eggs",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Rest and change"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which animal starts life as egg?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Human",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which animal has similar looking baby?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Butterfly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which stage involves eating a lot?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Larva",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Adult",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Larva"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which animal life cycle is fastest?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Butterfly",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Elephant",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Human",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Butterfly"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which animal baby is called puppy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dog",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Lion",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Dog"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which stage is common in all animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Adult",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Pupa",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Larva",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Adult"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which animal lives on land and water?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Frog"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which animal shows incomplete change?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Butterfly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hen",
+                    "is_correct": true
+                }
+            ],
+            "answer": "Hen"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which stage involves laying eggs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Adult",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Egg",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Larva",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Pupa",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Adult"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which animal feeds milk to young ones?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fish",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Frog",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "What do animals need at all stages?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Food and care",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Toys",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Books",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Games",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Food and care"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which animal baby is called cub?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Dog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cow",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Lion",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Lion"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which animal does not have larva stage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Butterfly",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Frog",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cow",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fish",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cow"
+        },
+        {
+            "question_id": 48,
+            "question_type": "MCQ",
+            "question": "What do adult animals do?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Play",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sleep",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reproduce",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hide",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Reproduce"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "What is the life cycle of animals?",
+            "answer": "It is the series of stages an animal passes through from birth to death."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "Why do animals have a life cycle?",
+            "answer": "Life cycle helps animals grow, reproduce, and continue their species."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "What is an egg stage?",
+            "answer": "It is the first stage where a young animal develops inside an egg."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "What is a larva stage?",
+            "answer": "It is the stage after egg when the animal eats and grows quickly."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Why is larva stage important?",
+            "answer": "It helps the animal gain energy and grow in size."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What happens in the pupa stage?",
+            "answer": "The animal rests and changes into an adult form."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "Why is pupa called a resting stage?",
+            "answer": "Because the insect does not eat or move much during this stage."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "What is an adult stage?",
+            "answer": "It is the fully grown stage of an animal."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "What is metamorphosis?",
+            "answer": "It is the complete change in body form during the life cycle."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "Which animals show metamorphosis?",
+            "answer": "Butterflies and frogs show metamorphosis."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "What is a tadpole?",
+            "answer": "It is the young stage of a frog that lives in water."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "Why do frogs lay eggs in water?",
+            "answer": "So that tadpoles can live and grow in water."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "How is a frog life cycle different from a cow?",
+            "answer": "Frogs change form while cows look similar to their babies."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "What is direct development?",
+            "answer": "It is when babies look similar to adults."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "What is indirect development?",
+            "answer": "It is when babies look different from adults."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "Name one animal with direct development.",
+            "answer": "Cow shows direct development."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "Name one animal with indirect development.",
+            "answer": "Butterfly shows indirect development."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Why do animals need food at every stage?",
+            "answer": "Food provides energy for growth and survival."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "What do baby animals need?",
+            "answer": "They need food, care, and protection."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "Why is care important for young animals?",
+            "answer": "Care keeps them safe from danger."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "What is reproduction?",
+            "answer": "It is the process by which animals produce young ones."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Why is reproduction important?",
+            "answer": "It helps continue the species."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "Which stage helps insects prepare for adulthood?",
+            "answer": "Pupa stage prepares insects for adulthood."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "What is the last stage of life cycle?",
+            "answer": "Death is the last stage of life cycle."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "Do all animals have the same life cycle?",
+            "answer": "No, different animals have different life cycles."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Why do insects lay many eggs?",
+            "answer": "To ensure survival of some young ones."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "What do mammals feed their babies?",
+            "answer": "They feed milk to their babies."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Why do animals grow?",
+            "answer": "Animals grow to become adults and reproduce."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "What happens after animals become adults?",
+            "answer": "They reproduce and later die."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "Why is the life cycle important?",
+            "answer": "It helps living beings continue life on earth."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "What is growth?",
+            "answer": "Growth is increase in size and strength."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "What helps animals survive?",
+            "answer": "Food, water, air, and shelter help animals survive."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Why do baby animals need protection?",
+            "answer": "They cannot protect themselves."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "Which animals lay eggs?",
+            "answer": "Birds, insects, and fish lay eggs."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "Which animals give birth?",
+            "answer": "Mammals give birth to young ones."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "How do insects change form?",
+            "answer": "They change form through metamorphosis."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "Why is larva stage active?",
+            "answer": "Because the animal eats and grows a lot."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "What happens if animals do not reproduce?",
+            "answer": "Their species will disappear."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "Which stage comes after egg in insects?",
+            "answer": "Larva comes after egg."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "What stage comes after tadpole?",
+            "answer": "Adult frog comes after tadpole."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "Why is water important in frog life cycle?",
+            "answer": "Frog eggs and tadpoles need water."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "What is a chick?",
+            "answer": "A chick is a baby hen."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "What is a calf?",
+            "answer": "A calf is a baby cow."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "How do animals help nature?",
+            "answer": "They maintain balance in nature."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "Why should we care for animals?",
+            "answer": "Animals are living beings and part of nature."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "What do adult animals do for babies?",
+            "answer": "They protect and feed their babies."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Which animals have long life cycles?",
+            "answer": "Animals like elephants have long life cycles."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "How does learning life cycles help us?",
+            "answer": "It helps us understand animals better."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "What is survival?",
+            "answer": "Survival means staying alive."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why is environment important for life cycle?",
+            "answer": "Environment provides food and shelter."
+        }
+    ]
+}

@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.05",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "Shivaji\u2019s Education"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who took care of Shivaji\u2019s education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shahaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji receive training?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Training camps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forts",
+          "is_correct": true
+        }
+      ],
+      "answer": "Forts"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What subjects did Shivaji learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "War skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Administration and warfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Music",
+          "is_correct": false
+        }
+      ],
+      "answer": "Administration and warfare"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who taught Shivaji horse riding?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What kind of education did Shivaji get?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Royal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Practical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Religious only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practical"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which quality developed due to education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What helped Shivaji become a good ruler?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Education"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which skill was important for Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sword fighting",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sword fighting"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What values were taught to Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and duty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and duty"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Who guided Shivaji morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadoji Konddev",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jijabai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jijabai"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who took care of Shivaji\u2019s education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shahaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji receive training?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Training camps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forts",
+          "is_correct": true
+        }
+      ],
+      "answer": "Forts"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What subjects did Shivaji learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "War skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Administration and warfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Music",
+          "is_correct": false
+        }
+      ],
+      "answer": "Administration and warfare"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who taught Shivaji horse riding?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What kind of education did Shivaji get?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Royal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Practical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Religious only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practical"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which quality developed due to education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What helped Shivaji become a good ruler?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Education"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which skill was important for Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sword fighting",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sword fighting"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What values were taught to Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and duty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and duty"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Who guided Shivaji morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadoji Konddev",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jijabai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jijabai"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who took care of Shivaji\u2019s education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shahaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji receive training?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Training camps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forts",
+          "is_correct": true
+        }
+      ],
+      "answer": "Forts"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What subjects did Shivaji learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "War skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Administration and warfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Music",
+          "is_correct": false
+        }
+      ],
+      "answer": "Administration and warfare"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who taught Shivaji horse riding?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What kind of education did Shivaji get?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Royal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Practical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Religious only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practical"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which quality developed due to education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What helped Shivaji become a good ruler?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Education"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which skill was important for Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sword fighting",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sword fighting"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What values were taught to Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and duty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and duty"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Who guided Shivaji morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadoji Konddev",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jijabai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jijabai"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who took care of Shivaji\u2019s education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shahaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji receive training?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Training camps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forts",
+          "is_correct": true
+        }
+      ],
+      "answer": "Forts"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What subjects did Shivaji learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "War skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Administration and warfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Music",
+          "is_correct": false
+        }
+      ],
+      "answer": "Administration and warfare"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who taught Shivaji horse riding?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What kind of education did Shivaji get?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Royal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Practical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Religious only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practical"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which quality developed due to education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What helped Shivaji become a good ruler?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Education"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which skill was important for Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sword fighting",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sword fighting"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What values were taught to Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and duty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and duty"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Who guided Shivaji morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadoji Konddev",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jijabai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jijabai"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who took care of Shivaji\u2019s education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shahaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Where did Shivaji receive training?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "School",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Court",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Training camps",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Forts",
+          "is_correct": true
+        }
+      ],
+      "answer": "Forts"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What subjects did Shivaji learn?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "War skills",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Administration and warfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Music",
+          "is_correct": false
+        }
+      ],
+      "answer": "Administration and warfare"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who taught Shivaji horse riding?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Jijabai",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dadoji Konddev",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dadoji Konddev"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What kind of education did Shivaji get?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Royal",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Practical",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Religious only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practical"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which quality developed due to education?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Discipline",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Discipline"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What helped Shivaji become a good ruler?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Education",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Power",
+          "is_correct": false
+        }
+      ],
+      "answer": "Education"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which skill was important for Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sword fighting",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Dancing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Sword fighting"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What values were taught to Shivaji?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and duty",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and duty"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Who guided Shivaji morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Dadoji Konddev",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Teachers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Jijabai",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Friends",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jijabai"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who guided Shivaji\u2019s education?",
+      "answer": "Dadoji Konddev guided Shivaji\u2019s education."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What type of education did Shivaji receive?",
+      "answer": "He received practical education."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What skills did Shivaji learn?",
+      "answer": "Administration and warfare."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who taught Shivaji discipline?",
+      "answer": "Dadoji Konddev."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why was education important?",
+      "answer": "It helped Shivaji rule wisely."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji learn warfare?",
+      "answer": "At forts and training grounds."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What values did Shivaji learn?",
+      "answer": "Justice, discipline and duty."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who influenced Shivaji morally?",
+      "answer": "His mother Jijabai."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Did education shape Shivaji\u2019s leadership?",
+      "answer": "Yes, it shaped his leadership."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What made Shivaji a capable ruler?",
+      "answer": "His education and values."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who guided Shivaji\u2019s education?",
+      "answer": "Dadoji Konddev guided Shivaji\u2019s education."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What type of education did Shivaji receive?",
+      "answer": "He received practical education."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What skills did Shivaji learn?",
+      "answer": "Administration and warfare."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who taught Shivaji discipline?",
+      "answer": "Dadoji Konddev."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why was education important?",
+      "answer": "It helped Shivaji rule wisely."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji learn warfare?",
+      "answer": "At forts and training grounds."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What values did Shivaji learn?",
+      "answer": "Justice, discipline and duty."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who influenced Shivaji morally?",
+      "answer": "His mother Jijabai."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Did education shape Shivaji\u2019s leadership?",
+      "answer": "Yes, it shaped his leadership."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What made Shivaji a capable ruler?",
+      "answer": "His education and values."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who guided Shivaji\u2019s education?",
+      "answer": "Dadoji Konddev guided Shivaji\u2019s education."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What type of education did Shivaji receive?",
+      "answer": "He received practical education."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What skills did Shivaji learn?",
+      "answer": "Administration and warfare."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who taught Shivaji discipline?",
+      "answer": "Dadoji Konddev."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why was education important?",
+      "answer": "It helped Shivaji rule wisely."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji learn warfare?",
+      "answer": "At forts and training grounds."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What values did Shivaji learn?",
+      "answer": "Justice, discipline and duty."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who influenced Shivaji morally?",
+      "answer": "His mother Jijabai."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Did education shape Shivaji\u2019s leadership?",
+      "answer": "Yes, it shaped his leadership."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What made Shivaji a capable ruler?",
+      "answer": "His education and values."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who guided Shivaji\u2019s education?",
+      "answer": "Dadoji Konddev guided Shivaji\u2019s education."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What type of education did Shivaji receive?",
+      "answer": "He received practical education."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What skills did Shivaji learn?",
+      "answer": "Administration and warfare."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who taught Shivaji discipline?",
+      "answer": "Dadoji Konddev."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why was education important?",
+      "answer": "It helped Shivaji rule wisely."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji learn warfare?",
+      "answer": "At forts and training grounds."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What values did Shivaji learn?",
+      "answer": "Justice, discipline and duty."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who influenced Shivaji morally?",
+      "answer": "His mother Jijabai."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Did education shape Shivaji\u2019s leadership?",
+      "answer": "Yes, it shaped his leadership."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What made Shivaji a capable ruler?",
+      "answer": "His education and values."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who guided Shivaji\u2019s education?",
+      "answer": "Dadoji Konddev guided Shivaji\u2019s education."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What type of education did Shivaji receive?",
+      "answer": "He received practical education."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What skills did Shivaji learn?",
+      "answer": "Administration and warfare."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who taught Shivaji discipline?",
+      "answer": "Dadoji Konddev."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why was education important?",
+      "answer": "It helped Shivaji rule wisely."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Where did Shivaji learn warfare?",
+      "answer": "At forts and training grounds."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What values did Shivaji learn?",
+      "answer": "Justice, discipline and duty."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Who influenced Shivaji morally?",
+      "answer": "His mother Jijabai."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Did education shape Shivaji\u2019s leadership?",
+      "answer": "Yes, it shaped his leadership."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What made Shivaji a capable ruler?",
+      "answer": "His education and values."
+    }
+  ]
+}

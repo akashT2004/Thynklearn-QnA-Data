@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.04",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Your Own Book of Science"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does the child want to make?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Science book",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poem book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Diary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Science book"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What is the book made from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Printed pages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pictures only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stories",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observations"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Where does the child observe things?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only school",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and surroundings"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What helps the child learn science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memorising",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observing and questioning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and questioning"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which skill is important in science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Imagination only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What does the child write about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facts from books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Things seen and felt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fairy tales",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Things seen and felt"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Science helps us understand ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What should a science book encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What does the child use to record ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Notebook",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tablet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Poster",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Notebook"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does the child want to make?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Science book",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poem book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Diary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Science book"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What is the book made from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Printed pages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pictures only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stories",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observations"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Where does the child observe things?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only school",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and surroundings"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What helps the child learn science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memorising",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observing and questioning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and questioning"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which skill is important in science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Imagination only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What does the child write about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facts from books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Things seen and felt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fairy tales",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Things seen and felt"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Science helps us understand ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What should a science book encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What does the child use to record ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Notebook",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tablet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Poster",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Notebook"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does the child want to make?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Science book",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poem book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Diary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Science book"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What is the book made from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Printed pages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pictures only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stories",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observations"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Where does the child observe things?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only school",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and surroundings"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What helps the child learn science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memorising",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observing and questioning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and questioning"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which skill is important in science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Imagination only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What does the child write about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facts from books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Things seen and felt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fairy tales",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Things seen and felt"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Science helps us understand ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What should a science book encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What does the child use to record ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Notebook",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tablet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Poster",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Notebook"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does the child want to make?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Science book",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poem book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Diary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Science book"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What is the book made from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Printed pages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pictures only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stories",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observations"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Where does the child observe things?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only school",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and surroundings"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What helps the child learn science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memorising",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observing and questioning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and questioning"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which skill is important in science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Imagination only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What does the child write about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facts from books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Things seen and felt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fairy tales",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Things seen and felt"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Science helps us understand ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What should a science book encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What does the child use to record ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Notebook",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tablet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Poster",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Notebook"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does the child want to make?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Story book",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Science book",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poem book",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Diary",
+          "is_correct": false
+        }
+      ],
+      "answer": "Science book"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What is the book made from?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Printed pages",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observations",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Pictures only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Stories",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observations"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Where does the child observe things?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only school",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Library",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "TV",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature and surroundings"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What helps the child learn science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Memorising",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Observing and questioning",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Reading stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observing and questioning"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which skill is important in science?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Imagination only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What does the child write about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Facts from books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Things seen and felt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fairy tales",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "History",
+          "is_correct": false
+        }
+      ],
+      "answer": "Things seen and felt"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Science helps us understand ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stories",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nature",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Songs",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What should a science book encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curiosity",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Punishment",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curiosity"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What does the child use to record ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Notebook",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Tablet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Poster",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wall",
+          "is_correct": false
+        }
+      ],
+      "answer": "Notebook"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The chapter encourages us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Curious",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Afraid",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Silent",
+          "is_correct": false
+        }
+      ],
+      "answer": "Curious"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does the child want to make?",
+      "answer": "The child wants to make a science book."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What is special about the book?",
+      "answer": "It is made from personal observations."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Where does the child observe things?",
+      "answer": "In nature and daily life."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How do we learn science best?",
+      "answer": "By observing and asking questions."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What skill is important in science?",
+      "answer": "Observation."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What does the child write in the book?",
+      "answer": "Things seen, felt and understood."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Why is curiosity important?",
+      "answer": "It helps us learn new things."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What does science help us understand?",
+      "answer": "Nature and the world around us."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What should we do like the child?",
+      "answer": "Observe and note things."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "Learning science is fun and curious."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the child want to make?",
+      "answer": "The child wants to make a science book."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What is special about the book?",
+      "answer": "It is made from personal observations."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Where does the child observe things?",
+      "answer": "In nature and daily life."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How do we learn science best?",
+      "answer": "By observing and asking questions."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What skill is important in science?",
+      "answer": "Observation."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What does the child write in the book?",
+      "answer": "Things seen, felt and understood."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Why is curiosity important?",
+      "answer": "It helps us learn new things."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What does science help us understand?",
+      "answer": "Nature and the world around us."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What should we do like the child?",
+      "answer": "Observe and note things."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "Learning science is fun and curious."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does the child want to make?",
+      "answer": "The child wants to make a science book."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What is special about the book?",
+      "answer": "It is made from personal observations."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Where does the child observe things?",
+      "answer": "In nature and daily life."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How do we learn science best?",
+      "answer": "By observing and asking questions."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What skill is important in science?",
+      "answer": "Observation."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What does the child write in the book?",
+      "answer": "Things seen, felt and understood."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Why is curiosity important?",
+      "answer": "It helps us learn new things."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What does science help us understand?",
+      "answer": "Nature and the world around us."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What should we do like the child?",
+      "answer": "Observe and note things."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "Learning science is fun and curious."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does the child want to make?",
+      "answer": "The child wants to make a science book."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What is special about the book?",
+      "answer": "It is made from personal observations."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Where does the child observe things?",
+      "answer": "In nature and daily life."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How do we learn science best?",
+      "answer": "By observing and asking questions."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What skill is important in science?",
+      "answer": "Observation."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What does the child write in the book?",
+      "answer": "Things seen, felt and understood."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Why is curiosity important?",
+      "answer": "It helps us learn new things."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What does science help us understand?",
+      "answer": "Nature and the world around us."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What should we do like the child?",
+      "answer": "Observe and note things."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "Learning science is fun and curious."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does the child want to make?",
+      "answer": "The child wants to make a science book."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What is special about the book?",
+      "answer": "It is made from personal observations."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Where does the child observe things?",
+      "answer": "In nature and daily life."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How do we learn science best?",
+      "answer": "By observing and asking questions."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What skill is important in science?",
+      "answer": "Observation."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What does the child write in the book?",
+      "answer": "Things seen, felt and understood."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Why is curiosity important?",
+      "answer": "It helps us learn new things."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What does science help us understand?",
+      "answer": "Nature and the world around us."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What should we do like the child?",
+      "answer": "Observe and note things."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What message does the chapter give?",
+      "answer": "Learning science is fun and curious."
+    }
+  ]
+}

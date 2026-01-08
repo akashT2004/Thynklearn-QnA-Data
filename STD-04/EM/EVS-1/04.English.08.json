@@ -1,0 +1,1645 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.08",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Air"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why is air important for living beings?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "For breathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For taste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For sound",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For breathing"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which gas do humans need to breathe?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hydrogen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which gas do plants give out?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Air is present ____.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Only indoors",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Only outdoors",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Everywhere",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nowhere",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Everywhere"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which activity needs air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Breathing",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sleeping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Breathing"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which gas helps fire to burn?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Moving air is called ____.",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wind",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Smoke",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cloud",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wind"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which thing shows presence of air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Moving leaves",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Silent room",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Empty bottle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Closed box",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Moving leaves"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Why do kites fly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Because of wind",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Because of rope",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Because of paper",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Because of sun",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Because of wind"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which gas is harmful in excess?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Helium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbon dioxide"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which air is clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Polluted air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fresh air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Smoky air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dusty air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fresh air"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which activity pollutes air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Burning waste",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Walking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Reading",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Burning waste"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Why should air be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For health",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For smell",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For noise",
+                    "is_correct": false
+                }
+            ],
+            "answer": "For health"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which vehicle causes air pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Bicycle",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "Car",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "Walking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cycle",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Car"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which gas do humans breathe out?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Helium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbon dioxide"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which helps reduce air pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Smoke",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Fire",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dust",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Trees"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which gas is present most in air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nitrogen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hydrogen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nitrogen"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which activity uses air pressure?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Inflating balloon",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Reading book",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleeping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Inflating balloon"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Which thing needs air to work?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Windmill",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Chair",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Table",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Book",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Windmill"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Why do we feel wind?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Air moves",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Air stops",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Air sleeps",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Air disappears",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Air moves"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which air is harmful?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Polluted air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fresh air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cool air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Polluted air"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which gas helps plants make food?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbon dioxide"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which activity cleans air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Burning plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Using cars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which is an example of wind?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Breeze",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Water",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fire",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Breeze"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which causes air pollution?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Smoke",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Rain",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wind",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Smoke"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Why should factories control smoke?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To reduce pollution",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To increase smoke",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fun",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To reduce pollution"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which is a natural purifier of air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cars",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Factories",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dust",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Trees"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which gas causes breathing problem?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Smoke",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Helium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Smoke"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which thing moves because of air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Leaves",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Book",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Stone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Table",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Leaves"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Why should we avoid burning garbage?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "It pollutes air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "It cleans air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "It smells good",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "It is safe",
+                    "is_correct": false
+                }
+            ],
+            "answer": "It pollutes air"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which gas is essential for fire?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hydrogen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which air helps us stay healthy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fresh air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Dirty air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Smoky air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dusty air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fresh air"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which activity uses wind energy?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Windmill",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fan off",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleeping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Reading",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Windmill"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which place has fresh air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Garden",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Factory",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Busy road",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Garbage dump",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Garden"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which gas do animals breathe in?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoke",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which thing shows air occupies space?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Inflated balloon",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Empty cup",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Flat paper",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Dry leaf",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Inflated balloon"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which helps keep air clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cutting trees",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Burning fuel",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which gas causes global warming?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Helium",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbon dioxide"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which air is needed for exercise?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Fresh air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Smoky air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Dusty air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Polluted air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Fresh air"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which thing needs air to fly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Aeroplane",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Stone",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Book",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Chair",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Aeroplane"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which gas do we need most?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Oxygen",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Carbon dioxide",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Hydrogen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which activity needs moving air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sailing boat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sleeping",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Reading",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Writing",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sailing boat"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which helps reduce smoke?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Using clean fuel",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Burning plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Smoking",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fire",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Using clean fuel"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which air harms lungs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Polluted air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Fresh air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Clean air",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cool air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Polluted air"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which gas is less in air?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Carbon dioxide",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nitrogen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Oxygen",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Air",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Carbon dioxide"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which habit keeps air clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Planting trees",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Littering",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Burning waste",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Smoking",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Planting trees"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Why do we open windows?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To get fresh air",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "To get noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "To get dust",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "To get heat",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To get fresh air"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "Why is air important?",
+            "answer": "Air is needed for breathing and life."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "What is wind?",
+            "answer": "Moving air is called wind."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Which gas do we breathe in?",
+            "answer": "We breathe in oxygen."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "Which gas do we breathe out?",
+            "answer": "We breathe out carbon dioxide."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Why do plants need carbon dioxide?",
+            "answer": "Plants use it to make food."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "How do we know air is present?",
+            "answer": "We can feel wind and see moving objects."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "Why should air be clean?",
+            "answer": "Clean air keeps us healthy."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "What is air pollution?",
+            "answer": "Dirty air caused by smoke and dust."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "What causes air pollution?",
+            "answer": "Smoke from vehicles and factories."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "How do trees help air?",
+            "answer": "Trees clean air."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Why is polluted air harmful?",
+            "answer": "It causes breathing problems."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "What is fresh air?",
+            "answer": "Clean air without smoke or dust."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "Why should we plant trees?",
+            "answer": "Trees give oxygen."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "How does wind help us?",
+            "answer": "It cools the environment."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "Why do kites fly?",
+            "answer": "Because of wind."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "Which air is good for exercise?",
+            "answer": "Fresh air."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "What is smoke?",
+            "answer": "Smoke is polluted air."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "Why should garbage not be burned?",
+            "answer": "It pollutes air."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "How does air help fire?",
+            "answer": "Oxygen helps fire burn."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "Why should factories reduce smoke?",
+            "answer": "To keep air clean."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "What gas helps living beings breathe?",
+            "answer": "Oxygen."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Why is oxygen important?",
+            "answer": "It helps us stay alive."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "What happens if air is dirty?",
+            "answer": "People may fall sick."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "How can we reduce air pollution?",
+            "answer": "By planting trees and using clean fuel."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "What is clean fuel?",
+            "answer": "Fuel that causes less smoke."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Why do we open windows?",
+            "answer": "To get fresh air."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "What is breeze?",
+            "answer": "Light moving air."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "How does windmill work?",
+            "answer": "Using wind energy."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Why is air needed for sound?",
+            "answer": "Sound travels through air."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "What happens when air moves fast?",
+            "answer": "Strong wind or storm occurs."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "How does air help birds fly?",
+            "answer": "Air supports wings."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "Why is air needed for fire?",
+            "answer": "Fire needs oxygen."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "What causes coughing in polluted areas?",
+            "answer": "Dirty air."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "Why should we avoid smoking?",
+            "answer": "It pollutes air."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "What gas is most in air?",
+            "answer": "Nitrogen."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "Why should vehicles be checked?",
+            "answer": "To reduce smoke."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "How does rain clean air?",
+            "answer": "It washes dust away."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "What happens if trees are cut?",
+            "answer": "Air becomes dirty."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "Why is air free?",
+            "answer": "It is a natural resource."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "What is global warming?",
+            "answer": "Increase in earth temperature due to pollution."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "Why is carbon dioxide harmful in excess?",
+            "answer": "It causes climate change."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "How can children help keep air clean?",
+            "answer": "By planting trees."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "Why should factories use filters?",
+            "answer": "To reduce smoke."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "What is dust?",
+            "answer": "Tiny particles in air."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "Why should we keep surroundings clean?",
+            "answer": "To reduce pollution."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "How does air help drying clothes?",
+            "answer": "Wind dries clothes."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Why is air important for plants?",
+            "answer": "Plants need air to grow."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "What lesson do we learn about air?",
+            "answer": "Air should be kept clean."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "Why should we protect air?",
+            "answer": "Air is essential for life."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "How can air be polluted less?",
+            "answer": "By reducing smoke and planting trees."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Why should we protect air from pollution?",
+            "answer": "Clean air is necessary for healthy life."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "How does air help in breathing?",
+            "answer": "Oxygen in air helps us breathe."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why is air called a natural resource?",
+            "answer": "It is freely available in nature."
+        }
+    ]
+}

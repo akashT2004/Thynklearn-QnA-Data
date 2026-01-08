@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.20",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "मुलांनी काढलेली चित्रे – २"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलांच्या चित्रांबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निबंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांच्या चित्रांबद्दल"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "मुलांनी चित्रे काढताना काय व्यक्त केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना व कल्पना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना व कल्पना"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून मुलांची कोणती क्षमता दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनाशक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "कल्पनाशक्ती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या कलेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नृत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रकला"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंगीत व सर्जनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फिकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकसारखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळवाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व सर्जनशील"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्जनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्जनशीलता"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना ओळखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना ओळखणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिव्यक्तीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिव्यक्तीसाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "चित्रकला कशी कला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्यकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाब्दिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नृत्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दृश्यकला"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कलेचा आदर करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कला दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कला टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कलेचा आदर करा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलांच्या चित्रांबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निबंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांच्या चित्रांबद्दल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मुलांनी चित्रे काढताना काय व्यक्त केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना व कल्पना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना व कल्पना"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून मुलांची कोणती क्षमता दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनाशक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "कल्पनाशक्ती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या कलेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नृत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रकला"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंगीत व सर्जनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फिकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकसारखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळवाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व सर्जनशील"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्जनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्जनशीलता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना ओळखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना ओळखणे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिव्यक्तीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिव्यक्तीसाठी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "चित्रकला कशी कला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्यकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाब्दिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नृत्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दृश्यकला"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कलेचा आदर करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कला दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कला टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कलेचा आदर करा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलांच्या चित्रांबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निबंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांच्या चित्रांबद्दल"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "मुलांनी चित्रे काढताना काय व्यक्त केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना व कल्पना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना व कल्पना"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून मुलांची कोणती क्षमता दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनाशक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "कल्पनाशक्ती"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या कलेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नृत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रकला"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंगीत व सर्जनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फिकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकसारखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळवाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व सर्जनशील"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्जनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्जनशीलता"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना ओळखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना ओळखणे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिव्यक्तीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिव्यक्तीसाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "चित्रकला कशी कला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्यकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाब्दिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नृत्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दृश्यकला"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कलेचा आदर करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कला दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कला टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कलेचा आदर करा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलांच्या चित्रांबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निबंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांच्या चित्रांबद्दल"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "मुलांनी चित्रे काढताना काय व्यक्त केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना व कल्पना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना व कल्पना"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून मुलांची कोणती क्षमता दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनाशक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "कल्पनाशक्ती"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या कलेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नृत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रकला"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंगीत व सर्जनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फिकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकसारखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळवाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व सर्जनशील"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्जनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्जनशीलता"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना ओळखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना ओळखणे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिव्यक्तीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिव्यक्तीसाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "चित्रकला कशी कला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्यकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाब्दिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नृत्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दृश्यकला"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कलेचा आदर करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कला दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कला टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कलेचा आदर करा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलांच्या चित्रांबद्दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निबंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांच्या चित्रांबद्दल"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "मुलांनी चित्रे काढताना काय व्यक्त केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना व कल्पना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना व कल्पना"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून मुलांची कोणती क्षमता दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनाशक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "कल्पनाशक्ती"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या कलेशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नृत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संगीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "चित्रकला"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंगीत व सर्जनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फिकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकसारखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळवाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगीत व सर्जनशील"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्जनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्जनशीलता"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "चित्रांमधून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना ओळखणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावना ओळखणे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "हा धडा कशासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिव्यक्तीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिव्यक्तीसाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "चित्रकला कशी कला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्यकला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शाब्दिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नृत्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दृश्यकला"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कलेचा आदर करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कला दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कला टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कलेचा आदर करा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा मुलांच्या चित्रांबद्दल आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "मुलांच्या चित्रांत काय दिसते?",
+      "answer": "भावना आणि कल्पनाशक्ती."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "answer": "सर्जनशीलता वाढते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "चित्रकला कोणती कला आहे?",
+      "answer": "दृश्यकला आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "चित्रांमधून काय व्यक्त होते?",
+      "answer": "विचार आणि भावना."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "answer": "रंगीत व सर्जनशील."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "या धड्याचा फायदा काय?",
+      "answer": "अभिव्यक्ती वाढते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "चित्रकलेचा उपयोग काय?",
+      "answer": "भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "कलेचा आदर करा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा मुलांच्या चित्रांबद्दल आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "मुलांच्या चित्रांत काय दिसते?",
+      "answer": "भावना आणि कल्पनाशक्ती."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "answer": "सर्जनशीलता वाढते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "चित्रकला कोणती कला आहे?",
+      "answer": "दृश्यकला आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "चित्रांमधून काय व्यक्त होते?",
+      "answer": "विचार आणि भावना."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "answer": "रंगीत व सर्जनशील."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "या धड्याचा फायदा काय?",
+      "answer": "अभिव्यक्ती वाढते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "चित्रकलेचा उपयोग काय?",
+      "answer": "भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "कलेचा आदर करा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा मुलांच्या चित्रांबद्दल आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मुलांच्या चित्रांत काय दिसते?",
+      "answer": "भावना आणि कल्पनाशक्ती."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "answer": "सर्जनशीलता वाढते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "चित्रकला कोणती कला आहे?",
+      "answer": "दृश्यकला आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "चित्रांमधून काय व्यक्त होते?",
+      "answer": "विचार आणि भावना."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "answer": "रंगीत व सर्जनशील."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "या धड्याचा फायदा काय?",
+      "answer": "अभिव्यक्ती वाढते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "चित्रकलेचा उपयोग काय?",
+      "answer": "भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "कलेचा आदर करा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा मुलांच्या चित्रांबद्दल आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "मुलांच्या चित्रांत काय दिसते?",
+      "answer": "भावना आणि कल्पनाशक्ती."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "answer": "सर्जनशीलता वाढते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "चित्रकला कोणती कला आहे?",
+      "answer": "दृश्यकला आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "चित्रांमधून काय व्यक्त होते?",
+      "answer": "विचार आणि भावना."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "answer": "रंगीत व सर्जनशील."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "या धड्याचा फायदा काय?",
+      "answer": "अभिव्यक्ती वाढते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "चित्रकलेचा उपयोग काय?",
+      "answer": "भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "कलेचा आदर करा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘मुलांनी काढलेली चित्रे – २’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा मुलांच्या चित्रांबद्दल आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "मुलांच्या चित्रांत काय दिसते?",
+      "answer": "भावना आणि कल्पनाशक्ती."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "चित्र काढल्याने काय वाढते?",
+      "answer": "सर्जनशीलता वाढते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "चित्रकला कोणती कला आहे?",
+      "answer": "दृश्यकला आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "चित्रांमधून काय व्यक्त होते?",
+      "answer": "विचार आणि भावना."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "मुलांची चित्रे कशी असतात?",
+      "answer": "रंगीत व सर्जनशील."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "या धड्याचा फायदा काय?",
+      "answer": "अभिव्यक्ती वाढते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "चित्रकलेचा उपयोग काय?",
+      "answer": "भावना व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "कलेचा आदर करा."
+    }
+  ]
+}

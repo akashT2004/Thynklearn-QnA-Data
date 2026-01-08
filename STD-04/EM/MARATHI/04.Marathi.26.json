@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.26",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "आमचे चुकले"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या धड्यात मुले काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करतात"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "चूक झाल्यावर काय करावे असे धड्यात सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माफी मागावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पळून जावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोष द्यावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माफी मागावी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रामाणिकपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रामाणिकपणा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या मूल्याशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिक मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करमणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक मूल्ये"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुधारण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुधारण्यासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जबाबदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "जबाबदारी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्यवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भित्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यवान"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चूक लपवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोष द्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या धड्यात मुले काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करतात"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "चूक झाल्यावर काय करावे असे धड्यात सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माफी मागावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पळून जावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोष द्यावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माफी मागावी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रामाणिकपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रामाणिकपणा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या मूल्याशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिक मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करमणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक मूल्ये"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुधारण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुधारण्यासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जबाबदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "जबाबदारी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्यवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भित्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यवान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चूक लपवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोष द्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "या धड्यात मुले काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करतात"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "चूक झाल्यावर काय करावे असे धड्यात सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माफी मागावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पळून जावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोष द्यावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माफी मागावी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रामाणिकपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रामाणिकपणा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या मूल्याशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिक मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करमणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक मूल्ये"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुधारण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुधारण्यासाठी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जबाबदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "जबाबदारी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्यवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भित्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यवान"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चूक लपवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोष द्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "या धड्यात मुले काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करतात"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "चूक झाल्यावर काय करावे असे धड्यात सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माफी मागावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पळून जावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोष द्यावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माफी मागावी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रामाणिकपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रामाणिकपणा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या मूल्याशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिक मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करमणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक मूल्ये"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुधारण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुधारण्यासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जबाबदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "जबाबदारी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्यवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भित्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यवान"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चूक लपवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोष द्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या धड्यात मुले काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करतात"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "चूक झाल्यावर काय करावे असे धड्यात सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माफी मागावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पळून जावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोष द्यावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माफी मागावी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रामाणिकपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रामाणिकपणा"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या मूल्याशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिक मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करमणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक मूल्ये"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुधारण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुधारण्यासाठी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "या धड्यातून काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जबाबदारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "जबाबदारी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्यवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भित्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यवान"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक मान्य करा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चूक लपवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोष द्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चूक मान्य करा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा चूक मान्य करण्याबद्दल आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "चूक झाल्यावर काय करावे?",
+      "answer": "माफी मागावी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "answer": "प्रामाणिकपणा वाढतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "answer": "स्वतः सुधारण्यासाठी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकतो?",
+      "answer": "जबाबदारी शिकतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "answer": "धैर्यवान असते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "चूक लपवावी का?",
+      "answer": "नाही, मान्य करावी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "धड्याचा फायदा काय?",
+      "answer": "चांगल्या सवयी लागतात."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "चूक मान्य करा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा चूक मान्य करण्याबद्दल आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "चूक झाल्यावर काय करावे?",
+      "answer": "माफी मागावी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "answer": "प्रामाणिकपणा वाढतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "answer": "स्वतः सुधारण्यासाठी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकतो?",
+      "answer": "जबाबदारी शिकतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "answer": "धैर्यवान असते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "चूक लपवावी का?",
+      "answer": "नाही, मान्य करावी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "धड्याचा फायदा काय?",
+      "answer": "चांगल्या सवयी लागतात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "चूक मान्य करा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा चूक मान्य करण्याबद्दल आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "चूक झाल्यावर काय करावे?",
+      "answer": "माफी मागावी."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "answer": "प्रामाणिकपणा वाढतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "answer": "स्वतः सुधारण्यासाठी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकतो?",
+      "answer": "जबाबदारी शिकतो."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "answer": "धैर्यवान असते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "चूक लपवावी का?",
+      "answer": "नाही, मान्य करावी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "धड्याचा फायदा काय?",
+      "answer": "चांगल्या सवयी लागतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "चूक मान्य करा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा चूक मान्य करण्याबद्दल आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "चूक झाल्यावर काय करावे?",
+      "answer": "माफी मागावी."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "answer": "प्रामाणिकपणा वाढतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "answer": "स्वतः सुधारण्यासाठी."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकतो?",
+      "answer": "जबाबदारी शिकतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "answer": "धैर्यवान असते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "चूक लपवावी का?",
+      "answer": "नाही, मान्य करावी."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "धड्याचा फायदा काय?",
+      "answer": "चांगल्या सवयी लागतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "चूक मान्य करा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘आमचे चुकले’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा चूक मान्य करण्याबद्दल आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "चूक झाल्यावर काय करावे?",
+      "answer": "माफी मागावी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "चूक मान्य केल्याने काय वाढते?",
+      "answer": "प्रामाणिकपणा वाढतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणे का महत्त्वाचे आहे?",
+      "answer": "स्वतः सुधारण्यासाठी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "या धड्यातून काय शिकतो?",
+      "answer": "जबाबदारी शिकतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "चूक मान्य करणारी व्यक्ती कशी असते?",
+      "answer": "धैर्यवान असते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "चूक लपवावी का?",
+      "answer": "नाही, मान्य करावी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "धड्याचा फायदा काय?",
+      "answer": "चांगल्या सवयी लागतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "चूक मान्य करा."
+    }
+  ]
+}

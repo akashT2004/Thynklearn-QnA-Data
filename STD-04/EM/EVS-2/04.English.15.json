@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.15",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "A Memorable Ceremony"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which ceremony is described in this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coronation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Battle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coronation"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Where was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "In which year was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1666",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1670",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1674",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1680",
+          "is_correct": false
+        }
+      ],
+      "answer": "1674"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who performed the coronation ceremony?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saint",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gaga Bhatt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangzeb",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gaga Bhatt"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What title did Shivaji Maharaj receive?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chhatrapati",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sardar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Raja",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chhatrapati"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why was the coronation important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For legitimacy of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For celebration only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "For legitimacy of Swaraj"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What kind of ruler was Shivaji after coronation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which fort became the capital?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Torna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What values were highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and welfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and welfare"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why is the ceremony memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grand celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foundation of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign guests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Foundation of Swaraj"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which ceremony is described in this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coronation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Battle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coronation"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Where was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "In which year was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1666",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1670",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1674",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1680",
+          "is_correct": false
+        }
+      ],
+      "answer": "1674"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who performed the coronation ceremony?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saint",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gaga Bhatt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangzeb",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gaga Bhatt"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What title did Shivaji Maharaj receive?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chhatrapati",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sardar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Raja",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chhatrapati"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why was the coronation important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For legitimacy of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For celebration only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "For legitimacy of Swaraj"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What kind of ruler was Shivaji after coronation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which fort became the capital?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Torna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What values were highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and welfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and welfare"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why is the ceremony memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grand celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foundation of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign guests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Foundation of Swaraj"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which ceremony is described in this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coronation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Battle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coronation"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Where was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "In which year was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1666",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1670",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1674",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1680",
+          "is_correct": false
+        }
+      ],
+      "answer": "1674"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who performed the coronation ceremony?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saint",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gaga Bhatt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangzeb",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gaga Bhatt"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What title did Shivaji Maharaj receive?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chhatrapati",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sardar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Raja",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chhatrapati"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why was the coronation important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For legitimacy of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For celebration only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "For legitimacy of Swaraj"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What kind of ruler was Shivaji after coronation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which fort became the capital?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Torna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What values were highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and welfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and welfare"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why is the ceremony memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grand celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foundation of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign guests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Foundation of Swaraj"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which ceremony is described in this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coronation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Battle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coronation"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Where was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "In which year was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1666",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1670",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1674",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1680",
+          "is_correct": false
+        }
+      ],
+      "answer": "1674"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who performed the coronation ceremony?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saint",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gaga Bhatt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangzeb",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gaga Bhatt"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What title did Shivaji Maharaj receive?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chhatrapati",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sardar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Raja",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chhatrapati"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why was the coronation important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For legitimacy of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For celebration only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "For legitimacy of Swaraj"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What kind of ruler was Shivaji after coronation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which fort became the capital?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Torna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What values were highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and welfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and welfare"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why is the ceremony memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grand celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foundation of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign guests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Foundation of Swaraj"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which ceremony is described in this chapter?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Marriage",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Coronation",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Battle",
+          "is_correct": false
+        }
+      ],
+      "answer": "Coronation"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Where was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Purandar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "In which year was Shivaji Maharaj crowned?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1666",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1670",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1674",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1680",
+          "is_correct": false
+        }
+      ],
+      "answer": "1674"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who performed the coronation ceremony?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Saint",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Gaga Bhatt",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Aurangzeb",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gaga Bhatt"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What title did Shivaji Maharaj receive?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Chhatrapati",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Peshwa",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Sardar",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Raja",
+          "is_correct": false
+        }
+      ],
+      "answer": "Chhatrapati"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Why was the coronation important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For trade",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "For legitimacy of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "For celebration only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "For legitimacy of Swaraj"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What kind of ruler was Shivaji after coronation?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foreign",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "People-oriented",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Weak",
+          "is_correct": false
+        }
+      ],
+      "answer": "People-oriented"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which fort became the capital?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Torna",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Raigad"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What values were highlighted?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Justice and welfare",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luxury",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Greed",
+          "is_correct": false
+        }
+      ],
+      "answer": "Justice and welfare"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why is the ceremony memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Grand celebration",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Foundation of Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Foreign guests",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Foundation of Swaraj"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Which ceremony is described?",
+      "answer": "The coronation of Shivaji Maharaj."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Where was Shivaji crowned?",
+      "answer": "At Raigad fort."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "In which year was the coronation held?",
+      "answer": "In 1674."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who crowned Shivaji Maharaj?",
+      "answer": "Gaga Bhatt."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What title was given to Shivaji?",
+      "answer": "Chhatrapati."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why was coronation important?",
+      "answer": "It formally established Swaraj."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which fort became the capital?",
+      "answer": "Raigad became the capital."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What kind of ruler was Shivaji?",
+      "answer": "A just and people-oriented ruler."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What values were shown?",
+      "answer": "Justice and welfare."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "Why is this ceremony memorable?",
+      "answer": "It marked the foundation of Swaraj."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which ceremony is described?",
+      "answer": "The coronation of Shivaji Maharaj."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Where was Shivaji crowned?",
+      "answer": "At Raigad fort."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "In which year was the coronation held?",
+      "answer": "In 1674."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who crowned Shivaji Maharaj?",
+      "answer": "Gaga Bhatt."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What title was given to Shivaji?",
+      "answer": "Chhatrapati."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why was coronation important?",
+      "answer": "It formally established Swaraj."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which fort became the capital?",
+      "answer": "Raigad became the capital."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What kind of ruler was Shivaji?",
+      "answer": "A just and people-oriented ruler."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What values were shown?",
+      "answer": "Justice and welfare."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "Why is this ceremony memorable?",
+      "answer": "It marked the foundation of Swaraj."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which ceremony is described?",
+      "answer": "The coronation of Shivaji Maharaj."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Where was Shivaji crowned?",
+      "answer": "At Raigad fort."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "In which year was the coronation held?",
+      "answer": "In 1674."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who crowned Shivaji Maharaj?",
+      "answer": "Gaga Bhatt."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What title was given to Shivaji?",
+      "answer": "Chhatrapati."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why was coronation important?",
+      "answer": "It formally established Swaraj."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which fort became the capital?",
+      "answer": "Raigad became the capital."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What kind of ruler was Shivaji?",
+      "answer": "A just and people-oriented ruler."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What values were shown?",
+      "answer": "Justice and welfare."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "Why is this ceremony memorable?",
+      "answer": "It marked the foundation of Swaraj."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which ceremony is described?",
+      "answer": "The coronation of Shivaji Maharaj."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Where was Shivaji crowned?",
+      "answer": "At Raigad fort."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "In which year was the coronation held?",
+      "answer": "In 1674."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who crowned Shivaji Maharaj?",
+      "answer": "Gaga Bhatt."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What title was given to Shivaji?",
+      "answer": "Chhatrapati."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why was coronation important?",
+      "answer": "It formally established Swaraj."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which fort became the capital?",
+      "answer": "Raigad became the capital."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What kind of ruler was Shivaji?",
+      "answer": "A just and people-oriented ruler."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What values were shown?",
+      "answer": "Justice and welfare."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "Why is this ceremony memorable?",
+      "answer": "It marked the foundation of Swaraj."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which ceremony is described?",
+      "answer": "The coronation of Shivaji Maharaj."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Where was Shivaji crowned?",
+      "answer": "At Raigad fort."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "In which year was the coronation held?",
+      "answer": "In 1674."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who crowned Shivaji Maharaj?",
+      "answer": "Gaga Bhatt."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What title was given to Shivaji?",
+      "answer": "Chhatrapati."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why was coronation important?",
+      "answer": "It formally established Swaraj."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which fort became the capital?",
+      "answer": "Raigad became the capital."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What kind of ruler was Shivaji?",
+      "answer": "A just and people-oriented ruler."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What values were shown?",
+      "answer": "Justice and welfare."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "Why is this ceremony memorable?",
+      "answer": "It marked the foundation of Swaraj."
+    }
+  ]
+}

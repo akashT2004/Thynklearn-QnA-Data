@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.13",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "ओळखूया सांगूया"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘ओळखूया सांगूया’ या धड्याचा उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षण व बोलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षण व बोलणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या धड्यात काय करायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओळख पटवून सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कविता म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओळख पटवून सांगणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे कोणते कौशल्य वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलण्याचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धावण्याचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाण्याचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलण्याचे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "ओळख पटवताना काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्षपूर्वक पाहणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्षपूर्वक पाहणे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोप्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ओळखूया सांगूया म्हणजे ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षणातून अभिव्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षणातून अभिव्यक्ती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हा उपक्रम कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कंटाळवाणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोरंजक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्ष देऊन निरीक्षण व सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्ष देऊन निरीक्षण व सांगणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘ओळखूया सांगूया’ या धड्याचा उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षण व बोलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षण व बोलणे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "या धड्यात काय करायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओळख पटवून सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कविता म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओळख पटवून सांगणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे कोणते कौशल्य वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलण्याचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धावण्याचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाण्याचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलण्याचे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ओळख पटवताना काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्षपूर्वक पाहणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्षपूर्वक पाहणे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोप्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ओळखूया सांगूया म्हणजे ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षणातून अभिव्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षणातून अभिव्यक्ती"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "हा उपक्रम कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कंटाळवाणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोरंजक"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्ष देऊन निरीक्षण व सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्ष देऊन निरीक्षण व सांगणे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘ओळखूया सांगूया’ या धड्याचा उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षण व बोलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षण व बोलणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "या धड्यात काय करायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओळख पटवून सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कविता म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओळख पटवून सांगणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे कोणते कौशल्य वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलण्याचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धावण्याचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाण्याचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलण्याचे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ओळख पटवताना काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्षपूर्वक पाहणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्षपूर्वक पाहणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोप्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ओळखूया सांगूया म्हणजे ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षणातून अभिव्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षणातून अभिव्यक्ती"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हा उपक्रम कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कंटाळवाणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोरंजक"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्ष देऊन निरीक्षण व सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्ष देऊन निरीक्षण व सांगणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘ओळखूया सांगूया’ या धड्याचा उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षण व बोलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षण व बोलणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "या धड्यात काय करायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओळख पटवून सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कविता म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओळख पटवून सांगणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे कोणते कौशल्य वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलण्याचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धावण्याचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाण्याचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलण्याचे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ओळख पटवताना काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्षपूर्वक पाहणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्षपूर्वक पाहणे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोप्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "ओळखूया सांगूया म्हणजे ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षणातून अभिव्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षणातून अभिव्यक्ती"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हा उपक्रम कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कंटाळवाणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोरंजक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्ष देऊन निरीक्षण व सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्ष देऊन निरीक्षण व सांगणे"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘ओळखूया सांगूया’ या धड्याचा उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षण व बोलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षण व बोलणे"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "या धड्यात काय करायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओळख पटवून सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चित्र काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कविता म्हणणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धावणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओळख पटवून सांगणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे कोणते कौशल्य वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बोलण्याचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "धावण्याचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाण्याचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बोलण्याचे"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "ओळख पटवताना काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्षपूर्वक पाहणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्षपूर्वक पाहणे"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शिक्षकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त पालकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणासाठीही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांसाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोप्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "ओळखूया सांगूया म्हणजे ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निरीक्षणातून अभिव्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षणातून अभिव्यक्ती"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "हा उपक्रम कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कंटाळवाणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोरंजक"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "धड्याचा मुख्य संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लक्ष देऊन निरीक्षण व सांगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्ष देऊन निरीक्षण व सांगणे"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘ओळखूया सांगूया’ म्हणजे काय?",
+      "answer": "ओळख पटवून त्याबद्दल सांगणे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "या धड्याचा उद्देश काय आहे?",
+      "answer": "निरीक्षण व बोलण्याचा सराव."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "answer": "बोलण्याचे कौशल्य वाढते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना काय आवश्यक आहे?",
+      "answer": "लक्षपूर्वक पाहणे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "answer": "सोप्या शब्दांत."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "या उपक्रमाचा फायदा काय?",
+      "answer": "आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "हा उपक्रम कसा आहे?",
+      "answer": "मनोरंजक आहे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कसे वागावे?",
+      "answer": "शांतपणे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "निरीक्षण करून व्यक्त व्हा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘ओळखूया सांगूया’ म्हणजे काय?",
+      "answer": "ओळख पटवून त्याबद्दल सांगणे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "या धड्याचा उद्देश काय आहे?",
+      "answer": "निरीक्षण व बोलण्याचा सराव."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "answer": "बोलण्याचे कौशल्य वाढते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना काय आवश्यक आहे?",
+      "answer": "लक्षपूर्वक पाहणे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "answer": "सोप्या शब्दांत."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "या उपक्रमाचा फायदा काय?",
+      "answer": "आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "हा उपक्रम कसा आहे?",
+      "answer": "मनोरंजक आहे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कसे वागावे?",
+      "answer": "शांतपणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "निरीक्षण करून व्यक्त व्हा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘ओळखूया सांगूया’ म्हणजे काय?",
+      "answer": "ओळख पटवून त्याबद्दल सांगणे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "या धड्याचा उद्देश काय आहे?",
+      "answer": "निरीक्षण व बोलण्याचा सराव."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "answer": "बोलण्याचे कौशल्य वाढते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना काय आवश्यक आहे?",
+      "answer": "लक्षपूर्वक पाहणे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "answer": "सोप्या शब्दांत."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "या उपक्रमाचा फायदा काय?",
+      "answer": "आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "हा उपक्रम कसा आहे?",
+      "answer": "मनोरंजक आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कसे वागावे?",
+      "answer": "शांतपणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "निरीक्षण करून व्यक्त व्हा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘ओळखूया सांगूया’ म्हणजे काय?",
+      "answer": "ओळख पटवून त्याबद्दल सांगणे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "या धड्याचा उद्देश काय आहे?",
+      "answer": "निरीक्षण व बोलण्याचा सराव."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "answer": "बोलण्याचे कौशल्य वाढते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना काय आवश्यक आहे?",
+      "answer": "लक्षपूर्वक पाहणे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "answer": "सोप्या शब्दांत."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "या उपक्रमाचा फायदा काय?",
+      "answer": "आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "हा उपक्रम कसा आहे?",
+      "answer": "मनोरंजक आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कसे वागावे?",
+      "answer": "शांतपणे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "निरीक्षण करून व्यक्त व्हा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘ओळखूया सांगूया’ म्हणजे काय?",
+      "answer": "ओळख पटवून त्याबद्दल सांगणे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "या धड्याचा उद्देश काय आहे?",
+      "answer": "निरीक्षण व बोलण्याचा सराव."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "या उपक्रमामुळे काय वाढते?",
+      "answer": "बोलण्याचे कौशल्य वाढते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना काय आवश्यक आहे?",
+      "answer": "लक्षपूर्वक पाहणे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी आहे?",
+      "answer": "मुलांसाठी आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना भाषा कशी असावी?",
+      "answer": "सोप्या शब्दांत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "या उपक्रमाचा फायदा काय?",
+      "answer": "आत्मविश्वास वाढतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "हा उपक्रम कसा आहे?",
+      "answer": "मनोरंजक आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "ओळख सांगताना कसे वागावे?",
+      "answer": "शांतपणे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "निरीक्षण करून व्यक्त व्हा."
+    }
+  ]
+}

@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.10",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "Baji Prabhu and the Memorable Battle of Ghodkhind"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Maratha warrior",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trader",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saint",
+          "is_correct": false
+        }
+      ],
+      "answer": "Maratha warrior"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Which battle is Baji Prabhu associated with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who was pursuing Shivaji Maharaj at Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Afzal Khan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Siddi Johar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adilshah",
+          "is_correct": false
+        }
+      ],
+      "answer": "Siddi Johar"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What was the earlier name of Pavan Khind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Why did Baji Prabhu stop the enemy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To negotiate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To surrender",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect Shivaji Maharaj"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Which value did Baji Prabhu show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Selfishness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Who blew the horn to signal victory?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Baji Prabhu",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messenger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Baji Prabhu"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What happened after the battle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enemy defeated",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji reached safely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Swaraj ended",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji reached safely"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What new name was given to Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pavan Khind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pavan Khind"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why is this battle memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Great sacrifice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Large army",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth gained",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Long duration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Great sacrifice"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Maratha warrior",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trader",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saint",
+          "is_correct": false
+        }
+      ],
+      "answer": "Maratha warrior"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Which battle is Baji Prabhu associated with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who was pursuing Shivaji Maharaj at Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Afzal Khan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Siddi Johar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adilshah",
+          "is_correct": false
+        }
+      ],
+      "answer": "Siddi Johar"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What was the earlier name of Pavan Khind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Why did Baji Prabhu stop the enemy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To negotiate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To surrender",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect Shivaji Maharaj"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Which value did Baji Prabhu show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Selfishness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Who blew the horn to signal victory?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Baji Prabhu",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messenger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Baji Prabhu"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What happened after the battle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enemy defeated",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji reached safely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Swaraj ended",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji reached safely"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What new name was given to Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pavan Khind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pavan Khind"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why is this battle memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Great sacrifice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Large army",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth gained",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Long duration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Great sacrifice"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Maratha warrior",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trader",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saint",
+          "is_correct": false
+        }
+      ],
+      "answer": "Maratha warrior"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Which battle is Baji Prabhu associated with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who was pursuing Shivaji Maharaj at Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Afzal Khan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Siddi Johar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adilshah",
+          "is_correct": false
+        }
+      ],
+      "answer": "Siddi Johar"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What was the earlier name of Pavan Khind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Why did Baji Prabhu stop the enemy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To negotiate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To surrender",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect Shivaji Maharaj"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Which value did Baji Prabhu show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Selfishness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Who blew the horn to signal victory?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Baji Prabhu",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messenger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Baji Prabhu"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What happened after the battle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enemy defeated",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji reached safely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Swaraj ended",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji reached safely"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What new name was given to Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pavan Khind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pavan Khind"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why is this battle memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Great sacrifice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Large army",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth gained",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Long duration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Great sacrifice"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Maratha warrior",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trader",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saint",
+          "is_correct": false
+        }
+      ],
+      "answer": "Maratha warrior"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Which battle is Baji Prabhu associated with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who was pursuing Shivaji Maharaj at Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Afzal Khan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Siddi Johar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adilshah",
+          "is_correct": false
+        }
+      ],
+      "answer": "Siddi Johar"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What was the earlier name of Pavan Khind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Why did Baji Prabhu stop the enemy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To negotiate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To surrender",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect Shivaji Maharaj"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Which value did Baji Prabhu show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Selfishness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Who blew the horn to signal victory?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Baji Prabhu",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messenger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Baji Prabhu"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What happened after the battle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enemy defeated",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji reached safely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Swaraj ended",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji reached safely"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What new name was given to Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pavan Khind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pavan Khind"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why is this battle memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Great sacrifice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Large army",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth gained",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Long duration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Great sacrifice"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Maratha warrior",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Trader",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Saint",
+          "is_correct": false
+        }
+      ],
+      "answer": "Maratha warrior"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Which battle is Baji Prabhu associated with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Pratapgad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who was pursuing Shivaji Maharaj at Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Afzal Khan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Siddi Johar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Adilshah",
+          "is_correct": false
+        }
+      ],
+      "answer": "Siddi Johar"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What was the earlier name of Pavan Khind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ghodkhind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Torna",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ghodkhind"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Why did Baji Prabhu stop the enemy?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "To rest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To protect Shivaji Maharaj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To negotiate",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To surrender",
+          "is_correct": false
+        }
+      ],
+      "answer": "To protect Shivaji Maharaj"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Which value did Baji Prabhu show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Selfishness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Who blew the horn to signal victory?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Baji Prabhu",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji Maharaj",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Messenger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Baji Prabhu"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What happened after the battle?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Enemy defeated",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Shivaji reached safely",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Swaraj ended",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Peace treaty",
+          "is_correct": false
+        }
+      ],
+      "answer": "Shivaji reached safely"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What new name was given to Ghodkhind?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Pavan Khind",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Pavan Khind"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why is this battle memorable?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Great sacrifice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Large army",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth gained",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Long duration",
+          "is_correct": false
+        }
+      ],
+      "answer": "Great sacrifice"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "answer": "He was a brave Maratha warrior."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Which battle is he remembered for?",
+      "answer": "The battle of Ghodkhind."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why did Baji Prabhu fight at Ghodkhind?",
+      "answer": "To protect Shivaji Maharaj."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who was the enemy leader?",
+      "answer": "Siddi Johar."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What was Ghodkhind renamed as?",
+      "answer": "Pavan Khind."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Why was the battle important?",
+      "answer": "It saved Shivaji Maharaj."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Which value did Baji Prabhu show?",
+      "answer": "Supreme courage and sacrifice."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What signal showed Shivaji\u2019s safety?",
+      "answer": "Blowing of the horn."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Did Baji Prabhu sacrifice his life?",
+      "answer": "Yes, he sacrificed his life."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Bravery and devotion to duty."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "answer": "He was a brave Maratha warrior."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which battle is he remembered for?",
+      "answer": "The battle of Ghodkhind."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why did Baji Prabhu fight at Ghodkhind?",
+      "answer": "To protect Shivaji Maharaj."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who was the enemy leader?",
+      "answer": "Siddi Johar."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What was Ghodkhind renamed as?",
+      "answer": "Pavan Khind."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Why was the battle important?",
+      "answer": "It saved Shivaji Maharaj."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Which value did Baji Prabhu show?",
+      "answer": "Supreme courage and sacrifice."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What signal showed Shivaji\u2019s safety?",
+      "answer": "Blowing of the horn."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Did Baji Prabhu sacrifice his life?",
+      "answer": "Yes, he sacrificed his life."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Bravery and devotion to duty."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "answer": "He was a brave Maratha warrior."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which battle is he remembered for?",
+      "answer": "The battle of Ghodkhind."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why did Baji Prabhu fight at Ghodkhind?",
+      "answer": "To protect Shivaji Maharaj."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who was the enemy leader?",
+      "answer": "Siddi Johar."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What was Ghodkhind renamed as?",
+      "answer": "Pavan Khind."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Why was the battle important?",
+      "answer": "It saved Shivaji Maharaj."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Which value did Baji Prabhu show?",
+      "answer": "Supreme courage and sacrifice."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What signal showed Shivaji\u2019s safety?",
+      "answer": "Blowing of the horn."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Did Baji Prabhu sacrifice his life?",
+      "answer": "Yes, he sacrificed his life."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Bravery and devotion to duty."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "answer": "He was a brave Maratha warrior."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which battle is he remembered for?",
+      "answer": "The battle of Ghodkhind."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why did Baji Prabhu fight at Ghodkhind?",
+      "answer": "To protect Shivaji Maharaj."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who was the enemy leader?",
+      "answer": "Siddi Johar."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What was Ghodkhind renamed as?",
+      "answer": "Pavan Khind."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Why was the battle important?",
+      "answer": "It saved Shivaji Maharaj."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Which value did Baji Prabhu show?",
+      "answer": "Supreme courage and sacrifice."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What signal showed Shivaji\u2019s safety?",
+      "answer": "Blowing of the horn."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Did Baji Prabhu sacrifice his life?",
+      "answer": "Yes, he sacrificed his life."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Bravery and devotion to duty."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who was Baji Prabhu Deshpande?",
+      "answer": "He was a brave Maratha warrior."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which battle is he remembered for?",
+      "answer": "The battle of Ghodkhind."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why did Baji Prabhu fight at Ghodkhind?",
+      "answer": "To protect Shivaji Maharaj."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who was the enemy leader?",
+      "answer": "Siddi Johar."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What was Ghodkhind renamed as?",
+      "answer": "Pavan Khind."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Why was the battle important?",
+      "answer": "It saved Shivaji Maharaj."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Which value did Baji Prabhu show?",
+      "answer": "Supreme courage and sacrifice."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What signal showed Shivaji\u2019s safety?",
+      "answer": "Blowing of the horn."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Did Baji Prabhu sacrifice his life?",
+      "answer": "Yes, he sacrificed his life."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Bravery and devotion to duty."
+    }
+  ]
+}

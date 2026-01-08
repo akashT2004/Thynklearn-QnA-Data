@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.16",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "झाड आपला मित्र (भाग २)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘झाड आपला मित्र’ (भाग २) मध्ये कशावर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडांची उपयुक्तता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडांची उपयुक्तता"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवितेत झाड माणसाला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहाय्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहाय्य"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "झाडे आपल्याला कशापासून वाचवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "झाडे का जपावीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती मित्र आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ती निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ती धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती मित्र आहेत"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "झाडे नसतील तर काय होईल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण बिघडेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद वाढेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ वाढेल",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण बिघडेल"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवी झाडांशी कसे वागायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे वाचवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झाड तोडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाड दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे वाचवा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "झाडे कोणासाठी उपयुक्त आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व सजीवांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त माणसांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त प्राण्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पक्ष्यांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व सजीवांसाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कविता आपल्याला काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण संवर्धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण संवर्धन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘झाड आपला मित्र’ (भाग २) मध्ये कशावर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडांची उपयुक्तता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडांची उपयुक्तता"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवितेत झाड माणसाला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहाय्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहाय्य"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "झाडे आपल्याला कशापासून वाचवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "झाडे का जपावीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती मित्र आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ती निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ती धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती मित्र आहेत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "झाडे नसतील तर काय होईल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण बिघडेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद वाढेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ वाढेल",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण बिघडेल"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवी झाडांशी कसे वागायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे वाचवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झाड तोडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाड दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे वाचवा"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "झाडे कोणासाठी उपयुक्त आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व सजीवांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त माणसांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त प्राण्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पक्ष्यांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व सजीवांसाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कविता आपल्याला काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण संवर्धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण संवर्धन"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘झाड आपला मित्र’ (भाग २) मध्ये कशावर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडांची उपयुक्तता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडांची उपयुक्तता"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कवितेत झाड माणसाला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहाय्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहाय्य"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "झाडे आपल्याला कशापासून वाचवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "झाडे का जपावीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती मित्र आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ती निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ती धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती मित्र आहेत"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "झाडे नसतील तर काय होईल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण बिघडेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद वाढेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ वाढेल",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण बिघडेल"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवी झाडांशी कसे वागायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे वाचवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झाड तोडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाड दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे वाचवा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "झाडे कोणासाठी उपयुक्त आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व सजीवांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त माणसांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त प्राण्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पक्ष्यांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व सजीवांसाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कविता आपल्याला काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण संवर्धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण संवर्धन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘झाड आपला मित्र’ (भाग २) मध्ये कशावर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडांची उपयुक्तता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडांची उपयुक्तता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "कवितेत झाड माणसाला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहाय्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहाय्य"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "झाडे आपल्याला कशापासून वाचवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "झाडे का जपावीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती मित्र आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ती निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ती धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती मित्र आहेत"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "झाडे नसतील तर काय होईल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण बिघडेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद वाढेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ वाढेल",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण बिघडेल"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "कवी झाडांशी कसे वागायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे वाचवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झाड तोडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाड दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे वाचवा"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "झाडे कोणासाठी उपयुक्त आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व सजीवांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त माणसांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त प्राण्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पक्ष्यांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व सजीवांसाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "कविता आपल्याला काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण संवर्धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण संवर्धन"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘झाड आपला मित्र’ (भाग २) मध्ये कशावर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडांची उपयुक्तता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडांची उपयुक्तता"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "कवितेत झाड माणसाला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहाय्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्रास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहाय्य"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "झाडे आपल्याला कशापासून वाचवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "झाडे का जपावीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती मित्र आहेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ती निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ती धोकादायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती महाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती मित्र आहेत"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "झाडे नसतील तर काय होईल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण बिघडेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद वाढेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ वाढेल",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण बिघडेल"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "कवी झाडांशी कसे वागायला सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रेमाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रागाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे वाचवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "झाड तोडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "झाड दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "झाडे वाचवा"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "झाडे कोणासाठी उपयुक्त आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व सजीवांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त माणसांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त प्राण्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पक्ष्यांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व सजीवांसाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "कविता आपल्याला काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यावरण संवर्धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरण संवर्धन"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भाग २ मध्ये कशावर भर आहे?",
+      "answer": "झाडांच्या उपयुक्ततेवर."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "झाडे आपल्याला काय देतात?",
+      "answer": "सावली, हवा व आधार."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "झाडे का जपावीत?",
+      "answer": "ती आपली मित्र आहेत."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "झाडे नसतील तर काय होईल?",
+      "answer": "पर्यावरण बिघडेल."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावना कोणती?",
+      "answer": "कृतज्ञतेची."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवी काय संदेश देतो?",
+      "answer": "झाडे वाचवा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "झाडे कोणासाठी उपयुक्त?",
+      "answer": "सर्व सजीवांसाठी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आपण झाडांसाठी काय करावे?",
+      "answer": "त्यांची काळजी घ्यावी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कविता कशाची जाणीव करून देते?",
+      "answer": "पर्यावरण संवर्धन."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "धड्याचा मुख्य संदेश काय?",
+      "answer": "झाडांवर प्रेम करा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भाग २ मध्ये कशावर भर आहे?",
+      "answer": "झाडांच्या उपयुक्ततेवर."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "झाडे आपल्याला काय देतात?",
+      "answer": "सावली, हवा व आधार."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "झाडे का जपावीत?",
+      "answer": "ती आपली मित्र आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "झाडे नसतील तर काय होईल?",
+      "answer": "पर्यावरण बिघडेल."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावना कोणती?",
+      "answer": "कृतज्ञतेची."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवी काय संदेश देतो?",
+      "answer": "झाडे वाचवा."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "झाडे कोणासाठी उपयुक्त?",
+      "answer": "सर्व सजीवांसाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "आपण झाडांसाठी काय करावे?",
+      "answer": "त्यांची काळजी घ्यावी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कविता कशाची जाणीव करून देते?",
+      "answer": "पर्यावरण संवर्धन."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "धड्याचा मुख्य संदेश काय?",
+      "answer": "झाडांवर प्रेम करा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "भाग २ मध्ये कशावर भर आहे?",
+      "answer": "झाडांच्या उपयुक्ततेवर."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "झाडे आपल्याला काय देतात?",
+      "answer": "सावली, हवा व आधार."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "झाडे का जपावीत?",
+      "answer": "ती आपली मित्र आहेत."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "झाडे नसतील तर काय होईल?",
+      "answer": "पर्यावरण बिघडेल."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावना कोणती?",
+      "answer": "कृतज्ञतेची."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवी काय संदेश देतो?",
+      "answer": "झाडे वाचवा."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "झाडे कोणासाठी उपयुक्त?",
+      "answer": "सर्व सजीवांसाठी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "आपण झाडांसाठी काय करावे?",
+      "answer": "त्यांची काळजी घ्यावी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कविता कशाची जाणीव करून देते?",
+      "answer": "पर्यावरण संवर्धन."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "धड्याचा मुख्य संदेश काय?",
+      "answer": "झाडांवर प्रेम करा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "भाग २ मध्ये कशावर भर आहे?",
+      "answer": "झाडांच्या उपयुक्ततेवर."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "झाडे आपल्याला काय देतात?",
+      "answer": "सावली, हवा व आधार."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "झाडे का जपावीत?",
+      "answer": "ती आपली मित्र आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "झाडे नसतील तर काय होईल?",
+      "answer": "पर्यावरण बिघडेल."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावना कोणती?",
+      "answer": "कृतज्ञतेची."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "कवी काय संदेश देतो?",
+      "answer": "झाडे वाचवा."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "झाडे कोणासाठी उपयुक्त?",
+      "answer": "सर्व सजीवांसाठी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "आपण झाडांसाठी काय करावे?",
+      "answer": "त्यांची काळजी घ्यावी."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "कविता कशाची जाणीव करून देते?",
+      "answer": "पर्यावरण संवर्धन."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "धड्याचा मुख्य संदेश काय?",
+      "answer": "झाडांवर प्रेम करा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "भाग २ मध्ये कशावर भर आहे?",
+      "answer": "झाडांच्या उपयुक्ततेवर."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "झाडे आपल्याला काय देतात?",
+      "answer": "सावली, हवा व आधार."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "झाडे का जपावीत?",
+      "answer": "ती आपली मित्र आहेत."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "झाडे नसतील तर काय होईल?",
+      "answer": "पर्यावरण बिघडेल."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावना कोणती?",
+      "answer": "कृतज्ञतेची."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "कवी काय संदेश देतो?",
+      "answer": "झाडे वाचवा."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "झाडे कोणासाठी उपयुक्त?",
+      "answer": "सर्व सजीवांसाठी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "आपण झाडांसाठी काय करावे?",
+      "answer": "त्यांची काळजी घ्यावी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कविता कशाची जाणीव करून देते?",
+      "answer": "पर्यावरण संवर्धन."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "धड्याचा मुख्य संदेश काय?",
+      "answer": "झाडांवर प्रेम करा."
+    }
+  ]
+}

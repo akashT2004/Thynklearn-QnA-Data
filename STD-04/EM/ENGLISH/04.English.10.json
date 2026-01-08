@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.10",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Be a Craftsman"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who is a craftsman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A skilled worker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A farmer",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skilled worker"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What does a craftsman use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skill and care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skill and care"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What should a craftsman focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Money only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Quality of work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Finishing fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fame",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quality of work"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What makes work beautiful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Patience and skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hurry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Patience and skill"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "A craftsman works with ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Care"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Why is patience important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It wastes time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It improves work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It slows work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops work",
+          "is_correct": false
+        }
+      ],
+      "answer": "It improves work"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What does the chapter encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work well",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Avoiding work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only thinking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work well"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Who appreciates good craftsmanship?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should we avoid while working?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Patience",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skill",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dedicated",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dedicated"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who is a craftsman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A skilled worker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A farmer",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skilled worker"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What does a craftsman use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skill and care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skill and care"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What should a craftsman focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Money only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Quality of work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Finishing fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fame",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quality of work"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What makes work beautiful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Patience and skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hurry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Patience and skill"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "A craftsman works with ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Care"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Why is patience important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It wastes time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It improves work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It slows work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops work",
+          "is_correct": false
+        }
+      ],
+      "answer": "It improves work"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What does the chapter encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work well",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Avoiding work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only thinking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work well"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Who appreciates good craftsmanship?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What should we avoid while working?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Patience",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skill",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dedicated",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dedicated"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who is a craftsman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A skilled worker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A farmer",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skilled worker"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What does a craftsman use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skill and care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skill and care"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What should a craftsman focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Money only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Quality of work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Finishing fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fame",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quality of work"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What makes work beautiful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Patience and skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hurry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Patience and skill"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "A craftsman works with ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Care"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Why is patience important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It wastes time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It improves work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It slows work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops work",
+          "is_correct": false
+        }
+      ],
+      "answer": "It improves work"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What does the chapter encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work well",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Avoiding work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only thinking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work well"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Who appreciates good craftsmanship?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What should we avoid while working?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Patience",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skill",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dedicated",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dedicated"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who is a craftsman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A skilled worker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A farmer",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skilled worker"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What does a craftsman use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skill and care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skill and care"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What should a craftsman focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Money only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Quality of work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Finishing fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fame",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quality of work"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What makes work beautiful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Patience and skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hurry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Patience and skill"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "A craftsman works with ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Care"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Why is patience important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It wastes time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It improves work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It slows work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops work",
+          "is_correct": false
+        }
+      ],
+      "answer": "It improves work"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What does the chapter encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work well",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Avoiding work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only thinking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work well"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Who appreciates good craftsmanship?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What should we avoid while working?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Patience",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skill",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dedicated",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dedicated"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who is a craftsman?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A teacher",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A skilled worker",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A singer",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A farmer",
+          "is_correct": false
+        }
+      ],
+      "answer": "A skilled worker"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What does a craftsman use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Skill and care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Luck",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Speed only",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Force",
+          "is_correct": false
+        }
+      ],
+      "answer": "Skill and care"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What should a craftsman focus on?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Money only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Quality of work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Finishing fast",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fame",
+          "is_correct": false
+        }
+      ],
+      "answer": "Quality of work"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What makes work beautiful?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Patience and skill",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Hurry",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Noise",
+          "is_correct": false
+        }
+      ],
+      "answer": "Patience and skill"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "A craftsman works with ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Care",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Carelessness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Care"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Why is patience important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It wastes time",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "It improves work",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "It slows work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It stops work",
+          "is_correct": false
+        }
+      ],
+      "answer": "It improves work"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What does the chapter encourage?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless work",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Doing work well",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Avoiding work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only thinking",
+          "is_correct": false
+        }
+      ],
+      "answer": "Doing work well"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Who appreciates good craftsmanship?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Everyone",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "No one",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Only children",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Only teachers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Everyone"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What should we avoid while working?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Patience",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skill",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The chapter teaches us to be ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Careless",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dedicated",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Lazy",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fearful",
+          "is_correct": false
+        }
+      ],
+      "answer": "Dedicated"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who is a craftsman?",
+      "answer": "A craftsman is a skilled worker."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What makes a good craftsman?",
+      "answer": "Skill, patience and care."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is patience important?",
+      "answer": "It helps improve the quality of work."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What should a craftsman focus on?",
+      "answer": "Quality of work."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happens with careless work?",
+      "answer": "The work becomes poor."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How should we do our work?",
+      "answer": "With dedication and care."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What does good work show?",
+      "answer": "Skill and responsibility."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Who values good craftsmanship?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What does the chapter teach?",
+      "answer": "Do every work properly."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What quality should students learn?",
+      "answer": "Dedication and patience."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who is a craftsman?",
+      "answer": "A craftsman is a skilled worker."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What makes a good craftsman?",
+      "answer": "Skill, patience and care."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is patience important?",
+      "answer": "It helps improve the quality of work."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What should a craftsman focus on?",
+      "answer": "Quality of work."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What happens with careless work?",
+      "answer": "The work becomes poor."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How should we do our work?",
+      "answer": "With dedication and care."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What does good work show?",
+      "answer": "Skill and responsibility."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Who values good craftsmanship?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What does the chapter teach?",
+      "answer": "Do every work properly."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What quality should students learn?",
+      "answer": "Dedication and patience."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who is a craftsman?",
+      "answer": "A craftsman is a skilled worker."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What makes a good craftsman?",
+      "answer": "Skill, patience and care."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is patience important?",
+      "answer": "It helps improve the quality of work."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What should a craftsman focus on?",
+      "answer": "Quality of work."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happens with careless work?",
+      "answer": "The work becomes poor."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How should we do our work?",
+      "answer": "With dedication and care."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What does good work show?",
+      "answer": "Skill and responsibility."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Who values good craftsmanship?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What does the chapter teach?",
+      "answer": "Do every work properly."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What quality should students learn?",
+      "answer": "Dedication and patience."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who is a craftsman?",
+      "answer": "A craftsman is a skilled worker."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What makes a good craftsman?",
+      "answer": "Skill, patience and care."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is patience important?",
+      "answer": "It helps improve the quality of work."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What should a craftsman focus on?",
+      "answer": "Quality of work."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What happens with careless work?",
+      "answer": "The work becomes poor."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How should we do our work?",
+      "answer": "With dedication and care."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What does good work show?",
+      "answer": "Skill and responsibility."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Who values good craftsmanship?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What does the chapter teach?",
+      "answer": "Do every work properly."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What quality should students learn?",
+      "answer": "Dedication and patience."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who is a craftsman?",
+      "answer": "A craftsman is a skilled worker."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What makes a good craftsman?",
+      "answer": "Skill, patience and care."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is patience important?",
+      "answer": "It helps improve the quality of work."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What should a craftsman focus on?",
+      "answer": "Quality of work."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What happens with careless work?",
+      "answer": "The work becomes poor."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How should we do our work?",
+      "answer": "With dedication and care."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What does good work show?",
+      "answer": "Skill and responsibility."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Who values good craftsmanship?",
+      "answer": "Everyone."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What does the chapter teach?",
+      "answer": "Do every work properly."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What quality should students learn?",
+      "answer": "Dedication and patience."
+    }
+  ]
+}

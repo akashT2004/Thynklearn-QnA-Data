@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.07",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Be a Writer \u2013 1"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What does this chapter encourage students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Read only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Write creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Memorize poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write creatively"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What should a writer observe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "People and surroundings"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What helps in writing well?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What can be written about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily life",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dreams",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Events",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which skill is important for a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skipping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What should writers express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Feelings and thoughts",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Feelings and thoughts"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What improves writing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which of these helps ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Haste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What should a writer avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Original ideas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Observation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The chapter helps us become ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Better writers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fast readers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Good singers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strong athletes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Better writers"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What does this chapter encourage students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Read only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Write creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Memorize poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write creatively"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What should a writer observe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "People and surroundings"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What helps in writing well?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What can be written about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily life",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dreams",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Events",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which skill is important for a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skipping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What should writers express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Feelings and thoughts",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Feelings and thoughts"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What improves writing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which of these helps ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Haste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What should a writer avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Original ideas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Observation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The chapter helps us become ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Better writers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fast readers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Good singers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strong athletes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Better writers"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What does this chapter encourage students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Read only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Write creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Memorize poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write creatively"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What should a writer observe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "People and surroundings"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What helps in writing well?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What can be written about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily life",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dreams",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Events",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which skill is important for a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skipping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What should writers express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Feelings and thoughts",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Feelings and thoughts"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What improves writing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which of these helps ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Haste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What should a writer avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Original ideas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Observation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The chapter helps us become ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Better writers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fast readers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Good singers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strong athletes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Better writers"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What does this chapter encourage students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Read only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Write creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Memorize poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write creatively"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What should a writer observe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "People and surroundings"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What helps in writing well?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What can be written about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily life",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dreams",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Events",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which skill is important for a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skipping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What should writers express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Feelings and thoughts",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Feelings and thoughts"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What improves writing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which of these helps ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Haste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What should a writer avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Original ideas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Observation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The chapter helps us become ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Better writers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fast readers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Good singers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strong athletes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Better writers"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What does this chapter encourage students to do?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Read only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Write creatively",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Memorize poems",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Draw pictures",
+          "is_correct": false
+        }
+      ],
+      "answer": "Write creatively"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What should a writer observe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Only books",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "People and surroundings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "TV",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Games",
+          "is_correct": false
+        }
+      ],
+      "answer": "People and surroundings"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What helps in writing well?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Silence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luck",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What can be written about?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Daily life",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Dreams",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Events",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "All of these",
+          "is_correct": true
+        }
+      ],
+      "answer": "All of these"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which skill is important for a writer?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Observation",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Singing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Skipping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What should writers express?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Feelings and thoughts",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Numbers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Rules",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Commands",
+          "is_correct": false
+        }
+      ],
+      "answer": "Feelings and thoughts"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What improves writing?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Practice",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Copying",
+          "is_correct": false
+        }
+      ],
+      "answer": "Practice"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which of these helps ideas?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Imagination",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Noise",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Haste",
+          "is_correct": false
+        }
+      ],
+      "answer": "Imagination"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What should a writer avoid?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Original ideas",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Carelessness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Practice",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Observation",
+          "is_correct": false
+        }
+      ],
+      "answer": "Carelessness"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The chapter helps us become ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Better writers",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Fast readers",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Good singers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Strong athletes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Better writers"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "It encourages creative writing."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What should writers observe?",
+      "answer": "People and their surroundings."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why is observation important?",
+      "answer": "It helps generate ideas."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What can a writer write about?",
+      "answer": "Daily life and experiences."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What skill is important for writing?",
+      "answer": "Observation and imagination."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How can writing improve?",
+      "answer": "By regular practice."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What should writers express?",
+      "answer": "Their thoughts and feelings."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What helps ideas grow?",
+      "answer": "Imagination."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Why should we practice writing?",
+      "answer": "To become better writers."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Anyone can write with practice."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "It encourages creative writing."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What should writers observe?",
+      "answer": "People and their surroundings."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why is observation important?",
+      "answer": "It helps generate ideas."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What can a writer write about?",
+      "answer": "Daily life and experiences."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What skill is important for writing?",
+      "answer": "Observation and imagination."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How can writing improve?",
+      "answer": "By regular practice."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What should writers express?",
+      "answer": "Their thoughts and feelings."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What helps ideas grow?",
+      "answer": "Imagination."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Why should we practice writing?",
+      "answer": "To become better writers."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Anyone can write with practice."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "It encourages creative writing."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What should writers observe?",
+      "answer": "People and their surroundings."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why is observation important?",
+      "answer": "It helps generate ideas."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What can a writer write about?",
+      "answer": "Daily life and experiences."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What skill is important for writing?",
+      "answer": "Observation and imagination."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How can writing improve?",
+      "answer": "By regular practice."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What should writers express?",
+      "answer": "Their thoughts and feelings."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What helps ideas grow?",
+      "answer": "Imagination."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Why should we practice writing?",
+      "answer": "To become better writers."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Anyone can write with practice."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "It encourages creative writing."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What should writers observe?",
+      "answer": "People and their surroundings."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why is observation important?",
+      "answer": "It helps generate ideas."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What can a writer write about?",
+      "answer": "Daily life and experiences."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What skill is important for writing?",
+      "answer": "Observation and imagination."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How can writing improve?",
+      "answer": "By regular practice."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What should writers express?",
+      "answer": "Their thoughts and feelings."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What helps ideas grow?",
+      "answer": "Imagination."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Why should we practice writing?",
+      "answer": "To become better writers."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Anyone can write with practice."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What does the chapter encourage?",
+      "answer": "It encourages creative writing."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What should writers observe?",
+      "answer": "People and their surroundings."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why is observation important?",
+      "answer": "It helps generate ideas."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What can a writer write about?",
+      "answer": "Daily life and experiences."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What skill is important for writing?",
+      "answer": "Observation and imagination."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How can writing improve?",
+      "answer": "By regular practice."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What should writers express?",
+      "answer": "Their thoughts and feelings."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What helps ideas grow?",
+      "answer": "Imagination."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Why should we practice writing?",
+      "answer": "To become better writers."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the message of the chapter?",
+      "answer": "Anyone can write with practice."
+    }
+  ]
+}

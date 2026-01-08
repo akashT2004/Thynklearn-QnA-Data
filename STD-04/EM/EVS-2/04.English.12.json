@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.12",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "The Siege of Purandar and the Treaty with the Mughal Emperor"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Which fort was besieged by the Mughals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Who led the Mughal forces during the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afzal Khan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Who defended Purandar fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Murarbaji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Firangoji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Murarbaji"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What quality did Murarbaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who was the Mughal emperor then?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Humayun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What agreement was signed after the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Treaty of Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Treaty of Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty of Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Treaty of Bijapur",
+          "is_correct": false
+        }
+      ],
+      "answer": "Treaty of Purandar"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji sign the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To gain wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To stop fighting forever",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save Swaraj"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What happened to some forts after the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Destroyed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Given to Mughals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Captured by Portuguese",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abandoned",
+          "is_correct": false
+        }
+      ],
+      "answer": "Given to Mughals"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who represented the Mughals in the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi Johar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What value did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weakness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Which fort was besieged by the Mughals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Who led the Mughal forces during the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afzal Khan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Who defended Purandar fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Murarbaji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Firangoji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Murarbaji"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What quality did Murarbaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who was the Mughal emperor then?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Humayun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What agreement was signed after the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Treaty of Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Treaty of Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty of Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Treaty of Bijapur",
+          "is_correct": false
+        }
+      ],
+      "answer": "Treaty of Purandar"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji sign the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To gain wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To stop fighting forever",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save Swaraj"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What happened to some forts after the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Destroyed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Given to Mughals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Captured by Portuguese",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abandoned",
+          "is_correct": false
+        }
+      ],
+      "answer": "Given to Mughals"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who represented the Mughals in the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi Johar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What value did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weakness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Which fort was besieged by the Mughals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Who led the Mughal forces during the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afzal Khan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Who defended Purandar fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Murarbaji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Firangoji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Murarbaji"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What quality did Murarbaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who was the Mughal emperor then?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Humayun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What agreement was signed after the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Treaty of Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Treaty of Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty of Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Treaty of Bijapur",
+          "is_correct": false
+        }
+      ],
+      "answer": "Treaty of Purandar"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji sign the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To gain wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To stop fighting forever",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save Swaraj"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What happened to some forts after the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Destroyed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Given to Mughals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Captured by Portuguese",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abandoned",
+          "is_correct": false
+        }
+      ],
+      "answer": "Given to Mughals"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who represented the Mughals in the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi Johar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What value did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weakness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Which fort was besieged by the Mughals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Who led the Mughal forces during the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afzal Khan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Who defended Purandar fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Murarbaji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Firangoji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Murarbaji"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What quality did Murarbaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who was the Mughal emperor then?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Humayun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What agreement was signed after the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Treaty of Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Treaty of Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty of Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Treaty of Bijapur",
+          "is_correct": false
+        }
+      ],
+      "answer": "Treaty of Purandar"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji sign the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To gain wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To stop fighting forever",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save Swaraj"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What happened to some forts after the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Destroyed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Given to Mughals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Captured by Portuguese",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abandoned",
+          "is_correct": false
+        }
+      ],
+      "answer": "Given to Mughals"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who represented the Mughals in the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi Johar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What value did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weakness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Which fort was besieged by the Mughals?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sinhagad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pratapgad",
+          "is_correct": false
+        }
+      ],
+      "answer": "Purandar"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Who led the Mughal forces during the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Afzal Khan",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Who defended Purandar fort bravely?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tanaji",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Murarbaji",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Baji Prabhu",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Firangoji",
+          "is_correct": false
+        }
+      ],
+      "answer": "Murarbaji"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What quality did Murarbaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Bravery",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Anger",
+          "is_correct": false
+        }
+      ],
+      "answer": "Bravery"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who was the Mughal emperor then?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Babur",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Akbar",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Aurangzeb",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Humayun",
+          "is_correct": false
+        }
+      ],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What agreement was signed after the siege?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Treaty of Raigad",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Treaty of Purandar",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Treaty of Agra",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Treaty of Bijapur",
+          "is_correct": false
+        }
+      ],
+      "answer": "Treaty of Purandar"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Why did Shivaji sign the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save Swaraj",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To gain wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To stop fighting forever",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save Swaraj"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What happened to some forts after the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Destroyed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Given to Mughals",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Captured by Portuguese",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Abandoned",
+          "is_correct": false
+        }
+      ],
+      "answer": "Given to Mughals"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who represented the Mughals in the treaty?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Aurangzeb",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Jai Singh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Shaistakhan",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Siddi Johar",
+          "is_correct": false
+        }
+      ],
+      "answer": "Jai Singh"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What value did Shivaji show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Wisdom",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Weakness",
+          "is_correct": false
+        }
+      ],
+      "answer": "Wisdom"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Which fort was besieged?",
+      "answer": "Purandar fort was besieged."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Who defended Purandar?",
+      "answer": "Murarbaji Deshpande defended it."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Who led the Mughal army?",
+      "answer": "Jai Singh led the Mughal army."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What treaty was signed?",
+      "answer": "The Treaty of Purandar was signed."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji sign the treaty?",
+      "answer": "To protect Swaraj."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Who was the Mughal emperor?",
+      "answer": "Aurangzeb was the Mughal emperor."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What happened to some forts?",
+      "answer": "They were handed over to the Mughals."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What quality did Murarbaji show?",
+      "answer": "Great bravery."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Was the treaty permanent?",
+      "answer": "No, it was temporary."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Courage and wisdom."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Which fort was besieged?",
+      "answer": "Purandar fort was besieged."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Who defended Purandar?",
+      "answer": "Murarbaji Deshpande defended it."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Who led the Mughal army?",
+      "answer": "Jai Singh led the Mughal army."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What treaty was signed?",
+      "answer": "The Treaty of Purandar was signed."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji sign the treaty?",
+      "answer": "To protect Swaraj."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Who was the Mughal emperor?",
+      "answer": "Aurangzeb was the Mughal emperor."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What happened to some forts?",
+      "answer": "They were handed over to the Mughals."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What quality did Murarbaji show?",
+      "answer": "Great bravery."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Was the treaty permanent?",
+      "answer": "No, it was temporary."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Courage and wisdom."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Which fort was besieged?",
+      "answer": "Purandar fort was besieged."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Who defended Purandar?",
+      "answer": "Murarbaji Deshpande defended it."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Who led the Mughal army?",
+      "answer": "Jai Singh led the Mughal army."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What treaty was signed?",
+      "answer": "The Treaty of Purandar was signed."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji sign the treaty?",
+      "answer": "To protect Swaraj."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Who was the Mughal emperor?",
+      "answer": "Aurangzeb was the Mughal emperor."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What happened to some forts?",
+      "answer": "They were handed over to the Mughals."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What quality did Murarbaji show?",
+      "answer": "Great bravery."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Was the treaty permanent?",
+      "answer": "No, it was temporary."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Courage and wisdom."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Which fort was besieged?",
+      "answer": "Purandar fort was besieged."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Who defended Purandar?",
+      "answer": "Murarbaji Deshpande defended it."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Who led the Mughal army?",
+      "answer": "Jai Singh led the Mughal army."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What treaty was signed?",
+      "answer": "The Treaty of Purandar was signed."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji sign the treaty?",
+      "answer": "To protect Swaraj."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Who was the Mughal emperor?",
+      "answer": "Aurangzeb was the Mughal emperor."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What happened to some forts?",
+      "answer": "They were handed over to the Mughals."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What quality did Murarbaji show?",
+      "answer": "Great bravery."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Was the treaty permanent?",
+      "answer": "No, it was temporary."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Courage and wisdom."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Which fort was besieged?",
+      "answer": "Purandar fort was besieged."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Who defended Purandar?",
+      "answer": "Murarbaji Deshpande defended it."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Who led the Mughal army?",
+      "answer": "Jai Singh led the Mughal army."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What treaty was signed?",
+      "answer": "The Treaty of Purandar was signed."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Why did Shivaji sign the treaty?",
+      "answer": "To protect Swaraj."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Who was the Mughal emperor?",
+      "answer": "Aurangzeb was the Mughal emperor."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What happened to some forts?",
+      "answer": "They were handed over to the Mughals."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What quality did Murarbaji show?",
+      "answer": "Great bravery."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Was the treaty permanent?",
+      "answer": "No, it was temporary."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from this event?",
+      "answer": "Courage and wisdom."
+    }
+  ]
+}

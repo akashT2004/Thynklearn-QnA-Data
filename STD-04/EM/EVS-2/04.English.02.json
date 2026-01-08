@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.02",
+    "standard": "4",
+    "subject": "EVS-2",
+    "medium": "English",
+    "chapter_name": "Work of the Saints"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who are saints?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Religious teachers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Religious teachers"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "In which period were many saints born in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ancient",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Medieval",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Modern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "British",
+          "is_correct": false
+        }
+      ],
+      "answer": "Medieval"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What did saints teach people?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equality",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Which language did saints use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Persian",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sanskrit only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Language of the people",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "English",
+          "is_correct": false
+        }
+      ],
+      "answer": "Language of the people"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did saints oppose?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Caste discrimination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equality",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Devotion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caste discrimination"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What did saints promote?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Devotion",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Injustice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Violence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luxury",
+          "is_correct": false
+        }
+      ],
+      "answer": "Devotion"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which value did saints spread?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brotherhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What helped people during troubled times?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints\u2019 teachings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taxes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints\u2019 teachings"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Who inspired people morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Traders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Officials",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What kind of society did saints want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divided",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealthy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equal"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who are saints?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Religious teachers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Religious teachers"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "In which period were many saints born in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ancient",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Medieval",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Modern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "British",
+          "is_correct": false
+        }
+      ],
+      "answer": "Medieval"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What did saints teach people?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equality",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Which language did saints use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Persian",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sanskrit only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Language of the people",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "English",
+          "is_correct": false
+        }
+      ],
+      "answer": "Language of the people"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did saints oppose?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Caste discrimination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equality",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Devotion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caste discrimination"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What did saints promote?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Devotion",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Injustice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Violence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luxury",
+          "is_correct": false
+        }
+      ],
+      "answer": "Devotion"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which value did saints spread?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brotherhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What helped people during troubled times?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints\u2019 teachings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taxes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints\u2019 teachings"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Who inspired people morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Traders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Officials",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What kind of society did saints want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divided",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealthy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equal"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who are saints?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Religious teachers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Religious teachers"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "In which period were many saints born in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ancient",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Medieval",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Modern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "British",
+          "is_correct": false
+        }
+      ],
+      "answer": "Medieval"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What did saints teach people?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equality",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Which language did saints use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Persian",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sanskrit only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Language of the people",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "English",
+          "is_correct": false
+        }
+      ],
+      "answer": "Language of the people"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What did saints oppose?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Caste discrimination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equality",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Devotion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caste discrimination"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What did saints promote?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Devotion",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Injustice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Violence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luxury",
+          "is_correct": false
+        }
+      ],
+      "answer": "Devotion"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which value did saints spread?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brotherhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What helped people during troubled times?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints\u2019 teachings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taxes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints\u2019 teachings"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Who inspired people morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Traders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Officials",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What kind of society did saints want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divided",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealthy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equal"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who are saints?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Religious teachers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Religious teachers"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "In which period were many saints born in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ancient",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Medieval",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Modern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "British",
+          "is_correct": false
+        }
+      ],
+      "answer": "Medieval"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What did saints teach people?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equality",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Which language did saints use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Persian",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sanskrit only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Language of the people",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "English",
+          "is_correct": false
+        }
+      ],
+      "answer": "Language of the people"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What did saints oppose?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Caste discrimination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equality",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Devotion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caste discrimination"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What did saints promote?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Devotion",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Injustice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Violence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luxury",
+          "is_correct": false
+        }
+      ],
+      "answer": "Devotion"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which value did saints spread?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brotherhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What helped people during troubled times?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints\u2019 teachings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taxes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints\u2019 teachings"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Who inspired people morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Traders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Officials",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What kind of society did saints want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divided",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealthy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equal"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who are saints?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Rulers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Religious teachers",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Traders",
+          "is_correct": false
+        }
+      ],
+      "answer": "Religious teachers"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "In which period were many saints born in Maharashtra?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ancient",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Medieval",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Modern",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "British",
+          "is_correct": false
+        }
+      ],
+      "answer": "Medieval"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What did saints teach people?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equality",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "War",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equality"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Which language did saints use?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Persian",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Sanskrit only",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Language of the people",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "English",
+          "is_correct": false
+        }
+      ],
+      "answer": "Language of the people"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What did saints oppose?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Unity",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Caste discrimination",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Equality",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Devotion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Caste discrimination"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What did saints promote?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Devotion",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Injustice",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Violence",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Luxury",
+          "is_correct": false
+        }
+      ],
+      "answer": "Devotion"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which value did saints spread?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Hatred",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brotherhood",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brotherhood"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What helped people during troubled times?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kings",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints\u2019 teachings",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Wars",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Taxes",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints\u2019 teachings"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Who inspired people morally?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Soldiers",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saints",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Traders",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Officials",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saints"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What kind of society did saints want?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Divided",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Equal",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Cruel",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealthy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Equal"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who were saints?",
+      "answer": "Saints were social and religious reformers."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What did saints teach?",
+      "answer": "They taught equality and devotion."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why were saints important?",
+      "answer": "They guided people during hard times."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Which language did saints use?",
+      "answer": "They used the common people's language."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What did saints oppose?",
+      "answer": "They opposed caste discrimination."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What values did saints spread?",
+      "answer": "Equality, devotion and humanity."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "How did saints help society?",
+      "answer": "By bringing unity among people."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Did saints believe in equality?",
+      "answer": "Yes, they believed all humans are equal."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Who benefited from saints\u2019 work?",
+      "answer": "Common people benefited."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "How did saints inspire Shivaji Maharaj?",
+      "answer": "They created unity and moral strength."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who were saints?",
+      "answer": "Saints were social and religious reformers."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What did saints teach?",
+      "answer": "They taught equality and devotion."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why were saints important?",
+      "answer": "They guided people during hard times."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Which language did saints use?",
+      "answer": "They used the common people's language."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did saints oppose?",
+      "answer": "They opposed caste discrimination."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What values did saints spread?",
+      "answer": "Equality, devotion and humanity."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "How did saints help society?",
+      "answer": "By bringing unity among people."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Did saints believe in equality?",
+      "answer": "Yes, they believed all humans are equal."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Who benefited from saints\u2019 work?",
+      "answer": "Common people benefited."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "How did saints inspire Shivaji Maharaj?",
+      "answer": "They created unity and moral strength."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who were saints?",
+      "answer": "Saints were social and religious reformers."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What did saints teach?",
+      "answer": "They taught equality and devotion."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why were saints important?",
+      "answer": "They guided people during hard times."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Which language did saints use?",
+      "answer": "They used the common people's language."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What did saints oppose?",
+      "answer": "They opposed caste discrimination."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What values did saints spread?",
+      "answer": "Equality, devotion and humanity."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "How did saints help society?",
+      "answer": "By bringing unity among people."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Did saints believe in equality?",
+      "answer": "Yes, they believed all humans are equal."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Who benefited from saints\u2019 work?",
+      "answer": "Common people benefited."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "How did saints inspire Shivaji Maharaj?",
+      "answer": "They created unity and moral strength."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who were saints?",
+      "answer": "Saints were social and religious reformers."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What did saints teach?",
+      "answer": "They taught equality and devotion."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why were saints important?",
+      "answer": "They guided people during hard times."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Which language did saints use?",
+      "answer": "They used the common people's language."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What did saints oppose?",
+      "answer": "They opposed caste discrimination."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What values did saints spread?",
+      "answer": "Equality, devotion and humanity."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "How did saints help society?",
+      "answer": "By bringing unity among people."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Did saints believe in equality?",
+      "answer": "Yes, they believed all humans are equal."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Who benefited from saints\u2019 work?",
+      "answer": "Common people benefited."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "How did saints inspire Shivaji Maharaj?",
+      "answer": "They created unity and moral strength."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who were saints?",
+      "answer": "Saints were social and religious reformers."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What did saints teach?",
+      "answer": "They taught equality and devotion."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why were saints important?",
+      "answer": "They guided people during hard times."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Which language did saints use?",
+      "answer": "They used the common people's language."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What did saints oppose?",
+      "answer": "They opposed caste discrimination."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What values did saints spread?",
+      "answer": "Equality, devotion and humanity."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "How did saints help society?",
+      "answer": "By bringing unity among people."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Did saints believe in equality?",
+      "answer": "Yes, they believed all humans are equal."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Who benefited from saints\u2019 work?",
+      "answer": "Common people benefited."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "How did saints inspire Shivaji Maharaj?",
+      "answer": "They created unity and moral strength."
+    }
+  ]
+}

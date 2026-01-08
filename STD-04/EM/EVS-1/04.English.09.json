@@ -1,0 +1,1645 @@
+{
+    "chapter_metadata": {
+        "chapter_id": "04.English.09",
+        "standard": "4",
+        "subject": "Environmental Studies",
+        "medium": "English",
+        "chapter_name": "Clothes"
+    },
+    "questions": [
+        {
+            "question_id": 1,
+            "question_type": "MCQ",
+            "question": "Why do we wear clothes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "For decoration",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To protect our body",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For noise",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For weight",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To protect our body"
+        },
+        {
+            "question_id": 2,
+            "question_type": "MCQ",
+            "question": "Which clothes keep us warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 3,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fur clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 4,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Raincoat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sweater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shirt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cap",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Raincoat"
+        },
+        {
+            "question_id": 5,
+            "question_type": "MCQ",
+            "question": "Which fibre comes from plants?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leather",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton"
+        },
+        {
+            "question_id": 6,
+            "question_type": "MCQ",
+            "question": "Which fibre comes from animals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wool",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jute",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Linen",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wool"
+        },
+        {
+            "question_id": 7,
+            "question_type": "MCQ",
+            "question": "Why are uniforms worn in schools?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To look same",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 2,
+                    "text": "To show discipline",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fashion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For colour",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To show discipline"
+        },
+        {
+            "question_id": 8,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn in winter?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 9,
+            "question_type": "MCQ",
+            "question": "Which clothes absorb sweat?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 10,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn by soldiers?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Uniform",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Costume",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Party wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Casual wear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Uniform"
+        },
+        {
+            "question_id": 11,
+            "question_type": "MCQ",
+            "question": "Which fibre is obtained from sheep?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wool",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jute",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wool"
+        },
+        {
+            "question_id": 12,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from sun?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Hat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sweater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Raincoat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Scarf",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Hat"
+        },
+        {
+            "question_id": 13,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn on special occasions?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Costumes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Uniforms",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nightwear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "School wear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Costumes"
+        },
+        {
+            "question_id": 14,
+            "question_type": "MCQ",
+            "question": "Which clothes are used while swimming?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Swimsuit",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sweater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Raincoat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jacket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Swimsuit"
+        },
+        {
+            "question_id": 15,
+            "question_type": "MCQ",
+            "question": "Which fibre is obtained from silkworm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Silk",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jute",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Silk"
+        },
+        {
+            "question_id": 16,
+            "question_type": "MCQ",
+            "question": "Which clothes keep us cool?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fur clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 17,
+            "question_type": "MCQ",
+            "question": "Which clothes are used by doctors?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Apron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Costume",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Casual wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Uniform of police",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Apron"
+        },
+        {
+            "question_id": 18,
+            "question_type": "MCQ",
+            "question": "Which fibre is used to make jute bags?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Jute",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wool",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Jute"
+        },
+        {
+            "question_id": 19,
+            "question_type": "MCQ",
+            "question": "Why should clothes be clean?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "To stay healthy",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "For colour",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "For fashion",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "For smell",
+                    "is_correct": false
+                }
+            ],
+            "answer": "To stay healthy"
+        },
+        {
+            "question_id": 20,
+            "question_type": "MCQ",
+            "question": "Which clothes protect from dust?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Full-sleeve clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shorts",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sleeveless",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Skirt",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Full-sleeve clothes"
+        },
+        {
+            "question_id": 21,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn at night?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nightwear",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Uniform",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Party wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sportswear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nightwear"
+        },
+        {
+            "question_id": 22,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn during festivals?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Traditional clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Uniform",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nightwear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sportswear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Traditional clothes"
+        },
+        {
+            "question_id": 23,
+            "question_type": "MCQ",
+            "question": "Which fibre is used to make sweaters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wool",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jute",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wool"
+        },
+        {
+            "question_id": 24,
+            "question_type": "MCQ",
+            "question": "Which clothes help us stay dry in rain?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Raincoat",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton shirt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sweater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Cap",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Raincoat"
+        },
+        {
+            "question_id": 25,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn by police?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Uniform",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Casual wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nightwear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sportswear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Uniform"
+        },
+        {
+            "question_id": 26,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from cold?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 27,
+            "question_type": "MCQ",
+            "question": "Which fibre is natural?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nylon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Polyester",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Rayon",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton"
+        },
+        {
+            "question_id": 28,
+            "question_type": "MCQ",
+            "question": "Which clothes should be worn in summer?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Light cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Fur clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Light cotton clothes"
+        },
+        {
+            "question_id": 29,
+            "question_type": "MCQ",
+            "question": "Which clothes are used while cooking?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Apron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sweater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Raincoat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jacket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Apron"
+        },
+        {
+            "question_id": 30,
+            "question_type": "MCQ",
+            "question": "Which fibre is artificial?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Nylon",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Wool",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Nylon"
+        },
+        {
+            "question_id": 31,
+            "question_type": "MCQ",
+            "question": "Which clothes protect our skin?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Shoes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Hats",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Belts",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Clothes"
+        },
+        {
+            "question_id": 32,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn while playing?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sportswear",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Party wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nightwear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Uniform",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sportswear"
+        },
+        {
+            "question_id": 33,
+            "question_type": "MCQ",
+            "question": "Which clothes should be washed regularly?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "All clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Winter clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Festival clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Uniforms only",
+                    "is_correct": false
+                }
+            ],
+            "answer": "All clothes"
+        },
+        {
+            "question_id": 34,
+            "question_type": "MCQ",
+            "question": "Which fibre is used to make ropes?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Jute",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wool",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Jute"
+        },
+        {
+            "question_id": 35,
+            "question_type": "MCQ",
+            "question": "Which clothes help us stay warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 36,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn by nurses?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Uniform",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Costume",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Casual wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nightwear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Uniform"
+        },
+        {
+            "question_id": 37,
+            "question_type": "MCQ",
+            "question": "Which fibre is soft and comfortable?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Nylon",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Plastic",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Leather",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton"
+        },
+        {
+            "question_id": 38,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn during sports?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Sportswear",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Uniform",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nightwear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festival clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Sportswear"
+        },
+        {
+            "question_id": 39,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn to protect head?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cap",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sweater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Shirt",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Trouser",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cap"
+        },
+        {
+            "question_id": 40,
+            "question_type": "MCQ",
+            "question": "Which fibre is shiny?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Silk",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jute",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Wool",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Silk"
+        },
+        {
+            "question_id": 41,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn at home?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Casual clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Uniform",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Costume",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Sportswear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Casual clothes"
+        },
+        {
+            "question_id": 42,
+            "question_type": "MCQ",
+            "question": "Which clothes protect us from injury?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Protective clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Party wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Nightwear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Festival clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Protective clothes"
+        },
+        {
+            "question_id": 43,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn by firefighters?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Protective uniform",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Casual wear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Sportswear",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nightwear",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Protective uniform"
+        },
+        {
+            "question_id": 44,
+            "question_type": "MCQ",
+            "question": "Which fibre keeps us warm?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Wool",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Jute",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Silk",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Wool"
+        },
+        {
+            "question_id": 45,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn by chefs?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Apron",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Sweater",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Raincoat",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Jacket",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Apron"
+        },
+        {
+            "question_id": 46,
+            "question_type": "MCQ",
+            "question": "Which clothes are worn during cold nights?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Woollen clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Cotton clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Silk clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Nylon clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Woollen clothes"
+        },
+        {
+            "question_id": 47,
+            "question_type": "MCQ",
+            "question": "Which clothes should be ironed?",
+            "options": [
+                {
+                    "option_id": 1,
+                    "text": "Cotton clothes",
+                    "is_correct": true
+                },
+                {
+                    "option_id": 2,
+                    "text": "Plastic clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 3,
+                    "text": "Leather clothes",
+                    "is_correct": false
+                },
+                {
+                    "option_id": 4,
+                    "text": "Woollen clothes",
+                    "is_correct": false
+                }
+            ],
+            "answer": "Cotton clothes"
+        },
+        {
+            "question_id": 51,
+            "question_type": "SHORT",
+            "question": "Why do we wear clothes?",
+            "answer": "Clothes protect our body and keep us comfortable."
+        },
+        {
+            "question_id": 52,
+            "question_type": "SHORT",
+            "question": "Why are cotton clothes worn in summer?",
+            "answer": "Cotton absorbs sweat and keeps us cool."
+        },
+        {
+            "question_id": 53,
+            "question_type": "SHORT",
+            "question": "Why are woollen clothes worn in winter?",
+            "answer": "Wool keeps our body warm."
+        },
+        {
+            "question_id": 54,
+            "question_type": "SHORT",
+            "question": "What are uniforms?",
+            "answer": "Uniforms are clothes worn by people of same profession."
+        },
+        {
+            "question_id": 55,
+            "question_type": "SHORT",
+            "question": "Why should clothes be clean?",
+            "answer": "Clean clothes keep us healthy."
+        },
+        {
+            "question_id": 56,
+            "question_type": "SHORT",
+            "question": "What are natural fibres?",
+            "answer": "Fibres obtained from plants and animals."
+        },
+        {
+            "question_id": 57,
+            "question_type": "SHORT",
+            "question": "What are artificial fibres?",
+            "answer": "Fibres made by humans in factories."
+        },
+        {
+            "question_id": 58,
+            "question_type": "SHORT",
+            "question": "Which fibre comes from cotton plant?",
+            "answer": "Cotton fibre comes from cotton plant."
+        },
+        {
+            "question_id": 59,
+            "question_type": "SHORT",
+            "question": "Which fibre comes from sheep?",
+            "answer": "Wool fibre comes from sheep."
+        },
+        {
+            "question_id": 60,
+            "question_type": "SHORT",
+            "question": "Why do we wear raincoats?",
+            "answer": "To protect ourselves from rain."
+        },
+        {
+            "question_id": 61,
+            "question_type": "SHORT",
+            "question": "Why should clothes be washed?",
+            "answer": "To remove dirt and germs."
+        },
+        {
+            "question_id": 62,
+            "question_type": "SHORT",
+            "question": "What clothes are worn in festivals?",
+            "answer": "Traditional clothes are worn in festivals."
+        },
+        {
+            "question_id": 63,
+            "question_type": "SHORT",
+            "question": "Why do soldiers wear uniforms?",
+            "answer": "Uniform shows identity and discipline."
+        },
+        {
+            "question_id": 64,
+            "question_type": "SHORT",
+            "question": "What clothes do doctors wear?",
+            "answer": "Doctors wear apron."
+        },
+        {
+            "question_id": 65,
+            "question_type": "SHORT",
+            "question": "Why do we wear clothes in summer?",
+            "answer": "To protect from heat and sweat."
+        },
+        {
+            "question_id": 66,
+            "question_type": "SHORT",
+            "question": "Why do we wear clothes in winter?",
+            "answer": "To protect from cold."
+        },
+        {
+            "question_id": 67,
+            "question_type": "SHORT",
+            "question": "What are cotton clothes?",
+            "answer": "Clothes made from cotton fibre."
+        },
+        {
+            "question_id": 68,
+            "question_type": "SHORT",
+            "question": "What are woollen clothes?",
+            "answer": "Clothes made from wool fibre."
+        },
+        {
+            "question_id": 69,
+            "question_type": "SHORT",
+            "question": "Why do we iron clothes?",
+            "answer": "To remove wrinkles."
+        },
+        {
+            "question_id": 70,
+            "question_type": "SHORT",
+            "question": "What clothes are worn while playing?",
+            "answer": "Sportswear is worn while playing."
+        },
+        {
+            "question_id": 71,
+            "question_type": "SHORT",
+            "question": "Why do we wear clothes while cooking?",
+            "answer": "To protect from stains and heat."
+        },
+        {
+            "question_id": 72,
+            "question_type": "SHORT",
+            "question": "Why do clothes protect our skin?",
+            "answer": "They cover the body."
+        },
+        {
+            "question_id": 73,
+            "question_type": "SHORT",
+            "question": "What clothes are worn at night?",
+            "answer": "Nightwear is worn at night."
+        },
+        {
+            "question_id": 74,
+            "question_type": "SHORT",
+            "question": "Why are clothes important?",
+            "answer": "They protect and cover our body."
+        },
+        {
+            "question_id": 75,
+            "question_type": "SHORT",
+            "question": "What clothes protect from sun?",
+            "answer": "Caps and full-sleeve clothes."
+        },
+        {
+            "question_id": 76,
+            "question_type": "SHORT",
+            "question": "Why should we change clothes daily?",
+            "answer": "To stay clean and healthy."
+        },
+        {
+            "question_id": 77,
+            "question_type": "SHORT",
+            "question": "What clothes are worn by police?",
+            "answer": "Police wear uniform."
+        },
+        {
+            "question_id": 78,
+            "question_type": "SHORT",
+            "question": "Why are cotton clothes soft?",
+            "answer": "Cotton fibre is soft."
+        },
+        {
+            "question_id": 79,
+            "question_type": "SHORT",
+            "question": "Why are woollen clothes thick?",
+            "answer": "Wool traps air and gives warmth."
+        },
+        {
+            "question_id": 80,
+            "question_type": "SHORT",
+            "question": "What clothes are worn in rain?",
+            "answer": "Raincoat is worn in rain."
+        },
+        {
+            "question_id": 81,
+            "question_type": "SHORT",
+            "question": "Why are clothes different?",
+            "answer": "Different seasons need different clothes."
+        },
+        {
+            "question_id": 82,
+            "question_type": "SHORT",
+            "question": "What clothes are worn by nurses?",
+            "answer": "Nurses wear uniform."
+        },
+        {
+            "question_id": 83,
+            "question_type": "SHORT",
+            "question": "Why are clothes necessary?",
+            "answer": "They protect our body."
+        },
+        {
+            "question_id": 84,
+            "question_type": "SHORT",
+            "question": "What clothes are worn in summer?",
+            "answer": "Light cotton clothes."
+        },
+        {
+            "question_id": 85,
+            "question_type": "SHORT",
+            "question": "What clothes are worn in winter?",
+            "answer": "Woollen clothes."
+        },
+        {
+            "question_id": 86,
+            "question_type": "SHORT",
+            "question": "Why should clothes be folded properly?",
+            "answer": "To keep them neat."
+        },
+        {
+            "question_id": 87,
+            "question_type": "SHORT",
+            "question": "What clothes protect from injury?",
+            "answer": "Protective clothes."
+        },
+        {
+            "question_id": 88,
+            "question_type": "SHORT",
+            "question": "Why should clothes be dried in sun?",
+            "answer": "Sun kills germs."
+        },
+        {
+            "question_id": 89,
+            "question_type": "SHORT",
+            "question": "What clothes are worn at home?",
+            "answer": "Casual clothes."
+        },
+        {
+            "question_id": 90,
+            "question_type": "SHORT",
+            "question": "Why are clothes colourful?",
+            "answer": "For beauty and fashion."
+        },
+        {
+            "question_id": 91,
+            "question_type": "SHORT",
+            "question": "What clothes are worn by chefs?",
+            "answer": "Apron."
+        },
+        {
+            "question_id": 92,
+            "question_type": "SHORT",
+            "question": "Why are clothes stitched?",
+            "answer": "To make them wearable."
+        },
+        {
+            "question_id": 93,
+            "question_type": "SHORT",
+            "question": "Why should clothes be comfortable?",
+            "answer": "To move easily."
+        },
+        {
+            "question_id": 94,
+            "question_type": "SHORT",
+            "question": "What clothes absorb sweat?",
+            "answer": "Cotton clothes absorb sweat."
+        },
+        {
+            "question_id": 95,
+            "question_type": "SHORT",
+            "question": "Why do children need clothes?",
+            "answer": "To protect their body."
+        },
+        {
+            "question_id": 96,
+            "question_type": "SHORT",
+            "question": "What clothes are worn during sports?",
+            "answer": "Sportswear."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Why should we respect clothes?",
+            "answer": "They are useful to us."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "What clothes are worn in cold nights?",
+            "answer": "Woollen clothes."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "Why should clothes be stored properly?",
+            "answer": "To keep them safe."
+        },
+        {
+            "question_id": 97,
+            "question_type": "SHORT",
+            "question": "Why should clothes be dried properly?",
+            "answer": "Proper drying removes moisture and germs."
+        },
+        {
+            "question_id": 98,
+            "question_type": "SHORT",
+            "question": "Why do people wear different clothes?",
+            "answer": "Different clothes are worn for different purposes."
+        },
+        {
+            "question_id": 99,
+            "question_type": "SHORT",
+            "question": "How do clothes protect us from weather?",
+            "answer": "They protect us from heat, cold, and rain."
+        },
+        {
+            "question_id": 100,
+            "question_type": "SHORT",
+            "question": "Why should old clothes be reused?",
+            "answer": "To reduce waste."
+        }
+    ]
+}

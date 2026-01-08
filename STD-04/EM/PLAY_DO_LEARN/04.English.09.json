@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.09",
+    "standard": "4",
+    "subject": "PlayDoLearn",
+    "medium": "English",
+    "chapter_name": "Optional Activities"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "What are optional activities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we choose",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Daily duties",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Forced work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we choose"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why are optional activities done?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For enjoyment",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For enjoyment"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Which is an optional activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gardening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gardening"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Optional activities are done in ____ time.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "free",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "study",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "school",
+          "is_correct": false
+        }
+      ],
+      "answer": "free"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Which activity is chosen by interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cleaning room",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Optional activities make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relaxed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "relaxed"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "Which is an optional indoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Which is an optional outdoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cycling",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cycling"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "Optional activities help to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hobbies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "hobbies"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "Why are optional activities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh our mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh our mind"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "What are optional activities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we choose",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Daily duties",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Forced work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we choose"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why are optional activities done?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For enjoyment",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For enjoyment"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Which is an optional activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gardening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gardening"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Optional activities are done in ____ time.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "free",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "study",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "school",
+          "is_correct": false
+        }
+      ],
+      "answer": "free"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Which activity is chosen by interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cleaning room",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Optional activities make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relaxed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "relaxed"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "Which is an optional indoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "Which is an optional outdoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cycling",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cycling"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "Optional activities help to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hobbies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "hobbies"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "Why are optional activities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh our mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh our mind"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "What are optional activities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we choose",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Daily duties",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Forced work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we choose"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why are optional activities done?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For enjoyment",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For enjoyment"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Which is an optional activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gardening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gardening"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Optional activities are done in ____ time.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "free",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "study",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "school",
+          "is_correct": false
+        }
+      ],
+      "answer": "free"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Which activity is chosen by interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cleaning room",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Optional activities make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relaxed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "relaxed"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "Which is an optional indoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "Which is an optional outdoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cycling",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cycling"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "Optional activities help to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hobbies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "hobbies"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "Why are optional activities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh our mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh our mind"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "What are optional activities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we choose",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Daily duties",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Forced work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we choose"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why are optional activities done?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For enjoyment",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For enjoyment"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Which is an optional activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gardening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gardening"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Optional activities are done in ____ time.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "free",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "study",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "school",
+          "is_correct": false
+        }
+      ],
+      "answer": "free"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Which activity is chosen by interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cleaning room",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Optional activities make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relaxed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "relaxed"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "Which is an optional indoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "Which is an optional outdoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cycling",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cycling"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "Optional activities help to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hobbies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "hobbies"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "Why are optional activities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh our mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh our mind"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "What are optional activities?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Activities we choose",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Daily duties",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Forced work",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Exercises only",
+          "is_correct": false
+        }
+      ],
+      "answer": "Activities we choose"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why are optional activities done?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For enjoyment",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "For punishment",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "For fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "For tiredness",
+          "is_correct": false
+        }
+      ],
+      "answer": "For enjoyment"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Which is an optional activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gardening",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Brushing teeth",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Bathing",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Eating food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gardening"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Optional activities are done in ____ time.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "free",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "study",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "school",
+          "is_correct": false
+        }
+      ],
+      "answer": "free"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Which activity is chosen by interest?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Painting",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cleaning room",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Washing clothes",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cooking food",
+          "is_correct": false
+        }
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Optional activities make us feel ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "relaxed",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "sad",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "tired",
+          "is_correct": false
+        }
+      ],
+      "answer": "relaxed"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "Which is an optional indoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Reading",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Sweeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Running",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Jumping",
+          "is_correct": false
+        }
+      ],
+      "answer": "Reading"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "Which is an optional outdoor activity?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cycling",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Writing",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Reading",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Drawing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cycling"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "Optional activities help to develop ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "hobbies",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "laziness",
+          "is_correct": false
+        }
+      ],
+      "answer": "hobbies"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "Why are optional activities important?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They refresh our mind",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "They waste time",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "They cause fear",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They stop learning",
+          "is_correct": false
+        }
+      ],
+      "answer": "They refresh our mind"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "What are optional activities?",
+      "answer": "They are activities we choose to do."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "When do we do optional activities?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Name one optional activity.",
+      "answer": "Gardening."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Why do we like optional activities?",
+      "answer": "They give enjoyment."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "Which activity is done by choice?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "How do optional activities help us?",
+      "answer": "They relax our mind."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "Name one indoor optional activity.",
+      "answer": "Reading."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "Name one outdoor optional activity.",
+      "answer": "Cycling."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What do optional activities develop?",
+      "answer": "Hobbies."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What is the lesson message?",
+      "answer": "Choose activities you enjoy."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "What are optional activities?",
+      "answer": "They are activities we choose to do."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "When do we do optional activities?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Name one optional activity.",
+      "answer": "Gardening."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Why do we like optional activities?",
+      "answer": "They give enjoyment."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "Which activity is done by choice?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "How do optional activities help us?",
+      "answer": "They relax our mind."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "Name one indoor optional activity.",
+      "answer": "Reading."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "Name one outdoor optional activity.",
+      "answer": "Cycling."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What do optional activities develop?",
+      "answer": "Hobbies."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What is the lesson message?",
+      "answer": "Choose activities you enjoy."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "What are optional activities?",
+      "answer": "They are activities we choose to do."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "When do we do optional activities?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Name one optional activity.",
+      "answer": "Gardening."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Why do we like optional activities?",
+      "answer": "They give enjoyment."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "Which activity is done by choice?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "How do optional activities help us?",
+      "answer": "They relax our mind."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "Name one indoor optional activity.",
+      "answer": "Reading."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "Name one outdoor optional activity.",
+      "answer": "Cycling."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What do optional activities develop?",
+      "answer": "Hobbies."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What is the lesson message?",
+      "answer": "Choose activities you enjoy."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "What are optional activities?",
+      "answer": "They are activities we choose to do."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "When do we do optional activities?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Name one optional activity.",
+      "answer": "Gardening."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Why do we like optional activities?",
+      "answer": "They give enjoyment."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "Which activity is done by choice?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "How do optional activities help us?",
+      "answer": "They relax our mind."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Name one indoor optional activity.",
+      "answer": "Reading."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Name one outdoor optional activity.",
+      "answer": "Cycling."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What do optional activities develop?",
+      "answer": "Hobbies."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What is the lesson message?",
+      "answer": "Choose activities you enjoy."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "What are optional activities?",
+      "answer": "They are activities we choose to do."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "When do we do optional activities?",
+      "answer": "In free time."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Name one optional activity.",
+      "answer": "Gardening."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Why do we like optional activities?",
+      "answer": "They give enjoyment."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "Which activity is done by choice?",
+      "answer": "Painting."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "How do optional activities help us?",
+      "answer": "They relax our mind."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "Name one indoor optional activity.",
+      "answer": "Reading."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "Name one outdoor optional activity.",
+      "answer": "Cycling."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What do optional activities develop?",
+      "answer": "Hobbies."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What is the lesson message?",
+      "answer": "Choose activities you enjoy."
+    }
+  ]
+}

@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.29",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Androcles and the Lion"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was Androcles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A slave",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A hunter",
+          "is_correct": false
+        }
+      ],
+      "answer": "A slave"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What animal did Androcles help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Horse",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lion"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "What problem did the lion have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hunger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thorn in paw",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Injury",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thorn in paw"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "How did Androcles help the lion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Removed the thorn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Killed it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Removed the thorn"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "How did the lion react later?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attacked Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Recognized and spared him",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Recognized and spared him"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Where did Androcles meet the lion again?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arena",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arena"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What quality did Androcles show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness is rewarded",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power wins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness is rewarded"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What did the king do at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punished Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Freed Androcles",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Killed the lion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Freed Androcles"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The story teaches us about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revenge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness and gratitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness and gratitude"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was Androcles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A slave",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A hunter",
+          "is_correct": false
+        }
+      ],
+      "answer": "A slave"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What animal did Androcles help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Horse",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lion"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "What problem did the lion have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hunger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thorn in paw",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Injury",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thorn in paw"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "How did Androcles help the lion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Removed the thorn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Killed it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Removed the thorn"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "How did the lion react later?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attacked Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Recognized and spared him",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Recognized and spared him"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "Where did Androcles meet the lion again?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arena",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arena"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What quality did Androcles show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness is rewarded",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power wins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness is rewarded"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What did the king do at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punished Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Freed Androcles",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Killed the lion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Freed Androcles"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The story teaches us about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revenge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness and gratitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness and gratitude"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who was Androcles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A slave",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A hunter",
+          "is_correct": false
+        }
+      ],
+      "answer": "A slave"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What animal did Androcles help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Horse",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lion"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "What problem did the lion have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hunger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thorn in paw",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Injury",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thorn in paw"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "How did Androcles help the lion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Removed the thorn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Killed it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Removed the thorn"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "How did the lion react later?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attacked Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Recognized and spared him",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Recognized and spared him"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "Where did Androcles meet the lion again?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arena",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arena"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What quality did Androcles show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness is rewarded",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power wins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness is rewarded"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What did the king do at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punished Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Freed Androcles",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Killed the lion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Freed Androcles"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The story teaches us about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revenge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness and gratitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness and gratitude"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who was Androcles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A slave",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A hunter",
+          "is_correct": false
+        }
+      ],
+      "answer": "A slave"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What animal did Androcles help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Horse",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lion"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "What problem did the lion have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hunger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thorn in paw",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Injury",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thorn in paw"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "How did Androcles help the lion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Removed the thorn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Killed it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Removed the thorn"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "How did the lion react later?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attacked Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Recognized and spared him",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Recognized and spared him"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "Where did Androcles meet the lion again?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arena",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arena"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What quality did Androcles show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness is rewarded",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power wins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness is rewarded"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What did the king do at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punished Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Freed Androcles",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Killed the lion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Freed Androcles"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The story teaches us about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revenge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness and gratitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness and gratitude"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who was Androcles?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A slave",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A soldier",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A hunter",
+          "is_correct": false
+        }
+      ],
+      "answer": "A slave"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What animal did Androcles help?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Tiger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Lion",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Dog",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Horse",
+          "is_correct": false
+        }
+      ],
+      "answer": "Lion"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "What problem did the lion have?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hunger",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Thorn in paw",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Injury",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Thorn in paw"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "How did Androcles help the lion?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ran away",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Removed the thorn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Killed it",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fed it",
+          "is_correct": false
+        }
+      ],
+      "answer": "Removed the thorn"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "How did the lion react later?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Attacked Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Recognized and spared him",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Ran away",
+          "is_correct": false
+        }
+      ],
+      "answer": "Recognized and spared him"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "Where did Androcles meet the lion again?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Forest",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Village",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Arena",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "Arena"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What quality did Androcles show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cruelty",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What lesson does the story teach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Be strong",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness is rewarded",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power wins",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear animals",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness is rewarded"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What did the king do at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Punished Androcles",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Freed Androcles",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ignored him",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Killed the lion",
+          "is_correct": false
+        }
+      ],
+      "answer": "Freed Androcles"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The story teaches us about ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Revenge",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness and gratitude",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness and gratitude"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who was Androcles?",
+      "answer": "Androcles was a slave."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Which animal did he help?",
+      "answer": "He helped a lion."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What was the lion\u2019s problem?",
+      "answer": "A thorn was stuck in its paw."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "How did Androcles help the lion?",
+      "answer": "He removed the thorn."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What did the lion do later?",
+      "answer": "It recognized Androcles."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "Where did they meet again?",
+      "answer": "In the arena."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What quality did Androcles show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What happened at the end?",
+      "answer": "Androcles was set free."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Be kind to everyone."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who was Androcles?",
+      "answer": "Androcles was a slave."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Which animal did he help?",
+      "answer": "He helped a lion."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What was the lion\u2019s problem?",
+      "answer": "A thorn was stuck in its paw."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "How did Androcles help the lion?",
+      "answer": "He removed the thorn."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What did the lion do later?",
+      "answer": "It recognized Androcles."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "Where did they meet again?",
+      "answer": "In the arena."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What quality did Androcles show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What happened at the end?",
+      "answer": "Androcles was set free."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Be kind to everyone."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who was Androcles?",
+      "answer": "Androcles was a slave."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Which animal did he help?",
+      "answer": "He helped a lion."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What was the lion\u2019s problem?",
+      "answer": "A thorn was stuck in its paw."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "How did Androcles help the lion?",
+      "answer": "He removed the thorn."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What did the lion do later?",
+      "answer": "It recognized Androcles."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "Where did they meet again?",
+      "answer": "In the arena."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What quality did Androcles show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What happened at the end?",
+      "answer": "Androcles was set free."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Be kind to everyone."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who was Androcles?",
+      "answer": "Androcles was a slave."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Which animal did he help?",
+      "answer": "He helped a lion."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What was the lion\u2019s problem?",
+      "answer": "A thorn was stuck in its paw."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "How did Androcles help the lion?",
+      "answer": "He removed the thorn."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What did the lion do later?",
+      "answer": "It recognized Androcles."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "Where did they meet again?",
+      "answer": "In the arena."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What quality did Androcles show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What happened at the end?",
+      "answer": "Androcles was set free."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Be kind to everyone."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who was Androcles?",
+      "answer": "Androcles was a slave."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Which animal did he help?",
+      "answer": "He helped a lion."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What was the lion\u2019s problem?",
+      "answer": "A thorn was stuck in its paw."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "How did Androcles help the lion?",
+      "answer": "He removed the thorn."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What did the lion do later?",
+      "answer": "It recognized Androcles."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "Where did they meet again?",
+      "answer": "In the arena."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What quality did Androcles show?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What happened at the end?",
+      "answer": "Androcles was set free."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Be kind to everyone."
+    }
+  ]
+}

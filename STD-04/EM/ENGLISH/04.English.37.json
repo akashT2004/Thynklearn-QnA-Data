@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.37",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "Ryokan and the Starfish"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who was Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A monk",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fisherman",
+          "is_correct": false
+        }
+      ],
+      "answer": "A monk"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "What was Ryokan doing on the beach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saving starfish",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saving starfish"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why was Ryokan throwing starfish into the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To clean",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save them"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "Who questioned Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A passer-by",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A monk",
+          "is_correct": false
+        }
+      ],
+      "answer": "A passer-by"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "What did Ryokan reply?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It makes a difference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is funny",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It is tiring",
+          "is_correct": false
+        }
+      ],
+      "answer": "It makes a difference"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What quality does Ryokan show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What happens to starfish on the shore?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They live",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They die",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They grow",
+          "is_correct": false
+        }
+      ],
+      "answer": "They die"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small acts matter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only big acts matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small acts matter"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "What does Ryokan believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Every life matters",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only humans matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Effort is waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nature is cruel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Every life matters"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who was Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A monk",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fisherman",
+          "is_correct": false
+        }
+      ],
+      "answer": "A monk"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "What was Ryokan doing on the beach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saving starfish",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saving starfish"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why was Ryokan throwing starfish into the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To clean",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save them"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "Who questioned Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A passer-by",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A monk",
+          "is_correct": false
+        }
+      ],
+      "answer": "A passer-by"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "What did Ryokan reply?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It makes a difference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is funny",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It is tiring",
+          "is_correct": false
+        }
+      ],
+      "answer": "It makes a difference"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What quality does Ryokan show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What happens to starfish on the shore?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They live",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They die",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They grow",
+          "is_correct": false
+        }
+      ],
+      "answer": "They die"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small acts matter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only big acts matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small acts matter"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "What does Ryokan believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Every life matters",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only humans matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Effort is waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nature is cruel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Every life matters"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who was Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A monk",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fisherman",
+          "is_correct": false
+        }
+      ],
+      "answer": "A monk"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "What was Ryokan doing on the beach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saving starfish",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saving starfish"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why was Ryokan throwing starfish into the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To clean",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save them"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "Who questioned Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A passer-by",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A monk",
+          "is_correct": false
+        }
+      ],
+      "answer": "A passer-by"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "What did Ryokan reply?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It makes a difference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is funny",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It is tiring",
+          "is_correct": false
+        }
+      ],
+      "answer": "It makes a difference"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What quality does Ryokan show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What happens to starfish on the shore?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They live",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They die",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They grow",
+          "is_correct": false
+        }
+      ],
+      "answer": "They die"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small acts matter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only big acts matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small acts matter"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "What does Ryokan believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Every life matters",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only humans matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Effort is waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nature is cruel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Every life matters"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who was Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A monk",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fisherman",
+          "is_correct": false
+        }
+      ],
+      "answer": "A monk"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "What was Ryokan doing on the beach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saving starfish",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saving starfish"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why was Ryokan throwing starfish into the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To clean",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save them"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "Who questioned Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A passer-by",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A monk",
+          "is_correct": false
+        }
+      ],
+      "answer": "A passer-by"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "What did Ryokan reply?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It makes a difference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is funny",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It is tiring",
+          "is_correct": false
+        }
+      ],
+      "answer": "It makes a difference"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What quality does Ryokan show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What happens to starfish on the shore?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They live",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They die",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They grow",
+          "is_correct": false
+        }
+      ],
+      "answer": "They die"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small acts matter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only big acts matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small acts matter"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "What does Ryokan believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Every life matters",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only humans matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Effort is waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nature is cruel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Every life matters"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who was Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A poet",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A monk",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A fisherman",
+          "is_correct": false
+        }
+      ],
+      "answer": "A monk"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "What was Ryokan doing on the beach?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Walking",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Saving starfish",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Sleeping",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fishing",
+          "is_correct": false
+        }
+      ],
+      "answer": "Saving starfish"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why was Ryokan throwing starfish into the sea?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "For fun",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "To save them",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "To play",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "To clean",
+          "is_correct": false
+        }
+      ],
+      "answer": "To save them"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "Who questioned Ryokan?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "A child",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "A passer-by",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "A king",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "A monk",
+          "is_correct": false
+        }
+      ],
+      "answer": "A passer-by"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "What did Ryokan reply?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "It makes a difference",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "It is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "It is funny",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "It is tiring",
+          "is_correct": false
+        }
+      ],
+      "answer": "It makes a difference"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What quality does Ryokan show?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What happens to starfish on the shore?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "They live",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "They die",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "They fly",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "They grow",
+          "is_correct": false
+        }
+      ],
+      "answer": "They die"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What is the main theme of the story?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Helping others",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Wealth",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fear",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helping others"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Small acts matter",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only big acts matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Helping is useless",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Ignore others",
+          "is_correct": false
+        }
+      ],
+      "answer": "Small acts matter"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "What does Ryokan believe?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Every life matters",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Only humans matter",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Effort is waste",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Nature is cruel",
+          "is_correct": false
+        }
+      ],
+      "answer": "Every life matters"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who was Ryokan?",
+      "answer": "Ryokan was a monk."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "What was Ryokan doing on the beach?",
+      "answer": "He was saving starfish."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "Why were the starfish in danger?",
+      "answer": "They were stranded on the shore."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "What did Ryokan do for the starfish?",
+      "answer": "He threw them back into the sea."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What question was asked to Ryokan?",
+      "answer": "Why he was saving starfish."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was Ryokan\u2019s reply?",
+      "answer": "It makes a difference."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What quality does Ryokan show?",
+      "answer": "Kindness and compassion."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Small acts of kindness matter."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "Can one person make a difference?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Help whenever possible."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who was Ryokan?",
+      "answer": "Ryokan was a monk."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "What was Ryokan doing on the beach?",
+      "answer": "He was saving starfish."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "Why were the starfish in danger?",
+      "answer": "They were stranded on the shore."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "What did Ryokan do for the starfish?",
+      "answer": "He threw them back into the sea."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What question was asked to Ryokan?",
+      "answer": "Why he was saving starfish."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was Ryokan\u2019s reply?",
+      "answer": "It makes a difference."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What quality does Ryokan show?",
+      "answer": "Kindness and compassion."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Small acts of kindness matter."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "Can one person make a difference?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Help whenever possible."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who was Ryokan?",
+      "answer": "Ryokan was a monk."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "What was Ryokan doing on the beach?",
+      "answer": "He was saving starfish."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "Why were the starfish in danger?",
+      "answer": "They were stranded on the shore."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "What did Ryokan do for the starfish?",
+      "answer": "He threw them back into the sea."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What question was asked to Ryokan?",
+      "answer": "Why he was saving starfish."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What was Ryokan\u2019s reply?",
+      "answer": "It makes a difference."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What quality does Ryokan show?",
+      "answer": "Kindness and compassion."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Small acts of kindness matter."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "Can one person make a difference?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Help whenever possible."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who was Ryokan?",
+      "answer": "Ryokan was a monk."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "What was Ryokan doing on the beach?",
+      "answer": "He was saving starfish."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "Why were the starfish in danger?",
+      "answer": "They were stranded on the shore."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "What did Ryokan do for the starfish?",
+      "answer": "He threw them back into the sea."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What question was asked to Ryokan?",
+      "answer": "Why he was saving starfish."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was Ryokan\u2019s reply?",
+      "answer": "It makes a difference."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What quality does Ryokan show?",
+      "answer": "Kindness and compassion."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Small acts of kindness matter."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "Can one person make a difference?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Help whenever possible."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who was Ryokan?",
+      "answer": "Ryokan was a monk."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "What was Ryokan doing on the beach?",
+      "answer": "He was saving starfish."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "Why were the starfish in danger?",
+      "answer": "They were stranded on the shore."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "What did Ryokan do for the starfish?",
+      "answer": "He threw them back into the sea."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What question was asked to Ryokan?",
+      "answer": "Why he was saving starfish."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What was Ryokan\u2019s reply?",
+      "answer": "It makes a difference."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What quality does Ryokan show?",
+      "answer": "Kindness and compassion."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Small acts of kindness matter."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "Can one person make a difference?",
+      "answer": "Yes, they can."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from the story?",
+      "answer": "Help whenever possible."
+    }
+  ]
+}

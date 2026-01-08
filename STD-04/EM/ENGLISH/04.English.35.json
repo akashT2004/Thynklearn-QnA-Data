@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.English.35",
+    "standard": "4",
+    "subject": "English",
+    "medium": "English",
+    "chapter_name": "The King of the Golden River (Part 2)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "Who finally reached the Golden River?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All brothers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "Why did Hans fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "Why did Schwartz fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He helped others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was careful",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "What did Gluck do differently?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored others",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Helped others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Was rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was greedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helped others"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "Who helped Gluck on the way?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Old man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Animals and people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Brothers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals and people"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "What happened when Gluck poured water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "River turned golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Valley bloomed",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain fell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Valley bloomed"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "What was Gluck rewarded with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A green valley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "A green valley"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "What quality helped Gluck succeed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "What happened to the valley at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became green",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became green"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____ wins.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "Who finally reached the Golden River?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All brothers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "Why did Hans fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Why did Schwartz fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He helped others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was careful",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "What did Gluck do differently?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored others",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Helped others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Was rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was greedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helped others"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "Who helped Gluck on the way?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Old man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Animals and people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Brothers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals and people"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "What happened when Gluck poured water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "River turned golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Valley bloomed",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain fell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Valley bloomed"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "What was Gluck rewarded with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A green valley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "A green valley"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "What quality helped Gluck succeed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "What happened to the valley at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became green",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became green"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____ wins.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "Who finally reached the Golden River?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All brothers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "Why did Hans fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "Why did Schwartz fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He helped others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was careful",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "What did Gluck do differently?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored others",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Helped others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Was rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was greedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helped others"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "Who helped Gluck on the way?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Old man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Animals and people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Brothers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals and people"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "What happened when Gluck poured water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "River turned golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Valley bloomed",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain fell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Valley bloomed"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "What was Gluck rewarded with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A green valley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "A green valley"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "What quality helped Gluck succeed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "What happened to the valley at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became green",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became green"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____ wins.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "Who finally reached the Golden River?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All brothers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "Why did Hans fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "Why did Schwartz fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He helped others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was careful",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "What did Gluck do differently?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored others",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Helped others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Was rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was greedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helped others"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "Who helped Gluck on the way?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Old man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Animals and people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Brothers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals and people"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "What happened when Gluck poured water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "River turned golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Valley bloomed",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain fell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Valley bloomed"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "What was Gluck rewarded with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A green valley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "A green valley"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "What quality helped Gluck succeed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "What happened to the valley at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became green",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became green"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____ wins.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "Who finally reached the Golden River?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Hans",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Schwartz",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Gluck",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "All brothers",
+          "is_correct": false
+        }
+      ],
+      "answer": "Gluck"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "Why did Hans fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was weak",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He was tired",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was ill",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "Why did Schwartz fail?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "He was kind",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "He was greedy",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "He helped others",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "He was careful",
+          "is_correct": false
+        }
+      ],
+      "answer": "He was greedy"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "What did Gluck do differently?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Ignored others",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Helped others",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Was rude",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Was greedy",
+          "is_correct": false
+        }
+      ],
+      "answer": "Helped others"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "Who helped Gluck on the way?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Old man",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Animals and people",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Brothers",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "No one",
+          "is_correct": false
+        }
+      ],
+      "answer": "Animals and people"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "What happened when Gluck poured water?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Nothing",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "River turned golden",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Valley bloomed",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mountain fell",
+          "is_correct": false
+        }
+      ],
+      "answer": "Valley bloomed"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "What was Gluck rewarded with?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Gold only",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Happiness",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "A green valley",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "A palace",
+          "is_correct": false
+        }
+      ],
+      "answer": "A green valley"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "What quality helped Gluck succeed?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Anger",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Pride",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "What happened to the valley at the end?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Stayed dry",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Became green",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Flooded",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Frozen",
+          "is_correct": false
+        }
+      ],
+      "answer": "Became green"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "The story teaches us that ____ wins.",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Greed",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Kindness",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Power",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Wealth",
+          "is_correct": false
+        }
+      ],
+      "answer": "Kindness"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Who succeeded in the task?",
+      "answer": "Gluck succeeded."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "Why did the elder brothers fail?",
+      "answer": "Because of their greed."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "What did Gluck do on the way?",
+      "answer": "He helped others."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "Who did Gluck help?",
+      "answer": "People and animals."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "What happened when water was poured?",
+      "answer": "The valley became green."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "What was Gluck\u2019s reward?",
+      "answer": "A fertile green valley."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "What quality made Gluck successful?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "What happened to the valley finally?",
+      "answer": "It bloomed again."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 2?",
+      "answer": "Be kind and helpful."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "Who succeeded in the task?",
+      "answer": "Gluck succeeded."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "Why did the elder brothers fail?",
+      "answer": "Because of their greed."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "What did Gluck do on the way?",
+      "answer": "He helped others."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "Who did Gluck help?",
+      "answer": "People and animals."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "What happened when water was poured?",
+      "answer": "The valley became green."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "What was Gluck\u2019s reward?",
+      "answer": "A fertile green valley."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "What quality made Gluck successful?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "What happened to the valley finally?",
+      "answer": "It bloomed again."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 2?",
+      "answer": "Be kind and helpful."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "Who succeeded in the task?",
+      "answer": "Gluck succeeded."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "Why did the elder brothers fail?",
+      "answer": "Because of their greed."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "What did Gluck do on the way?",
+      "answer": "He helped others."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "Who did Gluck help?",
+      "answer": "People and animals."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "What happened when water was poured?",
+      "answer": "The valley became green."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "What was Gluck\u2019s reward?",
+      "answer": "A fertile green valley."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "What quality made Gluck successful?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "What happened to the valley finally?",
+      "answer": "It bloomed again."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 2?",
+      "answer": "Be kind and helpful."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "Who succeeded in the task?",
+      "answer": "Gluck succeeded."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "Why did the elder brothers fail?",
+      "answer": "Because of their greed."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "What did Gluck do on the way?",
+      "answer": "He helped others."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "Who did Gluck help?",
+      "answer": "People and animals."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "What happened when water was poured?",
+      "answer": "The valley became green."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "What was Gluck\u2019s reward?",
+      "answer": "A fertile green valley."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "What quality made Gluck successful?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "What happened to the valley finally?",
+      "answer": "It bloomed again."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 2?",
+      "answer": "Be kind and helpful."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "Who succeeded in the task?",
+      "answer": "Gluck succeeded."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "Why did the elder brothers fail?",
+      "answer": "Because of their greed."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "What did Gluck do on the way?",
+      "answer": "He helped others."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "Who did Gluck help?",
+      "answer": "People and animals."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "What happened when water was poured?",
+      "answer": "The valley became green."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "What was Gluck\u2019s reward?",
+      "answer": "A fertile green valley."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "What quality made Gluck successful?",
+      "answer": "Kindness."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "What happened to the valley finally?",
+      "answer": "It bloomed again."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "What is the moral of the story?",
+      "answer": "Kindness is rewarded."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "What do we learn from Part 2?",
+      "answer": "Be kind and helpful."
+    }
+  ]
+}

@@ -1,0 +1,1711 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "04.Marathi.31",
+    "standard": "4",
+    "subject": "Marathi",
+    "medium": "Marathi",
+    "chapter_name": "आपले वाचनालय"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनालय"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "सुहास काय गोळा करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कात्रणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कात्रणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणे कशातून कापतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तमानपत्रातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वह्यांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोस्टरमधून",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्तमानपत्रातून"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वहीत चिकटवतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फेकून देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जाळतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वहीत चिकटवतो"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सुहासने कशाचे वाचनालय तयार केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तकांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फळांचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकांचे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "मीना सुहासला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हे नाव का दिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्वांसाठी असल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त सुहाससाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी असल्यामुळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वाचनालयातून काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची आवड",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची आवड"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "रविवारी सगळे काय करायचे ठरवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेटून वाचणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोपणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "भेटून वाचणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "धड्याचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची सवय लावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची सवय लावा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनालय"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सुहास काय गोळा करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कात्रणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कात्रणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणे कशातून कापतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तमानपत्रातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वह्यांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोस्टरमधून",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्तमानपत्रातून"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वहीत चिकटवतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फेकून देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जाळतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वहीत चिकटवतो"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सुहासने कशाचे वाचनालय तयार केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तकांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फळांचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकांचे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "मीना सुहासला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हे नाव का दिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्वांसाठी असल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त सुहाससाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी असल्यामुळे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वाचनालयातून काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची आवड",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची आवड"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रविवारी सगळे काय करायचे ठरवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेटून वाचणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोपणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "भेटून वाचणे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "धड्याचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची सवय लावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची सवय लावा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनालय"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "सुहास काय गोळा करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कात्रणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कात्रणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणे कशातून कापतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तमानपत्रातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वह्यांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोस्टरमधून",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्तमानपत्रातून"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वहीत चिकटवतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फेकून देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जाळतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वहीत चिकटवतो"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सुहासने कशाचे वाचनालय तयार केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तकांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फळांचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकांचे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "मीना सुहासला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हे नाव का दिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्वांसाठी असल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त सुहाससाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी असल्यामुळे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "वाचनालयातून काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची आवड",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची आवड"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "रविवारी सगळे काय करायचे ठरवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेटून वाचणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोपणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "भेटून वाचणे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "धड्याचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची सवय लावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची सवय लावा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनालय"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "सुहास काय गोळा करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कात्रणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कात्रणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणे कशातून कापतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तमानपत्रातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वह्यांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोस्टरमधून",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्तमानपत्रातून"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वहीत चिकटवतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फेकून देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जाळतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वहीत चिकटवतो"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "सुहासने कशाचे वाचनालय तयार केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तकांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फळांचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकांचे"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "मीना सुहासला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हे नाव का दिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्वांसाठी असल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त सुहाससाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी असल्यामुळे"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "वाचनालयातून काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची आवड",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची आवड"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "रविवारी सगळे काय करायचे ठरवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेटून वाचणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोपणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "भेटून वाचणे"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "धड्याचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची सवय लावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची सवय लावा"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनालय"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "सुहास काय गोळा करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कात्रणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कात्रणे"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणे कशातून कापतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तमानपत्रातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वह्यांतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पोस्टरमधून",
+          "is_correct": false
+        }
+      ],
+      "answer": "वर्तमानपत्रातून"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वहीत चिकटवतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फेकून देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जाळतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वहीत चिकटवतो"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "सुहासने कशाचे वाचनालय तयार केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तकांचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळण्यांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फळांचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकांचे"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "मीना सुहासला काय देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुस्तके",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कपडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तके"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "‘आपले वाचनालय’ हे नाव का दिले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्वांसाठी असल्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त सुहाससाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शाळेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वांसाठी असल्यामुळे"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "वाचनालयातून काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची आवड",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची आवड"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "रविवारी सगळे काय करायचे ठरवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भेटून वाचणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भांडणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खेळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोपणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "भेटून वाचणे"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "धड्याचा संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाचनाची सवय लावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ टाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्लक्ष करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस करा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनाची सवय लावा"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा वाचनालयाबद्दल आहे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सुहास काय गोळा करतो?",
+      "answer": "वर्तमानपत्रातील कात्रणे गोळा करतो."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "answer": "वहीत चिकटवतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सुहासने काय तयार केले?",
+      "answer": "एक वाचनालय तयार केले."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मीना सुहासला काय देते?",
+      "answer": "पुस्तके देते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वाचनालयाचे नाव ‘आपले’ का आहे?",
+      "answer": "ते सर्वांसाठी आहे म्हणून."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वाचनालयातून काय वाढते?",
+      "answer": "वाचनाची आवड वाढते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रविवारी सगळे काय करतात?",
+      "answer": "भेटून वाचन करतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "वाचनाची सवय लावा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा वाचनालयाबद्दल आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सुहास काय गोळा करतो?",
+      "answer": "वर्तमानपत्रातील कात्रणे गोळा करतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "answer": "वहीत चिकटवतो."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सुहासने काय तयार केले?",
+      "answer": "एक वाचनालय तयार केले."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मीना सुहासला काय देते?",
+      "answer": "पुस्तके देते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वाचनालयाचे नाव ‘आपले’ का आहे?",
+      "answer": "ते सर्वांसाठी आहे म्हणून."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वाचनालयातून काय वाढते?",
+      "answer": "वाचनाची आवड वाढते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "रविवारी सगळे काय करतात?",
+      "answer": "भेटून वाचन करतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "वाचनाची सवय लावा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा वाचनालयाबद्दल आहे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सुहास काय गोळा करतो?",
+      "answer": "वर्तमानपत्रातील कात्रणे गोळा करतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "answer": "वहीत चिकटवतो."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "सुहासने काय तयार केले?",
+      "answer": "एक वाचनालय तयार केले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "मीना सुहासला काय देते?",
+      "answer": "पुस्तके देते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वाचनालयाचे नाव ‘आपले’ का आहे?",
+      "answer": "ते सर्वांसाठी आहे म्हणून."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वाचनालयातून काय वाढते?",
+      "answer": "वाचनाची आवड वाढते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "रविवारी सगळे काय करतात?",
+      "answer": "भेटून वाचन करतात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "वाचनाची सवय लावा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा वाचनालयाबद्दल आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सुहास काय गोळा करतो?",
+      "answer": "वर्तमानपत्रातील कात्रणे गोळा करतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "answer": "वहीत चिकटवतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "सुहासने काय तयार केले?",
+      "answer": "एक वाचनालय तयार केले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मीना सुहासला काय देते?",
+      "answer": "पुस्तके देते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "वाचनालयाचे नाव ‘आपले’ का आहे?",
+      "answer": "ते सर्वांसाठी आहे म्हणून."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "वाचनालयातून काय वाढते?",
+      "answer": "वाचनाची आवड वाढते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "रविवारी सगळे काय करतात?",
+      "answer": "भेटून वाचन करतात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "वाचनाची सवय लावा."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "‘आपले वाचनालय’ हा धडा कशाबद्दल आहे?",
+      "answer": "हा धडा वाचनालयाबद्दल आहे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "सुहास काय गोळा करतो?",
+      "answer": "वर्तमानपत्रातील कात्रणे गोळा करतो."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सुहास कात्रणांचे काय करतो?",
+      "answer": "वहीत चिकटवतो."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "सुहासने काय तयार केले?",
+      "answer": "एक वाचनालय तयार केले."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "मीना सुहासला काय देते?",
+      "answer": "पुस्तके देते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "वाचनालयाचे नाव ‘आपले’ का आहे?",
+      "answer": "ते सर्वांसाठी आहे म्हणून."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "वाचनालयातून काय वाढते?",
+      "answer": "वाचनाची आवड वाढते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "रविवारी सगळे काय करतात?",
+      "answer": "भेटून वाचन करतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणासाठी उपयुक्त आहे?",
+      "answer": "मुलांसाठी उपयुक्त आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "धड्याचा संदेश काय आहे?",
+      "answer": "वाचनाची सवय लावा."
+    }
+  ]
+}
