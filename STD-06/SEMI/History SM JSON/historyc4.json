@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "४",
-    "grade": "६",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "4",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "वैदिक संस्कृती"
   },
   "question_set": [

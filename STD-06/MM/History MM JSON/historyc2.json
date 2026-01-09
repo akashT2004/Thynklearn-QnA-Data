@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "02",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
+    "chapter_name": "इतिहासाची साधने"
+  },
+  "question_set": [
+    {
+      "question_number": 1,
+      "question_type": "बहुपर्यायी",
+      "question": "दैनंदिन जीवनात माणूस विविध प्रकारच्या कोणत्या गोष्टी वापरत असतो?",
+      "options": [
+        { "option_number": 1, "text": "वस्तू", "is_correct": true },
+        { "option_number": 2, "text": "विमाने", "is_correct": false },
+        { "option_number": 3, "text": "संगणक", "is_correct": false },
+        { "option_number": 4, "text": "मोबाईल", "is_correct": false }
+      ],
+      "answer": "वस्तू"
+    },
+    {
+      "question_number": 2,
+      "question_type": "बहुपर्यायी",
+      "question": "इतिहासाची साधने एकूण किती प्रकारची आहेत?",
+      "options": [
+        { "option_number": 1, "text": "दोन", "is_correct": false },
+        { "option_number": 2, "text": "चार", "is_correct": false },
+        { "option_number": 3, "text": "तीन", "is_correct": true },
+        { "option_number": 4, "text": "पाच", "is_correct": false }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_number": 3,
+      "question_type": "बहुपर्यायी",
+      "question": "किल्ले, लेणी आणि स्तूप यांना कोणती साधने म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "लिखित", "is_correct": false },
+        { "option_number": 2, "text": "भौतिक", "is_correct": true },
+        { "option_number": 3, "text": "मौखिक", "is_correct": false },
+        { "option_number": 4, "text": "आधुनिक", "is_correct": false }
+      ],
+      "answer": "भौतिक"
+    },
+    {
+      "question_number": 4,
+      "question_type": "बहुपर्यायी",
+      "question": "खापराच्या तुकड्यांचे आकार, रंग आणि नक्षी यांवरून ही भांडी कोणत्या काळातील असावी याचा काय बांधता येतो?",
+      "options": [
+        { "option_number": 1, "text": "नकाशा", "is_correct": false },
+        { "option_number": 2, "text": "चित्रे", "is_correct": false },
+        { "option_number": 3, "text": "अंदाज", "is_correct": true },
+        { "option_number": 4, "text": "खड्डा", "is_correct": false }
+      ],
+      "answer": "अंदाज"
+    },
+    {
+      "question_number": 5,
+      "question_type": "बहुपर्यायी",
+      "question": "पुरातन वस्तूंच्या आधारे कशाची माहिती मिळते?",
+      "options": [
+        { "option_number": 1, "text": "मानवी समाजाच्या परस्परसंबंधांची", "is_correct": true },
+        { "option_number": 2, "text": "ग्रहांची", "is_correct": false },
+        { "option_number": 3, "text": "प्राण्यांच्या भाषेची", "is_correct": false },
+        { "option_number": 4, "text": "फक्त हवामानाची", "is_correct": false }
+      ],
+      "answer": "मानवी समाजाच्या परस्परसंबंधांची"
+    },
+    {
+      "question_number": 6,
+      "question_type": "बहुपर्यायी",
+      "question": "पूर्वीच्या काळी लिहिण्यासाठी कशाचा वापर केला जात असे?",
+      "options": [
+        { "option_number": 1, "text": "कागद", "is_correct": false },
+        { "option_number": 2, "text": "खापर, झाडाची साल, भूर्जपत्रे", "is_correct": true },
+        { "option_number": 3, "text": "संगणक", "is_correct": false },
+        { "option_number": 4, "text": "पेन", "is_correct": false }
+      ],
+      "answer": "खापर, झाडाची साल, भूर्जपत्रे"
+    },
+    {
+      "question_number": 7,
+      "question_type": "बहुपर्यायी",
+      "question": "भूर्जपत्र हे कोणत्या झाडाच्या सालीपासून बनवले जाते?",
+      "options": [
+        { "option_number": 1, "text": "वड", "is_correct": false },
+        { "option_number": 2, "text": "पिंपळ", "is_correct": false },
+        { "option_number": 3, "text": "भूर्ज", "is_correct": true },
+        { "option_number": 4, "text": "नारळ", "is_correct": false }
+      ],
+      "answer": "भूर्ज"
+    },
+    {
+      "question_number": 8,
+      "question_type": "बहुपर्यायी",
+      "question": "भूर्ज वृक्ष प्रामुख्याने कोठे आढळतात?",
+      "options": [
+        { "option_number": 1, "text": "काश्मीर", "is_correct": true },
+        { "option_number": 2, "text": "महाराष्ट्र", "is_correct": false },
+        { "option_number": 3, "text": "केरळ", "is_correct": false },
+        { "option_number": 4, "text": "गुजरात", "is_correct": false }
+      ],
+      "answer": "काश्मीर"
+    },
+    {
+      "question_number": 9,
+      "question_type": "बहुपर्यायी",
+      "question": "दगडावर किंवा भिंतीवर कोरलेल्या लेखांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "ताम्रपट", "is_correct": false },
+        { "option_number": 2, "text": "शिलालेख", "is_correct": true },
+        { "option_number": 3, "text": "भूर्जपत्र", "is_correct": false },
+        { "option_number": 4, "text": "हस्तलिखित", "is_correct": false }
+      ],
+      "answer": "शिलालेख"
+    },
+    {
+      "question_number": 10,
+      "question_type": "बहुपर्यायी",
+      "question": "तांब्याच्या पत्र्यावर कोरलेल्या लेखांना काय म्हणतात?",
+      "options": [
+        { "option_number": 1, "text": "शिलालेख", "is_correct": false },
+        { "option_number": 2, "text": "भूर्जपत्र", "is_correct": false },
+        { "option_number": 3, "text": "ताम्रपट", "is_correct": true },
+        { "option_number": 4, "text": "पोथी", "is_correct": false }
+      ],
+      "answer": "ताम्रपट"
+    },
+    {
+      "question_number": 11,
+      "question_type": "बहुपर्यायी",
+      "question": "ओव्या, लोकगीते आणि लोककथा ही इतिहासाची कोणती साधने आहेत?",
+      "options": [
+        { "option_number": 1, "text": "लिखित", "is_correct": false },
+        { "option_number": 2, "text": "भौतिक", "is_correct": false },
+        { "option_number": 3, "text": "मौखिक", "is_correct": true },
+        { "option_number": 4, "text": "दृश्य", "is_correct": false }
+      ],
+      "answer": "मौखिक"
+    },
+    {
+      "question_number": 12,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन भारताचा इतिहास समजण्यासाठी कोणती साधने उपयुक्त ठरतात?",
+      "options": [
+        { "option_number": 1, "text": "केवळ नाणी", "is_correct": false },
+        { "option_number": 2, "text": "भौतिक, लिखित व मौखिक", "is_correct": true },
+        { "option_number": 3, "text": "केवळ मोबाईल ॲप्स", "is_correct": false },
+        { "option_number": 4, "text": "फक्त वर्तमानपत्रे", "is_correct": false }
+      ],
+      "answer": "भौतिक, लिखित व मौखिक"
+    },
+    {
+      "question_number": 13,
+      "question_type": "बहुपर्यायी",
+      "question": "जुन्या नाण्यांवरून आपल्याला कोणाची माहिती मिळते?",
+      "options": [
+        { "option_number": 1, "text": "राजे आणि त्यांचा काळ", "is_correct": true },
+        { "option_number": 2, "text": "फक्त खेळाडूंची", "is_correct": false },
+        { "option_number": 3, "text": "केवळ निसर्गाची", "is_correct": false },
+        { "option_number": 4, "text": "भविष्यातील घटनांची", "is_correct": false }
+      ],
+      "answer": "राजे आणि त्यांचा काळ"
+    },
+    {
+      "question_number": 14,
+      "question_type": "बहुपर्यायी",
+      "question": "इतिहास लेखनासाठी साधनांची काय करणे आवश्यक असते?",
+      "options": [
+        { "option_number": 1, "text": "विक्री", "is_correct": false },
+        { "option_number": 2, "text": "नक्कल", "is_correct": false },
+        { "option_number": 3, "text": "चिकित्सा (छाननी)", "is_correct": true },
+        { "option_number": 4, "text": "होळी", "is_correct": false }
+      ],
+      "answer": "चिकित्सा (छाननी)"
+    },
+    {
+      "question_number": 15,
+      "question_type": "बहुपर्यायी",
+      "question": "वेदांचे जतन प्रारंभीच्या काळात कशाद्वारे केले गेले?",
+      "options": [
+        { "option_number": 1, "text": "छापील पुस्तके", "is_correct": false },
+        { "option_number": 2, "text": "मौखिक परंपरा", "is_correct": true },
+        { "option_number": 3, "text": "ताम्रपट", "is_correct": false },
+        { "option_number": 4, "text": "ई-बुक्स", "is_correct": false }
+      ],
+      "answer": "मौखिक परंपरा"
+    },
+    {
+      "question_number": 16,
+      "question_type": "बहुपर्यायी",
+      "question": "अश्मयुगातील माणसाने आपले अनुभव कशाच्या स्वरूपात व्यक्त केले आहेत?",
+      "options": [
+        { "option_number": 1, "text": "व्हिडिओ", "is_correct": false },
+        { "option_number": 2, "text": "गुहाचित्रे", "is_correct": true },
+        { "option_number": 3, "text": "ईमेल", "is_correct": false },
+        { "option_number": 4, "text": "भाषण", "is_correct": false }
+      ],
+      "answer": "गुहाचित्रे"
+    },
+    {
+      "question_number": 17,
+      "question_type": "बहुपर्यायी",
+      "question": "खालीलपैकी कोणते भौतिक साधन नाही?",
+      "options": [
+        { "option_number": 1, "text": "नाणी", "is_correct": false },
+        { "option_number": 2, "text": "लेणी", "is_correct": false },
+        { "option_number": 3, "text": "ताम्रपट", "is_correct": false },
+        { "option_number": 4, "text": "लोककथा", "is_correct": true }
+      ],
+      "answer": "लोककथा"
+    },
+    {
+      "question_number": 18,
+      "question_type": "बहुपर्यायी",
+      "question": "जैन व बौद्ध साहित्यातून आपल्याला कशाची माहिती मिळते?",
+      "options": [
+        { "option_number": 1, "text": "प्राचीन समाजजीवन व परंपरा", "is_correct": true },
+        { "option_number": 2, "text": "फक्त गणिताची", "is_correct": false },
+        { "option_number": 3, "text": "केवळ विज्ञानाची", "is_correct": false },
+        { "option_number": 4, "text": "भविष्यवाणी", "is_correct": false }
+      ],
+      "answer": "प्राचीन समाजजीवन व परंपरा"
+    },
+    {
+      "question_number": 19,
+      "question_type": "बहुपर्यायी",
+      "question": "परकीय प्रवाशांनी लिहिलेली प्रवासवर्णने ही कोणत्या प्रकारची साधने आहेत?",
+      "options": [
+        { "option_number": 1, "text": "भौतिक", "is_correct": false },
+        { "option_number": 2, "text": "मौखिक", "is_correct": false },
+        { "option_number": 3, "text": "लिखित", "is_correct": true },
+        { "option_number": 4, "text": "सांस्कृतिक", "is_correct": false }
+      ],
+      "answer": "लिखित"
+    },
+    {
+      "question_number": 20,
+      "question_type": "बहुपर्यायी",
+      "question": "जातककथा कोणत्या धर्माच्या साहित्याचा भाग आहेत?",
+      "options": [
+        { "option_number": 1, "text": "बौद्ध", "is_correct": true },
+        { "option_number": 2, "text": "जैन", "is_correct": false },
+        { "option_number": 3, "text": "हिंदू", "is_correct": false },
+        { "option_number": 4, "text": "ख्रिश्चन", "is_correct": false }
+      ],
+      "answer": "बौद्ध"
+    },
+    {
+      "question_number": 21,
+      "question_type": "बहुपर्यायी",
+      "question": "इतिहासाचा कोणताही पुरावा केवळ जुना आहे म्हणून तो कसा नसावा?",
+      "options": [
+        { "option_number": 1, "text": "फेकून देण्याजोगा", "is_correct": false },
+        { "option_number": 2, "text": "विश्वासार्ह मानू नये", "is_correct": true },
+        { "option_number": 3, "text": "नव्याने लिहावा", "is_correct": false },
+        { "option_number": 4, "text": "विकत घेऊ नये", "is_correct": false }
+      ],
+      "answer": "विश्वासार्ह मानू नये"
+    },
+    {
+      "question_number": 22,
+      "question_type": "बहुपर्यायी",
+      "question": "ताम्रपटावर कोणाचे आदेश कोरलेले असत?",
+      "options": [
+        { "option_number": 1, "text": "शेतकऱ्यांचे", "is_correct": false },
+        { "option_number": 2, "text": "सैनिकांचे", "is_correct": false },
+        { "option_number": 3, "text": "राजांचे", "is_correct": true },
+        { "option_number": 4, "text": "मजुरांचे", "is_correct": false }
+      ],
+      "answer": "राजांचे"
+    },
+    {
+      "question_number": 23,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळातील दागदागिने हे कोणत्या प्रकारच्या साधनात येतात?",
+      "options": [
+        { "option_number": 1, "text": "भौतिक", "is_correct": true },
+        { "option_number": 2, "text": "लिखित", "is_correct": false },
+        { "option_number": 3, "text": "मौखिक", "is_correct": false },
+        { "option_number": 4, "text": "साहित्यिक", "is_correct": false }
+      ],
+      "answer": "भौतिक"
+    },
+    {
+      "question_number": 24,
+      "question_type": "बहुपर्यायी",
+      "question": "पवित्र ग्रंथ 'वेद' हे कोणत्या प्रकारचे साहित्य आहे?",
+      "options": [
+        { "option_number": 1, "text": "बौद्ध", "is_correct": false },
+        { "option_number": 2, "text": "जैन", "is_correct": false },
+        { "option_number": 3, "text": "वैदिक", "is_correct": true },
+        { "option_number": 4, "text": "आधुनिक", "is_correct": false }
+      ],
+      "answer": "वैदिक"
+    },
+    {
+      "question_number": 25,
+      "question_type": "बहुपर्यायी",
+      "question": "कोणत्या साधनाच्या मदतीने आपल्याला प्राचीन काळातील व्यापार समजतो?",
+      "options": [
+        { "option_number": 1, "text": "नाणी आणि वस्तू", "is_correct": true },
+        { "option_number": 2, "text": "ओव्या", "is_correct": false },
+        { "option_number": 3, "text": "गाणी", "is_correct": false },
+        { "option_number": 4, "text": "कविता", "is_correct": false }
+      ],
+      "answer": "नाणी आणि वस्तू"
+    },
+    {
+      "question_number": 26,
+      "question_type": "बहुपर्यायी",
+      "question": "पुराणग्रंथ हे इतिहासाच्या कोणत्या साधनाचे उदाहरण आहे?",
+      "options": [
+        { "option_number": 1, "text": "भौतिक", "is_correct": false },
+        { "option_number": 2, "text": "लिखित", "is_correct": true },
+        { "option_number": 3, "text": "मौखिक", "is_correct": false },
+        { "option_number": 4, "text": "दृश्य", "is_correct": false }
+      ],
+      "answer": "लिखित"
+    },
+    {
+      "question_number": 27,
+      "question_type": "बहुपर्यायी",
+      "question": "पुरातन अवशेषांच्या साहाय्याने इतिहासाची काय केली जाते?",
+      "options": [
+        { "option_number": 1, "text": "पुनर्मांडणी", "is_correct": true },
+        { "option_number": 2, "text": "फेकाफेक", "is_correct": false },
+        { "option_number": 3, "text": "साठवणूक", "is_correct": false },
+        { "option_number": 4, "text": "केवळ नोंद", "is_correct": false }
+      ],
+      "answer": "पुनर्मांडणी"
+    },
+    {
+      "question_number": 28,
+      "question_type": "बहुपर्यायी",
+      "question": "स्तूप म्हणजे काय?",
+      "options": [
+        { "option_number": 1, "text": "एक प्रकारचे ताम्रपट", "is_correct": false },
+        { "option_number": 2, "text": "विशिष्ट वास्तू/भौतिक साधन", "is_correct": true },
+        { "option_number": 3, "text": "एक प्रकारचे गाणे", "is_correct": false },
+        { "option_number": 4, "text": "पोथी", "is_correct": false }
+      ],
+      "answer": "विशिष्ट वास्तू/भौतिक साधन"
+    },
+    {
+      "question_number": 29,
+      "question_type": "बहुपर्यायी",
+      "question": "पोवाडे हे कोणत्या साधनाचे उदाहरण आहे?",
+      "options": [
+        { "option_number": 1, "text": "भौतिक", "is_correct": false },
+        { "option_number": 2, "text": "मौखिक", "is_correct": true },
+        { "option_number": 3, "text": "लिखित", "is_correct": false },
+        { "option_number": 4, "text": "ताम्रपट", "is_correct": false }
+      ],
+      "answer": "मौखिक"
+    },
+    {
+      "question_number": 30,
+      "question_type": "बहुपर्यायी",
+      "question": "भूर्जपत्र कोणत्या लिपीत लिहिले जात असे?",
+      "options": [
+        { "option_number": 1, "text": "इंग्रजी", "is_correct": false },
+        { "option_number": 2, "text": "देवनागरी किंवा प्राचीन लिपी", "is_correct": true },
+        { "option_number": 3, "text": "रोमन", "is_correct": false },
+        { "option_number": 4, "text": "मोडी", "is_correct": false }
+      ],
+      "answer": "देवनागरी किंवा प्राचीन लिपी"
+    },
+    {
+      "question_number": 31,
+      "question_type": "बहुपर्यायी",
+      "question": "प्राचीन काळातील घरांची रचना कशावरून समजते?",
+      "options": [
+        { "option_number": 1, "text": "जुने नकाशे", "is_correct": false },
+        { "option_number": 2, "text": "उत्खननात सापडलेले घरांचे अवशेष", "is_correct": true },
+        { "option_number": 3, "text": "केवळ गोष्टी", "is_correct": false },
+        { "option_number": 4, "text": "फोटो", "is_correct": false }
+      ],
+      "answer": "उत्खननात सापडलेले घरांचे अवशेष"
+    },
+    {
+      "question_number": 32,
+      "question_type": "बहुपर्यायी",
+      "question": "शिलालेखांचा उपयोग कशासाठी केला जात असे?",
+      "options": [
+        { "option_number": 1, "text": "घरे बांधण्यासाठी", "is_correct": false },
+        { "option_number": 2, "text": "कायदे किंवा राजाज्ञा कोरण्यासाठी", "is_correct": true },
+        { "option_number": 3, "text": "रांगोळी काढण्यासाठी", "is_correct": false },
+        { "option_number": 4, "text": "नाणी बनवण्यासाठी", "is_correct": false }
+      ],
+      "answer": "कायदे किंवा राजाज्ञा कोरण्यासाठी"
+    },
+    {
+      "question_number": 33,
+      "question_type": "बहुपर्यायी",
+      "question": "मौखिक साधने पिढ्यानपिढ्या कशी हस्तांतरित होतात?",
+      "options": [
+        { "option_number": 1, "text": "छापून", "is_correct": false },
+        { "option_number": 2, "text": "एकमेकांना सांगून (मुखोद्गत)", "is_correct": true },
+        { "option_number": 3, "text": "कोरून", "is_correct": false },
+        { "option_number": 4, "text": "फोटो काढून", "is_correct": false }
+      ],
+      "answer": "एकमेकांना सांगून (मुखोद्गत)"
+    },
+    {
+      "question_number": 34,
+      "question_type": "बहुपर्यायी",
+      "question": "भारताचा प्राचीन इतिहास साधारणतः कधीपासून कधीपर्यंतचा मानला जातो?",
+      "options": [
+        { "option_number": 1, "text": "अश्मयुगापासून आठव्या शतकापर्यंत", "is_correct": true },
+        { "option_number": 2, "text": "पंधरावे शतक", "is_correct": false },
+        { "option_number": 3, "text": "विसावे शतक", "is_correct": false },
+        { "option_number": 4, "text": "केवळ इसवी सन पूर्व", "is_correct": false }
+      ],
+      "answer": "अश्मयुगापासून आठव्या शतकापर्यंत"
+    },
+    {
+      "question_number": 35,
+      "question_type": "बहुपर्यायी",
+      "question": "मातीच्या भांड्यांवरील रंगावरून आपल्याला त्या काळातील कशाचा बोध होतो?",
+      "options": [
+        { "option_number": 1, "text": "कौशल्य व कला", "is_correct": true },
+        { "option_number": 2, "text": "किंमत", "is_correct": false },
+        { "option_number": 3, "text": "वजन", "is_correct": false },
+        { "option_number": 4, "text": "आकारमान", "is_correct": false }
+      ],
+      "answer": "कौशल्य व कला"
+    },
+    {
+      "question_number": 36,
+      "question_type": "बहुपर्यायी",
+      "question": "इतिहासाची विश्वासार्हता कशावर अवलंबून असते?",
+      "options": [
+        { "option_number": 1, "text": "केवळ पुराव्यावर", "is_correct": false },
+        { "option_number": 2, "text": "विविध पुराव्यांच्या छाननीवर", "is_correct": true },
+        { "option_number": 3, "text": "केवळ कल्पनेवर", "is_correct": false },
+        { "option_number": 4, "text": "केवळ लेखकावर", "is_correct": false }
+      ],
+      "answer": "विविध पुराव्यांच्या छाननीवर"
+    },
+    {
+      "question_number": 37,
+      "question_type": "बहुपर्यायी",
+      "question": "रामायण व महाभारत ही महाकाव्ये कोणत्या साधनात मोडतात?",
+      "options": [
+        { "option_number": 1, "text": "भौतिक", "is_correct": false },
+        { "option_number": 2, "text": "लिखित", "is_correct": true },
+        { "option_number": 3, "text": "आधुनिक", "is_correct": false },
+        { "option_number": 4, "text": "दगडी", "is_correct": false }
+      ],
+      "answer": "लिखित"
+    },
+    {
+      "question_number": 38,
+      "question_type": "बहुपर्यायी",
+      "question": "अश्मयुगीन मानवाचा इतिहास प्रामुख्याने कोणत्या साधनावरून समजतो?",
+      "options": [
+        { "option_number": 1, "text": "दगडी हत्यारे व वस्तू", "is_correct": true },
+        { "option_number": 2, "text": "वर्तमानपत्रे", "is_correct": false },
+        { "option_number": 3, "text": "मोडी लिपी", "is_correct": false },
+        { "option_number": 4, "text": "ताम्रपट", "is_correct": false }
+      ],
+      "answer": "दगडी हत्यारे व वस्तू"
+    },
+    {
+      "question_number": 39,
+      "question_type": "बहुपर्यायी",
+      "question": "कौटिल्याचा अर्थशास्त्र हा ग्रंथ कोणत्या प्रकारच्या माहितीसाठी प्रसिद्ध आहे?",
+      "options": [
+        { "option_number": 1, "text": "राज्यकारभार", "is_correct": true },
+        { "option_number": 2, "text": "स्वयंपाक", "is_correct": false },
+        { "option_number": 3, "text": "केवळ शेती", "is_correct": false },
+        { "option_number": 4, "text": "फक्त खेळ", "is_correct": false }
+      ],
+      "answer": "राज्यकारभार"
+    },
+    {
+      "question_number": 40,
+      "question_type": "बहुपर्यायी",
+      "question": "इतिहास लेखनात कशाला फार महत्त्व असते?",
+      "options": [
+        { "option_number": 1, "text": "चिकीत्सेला", "is_correct": true },
+        { "option_number": 2, "text": "गप्पांना", "is_correct": false },
+        { "option_number": 3, "text": "अफवांना", "is_correct": false },
+        { "option_number": 4, "text": "जाहिरातींना", "is_correct": false }
+      ],
+      "answer": "चिकीत्सेला"
+    },
+    {
+      "question_number": 41,
+      "question_type": "बहुपर्यायी",
+      "question": "भूर्जपत्रावर कशाच्या साहाय्याने लिहिले जात असे?",
+      "options": [
+        { "option_number": 1, "text": "नैसर्गिक रंग व टोकदार वस्तू", "is_correct": true },
+        { "option_number": 2, "text": "बॉल पेन", "is_correct": false },
+        { "option_number": 3, "text": "खडू", "is_correct": false },
+        { "option_number": 4, "text": "पेन्सिल", "is_correct": false }
+      ],
+      "answer": "नैसर्गिक रंग व टोकदार वस्तू"
+    },
+    {
+      "question_number": 42,
+      "question_type": "बहुपर्यायी",
+      "question": "प्रवासवर्णने लिहिणाऱ्या एका चिनी प्रवाशाचे नाव काय?",
+      "options": [
+        { "option_number": 1, "text": "फाहियान", "is_correct": true },
+        { "option_number": 2, "text": "कोलंबस", "is_correct": false },
+        { "option_number": 3, "text": "वास्को-द-गामा", "is_correct": false },
+        { "option_number": 4, "text": "नेपोलियन", "is_correct": false }
+      ],
+      "answer": "फाहियान"
+    },
+    {
+      "question_number": 43,
+      "question_type": "बहुपर्यायी",
+      "question": "भारतात सोन्याची नाणी कोणत्या राजवटीच्या काळात मोठ्या प्रमाणावर पाडली गेली?",
+      "options": [
+        { "option_number": 1, "text": "कुशाण व गुप्त", "is_correct": true },
+        { "option_number": 2, "text": "ब्रिटिश", "is_correct": false },
+        { "option_number": 3, "text": "पोर्तुगीज", "is_correct": false },
+        { "option_number": 4, "text": "मराठा", "is_correct": false }
+      ],
+      "answer": "कुशाण व गुप्त"
+    },
+    {
+      "question_number": 44,
+      "question_type": "बहुपर्यायी",
+      "question": "इतिहासाची साधने आपल्याला काय करण्यास मदत करतात?",
+      "options": [
+        { "option_number": 1, "text": "भूतकाळ समजून घेण्यास", "is_correct": true },
+        { "option_number": 2, "text": "पैसे कमवण्यास", "is_correct": false },
+        { "option_number": 3, "text": "भविष्य बदलण्यास", "is_correct": false },
+        { "option_number": 4, "text": "झोपण्यास", "is_correct": false }
+      ],
+      "answer": "भूतकाळ समजून घेण्यास"
+    },
+    {
+      "question_number": 45,
+      "question_type": "बहुपर्यायी",
+      "question": "शिलालेख प्रामुख्याने कोणत्या भाषेमध्ये आढळतात?",
+      "options": [
+        { "option_number": 1, "text": "प्राकृत व संस्कृत", "is_correct": true },
+        { "option_number": 2, "text": "फ्रेंच", "is_correct": false },
+        { "option_number": 3, "text": "जर्मन", "is_correct": false },
+        { "option_number": 4, "text": "स्पॅनिश", "is_correct": false }
+      ],
+      "answer": "प्राकृत व संस्कृत"
+    },
+    {
+      "question_number": 46,
+      "question_type": "बहुपर्यायी",
+      "question": "दैनंदिन व्यवहारातील माहिती लिखित साधनांमध्ये कधीपासून उपलब्ध आहे?",
+      "options": [
+        { "option_number": 1, "text": "लिपीचा विकास झाल्यावर", "is_correct": true },
+        { "option_number": 2, "text": "संगणक आल्यावर", "is_correct": false },
+        { "option_number": 3, "text": "स्वातंत्र्य मिळाल्यावर", "is_correct": false },
+        { "option_number": 4, "text": "कालच", "is_correct": false }
+      ],
+      "answer": "लिपीचा विकास झाल्यावर"
+    },
+    {
+      "question_number": 47,
+      "question_type": "बहुपर्यायी",
+      "question": "ताम्रपट कोरण्यासाठी कोणत्या धातूचा वापर केला जात असे?",
+      "options": [
+        { "option_number": 1, "text": "तांबे", "is_correct": true },
+        { "option_number": 2, "text": "प्लास्टिक", "is_correct": false },
+        { "option_number": 3, "text": "लाकूड", "is_correct": false },
+        { "option_number": 4, "text": "काच", "is_correct": false }
+      ],
+      "answer": "तांबे"
+    },
+    {
+      "question_number": 48,
+      "question_type": "बहुपर्यायी",
+      "question": "पुराणग्रंथ हे प्राचीन भारतीय कशाचे साठा मानले जातात?",
+      "options": [
+        { "option_number": 1, "text": "माहिती व संस्कृती", "is_correct": true },
+        { "option_number": 2, "text": "केवळ विटा", "is_correct": false },
+        { "option_number": 3, "text": "लोखंड", "is_correct": false },
+        { "option_number": 4, "text": "सोन्याचे साठे", "is_correct": false }
+      ],
+      "answer": "माहिती व संस्कृती"
+    },
+    {
+      "question_number": 49,
+      "question_type": "बहुपर्यायी",
+      "question": "ओवी हे कोणत्या प्रकारचे साधन आहे?",
+      "options": [
+        { "option_number": 1, "text": "भौतिक", "is_correct": false },
+        { "option_number": 2, "text": "मौखिक", "is_correct": true },
+        { "option_number": 3, "text": "लिखित", "is_correct": false },
+        { "option_number": 4, "text": "ताम्रपट", "is_correct": false }
+      ],
+      "answer": "मौखिक"
+    },
+    {
+      "question_number": 50,
+      "question_type": "बहुपर्यायी",
+      "question": "इतिहास लेखनात लेखकाचा काय महत्त्वाचा असतो?",
+      "options": [
+        { "option_number": 1, "text": "पक्षापातीपणा नसणे (तटस्थता)", "is_correct": true },
+        { "option_number": 2, "text": "खूप मोठा बंगला असणे", "is_correct": false },
+        { "option_number": 3, "text": "केवळ श्रीमंती", "is_correct": false },
+        { "option_number": 4, "text": "मोठा आवाज", "is_correct": false }
+      ],
+      "answer": "पक्षापातीपणा नसणे (तटस्थता)"
+    },
+    {
+      "question_number": 51,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाची साधने म्हणजे काय?",
+      "answer": "ज्या साधनांच्या मदतीने आपल्याला इतिहास समजतो, त्या साधनांना 'इतिहासाची साधने' म्हणतात."
+    },
+    {
+      "question_number": 52,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाच्या साधनांचे तीन मुख्य प्रकार कोणते?",
+      "answer": "भौतिक साधने, लिखित साधने आणि मौखिक साधने हे तीन मुख्य प्रकार आहेत."
+    },
+    {
+      "question_number": 53,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "भौतिक साधने म्हणजे काय?",
+      "answer": "माणसाने वापरलेल्या जुन्या वस्तू, वास्तू आणि त्यांचे अवशेष यांना भौतिक साधने म्हणतात."
+    },
+    {
+      "question_number": 54,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लिखित साधने म्हणजे काय?",
+      "answer": "विविध लिपींमध्ये कोरलेले किंवा लिहिलेले साहित्य म्हणजे लिखित साधने होय."
+    },
+    {
+      "question_number": 55,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मौखिक साधने म्हणजे काय?",
+      "answer": "ओव्या, लोकगीते, लोककथा यांसारखे साहित्य जे परंपरेने मुखोद्गत आहे, त्याला मौखिक साधने म्हणतात."
+    },
+    {
+      "question_number": 56,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "भूर्जपत्र म्हणजे काय?",
+      "answer": "भूर्ज वृक्षाच्या सालीपासून तयार केलेल्या लेखनाच्या साहित्याला भूर्जपत्र म्हणतात."
+    },
+    {
+      "question_number": 57,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "ताम्रपट कशाला म्हणतात?",
+      "answer": "तांब्याच्या पत्र्यावर कोरलेल्या लेखांना ताम्रपट म्हणतात."
+    },
+    {
+      "question_number": 58,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "शिलालेख म्हणजे काय?",
+      "answer": "दगडावर किंवा भिंतीवर कोरलेल्या लेखांना शिलालेख म्हणतात."
+    },
+    {
+      "question_number": 59,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहास कोणाला म्हणतात?",
+      "answer": "भूतकाळात घडलेल्या घटनांची सुसंगत मांडणी म्हणजे इतिहास होय."
+    },
+    {
+      "question_number": 60,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन काळातील कोणती नाणी सापडली आहेत?",
+      "answer": "प्राचीन काळी सोने, चांदी आणि तांब्याची नाणी पाडली जात असत."
+    },
+    {
+      "question_number": 61,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "जुन्या भांड्यांच्या तुकड्यांवरून काय समजते?",
+      "answer": "जुन्या भांड्यांच्या तुकड्यांवरून त्या काळातील लोकांची कला, संस्कृती आणि काळ यांचा अंदाज येतो."
+    },
+    {
+      "question_number": 62,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लिखित साधनांमध्ये कोणत्या विषयांचा समावेश होतो?",
+      "answer": "त्यात धार्मिक ग्रंथ, प्रवासवर्णने, राजांचे चरित्र, कायदे आणि पत्रव्यवहार यांचा समावेश होतो."
+    },
+    {
+      "question_number": 63,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मौखिक परंपरेने कोणते साहित्य जतन केले आहे?",
+      "answer": "वेदांचे तसेच लोकसाहित्याचे जतन मौखिक परंपरेने केले आहे."
+    },
+    {
+      "question_number": 64,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "उत्खनन म्हणजे काय?",
+      "answer": "जमिनीच्या खाली दबलेले पुरावे शोधण्यासाठी केलेले शास्त्रशुद्ध खोदकाम म्हणजे उत्खनन होय."
+    },
+    {
+      "question_number": 65,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन भारतातील काही महाकाव्यांची नावे सांगा.",
+      "answer": "रामायण आणि महाभारत ही प्राचीन भारतातील दोन प्रमुख महाकाव्ये आहेत."
+    },
+    {
+      "question_number": 66,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "भूर्ज वृक्ष कोठे आढळतात?",
+      "answer": "भूर्ज वृक्ष प्रामुख्याने काश्मीरमध्ये आढळतात."
+    },
+    {
+      "question_number": 67,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "ताम्रपटावर काय कोरलेले असते?",
+      "answer": "ताम्रपटावर राजांचे आदेश, दानपत्रे आणि विशेष घटना कोरलेल्या असतात."
+    },
+    {
+      "question_number": 68,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "पुरातन वस्तू म्हणजे काय?",
+      "answer": "जुन्या काळातील मानवाने वापरलेल्या वस्तू ज्या आजही अस्तित्वात आहेत, त्यांना पुरातन वस्तू म्हणतात."
+    },
+    {
+      "question_number": 69,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "ओव्या कोणाद्वारे गायल्या जातात?",
+      "answer": "ओव्या प्रामुख्याने स्त्रियांद्वारे घरकाम करताना गायल्या जातात."
+    },
+    {
+      "question_number": 70,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाच्या साधनांची छाननी का करावी लागते?",
+      "answer": "साधनांची सत्यता आणि विश्वासार्हता तपासण्यासाठी त्यांची छाननी करावी लागते."
+    },
+    {
+      "question_number": 71,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "दागदागिन्यांवरून कोणती माहिती मिळते?",
+      "answer": "दागदागिन्यांवरून त्या काळातील लोकांची आर्थिक स्थिती आणि सौंदर्याची आवड समजते."
+    },
+    {
+      "question_number": 72,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "स्तूप कोणाशी संबंधित आहेत?",
+      "answer": "स्तूप प्रामुख्याने बौद्ध धर्माशी आणि गौतम बुद्धांच्या स्मृतीशी संबंधित आहेत."
+    },
+    {
+      "question_number": 73,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "परकीय प्रवाशांनी भारतात येऊन काय केले?",
+      "answer": "परकीय प्रवाशांनी भारतातील जीवनाचे निरीक्षण करून प्रवासवर्णने लिहिली."
+    },
+    {
+      "question_number": 74,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहास लेखन म्हणजे काय?",
+      "answer": "उपलब्ध पुराव्यांच्या आधारे भूतकाळाची मांडणी करण्याच्या प्रक्रियेला इतिहास लेखन म्हणतात."
+    },
+    {
+      "question_number": 75,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "शिलालेखांमधील माहिती महत्त्वाची का असते?",
+      "answer": "कारण ती माहिती दगडावर कोरलेली असल्याने ती नष्ट होत नाही आणि अधिकृत असते."
+    },
+    {
+      "question_number": 76,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लोककथा म्हणजे काय?",
+      "answer": "एका पिढीकडून दुसऱ्या पिढीकडे तोंडी सांगत आलेल्या कथांना लोककथा म्हणतात."
+    },
+    {
+      "question_number": 77,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन काळातील घरांचे अवशेष कोठे सापडतात?",
+      "answer": "प्राचीन काळातील घरांचे अवशेष जमिनीखालील उत्खननात सापडतात."
+    },
+    {
+      "question_number": 78,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "जातककथांमधून काय शिकवण मिळते?",
+      "answer": "जातककथांमधून मानवी मूल्ये आणि सदाचाराची शिकवण मिळते."
+    },
+    {
+      "question_number": 79,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "वेदांचे स्वरूप प्रारंभी कसे होते?",
+      "answer": "वेदांचे स्वरूप प्रारंभी केवळ मौखिक होते, नंतर ते लिखित स्वरूपात आले."
+    },
+    {
+      "question_number": 80,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासकार म्हणजे कोण?",
+      "answer": "इतिहासाचा शास्त्रशुद्ध अभ्यास करून लेखन करणाऱ्या व्यक्तीला इतिहासकार म्हणतात."
+    },
+    {
+      "question_number": 81,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "पुरातत्वशास्त्र म्हणजे काय?",
+      "answer": "जमिनीखाली गाडल्या गेलेल्या अवशेषांचा अभ्यास करणाऱ्या शास्त्राला पुरातत्वशास्त्र म्हणतात."
+    },
+    {
+      "question_number": 82,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन काळातील नाण्यांवर कोणाची चित्रे असत?",
+      "answer": "नाण्यांवर राजे, देवदेवता किंवा धार्मिक चिन्हे यांची चित्रे असत."
+    },
+    {
+      "question_number": 83,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "पोथी म्हणजे काय?",
+      "answer": "हाताने लिहिलेले जुने धार्मिक ग्रंथ म्हणजे पोथी होय."
+    },
+    {
+      "question_number": 84,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "ताम्रपटांचा वापर कशासाठी केला जाई?",
+      "answer": "जमिनीचे दान देण्यासाठी किंवा राजाज्ञा प्रसिद्ध करण्यासाठी ताम्रपटांचा वापर केला जाई."
+    },
+    {
+      "question_number": 85,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लोकगीते म्हणजे काय?",
+      "answer": "लोकांमध्ये परंपरेने चालत आलेली आणि ग्रामीण भागात गायली जाणारी गाणी म्हणजे लोकगीते."
+    },
+    {
+      "question_number": 86,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाच्या साधनांचे वर्गीकरण कसे केले जाते?",
+      "answer": "त्यांच्या स्वरूपावरून भौतिक, लिखित आणि मौखिक असे वर्गीकरण केले जाते."
+    },
+    {
+      "question_number": 87,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "ऐतिहासिक कागदपत्रे म्हणजे काय?",
+      "answer": "राजांचा पत्रव्यवहार, रोजनिशी आणि सरकारी नोंदी म्हणजे ऐतिहासिक कागदपत्रे."
+    },
+    {
+      "question_number": 88,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "नाण्यांच्या अभ्यासाला काय म्हणतात?",
+      "answer": "नाण्यांच्या अभ्यासाला 'नाणेशास्त्र' म्हणतात."
+    },
+    {
+      "question_number": 89,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाचा लिखित पुरावा कधीपासून उपलब्ध होतो?",
+      "answer": "सुमारे ३५०० वर्षांपूर्वी जेव्हा लिपीचा विकास झाला, तेव्हापासून लिखित पुरावा उपलब्ध होतो."
+    },
+    {
+      "question_number": 90,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मंदिर आणि लेणी कोणत्या प्रकारच्या साधनांत मोडतात?",
+      "answer": "मंदिर आणि लेणी ही भौतिक साधने आहेत."
+    },
+    {
+      "question_number": 91,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "हस्तलिखित म्हणजे काय?",
+      "answer": "हाताने लिहिलेले जुने दस्तऐवज किंवा पुस्तके म्हणजे हस्तलिखिते."
+    },
+    {
+      "question_number": 92,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "अश्मयुगीन हत्यारे कशापासून बनवलेली असत?",
+      "answer": "अश्मयुगीन हत्यारे प्रामुख्याने दगडापासून बनवलेली असत."
+    },
+    {
+      "question_number": 93,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "स्मृतिग्रंथ म्हणजे काय?",
+      "answer": "प्राचीन काळातील नियम आणि परंपरा ज्या ग्रंथात लिहिल्या गेल्या आहेत, त्यांना स्मृतिग्रंथ म्हणतात."
+    },
+    {
+      "question_number": 94,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मणी आणि बांगड्या कोणत्या प्रकारची साधने आहेत?",
+      "answer": "मणी आणि बांगड्या ही भौतिक साधने आहेत."
+    },
+    {
+      "question_number": 95,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहास लेखनात कोणत्या गोष्टीला महत्त्व नसते?",
+      "answer": "इतिहास लेखनात केवळ कल्पनेला किंवा अफवांना महत्त्व नसते."
+    },
+    {
+      "question_number": 96,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन व्यापारासाठी कोणते मार्ग वापरले जात असत?",
+      "answer": "प्राचीन व्यापारासाठी खुष्कीचे (जमिनीवरील) आणि सागरी मार्ग वापरले जात असत."
+    },
+    {
+      "question_number": 97,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "जुन्या नाण्यांवरून राज्याचा विस्तार कसा समजतो?",
+      "answer": "ज्या ज्या भागात नाणी सापडतात, त्यावरून त्या राज्याचा प्रभाव क्षेत्र समजतो."
+    },
+    {
+      "question_number": 98,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "पोवाड्यांतून कशाचे वर्णन केले जाते?",
+      "answer": "पोवाड्यांतून शूरवीरांच्या पराक्रमाचे आणि युद्धांचे वर्णन केले जाते."
+    },
+    {
+      "question_number": 99,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाची विश्वासार्हता कोणामुळे टिकून राहते?",
+      "answer": "पुराव्यांच्या काटेकोर छाननीमुळे इतिहासाची विश्वासार्हता टिकून राहते."
+    },
+    {
+      "question_number": 100,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "आपण आपल्या घरातील जुन्या वस्तूंचे काय करावे?",
+      "answer": "जुन्या वस्तू वस्तुसंग्रहालयात जमा कराव्यात किंवा त्यांचे जतन करावे."
+    },
+    {
+      "question_number": 101,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "पुरातन अवशेषांची मांडणी करताना काय विचारात घेतले जाते?",
+      "answer": "अवशेषांची मांडणी करताना कालानुक्रम आणि उपलब्ध पुरावे विचारात घेतले जातात."
+    },
+    {
+      "question_number": 102,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन भारतातील लिपींचे काही प्रकार सांगा.",
+      "answer": "ब्राम्ही, खरोष्टी आणि मोडी यांसारख्या प्राचीन लिपी भारतात होत्या."
+    },
+    {
+      "question_number": 103,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "नाणी कोणत्या शास्त्राचा अभ्यास करण्यासाठी उपयोगी पडतात?",
+      "answer": "नाणी इतिहासाचा आणि अर्थशास्त्राचा अभ्यास करण्यासाठी उपयोगी पडतात."
+    },
+    {
+      "question_number": 104,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "गाणी आणि कथा मौखिक साधनांत का येतात?",
+      "answer": "कारण त्या लिखित नसून केवळ ऐकून आणि लक्षात ठेवून पुढच्या पिढीला दिल्या जातात."
+    },
+    {
+      "question_number": 105,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लिखित पुराव्यांची सत्यता कशी पडताळली जाते?",
+      "answer": "इतर साधनांशी तुलना करून आणि त्यातील मजकुराची छाननी करून सत्यता पडताळली जाते."
+    },
+    {
+      "question_number": 106,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "तांब्राचे पत्रे का वापरले जात असत?",
+      "answer": "कारण तांबे हा टिकाऊ धातू आहे आणि त्यावर कोरलेला मजकूर दीर्घकाळ राहतो."
+    },
+    {
+      "question_number": 107,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासामुळे आपल्याला कशाचा वारसा कळतो?",
+      "answer": "इतिहासामुळे आपल्याला आपल्या संस्कृतीचा आणि पूर्वजांच्या कार्याचा वारसा कळतो."
+    },
+    {
+      "question_number": 108,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मूर्ती आणि मंदिरे कोणत्या साधनाचे उदाहरण आहेत?",
+      "answer": "मूर्ती आणि मंदिरे ही भौतिक साधनांची उदाहरणे आहेत."
+    },
+    {
+      "question_number": 109,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "दैनंदिन व्यवहारातील पावत्या आणि नोंदी कशासाठी महत्त्वाच्या आहेत?",
+      "answer": "त्या ऐतिहासिक अभ्यासात आर्थिक घडामोडी समजून घेण्यासाठी महत्त्वाच्या असतात."
+    },
+    {
+      "question_number": 110,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "भूर्जपत्र कोणत्या वृक्षाच्या सालीपासून बनते?",
+      "answer": "भूर्जपत्र 'भूर्ज' या वृक्षाच्या सालीपासून बनते."
+    },
+    {
+      "question_number": 111,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "शिवाजी महाराजांच्या काळातील आज्ञापत्रे कोणत्या साधनात मोडतात?",
+      "answer": "ती लिखित साधने या प्रकारात मोडतात."
+    },
+    {
+      "question_number": 112,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "उत्खननातील सांगाड्यांवरून काय कळते?",
+      "answer": "त्या काळातील मानवाचे किंवा प्राण्यांचे आरोग्य आणि शरीररचना समजते."
+    },
+    {
+      "question_number": 113,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहास आपल्याला भविष्यासाठी काय देतो?",
+      "answer": "इतिहास आपल्याला भविष्यातील चुका टाळण्यासाठी धडा आणि प्रेरणा देतो."
+    },
+    {
+      "question_number": 114,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन नाणी संग्रहित करणे का आवश्यक आहे?",
+      "answer": "इतिहासाचा ठेवा जतन करण्यासाठी आणि अभ्यासासाठी नाणी संग्रहित करणे आवश्यक आहे."
+    },
+    {
+      "question_number": 115,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लेणी म्हणजे काय?",
+      "answer": "डोंगर कोरून तयार केलेले कोरीव काम आणि खोल्या म्हणजे लेणी."
+    },
+    {
+      "question_number": 116,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "कोणत्या साधनांमुळे इतिहासाला वैज्ञानिक आधार मिळतो?",
+      "answer": "भौतिक आणि पुरातात्विक साधनांमुळे इतिहासाला वैज्ञानिक आधार मिळतो."
+    },
+    {
+      "question_number": 117,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लोककला म्हणजे काय?",
+      "answer": "सामान्य लोकांमध्ये पिढ्यानपिढ्या चालत आलेली कला म्हणजे लोककला होय."
+    },
+    {
+      "question_number": 118,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाचा कोणताही स्रोत वापरताना कोणती खबरदारी घ्यावी?",
+      "answer": "तो स्रोत खोटा तर नाही ना किंवा त्यात अतिशयोक्ती तर नाही ना, याची खबरदारी घ्यावी."
+    },
+    {
+      "question_number": 119,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "शिलालेखांचा अभ्यास कशासाठी केला जातो?",
+      "answer": "तत्कालीन भाषा, लिपी आणि शासन पद्धती समजून घेण्यासाठी शिलालेखांचा अभ्यास केला जातो."
+    },
+    {
+      "question_number": 120,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाची साधने कोणासाठी उपयुक्त असतात?",
+      "answer": "इतिहासाची साधने संशोधक, विद्यार्थी आणि संपूर्ण समाज यांच्यासाठी उपयुक्त असतात."
+    },
+    {
+      "question_number": 121,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "किल्ल्यांवरून आपल्याला काय समजते?",
+      "answer": "किल्ल्यांवरून तत्कालीन संरक्षण व्यवस्था आणि युद्धनीती समजते."
+    },
+    {
+      "question_number": 122,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्रवासवर्णनांचे महत्त्व काय?",
+      "answer": "दुसऱ्या देशातून आलेल्या माणसाच्या नजरेतून आपला देश कसा होता, हे समजण्यास मदत होते."
+    },
+    {
+      "question_number": 123,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन काळातील हत्यारांवरून काय समजते?",
+      "answer": "त्या काळातील तंत्रज्ञान आणि शिकार करण्याच्या पद्धती समजतात."
+    },
+    {
+      "question_number": 124,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहास हा कोणत्या घटकांवर आधारित असतो?",
+      "answer": "इतिहास हा प्रामुख्याने स्थल, काल, व्यक्ती आणि समाज यांवर आधारित असतो."
+    },
+    {
+      "question_number": 125,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "वस्तू आणि वास्तू यांतला फरक काय?",
+      "answer": "वस्तू या हलवता येतात (उदा. नाणी), तर वास्तू या अचल असतात (उदा. किल्ले)."
+    },
+    {
+      "question_number": 126,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मौखिक साधने जतन करण्याचे आव्हान कोणते?",
+      "answer": "मौखिक साधने वेळेनुसार बदलू शकतात किंवा नष्ट होऊ शकतात, हे मोठे आव्हान आहे."
+    },
+    {
+      "question_number": 127,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "पुरातत्व खात्याचे काम काय असते?",
+      "answer": "ऐतिहासिक स्थळांचे उत्खनन करणे आणि प्राचीन वास्तूंचे जतन करणे हे पुरातत्व खात्याचे काम आहे."
+    },
+    {
+      "question_number": 128,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "जातककथा कशाशी संबंधित आहेत?",
+      "answer": "जातककथा गौतम बुद्धांच्या पूर्वजन्माशी संबंधित आहेत."
+    },
+    {
+      "question_number": 129,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहास लेखनात तटस्थता का महत्त्वाची आहे?",
+      "answer": "कारण कोणताही भेदभाव न करता सत्य इतिहास समोर येण्यासाठी तटस्थता आवश्यक आहे."
+    },
+    {
+      "question_number": 130,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इसवी सन म्हणजे काय?",
+      "answer": "येशू ख्रिस्तांच्या जन्मानंतर सुरू झालेल्या कालमापनाला 'इसवी सन' म्हणतात."
+    },
+    {
+      "question_number": 131,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन काळातील लिपी का महत्त्वाची असते?",
+      "answer": "कारण लिपीमुळे आपल्याला प्राचीन विचार आणि माहिती वाचता येते."
+    },
+    {
+      "question_number": 132,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "ऐतिहासिक स्थळांना भेट दिल्यास काय फायदा होतो?",
+      "answer": "तिथल्या साधनांमुळे आपल्याला इतिहास प्रत्यक्ष अनुभवता येतो."
+    },
+    {
+      "question_number": 133,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "ताम्रपट किती जुने असू शकतात?",
+      "answer": "भारतात १००० वर्षांहून अधिक जुने ताम्रपट आढळले आहेत."
+    },
+    {
+      "question_number": 134,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "हस्तलिखितांचे जतन कोठे केले जाते?",
+      "answer": "हस्तलिखितांचे जतन प्रामुख्याने वाचनालये आणि संग्रहालयांमध्ये केले जाते."
+    },
+    {
+      "question_number": 135,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मौखिक साधनांमुळे कोणत्या लोकांचा इतिहास कळतो?",
+      "answer": "ज्यांच्याकडे लेखनाची कला नव्हती, अशा सामान्य लोकांचा इतिहास मौखिक साधनांमुळे कळतो."
+    },
+    {
+      "question_number": 136,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासामुळे कोणती भावना जागृत होते?",
+      "answer": "इतिहासामुळे राष्ट्रभक्ती आणि आपल्या वारशाबद्दल अभिमानाची भावना जागृत होते."
+    },
+    {
+      "question_number": 137,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "नाणी कोणत्या धातूची बनलेली असतात?",
+      "answer": "नाणी सोने, चांदी, तांबे, निकेल यांसारख्या धातूंची बनलेली असतात."
+    },
+    {
+      "question_number": 138,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "धार्मिक साहित्यातून काय समजते?",
+      "answer": "धार्मिक साहित्यातून तत्कालीन श्रद्धा, विधी आणि समाजमन समजते."
+    },
+    {
+      "question_number": 139,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "उत्खननातील अवशेषांचे वय कसे मोजतात?",
+      "answer": "उत्खननातील अवशेषांचे वय 'कर्ब-१४' (Carbon-14) सारख्या शास्त्रीय पद्धतीने मोजतात."
+    },
+    {
+      "question_number": 140,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "लोककथा आणि इतिहास यांत काय फरक आहे?",
+      "answer": "लोककथा कल्पनेवर आधारित असू शकतात, तर इतिहास हा पुराव्यांवर आधारित असतो."
+    },
+    {
+      "question_number": 141,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "बौद्ध वाङ्मय कोणत्या भाषेत आहे?",
+      "answer": "बौद्ध वाङ्मय प्रामुख्याने पाली भाषेत आहे."
+    },
+    {
+      "question_number": 142,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाची भौतिक साधने टिकाऊ असतात का?",
+      "answer": "हो, दगड आणि नाणी यांसारखी भौतिक साधने दीर्घकाळ टिकतात."
+    },
+    {
+      "question_number": 143,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "नाण्यांवरची भाषा का महत्त्वाची असते?",
+      "answer": "त्यावरून त्या काळातील अधिकृत भाषेची माहिती मिळते."
+    },
+    {
+      "question_number": 144,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहास लेखनाचा उद्देश काय असतो?",
+      "answer": "सत्य घटना शोधणे आणि त्या पुढच्या पिढीपर्यंत पोहोचवणे हा उद्देश असतो."
+    },
+    {
+      "question_number": 145,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "वस्तुसंग्रहालय म्हणजे काय?",
+      "answer": "ऐतिहासिक वस्तूंचे प्रदर्शन आणि जतन करण्यासाठी असलेली जागा म्हणजे वस्तुसंग्रहालय."
+    },
+    {
+      "question_number": 146,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "प्राचीन काळातील लिपी शिकणे का गरजेचे आहे?",
+      "answer": "कारण त्यामुळे आपल्याला लिखित साधनांमधील गुपिते उकलता येतात."
+    },
+    {
+      "question_number": 147,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाची व्याप्ती कशी आहे?",
+      "answer": "इतिहास हा केवळ युद्धांचा नसून तो मानवी संस्कृतीच्या विकासाचा आहे."
+    },
+    {
+      "question_number": 148,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "मौखिक साहित्यातील ओवीचे महत्त्व सांगा.",
+      "answer": "ओव्यांतून कुटुंबाचे नातेसंबंध आणि ग्रामीण जीवनशैली प्रतिबिंबित होते."
+    },
+    {
+      "question_number": 149,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "शिलालेखांमुळे कोणत्या राजांची माहिती मिळाली आहे?",
+      "answer": "अशोक आणि चंद्रगुप्त यांसारख्या महान राजांची माहिती शिलालेखांमुळे मिळाली आहे."
+    },
+    {
+      "question_number": 150,
+      "question_type": "एक वाक्यात उत्तरे",
+      "question": "इतिहासाची साधने ही आपली काय आहे?",
+      "answer": "इतिहासाची साधने ही आपली सांस्कृतिक संपत्ती आहे."
+    }
+  ]
+}

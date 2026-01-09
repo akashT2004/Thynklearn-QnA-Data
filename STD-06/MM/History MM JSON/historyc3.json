@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "3",
-    "grade": "6",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "3",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "हडप्पा संस्कृती"
   },
   "question_set": [

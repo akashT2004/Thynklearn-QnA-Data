@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "१०",
-    "grade": "६",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "10",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "प्राचीन भारत : सांस्कृतिक"
   },
   "question_set": [

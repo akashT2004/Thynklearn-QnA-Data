@@ -1,7 +1,7 @@
 {
-  "chapter_info": {
-    "chapter_number": "8",
-    "grade": "6",
+  "chapter_metadata": {
+    "chapter_id": "8",
+    "standard": "6",
     "subject": "History",
     "medium": "Marathi",
     "chapter_name": "मौर्य साम्राज्यानंतरची राज्ये"

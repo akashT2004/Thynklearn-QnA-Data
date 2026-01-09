@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "२ (१३)",
-    "grade": "६",
-    "subject": "नागरिकशास्त्र",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "2(13)",
+    "standard": "6",
+    "subject": "Civics",
+    "medium": "Marathi",
     "chapter_name": "समाजातील विविधता"
   },
   "question_set": [

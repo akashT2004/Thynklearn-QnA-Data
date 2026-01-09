@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "५",
-    "grade": "६",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "5",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "प्राचीन भारतातील धार्मिक प्रवाह"
   },
   "question_set": [

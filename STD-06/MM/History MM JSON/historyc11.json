@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "११",
-    "grade": "६",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "11",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "प्राचीन भारत आणि जग"
   },
   "question_set": [

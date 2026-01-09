@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "५ (१६)",
-    "grade": "६",
-    "subject": "नागरिकशास्त्र",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "5(16)",
+    "standard": "6",
+    "subject": "Civics",
+    "medium": "Marathi",
     "chapter_name": "जिल्हा प्रशासन"
   },
   "question_set": [

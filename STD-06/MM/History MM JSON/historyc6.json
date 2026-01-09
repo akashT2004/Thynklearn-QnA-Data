@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "६",
-    "grade": "६",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "6",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "जनपदे आणि महाजनपदे"
   },
   "question_set": [

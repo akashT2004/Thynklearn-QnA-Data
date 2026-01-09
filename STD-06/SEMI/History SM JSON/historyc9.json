@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "9",
-    "grade": "6",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "9",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "दक्षिण भारतातील प्राचीन राज्ये"
   },
   "question_set": [

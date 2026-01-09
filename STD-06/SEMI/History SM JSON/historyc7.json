@@ -1,9 +1,9 @@
 {
-  "chapter_information": {
-    "chapter_number": "७",
-    "grade": "६",
-    "subject": "इतिहास",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_number": "7",
+    "standard": "6",
+    "subject": "History",
+    "medium": "Marathi",
     "chapter_name": "मौर्यकालीन भारत"
   },
   "question_set": [

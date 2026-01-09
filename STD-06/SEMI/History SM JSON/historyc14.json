@@ -1,9 +1,9 @@
 {
-  "chapter_info": {
-    "chapter_number": "३ (१४)",
-    "grade": "६",
-    "subject": "नागरिकशास्त्र",
-    "medium": "मराठी",
+  "chapter_metadata": {
+    "chapter_id": "3(14)",
+    "standard": "6",
+    "subject": "Civics",
+    "medium": "Marathi",
     "chapter_name": "ग्रामीण स्थानिक शासन संस्था"
   },
   "question_set": [
